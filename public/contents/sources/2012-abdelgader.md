@@ -1,0 +1,178 @@
+---
+type: source
+id: "138706"
+title: "Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan"
+author: "Ahmed Yass Abdelgader"
+year: 2012
+department: "Geosciences"
+degree: "MS"
+supervisor: "Mustafa M. Hariri"
+committee_members:
+  - "Mohammad H. Makkawi"
+  - "Osman Abdullatif"
+source_file: "raw/138706 - Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan.pdf"
+url: "https://eprints.kfupm.edu.sa/id/eprint/138706/"
+study_area: "Ruman area and surrounding basement outcrops, Melut basin, Southeast Sudan"
+keywords:
+  - Fractured basement reservoir
+  - Melut basin
+  - Fracture characterization
+  - Discrete Fracture Network (DFN)
+  - Hydrocarbon migration
+  - In-situ stress analysis
+  - Sudan
+  - 3D seismic data
+  - Formation Micro-Imager (FMI)
+  - gravity data
+  - satellite images
+  - Faults and fractures
+  - Seismic data
+  - Satellite imagery
+  - Well logs
+  - In-situ stress
+  - Well data
+  - Hydrocarbon
+  - Petroleum exploration
+techniques:
+  - gravity-data
+  - seismic-data
+  - satellite-images
+  - well-data
+  - fmi-log
+  - geostatistics
+  - reservoir-modeling
+  - borehole-imaging
+  - seismic-interpretation
+  - gravity-surveys
+  - gis
+  - petrography
+  - remote-sensing
+  - well-log-analysis
+  - image-log-analysis
+  - petrel
+  - gslib
+  - stereonet-analysis
+  - variogram-analysis
+  - sequential-gaussian-simulation
+  - fisher-model
+  - core-analysis
+tags:
+  - degree/ms
+  - formation/precambrian-basement
+  - location/melut-basin
+  - location/sudan
+  - technique/well-log-analysis
+  - technique/seismic-interpretation
+  - technique/geostatistics
+  - technique/petrel
+  - technique/borehole-imaging
+  - technique/gravity-surveys
+  - technique/gis
+  - technique/thin-section-petrography
+  - technique/remote-sensing
+  - technique/image-log-analysis
+  - technique/variogram-analysis
+  - theme/fracture-characterization
+  - theme/petrophysics
+  - theme/petroleum-geology-deposits
+  - theme/fractured-reservoirs
+  - terminology/porosity
+  - terminology/fractured-reservoirs
+  - terminology/fracture-characterization
+  - terminology/discrete-fracture-network
+status: ingested
+---
+
+# Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan
+
+**Summary**: The thesis characterizes a fractured basement reservoir in the Melut basin, Sudan, by integrating well data, seismic interpretation, and satellite imagery to model fracture networks. It utilizes geostatistical methods like Sequential Gaussian Simulation (SGS) and variogram analysis to construct a 3D Discrete Fracture Network (DFN) to evaluate fracture intensity and orientation.
+
+---
+
+## Research Problem
+
+The study addresses the challenge of characterizing complex fractured basement reservoirs in the Melut basin, where porosity and permeability are controlled by fractures rather than the rock matrix, necessitating advanced modeling techniques like DFN to understand reservoir potential and hydrocarbon migration pathways.
+
+## Objectives
+
+- Characterize and model fracture systems within the basement reservoir in the Ruman area.
+- Understand the origin, distribution, and connectivity of these fractures.
+- Determine the role of major faults in hydrocarbon migration.
+- Assess the current suitability of fractures/faults based on in-situ stress analysis.
+- Characterize and model the fracture system within the basement reservoir in Ruman area
+- Understand the origin, distribution, and connectivity of fractures
+- Map faults and fractures to quantify hydrocarbon potentiality
+- Identify fractures from subsurface data
+- Delineate fractures and lineaments from analogous basement outcrops
+- Quantify fracture properties including length, orientation, intensity, and connectivity
+- Determine the potential role of major faults in hydrocarbon migration
+- Assess the susceptibility of faults and fractures to dilation under current in-situ stress conditions
+- Identify and characterize fractures and lineaments from gravity data.
+- Analyze fault systems and orientations from 3D seismic data.
+- Map surface lineaments using satellite imagery as an analogue for subsurface features.
+- Evaluate fracture orientation and distribution in well logs (FMI).
+- Perform in-situ stress analysis to determine the impact of current stresses on fracture permeability.
+- Characterize fracture and fault systems within the basement using well data, seismic data, and satellite imagery.
+- Determine the orientation, length, and intensity of fractures in the Melut basin.
+- Develop a 3D Discrete Fracture Network (DFN) model to represent sub-seismic and seismic scale features.
+- Evaluate hydrocarbon migration pathways from source rocks into the basement structure.
+- Characterize the fracture networks and their role in hydrocarbon entrapment in the Melut basin basement rocks.
+- Evaluate the impact of fractures on reservoir quality (porosity and permeability) in fractured granitic, quartzite, and schist/gneiss formations.
+
+## Methods
+
+The study integrated multi-scale data: well logs for fracture orientation/intensity, seismic interpretation for large-scale faults, and satellite imagery for surface lineament analysis. Fracture intensity was calculated using a sliding triangular window (1m sampling, 5m window). Geostatistical modeling included variogram analysis to fit spherical models and Sequential Gaussian Simulation (SGS) via GSLIB for interpolating fracture intensities into a 3D grid. A DFN model was constructed by combining deterministic fault sets with stochastically modeled fracture sets using the Fisher model for orientation and power-law distributions for length.
+
+## Data and Materials
+
+Data includes: 1) Well core data from wells such as Ruman NE-1 (meta-sediments) and Ruman NNE-1; 2) Regional seismic data for structural mapping; 3) Satellite imagery for lineament detection; 4) Gravity and aeromagnetic survey data; 5) Stratigraphic logs of the Melut Basin including Al-Gayger, Al-Renk, Galhak, Melut, Samma, Yabus, Adar, Lau, Jimidi, Miadol, and Daga formations.
+
+## Key Findings
+
+- Fracture systems were identified as having four primary orientations: NW-SE, NNW-SSE to N-S, WNW-ESE to E-W, and NE-SW. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+- Faults detected from seismic data and fractures observed from FMI logs of five wells showed similar trends in orientation. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+- Three stages of fracture origin were identified: (1) cooling/emplacement of igneous plutons, (2) Proterozoic tectonic events, and (3) fault-related fractures from Melut basin rifting. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+- Fracture connectivity and distribution were quantified using geostatistical extrapolation and DFN modeling. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+- The basement rocks are primarily granodioritic gneiss dated to approximately 540 Ma ± 40 Ma. ([[2012-abdelgader|Abdelgader, 2012, p. 30]])
+- Petrographic analysis of Ruman N1 and N2 wells shows mineral composition of polycrystalline quartz, hornblende, K-feldspar, plagioclase, and biotite. ([[2012-abdelgader|Abdelgader, 2012, p. 36]])
+- The study area is located in the northwest part of the north Melut basin (Block 3&7). ([[2012-abdelgader|Abdelgader, 2012, p. 14]])
+- Gravity data provides information on deep sources like basement structure and shallow features like faults, dykes, and sills. ([[2012-abdelgader|Abdelgader, 2012, p. 20]])
+- The sedimentary cover of the Melut basin is primarily Mesozoic Nubian cycle clastics. ([[2012-abdelgader|Abdelgader, 2012, p. 27]])
+- Well Ruman NE-1 contains two complexes: meta-sediments (quartz-plagioclase-biotite-epidote Schist) at 1854m and meta-igneous rocks (gneissic biotite Granodiorite) at 2002m. ([[2012-abdelgader|Abdelgader, 2012, p. 37]])
+- Well Ruman NNE-1 contains a complex of rock meta-sediments interpreted as quartz-sericite Schist. ([[2012-abdelgader|Abdelgader, 2012, p. 39]])
+- The Melut Basin is an intra-continental Cretaceous-Tertiary rift basin formed due to strike-slip and associated pull-apart structures along the Central African Shear Zone (CASZ). ([[2012-abdelgader|Abdelgader, 2012, p. 43]])
+- Three regional correlative depositional cycles are identified in the Melut Basin, with boundaries marked by angular unconformities. ([[2012-abdelgader|Abdelgader, 2012, p. 43]])
+- The first rifting phase (130-96 Ma) resulted in the deposition of large lacustrine basins and thick sandstone deposits. ([[2012-abdelgader|Abdelgader, 2012, p. 45]])
+- The second rifting phase (96-75 Ma) was characterized by the deposition of lacustrine/floodplain claystones and siltstones, followed by a sand-rich sequence (Melut formation). ([[2012-abdelgader|Abdelgader, 2012, p. 45]])
+
+## Limitations
+
+The study notes that well data is limited to only five wells, which may limit the precision of the DFN model; more wells are recommended for future validation.
+
+## Recommendations and Future Work
+
+- Ground-truth satellite imagery lineaments through field work on basement outcrops.
+- Re-process seismic data using advanced techniques to better delineate subsurface fractures.
+- Drill additional wells in fault footwalls near Ruman N-2 to refine the DFN model.
+- Conduct geomechanical studies (stress and strain mapping) to predict fracture openness.
+
+## Related Concepts
+
+- [[well-log-analysis]]
+- [[seismic-interpretation]]
+- [[geostatistics]]
+- [[dfn-modeling]]
+- [[precambrian-basement]]
+- [[melut-basin]]
+- [[porosity]]
+- [[fracture-characterization]]
+- [[fmi]]
+- [[gravity-survey]]
+- [[thin-section-petrography]]
+- [[fractured-reservoirs]]
+- [[reservoir-characterization]]
+- [[petroleum-geology]]
+- [[gis]]
+- [[petrel]]
+- [[variogram-analysis]]
+- [[discrete-fracture-network]]

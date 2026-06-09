@@ -1,0 +1,64 @@
+{
+  "brand": {
+    "name": "GeoThesis",
+    "subtitle": "",
+    "tagline": "A curated archive of graduate theses in Geosciences Department, KFUPM.",
+    "institution": "King Fahd University of Petroleum and Minerals",
+    "siteTitle": "GeoThesis",
+    "siteDescription": "Explore graduate theses across geoscience topics."
+  },
+  "nav": {
+    "links": [
+      { "label": "Theses",   "to": "/theses" },
+      { "label": "Concepts", "to": "/concepts" },
+      { "label": "Advisors", "to": "/advisors" },
+      { "label": "Timeline", "to": "/timeline" },
+      { "label": "Trends",   "to": "/trends" },
+      { "label": "About",    "to": "/about" }
+    ]
+  },
+  "footer": {
+    "tagline": "A curated archive of graduate theses in Geosciences Department, KFUPM.",
+    "links": [
+      { "label": "About",    "to": "/about" },
+      { "label": "Graph",    "to": "/graph" },
+      { "label": "Timeline", "to": "/timeline" }
+    ],
+    "copyright": "© 2026",
+    "developedBy": {
+      "label": "Digital Geosciences",
+      "url": "https://digitalgeosciences.com"
+    }
+  },
+  "theme": {
+    "fonts": {
+      "display": "\"Playfair Display\", Georgia, serif",
+      "body": "Inter, system-ui, sans-serif",
+      "mono": "\"JetBrains Mono\", monospace",
+      "displayUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap",
+      "bodyUrl": ""
+    },
+    "sizes": {
+      "base": "16px"
+    },
+    "colors": {
+      "teal": "#1e6b8a",
+      "tealSoft": "#6b9aad"
+    }
+  },
+  "graph": {
+    "nodeColors": {
+      "concept": "#22c55e",
+      "thesis":  "#3b82f6",
+      "focused": "#f59e0b"
+    },
+    "linkOpacity": 0.25,
+    "linkWidth": 0.6
+  },
+  "home": {
+    "heroHeading": "Graduate reading room for geoscience discovery.",
+    "heroSubtext": "GeoThesis turns {thesisCount}+ thesis summaries into a navigable knowledge graph — connected by {conceptCount}+ shared concepts, formations, and methods.",
+    "featuredSort": "recent",
+    "featuredCount": 6
+  }
+}
