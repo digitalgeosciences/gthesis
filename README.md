@@ -168,4 +168,4 @@ Server runs on **port 3003**. Logs written to `./logs/`.
 
 ---
 
-Developed by [Digital Geosciences](https://digitalgeoscience.com)
+Developed by: [Digital Geosciences](https://digitalgeoscience.com)
