@@ -60,5 +60,11 @@
     "heroSubtext": "GeoThesis turns {thesisCount}+ thesis summaries into a navigable knowledge graph — connected by {conceptCount}+ shared concepts, formations, and methods.",
     "featuredSort": "recent",
     "featuredCount": 6
+  },
+  "announcement": {
+    "enabled": true,
+    "message": "This content was created with AI assistance. While we strive for accuracy, errors may occur. If you notice any inaccuracies, please contact us at info@digitalgeosciences.com",
+    "dismissible": true,
+    "version": "2026-06"
   }
 }

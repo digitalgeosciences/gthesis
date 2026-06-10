@@ -47,6 +47,14 @@ export interface SiteConfig {
     featuredSort: "recent" | "linked";
     featuredCount: number;
   };
+  announcement?: {
+    enabled: boolean;
+    message: string;
+    /** Show the X close button. Defaults to true. */
+    dismissible?: boolean;
+    /** Bump to re-show the banner to users who previously dismissed it. */
+    version?: string;
+  };
 }
 
 let _cached: SiteConfig | null = null;

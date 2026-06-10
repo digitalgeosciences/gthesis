@@ -1,6 +1,7 @@
 import { useEffect, useState, type ReactNode } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import { TopNav } from "./TopNav";
+import { AnnouncementBanner } from "./AnnouncementBanner";
 import { Footer } from "./Footer";
 import { CommandSearch } from "@/components/search/CommandSearch";
 import { useContentData } from "@/lib/use-content-data";
@@ -34,6 +35,7 @@ export function AppShell({ children }: { children: ReactNode }) {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <TopNav onOpenSearch={() => setSearchOpen(true)} />
+      <AnnouncementBanner />
       <main>{children}</main>
       <Footer />
       <CommandSearch open={searchOpen} onOpenChange={setSearchOpen} />
