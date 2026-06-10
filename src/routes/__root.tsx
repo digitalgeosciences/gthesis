@@ -12,8 +12,7 @@ import { type ReactNode } from "react";
 import appCss from "../styles.css?url";
 import { AppShell } from "@/components/layout/AppShell";
 import { ConfigStyleInjector } from "@/components/ConfigStyleInjector";
-import { initConfig, type SiteConfig } from "@/lib/use-config";
-import { loadConfig } from "@/lib/config-loader.server";
+import { useConfig } from "@/lib/use-config";
 
 function NotFoundComponent() {
   return (
@@ -65,7 +64,6 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
 }
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
-  loader: () => loadConfig(),
   head: () => ({
     meta: [
       { charSet: "utf-8" },
@@ -111,8 +109,9 @@ function RootShell({ children }: { children: ReactNode }) {
 
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
-  const config = Route.useLoaderData() as SiteConfig;
-  initConfig(config);
+  // Config is fetched client-side (static SPA — no SSR loader). useConfig()
+  // triggers the load and re-renders consumers once it resolves.
+  useConfig();
   return (
     <QueryClientProvider client={queryClient}>
       <ConfigStyleInjector />

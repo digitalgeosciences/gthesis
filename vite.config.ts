@@ -12,5 +12,7 @@ export default defineConfig({
   },
   tanstackStart: {
     server: { entry: "server" },
+    // Static SPA output for GitHub Pages (no Node server at runtime).
+    spa: { enabled: true },
   },
 });

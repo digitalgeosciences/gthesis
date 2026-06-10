@@ -1,17 +1,26 @@
-import { createServerFn } from "@tanstack/react-start";
-import { readdir, readFile } from "node:fs/promises";
-import { resolve, join } from "node:path";
+// Build-time content generator.
+//
+// GitHub Pages is static-only, so the runtime server functions that used to
+// read public/contents at request time can't run there. This script does the
+// same parsing at BUILD time and emits a single static JSON file
+// (public/content-index.json) that the client fetches. Keep the output shape
+// identical to what loadContentIndex() returned — buildIndex() consumes it
+// unchanged on the client.
+
+import { readdir, readFile, writeFile } from "node:fs/promises";
+import { resolve, join, dirname } from "node:path";
+import { fileURLToPath } from "node:url";
 import matter from "gray-matter";
-import type { Entry } from "./content";
 
-let serverCache: Record<string, Entry> | null = null;
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const root = resolve(__dirname, "..");
+const base = resolve(root, "public/contents");
+const outPath = resolve(root, "public/content-index.json");
 
-type RawEntry = Entry & { _sourceFile?: string; _sources?: string[] };
-
-async function loadBlockedIds(base: string): Promise<Set<string>> {
-  const blocked = new Set<string>();
+async function loadBlockedIds(baseDir) {
+  const blocked = new Set();
   try {
-    const raw = await readFile(join(base, "blocked.csv"), "utf8");
+    const raw = await readFile(join(baseDir, "blocked.csv"), "utf8");
     const [, ...lines] = raw.replace(/\r\n/g, "\n").split("\n");
     for (const line of lines) {
       if (!line.trim()) continue;
@@ -24,10 +33,10 @@ async function loadBlockedIds(base: string): Promise<Set<string>> {
   return blocked;
 }
 
-async function loadNameMap(base: string): Promise<Map<string, string>> {
-  const map = new Map<string, string>();
+async function loadNameMap(baseDir) {
+  const map = new Map();
   try {
-    const raw = await readFile(join(base, "supervisors.csv"), "utf8");
+    const raw = await readFile(join(baseDir, "supervisors.csv"), "utf8");
     const [, ...lines] = raw.replace(/\r\n/g, "\n").split("\n");
     for (const line of lines) {
       if (!line.trim()) continue;
@@ -53,59 +62,51 @@ async function loadNameMap(base: string): Promise<Map<string, string>> {
   return map;
 }
 
-function normalizeName(name: string, map: Map<string, string>): string {
+function normalizeName(name, map) {
   const trimmed = name.trim();
   return map.get(trimmed.toLowerCase()) ?? trimmed;
 }
 
-async function parseIndexSummaries(indexPath: string): Promise<Record<string, string>> {
-  let raw: string;
+async function parseIndexSummaries(indexPath) {
+  let raw;
   try {
     raw = await readFile(indexPath, "utf8");
   } catch {
     return {};
   }
-  const summaries: Record<string, string> = {};
+  const summaries = {};
   const pattern = /^- \[\[([^\]]+)\]\] — (.+)$/gm;
-  let m: RegExpExecArray | null;
+  let m;
   while ((m = pattern.exec(raw)) !== null) {
     summaries[m[1]] = m[2].trim();
   }
   return summaries;
 }
 
-async function parseDir(
-  dir: string,
-  entryType: "source" | "concept",
-  prefix: "sources" | "concepts",
-  blockedIds: Set<string> = new Set(),
-  category?: string,
-): Promise<Record<string, RawEntry>> {
-  let files: string[];
+async function parseDir(dir, entryType, prefix, blockedIds = new Set(), category) {
+  let files;
   try {
     files = await readdir(dir);
   } catch {
     return {};
   }
-  const entries: Record<string, RawEntry> = {};
+  const entries = {};
   await Promise.all(
     files
       .filter((f) => f.endsWith(".md"))
       .map(async (file) => {
         const slug = `${prefix}/${file.replace(/\.md$/, "")}`;
-        let fm: matter.GrayMatterFile<string>["data"];
-        let content: string;
+        let fm;
+        let content;
         try {
           const raw = await readFile(join(dir, file), "utf8");
           ({ data: fm, content } = matter(raw));
         } catch (err) {
-          // Malformed frontmatter (or unreadable file) — skip this entry so one
-          // bad file can't crash the entire content load.
-          console.error(`[GeoThesis] Skipping ${join(dir, file)}: ${(err as Error).message.split("\n")[0]}`);
+          console.error(`[GeoThesis] Skipping ${join(dir, file)}: ${err.message.split("\n")[0]}`);
           return;
         }
         if (fm.id && blockedIds.has(String(fm.id))) return;
-        const entry: RawEntry = {
+        const entry = {
           type: entryType,
           slug,
           title: String(fm.title ?? file.replace(/\.md$/, "").replace(/-/g, " ")),
@@ -135,8 +136,8 @@ async function parseDir(
   return entries;
 }
 
-function buildLinks(all: Record<string, RawEntry>): void {
-  const fileToSlug: Record<string, string> = {};
+function buildLinks(all) {
+  const fileToSlug = {};
   for (const [slug, e] of Object.entries(all)) {
     if (e.type === "source" && e._sourceFile) {
       fileToSlug[e._sourceFile] = slug;
@@ -158,7 +159,7 @@ function buildLinks(all: Record<string, RawEntry>): void {
   for (const [thesisSlug, e] of Object.entries(all)) {
     if (e.type !== "source" || !e.content) continue;
     wikiLinkRe.lastIndex = 0;
-    let m: RegExpExecArray | null;
+    let m;
     while ((m = wikiLinkRe.exec(e.content)) !== null) {
       const conceptSlug = `concepts/${m[1].trim()}`;
       if (all[conceptSlug]) {
@@ -174,10 +175,7 @@ function buildLinks(all: Record<string, RawEntry>): void {
   }
 }
 
-export const loadContentIndex = createServerFn({ method: "GET" }).handler(async () => {
-  if (serverCache) return serverCache;
-
-  const base = resolve(process.cwd(), "public/contents");
+async function main() {
   const [summaries, blockedIds, nameMap] = await Promise.all([
     parseIndexSummaries(join(base, "index.md")),
     loadBlockedIds(base),
@@ -193,7 +191,7 @@ export const loadContentIndex = createServerFn({ method: "GET" }).handler(async 
     ...conceptDirs.map((dir) => parseDir(join(base, dir), "concept", "concepts", new Set(), dir)),
   ]);
 
-  const all: Record<string, RawEntry> = Object.assign({}, sourcesEntries, ...conceptChunks);
+  const all = Object.assign({}, sourcesEntries, ...conceptChunks);
 
   // Normalize supervisor and committee names using supervisors.csv
   for (const entry of Object.values(all)) {
@@ -208,6 +206,17 @@ export const loadContentIndex = createServerFn({ method: "GET" }).handler(async 
 
   buildLinks(all);
 
-  serverCache = all as Record<string, Entry>;
-  return serverCache;
+  await writeFile(outPath, JSON.stringify(all), "utf8");
+  const counts = Object.values(all).reduce(
+    (acc, e) => ((acc[e.type] = (acc[e.type] ?? 0) + 1), acc),
+    {},
+  );
+  console.log(
+    `[GeoThesis] Wrote ${outPath} — ${counts.source ?? 0} sources, ${counts.concept ?? 0} concepts`,
+  );
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
 });
