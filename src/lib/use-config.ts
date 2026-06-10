@@ -50,10 +50,12 @@ export interface SiteConfig {
   announcement?: {
     enabled: boolean;
     message: string;
-    /** Show the X close button. Defaults to true. */
+    /** Show the X close button. Defaults to true. Dismissal lasts only until the next refresh. */
     dismissible?: boolean;
-    /** Bump to re-show the banner to users who previously dismissed it. */
-    version?: string;
+    /** Any CSS color (e.g. "#fef3c7", "rgb(...)", "var(--teal)"). Empty/omitted = theme default. */
+    background?: string;
+    textColor?: string;
+    linkColor?: string;
   };
 }
 

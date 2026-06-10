@@ -65,6 +65,8 @@
     "enabled": true,
     "message": "This content was created with AI assistance. While we strive for accuracy, errors may occur. If you notice any inaccuracies, please contact us at info@digitalgeosciences.com",
     "dismissible": true,
-    "version": "2026-06"
+    "background": "#fef3c7",
+    "textColor": "#92400e",
+    "linkColor": "#92400e"
   }
 }
