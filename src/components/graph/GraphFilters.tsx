@@ -28,6 +28,7 @@ export interface GraphFilterState {
   labelCategories: string[];
   showThesisLabels: boolean;
   labelType: "title" | "alias" | "all";
+  linkConcepts: boolean;
 }
 
 interface Props {
@@ -38,6 +39,7 @@ interface Props {
   onReset: () => void;
   thesisColor: string;
   filterHeight?: number;
+  onClose?: () => void;
 }
 
 export function GraphFilters({
@@ -47,6 +49,7 @@ export function GraphFilters({
   onReset,
   thesisColor,
   filterHeight = 680,
+  onClose,
 }: Props) {
   function set<K extends keyof GraphFilterState>(k: K, v: GraphFilterState[K]) {
     onChange({ ...filters, [k]: v });
@@ -68,12 +71,24 @@ export function GraphFilters({
           <Filter className="size-3.5" />
           Filters
         </span>
-        <button
-          onClick={onReset}
-          className="flex items-center gap-1 rounded px-1.5 py-0.5 text-xs text-muted-foreground hover:bg-muted hover:text-foreground"
-        >
-          <X className="size-3" /> Reset
-        </button>
+        <div className="flex items-center gap-1">
+          <button
+            onClick={onReset}
+            className="flex items-center gap-1 rounded px-1.5 py-0.5 text-xs text-muted-foreground hover:bg-muted hover:text-foreground"
+          >
+            <X className="size-3" /> Reset
+          </button>
+          {onClose && (
+            <button
+              onClick={onClose}
+              aria-label="Close filters"
+              title="Back to graph"
+              className="flex size-7 items-center justify-center rounded border rule text-muted-foreground hover:bg-muted hover:text-foreground"
+            >
+              <X className="size-4" />
+            </button>
+          )}
+        </div>
       </div>
 
       {/* Year range — dropdowns, at top */}
@@ -146,47 +161,6 @@ export function GraphFilters({
         ))}
       </div>
 
-      {/* Node size */}
-      <div className="space-y-1.5">
-        <span className="block text-xs font-medium tracking-wide text-muted-foreground">Node size</span>
-        <div className="flex items-center gap-2">
-          <span
-            title="Concept size"
-            className="inline-block rounded-sm flex-shrink-0 transition-all"
-            style={{ background: "#d97706", width: `${Math.round(6 * filters.conceptSizeMultiplier)}px`, height: `${Math.round(6 * filters.conceptSizeMultiplier)}px` }}
-          />
-          <div className="flex items-center gap-1 ml-auto">
-            <button
-              onClick={() => set("conceptSizeMultiplier", Math.max(0.5, +(filters.conceptSizeMultiplier - 0.5).toFixed(1)))}
-              className="flex size-6 items-center justify-center rounded border rule bg-card text-sm text-muted-foreground hover:text-foreground"
-            >−</button>
-            <span className="w-8 text-center font-mono text-xs">{filters.conceptSizeMultiplier}×</span>
-            <button
-              onClick={() => set("conceptSizeMultiplier", Math.min(3, +(filters.conceptSizeMultiplier + 0.5).toFixed(1)))}
-              className="flex size-6 items-center justify-center rounded border rule bg-card text-sm text-muted-foreground hover:text-foreground"
-            >+</button>
-          </div>
-        </div>
-        <div className="flex items-center gap-2">
-          <span
-            title="Thesis size"
-            className="inline-block rounded-full flex-shrink-0 transition-all"
-            style={{ background: thesisColor, width: `${Math.round(6 * filters.nodeSizeMultiplier)}px`, height: `${Math.round(6 * filters.nodeSizeMultiplier)}px` }}
-          />
-          <div className="flex items-center gap-1 ml-auto">
-            <button
-              onClick={() => set("nodeSizeMultiplier", Math.max(0.5, +(filters.nodeSizeMultiplier - 0.5).toFixed(1)))}
-              className="flex size-6 items-center justify-center rounded border rule bg-card text-sm text-muted-foreground hover:text-foreground"
-            >−</button>
-            <span className="w-8 text-center font-mono text-xs">{filters.nodeSizeMultiplier}×</span>
-            <button
-              onClick={() => set("nodeSizeMultiplier", Math.min(3, +(filters.nodeSizeMultiplier + 0.5).toFixed(1)))}
-              className="flex size-6 items-center justify-center rounded border rule bg-card text-sm text-muted-foreground hover:text-foreground"
-            >+</button>
-          </div>
-        </div>
-      </div>
-
       {/* Label style */}
       <div className="space-y-1.5">
         <div className="flex items-center justify-between">
@@ -202,6 +176,20 @@ export function GraphFilters({
           </select>
         </div>
       </div>
+
+      {/* Concept co-occurrence links */}
+      <label className="flex cursor-pointer items-start gap-2.5">
+        <input
+          type="checkbox"
+          checked={filters.linkConcepts}
+          onChange={(e) => set("linkConcepts", e.target.checked)}
+          className="mt-0.5 size-3.5 accent-[var(--teal)]"
+        />
+        <span>
+          <span className="block text-foreground">Link co-occurring concepts</span>
+          <span className="block text-xs text-muted-foreground">Connect concepts of different types cited by the same thesis.</span>
+        </span>
+      </label>
 
       {/* Link thickness */}
       <div className="space-y-1.5">

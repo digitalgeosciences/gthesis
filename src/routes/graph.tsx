@@ -59,6 +59,7 @@ function GraphPage() {
     labelCategories: [],
     showThesisLabels: false,
     labelType: "title",
+    linkConcepts: false,
   };
 
   const [filters, setFilters] = useState<GraphFilterState>(defaultFilters);
@@ -141,18 +142,21 @@ function GraphPage() {
               onReset={() => setFilters({ ...defaultFilters, yearMin: yearBounds[0], yearMax: yearBounds[1] })}
               thesisColor={thesisColor}
               filterHeight={filterHeight}
+              onClose={() => setFiltersVisible(false)}
             />
           </div>
         )}
         <div className="relative min-w-0 flex-1 bg-background">
-          <div className="absolute right-4 top-4 z-10 flex flex-col gap-2">
+          {!filtersVisible && (
             <button
-              onClick={() => setFiltersVisible(!filtersVisible)}
-              className="flex items-center justify-center rounded-md border rule bg-card/80 p-2 text-muted-foreground hover:bg-card hover:text-foreground backdrop-blur-sm shadow-sm"
-              title={filtersVisible ? "Hide filters" : "Show filters"}
+              onClick={() => setFiltersVisible(true)}
+              className="absolute left-4 top-4 z-10 flex items-center justify-center rounded-md border rule bg-card/80 p-2 text-muted-foreground hover:bg-card hover:text-foreground backdrop-blur-sm shadow-sm"
+              title="Show filters"
             >
               <Filter className="size-4" />
             </button>
+          )}
+          <div className="absolute right-4 top-4 z-10 flex flex-col gap-2">
             <button
               onClick={() => setFullscreen(!isFullscreen)}
               className="flex items-center justify-center rounded-md border rule bg-card/80 p-2 text-muted-foreground hover:bg-card hover:text-foreground backdrop-blur-sm shadow-sm"

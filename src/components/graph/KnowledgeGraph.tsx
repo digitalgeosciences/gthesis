@@ -118,9 +118,12 @@ export function KnowledgeGraph({
         id: e.slug,
         name: e.type === "source"
           ? `${extractLastName(e.author ?? e.title)}${e.year ? ` (${e.year})` : ""}`
-          : filters?.labelType === "alias"
-            ? (e.slug.split("/").pop() ?? e.slug)
-            : e.title,
+          : (() => {
+              const aliasSlug = e.slug.split("/").pop() ?? e.slug;
+              if (filters?.labelType === "alias") return aliasSlug;
+              if (filters?.labelType === "all") return `${e.title} · ${aliasSlug}`;
+              return e.title;
+            })(),
         type: e.type,
         year: e.year,
         category: e.category,
@@ -137,12 +140,20 @@ export function KnowledgeGraph({
       if (e.type === "source" && visibleIds.has(e.slug)) {
         const visibleConcepts = e.links.filter((l) => visibleIds.has(l));
         visibleConcepts.forEach((l) => computedLinks.push({ source: e.slug, target: l }));
-        for (let i = 0; i < visibleConcepts.length; i++) {
-          for (let j = i + 1; j < visibleConcepts.length; j++) {
-            const pair = [visibleConcepts[i], visibleConcepts[j]].sort().join("\0");
-            if (!seenConceptPairs.has(pair)) {
-              seenConceptPairs.add(pair);
-              computedLinks.push({ source: visibleConcepts[i], target: visibleConcepts[j] });
+        // Concept↔concept co-occurrence edges. Off by default, and only between
+        // concepts of *different* categories (same-category links are sibling
+        // noise, e.g. formation↛formation).
+        if (filters?.linkConcepts) {
+          for (let i = 0; i < visibleConcepts.length; i++) {
+            for (let j = i + 1; j < visibleConcepts.length; j++) {
+              const catI = data.bySlug[visibleConcepts[i]]?.category;
+              const catJ = data.bySlug[visibleConcepts[j]]?.category;
+              if (catI && catJ && catI === catJ) continue;
+              const pair = [visibleConcepts[i], visibleConcepts[j]].sort().join("\0");
+              if (!seenConceptPairs.has(pair)) {
+                seenConceptPairs.add(pair);
+                computedLinks.push({ source: visibleConcepts[i], target: visibleConcepts[j] });
+              }
             }
           }
         }
@@ -235,15 +246,12 @@ export function KnowledgeGraph({
             
             ctx.textAlign = "center";
             const r = Math.sqrt(n.val ?? 1) * 2;
-            const label = n.type === "concept"
-              ? n.name.toLowerCase().replace(/\s+/g, "-")
-              : n.name;
-            ctx.fillText(label, n.x, n.y + r + fontSize + 1);
+            // n.name already encodes the chosen label style (title / alias slug /
+            // both), so render it verbatim instead of force-slugifying concepts.
+            ctx.fillText(n.name, n.x, n.y + r + fontSize + 1);
             ctx.textAlign = "left";
           }}
-          nodeLabel={(n: GNode) =>
-            `${n.name}${n.type === "source" && n.year ? ` (${n.year})` : ""}`
-          }
+          nodeLabel={(n: GNode) => n.name}
           onNodeHover={(n) => setHoverNode(n || null)}
           onNodeClick={(n: GNode) => {
             if (selectedNode?.id === n.id) {
