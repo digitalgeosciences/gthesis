@@ -5,7 +5,7 @@ import { toTitleCase } from "@/lib/utils";
 import { PageLoader } from "@/components/ui/PageLoader";
 
 export const Route = createFileRoute("/timeline")({
-  head: () => ({ meta: [{ title: "Timeline — GeoThesis" }, { name: "description", content: "Three decades of KFUPM earth-sciences research, year by year." }] }),
+  head: () => ({ meta: [{ title: "Timeline — GeoThesis" }, { name: "description", content: "Three decades of KFUPM Geosciences research, year by year." }] }),
   component: TimelinePage,
 });
 
