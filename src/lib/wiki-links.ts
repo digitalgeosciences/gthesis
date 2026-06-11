@@ -8,6 +8,10 @@ function extractLastName(name: string): string {
   return parts[parts.length - 1];
 }
 
+// BASE_URL accounts for the GitHub Pages subpath (e.g. "/gthesis/"). Prepend it
+// so the plain anchors ReactMarkdown emits resolve to the deployed base, not root.
+const BASE = import.meta.env.BASE_URL.replace(/\/$/, "");
+
 export function resolveWikiLinks(
   markdown: string,
   bySlug: Record<string, Entry>,
@@ -17,17 +21,17 @@ export function resolveWikiLinks(
     const display = displayParts.join("|");
     const sourceEntry = bySlug[`sources/${slug}`];
     if (sourceEntry) {
-      if (display) return `[${display}](/theses/${slug})`;
+      if (display) return `[${display}](${BASE}/theses/${slug})`;
       const lastName = sourceEntry.author ? extractLastName(sourceEntry.author) : null;
       const year = sourceEntry.year ? `(${sourceEntry.year})` : null;
       const label = lastName
         ? `${lastName}${year ? ` ${year}` : ""}`
         : toTitleCase(sourceEntry.title);
-      return `[${label}](/theses/${slug})`;
+      return `[${label}](${BASE}/theses/${slug})`;
     }
     const conceptEntry = bySlug[`concepts/${slug}`];
     if (conceptEntry) {
-      return `[${display || conceptEntry.title}](/concepts/${slug})`;
+      return `[${display || conceptEntry.title}](${BASE}/concepts/${slug})`;
     }
     return display || slug;
   });
