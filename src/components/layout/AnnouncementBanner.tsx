@@ -2,25 +2,44 @@ import { useState } from "react";
 import { X } from "lucide-react";
 import { useConfig } from "@/lib/use-config";
 
-// Split a message into text and email segments so emails render as mailto links.
-const EMAIL_RE = /([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/g;
+// Split a message into text, email, and URL segments so emails render as
+// mailto links and http(s) URLs render as external links.
+const TOKEN_RE = /(https?:\/\/[^\s]+|[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/g;
 const isEmail = (s: string) => /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(s);
+const isUrl = (s: string) => /^https?:\/\//.test(s);
 
 function renderMessage(message: string, linkColor?: string) {
-  return message.split(EMAIL_RE).map((part, i) =>
-    isEmail(part) ? (
-      <a
-        key={i}
-        href={`mailto:${part}`}
-        className="font-medium text-[var(--teal)] underline underline-offset-2 hover:no-underline"
-        style={linkColor ? { color: linkColor } : undefined}
-      >
-        {part}
-      </a>
-    ) : (
-      <span key={i}>{part}</span>
-    ),
-  );
+  const linkClass =
+    "font-medium text-[var(--teal)] underline underline-offset-2 hover:no-underline";
+  return message.split(TOKEN_RE).map((part, i) => {
+    if (isEmail(part)) {
+      return (
+        <a
+          key={i}
+          href={`mailto:${part}`}
+          className={linkClass}
+          style={linkColor ? { color: linkColor } : undefined}
+        >
+          {part}
+        </a>
+      );
+    }
+    if (isUrl(part)) {
+      return (
+        <a
+          key={i}
+          href={part}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={linkClass}
+          style={linkColor ? { color: linkColor } : undefined}
+        >
+          {part}
+        </a>
+      );
+    }
+    return <span key={i}>{part}</span>;
+  });
 }
 
 export function AnnouncementBanner() {

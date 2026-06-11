@@ -29,7 +29,7 @@ The result is a research institution that can think about itself — and plan it
 ## Features
 
 ### Archive
-- **253+ thesis summaries** with full metadata: author, year, degree, supervisor, committee, concepts
+- **248+ thesis summaries** with full metadata: author, year, degree, supervisor, committee, concepts
 - **APA citation generation** with one-click copy
 - **Source links** to the KFUPM eprints repository
 - **Title case normalisation** — raw ALL-CAPS thesis titles are rendered in readable form
@@ -48,10 +48,14 @@ The result is a research institution that can think about itself — and plan it
 - Toggle labels per node type (concept labels / thesis labels independently)
 - Zoom in/out controls
 
-### Statistical Views (Graph page dropdown)
-- **Timeline** — MS, PhD, and total theses per year as a line chart
-- **By department** — stacked bar chart of thesis output per department
-- **MS vs PhD** — grouped bar chart comparing degree types year by year
+### Advisors
+- Supervisor and committee-member profile pages
+- Every thesis a person supervised, plus those they examined on a committee
+- Newest-first listing, grouped by role
+
+### Trends
+- Concept debut scatter — when each concept was first mentioned (horizontal) versus how many theses engage with it (vertical)
+- Click any point to open the concept; filter and label controls in a chart sidebar
 
 ### Concept Pages
 - Definition and context for each concept
@@ -79,7 +83,7 @@ All content and appearance is controlled through `public/contents/config.json`:
   },
   "footer": {
     "copyright": "© 2026",
-    "developedBy": { "label": "Digital Geosciences", "url": "https://digitalgeoscience.com" }
+    "developedBy": { "label": "Digital Geosciences", "url": "https://digitalgeosciences.com" }
   },
   "graph": {
     "nodeColors": { "concept": "#22c55e", "thesis": "#3b82f6", "focused": "#f59e0b" }
@@ -108,10 +112,16 @@ On each server restart the loader reads the CSV and normalises all `supervisor` 
 ```
 public/contents/
   sources/          ← one .md file per thesis (frontmatter + summary)
-  concepts/         ← one .md file per concept
+  formations/       ← concept pages: stratigraphic formations
+  locations/        ← concept pages: places and basins
+  techniques/       ← concept pages: methods and tools
+  terminology/      ← concept pages: domain terms
+  themes/           ← concept pages: research themes
   config.json       ← site-wide configuration
   supervisors.csv   ← name variant normalisation table
 ```
+
+The `formations/`, `locations/`, `techniques/`, `terminology/`, and `themes/` folders each hold one `.md` file per concept; together they make up the **Concepts** index and graph.
 
 ### Thesis frontmatter example
 
@@ -168,4 +178,4 @@ Server runs on **port 3003**. Logs written to `./logs/`.
 
 ---
 
-Developed by: [Digital Geosciences](https://digitalgeoscience.com)
+Developed by: [Digital Geosciences](https://digitalgeosciences.com)
