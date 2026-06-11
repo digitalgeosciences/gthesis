@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useContentData, useEntryContent } from "@/lib/use-content-data";
 import { similarTheses } from "@/lib/content";
 import { ConceptChip } from "@/components/concept/ConceptChip";
 import ReactMarkdown from "react-markdown";
@@ -71,6 +71,7 @@ export const Route = createFileRoute("/theses/$slug")({
 function ThesisDetail() {
   const { slug } = Route.useParams();
   const data = useContentData();
+  const body = useEntryContent(data ? `sources/${slug}` : undefined);
   const [copied, setCopied] = useState(false);
 
   if (!data) return <PageLoader />;
@@ -170,7 +171,7 @@ function ThesisDetail() {
 
       <div className="mt-10 prose-thesis">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>
-          {stripLeadingTitle(resolveWikiLinks(entry.content ?? entry.summary ?? "", data.bySlug), entry.title)}
+          {stripLeadingTitle(resolveWikiLinks(body ?? entry.summary ?? "", data.bySlug), entry.title)}
         </ReactMarkdown>
       </div>
 

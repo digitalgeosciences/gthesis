@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useContentData, useEntryContent } from "@/lib/use-content-data";
 import { resolveWikiLinks } from "@/lib/wiki-links";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -19,6 +19,7 @@ export const Route = createFileRoute("/concepts/$slug")({
 function ConceptDetail() {
   const { slug } = Route.useParams();
   const data = useContentData();
+  const body = useEntryContent(data ? `concepts/${slug}` : undefined);
   if (!data) return <PageLoader />;
   const entry = data.bySlug[`concepts/${slug}`];
   if (!entry) throw notFound();
@@ -41,7 +42,7 @@ function ConceptDetail() {
   }
 
   const resolved = stripSections(
-    resolveWikiLinks(entry.content ?? entry.summary ?? "", data.bySlug)
+    resolveWikiLinks(body ?? entry.summary ?? "", data.bySlug)
   ).trimEnd();
 
   return (

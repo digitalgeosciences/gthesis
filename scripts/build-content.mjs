@@ -7,7 +7,7 @@
 // identical to what loadContentIndex() returned — buildIndex() consumes it
 // unchanged on the client.
 
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, writeFile, mkdir, rm } from "node:fs/promises";
 import { resolve, join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import matter from "gray-matter";
@@ -16,6 +16,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
 const base = resolve(root, "public/contents");
 const outPath = resolve(root, "public/content-index.json");
+const bodyDir = resolve(root, "public/entry");
 
 async function loadNameMap(baseDir) {
   const map = new Map();
@@ -188,7 +189,27 @@ async function main() {
 
   buildLinks(all);
 
-  await writeFile(outPath, JSON.stringify(all), "utf8");
+  // Split the heavy markdown bodies out of the index. The index keeps only
+  // metadata (title, year, links, summary, …) so list/graph/search pages load
+  // a ~0.5MB file instead of ~4.5MB. Each entry's body goes to a per-slug file
+  // that the detail routes fetch on demand.
+  await rm(bodyDir, { recursive: true, force: true });
+  await Promise.all([
+    mkdir(join(bodyDir, "sources"), { recursive: true }),
+    mkdir(join(bodyDir, "concepts"), { recursive: true }),
+  ]);
+  const index = {};
+  await Promise.all(
+    Object.entries(all).map(async ([slug, entry]) => {
+      const { content, ...meta } = entry;
+      index[slug] = meta;
+      if (content) {
+        await writeFile(join(bodyDir, `${slug}.json`), JSON.stringify({ content }), "utf8");
+      }
+    }),
+  );
+
+  await writeFile(outPath, JSON.stringify(index), "utf8");
   const counts = Object.values(all).reduce(
     (acc, e) => ((acc[e.type] = (acc[e.type] ?? 0) + 1), acc),
     {},

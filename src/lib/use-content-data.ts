@@ -28,3 +28,41 @@ export function useContentData(): ContentIndex | null {
   }, []);
   return data;
 }
+
+const bodyCache = new Map<string, string>();
+
+// Fetch a single entry's markdown body on demand. Bodies live in per-slug files
+// (public/entry/<slug>.json) so the shared index stays metadata-only.
+function loadBody(slug: string): Promise<string> {
+  const hit = bodyCache.get(slug);
+  if (hit != null) return Promise.resolve(hit);
+  return fetch(`${import.meta.env.BASE_URL}entry/${slug}.json`)
+    .then((res) => (res.ok ? (res.json() as Promise<{ content: string }>) : { content: "" }))
+    .then(({ content }) => {
+      bodyCache.set(slug, content ?? "");
+      return content ?? "";
+    })
+    .catch(() => "");
+}
+
+export function useEntryContent(slug: string | undefined): string | null {
+  const [body, setBody] = useState<string | null>(slug ? bodyCache.get(slug) ?? null : "");
+  useEffect(() => {
+    if (!slug) {
+      setBody("");
+      return;
+    }
+    const cachedBody = bodyCache.get(slug);
+    if (cachedBody != null) {
+      setBody(cachedBody);
+      return;
+    }
+    let alive = true;
+    setBody(null);
+    loadBody(slug).then((c) => alive && setBody(c));
+    return () => {
+      alive = false;
+    };
+  }, [slug]);
+  return body;
+}
