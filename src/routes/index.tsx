@@ -9,7 +9,7 @@ import { PageLoader } from "@/components/ui/PageLoader";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "GeoThesis — KFUPM Earth Sciences Research Archive" },
+      { title: "GeoThesis — Geosciences Research Archive" },
       { name: "description", content: "Explore 200+ KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science." },
     ],
   }),

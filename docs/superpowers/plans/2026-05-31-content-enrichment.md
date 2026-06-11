@@ -42,7 +42,7 @@
       "subtitle": "KFUPM Research Archive",
       "tagline": "A curated archive of KFUPM graduate research in the earth sciences.",
       "institution": "King Fahd University of Petroleum and Minerals",
-      "siteTitle": "GeoThesis — KFUPM Earth Sciences Research Archive",
+      "siteTitle": "GeoThesis — Geosciences Research Archive",
       "siteDescription": "Explore KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science."
     },
     "nav": {
@@ -420,7 +420,7 @@ The current file imports and calls `reportLovableError` inside `ErrorComponent`.
       meta: [
         { charSet: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
-        { title: "GeoThesis — KFUPM Earth Sciences Research Archive" },
+        { title: "GeoThesis — Geosciences Research Archive" },
         { name: "description", content: "Explore KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science." },
         { property: "og:title", content: "GeoThesis" },
         { property: "og:description", content: "A curated archive of KFUPM graduate research in the earth sciences." },

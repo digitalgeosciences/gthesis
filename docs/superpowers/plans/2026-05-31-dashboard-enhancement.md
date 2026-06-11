@@ -197,7 +197,7 @@
       "subtitle": "KFUPM Research Archive",
       "tagline": "A curated archive of KFUPM graduate research in the earth sciences.",
       "institution": "King Fahd University of Petroleum and Minerals",
-      "siteTitle": "GeoThesis — KFUPM Earth Sciences Research Archive",
+      "siteTitle": "GeoThesis — Geosciences Research Archive",
       "siteDescription": "Explore 200+ KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science."
     },
     "nav": {
@@ -1083,7 +1083,7 @@
     head: () => ({
       meta: [
         { title: "Departments — GeoThesis" },
-        { name: "description", content: "Research output grouped by KFUPM earth-sciences departments." },
+        { name: "description", content: "Research output grouped by KFUPM Geosiences departments." },
       ],
     }),
     component: DeptsPage,
@@ -1212,7 +1212,7 @@
     head: () => ({
       meta: [
         { title: "Timeline — GeoThesis" },
-        { name: "description", content: "Three decades of KFUPM earth-sciences research, year by year." },
+        { name: "description", content: "Three decades of Geosciences research, year by year." },
       ],
     }),
     component: TimelinePage,
