@@ -56,8 +56,32 @@ sources:
   - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
   - "raw/140727 - Paleoecology and Paleoenvironmental Reconstruction of the Lower Silurian Qusaiba.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
+  - "raw/142387 - Preservation of Rock Samples Geochemical Investigation and Implication on Source.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Lithofacies
@@ -154,6 +178,54 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] used lithofacies to categorize the Dhruma Formation units.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] classified the Dhruma Formation into 15 lithofacies types.
+
+- [[2020-islam|Islam, 2020]] identified lithofacies in the Sarah Formation.
+
+- [[2020-usman|Usman, 2020]] categorized the source rocks into 12 lithofacies based on Chan et al. (2020).
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] characterized lithofacies using the Dunham classification.
+
+- [[2021-alqarni|Alqarni, 2021]] identified lithofacies to determine depositional environments.
+
+- [[2022-khan|Khan, 2022]] identified and classified various lithofacies in the core samples.
+
+- [[2022-septriandi|Septriandi, 2022]] identified 12 lithofacies in the Jubaila Formation based on texture and sedimentary features.
+
+- [[2022-stiawan|Stiawan, 2022]] classified the rocks into three lithofacies based on texture and composition.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] analyzed the impact of lithofacies on pore systems and mechanical properties.
+
+- [[2022-bashri|Bashri, 2022]] identified nine sedimentary lithofacies in the Hanifa Formation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] characterized the lithofacies of the carbonate outcrops.
+
+- [[2022-babker|Babker, 2022]] characterized 10 distinct lithofacies in the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] characterized lithofacies to identify sedimentary environments in the Al Wajh Formation.
+
+- [[2023-kusuma|Kusuma, 2023]] used lithofacies as a primary categorical variable for 1D and 3D modeling.
+
+- [[2023-al-eid|Al-Eid, 2023]] identified lithofacies to explain fluctuations in pyrolysis results.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used XRD to determine the mineralogical composition of different facies within the zone.
+
+- [[2024-abdrabo|Abdrabo, 2024]] classified the rocks into five distinct lithofacies (LF1-LF5) to characterize heterogeneity.
+
+- [[2024-yusmananto|Yusmananto, 2024]] correlated petrophysical groups with geological facies to determine reservoir quality.
+
+- [[2024-malik|Malik, 2024]] defined nine lithofacies to categorize the Dhaiqa Basin sediments.
+
+- [[2024-fahmi|Fahmi, 2024]] analyzed facies to determine the depositional environment of the Marrat Formation.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] not used
+
+- [[2025-ahmed|Ahmed, 2025]] analyzed lithofacies to understand the heterogeneity of the Minjur Sandstone.
+
+- [[1992-abdulghani|Abdulghani, 1992]] used lithofacies to interpret paleo-environmental conditions.
+
+- [[1999-babalola|Babalola, 1999]] characterized the lithofacies of the Wajid Sandstone.
+
 ## Scientific Context
 
 - [[1997-al-qassab|Al-Qassab, 1997]] Lithofacies define the geological framework within which petrophysical properties are distributed.
@@ -241,6 +313,54 @@ last_updated: 2026-06-09
 - [[2018-perdana|Perdana, 2018]] identified four siliciclastic lithofacies in the Qusaiba outcrop.
 
 - [[2018-ismanto|Ismanto, 2018]] used lithofacies to categorize the Dhruma Formation units.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] classified the Dhruma Formation into 15 lithofacies types.
+
+- [[2020-islam|Islam, 2020]] identified lithofacies in the Sarah Formation.
+
+- [[2020-usman|Usman, 2020]] categorized the source rocks into 12 lithofacies based on Chan et al. (2020).
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] characterized lithofacies using the Dunham classification.
+
+- [[2021-alqarni|Alqarni, 2021]] identified lithofacies to determine depositional environments.
+
+- [[2022-khan|Khan, 2022]] identified and classified various lithofacies in the core samples.
+
+- [[2022-septriandi|Septriandi, 2022]] identified 12 lithofacies in the Jubaila Formation based on texture and sedimentary features.
+
+- [[2022-stiawan|Stiawan, 2022]] classified the rocks into three lithofacies based on texture and composition.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] analyzed the impact of lithofacies on pore systems and mechanical properties.
+
+- [[2022-bashri|Bashri, 2022]] identified nine sedimentary lithofacies in the Hanifa Formation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] characterized the lithofacies of the carbonate outcrops.
+
+- [[2022-babker|Babker, 2022]] characterized 10 distinct lithofacies in the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] characterized lithofacies to identify sedimentary environments in the Al Wajh Formation.
+
+- [[2023-kusuma|Kusuma, 2023]] used lithofacies as a primary categorical variable for 1D and 3D modeling.
+
+- [[2023-al-eid|Al-Eid, 2023]] identified lithofacies to explain fluctuations in pyrolysis results.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used XRD to determine the mineralogical composition of different facies within the zone.
+
+- [[2024-abdrabo|Abdrabo, 2024]] classified the rocks into five distinct lithofacies (LF1-LF5) to characterize heterogeneity.
+
+- [[2024-yusmananto|Yusmananto, 2024]] correlated petrophysical groups with geological facies to determine reservoir quality.
+
+- [[2024-malik|Malik, 2024]] defined nine lithofacies to categorize the Dhaiqa Basin sediments.
+
+- [[2024-fahmi|Fahmi, 2024]] analyzed facies to determine the depositional environment of the Marrat Formation.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] not used
+
+- [[2025-ahmed|Ahmed, 2025]] analyzed lithofacies to understand the heterogeneity of the Minjur Sandstone.
+
+- [[1992-abdulghani|Abdulghani, 1992]] used lithofacies to interpret paleo-environmental conditions.
+
+- [[1999-babalola|Babalola, 1999]] characterized the lithofacies of the Wajid Sandstone.
 
 ## Measurement and Characterization Methods
 
@@ -333,6 +453,54 @@ last_updated: 2026-06-09
 - Lithofacies Mdg was identified as clay-rich argillaceous mudstone to silica-rich argillaceous mudstone. ([[2018-perdana|Perdana, 2018, p. 45]])
 
 - Identified several types including ooid-bearing limestone and packstone with bioclasts/peloids. ([[2018-ismanto|Ismanto, 2018, p. 18]])
+
+- Defined 15 distinct lithofacies (LFT1-LFT15) to characterize depositional environments. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 46]])
+
+- Two main facies associations were identified: FA1 (Subglacial Diamictite) and FA2 (Glacial Outwash to fluvial braided channel). ([[2020-islam|Islam, 2020, p. 34]])
+
+- Lithofacies 4 and 7 were identified as good to excellent source-rock lithofacies. ([[2020-usman|Usman, 2020, p. 60]])
+
+- Identified eight lithofacies in the Upper Jurassic Arab-D reservoir. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 29]])
+
+- Identified several facies including LA, MS, FS, PLS, SSD, CP, and HAPS. ([[2021-alqarni|Alqarni, 2021, p. 45]])
+
+- Identified 13 distinct lithofacies including oolitic grainstone and quartz sandstone. ([[2022-khan|Khan, 2022, p. 51]])
+
+- Twelve distinct lithofacies were identified (LF 1-12) representing a range from carbonate-rich to silica-rich mudstones. ([[2022-septriandi|Septriandi, 2022, p. 40]])
+
+- Lithofacies 1: Stromatoporoid packstone; Lithofacies 2: Dolomitic wackestone; Lithofacies 3: Dolomitic mudstone. ([[2022-stiawan|Stiawan, 2022, p. 33]])
+
+- Seven lithofacies were identified in the Qusaiba Member, interpreted as storm-wave dominated deposits. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 24]])
+
+- Nine lithofacies were grouped into four facies associations (FA1-FA4). ([[2022-bashri|Bashri, 2022, p. 19]])
+
+- Identified distinct lithofacies such as reefal carbonates and siliciclastic layers. ([[2022-al-sadah|Al-Sadah, 2022, p. 45]])
+
+- Ten major lithofacies (LFA-1 to LFA-10) were identified. ([[2022-babker|Babker, 2022, p. 14]])
+
+- Eleven distinct lithofacies (F1-F11) were identified across four subbasins. ([[2023-butt|Butt, 2023, p. 64]])
+
+- Facies classification was performed using K-means clustering (KMC) to resolve inconsistencies in original labels. ([[2023-kusuma|Kusuma, 2023, p. 20]])
+
+- Fluctuations in pyrolysis parameters are most likely due to lateral changes in microfacies. ([[2023-al-eid|Al-Eid, 2023, p. 13]])
+
+- Sample 1 is rich in dolomite (73.4%) while Sample 2 is high in calcite (96.8%). ([[2023-alshaibani|AlShaibani, 2023, p. 10]])
+
+- Lithofacies LF1 is characterized as massive, sparsely bioturbated mudstone. ([[2024-abdrabo|Abdrabo, 2024, p. 32]])
+
+- Grain-dominated facies showed a 60-75% correlation with good reservoir quality. ([[2024-yusmananto|Yusmananto, 2024, p. 116]])
+
+- Identified 9 distinct lithofacies (F1-F8) based on mineralogy, texture, and grain size. ([[2024-malik|Malik, 2024, p. 39]])
+
+- The sediment classes were classified into a depositional facies model (terrestrial, deltaic and shoreface, offshore prodelta and carbonate lagoon). ([[2024-fahmi|Fahmi, 2024, p. 58]])
+
+- Not stated in source. ([[2025-kesumastuti|Kesumastuti, 2025]])
+
+- Five lithofacies classes were discerned based on their textures, porosity, and permeability. ([[2025-ahmed|Ahmed, 2025, p. 38]])
+
+- Two distinct microfacies were identified that are used to interpret both age and paleo-environment. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+
+- Identified distinct lithofacies in the Red and Grey units based on sedimentary structures. ([[1999-babalola|Babalola, 1999, p. 32]])
 
 ## Contrasting Values and Interpretations
 

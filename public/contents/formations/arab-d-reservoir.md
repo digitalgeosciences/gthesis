@@ -19,8 +19,11 @@ sources:
   - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
   - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Arab-D Reservoir
@@ -43,6 +46,12 @@ last_updated: 2026-06-09
 
 - [[2016-ali|Ali, 2016]] Referenced in this thesis.
 
+- [[2022-stiawan|Stiawan, 2022]] used the Arab-D reservoir as the primary subsurface target for the outcrop study.
+
+- [[2024-felemban|Felemban, 2024]] used the Arab formation as one of three primary targets for depth conversion analysis.
+
+- [[1992-abdulghani|Abdulghani, 1992]] studied the Arab-D Limestone Member to evaluate its role as a primary reservoir.
+
 ## Depositional Environment
 
 - [[2002-ibrahim|Ibrahim, 2002]] shallow marine carbonate platform
@@ -56,6 +65,12 @@ last_updated: 2026-06-09
 - [[2015-abdlmutalib|Abdlmutalib, 2015]] studied the Arab-D member as a primary target for geomechanical and fracture analysis.
 
 - [[2016-ali|Ali, 2016]] Referenced in this thesis.
+
+- [[2022-stiawan|Stiawan, 2022]] used the Arab-D reservoir as the primary subsurface target for the outcrop study.
+
+- [[2024-felemban|Felemban, 2024]] used the Arab formation as one of three primary targets for depth conversion analysis.
+
+- [[1992-abdulghani|Abdulghani, 1992]] studied the Arab-D Limestone Member to evaluate its role as a primary reservoir.
 
 ## Reservoir Properties
 
@@ -74,6 +89,12 @@ last_updated: 2026-06-09
 - Characterized by deep to shallow lagoonal settings with five distinct fracture sets. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 14]])
 
 - Referenced in this thesis. ([[2016-ali|Ali, 2016]])
+
+- The Jubaila Formation serves as a viable analogue due to similar pore systems and mineralogy. ([[2022-stiawan|Stiawan, 2022, p. 109]])
+
+- The study evaluated the impact of offset on the accuracy of determining the depth of the Arab reflector. ([[2024-felemban|Felemban, 2024, p. 11]])
+
+- The unit comprises two shoaling upward cycles deposited during a relatively high sea level stand, characterized by skeletal grainstones and packstones with ooids and peloids. ([[1992-abdulghani|Abdulghani, 1992, p. 21]])
 
 ## Conflicting Interpretations Across Sources
 

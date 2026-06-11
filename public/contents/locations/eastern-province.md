@@ -33,8 +33,24 @@ sources:
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
+  - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
+  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
+  - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
+  - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
+  - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
+  - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
+  - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
+  - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Eastern Province
@@ -93,6 +109,38 @@ last_updated: 2026-06-09
 
 - [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province to assess aquifer sustainability.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] located in the eastern-province to study aeolian systems.
+
+- [[2020-ghazwani|Ghazwani, 2020]] addressed environmental threats from industrial activities in the Eastern Province.
+
+- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination across four sites in the eastern province.
+
+- [[2022-pambudi|Pambudi, 2022]] included the eastern-province in the ASR study area.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] conducted study on waste sites within the eastern-province.
+
+- [[2023-alsahwan|AlSahwan, 2023]] conducted field studies in the eastern province to validate the proposed method.
+
+- [[2024-makki|Makki, 2024]] conducted field experiments in a barchan sand dunes located in the Eastern Province.
+
+- [[2024-tarchi|Tarchi, 2024]] studied a sand dune located in the Eastern Province.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
+
+- [[2024-almutawa|AlMutawa, 2024]] collected soil samples from contaminated sites within the eastern province of Saudi Arabia.
+
+- [[2024-ahmad|Ahmad, 2024]] focused on the coastal aquifers within the eastern-province.
+
+- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Eastern province of Saudi Arabia.
+
+- [[2024-yusmananto|Yusmananto, 2024]] studied the reservoir within the eastern-province context.
+
+- [[2025-oyekan|Oyekan, 2025]] conducted field experiments in the eastern-province to validate the inversion model.
+
+- [[2026-fatima|Fatima, 2026]] focused on the eastern coastal region of Saudi Arabia for TWW recharge study.
+
+- [[1992-hassan|Hassan, 1992]] studied the aquifers within the Eastern Province of Saudi Arabia.
+
 ## Geological and Structural Setting
 
 
@@ -142,6 +190,38 @@ last_updated: 2026-06-09
 - [[2019-alotaibi|Alotaibi, 2019]] analyzed particulate matter trends in the Eastern Region (Mezira).
 
 - [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province to assess aquifer sustainability.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] located in the eastern-province to study aeolian systems.
+
+- [[2020-ghazwani|Ghazwani, 2020]] addressed environmental threats from industrial activities in the Eastern Province.
+
+- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination across four sites in the eastern province.
+
+- [[2022-pambudi|Pambudi, 2022]] included the eastern-province in the ASR study area.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] conducted study on waste sites within the eastern-province.
+
+- [[2023-alsahwan|AlSahwan, 2023]] conducted field studies in the eastern province to validate the proposed method.
+
+- [[2024-makki|Makki, 2024]] conducted field experiments in a barchan sand dunes located in the Eastern Province.
+
+- [[2024-tarchi|Tarchi, 2024]] studied a sand dune located in the Eastern Province.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
+
+- [[2024-almutawa|AlMutawa, 2024]] collected soil samples from contaminated sites within the eastern province of Saudi Arabia.
+
+- [[2024-ahmad|Ahmad, 2024]] focused on the coastal aquifers within the eastern-province.
+
+- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Eastern province of Saudi Arabia.
+
+- [[2024-yusmananto|Yusmananto, 2024]] studied the reservoir within the eastern-province context.
+
+- [[2025-oyekan|Oyekan, 2025]] conducted field experiments in the eastern-province to validate the inversion model.
+
+- [[2026-fatima|Fatima, 2026]] focused on the eastern coastal region of Saudi Arabia for TWW recharge study.
+
+- [[1992-hassan|Hassan, 1992]] studied the aquifers within the Eastern Province of Saudi Arabia.
 
 ## Formations Present
 
@@ -196,6 +276,38 @@ last_updated: 2026-06-09
 - In the Eastern Region, the annual trend at $\tau_{500}$ showed an increase in PM10 concentration by 9%. ([[2019-alotaibi|Alotaibi, 2019, p. 96]])
 
 - Experienced a rapid increase in water demand and subsequent groundwater depletion since 1967. ([[2019-prasetyo|Prasetyo, 2019, p. 18]])
+
+- The Jafurah Sand Sea is located east of Al Hasa city and covers approximately 40,000 km2. ([[2022-al-alawi|Al-Alawi, 2022, p. 15]])
+
+- Not stated in source ([[2020-ghazwani|Ghazwani, 2020]])
+
+- Average abundance was 11.5 ± 5.02 particles/kg (109.4 ± 50.26 particles/m2). ([[2022-alshaikhali|Alshaikhali, 2022, p. 49]])
+
+- The central-eastern Saudi Arabia... includes three provinces (Riyadh, Qasim, and the Eastern Province). ([[2022-pambudi|Pambudi, 2022, p. 19]])
+
+- The area contains a significant number of illegal dumping sites due to rapid urbanization. ([[2022-al-harbi|Al-Harbi, 2022, p. 12]])
+
+- Field data from a dune near Dammam Airport confirmed that the site was dry. ([[2023-alsahwan|AlSahwan, 2023, p. 25]])
+
+- The study area is part of the Al-Jafurah sand sea, an aeolian landscape stretching 800 km along the coast. ([[2024-makki|Makki, 2024, p. 51]])
+
+- The study area was specifically near Dammam Airport. ([[2024-tarchi|Tarchi, 2024, p. 17]])
+
+- Referenced in this thesis. ([[2024-alkhunaizi|Alkhunaizi, 2024]])
+
+- The Eastern Region contains a significant number of active factories (1,877) with high potential to pollute surrounding environments. ([[2024-almutawa|AlMutawa, 2024, p. 14]])
+
+- The study area includes Neogene, Alat, and Khobar aquifers which are potentially affected by seawater intrusion. ([[2024-ahmad|Ahmad, 2024, p. 20]])
+
+- Dammam and Khobar (in the East) had higher metal concentrations than Jeddah and Jubail. ([[2024-alenazi|Alenazi, 2024, p. 19]])
+
+- The study area shows a trend of thinning and more basinal facies towards the north. ([[2024-yusmananto|Yusmananto, 2024, p. 59]])
+
+- The study was tested on data collected over a barchan dune in the eastern province of Saudi Arabia. ([[2025-oyekan|Oyekan, 2025, p. 75]])
+
+- The Eastern Province has 71.49% surplus of treated wastewater every year. ([[2026-fatima|Fatima, 2026, p. 25]])
+
+- The study area is located in the Eastern Province, bounded by 24°N to 29°N and 47°E to 51°E. ([[1992-hassan|Hassan, 1992, p. 23]])
 
 ## Research Coverage and Gaps
 

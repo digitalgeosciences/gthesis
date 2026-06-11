@@ -17,8 +17,12 @@ sources:
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
+  - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
+  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Geophysics, General
@@ -49,6 +53,14 @@ last_updated: 2026-06-09
 
 - [[2018-putra|Putra, 2018]] investigated the impact of geometry on seismic signal quality.
 
+- [[2022-awais|Awais, 2022]] addressed core geophysics problems related to seismic data processing.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used integrated geophysical methods to characterize the anomaly.
+
+- [[2024-felemban|Felemban, 2024]] applied geophysics principles to analyze seismic velocity and time-to-depth conversion.
+
+- [[2024-maigana|Maigana, 2024]] applied geophysics to interpret seismic data from the Tui field.
+
 ## Key Subtopics
 
 
@@ -70,6 +82,14 @@ last_updated: 2026-06-09
 - [[2017-almarzooq|Almarzooq, 2017]] applied geophysics principles to address seismic data quality issues in complex surface environments.
 
 - [[2018-putra|Putra, 2018]] investigated the impact of geometry on seismic signal quality.
+
+- [[2022-awais|Awais, 2022]] addressed core geophysics problems related to seismic data processing.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used integrated geophysical methods to characterize the anomaly.
+
+- [[2024-felemban|Felemban, 2024]] applied geophysics principles to analyze seismic velocity and time-to-depth conversion.
+
+- [[2024-maigana|Maigana, 2024]] applied geophysics to interpret seismic data from the Tui field.
 
 ## Methods and Approaches Used
 
@@ -96,6 +116,14 @@ last_updated: 2026-06-09
 - The investigation focused on signal processing techniques to mitigate environmental effects on seismic waves. ([[2017-almarzooq|Almarzooq, 2017, p. 1]])
 
 - Determined that position errors have a more significant impact than weight errors. ([[2018-putra|Putra, 2018, p. 23]])
+
+- Not stated in source ([[2022-awais|Awais, 2022]])
+
+- Integration of seismic and resistivity reduces uncertainty in complex geology. ([[2023-alshaibani|AlShaibani, 2023, p. 14]])
+
+- The research demonstrated that signal processing parameters (like offset limits) directly impact the accuracy of geophysical measurements. ([[2024-felemban|Felemban, 2024, p. 11]])
+
+- Seismic interpretation revealed stacked and isolated channel geometries. ([[2024-maigana|Maigana, 2024, p. 84]])
 
 ## Competing Approaches and Debates
 

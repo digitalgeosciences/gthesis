@@ -26,8 +26,12 @@ sources:
   - "raw/140020 - REMOVAL OF MERCURY (II) FROM WATER USING BIOSYNTHESIZED SILVER AND IRON NANOPART.pdf"
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/141933 - TOWARDS WATER SUSTAINABILITY UTILIZING OILFIELD PRODUCED WATER IN FORMULATING OI.pdf"
+  - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Water Quality
@@ -66,6 +70,14 @@ last_updated: 2026-06-09
 
 - [[2018-adeyemi|Adeyemi, 2018]] evaluated the impact of SDAC on the water quality by removing MTBE.
 
+- [[2020-ghazwani|Ghazwani, 2020]] evaluated the effect of feed water conductivity on ammonia removal.
+
+- [[2021-siddiq|Siddiq, 2021]] assessed the impact of arsenic on groundwater quality.
+
+- [[2021-alkhowaildi|Alkhowaildi, 2021]] evaluated the impact of high TDS (70,000 ppm) and hardness (7,000 ppm) on fluid performance.
+
+- [[2026-fatima|Fatima, 2026]] monitored the evolution of recharge water characteristics including major ions and trace elements.
+
 ## Scientific Context
 
 - [[2009-zubair|Zubair, 2009]] Ensuring water is free from contaminants and by-products in a resource-scarce region.
@@ -95,6 +107,14 @@ last_updated: 2026-06-09
 - [[2016-sameh|Sameh, 2016]] assessed the impact of salinity on the treatment efficiency of Toluene in groundwater.
 
 - [[2018-adeyemi|Adeyemi, 2018]] evaluated the impact of SDAC on the water quality by removing MTBE.
+
+- [[2020-ghazwani|Ghazwani, 2020]] evaluated the effect of feed water conductivity on ammonia removal.
+
+- [[2021-siddiq|Siddiq, 2021]] assessed the impact of arsenic on groundwater quality.
+
+- [[2021-alkhowaildi|Alkhowaildi, 2021]] evaluated the impact of high TDS (70,000 ppm) and hardness (7,000 ppm) on fluid performance.
+
+- [[2026-fatima|Fatima, 2026]] monitored the evolution of recharge water characteristics including major ions and trace elements.
 
 ## Measurement and Characterization Methods
 
@@ -129,6 +149,14 @@ last_updated: 2026-06-09
 - Salinity levels from 1250 to 5000 ppm significantly impacted the removal efficiency of Toluene. ([[2016-sameh|Sameh, 2016, p. 17]])
 
 - MTBE removal efficiency reached 70% under optimal conditions (pH 6, 150 rpm). ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
+
+- Increasing the chloride content (and thus conductivity) had the greatest impact on ammonia degradation. ([[2020-ghazwani|Ghazwani, 2020, p. 15]])
+
+- Arsenic concentrations above acceptable limits in drinking water pose significant health risks including skin lesions and respiratory complications. ([[2021-siddiq|Siddiq, 2021, p. 23]])
+
+- High salt content in produced water is known to hinder thickening behavior after adding polymeric gels. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 19]])
+
+- Monitored parameters such as chloride, nitrate, and sulfate in TWW during the experiment. ([[2026-fatima|Fatima, 2026, p. 91]])
 
 ## Contrasting Values and Interpretations
 

@@ -10,8 +10,9 @@ tags:
   - theme/volcanology
 sources:
   - "raw/10050 - A paleomagnetic study of central Harrat Rahat, Western Saudi Arabia.pdf"
+  - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Volcanology
@@ -24,9 +25,13 @@ last_updated: 2026-06-08
 
 - [[1993-kaka|Kaka, 1993]] studied volcanology in the context of basaltic flows in Harrat Rahat.
 
+- [[2022-argadestya|Argadestya, 2022]] studied the Merapi stratovolcano as a source for volcaniclastics.
+
 ## Key Subtopics
 
 - [[1993-kaka|Kaka, 1993]] ['basaltic flows', 'lithostratigraphy']
+
+- [[2022-argadestya|Argadestya, 2022]] studied the Merapi stratovolcano as a source for volcaniclastics.
 
 ## Methods and Approaches Used
 
@@ -35,6 +40,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - Identified systematic temporal changes in volcanic style across different units. ([[1993-kaka|Kaka, 1993, p. 34]])
+
+- Merapi is an active stratovolcano with basaltic-andesitic pyroclastic materials. ([[2022-argadestya|Argadestya, 2022, p. 26]])
 
 ## Competing Approaches and Debates
 

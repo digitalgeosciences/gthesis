@@ -13,8 +13,9 @@ tags:
   - formation/precambrian-basement
 sources:
   - "raw/138706 - Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan.pdf"
+  - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
 # Precambrian Basement
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[2012-abdelgader|Abdelgader, 2012]] studied the basement complex in the Nuba Mountains and Ingessana Hills.
 
+- [[2020-abdallah-2|Abdallah, 2020]] targeted the determination of depth to the precambrian-basement.
+
 ## Depositional Environment
 
 
+
+- [[2020-abdallah-2|Abdallah, 2020]] targeted the determination of depth to the precambrian-basement.
 
 ## Reservoir Properties
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - The basement contains fractured granitic, quartzite, and Schist/Gneiss units where porosity is fracture-controlled. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+
+- Basement depth is a critical factor for understanding structural framework and hydrocarbon distribution. ([[2020-abdallah-2|Abdallah, 2020, p. 20]])
 
 ## Conflicting Interpretations Across Sources
 

@@ -10,8 +10,9 @@ reservoir_status: "Not stated in source"
 tags: []
 sources:
   - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Jua Formation
@@ -24,9 +25,13 @@ last_updated: 2026-06-08
 
 - [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Jua Formation
 
+- [[2024-malik|Malik, 2024]] studied the Jibalah Group sediments in the Dhaiqa Basin.
+
 ## Depositional Environment
 
 
+
+- [[2024-malik|Malik, 2024]] studied the Jibalah Group sediments in the Dhaiqa Basin.
 
 ## Reservoir Properties
 
@@ -35,6 +40,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - studied the Jua Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+
+- Found to be a mixed clastic-carbonate system rather than a continuous carbonate succession. ([[2024-malik|Malik, 2024, p. 14]])
 
 ## Conflicting Interpretations Across Sources
 

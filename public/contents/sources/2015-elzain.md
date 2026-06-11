@@ -44,7 +44,7 @@ techniques:
   - 3d-outcrop-modeling
   - variogram-analysis
   - spectral-gamma-ray-sgr
-  - lithofacies-analysis
+  - lithofacies
   - biostratigraphy
   - gamma-ray-spectrometry
   - xrf
@@ -187,5 +187,5 @@ The study provides an outcrop analog that is predictive and provides quantitativ
 - [[chemostratigraphy]]
 - [[carbonate-geology]]
 - [[petrel]]
-- [[semivariogram-analysis]]
+- [[semivariogram]]
 - [[sequential-gaussian-simulation]]

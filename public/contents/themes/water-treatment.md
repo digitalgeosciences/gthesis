@@ -25,8 +25,14 @@ sources:
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/141933 - TOWARDS WATER SUSTAINABILITY UTILIZING OILFIELD PRODUCED WATER IN FORMULATING OI.pdf"
+  - "raw/142399 - USING THE ELECTROCHEMICAL TREATMENT OF A WET-AIR OXIDIZED SPENT CAUSTIC WASTE ST.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Water Treatment
@@ -69,6 +75,18 @@ last_updated: 2026-06-09
 
 - [[2019-salawudeen|Salawudeen, 2019]] evaluated the potential of GPDADMAC and GPHM for phenol and cadmium removal in water treatment applications.
 
+- [[2020-ghazwani|Ghazwani, 2020]] focused on the treatment of ammonia in saline water using electrochemical methods.
+
+- [[2021-alnasser|AlNasser, 2021]] focused on water-treatment using graphene-based adsorbents.
+
+- [[2021-siddiq|Siddiq, 2021]] investigated the treatment of arsenic in water using biochar.
+
+- [[2021-alkhowaildi|Alkhowaildi, 2021]] addressed the challenge of treating and utilizing produced water in hydraulic fracturing.
+
+- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
+
+- [[2025-almousa|Almousa, 2025]] investigated water-treatment methods for removing MTBE and BTEX.
+
 ## Key Subtopics
 
 - [[2009-zubair|Zubair, 2009]] ['ozone dosage', 'pH adjustment', 'ammonia addition']
@@ -102,6 +120,18 @@ last_updated: 2026-06-09
 - [[2018-adeyemi|Adeyemi, 2018]] focused on the development of SDAC as a sustainable method for water treatment.
 
 - [[2019-salawudeen|Salawudeen, 2019]] evaluated the potential of GPDADMAC and GPHM for phenol and cadmium removal in water treatment applications.
+
+- [[2020-ghazwani|Ghazwani, 2020]] focused on the treatment of ammonia in saline water using electrochemical methods.
+
+- [[2021-alnasser|AlNasser, 2021]] focused on water-treatment using graphene-based adsorbents.
+
+- [[2021-siddiq|Siddiq, 2021]] investigated the treatment of arsenic in water using biochar.
+
+- [[2021-alkhowaildi|Alkhowaildi, 2021]] addressed the challenge of treating and utilizing produced water in hydraulic fracturing.
+
+- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
+
+- [[2025-almousa|Almousa, 2025]] investigated water-treatment methods for removing MTBE and BTEX.
 
 ## Methods and Approaches Used
 
@@ -140,6 +170,18 @@ last_updated: 2026-06-09
 - SDAC 2Z-700-90 was found effective for removing MTBE from contaminated aqueous solutions. ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
 
 - GPDADMAC achieved 80% removal of phenol while GPHM removed over 60% of cadmium. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
+
+- Electrochemical oxidation was found to be an efficient and environmentally friendly process for nitrogen-based pollutants. ([[2020-ghazwani|Ghazwani, 2020, p. 15]])
+
+- PG was found effective in both batch and dynamic modes for treating methylene blue and metals. ([[2021-alnasser|AlNasser, 2021, p. 19]])
+
+- Fe-modified biochar achieved 99% arsenic removal in batch studies. ([[2021-siddiq|Siddiq, 2021, p. 13]])
+
+- Chelating agents can serve as multi-purpose additives to simplify fluid design while managing high hardness. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 37]])
+
+- Referenced in this thesis. ([[2023-al-aqeel|Al-Aqeel, 2023]])
+
+- The optimum treatment conditions for MTBE were: CAC dosage of 2 g, initial concentrations of 5000 μg/L, flow rate of 1 mL/min, using sandstone bed type and bed height of 20 cm at a conductivity of 33850 μS/cm. ([[2025-almousa|Almousa, 2025, p. 13]])
 
 ## Competing Approaches and Debates
 

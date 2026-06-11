@@ -14,6 +14,7 @@ sources:
   - "raw/136123 - Fate of Bromate Formation in Water Treated by ozone-based Advanced Oxidation Pro.pdf"
   - "raw/138784 - DEGRADATION OF METHYL TERTIARY BUTYL ETHER USING UVTITANIUM DIOXIDE AND CARBON N.pdf"
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -32,6 +33,8 @@ last_updated: 2026-06-09
 
 - [[2016-sameh|Sameh, 2016]] evaluated Advanced Oxidation Processes (AOP) for the removal of Toluene from water.
 
+- [[2020-ghazwani|Ghazwani, 2020]] utilized Fenton-based electrochemical advanced oxidation processes (F-EAOP) for ammonia removal.
+
 ## Scientific Context
 
 - [[2009-zubair|Zubair, 2009]] AOP is a promising treatment for removing contaminants like MTBE, phenol, and benzene.
@@ -39,6 +42,8 @@ last_updated: 2026-06-09
 - [[2013-muhyedeen|Muhyedeen, 2013]] evaluated advanced-oxidation-processes as a promising option for MTBE removal.
 
 - [[2016-sameh|Sameh, 2016]] evaluated Advanced Oxidation Processes (AOP) for the removal of Toluene from water.
+
+- [[2020-ghazwani|Ghazwani, 2020]] utilized Fenton-based electrochemical advanced oxidation processes (F-EAOP) for ammonia removal.
 
 ## Measurement and Characterization Methods
 
@@ -51,6 +56,8 @@ last_updated: 2026-06-09
 - AOPs are capable of removing both low and high levels of organic pollutants present in water. ([[2013-muhyedeen|Muhyedeen, 2013, p. 15]])
 
 - UV-H2O2 was identified as an effective AOP for treating Toluene in both deionized and saline waters. ([[2016-sameh|Sameh, 2016, p. 15]])
+
+- Hydroxyl radicals produced in the process were capable of mineralizing contaminants efficiently. ([[2020-ghazwani|Ghazwani, 2020, p. 14]])
 
 ## Contrasting Values and Interpretations
 

@@ -10,8 +10,9 @@ geology: "Not stated in source"
 tags: []
 sources:
   - "raw/139522 - GROUND MOTION PREDICTION EQUATIONS (GMPES) FOR SUBDUCTION-ZONE EARTHQUAKES IN JA.pdf"
+  - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Javaisland
@@ -24,9 +25,13 @@ last_updated: 2026-06-08
 
 - [[2015-latif|Latif, 2015]] conducted research at Javaisland
 
+- [[2022-argadestya|Argadestya, 2022]] studied Merapi volcaniclastics on Java.
+
 ## Geological and Structural Setting
 
 
+
+- [[2022-argadestya|Argadestya, 2022]] studied Merapi volcaniclastics on Java.
 
 ## Formations Present
 
@@ -35,6 +40,8 @@ last_updated: 2026-06-08
 ## Key Findings From This Location
 
 - conducted research at Javaisland ([[2015-latif|Latif, 2015]])
+
+- Merapi is an active stratovolcano providing a source for volcaniclastics. ([[2022-argadestya|Argadestya, 2022, p. 29]])
 
 ## Research Coverage and Gaps
 

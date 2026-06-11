@@ -14,8 +14,9 @@ tags:
   - theme/sedimentology
 sources:
   - "raw/10281 - Diagenesis of Jauf sandstone in Hawiyah area.pdf"
+  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Al-Jawf Basin
@@ -28,9 +29,13 @@ last_updated: 2026-06-08
 
 - [[2001-al-ramadan|Al-Ramadan, 2001]] included samples from the Al-Jawf basin for comparison with subsurface samples.
 
+- [[2022-karami|Karami, 2022]] studied the groundwater systems within the al-jawf-basin.
+
 ## Geological and Structural Setting
 
 - [[2001-al-ramadan|Al-Ramadan, 2001]] Devonian sedimentary rocks
+
+- [[2022-karami|Karami, 2022]] studied the groundwater systems within the al-jawf-basin.
 
 ## Formations Present
 
@@ -39,6 +44,8 @@ last_updated: 2026-06-08
 ## Key Findings From This Location
 
 - The type section of the Jauf Formation is located in the Al-Jawf region. ([[2001-al-ramadan|Al-Ramadan, 2001, p. 33]])
+
+- The study area is located in Al-Jawf Province near the border with Jordan. ([[2022-karami|Karami, 2022, p. 20]])
 
 ## Research Coverage and Gaps
 

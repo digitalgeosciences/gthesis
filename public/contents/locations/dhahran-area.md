@@ -20,8 +20,12 @@ sources:
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
+  - "raw/141979 - Real-Time Advisory Hole-Cleaning Model.pdf"
+  - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Dhahran Area
@@ -48,6 +52,14 @@ last_updated: 2026-06-09
 
 - [[2019-salawudeen|Salawudeen, 2019]] collected a groundwater sample from waterwell 1 near Building 26 in KFUPM campus.
 
+- [[2019-alhaiqi|Alhaiqi, 2019]] conducted the research in a controlled environment at the KFUPM main nursery to mimic real conditions.
+
+- [[2021-al-malki|Al-Malki, 2021]] analyzed data from wells in the dhahran-area to validate the HCF model.
+
+- [[2024-prasetyo|Prasetyo, 2024]] conducted a controlled experiment at King Fahd University of Petroleum and Minerals (KFUPM).
+
+- [[2002-al-ali|Al-Ali, 2002]] conducted field studies in the Dhahran area to sample local formations.
+
 ## Geological and Structural Setting
 
 - [[2009-al-khaldi|Al-Khaldi, 2009]] Not applicable
@@ -65,6 +77,14 @@ last_updated: 2026-06-09
 - [[2018-adeyemi|Adeyemi, 2018]] sourced sludge from the dhahran-area for study.
 
 - [[2019-salawudeen|Salawudeen, 2019]] collected a groundwater sample from waterwell 1 near Building 26 in KFUPM campus.
+
+- [[2019-alhaiqi|Alhaiqi, 2019]] conducted the research in a controlled environment at the KFUPM main nursery to mimic real conditions.
+
+- [[2021-al-malki|Al-Malki, 2021]] analyzed data from wells in the dhahran-area to validate the HCF model.
+
+- [[2024-prasetyo|Prasetyo, 2024]] conducted a controlled experiment at King Fahd University of Petroleum and Minerals (KFUPM).
+
+- [[2002-al-ali|Al-Ali, 2002]] conducted field studies in the Dhahran area to sample local formations.
 
 ## Formations Present
 
@@ -87,6 +107,14 @@ last_updated: 2026-06-09
 - Sludge was obtained from the Dhahran Wastewater Treatment Plant (WWTP). ([[2018-adeyemi|Adeyemi, 2018, p. 40]])
 
 - Groundwater was sampled locally to test the efficacy of GPDADMAC and GPHM. ([[2019-salawudeen|Salawudeen, 2019, p. 41]])
+
+- The location provided an irrigated system and protection from external effects like wind. ([[2019-alhaiqi|Alhaiqi, 2019, p. 25]])
+
+- Data transmission to real-time databases in Dhahran showed some loss for the second dataset. ([[2021-al-malki|Al-Malki, 2021, p. 96]])
+
+- The area experiences high temperatures (up to 42°C) and low annual precipitation (84 mm). ([[2024-prasetyo|Prasetyo, 2024, p. 32]])
+
+- The study area includes the Hadrukh, Dam, and Hofuf Formations. ([[2002-al-ali|Al-Ali, 2002, p. 60]])
 
 ## Research Coverage and Gaps
 

@@ -17,8 +17,12 @@ sources:
   - "raw/140031 - Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Rese.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
+  - "raw/141649 - Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, N.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
+  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Fracture Characterization
@@ -45,6 +49,14 @@ last_updated: 2026-06-09
 
 - [[2017-benaafi|Benaafi, 2017]] performed fracture characterization to assess reservoir potential.
 
+- [[2020-mansouri|Mansouri, 2020]] performed fracture characterization on 8 outcrops to understand hydrodynamics.
+
+- [[2023-rafiq|Rafiq, 2023]] performed fracture characterization to assess permeability.
+
+- [[2023-arrofi|Arrofi, 2023]] used fault fracture density (FFD) to investigate high permeable zones.
+
+- [[2024-saraih|Saraih, 2024]] investigated how burrow morphology influences fracture propagation.
+
 ## Key Subtopics
 
 - [[2012-abdelgader|Abdelgader, 2012]] ['orientation analysis', 'intensity calculation', 'connectivity']
@@ -62,6 +74,14 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] performed fracture-characterization to evaluate the impact of lithology on fracture distribution.
 
 - [[2017-benaafi|Benaafi, 2017]] performed fracture characterization to assess reservoir potential.
+
+- [[2020-mansouri|Mansouri, 2020]] performed fracture characterization on 8 outcrops to understand hydrodynamics.
+
+- [[2023-rafiq|Rafiq, 2023]] performed fracture characterization to assess permeability.
+
+- [[2023-arrofi|Arrofi, 2023]] used fault fracture density (FFD) to investigate high permeable zones.
+
+- [[2024-saraih|Saraih, 2024]] investigated how burrow morphology influences fracture propagation.
 
 ## Methods and Approaches Used
 
@@ -84,6 +104,14 @@ last_updated: 2026-06-09
 - Two major directions (NE-SW and NW-SE) were identified for the primary fracture sets. ([[2017-mahgoub|Mahgoub, 2017, p. 67]])
 
 - Two primary fracture sets (N165° and N075°) were identified in the Sanamah Formation. ([[2017-benaafi|Benaafi, 2017, p. 13]])
+
+- Fractures act as primary conduits for fluid flow in rocks with low matrix permeability. ([[2020-mansouri|Mansouri, 2020, p. 51]])
+
+- Identified a variety of fracture types including shear fractures and silica veins. ([[2023-rafiq|Rafiq, 2023, p. 48]])
+
+- FFD is a critical metric for identifying high-permeability zones in non-volcanic systems. ([[2023-arrofi|Arrofi, 2023]])
+
+- Higher fracture density was observed in areas where burrows were affected by dissolution. ([[2024-saraih|Saraih, 2024, p. 60]])
 
 ## Competing Approaches and Debates
 

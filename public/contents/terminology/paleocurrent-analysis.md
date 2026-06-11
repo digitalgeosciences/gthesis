@@ -13,8 +13,9 @@ tags:
 sources:
   - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
   - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Paleocurrent Analysis
@@ -29,11 +30,15 @@ last_updated: 2026-06-09
 
 - [[2016-bashri|Bashri, 2016]] performed paleocurrent-analysis to determine the direction of paleo-current flow.
 
+- [[2023-butt|Butt, 2023]] performed paleocurrent_analysis on 636 measurements to determine paleoflow direction.
+
 ## Scientific Context
 
 - [[2014-mohammedfaiz|Mohammedfaiz, 2014]] Crucial for reconstructing ancient drainage systems and coastal geometries.
 
 - [[2016-bashri|Bashri, 2016]] performed paleocurrent-analysis to determine the direction of paleo-current flow.
+
+- [[2023-butt|Butt, 2023]] performed paleocurrent_analysis on 636 measurements to determine paleoflow direction.
 
 ## Measurement and Characterization Methods
 
@@ -44,6 +49,8 @@ last_updated: 2026-06-09
 - Determined prevailing flow directions in both Al Ula and Tabuk areas to map paleo-depositional environments. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 160]])
 
 - Paleocurrents show a general eastward deposition with a major SE direction. ([[2016-bashri|Bashri, 2016, p. 104]])
+
+- Paleoflow rose diagrams were constructed from 227 cross-strata and 409 imbricated clast measurements. ([[2023-butt|Butt, 2023, p. 73]])
 
 ## Contrasting Values and Interpretations
 

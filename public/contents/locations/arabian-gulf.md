@@ -28,8 +28,13 @@ sources:
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
+  - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Arabian Gulf
@@ -70,6 +75,16 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] studied the impact of pollution on mangroves along the Arabian Gulf coast.
 
+- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination within the Arabian Gulf waters.
+
+- [[2023-nasir|Nasir, 2023]] studied marine environments within the Arabian Gulf.
+
+- [[2023-prayudi|Prayudi, 2023]] studied the impact of extreme conditions on marine life within the Arabian Gulf.
+
+- [[2024-alsadah|Alsadah, 2024]] studied the Mg/Ca ratio as a paleothermometer within the Arabian Gulf.
+
+- [[1989-abdou|Abdou, 1989]] studied the sedimentary sequence in the Arabian Gulf region.
+
 ## Geological and Structural Setting
 
 - [[1988-darwish|Darwish, 1988]] marginal sea with a gently inclined seafloor
@@ -101,6 +116,16 @@ last_updated: 2026-06-09
 - [[2018-amiruddin|Amiruddin, 2018]] studied the impact of local crude oil on species native to the Arabian Gulf.
 
 - [[2019-alamran|AlAmran, 2019]] studied the impact of pollution on mangroves along the Arabian Gulf coast.
+
+- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination within the Arabian Gulf waters.
+
+- [[2023-nasir|Nasir, 2023]] studied marine environments within the Arabian Gulf.
+
+- [[2023-prayudi|Prayudi, 2023]] studied the impact of extreme conditions on marine life within the Arabian Gulf.
+
+- [[2024-alsadah|Alsadah, 2024]] studied the Mg/Ca ratio as a paleothermometer within the Arabian Gulf.
+
+- [[1989-abdou|Abdou, 1989]] studied the sedimentary sequence in the Arabian Gulf region.
 
 ## Formations Present
 
@@ -137,6 +162,16 @@ last_updated: 2026-06-09
 - The study focused on the effects of Arabian Light Crude Oil on organisms within the Arabian Gulf ecosystem. ([[2018-amiruddin|Amiruddin, 2018, p. 67]])
 
 - The study area includes several sites like Tarut Bay and Abu Ali Island. ([[2019-alamran|AlAmran, 2019, p. 20]])
+
+- The Arabian Gulf has a slow flushing time (more than 3 years), allowing microplastics to persist for long periods. ([[2022-alshaikhali|Alshaikhali, 2022, p. 22]])
+
+- The region is a major fossil fuel production area with significant industrial history. ([[2023-nasir|Nasir, 2023, p. 17]])
+
+- The region is projected to be among the most impacted by climate change, with temperatures potentially exceeding 35°C (lethal for many species). ([[2023-prayudi|Prayudi, 2023, p. 32]])
+
+- The study was the first to test the reliability of the Mg/Ca proxy specifically for benthic foraminifera in this region. ([[2024-alsadah|Alsadah, 2024, p. 13]])
+
+- The study area is located at 28° 55' 13.8" N and 47° 40' 34.5" E. ([[1989-abdou|Abdou, 1989, p. 24]])
 
 ## Research Coverage and Gaps
 

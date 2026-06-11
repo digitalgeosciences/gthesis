@@ -17,8 +17,9 @@ tags:
 sources:
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Particulate Matter
@@ -33,11 +34,15 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] studied particulate matter (PM10) as a primary indicator of air quality.
 
+- [[2024-alenazi|Alenazi, 2024]] measured particulate matter (PM) concentrations to assess air quality and health risks.
+
 ## Scientific Context
 
 - [[2016-lawal-2|Lawal, 2016]] PM is a significant environmental concern due to its impact on human respiratory health.
 
 - [[2019-alotaibi|Alotaibi, 2019]] studied particulate matter (PM10) as a primary indicator of air quality.
+
+- [[2024-alenazi|Alenazi, 2024]] measured particulate matter (PM) concentrations to assess air quality and health risks.
 
 ## Measurement and Characterization Methods
 
@@ -48,6 +53,8 @@ last_updated: 2026-06-09
 - The average concentrations of PM10 were 126.00 µg/m3, 177.00 µg/m3, and 379.85 µg/m3 in Dammam, Dhahran, and Khobar respectively. ([[2016-lawal-2|Lawal, 2016, p. 14]])
 
 - Analyzed both long-term and short-term trends of PM10 across the Arabian Peninsula. ([[2019-alotaibi|Alotaibi, 2019, p. 53]])
+
+- The study measured both PM10 and PM2.5 levels using a portable sensor. ([[2024-alenazi|Alenazi, 2024, p. 18]])
 
 ## Contrasting Values and Interpretations
 

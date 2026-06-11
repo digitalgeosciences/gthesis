@@ -14,8 +14,9 @@ tags:
   - theme/hydrogeology
 sources:
   - "raw/10133 - Assessment of hydrogeological parameters from thin-section study of middle creta.pdf"
+  - "raw/141363 - POTENTIAL SOURCES AND DISTRIBUTION OF NITRATE IN THE GROUNDWATER OF THE WASIA AQ.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
 # Wasia Formation
@@ -28,9 +29,13 @@ last_updated: 2026-06-08
 
 - [[1995-magaji|Magaji, 1995]] studied as a primary aquifer and hydrocarbon reservoir.
 
+- [[2019-ahmed|Ahmed, 2019]] studied the Wasia formation as a primary source of drinking and irrigation water.
+
 ## Depositional Environment
 
 - [[1995-magaji|Magaji, 1995]] alluvial to near-shore marine deltaic environments
+
+- [[2019-ahmed|Ahmed, 2019]] studied the Wasia formation as a primary source of drinking and irrigation water.
 
 ## Reservoir Properties
 
@@ -39,6 +44,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - The Wasia formation is a significant clastic unit that provides part of the Riyadh fresh water supply. ([[1995-magaji|Magaji, 1995, p. 24]])
+
+- The clastic part of Wasia Group represents an important freshwater aquifer that supplies Riyadh. ([[2019-ahmed|Ahmed, 2019, p. 17]])
 
 ## Conflicting Interpretations Across Sources
 

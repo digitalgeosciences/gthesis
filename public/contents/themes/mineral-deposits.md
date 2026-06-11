@@ -10,8 +10,10 @@ tags:
   - theme/mineral-deposits
 sources:
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
+  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 # Mineral Deposits
@@ -24,9 +26,17 @@ last_updated: 2026-06-08
 
 - [[1996-matter|Matter, 1996]] analyzed the mineral deposits to determine their economic viability.
 
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] evaluated the mineral deposit potential of the Al-Ghurayyah pluton.
+
+- [[1985-ghaled|Ghaled, 1985]] focused on the mineralogy and geostatistics of the Zarghat magnesite deposit.
+
 ## Key Subtopics
 
 - [[1996-matter|Matter, 1996]] ['mineralogy', 'geochemistry', 'petrography']
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] evaluated the mineral deposit potential of the Al-Ghurayyah pluton.
+
+- [[1985-ghaled|Ghaled, 1985]] focused on the mineralogy and geostatistics of the Zarghat magnesite deposit.
 
 ## Methods and Approaches Used
 
@@ -35,6 +45,10 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - High trace element values (U, V) justify the economic exploitation of the ore. ([[1996-matter|Matter, 1996, p. 26]])
+
+- Nb and Ta mineralization is strongly correlated (R2=0.74) and concentrated in columbite. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
+
+- The deposit shows a gradational change from dolomite to magnesite near the edges. ([[1985-ghaled|Ghaled, 1985, p. 108]])
 
 ## Competing Approaches and Debates
 

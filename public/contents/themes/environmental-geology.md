@@ -28,8 +28,15 @@ sources:
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
+  - "raw/141363 - POTENTIAL SOURCES AND DISTRIBUTION OF NITRATE IN THE GROUNDWATER OF THE WASIA AQ.pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
+  - "raw/142793 - Evaluation of New Flowback Formulation for Hydraulically Fractured Tight Gas Wel.pdf"
+  - "raw/143349 - UTILIZING SAUDI BASALT FOR CARBON MINERALIZATION IMPLICATIONS OF REDUCING CO2 EM.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Environmental Geology
@@ -78,6 +85,20 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] investigated the role of mangroves as natural filters for pollutants.
 
+- [[2019-alhaiqi|Alhaiqi, 2019]] applied environmental geology principles to address soil contamination from petroleum products.
+
+- [[2019-ahmed|Ahmed, 2019]] applied environmental-geology principles to identify nitrate contamination sources.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] addressed issues within the scope of environmental-geology.
+
+- [[2023-nasir|Nasir, 2023]] applied environmental geology to assess coastal lagoon health.
+
+- [[2023-prayudi|Prayudi, 2023]] evaluated environmental conditions to determine the impact on biological communities.
+
+- [[2024-mohamed|Mohamed, 2024]] investigated environmentally friendly flowback additives to ensure sustainable practices.
+
+- [[2025-alghawi|Alghawi, 2025]] applied environmental-geology principles to address CO2 mitigation via mineral carbonation.
+
 ## Key Subtopics
 
 - [[2011-alsadeq|Alsadeq, 2011]] ['groundwater quality', 'urbanization impact', 'heavy metal contamination']
@@ -117,6 +138,20 @@ last_updated: 2026-06-09
 - [[2019-alotaibi|Alotaibi, 2019]] applied environmental geology to assess air quality through particulate matter analysis.
 
 - [[2019-alamran|AlAmran, 2019]] investigated the role of mangroves as natural filters for pollutants.
+
+- [[2019-alhaiqi|Alhaiqi, 2019]] applied environmental geology principles to address soil contamination from petroleum products.
+
+- [[2019-ahmed|Ahmed, 2019]] applied environmental-geology principles to identify nitrate contamination sources.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] addressed issues within the scope of environmental-geology.
+
+- [[2023-nasir|Nasir, 2023]] applied environmental geology to assess coastal lagoon health.
+
+- [[2023-prayudi|Prayudi, 2023]] evaluated environmental conditions to determine the impact on biological communities.
+
+- [[2024-mohamed|Mohamed, 2024]] investigated environmentally friendly flowback additives to ensure sustainable practices.
+
+- [[2025-alghawi|Alghawi, 2025]] applied environmental-geology principles to address CO2 mitigation via mineral carbonation.
 
 ## Methods and Approaches Used
 
@@ -161,6 +196,20 @@ last_updated: 2026-06-09
 - Used mineralogical characterization to understand the source and nature of airborne particles. ([[2019-alotaibi|Alotaibi, 2019, p. 134]])
 
 - Avicennia marina is an efficient species for sequestering petroleum hydrocarbons. ([[2019-alamran|AlAmran, 2019, p. 16]])
+
+- Phytoremediation was identified as a green, cost-effective method for local remediation. ([[2019-alhaiqi|Alhaiqi, 2019, p. 14]])
+
+- Nitrate is primarily sourced from synthetic fertilizers and atmospheric deposition. ([[2019-ahmed|Ahmed, 2019, p. 61]])
+
+- Not stated in source ([[2022-al-harbi|Al-Harbi, 2022]])
+
+- Uqair Lagoon serves as a pristine reference site for marine studies. ([[2023-nasir|Nasir, 2023, p. 14]])
+
+- Sediment was predominantly sand-sized (95-99%), suggesting local sourcing from dunes or aeolian deposits. ([[2023-prayudi|Prayudi, 2023, p. 54]])
+
+- Ionic liquids were selected as a more sustainable alternative to conventional additives. ([[2024-mohamed|Mohamed, 2024]])
+
+- Surface mineralization offers the potential for permanent storage of CO2 by converting it into stable carbonate minerals. ([[2025-alghawi|Alghawi, 2025, p. 25]])
 
 ## Competing Approaches and Debates
 

@@ -46,8 +46,40 @@ sources:
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/141361 - Rock Physics Modeling and Inversion in Glacial Ordovician Reservoirs.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
+  - "raw/142334 - PREDICTION OF WATER SATURATION FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TECH.pdf"
+  - "raw/142443 - IMPACT OF SALINITY AND TEMPERATURE ON WORMHOLE GENERATION AND MECHANICAL PROPERT.pdf"
+  - "raw/142462 - PORE-SCALE INVESTIGATION OF IFT DYNAMICS FOR CHEMICAL EOR APPLICATIONS.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
+  - "raw/143184 - SYSTEMATIC INVESTIGATION OF DRILLING FLUID IMPACT ON NMR INTERPRETATION FOR FORM.pdf"
+  - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Reservoir Characterization
@@ -132,6 +164,70 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] performed reservoir characterization on the Abu Gabra Formation.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] evaluated how dune and interdune interactions impact reservoir heterogeneity.
+
+- [[2019-al-dawood|Al-Dawood, 2019]] aims to characterize reservoir fluids in Ordovician reservoir channels.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] performed reservoir characterization on the Dhruma Formation.
+
+- [[2020-islam|Islam, 2020]] performed reservoir characterization on the Sarah Formation.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] applied reservoir characterization to the Khuff, Unayzah, and Qusaiba formations.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] performed reservoir characterization on Jurassic carbonate formations.
+
+- [[2021-ahmed|Ahmed, 2021]] performed reservoir characterization on the Marrat Formation to evaluate its potential as an analog.
+
+- [[2021-alqarni|Alqarni, 2021]] performed reservoir characterization to evaluate the impact of lithology on porosity and permeability.
+
+- [[2022-septriandi|Septriandi, 2022]] performed reservoir characterization on unconventional carbonate mudstones.
+
+- [[2022-syahputra|Syahputra, 2022]] performed reservoir-characterization to evaluate the impact of burrowing on permeability.
+
+- [[2022-samarkin|Samarkin, 2022]] used to assess how chemical treatments affected permeability and porosity.
+
+- [[2022-stiawan|Stiawan, 2022]] performed reservoir characterization on the Jubaila Formation.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] used reservoir characterization techniques to evaluate mudrock potential.
+
+- [[2022-bashri|Bashri, 2022]] performed reservoir-characterization on the Hanifa Formation.
+
+- [[2022-babker|Babker, 2022]] performed reservoir characterization on the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] performed reservoir characterization of the Al Wajh Formation.
+
+- [[2023-kusuma|Kusuma, 2023]] performed end-to-end reservoir characterization using ML and geostatistics.
+
+- [[2023-gad|Gad, 2023]] performed reservoir-characterization by predicting water saturation from well logs.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] performed reservoir-characterization to evaluate rock integrity after acid exposure.
+
+- [[2023-ahmed|Ahmed, 2023]] performed reservoir-characterization to understand pore-scale dynamics and core-scale behavior.
+
+- [[2024-alabbad|Alabbad, 2024]] focused on reservoir-characterization for both conventional and unconventional reservoirs.
+
+- [[2024-allam|Allam, 2024]] performed integrated reservoir characterization of Valanginian carbonates.
+
+- [[2024-abdrabo|Abdrabo, 2024]] applied reservoir-characterization to address heterogeneity in the Qalibah Formation.
+
+- [[2024-saraih|Saraih, 2024]] performed reservoir characterization on the Aruma Formation's burrow systems.
+
+- [[2024-hassan|Hassan, 2024]] performed reservoir-characterization to evaluate carbonate microfacies and petrophysics.
+
+- [[2024-yusmananto|Yusmananto, 2024]] performed reservoir-characterization on the UKM.
+
+- [[2024-muharrag|Muharrag, 2024]] characterized the reservoir quality of the Dam Formation.
+
+- [[2024-maigana|Maigana, 2024]] performed reservoir-characterization to determine suitability for COₒ storage.
+
+- [[2024-akomolafe|Akomolafe, 2024]] performed reservoir characterization by evaluating how drilling fluids impact NMR data interpretation.
+
+- [[2025-refaat|Refaat, 2025]] performed reservoir-characterization to evaluate the impact of burrow fillings on porosity and permeability.
+
+- [[2025-ahmed|Ahmed, 2025]] performed reservoir characterization on the Minjur Sandstone.
+
+- [[2002-elhassan|ElHassan, 2002]] characterized the Khafji reservoir's mechanical properties.
+
 ## Key Subtopics
 
 - [[2002-ibrahim|Ibrahim, 2002]] ['lithofacies analysis', 'seismic inversion', 'geostatistical modeling']
@@ -207,6 +303,70 @@ last_updated: 2026-06-09
 - [[2017-yousif|Yousif, 2017]] performed reservoir characterization to evaluate porosity, permeability, and heterogeneity.
 
 - [[2017-abdelgader|Abdelgader, 2017]] performed reservoir characterization on the Abu Gabra Formation.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] evaluated how dune and interdune interactions impact reservoir heterogeneity.
+
+- [[2019-al-dawood|Al-Dawood, 2019]] aims to characterize reservoir fluids in Ordovician reservoir channels.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] performed reservoir characterization on the Dhruma Formation.
+
+- [[2020-islam|Islam, 2020]] performed reservoir characterization on the Sarah Formation.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] applied reservoir characterization to the Khuff, Unayzah, and Qusaiba formations.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] performed reservoir characterization on Jurassic carbonate formations.
+
+- [[2021-ahmed|Ahmed, 2021]] performed reservoir characterization on the Marrat Formation to evaluate its potential as an analog.
+
+- [[2021-alqarni|Alqarni, 2021]] performed reservoir characterization to evaluate the impact of lithology on porosity and permeability.
+
+- [[2022-septriandi|Septriandi, 2022]] performed reservoir characterization on unconventional carbonate mudstones.
+
+- [[2022-syahputra|Syahputra, 2022]] performed reservoir-characterization to evaluate the impact of burrowing on permeability.
+
+- [[2022-samarkin|Samarkin, 2022]] used to assess how chemical treatments affected permeability and porosity.
+
+- [[2022-stiawan|Stiawan, 2022]] performed reservoir characterization on the Jubaila Formation.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] used reservoir characterization techniques to evaluate mudrock potential.
+
+- [[2022-bashri|Bashri, 2022]] performed reservoir-characterization on the Hanifa Formation.
+
+- [[2022-babker|Babker, 2022]] performed reservoir characterization on the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] performed reservoir characterization of the Al Wajh Formation.
+
+- [[2023-kusuma|Kusuma, 2023]] performed end-to-end reservoir characterization using ML and geostatistics.
+
+- [[2023-gad|Gad, 2023]] performed reservoir-characterization by predicting water saturation from well logs.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] performed reservoir-characterization to evaluate rock integrity after acid exposure.
+
+- [[2023-ahmed|Ahmed, 2023]] performed reservoir-characterization to understand pore-scale dynamics and core-scale behavior.
+
+- [[2024-alabbad|Alabbad, 2024]] focused on reservoir-characterization for both conventional and unconventional reservoirs.
+
+- [[2024-allam|Allam, 2024]] performed integrated reservoir characterization of Valanginian carbonates.
+
+- [[2024-abdrabo|Abdrabo, 2024]] applied reservoir-characterization to address heterogeneity in the Qalibah Formation.
+
+- [[2024-saraih|Saraih, 2024]] performed reservoir characterization on the Aruma Formation's burrow systems.
+
+- [[2024-hassan|Hassan, 2024]] performed reservoir-characterization to evaluate carbonate microfacies and petrophysics.
+
+- [[2024-yusmananto|Yusmananto, 2024]] performed reservoir-characterization on the UKM.
+
+- [[2024-muharrag|Muharrag, 2024]] characterized the reservoir quality of the Dam Formation.
+
+- [[2024-maigana|Maigana, 2024]] performed reservoir-characterization to determine suitability for COₒ storage.
+
+- [[2024-akomolafe|Akomolafe, 2024]] performed reservoir characterization by evaluating how drilling fluids impact NMR data interpretation.
+
+- [[2025-refaat|Refaat, 2025]] performed reservoir-characterization to evaluate the impact of burrow fillings on porosity and permeability.
+
+- [[2025-ahmed|Ahmed, 2025]] performed reservoir characterization on the Minjur Sandstone.
+
+- [[2002-elhassan|ElHassan, 2002]] characterized the Khafji reservoir's mechanical properties.
 
 ## Methods and Approaches Used
 
@@ -287,6 +447,70 @@ last_updated: 2026-06-09
 - Evaluated reservoir characteristics including RQI and FZI for the Dhruma Formation. ([[2017-yousif|Yousif, 2017, p. 127]])
 
 - Evaluated porosity, permeability, and lithofacies to determine reservoir quality. ([[2017-abdelgader|Abdelgader, 2017, p. 160]])
+
+- Understanding these factors helps to resolve complex heterogeneity in hydrocarbon reservoirs. ([[2022-al-alawi|Al-Alawi, 2022, p. 114]])
+
+- Used as a primary method to identify pay zones and gas-saturated areas. ([[2019-al-dawood|Al-Dawood, 2019, p. 15]])
+
+- Developed Reservoir Rock Types (RRTs) based on integrated petrophysical and geological data. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 124]])
+
+- Characterization included lithofacies analysis, mineralogy, diagenesis, and petrophysical property evaluation. ([[2020-islam|Islam, 2020, p. 127]])
+
+- Integrated chemostratigraphy and geomechanics for better characterization. ([[2020-gbiyanju|Gbiyanju, 2020, p. 103]])
+
+- Heterogeneity analysis revealed that porosity and permeability were heterogeneous to extremely heterogeneous. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+
+- The study identified that vuggy pores and microfractures are critical for enhancing permeability in this formation. ([[2021-ahmed|Ahmed, 2021, p. 89]])
+
+- Determined that reservoir quality is primarily controlled by sorting, grain packing, and cementation. ([[2021-alqarni|Alqarni, 2021, p. 82]])
+
+- Characterized lithofacies heterogeneity and depositional environments to understand the complexity of the system. ([[2022-septriandi|Septriandi, 2022, p. 56]])
+
+- Pipe frameworks showed permeability contrast between the burrow fills and the host rock matrix (up to ~788 mD). ([[2022-syahputra|Syahputra, 2022, p. 82]])
+
+- All treatments resulted in a decrease in permeability. ([[2022-samarkin|Samarkin, 2022, p. 13]])
+
+- Identified three Reservoir Rock Types (RRT) based on pore systems and rock quality. ([[2022-stiawan|Stiawan, 2022, p. 19]])
+
+- Characterizing pore systems and mechanical properties helps in designing hydraulic fracturing plans. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 20]])
+
+- Integrated sequence stratigraphy and petrophysical models to characterize the reservoir. ([[2022-bashri|Bashri, 2022, p. 104]])
+
+- Characterized lithofacies, petrophysical properties, and spatial heterogeneity to understand reservoir quality. ([[2022-babker|Babker, 2022, p. 14]])
+
+- Identified that sandstone bodies have higher permeability than conglomerate deposits. ([[2023-butt|Butt, 2023, p. 79]])
+
+- A combination of ML (SVM) and geostatistics is the best treatment for 3D prediction. ([[2023-kusuma|Kusuma, 2023, p. 18]])
+
+- Water saturation is a key parameter for evaluating hydrocarbon volume. ([[2023-gad|Gad, 2023, p. 32]])
+
+- Wormhole generation significantly altered porosity, permeability, and mechanical strength. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 14]])
+
+- T2 distribution was used to quantify oil in rock and determine most depleted pore sizes. ([[2023-ahmed|Ahmed, 2023, p. 24]])
+
+- Improved interpretation of porosity and kerogen content at seismic scale. ([[2024-alabbad|Alabbad, 2024, p. 123]])
+
+- Petrophysical parameters were distributed to each cell of the 3D grid in Petrel for modeling. ([[2024-allam|Allam, 2024, p. 39]])
+
+- Integration of sedimentology, petrophysics, and 3D modeling provides higher resolution for characterizing complex lithologies. ([[2024-abdrabo|Abdrabo, 2024, p. 14]])
+
+- Burrows act as significant flow paths, enhancing both porosity and permeability. ([[2024-saraih|Saraih, 2024, p. 37]])
+
+- Integrated core, well-log, and modeling data provided a comprehensive view of the reservoir. ([[2024-hassan|Hassan, 2024, p. 15]])
+
+- Characterized four distinct facies associations (FA1-FA4) to determine their suitability for CO2 storage. ([[2024-yusmananto|Yusmananto, 2024, p. 16]])
+
+- Stromatolite morphology (CF vs. LL) provides a distinct indicator for permeability distribution. ([[2024-muharrag|Muharrag, 2024, p. 40]])
+
+- Reservoir porosity ranged from 15% to 22% with permeability between 30 mD and 195 mD. ([[2024-maigana|Maigana, 2024, p. 12]])
+
+- Inaccurate assessment of formation's storage and flow characteristics can occur if bulk relaxation is not accounted for. ([[2024-akomolafe|Akomolafe, 2024, p. 37]])
+
+- Burrow fillings significantly influence reservoir quality by creating distinct pore systems compared to the host rock matrix. ([[2025-refaat|Refaat, 2025, p. 1]])
+
+- Five lithofacies classes were identified based on texture, porosity, and permeability. ([[2025-ahmed|Ahmed, 2025, p. 38]])
+
+- The (LST) has the highest Young's modulus and Poisson's ratio relative to the (TST). ([[2002-elhassan|ElHassan, 2002, p. 19]])
 
 ## Competing Approaches and Debates
 

@@ -26,7 +26,7 @@ keywords:
   - attenuation algorithm
   - least mean square estimation
 techniques:
-  - semblance-measurement
+  - seismic-attribute-analysis
   - ricker-wavelet
   - matlab
   - least-squares-fitting
@@ -38,7 +38,7 @@ tags:
   - technique/seismic-processing
   - technique/matlab
   - technique/least-squares-fitting
-  - technique/semblance-measurement
+  - technique/seismic-attribute-analysis
   - technique/least-mean-square-estimation
   - theme/geophysics-general
   - theme/applied-geophysics
@@ -132,7 +132,7 @@ Ambiguity in mapping occurs when the seismic source is located directly on the l
 - [[least-squares-fitting]]
 - [[semblance]]
 - [[near-surface-diffraction]]
-- [[semblance-measurement]]
+- [[seismic-attribute-analysis]]
 - [[least-mean-square-estimation]]
 - [[near-surface-diffractors]]
 - [[surface-waves]]

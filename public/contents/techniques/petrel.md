@@ -21,8 +21,14 @@ sources:
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142462 - PORE-SCALE INVESTIGATION OF IFT DYNAMICS FOR CHEMICAL EOR APPLICATIONS.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petrel
@@ -53,6 +59,18 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] used Petrel to construct 3D geostatistical models of lithofacies and petrophysical properties.
 
+- [[2022-babker|Babker, 2022]] used Petrel to construct lithofacies models from outcrop data.
+
+- [[2023-ahmed|Ahmed, 2023]] used Petrel for field-scale simulation of fractured reservoirs.
+
+- [[2024-abdrabo|Abdrabo, 2024]] used Petrel to construct 3D static models of the Qalibah Formation's lithofacies and petrophysical properties.
+
+- [[2024-yusmananto|Yusmananto, 2024]] used Petrel to perform 3D reservoir modeling and CO2 injection simulations.
+
+- [[2024-fahmi|Fahmi, 2024]] used Petrel to prepare data and create 3D basemaps and bathymetry for the forward modeling process.
+
+- [[2024-maigana|Maigana, 2024]] used Petrel to perform geomechanical modeling of faults including slip tendency and dilation.
+
 ## Instruments and Software
 
 
@@ -74,6 +92,18 @@ last_updated: 2026-06-09
 - [[2017-yousif|Yousif, 2017]] used Petrel to simulate facies and petrophysical properties (porosity and permeability).
 
 - [[2017-abdelgader|Abdelgader, 2017]] used Petrel to construct 3D geostatistical models of lithofacies and petrophysical properties.
+
+- [[2022-babker|Babker, 2022]] used Petrel to construct lithofacies models from outcrop data.
+
+- [[2023-ahmed|Ahmed, 2023]] used Petrel for field-scale simulation of fractured reservoirs.
+
+- [[2024-abdrabo|Abdrabo, 2024]] used Petrel to construct 3D static models of the Qalibah Formation's lithofacies and petrophysical properties.
+
+- [[2024-yusmananto|Yusmananto, 2024]] used Petrel to perform 3D reservoir modeling and CO2 injection simulations.
+
+- [[2024-fahmi|Fahmi, 2024]] used Petrel to prepare data and create 3D basemaps and bathymetry for the forward modeling process.
+
+- [[2024-maigana|Maigana, 2024]] used Petrel to perform geomechanical modeling of faults including slip tendency and dilation.
 
 ## Typical Workflow
 
@@ -100,6 +130,18 @@ last_updated: 2026-06-09
 - Petrel was used to perform kriging and simulation to develop 3D models of the Dhruma Formation. ([[2017-yousif|Yousif, 2017, p. 81]])
 
 - Used to model the distribution of facies and properties in a 3D grid. ([[2017-abdelgader|Abdelgader, 2017, p. 197]])
+
+- Lithofacies models were constructed using a sequential indicator simulation algorithm in Petrel. ([[2022-babker|Babker, 2022, p. 88]])
+
+- Field-scale simulation was used to evaluate the impact of viscosity, IFT, and fracture characteristics on recovery rates. ([[2023-ahmed|Ahmed, 2023, p. 13]])
+
+- Successfully integrated lithofacies distribution into high-resolution deterministic static models. ([[2024-abdrabo|Abdrabo, 2024, p. 68]])
+
+- Used to model the impact of CO2 injection on subsurface dynamics in Upper Kharaib reservoirs. ([[2024-yusmananto|Yusmananto, 2024]])
+
+- Not stated in source ([[2024-fahmi|Fahmi, 2024]])
+
+- The fault's modeled slip tendency showed a maximum value of 0.11%, indicating stable faults. ([[2024-maigana|Maigana, 2024, p. 67]])
 
 ## Methodological Variations Across Sources
 

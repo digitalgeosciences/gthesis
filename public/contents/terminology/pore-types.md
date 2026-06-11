@@ -12,8 +12,9 @@ tags:
   - theme/reservoir-characterization
 sources:
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Pore Types
@@ -26,9 +27,13 @@ last_updated: 2026-06-09
 
 - [[2017-yousif|Yousif, 2017]] identified different pore types to assess the impact of diagenesis on reservoir quality.
 
+- [[2022-salih|Salih, 2022]] categorized pore types into eight categories including interparticle, moldic, vugs, and micro-intercrystalline.
+
 ## Scientific Context
 
 - [[2017-yousif|Yousif, 2017]] Pore types are essential for understanding the connectivity and volume of reservoir space.
+
+- [[2022-salih|Salih, 2022]] categorized pore types into eight categories including interparticle, moldic, vugs, and micro-intercrystalline.
 
 ## Measurement and Characterization Methods
 
@@ -37,6 +42,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - Four primary pore types were identified: fracture, intraparticle, moldic, and intercrystalline; fracture and intraparticle are the dominant types. ([[2017-yousif|Yousif, 2017, p. 19]])
+
+- Moldic porosity was identified as the most common pore type by volume in the study area. ([[2022-salih|Salih, 2022, p. 59]])
 
 ## Contrasting Values and Interpretations
 

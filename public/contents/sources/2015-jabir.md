@@ -48,7 +48,7 @@ keywords:
   - Stochastic Mapping
 techniques:
   - petrophysics
-  - lithofacies-analysis
+  - lithofacies
   - geostatistics
   - kriging
   - sequential-gaussian-simulation

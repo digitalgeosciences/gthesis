@@ -20,8 +20,10 @@ sources:
   - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
   - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Dam Formation
@@ -48,6 +50,10 @@ last_updated: 2026-06-09
 
 - [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
 
+- [[2024-muharrag|Muharrag, 2024]] studied the Dam Formation to evaluate the impact of stromatolite morphology on reservoir quality.
+
+- [[2002-al-ali|Al-Ali, 2002]] analyzed Dam Formation samples to characterize local lithology.
+
 ## Depositional Environment
 
 - [[2006-al-enezi|Al-Enezi, 2006]] marine carbonate system with shoaling-upward cycles
@@ -65,6 +71,10 @@ last_updated: 2026-06-09
 - [[2017-mohammed-2|Mohammed, 2017]] studied the Dam Formation to develop a regional sequence stratigraphic model.
 
 - [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
+
+- [[2024-muharrag|Muharrag, 2024]] studied the Dam Formation to evaluate the impact of stromatolite morphology on reservoir quality.
+
+- [[2002-al-ali|Al-Ali, 2002]] analyzed Dam Formation samples to characterize local lithology.
 
 ## Reservoir Properties
 
@@ -87,6 +97,10 @@ last_updated: 2026-06-09
 - Contains 17 lithofacies ranging from mid-ramp to inner ramp settings. ([[2017-mohammed-2|Mohammed, 2017, p. 16]])
 
 - The Dam Formation consists of limestones. ([[2018-mohamed|Mohamed, 2018, p. 37]])
+
+- The formation contains both columnar (CF) and laterally linked (LL) stromatolites with varying petrophysical properties. ([[2024-muharrag|Muharrag, 2024, p. 17]])
+
+- The Dam Formation contains shallow marine and warm water fossils and is approximately 30-100m thick. ([[2002-al-ali|Al-Ali, 2002, p. 67]])
 
 ## Conflicting Interpretations Across Sources
 

@@ -9,8 +9,9 @@ tags: []
 sources:
   - "raw/138787 - Investigation of Source Rock Potential and Micropaleontology of the Middle Ordov.pdf"
   - "raw/139856 - GEOCHEMICAL AND PETROGRAPHICAL STUDY OF THE SHARAWRA FORMATION, OLD QUSAIBA VILL.pdf"
+  - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Sedimentary Geochemistry
@@ -25,11 +26,15 @@ last_updated: 2026-06-09
 
 - [[2016-abbas|Abbas, 2016]] performed sedimentary-geochemistry to determine the tectonic setting and source area.
 
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] analyzed the sedimentary geochemistry to determine the mineralogical evolution of the sabkha.
+
 ## Key Subtopics
 
 
 
 - [[2016-abbas|Abbas, 2016]] performed sedimentary-geochemistry to determine the tectonic setting and source area.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] analyzed the sedimentary geochemistry to determine the mineralogical evolution of the sabkha.
 
 ## Methods and Approaches Used
 
@@ -40,6 +45,8 @@ last_updated: 2026-06-09
 - contributed to the theme of Sedimentary Geochemistry ([[2012-ghazwani|Ghazwani, 2012]])
 
 - Major and trace elements indicate a passive continental margin as the tectonic setting of the sandstone. ([[2016-abbas|Abbas, 2016, p. 19]])
+
+- Brine chemistry showed that Mg:Ca ratios increased during gypsum precipitation, leading to dolomite formation. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 36]])
 
 ## Competing Approaches and Debates
 

@@ -14,8 +14,12 @@ sources:
   - "raw/139215 - Joint Inversion of Gravity and Ground Penetrating Radar Data to Characterize Sub.pdf"
   - "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
   - "raw/139620 - Improved 3-D Seismic Edge Detection with the Magic Cube Operator.pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
+  - "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # MATLAB
@@ -34,6 +38,14 @@ last_updated: 2026-06-08
 
 - [[2015-adetokunbo|Adetokunbo, 2015]] used Matlab to implement the magic square and cube algorithms and process seismic data.
 
+- [[2020-abdallah|Abdallah, 2020]] used MATLAB to conduct statistical analysis and develop ANN models.
+
+- [[2023-edigbue|Edigbue, 2023]] used MATLAB to implement optimization algorithms and process DCR/SR data.
+
+- [[2024-makki|Makki, 2024]] used MATLAB to process and analyze seismic data from the sand dune survey.
+
+- [[2024-jahlan|Jahlan, 2024]] used MATLAB with the SeisLab package to process and visualize seismic data.
+
 ## Instruments and Software
 
 
@@ -43,6 +55,14 @@ last_updated: 2026-06-08
 - [[2015-mohammed|Mohammed, 2015]] used MATLAB to implement the visco-acoustic PSPI algorithm and IQA framework.
 
 - [[2015-adetokunbo|Adetokunbo, 2015]] used Matlab to implement the magic square and cube algorithms and process seismic data.
+
+- [[2020-abdallah|Abdallah, 2020]] used MATLAB to conduct statistical analysis and develop ANN models.
+
+- [[2023-edigbue|Edigbue, 2023]] used MATLAB to implement optimization algorithms and process DCR/SR data.
+
+- [[2024-makki|Makki, 2024]] used MATLAB to process and analyze seismic data from the sand dune survey.
+
+- [[2024-jahlan|Jahlan, 2024]] used MATLAB with the SeisLab package to process and visualize seismic data.
 
 ## Typical Workflow
 
@@ -57,6 +77,14 @@ last_updated: 2026-06-08
 - The simulation was performed using MATLAB software on an Intel(R) core(TM) i5-3210M CPU. ([[2015-mohammed|Mohammed, 2015, p. 76]])
 
 - Not stated in source ([[2015-adetokunbo|Adetokunbo, 2015]])
+
+- MATLAB was used to extract weights and biases from the developed ANN model. ([[2020-abdallah|Abdallah, 2020, p. 59]])
+
+- Not stated in source ([[2023-edigbue|Edigbue, 2023]])
+
+- Not stated in source ([[2024-makki|Makki, 2024]])
+
+- Used specifically for implementing trace replacement logic and image resizing functions (imresize) during parallax processing. ([[2024-jahlan|Jahlan, 2024, p. 40]])
 
 ## Methodological Variations Across Sources
 

@@ -40,7 +40,7 @@ techniques:
   - fwi
   - rtm
   - swi
-  - finite-difference-modeling
+  - finite-difference
   - ray-tracing
   - signal-processing
   - groundwater-modeling
@@ -67,10 +67,9 @@ tags:
   - technique/seismic-inversion
   - technique/seismic-processing
   - technique/surface-wave-inversion
-  - technique/finite-difference-modeling
+  - technique/finite-difference
   - technique/ray-tracing
   - technique/groundwater-modeling
-  - technique/surface-wave-analysis
   - technique/well-log-analysis
   - technique/velocity-analysis
   - theme/near-surface-geophysics
@@ -146,13 +145,12 @@ Not stated in source
 
 - [[seismic-inversion]]
 - [[surface-wave-inversion]]
-- [[finite-difference-modeling]]
+- [[finite-difference]]
 - [[cycle-skip]]
 - [[karst-hazards]]
 - [[near-surface-geophysics]]
 - [[seismic-imaging]]
 - [[saudi-arabia]]
-- [[finite-difference-method]]
 - [[umm-er-radhuma-formation]]
 - [[rus-formation]]
 - [[dammam-formation]]
@@ -160,7 +158,6 @@ Not stated in source
 - [[dam-formation]]
 - [[hofuf-formation]]
 - [[acoustic-impedance]]
-- [[surface-wave-analysis]]
 - [[ray-tracing]]
 - [[velocity-modeling]]
 - [[seismic-processing]]

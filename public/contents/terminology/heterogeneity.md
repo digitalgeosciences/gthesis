@@ -15,8 +15,12 @@ sources:
   - "raw/139776 - High-resolution stratigraphic architecture and sedimentological heterogeneity wi.pdf"
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Heterogeneity
@@ -37,6 +41,14 @@ last_updated: 2026-06-09
 
 - [[2017-adam|Adam, 2017]] investigated the scale of reservoir heterogeneity from microscopic to gigascopic levels.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] addressed the impact of dune and interdune interactions on reservoir heterogeneity.
+
+- [[2020-islam|Islam, 2020]] assessed the reservoir heterogeneity of the Sarah Formation using statistical tools.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the heterogeneity of porosity and permeability using statistical indices.
+
+- [[2024-abdrabo|Abdrabo, 2024]] addressed the heterogeneity issue in unconventional reservoirs.
+
 ## Scientific Context
 
 - [[2014-el-deek|El-Deek, 2014]] Critical for predicting flow behavior and estimating reserves.
@@ -48,6 +60,14 @@ last_updated: 2026-06-09
 - [[2017-mohammed-2|Mohammed, 2017]] investigated the heterogeneity of the Dam Formation to understand its impact on reservoir quality.
 
 - [[2017-adam|Adam, 2017]] investigated the scale of reservoir heterogeneity from microscopic to gigascopic levels.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] addressed the impact of dune and interdune interactions on reservoir heterogeneity.
+
+- [[2020-islam|Islam, 2020]] assessed the reservoir heterogeneity of the Sarah Formation using statistical tools.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the heterogeneity of porosity and permeability using statistical indices.
+
+- [[2024-abdrabo|Abdrabo, 2024]] addressed the heterogeneity issue in unconventional reservoirs.
 
 ## Measurement and Characterization Methods
 
@@ -64,6 +84,14 @@ last_updated: 2026-06-09
 - Heterogeneity is both depositional and diagenetic, occurring at scales from cm to km. ([[2017-mohammed-2|Mohammed, 2017, p. 20]])
 
 - Heterogeneity is controlled by depositional and post-depositional processes. ([[2017-adam|Adam, 2017, p. 78]])
+
+- Interactions between aeolian elements are key to understanding complex subsurface systems. ([[2022-al-alawi|Al-Alawi, 2022, p. 19]])
+
+- Heterogeneity was quantified using Coefficient of Variation (CV), Dykstra-Parsons coefficient, and Lorenz plots. ([[2020-islam|Islam, 2020, p. 89]])
+
+- Heterogeneity analysis revealed that the values were heterogeneous to extremely heterogeneous. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+
+- Unconventional reservoirs display substantial vertical and horizontal heterogeneity issues. ([[2024-abdrabo|Abdrabo, 2024, p. 88]])
 
 ## Contrasting Values and Interpretations
 

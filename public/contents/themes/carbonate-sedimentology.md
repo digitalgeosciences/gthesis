@@ -13,8 +13,11 @@ sources:
   - "raw/139776 - High-resolution stratigraphic architecture and sedimentological heterogeneity wi.pdf"
   - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Carbonate Sedimentology
@@ -37,6 +40,12 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] analyzed carbonate-sedimentology to interpret the Dhruma Formation's evolution.
 
+- [[2021-ahmed|Ahmed, 2021]] applied carbonate-sedimentology to characterize the Upper Marrat Member's lithofacies and pore systems.
+
+- [[2022-khan|Khan, 2022]] applied carbonate-sedimentology to characterize the sedimentary environment as a carbonate ramp.
+
+- [[2022-syahputra|Syahputra, 2022]] applied carbonate-sedimentology to interpret the depositional environment of the Hanifa Formation.
+
 ## Key Subtopics
 
 
@@ -50,6 +59,12 @@ last_updated: 2026-06-09
 - [[2017-mohammed|Mohammed, 2017]] applied carbonate-sedimentology to characterize the TQMN.
 
 - [[2018-ismanto|Ismanto, 2018]] analyzed carbonate-sedimentology to interpret the Dhruma Formation's evolution.
+
+- [[2021-ahmed|Ahmed, 2021]] applied carbonate-sedimentology to characterize the Upper Marrat Member's lithofacies and pore systems.
+
+- [[2022-khan|Khan, 2022]] applied carbonate-sedimentology to characterize the sedimentary environment as a carbonate ramp.
+
+- [[2022-syahputra|Syahputra, 2022]] applied carbonate-sedimentology to interpret the depositional environment of the Hanifa Formation.
 
 ## Methods and Approaches Used
 
@@ -68,6 +83,12 @@ last_updated: 2026-06-09
 - Identified distinct facies related to carbonate ramp settings. ([[2017-mohammed|Mohammed, 2017, p. 30]])
 
 - Identified 8 microfacies types ranging from lagoonal to open marine settings. ([[2018-ismanto|Ismanto, 2018, p. 65]])
+
+- The upper part is an oomicrite with intergranular and intragranular porosity. ([[2021-ahmed|Ahmed, 2021, p. 65]])
+
+- The area is characterized as an inner ramp with distinct successions of sediments on shoreface, beach, lagoon, and tidal flat. ([[2022-khan|Khan, 2022, p. 151]])
+
+- Host rock was deposited in a middle carbonate ramp setting. ([[2022-syahputra|Syahputra, 2022, p. 81]])
 
 ## Competing Approaches and Debates
 

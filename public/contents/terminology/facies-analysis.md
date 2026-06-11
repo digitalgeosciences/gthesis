@@ -20,8 +20,10 @@ sources:
   - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
   - "raw/140123 - 3D GEOSTATISTICAL MODELING OF FACIES AND PETROPHYSICAL PROPERTIES OF THE UPPER K.pdf"
   - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Facies Analysis
@@ -48,6 +50,10 @@ last_updated: 2026-06-09
 
 - [[2018-butt|Butt, 2018]] performed facies-analysis to identify 13 sub-lithofacies in the Nutaysh member.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] analyzed dune and interdune facies to understand stratigraphic complexity.
+
+- [[2023-butt|Butt, 2023]] performed facies analysis to identify sedimentary lithofacies in the Al Wajh Formation.
+
 ## Scientific Context
 
 - [[2010-al-mojel|Al-Mojel, 2010]] Used to define the depositional environment and reservoir heterogeneity.
@@ -65,6 +71,10 @@ last_updated: 2026-06-09
 - [[2016-makkawi|Makkawi, 2016]] performed facies analysis to identify four depositional sub-environments.
 
 - [[2018-butt|Butt, 2018]] performed facies-analysis to identify 13 sub-lithofacies in the Nutaysh member.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] analyzed dune and interdune facies to understand stratigraphic complexity.
+
+- [[2023-butt|Butt, 2023]] performed facies analysis to identify sedimentary lithofacies in the Al Wajh Formation.
 
 ## Measurement and Characterization Methods
 
@@ -87,6 +97,10 @@ last_updated: 2026-06-09
 - Eleven lithofacies types were distinguished and listed into four groups. ([[2016-makkawi|Makkawi, 2016, p. 122]])
 
 - Four Pickering facies classes (A, B, C, and E) were identified based on grain size and sedimentary structures. ([[2018-butt|Butt, 2018, p. 198]])
+
+- Not stated in source ([[2022-al-alawi|Al-Alawi, 2022]])
+
+- Four main facies associations (FA1-FA4) were identified based on sedimentological features. ([[2023-butt|Butt, 2023, p. 57]])
 
 ## Contrasting Values and Interpretations
 

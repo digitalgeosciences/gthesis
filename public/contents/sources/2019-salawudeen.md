@@ -46,7 +46,7 @@ tags:
   - technique/sem
   - technique/ftir
   - technique/icp-ms
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/edx
   - technique/uv-vis
   - technique/bet

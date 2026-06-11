@@ -25,8 +25,15 @@ sources:
   - "raw/140123 - 3D GEOSTATISTICAL MODELING OF FACIES AND PETROPHYSICAL PROPERTIES OF THE UPPER K.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
+  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Geostatistics
@@ -63,6 +70,20 @@ last_updated: 2026-06-09
 
 - [[2017-adam|Adam, 2017]] applied geostatistical techniques like Kriging to model the distribution of facies, porosity, and permeability.
 
+- [[2022-karami|Karami, 2022]] applied geostatistics to integrate InSAR and GRACE datasets.
+
+- [[2022-bashri|Bashri, 2022]] applied geostatistical modeling including sequential Gaussian simulation to quantify spatial variation of petrophysical properties.
+
+- [[2022-babker|Babker, 2022]] applied geostatistics to model the spatial heterogeneity of lithofacies in the Upper Khartam Member.
+
+- [[2023-kusuma|Kusuma, 2023]] used geostatistics as a ground truth for comparison against ML models in 3D space.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] applied geostatistics to estimate the reserves in the Abu Tartur deposit.
+
+- [[2002-al-ali|Al-Ali, 2002]] used geostatistics to integrate sparse uphole data with dense vibrator performance data.
+
+- [[1985-ghaled|Ghaled, 1985]] applied geostatistical computations to determine the spatial distribution of MgO and CaO.
+
 ## Instruments and Software
 
 
@@ -90,6 +111,20 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] used 3D geostatistical modeling to map the distribution of Schmidt hammer readings and P-wave velocities across the study area.
 
 - [[2017-adam|Adam, 2017]] applied geostatistical techniques like Kriging to model the distribution of facies, porosity, and permeability.
+
+- [[2022-karami|Karami, 2022]] applied geostatistics to integrate InSAR and GRACE datasets.
+
+- [[2022-bashri|Bashri, 2022]] applied geostatistical modeling including sequential Gaussian simulation to quantify spatial variation of petrophysical properties.
+
+- [[2022-babker|Babker, 2022]] applied geostatistics to model the spatial heterogeneity of lithofacies in the Upper Khartam Member.
+
+- [[2023-kusuma|Kusuma, 2023]] used geostatistics as a ground truth for comparison against ML models in 3D space.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] applied geostatistics to estimate the reserves in the Abu Tartur deposit.
+
+- [[2002-al-ali|Al-Ali, 2002]] used geostatistics to integrate sparse uphole data with dense vibrator performance data.
+
+- [[1985-ghaled|Ghaled, 1985]] applied geostatistical computations to determine the spatial distribution of MgO and CaO.
 
 ## Typical Workflow
 
@@ -122,6 +157,20 @@ last_updated: 2026-06-09
 - The 3D geostatistical model showed that sandstones had higher surface hardness compared to shale and mudstone lithofacies. ([[2017-mahgoub|Mahgoub, 2017, p. 120]])
 
 - Used to evaluate the spatial heterogeneity of variables at the outcrop scale. ([[2017-adam|Adam, 2017, p. 51]])
+
+- Geostatistics were used to estimate unknown values due to lack of coherence in cultivated areas. ([[2022-karami|Karami, 2022, p. 13]])
+
+- The sequential Gaussian simulation is a powerful tool that helps understand the spatial variation and predict properties in unstudied areas. ([[2022-bashri|Bashri, 2022, p. 32]])
+
+- Geostatistical methods were used to quantify the distribution of reservoir-quality facies. ([[2022-babker|Babker, 2022]])
+
+- Geostatistics outperformed ML in respecting well data but had limitations in spatial prediction. ([[2023-kusuma|Kusuma, 2023, p. 20]])
+
+- Kriging provided reliable estimates with small standard deviations for 3752 blocks. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 18]])
+
+- Geostatistical integration (kriging/co-kriging) successfully combined two different data scales to improve velocity models. ([[2002-al-ali|Al-Ali, 2002, p. 19]])
+
+- Semivariograms revealed continuous behavior near the origin, typical of sedimentary deposits. ([[1985-ghaled|Ghaled, 1985, p. 23]])
 
 ## Methodological Variations Across Sources
 

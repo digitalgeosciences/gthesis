@@ -55,8 +55,32 @@ sources:
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/141361 - Rock Physics Modeling and Inversion in Glacial Ordovician Reservoirs.pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/141782 - FIRST ARRIVAL PICKING USING TWO DIFFERENT METHODS MDPE AND DBSCAN.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/141979 - Real-Time Advisory Hole-Cleaning Model.pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
+  - "raw/142331 - PREDICTION OF FORMATION PRESSURE FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TE.pdf"
+  - "raw/142334 - PREDICTION OF WATER SATURATION FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TECH.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
+  - "raw/143184 - SYSTEMATIC INVESTIGATION OF DRILLING FLUID IMPACT ON NMR INTERPRETATION FOR FORM.pdf"
+  - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Well Log Analysis
@@ -153,6 +177,54 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] used well-log-analysis (Gamma Ray) to identify lithofacies and calculate sand/shale percentages in the Abu Gabra Formation.
 
+- [[2019-al-dawood|Al-Dawood, 2019]] used well- logs for rock physics modeling and feasibility studies.
+
+- [[2020-abdallah|Abdallah, 2020]] used well-log-analysis (GR, RHOB, NPHI) as primary inputs for the ANN models.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used well-log-analysis principles to relate lithology and petrophysics.
+
+- [[2020-almumtin|Almumtin, 2020]] used wireline data to establish the initial parameters for the Rock Physics Model (RPM).
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] used well-log-analysis to calibrate rock elastic properties (REP) with core measurements for better upscaling.
+
+- [[2021-almashhor|AlMashhor, 2021]] applied well-log-analysis to compare MDPE and DBSCAN methods for automated picking.
+
+- [[2021-albensaad|Albensaad, 2021]] applied well-log-analysis to establish rock strength profiles and compare them with core-based results.
+
+- [[2021-siddiq|Siddiq, 2021]] used SIP for real-time monitoring of arsenic removal.
+
+- [[2021-al-malki|Al-Malki, 2021]] utilized real-time data from the DRU system and Saudi Aramco's platform to monitor hole cleaning.
+
+- [[2022-syahputra|Syahputra, 2022]] used well-log-analysis to map the spatial distribution of burrowed strata.
+
+- [[2023-kusuma|Kusuma, 2023]] applied well-log-analysis to predict missing porosity and facies data from 1D log sets.
+
+- [[2023-alzayer|Alzayer, 2023]] used well-log-analysis data (resistivity, GR, density, sonic) as inputs for the machine learning models.
+
+- [[2023-gad|Gad, 2023]] used well logs (resistivity, GR, density, sonic, neutron) as inputs for ANN models.
+
+- [[2024-alabbad|Alabbad, 2024]] used well-log-analysis to characterize carbonate reservoirs and organic-rich mudrocks.
+
+- [[2024-allam|Allam, 2024]] applied well-log-analysis to evaluate the reservoir characteristics of the Valanginian carbonates.
+
+- [[2024-hassan|Hassan, 2024]] used well-log-analysis to correlate core data with log responses (GR, NPHI, RHOB).
+
+- [[2024-yusmananto|Yusmananto, 2024]] used well-log_analysis to characterize the Upper Kharaib Member (UKM) reservoir properties.
+
+- [[2024-fahmi|Fahmi, 2024]] used well-log-analysis from the Riyadh and Khurais wells to calibrate the model.
+
+- [[2024-maigana|Maigana, 2024]] used well-log-analysis to characterize reservoir property and connectivity in the Taranaki Basin.
+
+- [[2024-akomolafe|Akomolafe, 2024]] applied well-log-analysis to interpret NMR T2 responses in the context of formation evaluation.
+
+- [[2025-al-afif|Al-Afif, 2025]] processed meteorological data using CALMET to generate surface friction velocity and other parameters.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied well-log-analysis to correlate units between wells 587 and 628.
+
+- [[2002-al-ali|Al-Ali, 2002]] used uphole surveys to measure direct P-wave velocity ($V_p$) in near-surface layers.
+
+- [[2002-elhassan|ElHassan, 2002]] applied well-log-analysis including FMI for in-situ stress orientation.
+
 ## Instruments and Software
 
 
@@ -240,6 +312,54 @@ last_updated: 2026-06-09
 - [[2017-yousif|Yousif, 2017]] used petrophysical analysis to determine the flow zone indicators (FZI) for the Dhruma Formation.
 
 - [[2017-abdelgader|Abdelgader, 2017]] used well-log-analysis (Gamma Ray) to identify lithofacies and calculate sand/shale percentages in the Abu Gabra Formation.
+
+- [[2019-al-dawood|Al-Dawood, 2019]] used well- logs for rock physics modeling and feasibility studies.
+
+- [[2020-abdallah|Abdallah, 2020]] used well-log-analysis (GR, RHOB, NPHI) as primary inputs for the ANN models.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used well-log-analysis principles to relate lithology and petrophysics.
+
+- [[2020-almumtin|Almumtin, 2020]] used wireline data to establish the initial parameters for the Rock Physics Model (RPM).
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] used well-log-analysis to calibrate rock elastic properties (REP) with core measurements for better upscaling.
+
+- [[2021-almashhor|AlMashhor, 2021]] applied well-log-analysis to compare MDPE and DBSCAN methods for automated picking.
+
+- [[2021-albensaad|Albensaad, 2021]] applied well-log-analysis to establish rock strength profiles and compare them with core-based results.
+
+- [[2021-siddiq|Siddiq, 2021]] used SIP for real-time monitoring of arsenic removal.
+
+- [[2021-al-malki|Al-Malki, 2021]] utilized real-time data from the DRU system and Saudi Aramco's platform to monitor hole cleaning.
+
+- [[2022-syahputra|Syahputra, 2022]] used well-log-analysis to map the spatial distribution of burrowed strata.
+
+- [[2023-kusuma|Kusuma, 2023]] applied well-log-analysis to predict missing porosity and facies data from 1D log sets.
+
+- [[2023-alzayer|Alzayer, 2023]] used well-log-analysis data (resistivity, GR, density, sonic) as inputs for the machine learning models.
+
+- [[2023-gad|Gad, 2023]] used well logs (resistivity, GR, density, sonic, neutron) as inputs for ANN models.
+
+- [[2024-alabbad|Alabbad, 2024]] used well-log-analysis to characterize carbonate reservoirs and organic-rich mudrocks.
+
+- [[2024-allam|Allam, 2024]] applied well-log-analysis to evaluate the reservoir characteristics of the Valanginian carbonates.
+
+- [[2024-hassan|Hassan, 2024]] used well-log-analysis to correlate core data with log responses (GR, NPHI, RHOB).
+
+- [[2024-yusmananto|Yusmananto, 2024]] used well-log_analysis to characterize the Upper Kharaib Member (UKM) reservoir properties.
+
+- [[2024-fahmi|Fahmi, 2024]] used well-log-analysis from the Riyadh and Khurais wells to calibrate the model.
+
+- [[2024-maigana|Maigana, 2024]] used well-log-analysis to characterize reservoir property and connectivity in the Taranaki Basin.
+
+- [[2024-akomolafe|Akomolafe, 2024]] applied well-log-analysis to interpret NMR T2 responses in the context of formation evaluation.
+
+- [[2025-al-afif|Al-Afif, 2025]] processed meteorological data using CALMET to generate surface friction velocity and other parameters.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied well-log-analysis to correlate units between wells 587 and 628.
+
+- [[2002-al-ali|Al-Ali, 2002]] used uphole surveys to measure direct P-wave velocity ($V_p$) in near-surface layers.
+
+- [[2002-elhassan|ElHassan, 2002]] applied well-log-analysis including FMI for in-situ stress orientation.
 
 ## Typical Workflow
 
@@ -332,6 +452,54 @@ last_updated: 2026-06-09
 - Nine hydraulic flow units were established with FZI values ranging from 0.0938 to 1.5. ([[2017-yousif|Yousif, 2017, p. 20]])
 
 - Gamma ray logs were used to distinguish between sandstone-dominated (yellow) and mudstone-dominated (green) units in braided delta systems. ([[2017-abdelgader|Abdelgader, 2017, p. 142]])
+
+- Well log cross plots were used to determine pay zones through gas fluid substitution using the Gassmann equation. ([[2019-al-dawood|Al-Dawood, 2019, p. 15]])
+
+- Integration of GR, RHOB, and NPHI logs allowed for the prediction of porosity with an AAPE of 5.94. ([[2020-abdallah|Abdallah, 2020, p. 17]])
+
+- Used the cementation exponent (m) derived from log-based equations to characterize rock types. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 120]])
+
+- Wireline data from 8 wells provided both sonic and dipole data, density, and mineralogical interpretation. ([[2020-almumtin|Almumtin, 2020, p. 18]])
+
+- Calibration of well log REP with core measurements is essential for geomechanical modeling in unconventional reservoirs. ([[2020-gbiyanju|Gbiyanju, 2020, p. 33]])
+
+- First arrival traveltime is essential to be picked accurately to enhance the efficiency of static correction. ([[2021-almashhor|AlMashhor, 2021, p. 14]])
+
+- Log-based UCS showed higher strength across the tested interval compared to scratch test values, potentially leading to overestimation in models. ([[2021-albensaad|Albensaad, 2021, p. 33]])
+
+- SIP monitoring showed changes in signals consistent with arsenic removal confirmed by chemical analysis. ([[2021-siddiq|Siddiq, 2021, p. 13]])
+
+- Real-time monitoring of YP, PV, ROP, and ECD allows for immediate adjustment of drilling parameters to maintain HCF above 1.0. ([[2021-al-malki|Al-Malki, 2021, p. 42]])
+
+- The burrowed stratum has a laterally similar spatial stratigraphic pattern for ~30 km. ([[2022-syahputra|Syahputra, 2022, p. 81]])
+
+- ANN, RF, and SVM were the primary models used for 1D prediction from well logs. ([[2023-kusuma|Kusuma, 2023, p. 20]])
+
+- Data points included temperature, porosity, and water saturation derived from logs to predict pore pressure. ([[2023-alzayer|Alzayer, 2023, p. 13]])
+
+- Well-logs provide continuous data across the depth of the reservoir, unlike core analysis which provides discrete points. ([[2023-gad|Gad, 2023, p. 15]])
+
+- Wireline data (GR, bulk density, Vp, Vs) provided the basis for rock physics diagnostics in both carbonate and shale systems. ([[2024-alabbad|Alabbad, 2024, p. 101]])
+
+- Not stated in source ([[2024-allam|Allam, 2024]])
+
+- Core results showed good agreement with wireline logs regarding calcite-dolomite segregation and acoustic variation. ([[2024-hassan|Hassan, 2024, p. 14]])
+
+- Well log correlation analysis across all wells identified distinct facies associations (FA1-FA4). ([[2024-yusmananto|Yusmananto, 2024, p. 40]])
+
+- Well data were used to validate the simulated lithologies and facies with high accuracy. ([[2024-fahmi|Fahmi, 2024, p. 65]])
+
+- Petrophysical analysis showed average effective porosity of 15-22% for the reservoir and 3-5% for the seal. ([[2024-maigana|Maigana, 2024, p. 12]])
+
+- Not stated in source (specific results are in Chapter 4). ([[2024-akomolafe|Akomolafe, 2024]])
+
+- Meteorological inputs were sourced from three regional stations within a 150-km radius. ([[2025-al-afif|Al-Afif, 2025, p. 31]])
+
+- Correlation in the two wells was achieved using core descriptions, well logs, and thin section analysis. ([[1992-abdulghani|Abdulghani, 1992, p. 1]])
+
+- Uphole surveys provide the primary ground truth for $V_p$ values used in the correlation study. ([[2002-al-ali|Al-Ali, 2002, p. 45]])
+
+- The azimuths of the minimum and maximum horizontal stress are approximately northwest and northeast, respectively. ([[2002-elhassan|ElHassan, 2002, p. 19]])
 
 ## Methodological Variations Across Sources
 

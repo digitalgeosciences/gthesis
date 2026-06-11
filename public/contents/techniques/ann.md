@@ -14,8 +14,10 @@ tags:
 sources:
   - "raw/138941 - SEISMIC ATTRIBUTES AND PETROPHYSICAL MODELLING OF THE ARADEIBA-D MEMBER, MUGLAD .pdf"
   - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Ann
@@ -30,11 +32,19 @@ last_updated: 2026-06-08
 
 - [[2013-abdalla|Abdalla, 2013]] applied an unsupervised Artificial Neural Network (ANN) procedure for cycle identification from SGR data.
 
+- [[2020-abdallah|Abdallah, 2020]] used ANN to predict permeability, classify lithology, and predict porosity for CO2 sequestration sites.
+
+- [[2022-septriandi|Septriandi, 2022]] developed ANN models to predict TOC based on XRF elements and well log data.
+
 ## Instruments and Software
 
 
 
 - [[2013-abdalla|Abdalla, 2013]] applied an unsupervised Artificial Neural Network (ANN) procedure for cycle identification from SGR data.
+
+- [[2020-abdallah|Abdallah, 2020]] used ANN to predict permeability, classify lithology, and predict porosity for CO2 sequestration sites.
+
+- [[2022-septriandi|Septriandi, 2022]] developed ANN models to predict TOC based on XRF elements and well log data.
 
 ## Typical Workflow
 
@@ -45,6 +55,10 @@ last_updated: 2026-06-08
 - The ANN produced a very good match with the master log well cutting descriptions for identifying shale, shaly sand, and sandstone. ([[2013-el-kheir|El-Kheir, 2013, p. 64]])
 
 - The ANN was used to extract 44 cycles from the SGR logs in the Arab-D succession. ([[2013-abdalla|Abdalla, 2013, p. 80]])
+
+- Lithology classification was achieved using a two-layer feed-forward network with sigmoid hidden and softmax output neurons. ([[2020-abdallah|Abdallah, 2020, p. 68]])
+
+- The ANN models were evaluated for their ability to predict source rock quality (TOC) from available geochemical and petrophysical data. ([[2022-septriandi|Septriandi, 2022, p. 164]])
 
 ## Methodological Variations Across Sources
 

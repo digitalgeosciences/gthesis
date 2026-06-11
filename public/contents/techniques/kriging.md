@@ -23,8 +23,14 @@ sources:
   - "raw/139394 - Spatial Distribution of the Levels of Trace Metals in the Topsoil of Dammam Area.pdf"
   - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
   - "raw/140123 - 3D GEOSTATISTICAL MODELING OF FACIES AND PETROPHYSICAL PROPERTIES OF THE UPPER K.pdf"
+  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
+  - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Kriging
@@ -57,6 +63,18 @@ last_updated: 2026-06-09
 
 - [[2016-makkawi|Makkawi, 2016]] applied indicator kriging to model lithofacies deterministically within 3D grid cells.
 
+- [[2022-karami|Karami, 2022]] used ordinary kriging to interpolate the sampled InSAR data at a 500m x 500m grid spacing.
+
+- [[2023-kusuma|Kusuma, 2023]] used geostatistics (SGS) to validate ML-driven models and provide ground truth for 3D prediction.
+
+- [[2024-hassan|Hassan, 2024]] applied kriging via variogram analysis to investigate spatial continuity of geochemistry.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] used kriging to provide block-by-block estimates for the Abu Tartur phosphate deposit.
+
+- [[2002-al-ali|Al-Ali, 2002]] applied kriging to estimate unsampled points in space or time based on spatial correlation.
+
+- [[1992-hassan|Hassan, 1992]] applied Kriging via SURFER software to contour TDS, SI, and SAR parameters.
+
 ## Instruments and Software
 
 
@@ -80,6 +98,18 @@ last_updated: 2026-06-09
 - [[2015-jabir|Jabir, 2015]] applied ordinary kriging to estimate petrophysical properties across the 3D grid.
 
 - [[2016-makkawi|Makkawi, 2016]] applied indicator kriging to model lithofacies deterministically within 3D grid cells.
+
+- [[2022-karami|Karami, 2022]] used ordinary kriging to interpolate the sampled InSAR data at a 500m x 500m grid spacing.
+
+- [[2023-kusuma|Kusuma, 2023]] used geostatistics (SGS) to validate ML-driven models and provide ground truth for 3D prediction.
+
+- [[2024-hassan|Hassan, 2024]] applied kriging via variogram analysis to investigate spatial continuity of geochemistry.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] used kriging to provide block-by-block estimates for the Abu Tartur phosphate deposit.
+
+- [[2002-al-ali|Al-Ali, 2002]] applied kriging to estimate unsampled points in space or time based on spatial correlation.
+
+- [[1992-hassan|Hassan, 1992]] applied Kriging via SURFER software to contour TDS, SI, and SAR parameters.
 
 ## Typical Workflow
 
@@ -108,6 +138,18 @@ last_updated: 2026-06-09
 - Ordinary kriging was used to populate the 3-D grid with property values after upscaling from well logs. ([[2015-jabir|Jabir, 2015, p. 26]])
 
 - Lithofacies were modeled deterministically (Indicator Kriging algorithm). ([[2016-makkawi|Makkawi, 2016, p. 123]])
+
+- The kriging model showed a smoother distribution compared to the original InSAR data, but shared similar overall characteristics. ([[2022-karami|Karami, 2022, p. 55]])
+
+- Geostatistics excelled in respecting well data and facies or porosity statistics. ([[2023-kusuma|Kusuma, 2023, p. 17]])
+
+- Directional variograms showed spatial continuity in geochemical composition with minimal variation. ([[2024-hassan|Hassan, 2024, p. 15]])
+
+- Kriging standard deviations were relatively small, indicating high reliability of the estimates. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 18]])
+
+- Ordinary Kriging is used as a point estimator, while Co-Kriging allows for the integration of different related data sets. ([[2002-al-ali|Al-Ali, 2002, p. 54]])
+
+- Kriging was used to create areal distribution maps for key water quality indicators like TDS and saturation indices. ([[1992-hassan|Hassan, 1992, p. 29]])
 
 ## Methodological Variations Across Sources
 

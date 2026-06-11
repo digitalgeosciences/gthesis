@@ -13,8 +13,9 @@ sources:
   - "raw/139898 - CHARACTERIZATION OF BRITTLENESS AND FRACKABILITY FOR UNCONVENTIONAL SHALE.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Unconventional Resources
@@ -33,6 +34,8 @@ last_updated: 2026-06-09
 
 - [[2017-mohammed|Mohammed, 2017]] evaluated the TQMN as an unconventional resource.
 
+- [[2022-septriandi|Septriandi, 2022]] investigated the Jubaila Formation as an unconventional resource.
+
 ## Key Subtopics
 
 - [[2015-mustafa|Mustafa, 2015]] lithofacies, fracture analysis, geomechanics.
@@ -42,6 +45,8 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] investigated the Qusaiba member as a target for unconventional resources.
 
 - [[2017-mohammed|Mohammed, 2017]] evaluated the TQMN as an unconventional resource.
+
+- [[2022-septriandi|Septriandi, 2022]] investigated the Jubaila Formation as an unconventional resource.
 
 ## Methods and Approaches Used
 
@@ -56,6 +61,8 @@ last_updated: 2026-06-09
 - Qusaiba is an important exploration target for tight shale due to its high organic content. ([[2017-mahgoub|Mahgoub, 2017, p. 18]])
 
 - The study provides a de-risking strategy for unconventional gas development in the TQMN. ([[2017-mohammed|Mohammed, 2017, p. 150]])
+
+- The Jurassic mudstones in the Jafurah sub-basin are considered promising unconventional resources. ([[2022-septriandi|Septriandi, 2022, p. 1]])
 
 ## Competing Approaches and Debates
 

@@ -14,8 +14,9 @@ tags:
   - theme/geomechanics
 sources:
   - "raw/140031 - Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Rese.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # In-Situ Stress
@@ -28,9 +29,13 @@ last_updated: 2026-06-09
 
 - [[2016-saleh|Saleh, 2016]] predicted in-situ stress conditions to evaluate fracture stability.
 
+- [[2002-elhassan|ElHassan, 2002]] modeled the in-situ stress affecting the field.
+
 ## Scientific Context
 
 - [[2016-saleh|Saleh, 2016]] Determines if fractures are critically stressed and impacts well stability.
+
+- [[2002-elhassan|ElHassan, 2002]] modeled the in-situ stress affecting the field.
 
 ## Measurement and Characterization Methods
 
@@ -39,6 +44,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - Average gradients: 1.31 psi/ft (Hmax), 1.085 psi/ft (hmin), 0.89 psi/ft (V). ([[2016-saleh|Saleh, 2016, p. 19]])
+
+- The azimuths of the minimum and maximum horizontal stress are approximately northwest and northeast, respectively. ([[2002-elhassan|ElHassan, 2002, p. 19]])
 
 ## Contrasting Values and Interpretations
 

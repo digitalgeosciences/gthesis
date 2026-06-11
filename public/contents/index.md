@@ -1,6 +1,6 @@
 # Wiki Index
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-11
 
 ---
 
@@ -263,6 +263,244 @@
 - [[2019-prasetyo]] — The thesis investigates the depletion of fossil groundwater and associated land subsidence in the Eastern Province of Saudi Arabia.
 
 - [[2019-alamran]] — The thesis investigates the potential of Avicennia marina mangroves on the Gulf Coast of Saudi Arabia to sequester heavy metals and petroleum hydrocarbons from marine sediments.
+
+- [[2022-al-alawi]] — The thesis investigates the geomorphology and sedimentology of dune and interdune systems in the Jafurah Sand Sea, focusing on how wind and water interact to shape these features.
+
+- [[2019-alhaiqi]] — The thesis investigated the ability of two plant species, Prosopis juliflora and Conocarpus erectus, to remediate hydrocarbon-polluted soils (specifically PAHs like Phenanthrene, Pyrene, and Fluoranthene) in both sandy and limy soil types.
+
+- [[2019-al-dawood]] — The thesis investigates the use of post-stack seismic data to characterize reservoir fluids in Glacial Ordovician reservoirs by applying rock physics modeling and AVO analysis.
+
+- [[2019-ahmed]] — The thesis investigates the sources and distribution of nitrate in the Wasia aquifer within the Al-Kharj area, Central Saudi Arabia.
+
+- [[2020-abdallah]] — The thesis investigates the use of Artificial Neural Networks (ANN) to predict core porosity and permeability from well log data (GR, RHOB, NPHI) to identify suitable CO2 sequestration sites.
+
+- [[2020-al-zoukani]] — The thesis investigates the link between geological and petrophysical properties in the D5 and D6 units of the Middle Dhruma Formation in central Saudi Arabia.
+
+- [[2020-islam]] — The thesis investigates the reservoir heterogeneity and quality of the Late Ordovician Sarah Formation in the Rahal Dhab Paleovalley, NW Saudi Arabia.
+
+- [[2020-ghazwani]] — The thesis investigated the removal of ammonia from saline water using electrochemical advanced oxidation processes (EAOP) with BDD and DSA anodes.
+
+- [[2020-usman]] — The thesis investigates the petroleum generation potential, kerogen type, and thermal maturity of a late Jurassic (early Kimmeridgian) carbonate mudrock source interval in the Jafurah sub-basin.
+
+- [[2020-abdallah-2]] — The thesis investigates the integration of magnetic data with seismic data to reduce uncertainty in determining basement depth, particularly beneath complex structures like salt bodies.
+
+- [[2020-almumtin]] — The thesis investigates the development of a Rock Physics Model (RPM) to link elastic properties (P-wave and S-wave impedance, density) to volumetric properties (porosity, mineralogy, and hydrocarbon saturation) in Saudi clastic reservoirs.
+
+- [[2020-mansouri]] — The thesis evaluates the hydraulic properties and hydrochemistry of a basaltic aquifer in the northern part of Harrat Rahat, Saudi Arabia.
+
+- [[2020-gbiyanju]] — The thesis investigates the integration of non-destructive impulse hammer measurements with traditional triaxial testing and geochemical data to characterize mechanical properties in Paleozoic tight sands and shale reservoirs.
+
+- [[2020-alzahrani]] — The thesis investigates the application of the t2–x2 squaring technique to common midpoint (CMP) gathers to improve velocity analysis.
+
+- [[2021-al-nuwais]] — The thesis investigates the heterogeneity and statistical distribution of porosity and permeability in five Jurassic carbonate formations (Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat) outcropping in Central Saudi Arabia.
+
+- [[2021-almashhor]] — The thesis evaluates two automated methods for picking first arrival traveltimes in seismic data: the Maximum Difference Between Adjacent Points of the Envelope (MDPE) and the Density-Based Spatial Clustering of Applications with Noise (DBSCAN).
+
+- [[2021-shaheen]] — The thesis investigates the use of deep learning, specifically Convolutional Neural Networks (CNNs), to automatically detect low-magnitude earthquakes in the Groningen area of the Netherlands.
+
+- [[2021-alnasser]] — The thesis investigates the synthesis and characterization of functionalized carbon nanostructure-based materials, specifically polyethylenimine modified graphene (PG), for removing organic contaminants like methylene blue from wastewater.
+
+- [[2021-ahmed]] — The thesis investigates the sedimentology, stratigraphy, and diagenetic evolution of the Toarcian Upper Marrat Formation in central Saudi Arabia.
+
+- [[2021-albensaad]] — The thesis investigates the mechanical properties of Late Jurassic carbonate mudrocks in Saudi Arabia using a combination of core-based tests (micro-rebound, impulse hammer, ultrasonic wave velocities, and scratch testing) and log-based data.
+
+- [[2021-alqarni]] — The thesis investigates the lithological characteristics and diagenetic impacts on reservoir properties of glacial depositional environments in an Ordovician section.
+
+- [[2021-siddiq]] — The thesis investigates the use of biochar derived from Date-Palm leaves (DPLs) as an adsorbent for removing arsenic from contaminated water.
+
+- [[2021-alkhowaildi]] — The thesis investigates the development of a sustainable, environment-friendly stimulation fluid for oil and gas wells by utilizing produced water (PW) as the base fluid.
+
+- [[2021-al-malki]] — The thesis develops a real-time advisory model to monitor and optimize hole cleaning in complex drilling environments, such as unconventional resources.
+
+- [[2021-alabyadh]] — The thesis investigates the microfacies and diagenetic evolution of Late Jurassic to Early Cretaceous carbonate rocks in the Monte Sacro Sequence, specifically within the Gargano Promontory of Italy.
+
+- [[2022-khamsin]] — The thesis investigates the foraminiferal content of the lower Dhruma Formation (D1 and D2 units) in central Saudi Arabia using disaggregation techniques.
+
+- [[2022-mustapha]] — The thesis investigates the impact of climate change, specifically rising temperatures and changing wind speeds, on the dispersion of sulfur dioxide (SO2) in the Dammam Metropolitan area.
+
+- [[2022-khan]] — The thesis investigates the diagenetic, petrophysical, and micropaleontological characteristics of Pleistocene-Holocene core samples collected along the King Fahd Causeway.
+
+- [[2022-septriandi]] — The thesis investigates the characterization of organic-rich carbonate mudstones in the Jubaila Formation within the Jafurah sub-basin.
+
+- [[2022-syahputra]] — The thesis investigates the spatial patterns and petrophysical properties of a specific burrowed carbonate stratum within the Ulayyah Member of the Hanifa Formation in central Saudi Arabia.
+
+- [[2022-karami]] — The thesis investigates the use of InSAR and GRACE satellite data to estimate groundwater storage variations in a cultivated area in Saudi Arabia where in-situ data is limited.
+
+- [[2022-samarkin]] — The thesis investigates methods to improve the mechanical properties and hardness of carbonate rocks using chemical additives (ZnSO4, NaF, and DAP) to mitigate proppant embedment and acid-related weakening in hydraulic fracturing.
+
+- [[2022-stiawan]] — The thesis investigates the controls on pore system variability in the Upper Jubaila Formation (Arab-D reservoir analogue) by analyzing lithofacies, diagenetic features, and petrophysical properties.
+
+- [[2022-alshaikhali]] — The thesis investigates microplastic contamination in the sediment of four beaches (Khafji, Jubail, Dammam, and Salwa) on the east coast of Saudi Arabia.
+
+- [[2022-radwan]] — The thesis investigates the mineralogical, thermo-physical, and thermo-optical properties of Arabian desert sands (Nafud, Dahna, and AlRub’AlKhali) to identify suitable materials for thermal energy storage and solar absorption.
+
+- [[2022-abdlmutalib]] — The thesis investigates the influence of lithofacies and diagenetic processes on pore systems, mineralogy, and mechanical properties in Paleozoic and Mesozoic mudrocks (specifically the Qusaiba Member) in Saudi Arabia.
+
+- [[2022-salih]] — The thesis investigates the factors controlling sonic velocity in carbonate rocks, specifically focusing on how porosity and rock texture (fabric-preserving vs.
+
+- [[2022-bashri]] — The thesis investigates the Han190-Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.
+
+- [[2022-argadestya]] — The thesis investigates the mineralogical and elemental variability of Merapi volcaniclastics across a fluvial-coastal-aeolian system (Opak River to Parangkusumo Shoreface) in Java, Indonesia.
+
+- [[2022-pambudi]] — The thesis investigates the identification of Aquifer Storage and Recovery (ASR) potential sites in the central-east region of Saudi Arabia.
+
+- [[2022-al-sadah]] — The thesis investigates the Miocene carbonate sequences in the Umm Lajj Quadrangle, specifically focusing on the Raghama Formation and its subdivisions.
+
+- [[2022-babker]] — The thesis investigates the Upper Khartam Member of the Khuff Formation in central Saudi Arabia, focusing on its lithofacies distribution and petrophysical properties.
+
+- [[2022-aljishi]] — The thesis investigates the challenges of seismic data acquisition and processing in sand dune environments, specifically focusing on the Rub-alKhali region.
+
+- [[2022-al-harbi]] — The thesis assesses open waste dumping sites in Dammam and Hafer Al-Batin using a combination of remote sensing (unsupervised, supervised, and change detection) and soil analysis.
+
+- [[2022-awais]] — The thesis investigates automated first break traveltime picking in seismic data using a combination of the DBSCAN unsupervised machine learning algorithm and super-virtual refraction interferometry (SVI).
+
+- [[2023-butt]] — The thesis investigates the depositional architecture and reservoir quality of a mixed siliciclastic-carbonate system at the transition between the Al Wajh Formation and Musayr Formation in the Midyan Basin, Red Sea region.
+
+- [[2023-kusuma]] — The thesis explores the application of machine learning (ML) and geostatistical methods to predict facies and porosity in 3D space for the Volve Field in the North Sea.
+
+- [[2023-nasir]] — The thesis evaluates the environmental quality status of two sites in the Western Arabian Gulf—Uqair Lagoon (a naturally stressed but relatively pristine area) and Eco Park (Ras Tanura, a historically industrial site)—using foraminiferal biomonitoring and chemical proxies.
+
+- [[2023-alzayer]] — The thesis investigates the use of artificial intelligence, specifically Artificial Neural Networks (ANN), to predict pore pressure from well log data in the Epsilon oil field within the Prinos Basin.
+
+- [[2023-gad]] — The thesis investigates the use of machine learning techniques, specifically Artificial Neural Networks (ANN), to predict water saturation from well logs in the Prinos basin, Greece.
+
+- [[2023-iskandar]] — The thesis investigates the petrogenesis and geochemical characteristics of mantle xenoliths (spinel lherzolite, spinel harzburgite, and wehrlite) from the Harrat Uwayrid volcanic field.
+
+- [[2023-al-eid]] — The thesis investigates the impact of core preservation on organic geochemistry measurements (S1, S2, TMAX, and TOC) in source rocks.
+
+- [[2023-edigbue]] — The thesis investigates the joint inversion of Direct Current Resist resistivity (DCR) and Seismic Refraction (SR) data using both local (Gauss-Newton) and global (Genetic Algorithm, including NSGA II) optimization algorithms.
+
+- [[2023-al-aqeel]] — The thesis investigates the electrochemical treatment of spent caustic waste streams from ethylene plants and oil refineries to reduce Chemical Oxygen Demand (COD) for safe disposal or reuse.
+
+- [[2023-suleymanli]] — The thesis investigates a data-driven approach for real-time microseismic hypocenter localization using Fourier Neural Operators (FNOs) to solve the eikonal equation.
+
+- [[2023-al-garni]] — The thesis investigates the mechanical stability and sustainability of acid-induced wormholes in carbonate rocks (Austin chalk and Indiana limestone) under high confining pressures.
+
+- [[2023-rafiq]] — The thesis investigates the structural and hydrochemical characteristics of the Al-Lith geothermal field in western Saudi Arabia to evaluate its potential for sustainable energy.
+
+- [[2023-aldhafeeri]] — The thesis investigates the impact of salinity and temperature on wormhole generation and the resulting mechanical properties (Young's modulus and hardness) in carbonate rocks during CO2 sequestration.
+
+- [[2023-bargees]] — The thesis proposes and evaluates the HEEH method, an automated trace-by-trace first arrival picking technique for zero-phase seismic data.
+
+- [[2023-ahmed]] — The thesis investigates the impact of chelating agents (DTPA and GLDA) on the rheological properties and interfacial tension (IFT) dynamics of Gemini Surfactant (VES) solutions for chemical enhanced oil recovery (EOR).
+
+- [[2023-alsahwan]] — The thesis proposes a method to estimate water saturation (SW) in partially saturated unconsolidated sediments, specifically sand dunes, using diving direct seismic P-waves.
+
+- [[2023-alshaibani]] — The thesis investigates a 30-meter wide deformation zone at an outcrop on the Dammam Dome using integrated geophysical methods (2D/3D seismic and ERT) and mineralogical analysis.
+
+- [[2023-muhammad]] — The thesis proposes a new method for estimating accurate subsurface velocity from residual static corrections in seismic data.
+
+- [[2023-almarzooq]] — The thesis investigates the use of deep learning architectures, specifically CNNs and LSTMs, to invert Vertical Seismic Profiling (VSP) corridor stack data into P-wave velocity profiles.
+
+- [[2023-arrofi]] — The thesis investigates high permeable zones in two non-volcanic geothermal fields, Northern Konawe (Indonesia) and Jizan (Saudi Arabia), using lineament density analysis from remote sensing data.
+
+- [[2023-prayudi]] — The thesis investigates the diversity and morphological deformities of benthic foraminiferal communities in the hypersaline, naturally stressed environments of the western Arabian Gulf.
+
+- [[2024-makki]] — The thesis investigates the azimuthal anisotropy of P-wave velocity in sand dunes in Eastern Saudi Arabia, which are often modeled as isotropic but exhibit complex internal structures.
+
+- [[2024-hikmahtiar]] — The thesis investigates the turnover and recovery of deep-water agglutinated benthic foraminifera (DWAF) across the K/Pg boundary in the Scaglia Rossa Formation.
+
+- [[2024-alabbad]] — The thesis investigates quantitative seismic interpretation (QSI) to estimate petrophysical properties like lithology, pore fluid, and porosity from seismic impedance volumes.
+
+- [[2024-alhilali]] — The thesis investigates agglutinated benthic foraminifera from the Turonian to Santonian ages in a marginal marine basin at high southern latitudes (IODP Site U1512).
+
+- [[2024-jahlan]] — The thesis investigates a parallax-based approach to remove the effects of sand dunes on seismic data, which typically cause noise and obscure underlying reflections.
+
+- [[2024-allam]] — The thesis investigates the Valanginian carbonates in the Jinadriyah area of central Saudi Arabia to understand how depositional and diagenetic processes impact petrophysical properties.
+
+- [[2024-tarchi]] — The thesis investigates the estimation of water saturation (Sw) in sand dunes using a joint inversion of electrical conductivity and seismic P-wave velocity data.
+
+- [[2024-mohamed]] — The thesis evaluates the performance of new environmentally friendly ionic liquid-based flowback additives (x1, x2, x3) for shale gas wells under harsh conditions.
+
+- [[2024-alkhunaizi]] — The thesis proposes a method to estimate water saturation (SW) in partially saturated unconsolidated sediments using a combination of seismic P-wave velocities and GPR velocities.
+
+- [[2024-almutawa]] — The thesis investigated the biodegradation of petroleum hydrocarbons in heavily contaminated soils from the Eastern Province of Saudi Arabia.
+
+- [[2024-abdallah]] — The thesis investigates the use of thermochemical fluids (TCFs), specifically sodium nitrite and ammonium chloride, as agents for cleaning up polymer-based fracturing fluids.
+
+- [[2024-abdrabo]] — The thesis investigates the heterogeneity of the Lower Silurian Qalibah Formation (Qusaiba and Sharawra Members) in the Qassim Region using a combination of sedimentological analysis, petrophysical measurements, and 3D digital outcrop modeling.
+
+- [[2024-alsadah]] — The thesis investigates the applicability of Mg/Ca and Na/Ca ratios in foraminiferal calcite as proxies for temperature and salinity, respectively, within the high-salinity environment of the Arabian Gulf.
+
+- [[2024-saraih]] — The thesis investigates the Aruma Formation in central Saudi Arabia, specifically focusing on how bioturbated strata with large Thalassinoides burrows influence reservoir and aquifer properties.
+
+- [[2024-ahmad]] — The thesis investigates the impact of climate change, specifically sea level rise and altered precipitation patterns, on seawater intrusion in coastal aquifers in the Eastern Province of Saudi Arabia.
+
+- [[2024-alenazi]] — The thesis assesses the concentration and types of heavy metals (HMs) and particulate matter (PMs) in dust samples collected from air conditioning (AC) filters in buildings across residential, suburban, and industrial zones in Eastern and Western Saudi Arabia.
+
+- [[2024-hassan]] — The thesis investigates the Permo-Triassic carbonate reservoir microfacies in Southcentral Saudi Arabia using a combination of core analysis, well-log data, and advanced imaging techniques.
+
+- [[2024-ahmed]] — The thesis investigates the complex subsurface geology of the Al-Hassa Oasis in Eastern Saudi Arabia by integrating multi-geophysical methods (MT, AMT, TEM, and gravity) with structural analysis.
+
+- [[2024-chavanidis]] — The thesis investigates the geothermal potential of the Wadi Al Lith field in Western Saudi Arabia by integrating land gravity, magnetic, and electromagnetic data with airborne magnetic datasets.
+
+- [[2024-al-hakimi]] — The thesis investigates the petrogenesis and tectonic history of granitic rocks in the NW Midyan terrane of the Arabian Shield using U-Pb zircon dating, geochemistry, and S-N isotopes.
+
+- [[2024-prasetyo]] — The thesis investigates the hydrological dynamics of the soil-plant interface in an arid region by mapping fine root systems and modeling water uptake.
+
+- [[2024-yusmananto]] — The thesis investigates how depositional facies and stratigraphic heterogeneity influence CO2 trapping mechanisms (residual, dissolution, and structural) in carbonate reservoirs, specifically the Upper Kharaib Member.
+
+- [[2024-malik]] — The thesis investigates the Ediacaran sedimentary successions of the Dhaiqa Formation in northwestern Saudi Arabia using a multiproxy approach including stable isotopes and thin-section petrography.
+
+- [[2024-fahmi]] — The thesis investigates the interplay between clastic influx and carbonate factories in the Toarcian Marrat Formation of Saudi Arabia using 3D stratigraphic forward modeling.
+
+- [[2024-sulistyohariyanto]] — The thesis investigates the petrogenesis of the Al-Ghurayyah granite pluton in the Arabian Shield, focusing on the enrichment of High Field Strength Elements (HFSE) and Rare Earth Elements (REE).
+
+- [[2024-muharrag]] — The thesis investigates the relationship between stromatolite morphology, stratigraphic context, and petrophysical properties in the Miocene-aged Dam Formation of Saudi Arabia.
+
+- [[2024-felemban]] — The thesis investigates the relationship between seismic offset and time-to-depth conversion accuracy using a synthetic viscoelastic model of the Ghawar field.
+
+- [[2024-maigana]] — The thesis evaluates the feasibility of using Miocene-age submarine channels in the Deep Taranaki Basin, New Zealand, as sites for COₒ storage.
+
+- [[2024-akomolafe]] — The thesis investigates how drilling fluid properties, specifically bulk relaxation and additives like barite, bentonite, and hematite, affect NMR T2 relaxometry in permeable and tight limestone samples.
+
+- [[2024-allehyani]] — The thesis investigates the impact of bioturbation styles (Burrow Networks and Bioretexturing) on the acoustic properties and seismic signatures of carbonate rocks in the Hanifa Formation.
+
+- [[2025-oyekan]] — The thesis investigates the estimation of water saturation in sand dunes using source-receiver offset and seismic velocity models.
+
+- [[2024-jalloh]] — The thesis investigates the foraminiferal assemblages and sequence stratigraphy of the D7 unit (Atash and Hisyan Members) within the Dhruma Formation in Central Saudi Arabia.
+
+- [[2025-rachmadan]] — The thesis investigates the development of Ground Motion Prediction Models (GMPMs) for the West Java region in Indonesia to improve the accuracy and reliability of the local Earthquake Early Warning System (EEWS).
+
+- [[2025-kesumastuti]] — The thesis investigates the complex tectonic setting of Sulawesi, Indonesia, specifically focusing on subducting slabs beneath the region using teleseismic P-wave tomography.
+
+- [[2025-refaat]] — The thesis investigates the impact of burrow fillings on reservoir quality in the Hanifa Formation, specifically focusing on how pore system variations within these structures affect storage capacity and fluid flow.
+
+- [[2025-ahmed]] — The thesis investigates the subsurface characterization of the Minjur Aquifer north of Riyadh using integrated transient electromagnetic (TEM) and audio magnetotelluric (AMT) geophysical methods.
+
+- [[2025-alhubail]] — The thesis investigates the effects of CO2 treatment on carbonate mudrock source rock samples, specifically focusing on how organic richness and maturity variations influence stable isotopic responses.
+
+- [[2025-al-afif]] — The thesis evaluates the impact of industrial air pollutant emissions (CO, SO2, NO2, PM2.
+
+- [[2025-ferreira]] — The thesis explores the application of self-supervised learning (SSL) to geoscientific image analysis, specifically in petrography and mineral segmentation.
+
+- [[2025-almousa]] — The thesis investigates the use of Colloidal Activated Carbon (CAC) for removing organic contaminants, specifically MTBE and BTEX, from groundwater using a lab-scale fixed-bed column setup.
+
+- [[2025-alghawi]] — The thesis investigates the potential of using Saudi basalt for carbon mineralization to mitigate CO2 emissions.
+
+- [[2026-fatima]] — The thesis evaluates the suitability of treated wastewater (TWW) for managed aquifer recharge (MAR) in a sandy coastal aquifer in eastern Saudi Arabia.
+
+- [[1989-abdou]] — The thesis investigates the stratigraphy and microfacies of Late Cretaceous carbonate successions in southeastern Kuwait, specifically focusing on the Gudair, Hartha, and Qurna Formations.
+
+- [[1992-abdulghani]] — The thesis investigates the lithofacies and diagenetic history of the Arab-D Limestone Member in the Uthmaniyah area of the Ghawar Field.
+
+- [[1987-abdul-latif]] — The thesis investigates the Abu Tartur phosphate deposits in the Western Desert of Egypt, specifically focusing on the estimation of reserves within the lower phosphate horizon.
+
+- [[2002-al-ali]] — The thesis investigates the use of vibrator performance control data (stiffness and viscosity) to improve near-surface P-wave velocity estimation in land seismic surveys.
+
+- [[1999-babalola]] — The thesis investigates the depositional environments and provenance of the Lower Paleozoic Wajid Sandstone in the Abha-Khamis Mushayt area using a multidisciplinary approach including petrography, heavy mineral analysis, and trace element chemistry.
+
+- [[2002-elhassan]] — The thesis investigates the mechanical properties of the Khafji reservoir in the Zuluf field, focusing on calibrating dynamic elastic moduli (Young's modulus and Poisson's ratio) to static values using three methods: regression, FORMEL, and AUTOSCAN.
+
+- [[1997-al-gahtani]] — The thesis explores the application of second-generation current conveyors (CCII) to develop new active-RC, active-C multiphase sinusoidal oscillators (MPSOs), universal filters, and a current-mode multiplier/divider.
+
+- [[1985-ghaled]] — The thesis investigates the Zarghat magnesite deposit in the northern Arabian Shield, focusing on its mineralogical composition, texture, and spatial distribution of chemical components.
+
+- [[1994-al-guwaizani]] — The thesis investigates the sedimentology and geochemistry of the Qurayyah Sabkha, a salt flat on the western coast of the Arabian Gulf.
+
+- [[1995-hasan]] — The thesis models the groundwater flow and solute transport in the Wadi Al-Miyah area of Eastern Saudi Arabia, focusing on three aquifers (Neogene, Alat, and Khobar).
+
+- [[1992-hassan]] — The thesis investigates the hydrogeochemistry of the Alat and Khobar aquifers in the Dammam Dome region of Eastern Saudi Arabia.
 
 ## Techniques
 
@@ -644,6 +882,264 @@
 
 - [[field-investigation]] — Field Investigation.
 
+- [[ultrasonic-extraction]] — Ultrasonic Extraction.
+
+- [[tritium-analysis]] — Tritium Analysis.
+
+- [[fuzzy-logic]] — Fuzzy Logic.
+
+- [[coreanalysis]] — Coreanalysis.
+
+- [[bd-anode]] — Bd Anode.
+
+- [[gas-diffusion-electrode]] — Gas Diffusion Electrode.
+
+- [[electrochemistry]] — Electrochemistry.
+
+- [[mass-balance-analysis]] — Mass Balance Analysis.
+
+- [[magnetic-survey]] — Magnetic Survey.
+
+- [[magnetic-surveys]] — Magnetic Surveys.
+
+- [[pre-stack-depth-migration]] — Pre Stack Depth Migration.
+
+- [[magnetic-method]] — Magnetic Method.
+
+- [[werner-method]] — Werner Method.
+
+- [[magnetic-susceptibility]] — Magnetic Susceptibility.
+
+- [[impulse-hammer]] — Impulse Hammer.
+
+- [[dbscan]] — Dbscan.
+
+- [[linear-moveout-shift]] — Linear Moveout Shift.
+
+- [[cnn]] — Cnn.
+
+- [[yoon-nellson-kinetic-model]] — Yoon Nellson Kinetic Model.
+
+- [[batch-adsorption]] — Batch Adsorption.
+
+- [[dynamic-adsorption]] — Dynamic Adsorption.
+
+- [[micro-rebound-testing]] — Micro Rebound Testing.
+
+- [[scratch-test]] — Scratch Test.
+
+- [[ultrasonic-wave-velocity-measurement]] — Ultrasonic Wave Velocity Measurement.
+
+- [[scratch-testing]] — Scratch Testing.
+
+- [[sip]] — Sip.
+
+- [[viscosity-measurement]] — Viscosity Measurement.
+
+- [[gui-development]] — Gui Development.
+
+- [[data-analysis]] — Data Analysis.
+
+- [[aerod]] — Aerod.
+
+- [[aeromod]] — Aeromod.
+
+- [[wrf]] — Wrf.
+
+- [[hcpc]] — Hcpc.
+
+- [[core-flooding]] — Core Flooding.
+
+- [[xps]] — Xps.
+
+- [[upv]] — Upv.
+
+- [[drms]] — Drms.
+
+- [[brinell]] — Brinell.
+
+- [[density-separation]] — Density Separation.
+
+- [[dem-modeling]] — Dem Modeling.
+
+- [[gpr]] — Gpr.
+
+- [[weighted-overlay-analysis]] — Weighted Overlay Analysis.
+
+- [[autocorrelation]] — Autocorrelation.
+
+- [[super-virtual-refraction-interferometry]] — Super Virtual Refraction Interferometry.
+
+- [[support-vector-machine]] — Support Vector Machine.
+
+- [[coniss]] — Coniss.
+
+- [[nmrs]] — Nmrs.
+
+- [[dca]] — Dca.
+
+- [[anosim]] — Anosim.
+
+- [[simper]] — Simper.
+
+- [[epm]] — Epm.
+
+- [[gas-chromatography]] — Gas Chromatography.
+
+- [[genetic-algorithm]] — Genetic Algorithm.
+
+- [[high-performance-computing]] — High Performance Computing.
+
+- [[parallel-computing]] — Parallel Computing.
+
+- [[electro-oxidation]] — Electro Oxidation.
+
+- [[finite-element-modeling]] — Finite Element Modeling.
+
+- [[geothermometry]] — Geothermometry.
+
+- [[hardness-measurement]] — Hardness Measurement.
+
+- [[spinning-drop]] — Spinning Drop.
+
+- [[microfluidic]] — Microfluidic.
+
+- [[mr-imaging]] — Mr Imaging.
+
+- [[microfluidics]] — Microfluidics.
+
+- [[reservoir-simulation]] — Reservoir Simulation.
+
+- [[image-processing]] — Image Processing.
+
+- [[traveltime-tomography]] — Traveltime Tomography.
+
+- [[stationary-wavelet-transform]] — Stationary Wavelet Transform.
+
+- [[continuous-wavelet-transform]] — Continuous Wavelet Transform.
+
+- [[synthetic-data-generation]] — Synthetic Data Generation.
+
+- [[tcn]] — Tcn.
+
+- [[optuna]] — Optuna.
+
+- [[cwm]] — Cwm.
+
+- [[swt]] — Swt.
+
+- [[autoencoders]] — Autoencoders.
+
+- [[convolutional-neural-networks]] — Convolutional Neural Networks.
+
+- [[seismic-array]] — Seismic Array.
+
+- [[geodesy]] — Geodesy.
+
+- [[python]] — Python.
+
+- [[digital-rock-physics]] — Digital Rock Physics.
+
+- [[nmo-correction]] — Nmo Correction.
+
+- [[f-k-filter]] — F K Filter.
+
+- [[microfluidic-model]] — Microfluidic Model.
+
+- [[contact-angle-measurement]] — Contact Angle Measurement.
+
+- [[petrophysical-analysis]] — Petrophysical Analysis.
+
+- [[thermal-gravimetric-analysis]] — Thermal Gravimetric Analysis.
+
+- [[coreflood]] — Coreflood.
+
+- [[gel-permeation-chromatography]] — Gel Permeation Chromatography.
+
+- [[thermogravimetric-analysis]] — Thermogravimetric Analysis.
+
+- [[dynamic-light-scattering]] — Dynamic Light Scattering.
+
+- [[drop-shape-analysis]] — Drop Shape Analysis.
+
+- [[image-analysis]] — Image Analysis.
+
+- [[modflow]] — Modflow.
+
+- [[seawater-intrusion-modeling]] — Seawater Intrusion Modeling.
+
+- [[cluster-analysis]] — Cluster Analysis.
+
+- [[micro-xrf]] — Micro Xrf.
+
+- [[magnetotelluric]] — Magnetotelluric.
+
+- [[transient-electromagnetic]] — Transient Electromagnetic.
+
+- [[gravitysurvey]] — Gravitysurvey.
+
+- [[transientelectromagnetic]] — Transientelectromagnetic.
+
+- [[u-pb-dating]] — U-Pb Dating.
+
+- [[hydrology-modeling]] — Hydrology Modeling.
+
+- [[hydrus-1d]] — Hydrus 1D.
+
+- [[sfm]] — Sfm.
+
+- [[rsm]] — Rsm.
+
+- [[stratigraphic-forward-modeling]] — Stratigraphic Forward Modeling.
+
+- [[response-surface-modeling]] — Response Surface Modeling.
+
+- [[la-icp-ms]] — La Icp Ms.
+
+- [[geomodeling]] — Geomodeling.
+
+- [[geobody-extraction]] — Geobody Extraction.
+
+- [[laser-particle-size-analysis]] — Laser Particle Size Analysis.
+
+- [[acetic-acid-leaching]] — Acetic Acid Leaching.
+
+- [[bayesian-optimization]] — Bayesian Optimization.
+
+- [[seismic-tomography]] — Seismic Tomography.
+
+- [[fast-march-method]] — Fast March Method.
+
+- [[digital-rock-modeling]] — Digital Rock Modeling.
+
+- [[amt]] — Amt.
+
+- [[calpuff]] — Calpuff.
+
+- [[calmet]] — Calmet.
+
+- [[dispersion-modeling]] — Dispersion Modeling.
+
+- [[vision-transformer]] — Vision Transformer.
+
+- [[simclr]] — Simclr.
+
+- [[pice]] — Pice.
+
+- [[circuit-simulation]] — Circuit Simulation.
+
+- [[sensitivity-analysis]] — Sensitivity Analysis.
+
+- [[experimental-measurement]] — Experimental Measurement.
+
+- [[dta]] — Dta.
+
+- [[hydrochemicalanalysis]] — Hydrochemicalanalysis.
+
+- [[piper-trilinear-plots]] — Piper Trilinear Plots.
+
+- [[pcwaterequilibriummodeling]] — Pcwaterequilibriummodeling.
+
 ## Formations
 
 - [[arab-d-reservoir]] — Arab-D Reservoir.
@@ -758,6 +1254,38 @@
 
 - [[burqan-formation]] — Burqan Formation.
 
+- [[merapi-volcaniclastic]] — Merapi Volcaniclastic.
+
+- [[musayir-formation]] — Musayir Formation.
+
+- [[hugin-formation]] — Hugin Formation.
+
+- [[scaglia-rossa-formation]] — Scaglia Rossa Formation.
+
+- [[hoffuf-formation]] — Hoffuf Formation.
+
+- [[kharaib-formation]] — Kharaib Formation.
+
+- [[moki-formation]] — Moki Formation.
+
+- [[upper-manganui-formation]] — Upper Manganui Formation.
+
+- [[moki-sandstone-formation]] — Moki Sandstone Formation.
+
+- [[guray-formation]] — Guray Formation.
+
+- [[gudair-formation]] — Gudair Formation.
+
+- [[hartha-formation]] — Hartha Formation.
+
+- [[qurna-formation]] — Qurna Formation.
+
+- [[sibaiya-formation]] — Sibaiya Formation.
+
+- [[al-at-aquifer]] — Al At Aquifer.
+
+- [[neogene-aquifer]] — Neogene Aquifer.
+
 ## Locations
 
 - [[ghawar-field]] — Ghawar Field.
@@ -853,6 +1381,70 @@
 - [[ras-tanura]] — Ras Tanura.
 
 - [[abu-al-island]] — Abu Al Island.
+
+- [[north-sea]] — North Sea.
+
+- [[northsea-region]] — Northsea Region.
+
+- [[norwegian-continental-shelf]] — Norwegian Continental Shelf.
+
+- [[southeast-texas]] — Southeast Texas.
+
+- [[groningen-area]] — Groningen Area.
+
+- [[groningen-field]] — Groningen Field.
+
+- [[italy]] — Italy.
+
+- [[arabiangulf]] — Arabiangulf.
+
+- [[eastcoast]] — Eastcoast.
+
+- [[tabuk-basin]] — Tabuk Basin.
+
+- [[central-saudi-area]] — Central Saudi Area.
+
+- [[ithra-field]] — Ithra Field.
+
+- [[ithar-field]] — Ithar Field.
+
+- [[prinos-basin]] — Prinos Basin.
+
+- [[utah-site]] — Utah Site.
+
+- [[east-texasusa]] — East Texasusa.
+
+- [[indonesia]] — Indonesia.
+
+- [[eastern-province-saudi-arabia]] — Eastern Province Saudi Arabia.
+
+- [[western-tethys]] — Western Tethys.
+
+- [[middle-east]] — Middle East.
+
+- [[middle-east-region]] — Middle East Region.
+
+- [[great-australian-bight]] — Great Australian Bight.
+
+- [[qassim-region]] — Qassim Region.
+
+- [[al-hassa-area]] — Al Hassa Area.
+
+- [[uae]] — Uae.
+
+- [[taranaki-basin]] — Taranaki Basin.
+
+- [[kuwait]] — Kuwait.
+
+- [[abu-tartur-deposit]] — Abu-Tartur Phosphate Deposit.
+
+- [[abha-khamis-mushait-area]] — Abha-Khamis Mushait Area.
+
+- [[zuluf-field]] — Zuluf Field.
+
+- [[qurayyah-sabkha]] — Qurayyah Sabkha.
+
+- [[wadi-al-miyah]] — Wadi Al-Miyah.
 
 ## Terminology
 
@@ -1268,6 +1860,396 @@
 
 - [[bioaccumulation-factor]] — Bioaccumulation Factor.
 
+- [[gas-saturation]] — Gas Saturation.
+
+- [[reservoir-rock-types]] — Reservoir Rock Types.
+
+- [[pore-size-distribution]] — Pore Size Distribution.
+
+- [[poresizedistribution]] — Poresizedistribution.
+
+- [[kerogen-type]] — Kerogen Type.
+
+- [[thermal-maturity]] — Thermal Maturity.
+
+- [[marine-source]] — Marine Source.
+
+- [[rock-physics-model]] — Rock Physics Model.
+
+- [[rock-physics-diagnostics]] — Rock Physics Diagnostics.
+
+- [[hydraulic-conductivity]] — Hydraulic Conductivity.
+
+- [[nitrate-contamination]] — Nitrate Contamination.
+
+- [[nmo]] — Nmo.
+
+- [[stacking-velocity]] — Stacking Velocity.
+
+- [[hyperbolic-assumption]] — Hyperbolic Assumption.
+
+- [[velocity-semblance]] — Velocity Semblance.
+
+- [[dykstra-parsons-coefficient]] — Dykstra Parsons Coefficient.
+
+- [[lorenz-coefficient]] — Lorenz Coefficient.
+
+- [[thermodynamics]] — Thermodynamics.
+
+- [[burrows]] — Burrows.
+
+- [[fracture-analysis]] — Fracture Analysis.
+
+- [[unconfined-compressive-strength]] — Unconfined Compressive Strength.
+
+- [[youngs-modulus]] — Youngs Modulus.
+
+- [[poissons-ratio]] — Poissons Ratio.
+
+- [[adsorption-kinetics]] — Adsorption Kinetics.
+
+- [[adsorption-isotherms]] — Adsorption Isotherms.
+
+- [[rheology]] — Rheology.
+
+- [[produced-water]] — Produced Water.
+
+- [[chelating-agents]] — Chelating Agents.
+
+- [[chelation]] — Chelation.
+
+- [[hole-cleaning]] — Hole Cleaning.
+
+- [[drilling-engineering]] — Drilling Engineering.
+
+- [[cuttings-transport]] — Cuttings Transport.
+
+- [[oolitic-shoal]] — Oolitic Shoal.
+
+- [[air-quality]] — Air Quality.
+
+- [[sulfur-dioxide]] — Sulfur Dioxide.
+
+- [[climate-change]] — Climate Change.
+
+- [[so2-concentration]] — So2 Concentration.
+
+- [[bioturbation]] — Bioturbation.
+
+- [[aquifer-characterization]] — Aquifer Characterization.
+
+- [[pore-systems]] — Pore Systems.
+
+- [[microplastics]] — Microplastics.
+
+- [[polyethylene]] — Polyethylene.
+
+- [[high-density-polyethylene]] — High Density Polyethylene.
+
+- [[polypropylene]] — Polypropylene.
+
+- [[quartz-crystallinity-index]] — Quartz Crystallinity Index.
+
+- [[thermal-energy-storage]] — Thermal Energy Storage.
+
+- [[sedimentary-fabric]] — Sedimentary Fabric.
+
+- [[carbonate-ramp]] — Carbonate Ramp.
+
+- [[mineral-sorting]] — Mineral Sorting.
+
+- [[multi-criteria-decision-analysis]] — Multi Criteria Decision Analysis.
+
+- [[artificial-recharge]] — Artificial Recharge.
+
+- [[sand-curve]] — Sand Curve.
+
+- [[reverberation]] — Reverberation.
+
+- [[construction-and-demolition-waste]] — Construction And Demolition Waste.
+
+- [[spectral-reflectance]] — Spectral Reflectance.
+
+- [[soil-quality]] — Soil Quality.
+
+- [[geoaccumulation-index]] — Geoaccumulation Index.
+
+- [[sedimentary-architecture]] — Sedimentary Architecture.
+
+- [[stratigraphic-traps]] — Stratigraphic Traps.
+
+- [[alluvial-fan]] — Alluvial Fan.
+
+- [[partial-melting]] — Partial Melting.
+
+- [[oxygen-fugacity]] — Oxygen Fugacity.
+
+- [[thermobarometry]] — Thermobarometry.
+
+- [[magnesium-number]] — Magnesium Number.
+
+- [[chromium-number]] — Chromium Number.
+
+- [[hydrocarbon-loss]] — Hydrocarbon Loss.
+
+- [[organic-richness]] — Organic Richness.
+
+- [[s1]] — S1.
+
+- [[local-optimization]] — Local Optimization.
+
+- [[global-optimization]] — Global Optimization.
+
+- [[stochastic-modeling]] — Stochastic Modeling.
+
+- [[non-uniqueness]] — Non Uniqueness.
+
+- [[pareto-optimality]] — Pareto Optimality.
+
+- [[multi-objective-optimization]] — Multi Objective Optimization.
+
+- [[chemical-oxygen-demand]] — Chemical Oxygen Demand.
+
+- [[wet-air-oxidation]] — Wet Air Oxidation.
+
+- [[total-organic-carbon]] — Total Organic Carbon.
+
+- [[eikonal-equation]] — Eikonal Equation.
+
+- [[hydrogeochemistry]] — Hydrogeochemistry.
+
+- [[hydrothermal-alteration]] — Hydrothermal Alteration.
+
+- [[geothermal-exploration]] — Geothermal Exploration.
+
+- [[interfacial-tension]] — Interfacial Tension.
+
+- [[visco-elastic-surfactant]] — Visco Elastic Surfactant.
+
+- [[pore-scale]] — Pore Scale.
+
+- [[enhanced-oil-recovery]] — Enhanced Oil Recovery.
+
+- [[naturally-fractured-reservoir]] — Naturally Fractured Reservoir.
+
+- [[wettability]] — Wettability.
+
+- [[microemulsion]] — Microemulsion.
+
+- [[pore-fluid]] — Pore Fluid.
+
+- [[super-virtual-interferometry]] — Super Virtual Interferometry.
+
+- [[shear-zone]] — Shear Zone.
+
+- [[nmo-velocity]] — Nmo Velocity.
+
+- [[corridor-stack]] — Corridor Stack.
+
+- [[denoising]] — Denoising.
+
+- [[upper-thermal-limit]] — Upper Thermal Limit.
+
+- [[biocalcifiers]] — Biocalcifiers.
+
+- [[thermal-tolerance]] — Thermal Tolerance.
+
+- [[tilted-transverse-isotropy]] — Tilted Transverse Isotropy.
+
+- [[thomsen-parameters]] — Thomsen Parameters.
+
+- [[faunal-turnover]] — Faunal Turnover.
+
+- [[rock-physics-bottleneck]] — Rock Physics Bottleneck.
+
+- [[specific-surface-area]] — Specific Surface Area.
+
+- [[austral-fauna]] — Austral Fauna.
+
+- [[p-wave-reflection]] — P Wave Reflection.
+
+- [[parallax-phenomenon]] — Parallax Phenomenon.
+
+- [[complex-refractive-index-method]] — Complex Refractive Index Method.
+
+- [[gassmann-modeling]] — Gassmann Modeling.
+
+- [[critical-micelle-concentration]] — Critical Micelle Concentration.
+
+- [[surface-tension]] — Surface Tension.
+
+- [[hertz-mindlin]] — Hertz Mindlin.
+
+- [[crim-model]] — Crim Model.
+
+- [[monooxygenases]] — Monooxygenases.
+
+- [[reactivity]] — Reactivity.
+
+- [[emulsion-breaking]] — Emulsion Breaking.
+
+- [[water-blocking]] — Water Blocking.
+
+- [[paleothermometry]] — Paleothermometry.
+
+- [[salinity-gradient]] — Salinity Gradient.
+
+- [[calcification]] — Calcification.
+
+- [[paleothermometer]] — Paleothermometer.
+
+- [[thalassinoides]] — Thalassinoides.
+
+- [[super-permeability]] — Super Permeability.
+
+- [[curie-isotherm]] — Curie Isotherm.
+
+- [[curie-point]] — Curie Point.
+
+- [[geochronology]] — Geochronology.
+
+- [[slab-failure]] — Slab Failure.
+
+- [[differentiation]] — Differentiation.
+
+- [[magmatic-origin]] — Magmatic Origin.
+
+- [[root-water-uptake]] — Root Water Uptake.
+
+- [[root-zone]] — Root Zone.
+
+- [[transpiration]] — Transpiration.
+
+- [[deep-percolation]] — Deep Percolation.
+
+- [[vadose-zone-hydrology]] — Vadose Zone Hydrology.
+
+- [[residual-trapping]] — Residual Trapping.
+
+- [[dissolution-trapping]] — Dissolution Trapping.
+
+- [[sediment-supply]] — Sediment Supply.
+
+- [[carbonate-production]] — Carbonate Production.
+
+- [[accommodation-space]] — Accommodation Space.
+
+- [[metasomatism]] — Metasomatism.
+
+- [[magma-source]] — Magma Source.
+
+- [[hfe-element]] — Hfe Element.
+
+- [[tetrad-effect]] — Tetrad Effect.
+
+- [[critical-angle]] — Critical Angle.
+
+- [[seal-integrity]] — Seal Integrity.
+
+- [[bulk-relaxation]] — Bulk Relaxation.
+
+- [[filter-cake]] — Filter Cake.
+
+- [[representative-elementary-volume]] — Representative Elementary Volume.
+
+- [[diving-direct-waves]] — Diving Direct Waves.
+
+- [[maximum-flooding-surface]] — Maximum Flooding Surface.
+
+- [[mfs]] — Mfs.
+
+- [[t-r-cycles]] — T R Cycles.
+
+- [[multi-variant-regression]] — Multi Variant Regression.
+
+- [[sula-slab]] — Sula Slab.
+
+- [[slab-geometry]] — Slab Geometry.
+
+- [[crustal-thickness]] — Crustal Thickness.
+
+- [[subducting-slabs]] — Subducting Slabs.
+
+- [[mantle-flow]] — Mantle Flow.
+
+- [[lithosphere-asthenosphere-coupling]] — Lithosphere Asthenosphere Coupling.
+
+- [[pore-network-modeling]] — Pore Network Modeling.
+
+- [[glossifungites-ichnofacies]] — Glossifungites Ichnofacies.
+
+- [[supercritical-state]] — Supercritical State.
+
+- [[depth-of-investigation]] — Depth Of Investigation.
+
+- [[human-health-risk-assessment]] — Human Health Risk Assessment.
+
+- [[hazard-quotient]] — Hazard Quotient.
+
+- [[hazard-index]] — Hazard Index.
+
+- [[data-augmentation]] — Data Augmentation.
+
+- [[super-resolution]] — Super Resolution.
+
+- [[few-shot-learning]] — Few Shot Learning.
+
+- [[semantic-segmentation]] — Semantic Segmentation.
+
+- [[breakthrough-curves]] — Breakthrough Curves.
+
+- [[zeta-potential]] — Zeta Potential.
+
+- [[phmeasurement]] — Phmeasurement.
+
+- [[mineral-dissolution]] — Mineral Dissolution.
+
+- [[clogging]] — Clogging.
+
+- [[porous-media]] — Porous Media.
+
+- [[micrite]] — Micrite.
+
+- [[spherical-model]] — Spherical Model.
+
+- [[nugget-effect]] — Nugget Effect.
+
+- [[block-kriging]] — Block Kriging.
+
+- [[ground-stiffness]] — Ground Stiffness.
+
+- [[ground-viscosity]] — Ground Viscosity.
+
+- [[semi-variogram]] — Semi Variogram.
+
+- [[heavy-mineral-analysis]] — Heavy Mineral Analysis.
+
+- [[chemical-index-of-alteration]] — Chemical Index Of Alteration.
+
+- [[biot-constant]] — Biot Constant.
+
+- [[current-conveyor]] — Current Conveyor.
+
+- [[multiphase-sinusoidal-oscillators]] — Multiphase Sinusoidal Oscillators.
+
+- [[universal-filter]] — Universal Filter.
+
+- [[cryptocrystalline]] — Cryptocrystalline.
+
+- [[evaporite-sedimentology]] — Evaporite Sedimentology.
+
+- [[evaporite-mineralogy]] — Evaporite Mineralogy.
+
+- [[vertical-leakage]] — Vertical Leakage.
+
+- [[saturation-index]] — Saturation Index.
+
+- [[seawaterintrusion]] — Seawaterintrusion.
+
+- [[cationexchange]] — Cationexchange.
+
+- [[saturationindex]] — Saturationindex.
+
 ## Themes
 
 - [[reservoir-characterization]] — Reservoir Characterization.
@@ -1531,5 +2513,95 @@
 - [[land-subsidence]] — Land Subsidence.
 
 - [[abu-ali-island]] — Abu Ali Island.
+
+- [[co2-sequestration]] — CO2 Sequestration.
+
+- [[organic-geochemistry]] — Organic Geochemistry.
+
+- [[not-applicable]] — Not Applicable.
+
+- [[dhurma-formation]] — Dhurma Formation.
+
+- [[arabian-plate]] — Arabian Plate.
+
+- [[salwa]] — Salwa.
+
+- [[wasi-formation]] — Wasi Formation.
+
+- [[energy-geology]] — Energy Geology.
+
+- [[central-sauri-arabia]] — Central Sauri Arabia.
+
+- [[planetary-science]] — Planetary Science.
+
+- [[planetary-geology]] — Planetary Geology.
+
+- [[hadrh-formation]] — Hadrh Formation.
+
+- [[al-hasa]] — Al-Hasa.
+
+- [[jabal-kibrit-formation]] — Jabal Kibrit Formation.
+
+- [[yaz-field]] — Yaz Field.
+
+- [[reservoir-engineering]] — Reservoir Engineering.
+
+- [[harrat-uwayrid]] — Harrat Uwayrid.
+
+- [[al-ula]] — Al Ula.
+
+- [[utahsite]] — Utahsite.
+
+- [[geothermal-energy]] — Geothermal Energy.
+
+- [[eastern-provincesaudiarabia]] — Eastern Provincesaudiarabia.
+
+- [[well-stimulation]] — Well Stimulation.
+
+- [[chemical-flooding]] — Chemical Flooding.
+
+- [[marine-chemistry]] — Marine Chemistry.
+
+- [[marine-geochemistry]] — Marine Geochemistry.
+
+- [[southcentral-saudi-arabia]] — Southcentral Saudi Arabia.
+
+- [[hofung-formation]] — Hofung Formation.
+
+- [[hoof-formation]] — Hoof Formation.
+
+- [[tectonic-analysis]] — Tectonic Analysis.
+
+- [[dhaiqa-formation]] — Dhaiqa Formation.
+
+- [[rare-earth-elements]] — Rare Earth Elements.
+
+- [[formation-evaluation]] — Formation Evaluation.
+
+- [[natural-hazards]] — Natural Hazards and Geohazards.
+
+- [[solid-earth-geophysics]] — Geophysics, Solid-Earth.
+
+- [[plate-tectonics]] — Plate Tectonics.
+
+- [[sulay1-formation]] — Sulay1 Formation.
+
+- [[carbon-sequestration]] — Carbon Sequestration.
+
+- [[managed-aquifer-recharge]] — Managed Aquifer Recharge.
+
+- [[groundwater-management]] — Groundwater Management.
+
+- [[egypt]] — Egypt.
+
+- [[hofum-formation]] — Hofum Formation.
+
+- [[electrical-engineering]] — Electrical Engineering.
+
+- [[electronics]] — Electronics.
+
+- [[groundwater-geochemistry]] — Groundwater Geochemistry.
+
+- [[al-hufuf]] — Al Hufuf.
 
 ## Research Gaps

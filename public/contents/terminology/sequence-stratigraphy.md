@@ -27,8 +27,16 @@ sources:
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143200 - FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Sequence Stratigraphy
@@ -69,6 +77,22 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied sequence stratigraphy to identify depositional systems and cycles.
 
+- [[2022-septriandi|Septriandi, 2022]] applied sequence stratigraphy to establish a high-resolution framework for well correlation.
+
+- [[2022-bashri|Bashri, 2022]] applied sequence-stratigraphy to identify depositional sequences and strata stacking patterns.
+
+- [[2022-babker|Babker, 2022]] used sequence stratigraphy to mark the P/T boundary.
+
+- [[2024-malik|Malik, 2024]] applied sequence stratigraphy to establish a framework for the Dhaiqa Basin.
+
+- [[2024-fahmi|Fahmi, 2024]] used sequence stratigraphy to interpret the 3rd and 4th ordered sections in Marrat Formation.
+
+- [[2024-jalloh|Jalloh, 2024]] used sequence stratigraphy to refine models for the D7 unit.
+
+- [[2025-ahmed|Ahmed, 2025]] applied sequence-stratigraphy to understand the Minjur formation's evolution.
+
+- [[2002-elhassan|ElHassan, 2002]] applied sequence stratigraphy to well logs to establish a chronostratigraphic framework.
+
 ## Scientific Context
 
 - [[2010-al-mojel|Al-Mojel, 2010]] Used to provide a framework for reservoir characterization and geological modeling.
@@ -100,6 +124,22 @@ last_updated: 2026-06-09
 - [[2017-yousif|Yousif, 2017]] established a high-resolution stratigraphic framework to identify cycles and parasequences.
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied sequence stratigraphy to identify depositional systems and cycles.
+
+- [[2022-septriandi|Septriandi, 2022]] applied sequence stratigraphy to establish a high-resolution framework for well correlation.
+
+- [[2022-bashri|Bashri, 2022]] applied sequence-stratigraphy to identify depositional sequences and strata stacking patterns.
+
+- [[2022-babker|Babker, 2022]] used sequence stratigraphy to mark the P/T boundary.
+
+- [[2024-malik|Malik, 2024]] applied sequence stratigraphy to establish a framework for the Dhaiqa Basin.
+
+- [[2024-fahmi|Fahmi, 2024]] used sequence stratigraphy to interpret the 3rd and 4th ordered sections in Marrat Formation.
+
+- [[2024-jalloh|Jalloh, 2024]] used sequence stratigraphy to refine models for the D7 unit.
+
+- [[2025-ahmed|Ahmed, 2025]] applied sequence-stratigraphy to understand the Minjur formation's evolution.
+
+- [[2002-elhassan|ElHassan, 2002]] applied sequence stratigraphy to well logs to establish a chronostratigraphic framework.
 
 ## Measurement and Characterization Methods
 
@@ -136,6 +176,22 @@ last_updated: 2026-06-09
 - Analysis revealed approximately 53 cycles and cycle sets of 5th to 6th order magnitude. ([[2017-yousif|Yousif, 2017, p. 19]])
 
 - Used to define third-order sequences and parasequence sets. ([[2017-abdelgader|Abdelgader, 2017, p. 90]])
+
+- Identified MFS, SB/MRS, LST, TST, and HST to map the basin's architecture. ([[2022-septriandi|Septriandi, 2022, p. 25]])
+
+- Identified six types of depositional sequences based on lithofacies distribution and stacking patterns. ([[2022-bashri|Bashri, 2022, p. 70]])
+
+- Several approaches have been used to locate the P/T boundary... including sequence stratigraphy. ([[2022-babker|Babker, 2022, p. 69]])
+
+- Established a stratigraphic framework using T-R sequences and Fischer plots to analyze cyclicity. ([[2024-malik|Malik, 2024, p. 50]])
+
+- The model successfully captured the aggradation-progradation geometries of the system. ([[2024-fahmi|Fahmi, 2024, p. 16]])
+
+- Identified MFS (Maximum Flooding Surface) as a key marker for high-resolution correlation. ([[2024-jalloh|Jalloh, 2024, p. 16]])
+
+- Sedimentological mapping provides a thorough understanding of the sequence stratigraphy at that location. ([[2025-ahmed|Ahmed, 2025, p. 35]])
+
+- Identified MFS, TS, and SB to define system tracts (LST, TST, HST). ([[2002-elhassan|ElHassan, 2002, p. 92]])
 
 ## Contrasting Values and Interpretations
 

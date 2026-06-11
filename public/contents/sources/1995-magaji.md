@@ -35,7 +35,6 @@ techniques:
   - helium-porosity
   - core-analysis
   - sieve-analysis
-  - permeability-measurement
   - xrd
   - klinkenberg-method
   - petrophysics
@@ -138,7 +137,7 @@ Further research is needed to define the standard conditions for deriving hydrog
 - [[hydrogeology]]
 - [[petrophysics]]
 - [[helium-porosimetry]]
-- [[permeability-measurement]]
+- [[core-analysis]]
 - [[sedimentology]]
 - [[sedimentary-petrology]]
 - [[point-counting]]

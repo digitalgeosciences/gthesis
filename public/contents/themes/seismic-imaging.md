@@ -15,8 +15,11 @@ sources:
   - "raw/139620 - Improved 3-D Seismic Edge Detection with the Magic Cube Operator.pdf"
   - "raw/140641 - RELATION BETWEEN OFFSET AND VELOCITY DETERMINATION - APPLICATION ON A SYNTHETIC .pdf"
   - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
+  - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
+  - "raw/142484 - Velocity Estimation from Surface-Consistent Statics.pdf"
+  - "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Seismic Imaging
@@ -41,6 +44,12 @@ last_updated: 2026-06-09
 
 - [[2018-mohamed|Mohamed, 2018]] evaluated FWI and RTM for imaging complex structures in arid environments.
 
+- [[2020-abdallah-2|Abdallah, 2020]] focused on the challenges of seismic imaging in sub-salt environments.
+
+- [[2023-muhammad|Muhammad, 2023]] focused on seismic-imaging by developing a more robust method for velocity estimation in the presence of statics.
+
+- [[2024-jahlan|Jahlan, 2024]] focused on improving seismic imaging by removing artifacts caused by near-surface features like sand dunes.
+
 ## Key Subtopics
 
 - [[2009-al-lehyani|Al-Lehyani, 2009]] ['shot gather analysis', 'diffraction mapping', 'attenuation']
@@ -56,6 +65,12 @@ last_updated: 2026-06-09
 - [[2018-abdulrahman|Abdulrahman, 2018]] investigated seismic imaging techniques for velocity determination.
 
 - [[2018-mohamed|Mohamed, 2018]] evaluated FWI and RTM for imaging complex structures in arid environments.
+
+- [[2020-abdallah-2|Abdallah, 2020]] focused on the challenges of seismic imaging in sub-salt environments.
+
+- [[2023-muhammad|Muhammad, 2023]] focused on seismic-imaging by developing a more robust method for velocity estimation in the presence of statics.
+
+- [[2024-jahlan|Jahlan, 2024]] focused on improving seismic imaging by removing artifacts caused by near-surface features like sand dunes.
 
 ## Methods and Approaches Used
 
@@ -76,6 +91,12 @@ last_updated: 2026-06-09
 - Both long and short offset methods provided similar accuracy in this specific study area. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
 
 - RTM images showed a clear improvement of subsurface seismic image by using estimated FWI model. ([[2018-mohamed|Mohamed, 2018, p. 59]])
+
+- Complex overburden structures like salt cause ray path distortion and poor illumination, necessitating advanced processing. ([[2020-abdallah-2|Abdallah, 2020, p. 15]])
+
+- The proposed method provides an NMO velocity that is independent of initial incorrect values, improving imaging reliability. ([[2023-muhammad|Muhammad, 2023, p. 16]])
+
+- Parallax methods improved the clarity of target reflections below dunes compared to standard processing. ([[2024-jahlan|Jahlan, 2024, p. 14]])
 
 ## Competing Approaches and Debates
 

@@ -14,8 +14,9 @@ sources:
   - "raw/136123 - Fate of Bromate Formation in Water Treated by ozone-based Advanced Oxidation Pro.pdf"
   - "raw/138483 - Quantitative Assessment of Disinfection By-products Formed by Chlorine, Chlorine.pdf"
   - "raw/138528 - Environmental Assessment of Groundwater Condition in Tarout Island, Eastern Prov.pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
 # Ion Chromatography
@@ -32,6 +33,8 @@ last_updated: 2026-06-08
 
 - [[2011-alsadeq|Alsadeq, 2011]] used ion chromatography (IC) to measure anions and cations in the groundwater samples.
 
+- [[2020-ghazwani|Ghazwani, 2020]] used ion-chromatography to determine nitrate, nitrite, and ammonium concentrations.
+
 ## Instruments and Software
 
 
@@ -39,6 +42,8 @@ last_updated: 2026-06-08
 - [[2011-ibrahim|Ibrahim, 2011]] used ion chromatography to measure bromate, chlorite, and bromide levels.
 
 - [[2011-alsadeq|Alsadeq, 2011]] used ion chromatography (IC) to measure anions and cations in the groundwater samples.
+
+- [[2020-ghazwani|Ghazwani, 2020]] used ion-chromatography to determine nitrate, nitrite, and ammonium concentrations.
 
 ## Typical Workflow
 
@@ -51,6 +56,8 @@ last_updated: 2026-06-08
 - Detected no chlorite at 1:10 blending ratio but significant bromate at 1:2 ratio. ([[2011-ibrahim|Ibrahim, 2011, p. 9]])
 
 - Used for measuring chloride, bromide, nitrate, nitrite, sulfate, phosphate, sodium, and potassium. ([[2011-alsadeq|Alsadeq, 2011, p. 47]])
+
+- Quantification was accomplished by measuring the peak area compared to a calibration curve from known standards. ([[2020-ghazwani|Ghazwani, 2020, p. 40]])
 
 ## Methodological Variations Across Sources
 

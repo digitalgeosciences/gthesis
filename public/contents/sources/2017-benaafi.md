@@ -65,7 +65,7 @@ techniques:
   - porosimeter
   - dem
   - magnetic-anomaly-map
-  - lithofacies-analysis
+  - lithofacies
   - ultrasonic-velocity-measurement
   - uniaxial-compressive-strength-ucs-testing
   - petrography
@@ -94,7 +94,7 @@ tags:
   - technique/core-analysis
   - technique/microfacies-analysis
   - technique/sem-eds
-  - technique/lithofacies-analysis
+  - technique/lithofacies
   - technique/well-log-analysis
   - technique/geomechanics
   - technique/petrophysics

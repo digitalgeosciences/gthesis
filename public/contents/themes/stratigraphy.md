@@ -15,8 +15,10 @@ sources:
   - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
+  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Stratigraphy and Historical Geology
@@ -43,6 +45,10 @@ last_updated: 2026-06-09
 
 - [[2017-adam|Adam, 2017]] applied high-resolution stratigraphy to define the Upper Khartam Member's architecture.
 
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+
+- [[1989-abdou|Abdou, 1989]] performed stratigraphical analysis to define the sequence of the Late Cretaceous rocks.
+
 ## Key Subtopics
 
 
@@ -60,6 +66,10 @@ last_updated: 2026-06-09
 - [[2016-awad|Awad, 2016]] focused on stratigraphy to establish a framework for the Paleocene formations.
 
 - [[2017-adam|Adam, 2017]] applied high-resolution stratigraphy to define the Upper Khartam Member's architecture.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+
+- [[1989-abdou|Abdou, 1989]] performed stratigraphical analysis to define the sequence of the Late Cretaceous rocks.
 
 ## Methods and Approaches Used
 
@@ -82,6 +92,10 @@ last_updated: 2026-06-09
 - Established a sequence stratigraphic framework including super-sequences, sequences, and depositional units. ([[2016-awad|Awad, 2016, p. 17]])
 
 - High-frequency sequences (HFS) were identified as key units for understanding reservoir scale. ([[2017-adam|Adam, 2017, p. 130]])
+
+- Referenced in this thesis. ([[2024-hikmahtiar|Hikmahtiar, 2024]])
+
+- Identified three distinct formations: Gudair, Hartha, and Qurna. ([[1989-abdou|Abdou, 1989, p. 12]])
 
 ## Competing Approaches and Debates
 

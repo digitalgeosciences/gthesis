@@ -24,8 +24,12 @@ sources:
   - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # ICP-OES
@@ -60,6 +64,14 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] used ICP-OES to identify heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
 
+- [[2021-siddiq|Siddiq, 2021]] used ICP-OES to measure residual arsenic concentrations in both batch and SIP experiments.
+
+- [[2022-samarkin|Samarkin, 2022]] used ICP-OES to analyze reaction kinetics between chemicals and rocks.
+
+- [[2023-iskandar|Iskandar, 2023]] used ICP-OES to determine major element concentrations in peridotite samples.
+
+- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in AC filter samples from buildings in Saudi Arabia.
+
 ## Instruments and Software
 
 
@@ -85,6 +97,14 @@ last_updated: 2026-06-09
 - [[2017-olabemiwo|Olabemiwo, 2017]] used ICP-OES to determine the concentration of cadmium in aqueous solutions after adsorption.
 
 - [[2019-alamran|AlAmran, 2019]] used ICP-OES to identify heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
+
+- [[2021-siddiq|Siddiq, 2021]] used ICP-OES to measure residual arsenic concentrations in both batch and SIP experiments.
+
+- [[2022-samarkin|Samarkin, 2022]] used ICP-OES to analyze reaction kinetics between chemicals and rocks.
+
+- [[2023-iskandar|Iskandar, 2023]] used ICP-OES to determine major element concentrations in peridotite samples.
+
+- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in AC filter samples from buildings in Saudi Arabia.
 
 ## Typical Workflow
 
@@ -115,6 +135,14 @@ last_updated: 2026-06-09
 - Used to calculate percent removal and adsorption capacity (qe) of Cd(II). ([[2017-olabemiwo|Olabemiwo, 2017, p. 51]])
 
 - Used to separate individual trace metals from mixtures in sediment and plant samples. ([[2019-alamran|AlAmran, 2019, p. 37]])
+
+- Samples were analyzed by using ICP-OES (Plasma Quant 9000) following EPA method 1632. ([[2021-siddiq|Siddiq, 2021, p. 35]])
+
+- Used to monitor chemical concentrations during the treatment process. ([[2022-samarkin|Samarkin, 2022, p. 12]])
+
+- ICP-OES analysis of the melts after dissolution in ACS-grade nitric acid determined oxides of most major elements at 0.01 percent except Cr2O3 (0.002%), Fe2O3 and K2O (0.04%). ([[2023-iskandar|Iskandar, 2023, p. 49]])
+
+- The analysis identified concentrations of 14 different heavy metals including Cr, Zn, Cu, Mn, Pb, Cd, As, Co, Ni, V, Fe, Al, Ba, and Mo. ([[2024-alenazi|Alenazi, 2024, p. 18]])
 
 ## Methodological Variations Across Sources
 

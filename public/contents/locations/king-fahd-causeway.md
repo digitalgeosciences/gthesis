@@ -13,8 +13,9 @@ tags:
   - location/king-fahd-causeway
 sources:
   - "raw/10471 - Pleistocene-holocene sedimentation along King fahd Causeway between Saudi Arabia.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # King Fahd Causeway
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[1988-darwish|Darwish, 1988]] sampled cores along the king-fahd-causeway.
 
+- [[2022-khan|Khan, 2022]] studied the core samples collected along the king-fahd-causeway.
+
 ## Geological and Structural Setting
 
 - [[1988-darwish|Darwish, 1988]] marine area between Saudi Arabia and Bahrain
+
+- [[2022-khan|Khan, 2022]] studied the core samples collected along the king-fahd-causeway.
 
 ## Formations Present
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings From This Location
 
 - The study area is located at the entrance of Gulf of Salwa (26 N-50 20 E). ([[1988-darwish|Darwish, 1988, p. 28]])
+
+- The area is located in a semi-restricted marine environment within the Arabian Gulf. ([[2022-khan|Khan, 2022, p. 11]])
 
 ## Research Coverage and Gaps
 

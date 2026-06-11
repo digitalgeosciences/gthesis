@@ -16,8 +16,9 @@ sources:
   - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
   - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
+  - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Fractured Reservoirs
@@ -36,6 +37,8 @@ last_updated: 2026-06-09
 
 - [[2017-mahgoub|Mahgoub, 2017]] analyzed the fractured reservoirs of the Qusaiba shale member.
 
+- [[2024-abdallah|Abdallah, 2024]] investigated the cleanup of polymer-based fracturing fluids in fractured reservoirs.
+
 ## Scientific Context
 
 - [[2012-abdelgader|Abdelgader, 2012]] Crucial for understanding production in non-porous rock types like granites and schists.
@@ -45,6 +48,8 @@ last_updated: 2026-06-09
 - [[2016-babker|Babker, 2016]] studied the Sarah Formation as a fractured reservoir.
 
 - [[2017-mahgoub|Mahgoub, 2017]] analyzed the fractured reservoirs of the Qusaiba shale member.
+
+- [[2024-abdallah|Abdallah, 2024]] investigated the cleanup of polymer-based fracturing fluids in fractured reservoirs.
 
 ## Measurement and Characterization Methods
 
@@ -59,6 +64,8 @@ last_updated: 2026-06-09
 - Mode I (opening) fractures increase reservoir quality, while Mode III (shearing) acts as a barrier. ([[2016-babker|Babker, 2016, p. 83]])
 
 - Fractures are categorized into three modes (I, II, and III) based on displacement vectors. ([[2017-mahgoub|Mahgoub, 2017, p. 34]])
+
+- The study evaluated TCFs as a potential mechanism for breaking fracturing fluid polymers like guar gum. ([[2024-abdallah|Abdallah, 2024, p. 13]])
 
 ## Contrasting Values and Interpretations
 

@@ -17,6 +17,7 @@ sources:
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -41,6 +42,8 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] investigated PAHs as a major component of oil pollution in mangrove sediments.
 
+- [[2019-alhaiqi|Alhaiqi, 2019]] studied the impact of PAHs (Phenanthrene, Fluoranthene, and Pyrene) on soil health and their removal via plants.
+
 ## Scientific Context
 
 - [[2015-oyehan|Oyehan, 2015]] PAHs are a major concern in the Gulf due to their persistence and toxicity.
@@ -54,6 +57,8 @@ last_updated: 2026-06-09
 - [[2018-amiruddin|Amiruddin, 2018]] quantified PAHs in various samples to correlate chemical concentration with biological toxicity.
 
 - [[2019-alamran|AlAmran, 2019]] investigated PAHs as a major component of oil pollution in mangrove sediments.
+
+- [[2019-alhaiqi|Alhaiqi, 2019]] studied the impact of PAHs (Phenanthrene, Fluoranthene, and Pyrene) on soil health and their removal via plants.
 
 ## Measurement and Characterization Methods
 
@@ -72,6 +77,8 @@ last_updated: 2026-06-09
 - The total concentration of PAHs in Arabian Light crude oil was 27,377.7 ng/ml. ([[2018-amiruddin|Amiruddin, 2018, p. 63]])
 
 - HMW PAHs (4+ rings) are more prevalent in mangrove sediments than LMW PAHs due to the latter's susceptibility to microbial degradation. ([[2019-alamran|AlAmran, 2019, p. 34]])
+
+- PAHs are persistent, non-volatile, and hydrophobic pollutants that require remediation in contaminated sites. ([[2019-alhaiqi|Alhaiqi, 2019, p. 22]])
 
 ## Contrasting Values and Interpretations
 

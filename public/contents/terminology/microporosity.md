@@ -13,8 +13,9 @@ tags:
   - theme/petrophysics
 sources:
   - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Microporosity
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[2013-abdalla|Abdalla, 2013]] analyzed microporosity in different lithofacies and its impact on permeability.
 
+- [[2024-hassan|Hassan, 2024]] measured microporosity to evaluate reservoir quality.
+
 ## Scientific Context
 
 - [[2013-abdalla|Abdalla, 2013]] Crucial for understanding the contribution of small pores to total flow and storage in carbonate reservoirs.
+
+- [[2024-hassan|Hassan, 2024]] measured microporosity to evaluate reservoir quality.
 
 ## Measurement and Characterization Methods
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - Microporosity was found in sparry calcite, micrite, and dolomite, with specific correlations to permeability. ([[2013-abdalla|Abdalla, 2013, p. 148]])
+
+- Intercrystalline microporosity ranged from 3% to 18%. ([[2024-hassan|Hassan, 2024, p. 14]])
 
 ## Contrasting Values and Interpretations
 

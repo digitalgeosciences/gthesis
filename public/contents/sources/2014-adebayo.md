@@ -48,7 +48,7 @@ tags:
   - technique/sem
   - technique/xrf
   - technique/gc-ms
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/sem-eds
   - technique/uv-vis-spectroscopy
   - theme/water-treatment

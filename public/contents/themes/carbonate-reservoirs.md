@@ -12,8 +12,9 @@ sources:
   - "raw/10389 - Integrated deterministicprobabilistic petroleum volume evaluation for a carbonat.pdf"
   - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
   - "raw/140031 - Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Rese.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Carbonate Reservoirs
@@ -30,6 +31,8 @@ last_updated: 2026-06-09
 
 - [[2016-saleh|Saleh, 2016]] focused on the carbonate_reservoirs of the Khuff Formation.
 
+- [[2024-yusmananto|Yusmananto, 2024]] studied carbonate-reservoirs to evaluate their suitability for CO2 storage.
+
 ## Key Subtopics
 
 - [[2003-al-shridi|Al-Shridi, 2003]] ['porosity distribution', 'lithofacies analysis']
@@ -37,6 +40,8 @@ last_updated: 2026-06-09
 - [[2015-abdlmutalib|Abdlmutalib, 2015]] investigated the geomechanical behavior of tight carbonate reservoirs using an outcrop analogue.
 
 - [[2016-saleh|Saleh, 2016]] focused on the carbonate_reservoirs of the Khuff Formation.
+
+- [[2024-yusmananto|Yusmananto, 2024]] studied carbonate-reservoirs to evaluate their suitability for CO2 storage.
 
 ## Methods and Approaches Used
 
@@ -49,6 +54,8 @@ last_updated: 2026-06-09
 - Fracture networks are critical for fluid transport in these low-permeability units. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 17]])
 
 - Porosity is influenced by mineralogy (dolomite vs. anhydrite). ([[2016-saleh|Saleh, 2016, p. 19]])
+
+- The Upper Kharaib Member (UKM) is a significant carbonate reservoir with distinct facies associations influencing trapping. ([[2024-yusmananto|Yusmananto, 2024, p. 16]])
 
 ## Competing Approaches and Debates
 

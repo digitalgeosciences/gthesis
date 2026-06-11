@@ -116,7 +116,7 @@ tags:
   - technique/resistivity-logging
   - technique/microfacies-analysis
   - technique/biostratigraphy
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/molecular-microbiology
   - technique/stereonet-analysis
   - technique/response-surface-methodology

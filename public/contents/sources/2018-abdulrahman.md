@@ -27,7 +27,7 @@ techniques:
   - su-seismic-unix
   - fdelmodc
   - digitizeit
-  - finite-difference-modeling
+  - finite-difference
   - t2-gain-method
   - fourier-transform
   - band-pass-filter
@@ -59,7 +59,7 @@ tags:
   - formation/saq-formation
   - location/ghawar-field
   - location/saudi-arabia
-  - technique/finite-difference-modeling
+  - technique/finite-difference
   - technique/well-log-analysis
   - technique/seismic-processing
   - technique/velocity-analysis
@@ -123,7 +123,7 @@ Future studies should: 1. Regenerate data as acoustic instead of viscoelastic. 2
 
 ## Related Concepts
 
-- [[finite-difference-modeling]]
+- [[finite-difference]]
 - [[seismic-processing]]
 - [[velocity-analysis]]
 - [[short-offset-assumption]]

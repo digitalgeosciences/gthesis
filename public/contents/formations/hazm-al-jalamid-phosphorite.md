@@ -14,8 +14,9 @@ tags:
 sources:
   - "raw/10032 - Geostatistical evaluation of the Hazam al-Jalamid phosphorite deposit, Northwest.pdf"
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Hazm Al-Jalamid Phosphorite
@@ -30,11 +31,15 @@ last_updated: 2026-06-08
 
 - [[1996-matter|Matter, 1996]] studied the Hazm al-Jalamid formation to characterize its mineralogical and geochemical properties.
 
+- [[1987-abdul-latif|Abdul-Latif, 1987]] analyzed the Sibaiya Formation to characterize its mineral content.
+
 ## Depositional Environment
 
 - [[1996-jarad|Jarad, 1996]] restricted to semi-restricted, shallow marine
 
 - [[1996-matter|Matter, 1996]] studied the Hazm al-Jalamid formation to characterize its mineralogical and geochemical properties.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] analyzed the Sibaiya Formation to characterize its mineral content.
 
 ## Reservoir Properties
 
@@ -45,6 +50,8 @@ last_updated: 2026-06-08
 - The deposit is found in two, distinctive, phosphorite horizons (Horizon 1 and Horizon 3) separated by phosphatic limestone (Horizon 2). ([[1996-jarad|Jarad, 1996, p. 20]])
 
 - The deposit contains high concentrations of uranium (up to 300 ppm) and vanadium (up to 3000 ppm). ([[1996-matter|Matter, 1996, p. 26]])
+
+- The lower horizon has an average grade of 26% P2O5 and thickness of 1.8-8.0m. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 34]])
 
 ## Conflicting Interpretations Across Sources
 

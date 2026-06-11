@@ -19,8 +19,9 @@ sources:
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Bioremediation
@@ -47,6 +48,8 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] evaluated the bioremediation efficiency of Avicennia marina for PAHs and TPH.
 
+- [[2024-almutawa|AlMutawa, 2024]] evaluated bioremediation as a effective and cost-efficient method for treating soil contaminated with TPHs.
+
 ## Scientific Context
 
 - [[2011-salamah|Salamah, 2011]] Used as the primary strategy for cleaning up oil spills in terrestrial and aquatic environments.
@@ -64,6 +67,8 @@ last_updated: 2026-06-09
 - [[2017-budiyanto|Budiyanto, 2017]] evaluated bioremediation potential for pyrene removal in saline environments.
 
 - [[2019-alamran|AlAmran, 2019]] evaluated the bioremediation efficiency of Avicennia marina for PAHs and TPH.
+
+- [[2024-almutawa|AlMutawa, 2024]] evaluated bioremediation as a effective and cost-efficient method for treating soil contaminated with TPHs.
 
 ## Measurement and Characterization Methods
 
@@ -86,6 +91,8 @@ last_updated: 2026-06-09
 - Biological treatment was identified as an environmentally friendly and cost-effective alternative to physical/chemical methods. ([[2017-budiyanto|Budiyanto, 2017, p. 17]])
 
 - Removal efficiencies for PAHs were 79-92% over a 90-day period. ([[2019-alamran|AlAmran, 2019, p. 102]])
+
+- Biological treatments can effectively mitigate contamination at lower costs than physical, chemical, or thermal methods. ([[2024-almutawa|AlMutawa, 2024, p. 16]])
 
 ## Contrasting Values and Interpretations
 

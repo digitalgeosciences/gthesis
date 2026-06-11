@@ -23,8 +23,13 @@ sources:
   - "raw/140123 - 3D GEOSTATISTICAL MODELING OF FACIES AND PETROPHYSICAL PROPERTIES OF THE UPPER K.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Variogram Analysis
@@ -59,6 +64,16 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied variogram analysis for both facies and porosity modeling.
 
+- [[2022-karami|Karami, 2022]] performed variogram analysis to determine geometric anisotropy for kriging.
+
+- [[2022-babker|Babker, 2022]] used variogram-analysis to determine the range and continuity of lithofacies in the Khuff Formation.
+
+- [[2024-hassan|Hassan, 2024]] applied variogram-analysis as the keystone for 3D reservoir property modeling.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] performed variogram analysis to determine spatial continuity for phosphate grade, thickness, and accumulation.
+
+- [[2002-al-ali|Al-Ali, 2002]] applied semi-variogram analysis to determine anisotropy in uphole velocity data.
+
 ## Instruments and Software
 
 
@@ -84,6 +99,16 @@ last_updated: 2026-06-09
 - [[2017-adam|Adam, 2017]] used variogram analysis to model the lateral continuity of porosity in different lithofacies.
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied variogram analysis for both facies and porosity modeling.
+
+- [[2022-karami|Karami, 2022]] performed variogram analysis to determine geometric anisotropy for kriging.
+
+- [[2022-babker|Babker, 2022]] used variogram-analysis to determine the range and continuity of lithofacies in the Khuff Formation.
+
+- [[2024-hassan|Hassan, 2024]] applied variogram-analysis as the keystone for 3D reservoir property modeling.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] performed variogram analysis to determine spatial continuity for phosphate grade, thickness, and accumulation.
+
+- [[2002-al-ali|Al-Ali, 2002]] applied semi-variogram analysis to determine anisotropy in uphole velocity data.
 
 ## Typical Workflow
 
@@ -114,6 +139,16 @@ last_updated: 2026-06-09
 - Porosity models of intertidal sheets had larger horizontal ranges (300m) than those of intertidal creeks or channels (150m). ([[2017-adam|Adam, 2017, p. 220]])
 
 - Used to determine the spatial continuity of lithofacies and porosity. ([[2017-abdelgader|Abdelgader, 2017, p. 219]])
+
+- Variogram models were used to estimate parameters for both sampled and transformed data. ([[2022-karami|Karami, 2022, p. 48]])
+
+- Variograms were used to model the spatial distribution of reservoir properties. ([[2022-babker|Babker, 2022]])
+
+- Used to determine the degree of continuity or heterogeneity in the carbonate units. ([[2024-hassan|Hassan, 2024, p. 23]])
+
+- Spherical models were successfully fitted to all experimental variograms. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 18]])
+
+- All semi-variograms revealed a northwesterly trending anisotropy at approximately 145 degrees from the north. ([[2002-al-ali|Al-Ali, 2002, p. 98]])
 
 ## Methodological Variations Across Sources
 

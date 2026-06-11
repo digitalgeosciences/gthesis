@@ -13,8 +13,9 @@ tags:
   - theme/hydrogeology
 sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
+  - "raw/141649 - Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, N.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
 # Pumping Test
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[1993-moallim|Moallim, 1993]] used pumping tests to characterize the hydraulic properties of major aquifers including Baidoa, Jesomma, Aurado, Taleh, and Merca.
 
+- [[2020-mansouri|Mansouri, 2020]] performed pumping tests on four wells (366, 316, RAH-09, RAH-22) to assess aquifer performance.
+
 ## Instruments and Software
 
 
+
+- [[2020-mansouri|Mansouri, 2020]] performed pumping tests on four wells (366, 316, RAH-09, RAH-22) to assess aquifer performance.
 
 ## Typical Workflow
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Results and Findings
 
 - Pumping tests provided data for calculating aquifer storage and determining water level behavior in several systems. ([[1993-moallim|Moallim, 1993, p. 65]])
+
+- Identified distinct differences in hydraulic conductivity between the eastern and western zones of the aquifer. ([[2020-mansouri|Mansouri, 2020, p. 78]])
 
 ## Methodological Variations Across Sources
 

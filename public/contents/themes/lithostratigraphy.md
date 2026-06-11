@@ -16,8 +16,13 @@ sources:
   - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
   - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
   - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
+  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
+  - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
+  - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Lithostratigraphy
@@ -46,6 +51,16 @@ last_updated: 2026-06-09
 
 - [[2018-butt|Butt, 2018]] used lithostratigraphy to define the Nutaysh member within the Burqan Formation.
 
+- [[2022-khamsin|Khamsin, 2022]] used lithostratigraphy to define the D1-D2 units.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] used lithostratigraphy to define the carbonate sequence in the Umm Lajj Basin.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] used lithostratigraphy to define the Scaglia Rossa Formation members (R1-R4).
+
+- [[2024-ahmed|Ahmed, 2024]] used lithostratigraphy to define the units within the Hofuf Formation.
+
+- [[2024-chavanidis|Chavanidis, 2024]] used lithostratigraphy to correlate well data with seismic sections.
+
 ## Key Subtopics
 
 
@@ -65,6 +80,16 @@ last_updated: 2026-06-09
 - [[2016-bashri|Bashri, 2016]] applied lithostratigraphy to define the sedimentary units in the Al-Lidam area.
 
 - [[2018-butt|Butt, 2018]] used lithostratigraphy to define the Nutaysh member within the Burqan Formation.
+
+- [[2022-khamsin|Khamsin, 2022]] used lithostratigraphy to define the D1-D2 units.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] used lithostratigraphy to define the carbonate sequence in the Umm Lajj Basin.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] used lithostratigraphy to define the Scaglia Rossa Formation members (R1-R4).
+
+- [[2024-ahmed|Ahmed, 2024]] used lithostratigraphy to define the units within the Hofuf Formation.
+
+- [[2024-chavanidis|Chavanidis, 2024]] used lithostratigraphy to correlate well data with seismic sections.
 
 ## Methods and Approaches Used
 
@@ -89,6 +114,16 @@ last_updated: 2026-06-09
 - Established a stratigraphic framework for the Miocene Dam Formation. ([[2016-bashri|Bashri, 2016]])
 
 - Identified 13 sub-lithofacies representing various depositional environments. ([[2018-butt|Butt, 2018, p. 187]])
+
+- Defined the Dhruma Formation as a carbonate platform system. ([[2022-khamsin|Khamsin, 2022]])
+
+- Identified a sequence of massive coral deposits separated by mudstone intervals. ([[2022-al-sadah|Al-Sadah, 2022, p. 14]])
+
+- The R3 member constitutes the Lower Paleocene (Danian) and is well-exposed in the Contessa Highway section. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 38]])
+
+- The Hofuf Formation is divided into four distinct units: a basal conglomerate, calcareous sandstone, argillaceous sandstone, and blocky/nodular limestone. ([[2024-ahmed|Ahmed, 2024, p. 47]])
+
+- Lithostratigraphic changes were used to verify the internal basin structure. ([[2024-chavanidis|Chavanidis, 2024, p. 48]])
 
 ## Competing Approaches and Debates
 

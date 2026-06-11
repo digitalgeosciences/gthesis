@@ -17,8 +17,9 @@ sources:
   - "raw/139662 - INVESTIGATION OF VARIOUS BACTERIAL ISOLATES IN DEGRADATION OF SPECIFIC HYDROCARB.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
+  - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Environmental Microbiology
@@ -45,6 +46,8 @@ last_updated: 2026-06-09
 
 - [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for bioremediation.
 
+- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify indigenous bacteria capable of degrading hydrocarbons.
+
 ## Key Subtopics
 
 - [[2011-salamah|Salamah, 2011]] ['bioremediation', 'microbial identification']
@@ -62,6 +65,8 @@ last_updated: 2026-06-09
 - [[2016-ibrahim|Ibrahim, 2016]] applied environmental microbiology to isolate and characterize microalgae for biofuel production.
 
 - [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for bioremediation.
+
+- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify indigenous bacteria capable of degrading hydrocarbons.
 
 ## Methods and Approaches Used
 
@@ -84,6 +89,8 @@ last_updated: 2026-06-09
 - All isolated strains showed greater than 90% nitrate and phosphate removal. ([[2016-ibrahim|Ibrahim, 2016, p. 11]])
 
 - Three strains (Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A) were successfully isolated and characterized. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+
+- Indigenous bacterial strains showed a significant capacity to utilize petroleum as carbon sources. ([[2024-almutawa|AlMutawa, 2024, p. 15]])
 
 ## Competing Approaches and Debates
 

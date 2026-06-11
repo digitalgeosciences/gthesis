@@ -22,8 +22,17 @@ sources:
   - "raw/139874 - GIS application and Environmental Factors for Mosquito Control in Eastern Provin.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/142010 - MODELLING THE EFFECTS OF CLIMATE CHANGE ON AIR QUALITY IN THE DAMMAM METROPOLITA.pdf"
+  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
+  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
+  - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # GIS
@@ -54,6 +63,24 @@ last_updated: 2026-06-09
 
 - [[2017-benaafi|Benaafi, 2017]] used GIS to delineate lineaments and perform statistical analysis on orientation and length.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] used GIS to map the regional geomorphology and track dune migration over time.
+
+- [[2022-mustapha|Mustapha, 2022]] used GIS to georeference base maps and terrain files in the Dammam area.
+
+- [[2022-pambudi|Pambudi, 2022]] used GIS to integrate thematic layers for ASR potential mapping.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] applied GIS to map the locations of waste sites in Dammam and Hafer Al-Batin.
+
+- [[2023-nasir|Nasir, 2023]] used GIS to map coastal changes and study area locations.
+
+- [[2023-rafiq|Rafiq, 2023]] used GIS to map surface lineaments, density zones, and hydrogeochemical data.
+
+- [[2023-arrofi|Arrofi, 2023]] used GIS to map lineament density and perform fuzzy overlay analysis in both study areas.
+
+- [[2024-alenazi|Alenazi, 2024]] applied GIS to analyze the spatial distribution of air quality and heavy metals.
+
+- [[2025-al-afif|Al-Afif, 2025]] used QGIS to generate AQI maps based on calculated concentration values.
+
 ## Instruments and Software
 
 
@@ -75,6 +102,24 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] used GIS to analyze satellite imagery and map lineaments.
 
 - [[2017-benaafi|Benaafi, 2017]] used GIS to delineate lineaments and perform statistical analysis on orientation and length.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] used GIS to map the regional geomorphology and track dune migration over time.
+
+- [[2022-mustapha|Mustapha, 2022]] used GIS to georeference base maps and terrain files in the Dammam area.
+
+- [[2022-pambudi|Pambudi, 2022]] used GIS to integrate thematic layers for ASR potential mapping.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] applied GIS to map the locations of waste sites in Dammam and Hafer Al-Batin.
+
+- [[2023-nasir|Nasir, 2023]] used GIS to map coastal changes and study area locations.
+
+- [[2023-rafiq|Rafiq, 2023]] used GIS to map surface lineaments, density zones, and hydrogeochemical data.
+
+- [[2023-arrofi|Arrofi, 2023]] used GIS to map lineament density and perform fuzzy overlay analysis in both study areas.
+
+- [[2024-alenazi|Alenazi, 2024]] applied GIS to analyze the spatial distribution of air quality and heavy metals.
+
+- [[2025-al-afif|Al-Afif, 2025]] used QGIS to generate AQI maps based on calculated concentration values.
 
 ## Typical Workflow
 
@@ -101,6 +146,24 @@ last_updated: 2026-06-09
 - Over 120 regional-scale lineaments were identified using ArcMap. ([[2017-mahgoub|Mahgoub, 2017, p. 41]])
 
 - Used ArcGIS 10.2 to process satellite images and DEMs for mapping lineament traces across multiple scales. ([[2017-benaafi|Benaafi, 2017, p. 54]])
+
+- Satellite imagery analysis helped identify a variety of dune types including barchans and parabolic dunes. ([[2022-al-alawi|Al-Alawi, 2022, p. 78]])
+
+- Not stated in source ([[2022-mustapha|Mustapha, 2022]])
+
+- The integration of GIS, Remote Sensing, and MCDA - Weighted Overlay Analysis (WOA) methods is assumed powerful tool for delineating ASR potential sites in the semi-arid region. ([[2022-pambudi|Pambudi, 2022, p. 14]])
+
+- GIS was used to create maps showing the distribution of 62 identified dumpsites. ([[2022-al-harbi|Al-Harbi, 2022, p. 13]])
+
+- Used to overlay 1973 multispectral data with modern imagery to show land reclamation. ([[2023-nasir|Nasir, 2023, p. 40]])
+
+- Enabled the delineation of high-permeability zones and identification of hot spring locations. ([[2023-rafiq|Rafiq, 2023, p. 43]])
+
+- The fuzzy 'AND' overlaying method was successfully used to identify high surface fracture density areas for preliminary exploration. ([[2023-arrofi|Arrofi, 2023, p. 16]])
+
+- Used for spatial assessment of pollutants in study areas. ([[2024-alenazi|Alenazi, 2024, p. 240]])
+
+- AQI maps generated in QGIS showed that SO2 levels dropped from 'unhealthy' to 'good' after fuel shifting. ([[2025-al-afif|Al-Afif, 2025, p. 40]])
 
 ## Methodological Variations Across Sources
 

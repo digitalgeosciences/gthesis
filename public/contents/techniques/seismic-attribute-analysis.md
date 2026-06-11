@@ -21,8 +21,10 @@ sources:
   - "raw/138941 - SEISMIC ATTRIBUTES AND PETROPHYSICAL MODELLING OF THE ARADEIBA-D MEMBER, MUGLAD .pdf"
   - "raw/139620 - Improved 3-D Seismic Edge Detection with the Magic Cube Operator.pdf"
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
+  - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
+  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Seismic Attribute Analysis
@@ -45,6 +47,10 @@ last_updated: 2026-06-09
 
 - [[2016-awad|Awad, 2016]] applied seismic-attribute-analysis (specifically RMS) to characterize seismic facies and provide structural interpretation control.
 
+- [[2024-chavanidis|Chavanidis, 2024]] used seismic-attribute-analysis to identify lithology, sedimentary processes, and fluid identification.
+
+- [[2024-maigana|Maigana, 2024]] used seismic-attribute-analysis to distinguish sandy intervals within channels from overbank deposits.
+
 ## Instruments and Software
 
 
@@ -58,6 +64,10 @@ last_updated: 2026-06-09
 - [[2015-adetokunbo|Adetokunbo, 2015]] used seismic-attribute-analysis to identify structural and stratigraphic features in 3D seismic volumes.
 
 - [[2016-awad|Awad, 2016]] applied seismic-attribute-analysis (specifically RMS) to characterize seismic facies and provide structural interpretation control.
+
+- [[2024-chavanidis|Chavanidis, 2024]] used seismic-attribute-analysis to identify lithology, sedimentary processes, and fluid identification.
+
+- [[2024-maigana|Maigana, 2024]] used seismic-attribute-analysis to distinguish sandy intervals within channels from overbank deposits.
 
 ## Typical Workflow
 
@@ -76,6 +86,10 @@ last_updated: 2026-06-09
 - The method provides better edge detection for steeply dipping events compared to the Sobel operator. ([[2015-adetokunbo|Adetokunbo, 2015, p. 13]])
 
 - RMS attribute was used to distinguish between sandstone and claystone facies based on amplitude and continuity. ([[2016-awad|Awad, 2016, p. 218]])
+
+- Instantaneous phase is independent of amplitude and influenced by the propagation phase of the wave-front. ([[2024-chavanidis|Chavanidis, 2024, p. 55]])
+
+- RMS amplitude maps showed a distribution of sandy intervals, while Chaos maps identified sedimentary textures around channel boundaries. ([[2024-maigana|Maigana, 2024, p. 8]])
 
 ## Methodological Variations Across Sources
 

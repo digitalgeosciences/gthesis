@@ -16,8 +16,9 @@ sources:
   - "raw/138787 - Investigation of Source Rock Potential and Micropaleontology of the Middle Ordov.pdf"
   - "raw/139521 - ISOLATION AND CHARACTERIZATON OF MICROBIAL COMMUNITIES FOUND IN OIL-POLLUTED SIT.pdf"
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
+  - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petroleum Hydrocarbons
@@ -36,6 +37,8 @@ last_updated: 2026-06-09
 
 - [[2016-sameh|Sameh, 2016]] studied the removal of petroleum hydrocarbons (Toluene) from water.
 
+- [[2024-almutawa|AlMutawa, 2024]] investigated the degradation of petroleum hydrocarbons (TPHs) in soils contaminated by industrial activities.
+
 ## Scientific Context
 
 - [[2011-salamah|Salamah, 2011]] The primary pollutant being remediated in the study.
@@ -45,6 +48,8 @@ last_updated: 2026-06-09
 - [[2015-oyehan|Oyehan, 2015]] studied the degradation of PAHs and diesel components by bacterial isolates.
 
 - [[2016-sameh|Sameh, 2016]] studied the removal of petroleum hydrocarbons (Toluene) from water.
+
+- [[2024-almutawa|AlMutawa, 2024]] investigated the degradation of petroleum hydrocarbons (TPHs) in soils contaminated by industrial activities.
 
 ## Measurement and Characterization Methods
 
@@ -59,6 +64,8 @@ last_updated: 2026-06-09
 - Isolates BC5 and LB were excellent phenanthrene degraders, reducing 100 ppm by approximately 95% within 15 days. ([[2015-oyehan|Oyehan, 2015, p. 18]])
 
 - Toluene was selected as a primary indicator for diesel contamination due to its high solubility. ([[2016-sameh|Sameh, 2016, p. 20]])
+
+- TPH concentrations in soils can vary widely, ranging from < 100 mg/kg to > 10,000 mg/kg in heavily contaminated areas. ([[2024-almutawa|AlMutawa, 2024, p. 18]])
 
 ## Contrasting Values and Interpretations
 

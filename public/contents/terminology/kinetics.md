@@ -12,6 +12,7 @@ related_techniques:
 tags: []
 sources:
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -26,9 +27,13 @@ last_updated: 2026-06-09
 
 - [[2016-sameh|Sameh, 2016]] performed kinetic studies to determine the rate constants for toluene degradation.
 
+- [[2021-alnasser|AlNasser, 2021]] analyzed adsorption kinetics using pseudo-first and second-order models.
+
 ## Scientific Context
 
 - [[2016-sameh|Sameh, 2016]] Determining the rate constant (k) helps in sizing treatment systems.
+
+- [[2021-alnasser|AlNasser, 2021]] analyzed adsorption kinetics using pseudo-first and second-order models.
 
 ## Measurement and Characterization Methods
 
@@ -37,6 +42,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - Toluene removal by both LP UV and MP UV followed first-order kinetics with similar rate constants (0.048 and 0.0442). ([[2016-sameh|Sameh, 2016, p. 89]])
+
+- Pseudo-second-order model provided the best fit (R2 = 0.999). ([[2021-alnasser|AlNasser, 2021, p. 72]])
 
 ## Contrasting Values and Interpretations
 

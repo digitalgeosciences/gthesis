@@ -12,8 +12,9 @@ tags:
   - theme/petrophysics
 sources:
   - "raw/136368 - Saturation-Height Modelling of Oil and Gas-Capped Reservoirs.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Pore Radius
@@ -26,9 +27,13 @@ last_updated: 2026-06-08
 
 - [[2010-alroudhan|AlRoudhan, 2010]] calculated pore-radius from mercury injection data to determine distribution.
 
+- [[2023-alsahwan|AlSahwan, 2023]] used grain radius as an input for Hertz-Mindlin calculations.
+
 ## Scientific Context
 
 - [[2010-alroudhan|AlRoudhan, 2010]] Directly influences capillary pressure and, consequently, water saturation distribution.
+
+- [[2023-alsahwan|AlSahwan, 2023]] used grain radius as an input for Hertz-Mindlin calculations.
 
 ## Measurement and Characterization Methods
 
@@ -37,6 +42,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - A capillary pressure curve is converted into a continuous distribution of equivalent pore throat radii. ([[2010-alroudhan|AlRoudhan, 2010, p. 80]])
+
+- Used to calculate dry sediment moduli (K_d, G_d). ([[2023-alsahwan|AlSahwan, 2023, p. 27]])
 
 ## Contrasting Values and Interpretations
 

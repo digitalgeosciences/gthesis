@@ -19,8 +19,11 @@ sources:
   - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
   - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
+  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Dammam Formation
@@ -43,6 +46,12 @@ last_updated: 2026-06-09
 
 - [[2019-prasetyo|Prasetyo, 2019]] analyzed the Dammam formation as a key component of the regional hydrogelectoral system.
 
+- [[2022-pambudi|Pambudi, 2022]] evaluated as a primary candidate for ASR due1 to its importance in the region.
+
+- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and fracture systems.
+
+- [[1995-hasan|Hasan, 1995]] characterized the Dammam formation as a primary source for the Khobar and Alat aquifers.
+
 ## Depositional Environment
 
 - [[2000-mohammad|Mohammad, 2000]] marine conditions
@@ -56,6 +65,12 @@ last_updated: 2026-06-09
 - [[2018-hanif|Hanif, 2018]] investigated the dammam-formation to characterize its structural properties.
 
 - [[2019-prasetyo|Prasetyo, 2019]] analyzed the Dammam formation as a key component of the regional hydrogelectoral system.
+
+- [[2022-pambudi|Pambudi, 2022]] evaluated as a primary candidate for ASR due1 to its importance in the region.
+
+- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and fracture systems.
+
+- [[1995-hasan|Hasan, 1995]] characterized the Dammam formation as a primary source for the Khobar and Alat aquifers.
 
 ## Reservoir Properties
 
@@ -74,6 +89,12 @@ last_updated: 2026-06-09
 - Not stated in source ([[2018-hanif|Hanif, 2018]])
 
 - Consists of five units; upper two (Khobar and Alat) are the primary aquifers. ([[2019-prasetyo|Prasetyo, 2019, p. 24]])
+
+- The Dammam aquifer depth varies from <9m to 80m, increasing from northwest to southeast. ([[2022-pambudi|Pambudi, 2022, p. 52]])
+
+- The Dammam Formation is the main formation exposed in the study area. ([[2023-alshaibani|AlShaibani, 2023, p. 17]])
+
+- The Dammam formation thickness varies from 125 to 200 meters and is divided into five members including Midra, Saila, Alveolina, Khobar, and Alat. ([[1995-hasan|Hasan, 1995, p. 49]])
 
 ## Conflicting Interpretations Across Sources
 

@@ -48,7 +48,7 @@ techniques:
   - sequential-gaussian-simulation
   - petrel
   - stochastic-simulation
-  - lithofacies-analysis
+  - lithofacies
   - gaspermeameter
   - gaussian-modeling
   - indicator-simulation
@@ -184,6 +184,6 @@ Limited number of samples per section (due to thin lithofacies and accessibility
 - [[sequential-indicator-simulation]]
 - [[lithofacies]]
 - [[helium-porosity]]
-- [[permeability-measurement]]
+- [[core-analysis]]
 - [[petrel]]
 - [[microfacies-analysis]]

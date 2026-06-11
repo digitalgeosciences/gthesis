@@ -13,8 +13,9 @@ tags:
   - theme/seismology
 sources:
   - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
+  - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # First Arrivals
@@ -27,9 +28,13 @@ last_updated: 2026-06-09
 
 - [[2016-edigbue|Edigbue, 2016]] analyzed first arrivals in 3D seismic refraction data.
 
+- [[2022-awais|Awais, 2022]] analyzed first arrivals to determine traveltimes for static correction and velocity analysis.
+
 ## Scientific Context
 
 - [[2016-edigbue|Edigbue, 2016]] Critical for determining the velocity and depth of subsurface layers in refraction surveys.
+
+- [[2022-awais|Awais, 2022]] analyzed first arrivals to determine traveltimes for static correction and velocity analysis.
 
 ## Measurement and Characterization Methods
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - First arrival results showed a strong correlation with the raw synthetic data before noise addition. ([[2016-edigbue|Edigbue, 2016, p. 64]])
+
+- Accurate picking is essential for subsequent processing steps like static correction, velocity analysis, and deconvolution. ([[2022-awais|Awais, 2022, p. 20]])
 
 ## Contrasting Values and Interpretations
 

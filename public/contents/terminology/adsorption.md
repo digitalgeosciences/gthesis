@@ -20,8 +20,11 @@ sources:
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Adsorption
@@ -50,6 +53,12 @@ last_updated: 2026-06-09
 
 - [[2019-salawudeen|Salawudeen, 2019]] evaluated the removal efficiency of phenol and cadmium via adsorption onto modified graphene.
 
+- [[2021-alnasser|AlNasser, 2021]] studied adsorption as the primary mechanism for removing methylene blue and heavy metals from wastewater.
+
+- [[2021-siddiq|Siddiq, 2021]] investigated adsorption of arsenic onto biochar surfaces.
+
+- [[2025-almousa|Almousa, 2025]] studied the adsorption of MTBE and BTEX onto CAC.
+
 ## Scientific Context
 
 - [[2009-al-khaldi|Al-Khaldi, 2009]] Adsorption is one of the most promising methods for removing heavy metals from water.
@@ -69,6 +78,12 @@ last_updated: 2026-06-09
 - [[2018-adeyemi|Adeyemi, 2018]] investigated the adsorption of MTBE onto various types of SDAC.
 
 - [[2019-salawudeen|Salawudeen, 2019]] evaluated the removal efficiency of phenol and cadmium via adsorption onto modified graphene.
+
+- [[2021-alnasser|AlNasser, 2021]] studied adsorption as the primary mechanism for removing methylene blue and heavy metals from wastewater.
+
+- [[2021-siddiq|Siddiq, 2021]] investigated adsorption of arsenic onto biochar surfaces.
+
+- [[2025-almousa|Almousa, 2025]] studied the adsorption of MTBE and BTEX onto CAC.
 
 ## Measurement and Characterization Methods
 
@@ -93,6 +108,12 @@ last_updated: 2026-06-09
 - Adsorbent 2Z-700-90 achieved a removal efficiency of 70% under optimized conditions. ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
 
 - Removal efficiency was influenced by pH, agitation speed, temperature, dosage, concentration, and time. ([[2019-salawudeen|Salawudeen, 2019, p. 42]])
+
+- PG showed high capacity (161.29 mg/g) for methylene blue removal. ([[2021-alnasser|AlNasser, 2021, p. 19]])
+
+- Adsorption is highly dependent on several factors including pH, presence of other cations, and adsorbent dosage; it can achieve high removal rates with easy operational controls. ([[2021-siddiq|Siddiq, 2021, p. 26]])
+
+- MTBE and BTEX adsorption is mostly affected by CAC dosage, initial contaminant concentrations, and flowrate. ([[2025-almousa|Almousa, 2025, p. 13]])
 
 ## Contrasting Values and Interpretations
 

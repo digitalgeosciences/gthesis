@@ -17,8 +17,11 @@ sources:
   - "raw/138468 - Aspects of Permian Paleowind Directions in the Unayzah A Reservoir Subsurface Ea.pdf"
   - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
   - "raw/140109 - ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA.pdf"
+  - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Unayzah Formation
@@ -39,6 +42,12 @@ last_updated: 2026-06-09
 
 - [[2016-houssain|Houssain, 2016]] studied the unayzah-formation to develop a rock physics model for its clastic members.
 
+- [[2020-almumtin|Almumtin, 2020]] studied the unayzah-formation as a primary reservoir.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] analyzed the Unayzah formation as part of the chemostratigraphy study.
+
+- [[2022-radwan|Radwan, 2022]] analyzed samples from the Unayzah Formation to determine QCI values.
+
 ## Depositional Environment
 
 - [[1997-al-marhoun|Al-Marhoun, 1997]] fluvial, braided channel-fill, and playa lake environments
@@ -50,6 +59,12 @@ last_updated: 2026-06-09
 - [[2016-hassan|Hassan, 2016]] studied the Unayzah-C and Unayzah-A formations for fracture detection.
 
 - [[2016-houssain|Houssain, 2016]] studied the unayzah-formation to develop a rock physics model for its clastic members.
+
+- [[2020-almumtin|Almumtin, 2020]] studied the unayzah-formation as a primary reservoir.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] analyzed the Unayzah formation as part of the chemostratigraphy study.
+
+- [[2022-radwan|Radwan, 2022]] analyzed samples from the Unayzah Formation to determine QCI values.
 
 ## Reservoir Properties
 
@@ -66,6 +81,12 @@ last_updated: 2026-06-09
 - Unayzah-C is a potential deep, low porosity, possibly fractured reservoir. ([[2016-hassan|Hassan, 2016, p. 11]])
 
 - The Unayzah-a member is highly heterogeneous and often appears as a thin layer, making it difficult to detect at current seismic resolution. ([[2016-houssain|Houssain, 2016, p. 21]])
+
+- The Unayzah A member consists of a coarsening upward sequence, while B and C are fine-grained to pebbly sandstones. ([[2020-almumtin|Almumtin, 2020, p. 26]])
+
+- Included in the core study of unconventional rocks in KSA. ([[2020-gbiyanju|Gbiyanju, 2020, p. 25]])
+
+- Samples 1118-09 and 1118-10 showed QCI values of 9.49 and 9.81 respectively. ([[2022-radwan|Radwan, 2022, p. 42]])
 
 ## Conflicting Interpretations Across Sources
 

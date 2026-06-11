@@ -18,8 +18,18 @@ sources:
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
   - "raw/140109 - ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA.pdf"
   - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
+  - "raw/141361 - Rock Physics Modeling and Inversion in Glacial Ordovician Reservoirs.pdf"
+  - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
+  - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
+  - "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
+  - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Seismic Inversion
@@ -44,6 +54,26 @@ last_updated: 2026-06-09
 
 - [[2018-mohamed|Mohamed, 2018]] evaluated acoustic FWI on both acoustic and viscoelastic synthetic data to determine its effectiveness in complex near-surface environments.
 
+- [[2019-al-dawood|Al-Dawood, 2019]] applied seismic inversion to predict porosity and gas saturation.
+
+- [[2020-abdallah-2|Abdallah, 2020]] used PSDM and PSTM to evaluate the impact of different velocity models on basement imaging.
+
+- [[2020-almumtin|Almumtin, 2020]] used to generate volumes of seismically derived impedances and density for interpretation.
+
+- [[2023-edigbue|Edigbue, 2023]] applied joint inversion to combine DCR and SR data for better imaging.
+
+- [[2023-alsahwan|AlSahwan, 2023]] applied seismic-inversion to determine water saturation from diving direct P-wave arrival times.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used traveltime tomography to generate the velocity-depth relation along the 2D profile.
+
+- [[2023-almarzooq|Almarzooq, 2023]] applied seismic-inversion to VSP corridor stacks to predict subsurface conditions ahead of the bit.
+
+- [[2024-alabbad|Alabbad, 2024]] used seismic-inversion to derive Ip and Is for interpretation.
+
+- [[2024-tarchi|Tarchi, 2024]] applied joint inversion of seismic and conductivity data to estimate water saturation.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] used teleseismic P-wave tomography to map 3-D P-wave perturbations and identify subducting slabs.
+
 ## Instruments and Software
 
 
@@ -59,6 +89,26 @@ last_updated: 2026-06-09
 - [[2016-houssain|Houssain, 2016]] used seismic-inversion to relate the derived acoustic impedance to porosity for quantitative interpretation.
 
 - [[2018-mohamed|Mohamed, 2018]] evaluated acoustic FWI on both acoustic and viscoelastic synthetic data to determine its effectiveness in complex near-surface environments.
+
+- [[2019-al-dawood|Al-Dawood, 2019]] applied seismic inversion to predict porosity and gas saturation.
+
+- [[2020-abdallah-2|Abdallah, 2020]] used PSDM and PSTM to evaluate the impact of different velocity models on basement imaging.
+
+- [[2020-almumtin|Almumtin, 2020]] used to generate volumes of seismically derived impedances and density for interpretation.
+
+- [[2023-edigbue|Edigbue, 2023]] applied joint inversion to combine DCR and SR data for better imaging.
+
+- [[2023-alsahwan|AlSahwan, 2023]] applied seismic-inversion to determine water saturation from diving direct P-wave arrival times.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used traveltime tomography to generate the velocity-depth relation along the 2D profile.
+
+- [[2023-almarzooq|Almarzooq, 2023]] applied seismic-inversion to VSP corridor stacks to predict subsurface conditions ahead of the bit.
+
+- [[2024-alabbad|Alabbad, 2024]] used seismic-inversion to derive Ip and Is for interpretation.
+
+- [[2024-tarchi|Tarchi, 2024]] applied joint inversion of seismic and conductivity data to estimate water saturation.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] used teleseismic P-wave tomography to map 3-D P-wave perturbations and identify subducting slabs.
 
 ## Typical Workflow
 
@@ -79,6 +129,26 @@ last_updated: 2026-06-09
 - A second-order polynomial fit (R^2 = 0.9) was established between porosity and acoustic impedance. ([[2016-houssain|Houssain, 2016, p. 89]])
 
 - Acoustic FWI successfully reconstructed velocity images with small local anomalies and strong velocity contrast. ([[2018-mohamed|Mohamed, 2018, p. 15]])
+
+- Inversion analysis was performed for AI, Vp/Vs, and Density on both actual and synthetic wells. ([[2019-al-dawood|Al-Dawood, 2019, p. 67]])
+
+- PSDM is preferred for resolving ray path issues and illumination challenges in sub-salt structures. ([[2020-abdallah-2|Abdallah, 2020, p. 19]])
+
+- Simultaneous impedance inversion provides the basis for translating seismic data into usable rock properties. ([[2020-almumtin|Almumtin, 2020, p. 17]])
+
+- The combined optimization approach is the most effective method for accurately characterizing the subsurface geology. ([[2023-edigbue|Edigbue, 2023, p. 18]])
+
+- The proposed method was able to invert all assumed SW values within 2% error. ([[2023-alsahwan|AlSahwan, 2023, p. 43]])
+
+- Identified high velocity values (1210 to 1665 m/s) in the first 20 meters, aligning with the deformation zone. ([[2023-alshaibani|AlShaibani, 2023, p. 58]])
+
+- Directly extracting velocity from corridor stacks removes the dependency on specific wavelet selections. ([[2023-almarzooq|Almarzooq, 2023, p. 19]])
+
+- Not stated in source ([[2024-alabbad|Alabbad, 2024]])
+
+- Inversion results for Sw (median 0.05142) were compared against experimental values (median 0.04571). ([[2024-tarchi|Tarchi, 2024, p. 14]])
+
+- The 3-D tomographic images consistently show a high-velocity perturbation in northern Sulawesi that is associated with multiple subducting slabs. ([[2025-kesumastuti|Kesumastuti, 2025, p. 14]])
 
 ## Methodological Variations Across Sources
 

@@ -13,8 +13,9 @@ tags:
   - theme/groundwater-quality
 sources:
   - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
+  - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Saline Intrusion
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[2012-iwalewa|Iwalewa, 2012]] monitored the impact of salinity on the UER aquifer due to increased pumping.
 
+- [[2024-ahmad|Ahmad, 2024]] analyzed seawater intrusion as a primary threat to coastal aquifer sustainability.
+
 ## Scientific Context
 
 - [[2012-iwalewa|Iwalewa, 2012]] Salinity limits the use of groundwater for drinking and irrigation.
+
+- [[2024-ahmad|Ahmad, 2024]] analyzed seawater intrusion as a primary threat to coastal aquifer sustainability.
 
 ## Measurement and Characterization Methods
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - Salinity is identified as the primary concern for groundwater quality in the study area. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
+
+- Seawater intrusion is a major concern in the region, leading to increased salinity and deteriorating groundwater quality. ([[2024-ahmad|Ahmad, 2024, p. 21]])
 
 ## Contrasting Values and Interpretations
 

@@ -11,8 +11,10 @@ sources:
   - "raw/10281 - Diagenesis of Jauf sandstone in Hawiyah area.pdf"
   - "raw/138706 - Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan.pdf"
   - "raw/139746 - SEQUENCE STRATIGRAPHIC ANALYSIS AND POROSITY EVALUATION OF A FIELD USING 3D SEIS.pdf"
+  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petroleum Geology
@@ -29,6 +31,10 @@ last_updated: 2026-06-09
 
 - [[2015-sanuade|Sanuade, 2015]] applied petroleum-geology to evaluate the Otu field's potential.
 
+- [[2022-al-alawi|Al-Alawi, 2022]] evaluated the petroleum-geology implications of aeolian systems on reservoir heterogeneity.
+
+- [[2022-babker|Babker, 2022]] applied petroleum-geology to evaluate the Khuff Formation as a reservoir.
+
 ## Key Subtopics
 
 - [[2001-al-ramadan|Al-Ramadan, 2001]] ['diagenesis', 'reservoir-characterization', 'petrography']
@@ -36,6 +42,10 @@ last_updated: 2026-06-09
 - [[2012-abdelgader|Abdelgader, 2012]] applied petroleum-geology to evaluate fractured basement reservoirs.
 
 - [[2015-sanuade|Sanuade, 2015]] applied petroleum-geology to evaluate the Otu field's potential.
+
+- [[2022-al-alawi|Al-Alawi, 2022]] evaluated the petroleum-geology implications of aeolian systems on reservoir heterogeneity.
+
+- [[2022-babker|Babker, 2022]] applied petroleum-geology to evaluate the Khuff Formation as a reservoir.
 
 ## Methods and Approaches Used
 
@@ -48,6 +58,10 @@ last_updated: 2026-06-09
 - Hydrocarbons are trapped within the fracture network of the basement rocks in several locations in Sudan since 2007. ([[2012-abdelgader|Abdelgader, 2012, p. 38]])
 
 - Identified several fault-related traps and stratigraphic traps formed by LST/HST sands and TST shales. ([[2015-sanuade|Sanuade, 2015, p. 18]])
+
+- Aeolian systems are complex but important hydrocarbon reservoirs requiring detailed stratigraphical analysis. ([[2022-al-alawi|Al-Alawi, 2022, p. 15]])
+
+- The Upper Khartam Member is a major gas producer in the region. ([[2022-babker|Babker, 2022]])
 
 ## Competing Approaches and Debates
 

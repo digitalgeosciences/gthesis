@@ -19,8 +19,13 @@ sources:
   - "raw/140296 - LITHOFACIES AND PETROPHYSICAL CHARACTERIZATION OF THE LATE ORDOVICIAN SARAH FORM.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
+  - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
+  - "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Rub' Al-Khali Basin
@@ -45,6 +50,16 @@ last_updated: 2026-06-09
 
 - [[2017-almarzooq|Almarzooq, 2017]] studied the Rub Al-Khali basin to address challenges posed by its unique surface geology.
 
+- [[2021-alqarni|Alqarni, 2021]] studied glacial deposits within the rub-al-khali-basin.
+
+- [[2022-radwan|Radwan, 2022]] sampled sands from the western part of AlRub’AlKhali deserts to study spatial variations in QCI.
+
+- [[2022-aljishi|AlJishi, 2022]] studied the rub-al-khali-basin to address challenges posed by its unique geology.
+
+- [[2024-jahlan|Jahlan, 2024]] used as a primary example of an environment where sand dunes impact seismic data.
+
+- [[2024-hassan|Hassan, 2024]] studied the rub-al-khali-basin to characterize its carbonate reservoirs.
+
 ## Geological and Structural Setting
 
 - [[1992-al-sulami|Al-Sulami, 1992]] elongated basin plunging northeast
@@ -60,6 +75,16 @@ last_updated: 2026-06-09
 - [[2017-benaafi|Benaafi, 2017]] used the Rub' Al-Khali Basin as a primary target for reservoir characterization.
 
 - [[2017-almarzooq|Almarzooq, 2017]] studied the Rub Al-Khali basin to address challenges posed by its unique surface geology.
+
+- [[2021-alqarni|Alqarni, 2021]] studied glacial deposits within the rub-al-khali-basin.
+
+- [[2022-radwan|Radwan, 2022]] sampled sands from the western part of AlRub’AlKhali deserts to study spatial variations in QCI.
+
+- [[2022-aljishi|AlJishi, 2022]] studied the rub-al-khali-basin to address challenges posed by its unique geology.
+
+- [[2024-jahlan|Jahlan, 2024]] used as a primary example of an environment where sand dunes impact seismic data.
+
+- [[2024-hassan|Hassan, 2024]] studied the rub-al-khali-basin to characterize its carbonate reservoirs.
 
 ## Formations Present
 
@@ -80,6 +105,16 @@ last_updated: 2026-06-09
 - The Wajid Group serves as a potential hydrocarbon reservoir within this basin. ([[2017-benaafi|Benaafi, 2017, p. 17]])
 
 - The Rub Al-Khali is characterized by sand dunes separated by salt flats (Sabkhas) with elevations between 90m and 250m. ([[2017-almarzooq|Almarzooq, 2017, p. 14]])
+
+- Identified heterogeneous reservoir qualities across different depositional environments in the basin. ([[2021-alqarni|Alqarni, 2021, p. 82]])
+
+- The western part of Rub'AlKhali desert displays the narrowest range (8.8 to 9.4) and the highest mean (9.1). ([[2022-radwan|Radwan, 2022, p. 40]])
+
+- The Rub-AlKhali area presents a range of complications from amplitude variation to near-surface static issues due to dune/sabkha interaction. ([[2022-aljishi|AlJishi, 2022, p. 16]])
+
+- Sand dunes in this region are characterized by low velocity and high contrast with underlying layers. ([[2024-jahlan|Jahlan, 2024, p. 20]])
+
+- The basin contains a prolific Permo-Triassic carbonate system. ([[2024-hassan|Hassan, 2024, p. 11]])
 
 ## Research Coverage and Gaps
 

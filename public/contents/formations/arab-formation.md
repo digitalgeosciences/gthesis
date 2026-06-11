@@ -11,8 +11,9 @@ tags: []
 sources:
   - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Arab Formation
@@ -27,11 +28,15 @@ last_updated: 2026-06-09
 
 - [[2016-ali|Ali, 2016]] applied the inversion method to synthetic seismic traces representing the Arab formation across various porosity levels.
 
+- [[2024-felemban|Felemban, 2024]] Referenced in this thesis.
+
 ## Depositional Environment
 
 
 
 - [[2016-ali|Ali, 2016]] applied the inversion method to synthetic seismic traces representing the Arab formation across various porosity levels.
+
+- [[2024-felemban|Felemban, 2024]] Referenced in this thesis.
 
 ## Reservoir Properties
 
@@ -42,6 +47,8 @@ last_updated: 2026-06-09
 - studied the Arab Formation ([[2013-abdalla|Abdalla, 2013]])
 
 - The inversion of these cases also results in similarly small error between the inverted and true fluid properties for the Arab formation. ([[2016-ali|Ali, 2016, p. 14]])
+
+- Referenced in this thesis. ([[2024-felemban|Felemban, 2024]])
 
 ## Conflicting Interpretations Across Sources
 

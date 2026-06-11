@@ -23,8 +23,18 @@ sources:
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142010 - MODELLING THE EFFECTS OF CLIMATE CHANGE ON AIR QUALITY IN THE DAMMAM METROPOLITA.pdf"
+  - "raw/142399 - USING THE ELECTROCHEMICAL TREATMENT OF A WET-AIR OXIDIZED SPENT CAUSTIC WASTE ST.pdf"
+  - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
+  - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
+  - "raw/143349 - UTILIZING SAUDI BASALT FOR CARBON MINERALIZATION IMPLICATIONS OF REDUCING CO2 EM.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Environmental Geoscience
@@ -67,6 +77,26 @@ last_updated: 2026-06-09
 
 - [[2018-adeyemi|Adeyemi, 2018]] addressed the problem of MTBE contamination in groundwater systems.
 
+- [[2020-abdallah|Abdallah, 2020]] applied environmental-geoscience to address CO2 sequestration as a solution for global warming.
+
+- [[2020-ghazwani|Ghazwani, 2020]] addressed ammonia as a significant water pollutant in aquatic environments.
+
+- [[2021-alnasser|AlNasser, 2021]] addressed water pollution from industrial wastewater as a global challenge.
+
+- [[2021-siddiq|Siddiq, 2021]] applied environmental-geoscience to address arsenic contamination.
+
+- [[2022-mustapha|Mustapha, 2022]] investigated air quality as a component of environmental geoscience.
+
+- [[2023-al-aqeel|Al-Aqeel, 2023]] addressed environmental-geoscience by developing a treatment method for hazardous industrial waste.
+
+- [[2023-prayudi|Prayudi, 2023]] applied environmental-geoscience to assess how hypersalinity affects marine life.
+
+- [[2024-prasetyo|Prasetyo, 2024]] addressed environmental challenges in arid agroecosystems through improved irrigation management.
+
+- [[2025-almousa|Almousa, 2025]] addressed the remediation of groundwater contamination.
+
+- [[2025-alghawi|Alghawi, 2025]] applied environmental geoscience to evaluate carbon mineralization techniques.
+
 ## Key Subtopics
 
 
@@ -100,6 +130,26 @@ last_updated: 2026-06-09
 - [[2017-olabemiwo|Olabemiwo, 2017]] investigated fly ash as a waste product for environmental remediation.
 
 - [[2018-adeyemi|Adeyemi, 2018]] addressed the problem of MTBE contamination in groundwater systems.
+
+- [[2020-abdallah|Abdallah, 2020]] applied environmental-geoscience to address CO2 sequestration as a solution for global warming.
+
+- [[2020-ghazwani|Ghazwani, 2020]] addressed ammonia as a significant water pollutant in aquatic environments.
+
+- [[2021-alnasser|AlNasser, 2021]] addressed water pollution from industrial wastewater as a global challenge.
+
+- [[2021-siddiq|Siddiq, 2021]] applied environmental-geoscience to address arsenic contamination.
+
+- [[2022-mustapha|Mustapha, 2022]] investigated air quality as a component of environmental geoscience.
+
+- [[2023-al-aqeel|Al-Aqeel, 2023]] addressed environmental-geoscience by developing a treatment method for hazardous industrial waste.
+
+- [[2023-prayudi|Prayudi, 2023]] applied environmental-geoscience to assess how hypersalinity affects marine life.
+
+- [[2024-prasetyo|Prasetyo, 2024]] addressed environmental challenges in arid agroecosystems through improved irrigation management.
+
+- [[2025-almousa|Almousa, 2025]] addressed the remediation of groundwater contamination.
+
+- [[2025-alghawi|Alghawi, 2025]] applied environmental geoscience to evaluate carbon mineralization techniques.
 
 ## Methods and Approaches Used
 
@@ -138,6 +188,26 @@ last_updated: 2026-06-09
 - Fly ash (FA) is an industrial waste that can be utilized for environmentally-friendly applications. ([[2017-olabemiwo|Olabemiwo, 2017, p. 73]])
 
 - SDAC provided a viable method for treating water contaminated with hazardous chemicals. ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
+
+- CO2 is the main compound identified as affecting the stability of Earth's climate, representing 62.5% of all greenhouse gases. ([[2020-abdallah|Abdallah, 2020, p. 22]])
+
+- Ammonia leads to the formation of nitrite and nitrate, which are also considered serious water pollutants. ([[2020-ghazwani|Ghazwani, 2020, p. 1]])
+
+- Water pollution is a major environmental concern requiring advanced materials for remediation. ([[2021-alnasser|AlNasser, 2021, p. 28]])
+
+- Integration of geophysical monitoring (SIP) with biochar treatment provides a robust system for large-scale decontamination. ([[2021-siddiq|Siddiq, 2021, p. 19]])
+
+- Climate change impacts on local air quality were quantified using dispersion modeling. ([[2022-mustapha|Mustapha, 2022, p. 15]])
+
+- The EO process provided a cost-effective way to treat spent caustic compared to traditional disposal methods. ([[2023-al-aqeel|Al-Aqeel, 2023, p. 81]])
+
+- Morphological deformities in foraminifera are likely a result of salinity-induced constraints. ([[2023-prayudi|Prayudi, 2023, p. 57]])
+
+- Optimized resource management for water-scarce regions. ([[2024-prasetyo|Prasetyo, 2024, p. 14]])
+
+- CAC provided an effective solution for removing MTBE and BTEX from contaminated water. ([[2025-almousa|Almousa, 2025, p. 86]])
+
+- Proposed as an efficient technology for Saudi Arabia's net-zero goals. ([[2025-alghawi|Alghawi, 2025, p. 14]])
 
 ## Competing Approaches and Debates
 

@@ -21,8 +21,17 @@ sources:
   - "raw/139898 - CHARACTERIZATION OF BRITTLENESS AND FRACKABILITY FOR UNCONVENTIONAL SHALE.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140727 - Paleoecology and Paleoenvironmental Reconstruction of the Lower Silurian Qusaiba.pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
+  - "raw/143279 - CO2-Carbonate Mudrock Interactions Investigating The Influence of Organic Richne.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Qusaiba Member
@@ -49,6 +58,24 @@ last_updated: 2026-06-09
 
 - [[2018-perdana|Perdana, 2018]] studied the qusaiba-member to evaluate its paleoenvironmental history.
 
+- [[2020-gbiyanju|Gbiyanju, 2020]] investigated the Qusaiba member for its chemostratigraphic properties.
+
+- [[2022-radwan|Radwan, 2022]] analyzed samples from the Qusaiba member to determine QCI values.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] studied the Qusaiba Member to evaluate the impact of lithofacies on pore systems.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] evaluated the qusaiba-member (referred to as Raghama or Wadi Waqb) in the Umm Lajj area.
+
+- [[2023-nasir|Nasir, 2023]] Not used as a primary focus of this thesis; mentioned in context of regional geology.
+
+- [[2024-abdrabo|Abdrabo, 2024]] studied the qusaiba-member as a primary source rock for Paleozoic successions in Saudi Arabia.
+
+- [[2024-malik|Malik, 2024]] characterized the Dhaiqa and Mataar formations within the Jibalah group.
+
+- [[2024-felemban|Felemban, 2024]] used the Qusaiba formation to test depth conversion at a deeper level.
+
+- [[2025-alhubail|Alhubail, 2025]] investigated the qusaiba-member as a representative carbonate mudrock.
+
 ## Depositional Environment
 
 - [[2012-ghazwani|Ghazwani, 2012]] open-marine shelf environment below storm wave base
@@ -66,6 +93,24 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] studied the lithology and fracture systems within the Qusaiba member.
 
 - [[2018-perdana|Perdana, 2018]] studied the qusaiba-member to evaluate its paleoenvironmental history.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] investigated the Qusaiba member for its chemostratigraphic properties.
+
+- [[2022-radwan|Radwan, 2022]] analyzed samples from the Qusaiba member to determine QCI values.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] studied the Qusaiba Member to evaluate the impact of lithofacies on pore systems.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] evaluated the qusaiba-member (referred to as Raghama or Wadi Waqb) in the Umm Lajj area.
+
+- [[2023-nasir|Nasir, 2023]] Not used as a primary focus of this thesis; mentioned in context of regional geology.
+
+- [[2024-abdrabo|Abdrabo, 2024]] studied the qusaiba-member as a primary source rock for Paleozoic successions in Saudi Arabia.
+
+- [[2024-malik|Malik, 2024]] characterized the Dhaiqa and Mataar formations within the Jibalah group.
+
+- [[2024-felemban|Felemban, 2024]] used the Qusaiba formation to test depth conversion at a deeper level.
+
+- [[2025-alhubail|Alhubail, 2025]] investigated the qusaiba-member as a representative carbonate mudrock.
 
 ## Reservoir Properties
 
@@ -88,6 +133,24 @@ last_updated: 2026-06-09
 - The member contains five distinct lithofacies with varying mineralogical compositions (quartz, kaolinite, muscovite). ([[2017-mahgoub|Mahgoub, 2017, p. 37]])
 
 - The formation contains diverse foraminiferal assemblages that indicate varying oxygen levels from dysoxic to oxic. ([[2018-perdana|Perdana, 2018, p. 14]])
+
+- Included in the core study of unconventional rocks in KSA. ([[2020-gbiyanju|Gbiyanju, 2020, p. 19]])
+
+- Sample 1118-13 showed a QCI of 9.02, while sample 1118-14 showed 8.55. ([[2022-radwan|Radwan, 2022, p. 42]])
+
+- Large-scale interparticle pores were developed and destroyed during early burial stages; small-scale intraparticle pores were preserved. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 19]])
+
+- The carbonates were found to be part of the Wadi Waqb Member rather than the Raghama Formation. ([[2022-al-sadah|Al-Sadah, 2022, p. 15]])
+
+- Not stated in source ([[2023-nasir|Nasir, 2023]])
+
+- The Qusaiba Member is characterized by lithofacies LF1 and has a thickness of up to 41 meters. ([[2024-abdrabo|Abdrabo, 2024, p. 21]])
+
+- The Dhaiqa formation is predominately carbonate interbedded with sandstone. ([[2024-malik|Malik, 2024, p. 29]])
+
+- The study determined that limiting offset for the Qusaiba reflector improved accuracy in determining its depth. ([[2024-felemban|Felemban, 2024, p. 11]])
+
+- The member exhibits specific mineralogical responses to CO2 treatment. ([[2025-alhubail|Alhubail, 2025, p. 45]])
 
 ## Conflicting Interpretations Across Sources
 

@@ -13,8 +13,9 @@ sources:
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
+  - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Al-Khobar
@@ -33,6 +34,8 @@ last_updated: 2026-06-09
 
 - [[2018-putra|Putra, 2018]] Referenced in this thesis.
 
+- [[1992-hassan|Hassan, 1992]] investigated the hydrogeochemistry of the al-khobar unit.
+
 ## Geological and Structural Setting
 
 
@@ -42,6 +45,8 @@ last_updated: 2026-06-09
 - [[2016-ibrahim|Ibrahim, 2016]] sampled microalgae from the Al-Khobar coastline for isolation and characterization.
 
 - [[2018-putra|Putra, 2018]] Referenced in this thesis.
+
+- [[1992-hassan|Hassan, 1992]] investigated the hydrogeochemistry of the al-khobar unit.
 
 ## Formations Present
 
@@ -56,6 +61,8 @@ last_updated: 2026-06-09
 - Only one sample (C5) from the Al-Khobar site yielded a pure, axenic growth of Chlorella kessleri. ([[2016-ibrahim|Ibrahim, 2016, p. 48]])
 
 - Referenced in this thesis. ([[2018-putra|Putra, 2018]])
+
+- The Khobar aquifer is bounded at the top by Alat Marl Aquitard. ([[1992-hassan|Hassan, 1992, p. 42]])
 
 ## Research Coverage and Gaps
 

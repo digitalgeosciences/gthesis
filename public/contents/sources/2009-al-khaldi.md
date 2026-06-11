@@ -68,7 +68,7 @@ tags:
   - technique/uv-vis-spectroscopy
   - technique/xrd
   - technique/arc-discharge
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/icp-ms
   - theme/water-treatment
   - theme/nanotechnology
@@ -164,9 +164,8 @@ The study notes that while CNTs are effective, their high cost is a factor; howe
 - [[dhahran-area]]
 - [[saudi-arabia]]
 - [[cvd]]
-- [[adsorption-experiment]]
-- [[environmental-geoscience]]
 - [[adsorption-experiments]]
+- [[environmental-geoscience]]
 - [[langmuir-model]]
 - [[freundlich-model]]
 - [[pseudo-second-order-kinetic-model]]

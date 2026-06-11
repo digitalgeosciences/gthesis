@@ -12,8 +12,10 @@ tags:
   - theme/seismology
 sources:
   - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
+  - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
+  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Refraction Seismics
@@ -26,9 +28,17 @@ last_updated: 2026-06-09
 
 - [[2016-edigbue|Edigbue, 2016]] utilized refraction-seismics to determine subsurface velocity structures.
 
+- [[2022-awais|Awais, 2022]] applied super-virtual refraction interferometry (SVI) to enhance the SNR of far offsets.
+
+- [[2025-oyekan|Oyekan, 2025]] applied refraction-seismics to obtain source-receiver offset data for water saturation estimation.
+
 ## Scientific Context
 
 - [[2016-edigbue|Edigbue, 2016]] Used to map subsurface velocity variations and depth to reflectors.
+
+- [[2022-awais|Awais, 2022]] applied super-virtual refraction interferometry (SVI) to enhance the SNR of far offsets.
+
+- [[2025-oyekan|Oyekan, 2025]] applied refraction-seismics to obtain source-receiver offset data for water saturation estimation.
 
 ## Measurement and Characterization Methods
 
@@ -37,6 +47,10 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - The study used a two-layer model (V1=1500m/s, V2=2500m/s) to generate synthetic data for testing the SVI algorithm. ([[2016-edigbue|Edigbue, 2016, p. 41]])
+
+- The inclusion of SVI improved picking accuracy for synthetic shots by 24% and 27%. ([[2022-awais|Awais, 2022, p. 87]])
+
+- The study utilized source-receiver offsets from seismic experiments in a sand dune environment to estimate water saturation. ([[2025-oyekan|Oyekan, 2025, p. 75]])
 
 ## Contrasting Values and Interpretations
 

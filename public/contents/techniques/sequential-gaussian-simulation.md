@@ -19,8 +19,9 @@ sources:
   - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
   - "raw/139735 - HIGH RESOLUTION SEDIMENTOLOGOY AND RESERVOIR PROPERTIES OF ULAYYAH RESERVOIR EQU.pdf"
   - "raw/139876 - Porosity and Permeability Characterization within the Lithofacies Framework of A.pdf"
+  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Sequential Gaussian Simulation
@@ -47,6 +48,8 @@ last_updated: 2026-06-09
 
 - [[2016-hassan-2|Hassan, 2016]] applied sequential-gaussian-simulation to model the distribution of continuous properties in the reservoir.
 
+- [[2022-karami|Karami, 2022]] used sequential Gaussian simulation (SGS) to model the distribution of InSAR data.
+
 ## Instruments and Software
 
 
@@ -64,6 +67,8 @@ last_updated: 2026-06-09
 - [[2015-elzain|Elzain, 2015]] used sequential-gaussian-simulation (SGS) to generate 3D porosity and permeability models.
 
 - [[2016-hassan-2|Hassan, 2016]] applied sequential-gaussian-simulation to model the distribution of continuous properties in the reservoir.
+
+- [[2022-karami|Karami, 2022]] used sequential Gaussian simulation (SGS) to model the distribution of InSAR data.
 
 ## Typical Workflow
 
@@ -86,6 +91,8 @@ last_updated: 2026-06-09
 - SGS was used to create three realizations of the lithofacies model based on the variogram models. ([[2015-elzain|Elzain, 2015, p. 128]])
 
 - The technique involves transforming data to a normal distribution before simulation. ([[2016-hassan-2|Hassan, 2016, p. 70]])
+
+- Twelve simulations were generated using the SGS back-transformed algorithm. ([[2022-karami|Karami, 2022, p. 50]])
 
 ## Methodological Variations Across Sources
 

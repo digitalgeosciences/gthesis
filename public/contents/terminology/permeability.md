@@ -30,8 +30,25 @@ sources:
   - "raw/140444 - MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAU.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141649 - Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, N.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142443 - IMPACT OF SALINITY AND TEMPERATURE ON WORMHOLE GENERATION AND MECHANICAL PROPERT.pdf"
+  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
+  - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143184 - SYSTEMATIC INVESTIGATION OF DRILLING FLUID IMPACT ON NMR INTERPRETATION FOR FORM.pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Permeability
@@ -78,6 +95,40 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] measured permeability to assess the flow potential of different microfacies.
 
+- [[2020-abdallah|Abdallah, 2020]] predicted permeability using ANN to identify high-flow zones for CO2 storage.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] measured permeability in the Dhruma Formation lithofacies.
+
+- [[2020-mansouri|Mansouri, 2020]] evaluated the permeability of different basaltic units (B1-B5).
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] measured permeability in the Jurassic carbonate formations.
+
+- [[2021-ahmed|Ahmed, 2021]] measured gas permeability using a GP-101AE Gas Permeameter and converted it to liquid permeability.
+
+- [[2022-khan|Khan, 2022]] measured permeability to evaluate the petrophysical properties of the core samples.
+
+- [[2022-samarkin|Samarkin, 2022]] performed permeability measurements using both steady-state and unsteady-state gas injection.
+
+- [[2022-babker|Babker, 2022]] evaluated permeability as a reservoir quality indicator.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] measured permeability to evaluate the impact of acid and CO2.
+
+- [[2023-arrofi|Arrofi, 2023]] investigated high permeable zones in non-volcanic geothermal systems.
+
+- [[2024-abdallah|Abdallah, 2024]] measured permeability regain after treating fracturing fluids with TCFs.
+
+- [[2024-abdrabo|Abdrabo, 2024]] measured permeability in the Qalibah Formation to evaluate flow potential.
+
+- [[2024-saraih|Saraih, 2024]] measured permeability to determine the flow potential of different burrow systems.
+
+- [[2024-muharrag|Muharrag, 2024]] measured permeability across different stromatolite forms.
+
+- [[2024-akomolafe|Akomolafe, 2024]] evaluated permeability based on NMR T2 relaxation times.
+
+- [[2024-allehyani|allehyani, 2024]] used permeability measurements to compare the performance of TinyPerm3 and AutoScan systems.
+
+- [[2025-ahmed|Ahmed, 2025]] evaluated permeability in the Minjur formation.
+
 ## Scientific Context
 
 - [[2002-ibrahim|Ibrahim, 2002]] Permeability determines the flow rate and production performance.
@@ -115,6 +166,40 @@ last_updated: 2026-06-09
 - [[2017-yousif|Yousif, 2017]] measured permeability to assess the flow capacity of Dhruma carbonates.
 
 - [[2018-ismanto|Ismanto, 2018]] measured permeability to assess the flow potential of different microfacies.
+
+- [[2020-abdallah|Abdallah, 2020]] predicted permeability using ANN to identify high-flow zones for CO2 storage.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] measured permeability in the Dhruma Formation lithofacies.
+
+- [[2020-mansouri|Mansouri, 2020]] evaluated the permeability of different basaltic units (B1-B5).
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] measured permeability in the Jurassic carbonate formations.
+
+- [[2021-ahmed|Ahmed, 2021]] measured gas permeability using a GP-101AE Gas Permeameter and converted it to liquid permeability.
+
+- [[2022-khan|Khan, 2022]] measured permeability to evaluate the petrophysical properties of the core samples.
+
+- [[2022-samarkin|Samarkin, 2022]] performed permeability measurements using both steady-state and unsteady-state gas injection.
+
+- [[2022-babker|Babker, 2022]] evaluated permeability as a reservoir quality indicator.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] measured permeability to evaluate the impact of acid and CO2.
+
+- [[2023-arrofi|Arrofi, 2023]] investigated high permeable zones in non-volcanic geothermal systems.
+
+- [[2024-abdallah|Abdallah, 2024]] measured permeability regain after treating fracturing fluids with TCFs.
+
+- [[2024-abdrabo|Abdrabo, 2024]] measured permeability in the Qalibah Formation to evaluate flow potential.
+
+- [[2024-saraih|Saraih, 2024]] measured permeability to determine the flow potential of different burrow systems.
+
+- [[2024-muharrag|Muharrag, 2024]] measured permeability across different stromatolite forms.
+
+- [[2024-akomolafe|Akomolafe, 2024]] evaluated permeability based on NMR T2 relaxation times.
+
+- [[2024-allehyani|allehyani, 2024]] used permeability measurements to compare the performance of TinyPerm3 and AutoScan systems.
+
+- [[2025-ahmed|Ahmed, 2025]] evaluated permeability in the Minjur formation.
 
 ## Measurement and Characterization Methods
 
@@ -157,6 +242,40 @@ last_updated: 2026-06-09
 - Permeability distribution is positively skewed with a mean value of 0.54 mD and standard deviation of 1.4. ([[2017-yousif|Yousif, 2017, p. 138]])
 
 - Highest permeability was found in burrowed wackestone due to dedolomitization. ([[2018-ismanto|Ismanto, 2018, p. 17]])
+
+- Core analysis on 557 core plugs provided ground truth for training the ANN model. ([[2020-abdallah|Abdallah, 2020, p. 48]])
+
+- Permeability was found to be controlled by both texture and diagenetic modification. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 119]])
+
+- Units B4 and B5 are more porous and permeable than earlier flows like B2. ([[2020-mansouri|Mansouri, 2020, p. 42]])
+
+- Coefficient of variation (CV) for permeability ranged from 1.202 to 2.271. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+
+- Due to low permeability, the lowest gas permeability values were used as proxies for liquid permeability. ([[2021-ahmed|Ahmed, 2021, p. 52]])
+
+- Permeability ranged from 0.33 to 66.91 mD, with high values (up to 2200 mD) in skeletal grainstones. ([[2022-khan|Khan, 2022, p. 124]])
+
+- Not stated in source (specific values for post-treatment changes not listed on these pages). ([[2022-samarkin|Samarkin, 2022, p. 43]])
+
+- Grain-dominated facies (LFA-1, LFA-2, and LFA-3) exhibit better petrophysical properties than mud-dominated facies. ([[2022-babker|Babker, 2022, p. 84]])
+
+- Permeability increased significantly after CO2 injection into cores with 5% NaCl brine. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 46]])
+
+- Zone B was identified as the most promising area for development due to its permeability characteristics. ([[2023-arrofi|Arrofi, 2023, p. 17]])
+
+- Permeability regain reached 96% for CMHPG dual crosslinked systems. ([[2024-abdallah|Abdallah, 2024, p. 20]])
+
+- Permeability values ranged from 0.002 mD to 83.69 mD. ([[2024-abdrabo|Abdrabo, 2024, p. 15]])
+
+- BIFM 1 and BIFM 3 are potentially super-permeable zones, while BIFM 2 acts as a baffle. ([[2024-saraih|Saraih, 2024, p. 68]])
+
+- Permeability showed high variability, with values differing by two orders of magnitude for similar porosity. ([[2024-muharrag|Muharrag, 2024, p. 41]])
+
+- Mud invasion leads to unreliable assessments of the formation's permeability due to altered T2 values. ([[2024-akomolafe|Akomolafe, 2024, p. 12]])
+
+- Both systems showed high correlation (R² > 0.9) in both host rock matrix and burrow fill, with no statistically significant difference between them (p > 0.05). ([[2024-allehyani|allehyani, 2024, p. 100]])
+
+- Permeability values reached up to 3000 millidarcies (md). ([[2025-ahmed|Ahmed, 2025, p. 23]])
 
 ## Contrasting Values and Interpretations
 

@@ -14,8 +14,9 @@ tags:
   - theme/geology-of-deposits
 sources:
   - "raw/10140 - Geostatistical modelling of Zarghat magnesite deposit Saudi Arabia.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 # Magnesite Deposits
@@ -28,9 +29,13 @@ last_updated: 2026-06-08
 
 - [[1991-makkawi|Makkawi, 1991]] studied the Zarghat magnesite deposit in the Arabian Shield.
 
+- [[1985-ghaled|Ghaled, 1985]] focused on the mineral-resource-estimation of the Zarghat magnesite deposit.
+
 ## Scientific Context
 
 - [[1991-makkawi|Makkawi, 1991]] Magnesite is used in industrial applications like refractory bricks and chemical processes.
+
+- [[1985-ghaled|Ghaled, 1985]] focused on the mineral-resource-estimation of the Zarghat magnesite deposit.
 
 ## Measurement and Characterization Methods
 
@@ -39,6 +44,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - The Central Hill contains about 3 million tons of magnesite with a grade ranging from 38% to 48% MgO. ([[1991-makkawi|Makkawi, 1991, p. 20]])
+
+- The deposit is a sedimentary type resulting from hydromagnesite dehydration. ([[1985-ghaled|Ghaled, 1985, p. 175]])
 
 ## Contrasting Values and Interpretations
 

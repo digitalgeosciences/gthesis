@@ -17,6 +17,7 @@ sources:
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -43,6 +44,8 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] used HPLC to analyze heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
 
+- [[2019-alhaiqi|Alhaiqi, 2019]] used HPLC grade compounds for the preparation of stock solutions of Phenanthrene, Fluoranthene, and Pyrene.
+
 ## Instruments and Software
 
 
@@ -58,6 +61,8 @@ last_updated: 2026-06-09
 - [[2018-amiruddin|Amiruddin, 2018]] used HPLC for chemical analysis of the oil samples.
 
 - [[2019-alamran|AlAmran, 2019]] used HPLC to analyze heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
+
+- [[2019-alhaiqi|Alhaiqi, 2019]] used HPLC grade compounds for the preparation of stock solutions of Phenanthrene, Fluoranthene, and Pyrene.
 
 ## Typical Workflow
 
@@ -78,6 +83,8 @@ last_updated: 2026-06-09
 - Used to analyze individual chemical compounds from mixtures. ([[2018-amiruddin|Amiruddin, 2018, p. 30]])
 
 - Quantified heavy metal levels across different sites, showing high copper values in Gurmah Island. ([[2019-alamran|AlAmran, 2019, p. 92]])
+
+- The study utilized three specific PAH compounds (Fluoranthene, Phenanthrene, and Pyrene) provided in HPLC grade to ensure purity (>97-99%). ([[2019-alhaiqi|Alhaiqi, 2019, p. 26]])
 
 ## Methodological Variations Across Sources
 

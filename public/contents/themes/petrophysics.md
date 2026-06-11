@@ -36,8 +36,32 @@ sources:
   - "raw/140296 - LITHOFACIES AND PETROPHYSICAL CHARACTERIZATION OF THE LATE ORDOVICIAN SARAH FORM.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142331 - PREDICTION OF FORMATION PRESSURE FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TE.pdf"
+  - "raw/142334 - PREDICTION OF WATER SATURATION FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TECH.pdf"
+  - "raw/142387 - Preservation of Rock Samples Geochemical Investigation and Implication on Source.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
+  - "raw/142793 - Evaluation of New Flowback Formulation for Hydraulically Fractured Tight Gas Wel.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
+  - "raw/143184 - SYSTEMATIC INVESTIGATION OF DRILLING FLUID IMPACT ON NMR INTERPRETATION FOR FORM.pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
+  - "raw/143218 - MACHINE LEARNING-BASED GROUND MOTION PREDICTION MODELS FOR WEST JAVA, INDONESIA.pdf"
+  - "raw/143349 - UTILIZING SAUDI BASALT FOR CARBON MINERALIZATION IMPLICATIONS OF REDUCING CO2 EM.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petrophysics
@@ -106,6 +130,54 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied petrophysics to calculate porosity and shale volume from well logs.
 
+- [[2020-abdallah|Abdallah, 2020]] used to characterize the reservoir for CO2 storage potential.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] integrated petrophysics with geology to characterize the Dhruma Formation.
+
+- [[2020-almumtin|Almumtin, 2020]] applied petrophysics to characterize porosity, mineralogy, and saturation.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] applied petrophysics to evaluate porosity, permeability, and heterogeneity.
+
+- [[2021-ahmed|Ahmed, 2021]] used petrophysical analysis to characterize reservoir parameters like porosity, permeability, and pore size distribution.
+
+- [[2021-albensaad|Albensaad, 2021]] applied petrophysics to relate log-based data to core-based mechanical properties.
+
+- [[2022-salih|Salih, 2022]] applied rock physics modeling to evaluate the impact of pore geometry on sonic velocity.
+
+- [[2023-alzayer|Alzayer, 2023]] applied petrophysics to evaluate well logs for pore pressure prediction.
+
+- [[2023-gad|Gad, 2023]] applied petrophysical models to determine water saturation.
+
+- [[2023-al-eid|Al-Eid, 2023]] Not used in this study.
+
+- [[2023-alsahwan|AlSahwan, 2023]] applied petrophysics to relate P-wave velocity to water saturation using mineralogy and porosity data.
+
+- [[2024-makki|Makki, 2024]] applied rock physics principles to relate mineralogy and grain size to seismic velocities.
+
+- [[2024-alabbad|Alabbad, 2024]] used petrophysics to link rock properties to seismic response.
+
+- [[2024-tarchi|Tarchi, 2024]] applied petrophysical models (CRIM, Gassmann) to characterize sand dunes.
+
+- [[2024-mohamed|Mohamed, 2024]] used petrophysical measurements to evaluate the effect of ionic liquids on rock properties.
+
+- [[2024-abdrabo|Abdrabo, 2024]] analyzed petrophysics to determine reservoir quality in the Qalibah Formation.
+
+- [[2024-ahmed|Ahmed, 2024]] used petrophysical data from geophysics to characterize subsurface materials.
+
+- [[2024-muharrag|Muharrag, 2024]] used petrophysics to characterize the reservoir potential of stromatolite-bearing carbonate rocks.
+
+- [[2024-felemban|Felemban, 2024]] used petrophysical principles to relate seismic velocity to depth and rock properties.
+
+- [[2024-akomolafe|Akomolafe, 2024]] analyzed petrophysical characteristics such as porosity, permeability, and fluid saturation.
+
+- [[2024-allehyani|allehyani, 2024]] used petrophysics to relate acoustic velocity (Vp) to porosity in bioturbated carbonate rocks.
+
+- [[2025-oyekan|Oyekan, 2025]] applied petrophysics models (Hertz-Mindlin, Gassmann) to relate P-wave velocity to water saturation.
+
+- [[2025-rachmadan|Rachmadan, 2025]] Not used in this thesis.
+
+- [[2025-alghawi|Alghawi, 2025]] evaluated the petrophysical aspects of basalt for carbon storage.
+
 ## Key Subtopics
 
 
@@ -165,6 +237,54 @@ last_updated: 2026-06-09
 - [[2017-benaafi|Benaafi, 2017]] used petrophysics to characterize rock strength and stiffness.
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied petrophysics to calculate porosity and shale volume from well logs.
+
+- [[2020-abdallah|Abdallah, 2020]] used to characterize the reservoir for CO2 storage potential.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] integrated petrophysics with geology to characterize the Dhruma Formation.
+
+- [[2020-almumtin|Almumtin, 2020]] applied petrophysics to characterize porosity, mineralogy, and saturation.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] applied petrophysics to evaluate porosity, permeability, and heterogeneity.
+
+- [[2021-ahmed|Ahmed, 2021]] used petrophysical analysis to characterize reservoir parameters like porosity, permeability, and pore size distribution.
+
+- [[2021-albensaad|Albensaad, 2021]] applied petrophysics to relate log-based data to core-based mechanical properties.
+
+- [[2022-salih|Salih, 2022]] applied rock physics modeling to evaluate the impact of pore geometry on sonic velocity.
+
+- [[2023-alzayer|Alzayer, 2023]] applied petrophysics to evaluate well logs for pore pressure prediction.
+
+- [[2023-gad|Gad, 2023]] applied petrophysical models to determine water saturation.
+
+- [[2023-al-eid|Al-Eid, 2023]] Not used in this study.
+
+- [[2023-alsahwan|AlSahwan, 2023]] applied petrophysics to relate P-wave velocity to water saturation using mineralogy and porosity data.
+
+- [[2024-makki|Makki, 2024]] applied rock physics principles to relate mineralogy and grain size to seismic velocities.
+
+- [[2024-alabbad|Alabbad, 2024]] used petrophysics to link rock properties to seismic response.
+
+- [[2024-tarchi|Tarchi, 2024]] applied petrophysical models (CRIM, Gassmann) to characterize sand dunes.
+
+- [[2024-mohamed|Mohamed, 2024]] used petrophysical measurements to evaluate the effect of ionic liquids on rock properties.
+
+- [[2024-abdrabo|Abdrabo, 2024]] analyzed petrophysics to determine reservoir quality in the Qalibah Formation.
+
+- [[2024-ahmed|Ahmed, 2024]] used petrophysical data from geophysics to characterize subsurface materials.
+
+- [[2024-muharrag|Muharrag, 2024]] used petrophysics to characterize the reservoir potential of stromatolite-bearing carbonate rocks.
+
+- [[2024-felemban|Felemban, 2024]] used petrophysical principles to relate seismic velocity to depth and rock properties.
+
+- [[2024-akomolafe|Akomolafe, 2024]] analyzed petrophysical characteristics such as porosity, permeability, and fluid saturation.
+
+- [[2024-allehyani|allehyani, 2024]] used petrophysics to relate acoustic velocity (Vp) to porosity in bioturbated carbonate rocks.
+
+- [[2025-oyekan|Oyekan, 2025]] applied petrophysics models (Hertz-Mindlin, Gassmann) to relate P-wave velocity to water saturation.
+
+- [[2025-rachmadan|Rachmadan, 2025]] Not used in this thesis.
+
+- [[2025-alghawi|Alghawi, 2025]] evaluated the petrophysical aspects of basalt for carbon storage.
 
 ## Methods and Approaches Used
 
@@ -229,6 +349,54 @@ last_updated: 2026-06-09
 - The highest values of Young's Modulus (E) were observed in Juayl Formation (48.28 GPa). ([[2017-benaafi|Benaafi, 2017, p. 100]])
 
 - Petrophysical reservoir properties such as porosity and used for 3D modeling were calculated using wireline logs (GR, RHOB, NPHI). ([[2017-abdelgader|Abdelgader, 2017, p. 36]])
+
+- Included parameters such as porosity, grain density, and formation resistivity factor. ([[2020-abdallah|Abdallah, 2020, p. 40]])
+
+- Correlated porosity, permeability, and resistivity to lithofacies and diagenetic features. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 114]])
+
+- Petrophysics is used to convert elastic variables into volumetric properties like porosity and mineralogy. ([[2020-almumtin|Almumtin, 2020, p. 17]])
+
+- Established a range of porosity (1.1-32%) and permeability (0.001-8 mD) for the studied formations. ([[2021-al-nuwais|Al-Nuwais, 2021]])
+
+- Petrophysical studies were used to quantify the impact of diagenesis on reservoir quality. ([[2021-ahmed|Ahmed, 2021, p. 50]])
+
+- Log-based mechanical properties don't capture fine-scale variations and provide exaggerated values for strength. ([[2021-albensaad|Albensaad, 2021, p. 91]])
+
+- Porosity is a primary driver for acoustic velocity in these carbonate systems. ([[2022-salih|Salih, 2022, p. 88]])
+
+- Parameters such as porosity, water saturation, and formation temperature were used to characterize the reservoir. ([[2023-alzayer|Alzayer, 2023, p. 23]])
+
+- Petrophysicists use various methods (direct and indirect) to determine water saturation from well logs. ([[2023-gad|Gad, 2023, p. 14]])
+
+- Not stated in source ([[2023-al-eid|Al-Eid, 2023]])
+
+- Used to construct a VP (SW) relation by incorporating mineralogy and pore-fluid properties. ([[2023-alsahwan|AlSahwan, 2023, p. 11]])
+
+- Sand grains between 0.062 mm and 2.0 mm exhibit no cohesion and are easily moved by wind. ([[2024-makki|Makki, 2024, p. 33]])
+
+- Petrophysical properties include lithology, pore fluid, and porosity. ([[2024-alabbad|Alabbad, 2024, p. 18]])
+
+- Determined that both inverted and measured values indicated a dry dune condition. ([[2024-tarchi|Tarchi, 2024, p. 14]])
+
+- Ionic liquid X3 reduced the contact angle from 45° to 33°, indicating a shift toward more water-wet conditions. ([[2024-mohamed|Mohamed, 2024]])
+
+- Porosity values ranged from 0.5% to 34% and permeability from 0.01 mD to 550 mD. ([[2024-abdrabo|Abdrabo, 2024, p. 52]])
+
+- A 3D resistivity model was obtained using AMT/MT data inversion to map subsurface features. ([[2024-ahmed|Ahmed, 2024, p. 58]])
+
+- NMR data successfully identified that pore size distribution (T2) is a key factor in explaining permeability variance in CF forms. ([[2024-muharrag|Muharrag, 2024, p. 59]])
+
+- The research highlighted how petrophysical parameters like velocity are influenced by processing choices in the geophysics workflow. ([[2024-felemban|Felemban, 2024, p. 11]])
+
+- Mud invasion significantly affects the petrophysical values measured by NMR tools due to differences in bulk relaxation between drilling fluids and formation fluids. ([[2024-akomolafe|Akomolafe, 2024, p. 12]])
+
+- BN samples exhibit a moderate positive correlation between Vp and core diameter (R² = 0.67). ([[2024-allehyani|allehyani, 2024, p. 17]])
+
+- Formulated a P-wave velocity depth function, Vp(z, Sw), from established rock physics models. ([[2025-oyekan|Oyekan, 2025, p. 12]])
+
+- Not stated in source ([[2025-rachmadan|Rachmadan, 2025]])
+
+- Basaltic rock exhibited a negative charge, affecting its interaction with CO2-rich fluids. ([[2025-alghawi|Alghawi, 2025, p. 41]])
 
 ## Competing Approaches and Debates
 

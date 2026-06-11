@@ -13,8 +13,9 @@ tags:
   - theme/geology-of-deposits
 sources:
   - "raw/10140 - Geostatistical modelling of Zarghat magnesite deposit Saudi Arabia.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 # Zarghat Magnesite Deposit
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[1991-makkawi|Makkawi, 1991]] characterized the mineralogy and geostatistics of the Zarghat deposit.
 
+- [[1985-ghaled|Ghaled, 1985]] studied the Zarghat magnesite deposit to determine its geological and mineralogical characteristics.
+
 ## Depositional Environment
 
 - [[1991-makkawi|Makkawi, 1991]] sedimentary basin of the Jibalah Group
+
+- [[1985-ghaled|Ghaled, 1985]] studied the Zarghat magnesite deposit to determine its geological and mineralogical characteristics.
 
 ## Reservoir Properties
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - The Central Hill is the largest among all occurrences and contains about 3 million tons of magnitude. ([[1991-makkawi|Makkawi, 1991, p. 20]])
+
+- The deposit contains reserves estimated at 3 million tons with a grade of 38-48% MgO. ([[1985-ghaled|Ghaled, 1985, p. 22]])
 
 ## Conflicting Interpretations Across Sources
 

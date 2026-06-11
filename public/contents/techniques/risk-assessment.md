@@ -13,8 +13,9 @@ tags:
   - theme/environmental-geology
 sources:
   - "raw/138528 - Environmental Assessment of Groundwater Condition in Tarout Island, Eastern Prov.pdf"
+  - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Risk Assessment
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[2011-alsadeq|Alsadeq, 2011]] applied risk-assessment using Accumulate Risk Index (ARI) and Individual Risk Index (IRI).
 
+- [[2025-al-afif|Al-Afif, 2025]] applied the US EPA's human health risk assessment methodology to identify potential impacts on communities.
+
 ## Instruments and Software
 
 
+
+- [[2025-al-afif|Al-Afif, 2025]] applied the US EPA's human health risk assessment methodology to identify potential impacts on communities.
 
 ## Typical Workflow
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Results and Findings
 
 - Individual risk maps were created for parameters exceeding standard limits, including lead and nitrate. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
+
+- Risk assessment includes hazard identification, dose-response relationship, exposure assessment, and risk characterization. ([[2025-al-afif|Al-Afif, 2025, p. 20]])
 
 ## Methodological Variations Across Sources
 

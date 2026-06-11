@@ -38,7 +38,7 @@ techniques:
   - sem-eds
   - well-log-analysis
   - core-analysis
-  - lithofacies-analysis
+  - lithofacies
   - xrd
   - micro-imaging
   - ultrasonic-velocity-measurement

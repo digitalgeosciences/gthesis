@@ -14,8 +14,9 @@ sources:
   - "raw/139874 - GIS application and Environmental Factors for Mosquito Control in Eastern Provin.pdf"
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Environmental Monitoring
@@ -36,6 +37,8 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] performed environmental-monitoring of the Arabian Peninsula's atmosphere.
 
+- [[2022-al-harbi|Al-Harbi, 2022]] focused on the environmental-monitoring of waste sites in Saudi Arabia.
+
 ## Key Subtopics
 
 - [[2013-mohammed|Mohammed, 2013]] ['sediment analysis', 'biota accumulation', 'water quality']
@@ -47,6 +50,8 @@ last_updated: 2026-06-09
 - [[2016-lawal-2|Lawal, 2016]] conducted environmental monitoring of air quality in the Eastern Province.
 
 - [[2019-alotaibi|Alotaibi, 2019]] performed environmental-monitoring of the Arabian Peninsula's atmosphere.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] focused on the environmental-monitoring of waste sites in Saudi Arabia.
 
 ## Methods and Approaches Used
 
@@ -63,6 +68,8 @@ last_updated: 2026-06-09
 - Spatial and temporal variations were observed in both concentration levels and elemental percentages. ([[2016-lawal-2|Lawal, 2016, p. 70]])
 
 - Monitoring revealed significant seasonal variations in particulate matter across different regions. ([[2019-alotaibi|Alotaibi, 2019, p. 112]])
+
+- Not stated in source ([[2022-al-harbi|Al-Harbi, 2022]])
 
 ## Competing Approaches and Debates
 

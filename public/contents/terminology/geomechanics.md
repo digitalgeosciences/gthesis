@@ -20,8 +20,11 @@ sources:
   - "raw/140031 - Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Rese.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Geomechanics
@@ -48,6 +51,12 @@ last_updated: 2026-06-09
 
 - [[2017-benaafi|Benaafi, 2017]] evaluated geomechanical properties to understand rock stability and fracture behavior.
 
+- [[2020-gbiyanju|Gbiyanju, 2020]] applied geomechanics to determine rock elastic properties (REP) for hydraulic fracturing design.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] evaluated geomechanics to determine brittleness for fracturing design.
+
+- [[2002-elhassan|ElHassan, 2002]] investigated rock mechanics in the Khafji reservoir.
+
 ## Scientific Context
 
 - [[2015-mustafa|Mustafa, 2015]] Geomechanical data is critical for determining the suitability of a shale for hydraulic fracturing.
@@ -65,6 +74,12 @@ last_updated: 2026-06-09
 - [[2017-mahgoub|Mahgoub, 2017]] evaluated geomechanics to understand how lithology influences rock strength.
 
 - [[2017-benaafi|Benaafi, 2017]] evaluated geomechanical properties to understand rock stability and fracture behavior.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] applied geomechanics to determine rock elastic properties (REP) for hydraulic fracturing design.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] evaluated geomechanics to determine brittleness for fracturing design.
+
+- [[2002-elhassan|ElHassan, 2002]] investigated rock mechanics in the Khafji reservoir.
 
 ## Measurement and Characterization Methods
 
@@ -87,6 +102,12 @@ last_updated: 2026-06-09
 - Lithological units were classified based on point load index and uniaxial compressive strength. ([[2017-mahgoub|Mahgoub, 2017, p. 126]])
 
 - Correlation was established between grain size and geomechanical properties like UCS. ([[2017-benaafi|Benaafi, 2017, p. 14]])
+
+- Rock elastic properties are crucial for pore pressure prediction, wellbore stability, and hydraulic fracturing. ([[2020-gbiyanju|Gbiyanju, 2020, p. 47]])
+
+- TML exhibits less brittleness than Hanifa due to higher clay content and more abundant laminations. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 19]])
+
+- The relationship among the magnitudes of the three principal stresses (sigma1 > sigma2 > sigma3) suggests a normal fault regime. ([[2002-elhassan|ElHassan, 2002, p. 19]])
 
 ## Contrasting Values and Interpretations
 

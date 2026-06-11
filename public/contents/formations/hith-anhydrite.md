@@ -14,8 +14,9 @@ tags:
   - theme/stratigraphy
 sources:
   - "raw/10406 - Lower Cretaceous stratigraphy and depositional history of the Rub' Al Khali bsin.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Hith Anhydrite
@@ -28,9 +29,13 @@ last_updated: 2026-06-08
 
 - [[1992-al-sulami|Al-Sulami, 1992]] identified the hith-anhydrite as the base of the Thamama Group.
 
+- [[2024-hassan|Hassan, 2024]] identified as a component of the sedimentary sequence including anhydrite layers.
+
 ## Depositional Environment
 
 - [[1992-al-sulami|Al-Sulami, 1992]] shallow evaporitic
+
+- [[2024-hassan|Hassan, 2024]] identified as a component of the sedimentary sequence including anhydrite layers.
 
 ## Reservoir Properties
 
@@ -39,6 +44,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - The Thamama Group disconformably overlies the Hith Formation. ([[1992-al-sulami|Al-Sulami, 1992, p. 15]])
+
+- Evaporites (MF1) are composed of anhydedrite, appearing as distinct layers within the carbonate sequence. ([[2024-hassan|Hassan, 2024, p. 54]])
 
 ## Conflicting Interpretations Across Sources
 

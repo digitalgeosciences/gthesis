@@ -16,8 +16,9 @@ sources:
   - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
   - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # LiDAR
@@ -38,6 +39,8 @@ last_updated: 2026-06-09
 
 - [[2017-adam|Adam, 2017]] utilized LIDAR to create digital outcrop models and map stratigraphic features.
 
+- [[2022-babker|Babker, 2022]] integrated lidar data with sedimentology for geological outcrop modeling.
+
 ## Instruments and Software
 
 
@@ -49,6 +52,8 @@ last_updated: 2026-06-09
 - [[2016-babker|Babker, 2016]] used Lidar for fracture estimation and mapping of the Sarah paleovalley.
 
 - [[2017-adam|Adam, 2017]] utilized LIDAR to create digital outcrop models and map stratigraphic features.
+
+- [[2022-babker|Babker, 2022]] integrated lidar data with sedimentology for geological outcrop modeling.
 
 ## Typical Workflow
 
@@ -65,6 +70,8 @@ last_updated: 2026-06-09
 - Used to determine fracture dimensions and count in the outcrop area. ([[2016-babker|Babker, 2016, p. 10]])
 
 - Used to establish a high-resolution stratigraphic framework on which all data is visualized. ([[2017-adam|Adam, 2017, p. 36]])
+
+- Lidar data provided detailed structural and geomorphological context for the Khuff Formation outcrops. ([[2022-babker|Babker, 2022]])
 
 ## Methodological Variations Across Sources
 

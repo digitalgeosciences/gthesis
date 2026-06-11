@@ -22,8 +22,19 @@ sources:
   - "raw/140109 - ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA.pdf"
   - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/141979 - Real-Time Advisory Hole-Cleaning Model.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
+  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
+  - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petrophysical Rock Typing
@@ -54,6 +65,28 @@ last_updated: 2026-06-09
 
 - [[2017-benaafi|Benaafi, 2017]] used petrophysical analysis to determine the control on fracture distribution.
 
+- [[2020-gbiyanju|Gbiyanju, 2020]] used rock typing to categorize samples based on both chemical and mechanical data.
+
+- [[2021-al-malki|Al-Malki, 2021]] applied petrophysical-rock-typing to evaluate the impact of PV and YP on HCF.
+
+- [[2022-septriandi|Septriandi, 2022]] used lithofacies to characterize the heterogeneity and potential of the mudstones.
+
+- [[2022-syahputra|Syahputra, 2022]] evaluated petrophysical properties in the context of burrowing styles and intensity.
+
+- [[2022-samarkin|Samarkin, 2022]] used to assess the impact of chemical treatment on permeability and porosity.
+
+- [[2022-stiawan|Stiawan, 2022]] categorized the formation into three RRTs.
+
+- [[2022-salih|Salih, 2022]] used petrophysical rock typing to differentiate carbonate samples by pore type and texture.
+
+- [[2024-saraih|Saraih, 2024]] used petrophysical measurements to characterize the burrowed strata.
+
+- [[2024-yusmananto|Yusmananto, 2024]] applied petrophysical-rock-typing using the Winland r35 equation to define 10 rock types.
+
+- [[2025-oyekan|Oyekan, 2025]] applied petrophysical-rock-typing to determine the mineral composition (83% quartz) and porosity (0.35 average) of the sand dune.
+
+- [[2025-ferreira|Ferreira, 2025]] used lithofacies data to evaluate the performance of SSL models.
+
 ## Instruments and Software
 
 
@@ -75,6 +108,28 @@ last_updated: 2026-06-09
 - [[2017-mohammed|Mohammed, 2017]] performed petrophysical-rock-typing to predict reservoir quality.
 
 - [[2017-benaafi|Benaafi, 2017]] used petrophysical analysis to determine the control on fracture distribution.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] used rock typing to categorize samples based on both chemical and mechanical data.
+
+- [[2021-al-malki|Al-Malki, 2021]] applied petrophysical-rock-typing to evaluate the impact of PV and YP on HCF.
+
+- [[2022-septriandi|Septriandi, 2022]] used lithofacies to characterize the heterogeneity and potential of the mudstones.
+
+- [[2022-syahputra|Syahputra, 2022]] evaluated petrophysical properties in the context of burrowing styles and intensity.
+
+- [[2022-samarkin|Samarkin, 2022]] used to assess the impact of chemical treatment on permeability and porosity.
+
+- [[2022-stiawan|Stiawan, 2022]] categorized the formation into three RRTs.
+
+- [[2022-salih|Salih, 2022]] used petrophysical rock typing to differentiate carbonate samples by pore type and texture.
+
+- [[2024-saraih|Saraih, 2024]] used petrophysical measurements to characterize the burrowed strata.
+
+- [[2024-yusmananto|Yusmananto, 2024]] applied petrophysical-rock-typing using the Winland r35 equation to define 10 rock types.
+
+- [[2025-oyekan|Oyekan, 2025]] applied petrophysical-rock-typing to determine the mineral composition (83% quartz) and porosity (0.35 average) of the sand dune.
+
+- [[2025-ferreira|Ferreira, 2025]] used lithofacies data to evaluate the performance of SSL models.
 
 ## Typical Workflow
 
@@ -101,6 +156,28 @@ last_updated: 2026-06-09
 - Rock types were differentiated based on porosity, permeability, and TOC content. ([[2017-mohammed|Mohammed, 2017, p. 163]])
 
 - Petrophysical parameters like porosity and permeability were measured for 63 samples to assess geomechanical behavior. ([[2017-benaafi|Benaafi, 2017, p. 28]])
+
+- Developed a method for rock typing from XRF spectra raw data. ([[2020-gbiyanju|Gbiyanju, 2020, p. 208]])
+
+- High PV and YP values were shown to increase mud carrying capacity, improving HCF scores. ([[2021-al-malki|Al-Malki, 2021, p. 48]])
+
+- Lithofacies were used to identify zones of maximum commercial productivity (sweet spots). ([[2022-septriandi|Septriandi, 2022, p. 30]])
+
+- Porosity values remained consistent (14.2–23.9%) regardless of burrow style, but permeability varied significantly based on burrow type. ([[2022-syahputra|Syahputra, 2022, p. 69]])
+
+- All treatments resulted in a decrease in rock permeability. ([[2022-samarkin|Samarkin, 2022, p. 13]])
+
+- RRT 1 (high quality) was found in DM facies; RRT 2 (moderate) in SP and DW; RRT 3 (low) in all facies at Wadi Nisah. ([[2022-stiawan|Stiawan, 2022, p. 19]])
+
+- Identified distinct categories for moldic, vuggy, and interparticle pores using EPAR values. ([[2022-salih|Salih, 2022, p. 19]])
+
+- Not stated in source ([[2024-saraih|Saraih, 2024]])
+
+- Rock type RT1 represents the highest reservoir quality, while RT10 indicates the lowest. ([[2024-yusmananto|Yusmananto, 2024, p. 66]])
+
+- The study determined that 83% of the dune was composed of quartz, with additional minerals including feldspar and calcite. ([[2025-oyekan|Oyekan, 2025, p. 54]])
+
+- SSL methods were applied to the classification of lithofacies core images. ([[2025-ferreira|Ferreira, 2025, p. 13]])
 
 ## Methodological Variations Across Sources
 

@@ -17,8 +17,9 @@ sources:
   - "raw/139490 - INTEGRATION OF LITHOFACIES AND GEOMECHANICAL CHARACTERISTICS OF LOWER SILURIAN Q.pdf"
   - "raw/139612 - Microseismic Modeling of Hydraulic Fracturing and Analysis of Location and Detec.pdf"
   - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Anisotropy
@@ -39,6 +40,8 @@ last_updated: 2026-06-09
 
 - [[2016-hassan|Hassan, 2016]] analyzed anisotropy to identify fracture-induced variations in the AVOA gradient.
 
+- [[2024-makki|Makki, 2024]] investigated anisotropy in sand dunes to understand its impact on seismic imaging.
+
 ## Scientific Context
 
 - [[1996-jarad|Jarad, 1996]] Determining anisotropy is crucial for defining the search ellipsoid in kriging.
@@ -50,6 +53,8 @@ last_updated: 2026-06-09
 - [[2015-own|Own, 2015]] analyzed anisotropy to improve the accuracy of microseismic hypocenter locations.
 
 - [[2016-hassan|Hassan, 2016]] analyzed anisotropy to identify fracture-induced variations in the AVOA gradient.
+
+- [[2024-makki|Makki, 2024]] investigated anisotropy in sand dunes to understand its impact on seismic imaging.
 
 ## Measurement and Characterization Methods
 
@@ -66,6 +71,8 @@ last_updated: 2026-06-09
 - Anisotropic models (VTI, HTI, TTI) significantly improved perforation shot location accuracy compared to isotropic models. ([[2015-own|Own, 2015, p. 95]])
 
 - Anisotropy was found to be very weak in both reservoirs, with an ellipticity ratio of less than 1. ([[2016-hassan|Hassan, 2016, p. 12]])
+
+- The study confirmed a weakly anisotropic TTI medium with epsilon = 0.035 and delta = 0.005. ([[2024-makki|Makki, 2024, p. 13]])
 
 ## Contrasting Values and Interpretations
 

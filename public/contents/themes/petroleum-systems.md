@@ -11,6 +11,7 @@ tags:
 sources:
   - "raw/138787 - Investigation of Source Rock Potential and Micropaleontology of the Middle Ordov.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
+  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -27,11 +28,15 @@ last_updated: 2026-06-09
 
 - [[2017-mahgoub|Mahgoub, 2017]] evaluated the qusaiba-member within its role in the petroleum-systems of Saudi Arabia.
 
+- [[2020-usman|Usman, 2020]] evaluated the petroleum systems within the Jafurah sub-basin.
+
 ## Key Subtopics
 
 - [[2012-ghazwani|Ghazwani, 2012]] ['source-rock-evaluation', 'thermal-maturity']
 
 - [[2017-mahgoub|Mahgoub, 2017]] evaluated the qusaiba-member within its role in the petroleum-systems of Saudi Arabia.
+
+- [[2020-usman|Usman, 2020]] evaluated the petroleum systems within the Jafurah sub-basin.
 
 ## Methods and Approaches Used
 
@@ -42,6 +47,8 @@ last_updated: 2026-06-09
 - The Hanadir member is a candidate for gas production in northwestern Saudi Arabia. ([[2012-ghazwani|Ghazwani, 2012, p. 52]])
 
 - The Qusaiba shale is a significant source rock due to high organic matter content and favorable depositional conditions. ([[2017-mahgoub|Mahgoub, 2017, p. 82]])
+
+- The target interval is a promising source rock for the Ghawar field. ([[2020-usman|Usman, 2020, p. 27]])
 
 ## Competing Approaches and Debates
 

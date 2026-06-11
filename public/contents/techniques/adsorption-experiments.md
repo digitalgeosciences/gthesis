@@ -17,8 +17,10 @@ sources:
   - "raw/140020 - REMOVAL OF MERCURY (II) FROM WATER USING BIOSYNTHESIZED SILVER AND IRON NANOPART.pdf"
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Adsorption Experiments
@@ -43,6 +45,10 @@ last_updated: 2026-06-09
 
 - [[2019-salawudeen|Salawudeen, 2019]] used adsorption experiments to evaluate the removal efficiency of phenol and cadmium using GPDADMAC and GPHM.
 
+- [[2021-siddiq|Siddiq, 2021]] performed batch sorption experiments to evaluate arsenic removal.
+
+- [[2025-almousa|Almousa, 2025]] conducted fixed-bed column experiments to evaluate MTBE and BTEX removal.
+
 ## Instruments and Software
 
 
@@ -58,6 +64,10 @@ last_updated: 2026-06-09
 - [[2017-olabemiwo|Olabemiwo, 2017]] performed adsorption experiments to evaluate the impact of pH, time, and dosage on cadmium removal.
 
 - [[2019-salawudeen|Salawudeen, 2019]] used adsorption experiments to evaluate the removal efficiency of phenol and cadmium using GPDADMAC and GPHM.
+
+- [[2021-siddiq|Siddiq, 2021]] performed batch sorption experiments to evaluate arsenic removal.
+
+- [[2025-almousa|Almousa, 2025]] conducted fixed-bed column experiments to evaluate MTBE and BTEX removal.
 
 ## Typical Workflow
 
@@ -78,6 +88,10 @@ last_updated: 2026-06-09
 - The study of the effect of solution conditions such as pH, contact time, dosage... on the adsorption efficiency. ([[2017-olabemiwo|Olabemiwo, 2017, p. 33]])
 
 - GPDADMAC achieved 80% removal of 10 mg/l phenol, while GPHM removed over 60% of 0.5 ppm cadmium. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
+
+- Fe-modified biochar achieved 99% of arsenic removal in batch studies. ([[2021-siddiq|Siddiq, 2021, p. 13]])
+
+- The optimum treatment conditions for MTBE were found at a CAC dosage of 2 g, initial concentration of 5000 μg/L, flow rate of 1 mL/min, using sandstone bed type and bed height of 20 cm. ([[2025-almousa|Almousa, 2025, p. 13]])
 
 ## Methodological Variations Across Sources
 

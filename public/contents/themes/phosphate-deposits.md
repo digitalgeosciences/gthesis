@@ -10,8 +10,9 @@ tags:
   - theme/phosphate-deposits
 sources:
   - "raw/10032 - Geostatistical evaluation of the Hazam al-Jalamid phosphorite deposit, Northwest.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Phosphate Deposits
@@ -24,9 +25,13 @@ last_updated: 2026-06-08
 
 - [[1996-jarad|Jarad, 1996]] focused on the mineral-resource-estimation of phosphate-deposits.
 
+- [[1987-abdul-latif|Abdul-Latif, 1987]] studied the Abu Tartur phosphate deposit within the Sibaiya Formation.
+
 ## Key Subtopics
 
 - [[1996-jarad|Jarad, 1996]] mineralogy, geostatistics
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] studied the Abu Tartur phosphate deposit within the Sibaiya Formation.
 
 ## Methods and Approaches Used
 
@@ -35,6 +40,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - Phosphorite grains in the Hazm Al-Jalamid deposit range from 50 to 300 microns. ([[1996-jarad|Jarad, 1996, p. 48]])
+
+- The lower horizon has an average grade of 26% and thickness of 0.3 to 8.0 m. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 23]])
 
 ## Competing Approaches and Debates
 

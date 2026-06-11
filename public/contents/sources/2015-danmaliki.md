@@ -72,7 +72,7 @@ tags:
   - technique/ftir
   - technique/tga
   - technique/gc-ms
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/uv-vis-spectroscopy
   - theme/environmental-geoscience
   - theme/water-treatment

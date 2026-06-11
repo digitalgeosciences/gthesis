@@ -31,8 +31,28 @@ sources:
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/141361 - Rock Physics Modeling and Inversion in Glacial Ordovician Reservoirs.pdf"
+  - "raw/141363 - POTENTIAL SOURCES AND DISTRIBUTION OF NITRATE IN THE GROUNDWATER OF THE WASIA AQ.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143200 - FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.pdf"
+  - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Central Saudi Arabia
@@ -83,6 +103,46 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] analyzed particulate matter trends in the Central Region (Solar Village).
 
+- [[2019-al-dawood|Al-Dawood, 2019]] focused on reservoirs located in central-saudi-arabia.
+
+- [[2019-ahmed|Ahmed, 2019]] conducted study in the Al-Kharj area within Central Saudi Arabia.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] conducted study in central Saudi Arabia.
+
+- [[2020-almumtin|Almumtin, 2020]] conducted study in central-saudi-arabia.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied Jurassic carbonates in Central Saudi Arabia.
+
+- [[2021-ahmed|Ahmed, 2021]] conducted field studies and sample collection in the Khasm adh Dhibi area within Central Saudi Arabia.
+
+- [[2021-alqarni|Alqarni, 2021]] located in central-saudi-arabia to study Ordovician glacial deposits.
+
+- [[2022-khamsin|Khamsin, 2022]] located the study area in central Saudi Arabia near Khashm ad Dhibi.
+
+- [[2022-syahputra|Syahputra, 2022]] investigated a burrowed carbonate stratum in central Saudi Arabia.
+
+- [[2022-stiawan|Stiawan, 2022]] conducted field studies in the Wadi Malham and Wadi Nisah outcrops located here.
+
+- [[2022-salih|Salih, 2022]] conducted field work and sample collection in Central Saudi Arabia.
+
+- [[2022-bashri|Bashri, 2022]] studied outcrops in central-saudi-arabia to model the Hanifa Formation.
+
+- [[2022-pambudi|Pambudi, 2022]] studied the central-saudi-arabia area for ASR potential.
+
+- [[2022-babker|Babker, 2022]] investigated the Upper Khartam Member in central Saudi Arabia.
+
+- [[2024-allam|Allam, 2024]] studied Valanginian carbonates in Central Saudi Arabia.
+
+- [[2024-abdrabo|Abdrabo, 2024]] located the study area in central-saudi-arabia near Qusaiba village.
+
+- [[2024-saraih|Saraih, 2024]] conducted research in the Aruma Formation located in Central Saudi Arabia.
+
+- [[2024-allehyani|allehyani, 2024]] studied samples from the Hanifa Formation located in central Saudi Arabia.
+
+- [[2024-jalloh|Jalloh, 2024]] conducted study in the Dhruma Formation within Central Saudi Arabia.
+
+- [[2025-refaat|Refaat, 2025]] conducted a case study in central-saudi-arabia within the Hanifa Formation.
+
 ## Geological and Structural Setting
 
 - [[1995-magaji|Magaji, 1995]] Interior Homocline
@@ -124,6 +184,46 @@ last_updated: 2026-06-09
 - [[2018-ismanto|Ismanto, 2018]] located the study site within the Dhruma Formation outcrops in Central Saudi Arabia.
 
 - [[2019-alotaibi|Alotaibi, 2019]] analyzed particulate matter trends in the Central Region (Solar Village).
+
+- [[2019-al-dawood|Al-Dawood, 2019]] focused on reservoirs located in central-saudi-arabia.
+
+- [[2019-ahmed|Ahmed, 2019]] conducted study in the Al-Kharj area within Central Saudi Arabia.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] conducted study in central Saudi Arabia.
+
+- [[2020-almumtin|Almumtin, 2020]] conducted study in central-saudi-arabia.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied Jurassic carbonates in Central Saudi Arabia.
+
+- [[2021-ahmed|Ahmed, 2021]] conducted field studies and sample collection in the Khasm adh Dhibi area within Central Saudi Arabia.
+
+- [[2021-alqarni|Alqarni, 2021]] located in central-saudi-arabia to study Ordovician glacial deposits.
+
+- [[2022-khamsin|Khamsin, 2022]] located the study area in central Saudi Arabia near Khashm ad Dhibi.
+
+- [[2022-syahputra|Syahputra, 2022]] investigated a burrowed carbonate stratum in central Saudi Arabia.
+
+- [[2022-stiawan|Stiawan, 2022]] conducted field studies in the Wadi Malham and Wadi Nisah outcrops located here.
+
+- [[2022-salih|Salih, 2022]] conducted field work and sample collection in Central Saudi Arabia.
+
+- [[2022-bashri|Bashri, 2022]] studied outcrops in central-saudi-arabia to model the Hanifa Formation.
+
+- [[2022-pambudi|Pambudi, 2022]] studied the central-saudi-arabia area for ASR potential.
+
+- [[2022-babker|Babker, 2022]] investigated the Upper Khartam Member in central Saudi Arabia.
+
+- [[2024-allam|Allam, 2024]] studied Valanginian carbonates in Central Saudi Arabia.
+
+- [[2024-abdrabo|Abdrabo, 2024]] located the study area in central-saudi-arabia near Qusaiba village.
+
+- [[2024-saraih|Saraih, 2024]] conducted research in the Aruma Formation located in Central Saudi Arabia.
+
+- [[2024-allehyani|allehyani, 2024]] studied samples from the Hanifa Formation located in central Saudi Arabia.
+
+- [[2024-jalloh|Jalloh, 2024]] conducted study in the Dhruma Formation within Central Saudi Arabia.
+
+- [[2025-refaat|Refaat, 2025]] conducted a case study in central-saudi-arabia within the Hanifa Formation.
 
 ## Formations Present
 
@@ -170,6 +270,46 @@ last_updated: 2026-06-09
 - Outcrops are well-exposed approximately 60 km west of Riyadh. ([[2018-ismanto|Ismanto, 2018, p. 16]])
 
 - In the Central Region, the annual trend at $\tau_{500}$ showed an overall increase in PM10 concentration by 37%. ([[2019-alotaibi|Alotaibi, 2019, p. 77]])
+
+- Not stated in source ([[2019-al-dawood|Al-Dawood, 2019]])
+
+- The study area is located to the east of Al Kharj city in central Saudi Arabia. ([[2019-ahmed|Ahmed, 2019, p. 18]])
+
+- Outcrops are located approximately 50 km west of Riyadh City. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 1]])
+
+- The study area is located in the central part of the Arabian Plate. ([[2020-almumtin|Almumtin, 2020, p. 23]])
+
+- Not stated in source ([[2021-al-nuwais|Al-Nuwais, 2021]])
+
+- The Marrat Formation is exposed in a 650km north-south elongated strip in this region. ([[2021-ahmed|Ahmed, 2021, p. 46]])
+
+- The Sarah Formation is a key glaciogenic reservoir in this region. ([[2021-alqarni|Alqarni, 2021, p. 127]])
+
+- The study area is located approximately 60 km southwest of Riyadh. ([[2022-khamsin|Khamsin, 2022, p. 23]])
+
+- The study area includes three specific outcrop locations: Oyeynah, Jabal Al-Abakkayn, and Sadous. ([[2022-syahputra|Syahputra, 2022, p. 17]])
+
+- Wadi Malham is considered a better analogue to Ghawar/Khurais than Wadi Nisah due to its protection from tectonic stress. ([[2022-stiawan|Stiawan, 2022, p. 104]])
+
+- Includes key carbonate reservoirs like Hanifa, Jubaila, and Khuff. ([[2022-salih|Salih, 2022, p. 71]])
+
+- Outcrops along a 535 km N-S transect were analyzed. ([[2022-bashri|Bashri, 2022, p. 10]])
+
+- The central-eastern Saudi Arabia... is selected as a target area due to it is closeness to main cities, agricultural areas, and possible water sources for ASR. ([[2022-pambudi|Pambudi, 2022, p. 19]])
+
+- Outcrops are distributed along a 1000 km belt in this region. ([[2022-babker|Babker, 2022, p. 14]])
+
+- Not stated in source ([[2024-allam|Allam, 2024]])
+
+- The Qalibah Formation outcrops in the Qassim Region provide an unparalleled opportunity to test 3D modeling. ([[2024-abdrabo|Abdrabo, 2024, p. 19]])
+
+- The study area includes several distinct stratigraphic units within the Khanasir Member. ([[2024-saraih|Saraih, 2024, p. 15]])
+
+- Samples were collected from outcrops northwest of Riyadh city. ([[2024-allehyani|allehyani, 2024, p. 21]])
+
+- Provides unique access to surface outcrop exposures for Jurassic studies. ([[2024-jalloh|Jalloh, 2024, p. 19]])
+
+- The study area at Jabel Al-Abakkayn provides a representative example of bioturbated carbonate reservoirs in the region. ([[2025-refaat|Refaat, 2025, p. 13]])
 
 ## Research Coverage and Gaps
 

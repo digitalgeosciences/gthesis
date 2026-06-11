@@ -11,8 +11,9 @@ tags:
 sources:
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Seismic Acquisition
@@ -27,11 +28,15 @@ last_updated: 2026-06-09
 
 - [[2018-putra|Putra, 2018]] evaluated how physical errors in array setup affect the quality of acquired seismic data.
 
+- [[2002-al-ali|Al-Ali, 2002]] evaluated impact on land-seismic acquisition quality.
+
 ## Key Subtopics
 
 - [[2017-almarzooq|Almarzooq, 2017]] ['signal processing', 'amplitude correction']
 
 - [[2018-putra|Putra, 2018]] evaluated how physical errors in array setup affect the quality of acquired seismic data.
+
+- [[2002-al-ali|Al-Ali, 2002]] evaluated impact on land-seismic acquisition quality.
 
 ## Methods and Approaches Used
 
@@ -42,6 +47,8 @@ last_updated: 2026-06-09
 - Sand dunes pose logistical challenges for seismic data acquisition and processing. ([[2017-almarzooq|Almarzooq, 2017, p. 14]])
 
 - Data was recorded for 0.5 seconds with a 0.5 ms sampling interval. ([[2018-putra|Putra, 2018, p. 63]])
+
+- Integrating vibrator performance data improved the results of the 3D survey. ([[2002-al-ali|Al-Ali, 2002, p. 19]])
 
 ## Competing Approaches and Debates
 

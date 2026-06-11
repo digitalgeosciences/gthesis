@@ -16,6 +16,7 @@ sources:
   - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
+  - "raw/141361 - Rock Physics Modeling and Inversion in Glacial Ordovician Reservoirs.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -36,6 +37,8 @@ last_updated: 2026-06-09
 
 - [[2017-almarzooq|Almarzooq, 2017]] used avo-analysis as the ultimate goal for processing data suitable for reservoir characterization.
 
+- [[2019-al-dawood|Al-Dawood, 2019]] applied AVO analysis on estimated parameters from seismic data.
+
 ## Instruments and Software
 
 
@@ -45,6 +48,8 @@ last_updated: 2026-06-09
 - [[2016-ali|Ali, 2016]] used avo-analysis to delineate OWC in various fields including those in the eastern province.
 
 - [[2017-almarzooq|Almarzooq, 2017]] used avo-analysis as the ultimate goal for processing data suitable for reservoir characterization.
+
+- [[2019-al-dawood|Al-Dawood, 2019]] applied AVO analysis on estimated parameters from seismic data.
 
 ## Typical Workflow
 
@@ -59,6 +64,8 @@ last_updated: 2026-06-09
 - AVO inversion for three lines on two structures gave positive AVO and was able to delineate the OWC. ([[2016-ali|Ali, 2016, p. 26]])
 
 - The proposed method provides a dataset that may be suitable for further AVO analyses by reducing sand dune amplification effects. ([[2017-almarzooq|Almarzooq, 2017, p. 14]])
+
+- Used to characterize reservoir fluids in Ordovician reservoirs where pre-stack inversion was not feasible. ([[2019-al-dawood|Al-Dawood, 2019, p. 15]])
 
 ## Methodological Variations Across Sources
 

@@ -18,8 +18,9 @@ sources:
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/142399 - USING THE ELECTROCHEMICAL TREATMENT OF A WET-AIR OXIDIZED SPENT CAUSTIC WASTE ST.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Jubail Area
@@ -42,6 +43,8 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] sampled particulate matter from Jubail to analyze local pollution levels.
 
+- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
+
 ## Geological and Structural Setting
 
 - [[2013-mohammed|Mohammed, 2013]] Arabian Gulf coast
@@ -55,6 +58,8 @@ last_updated: 2026-06-09
 - [[2017-budiyanto|Budiyanto, 2017]] collected petroleum contaminated soil from the Jubail area (27°06ʹ46.53ʺ N 49°22ʹ24.53ʺ E).
 
 - [[2019-alotaibi|Alotaibi, 2019]] sampled particulate matter from Jubail to analyze local pollution levels.
+
+- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
 
 ## Formations Present
 
@@ -73,6 +78,8 @@ last_updated: 2026-06-09
 - Soil from this location provided the source for isolating halophilic bacteria capable of pyrene degradation. ([[2017-budiyanto|Budiyanto, 2017, p. 45]])
 
 - Samples from Jubail were analyzed for mineralogy and trace metal content. ([[2019-alotaibi|Alotaibi, 2019, p. 130]])
+
+- Referenced in this thesis. ([[2023-al-aqeel|Al-Aqeel, 2023]])
 
 ## Research Coverage and Gaps
 

@@ -42,7 +42,6 @@ techniques:
   - spss
   - microsoft-excel
   - survey
-  - survey-analysis
   - questionnaire-survey
   - data-analysis
   - statistical-analysis
@@ -58,7 +57,6 @@ tags:
   - technique/solidification
   - technique/stabilization
   - technique/survey
-  - technique/survey-analysis
   - technique/statistical-analysis
   - theme/environmental-geoscience
   - theme/drilling-waste-management
@@ -163,7 +161,6 @@ Recommendations include: (1) further studies on offshore OBF/SBF impacts, (2) ev
 - [[solidification-and-stabilization]]
 - [[survey]]
 - [[water-quality]]
-- [[survey-analysis]]
 - [[water-based-fluids]]
 - [[oil-based-fluids]]
 - [[synthetic-based-fluids]]

@@ -11,8 +11,9 @@ tags:
   - theme/environmental-pollution
 sources:
   - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Marine Pollution
@@ -25,9 +26,13 @@ last_updated: 2026-06-09
 
 - [[2015-arslan|Arslan, 2015]] assessed the impact of heavy metals and hydrocarbons on foraminiferal populations.
 
+- [[2023-nasir|Nasir, 2023]] assessed marine pollution using chemical proxies and foraminiferal indices.
+
 ## Scientific Context
 
 - [[2015-arslan|Arslan, 2015]] Impacts the health and diversity of benthic communities.
+
+- [[2023-nasir|Nasir, 2023]] assessed marine pollution using chemical proxies and foraminiferal indices.
 
 ## Measurement and Characterization Methods
 
@@ -36,6 +41,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - Heavy metal concentrations (Cd, Pb, Hg) cause significant reduction in diversity and morphological deformities. ([[2015-arslan|Arslan, 2015, p. 44]])
+
+- Eco Park showed moderate conditions despite industrial history since 1827. ([[2023-nasir|Nasir, 2023, p. 15]])
 
 ## Contrasting Values and Interpretations
 

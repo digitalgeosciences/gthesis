@@ -10,8 +10,9 @@ tags:
   - theme/basin-analysis
 sources:
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Basin Analysis
@@ -24,9 +25,13 @@ last_updated: 2026-06-09
 
 - [[2016-awad|Awad, 2016]] performed basin-analysis to understand the third rift phase in the Rawat Basin.
 
+- [[2022-babker|Babker, 2022]] performed basin-analysis to understand the scale of lithofacies heterogeneity.
+
 ## Key Subtopics
 
 - [[2016-awad|Awad, 2016]] ['sequence-stratigraphy', 'sedimentology']
+
+- [[2022-babker|Babker, 2022]] performed basin-analysis to understand the scale of lithofacies heterogeneity.
 
 ## Methods and Approaches Used
 
@@ -35,6 +40,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - Determined the impact of accommodation space and sediment supply on depositional environments. ([[2016-awad|Awad, 2016, p. 17]])
+
+- Basinal-scale analysis revealed significant spatial variation in rock properties. ([[2022-babker|Babker, 2022]])
 
 ## Competing Approaches and Debates
 

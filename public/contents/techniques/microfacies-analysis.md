@@ -18,8 +18,10 @@ sources:
   - "raw/140444 - MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAU.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Microfacies Analysis
@@ -46,6 +48,10 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] performed microfacies analysis to identify distinct carbonate types and their associated environments.
 
+- [[2021-alabyadh|Alabyadh, 2021]] performed microfacies-analysis to characterize the carbonate environment.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] applied morphogroup analysis to DWAF to interpret trophic levels and environmental changes.
+
 ## Instruments and Software
 
 
@@ -63,6 +69,10 @@ last_updated: 2026-06-09
 - [[2017-adam|Adam, 2017]] used microfacies-analysis to characterize the lithofacies of the Khartam member.
 
 - [[2018-ismanto|Ismanto, 2018]] performed microfacies analysis to identify distinct carbonate types and their associated environments.
+
+- [[2021-alabyadh|Alabyadh, 2021]] performed microfacies-analysis to characterize the carbonate environment.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] applied morphogroup analysis to DWAF to interpret trophic levels and environmental changes.
 
 ## Typical Workflow
 
@@ -85,6 +95,10 @@ last_updated: 2026-06-09
 - Identified oolitic, peloidal, and bioclastic lithofacies within the Khartam member. ([[2017-adam|Adam, 2017, p. 64]])
 
 - Identified 8 distinct microfacies including peloidal skeletal wackestone and burrowed wackestone. ([[2018-ismanto|Ismanto, 2018, p. 17]])
+
+- Defined 10 distinct microfacies (MF1-MF10) in the studied section. ([[2021-alabyadh|Alabyadh, 2021, p. 83]])
+
+- M4 morphogroup showed a recovery to pre-Paleocene values, indicating stable organic carbon flux. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 111]])
 
 ## Methodological Variations Across Sources
 

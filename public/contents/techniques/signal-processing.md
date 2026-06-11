@@ -16,8 +16,11 @@ sources:
   - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
+  - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
+  - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
+  - "raw/142448 - First Arrival Picking of Zero-phase Seismic Data by Hilbert Envelope Empirical H.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Signal Processing
@@ -36,6 +39,12 @@ last_updated: 2026-06-09
 
 - [[2018-putra|Putra, 2018]] applied convolution of impulse responses with Ricker wavelets.
 
+- [[2022-aljishi|AlJishi, 2022]] used signal-processing techniques like auto-correlation and deconvolution to identify sand reverberation signatures.
+
+- [[2022-awais|Awais, 2022]] applied signal processing techniques like bandpass filtering and SVI.
+
+- [[2023-bargees|Bargees, 2023]] applied signal-processing techniques including envelope extraction and the empirical rule for automated picking.
+
 ## Instruments and Software
 
 
@@ -45,6 +54,12 @@ last_updated: 2026-06-09
 - [[2017-almarzooq|Almarzooq, 2017]] applied signal processing techniques like Fourier transforms and spectral division for data correction.
 
 - [[2018-putra|Putra, 2018]] applied convolution of impulse responses with Ricker wavelets.
+
+- [[2022-aljishi|AlJishi, 2022]] used signal-processing techniques like auto-correlation and deconvolution to identify sand reverberation signatures.
+
+- [[2022-awais|Awais, 2022]] applied signal processing techniques like bandpass filtering and SVI.
+
+- [[2023-bargees|Bargees, 2023]] applied signal-processing techniques including envelope extraction and the empirical rule for automated picking.
 
 ## Typical Workflow
 
@@ -59,6 +74,12 @@ last_updated: 2026-06-09
 - Spectral estimation is a powerful technique used to analyze the distribution as a function of frequency. ([[2017-almarzooq|Almarzooq, 2017, p. 37]])
 
 - Convolving the impulse response with a Ricker wavelet produced the array wavelet response. ([[2018-putra|Putra, 2018, p. 32]])
+
+- Summing trace auto-correlations in a specific range improved the signature drastically, making it easier to track across different offsets. ([[2022-aljishi|AlJishi, 2022, p. 87]])
+
+- SVI enhanced the SNR, allowing for more robust first break picking. ([[2022-awais|Awais, 2022, p. 88]])
+
+- The envelope captures slowly varying features while the phase contains high-frequency information. ([[2023-bargees|Bargees, 2023, p. 23]])
 
 ## Methodological Variations Across Sources
 

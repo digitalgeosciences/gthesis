@@ -50,8 +50,33 @@ sources:
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
+  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142750 - TURONIAN TO SANTONIAN AGGLUTINATED BENTHIC FORAMINIFERA FROM A MARGINAL MARINE H.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/142980 - PETROGENESIS OF NORTHERN MIDYAN TERRANE GRANITOIDS, ARABIAN SHIELD CONSTRAINTS F.pdf"
+  - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
+  - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
+  - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Scanning Electron Microscopy
@@ -140,6 +165,56 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] used FESEM to observe morphological characteristics of PM10.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used SEM to identify four different micrite microtextures based on morphology and contact.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] applied SEM to observe carbonate textures and mineral distribution in the study formations.
+
+- [[2021-alnasser|AlNasser, 2021]] used SEM to characterize the morphology of graphene-based adsorbents.
+
+- [[2021-siddiq|Siddiq, 2021]] used SEM imaging to determine changes in biochar morphology.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used SEM to analyze the internal structure of ooids and their radial crystal arrangement.
+
+- [[2022-khamsin|Khamsin, 2022]] used a JEOL scanning electron microscope to photograph well-preserved specimens.
+
+- [[2022-khan|Khan, 2022]] used SEM to image microporosity, diagenetic features, and mineral crystals.
+
+- [[2022-samarkin|Samarkin, 2022]] used SEM to observe changes in rock texture after treatment.
+
+- [[2022-salih|Salih, 2022]] used SEM to examine pore types and mineral textures in the Khuff, Rus, and Dam formations.
+
+- [[2022-bashri|Bashri, 2022]] used SEM to analyze mudstone chips for clay mineral identification.
+
+- [[2023-nasir|Nasir, 2023]] used SEM to identify foraminiferal species and assess morphological deformities.
+
+- [[2023-prayudi|Prayudi, 2023]] used SEM to characterize the morphological features and identify species of Cyprideis sp. in the western Arabian Gulf.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] used SEM to characterize the morphology of new agglutinated foraminiferal species.
+
+- [[2024-alabbad|Alabbad, 2024]] used SEM images for mineralogical characterization.
+
+- [[2024-alhilali|Alhilali, 2024]] used SEM to identify and characterize agglutinated benthic foraminifera in Turonian-Santonian sediments.
+
+- [[2024-allam|Allam, 2024]] applied SEM to characterize microfacies and mineralogy in the carbonate rocks.
+
+- [[2024-hassan|Hassan, 2024]] used SEM to investigate micro-features like crystal size and microporosity in tight carbonate rocks.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used SEM to analyze the mineral chemistry and texture of the NW Midyan rocks.
+
+- [[2025-ferreira|Ferreira, 2025]] used sem for high-resolution imaging of minerals (implied by petrography context).
+
+- [[2026-fatima|Fatima, 2026]] used SEM to examine the morphology of clogging materials.
+
+- [[1992-abdulghani|Abdulghani, 1992]] used SEM to examine microfacies and mineral textures in 193 thin sections from the Arab-D member.
+
+- [[1999-babalola|Babalola, 1999]] used SEM for detailed mineralogical characterization and observation of sedimentary structures.
+
+- [[2002-elhassan|ElHassan, 2002]] used SEM to analyze the textural elements of the Khafji reservoir.
+
+- [[1985-ghaled|Ghaled, 1985]] used SEM to observe the cryptocrystalline nature of magnesite samples.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used SEM to characterize the morphology of anhydrite laths and aragonitic crystal faces.
+
 ## Instruments and Software
 
 
@@ -219,6 +294,56 @@ last_updated: 2026-06-09
 - [[2019-salawudeen|Salawudeen, 2019]] used SEM to characterize the morphological structure of GPDADMAC and GPHM.
 
 - [[2019-alotaibi|Alotaibi, 2019]] used FESEM to observe morphological characteristics of PM10.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used SEM to identify four different micrite microtextures based on morphology and contact.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] applied SEM to observe carbonate textures and mineral distribution in the study formations.
+
+- [[2021-alnasser|AlNasser, 2021]] used SEM to characterize the morphology of graphene-based adsorbents.
+
+- [[2021-siddiq|Siddiq, 2021]] used SEM imaging to determine changes in biochar morphology.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used SEM to analyze the internal structure of ooids and their radial crystal arrangement.
+
+- [[2022-khamsin|Khamsin, 2022]] used a JEOL scanning electron microscope to photograph well-preserved specimens.
+
+- [[2022-khan|Khan, 2022]] used SEM to image microporosity, diagenetic features, and mineral crystals.
+
+- [[2022-samarkin|Samarkin, 2022]] used SEM to observe changes in rock texture after treatment.
+
+- [[2022-salih|Salih, 2022]] used SEM to examine pore types and mineral textures in the Khuff, Rus, and Dam formations.
+
+- [[2022-bashri|Bashri, 2022]] used SEM to analyze mudstone chips for clay mineral identification.
+
+- [[2023-nasir|Nasir, 2023]] used SEM to identify foraminiferal species and assess morphological deformities.
+
+- [[2023-prayudi|Prayudi, 2023]] used SEM to characterize the morphological features and identify species of Cyprideis sp. in the western Arabian Gulf.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] used SEM to characterize the morphology of new agglutinated foraminiferal species.
+
+- [[2024-alabbad|Alabbad, 2024]] used SEM images for mineralogical characterization.
+
+- [[2024-alhilali|Alhilali, 2024]] used SEM to identify and characterize agglutinated benthic foraminifera in Turonian-Santonian sediments.
+
+- [[2024-allam|Allam, 2024]] applied SEM to characterize microfacies and mineralogy in the carbonate rocks.
+
+- [[2024-hassan|Hassan, 2024]] used SEM to investigate micro-features like crystal size and microporosity in tight carbonate rocks.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used SEM to analyze the mineral chemistry and texture of the NW Midyan rocks.
+
+- [[2025-ferreira|Ferreira, 2025]] used sem for high-resolution imaging of minerals (implied by petrography context).
+
+- [[2026-fatima|Fatima, 2026]] used SEM to examine the morphology of clogging materials.
+
+- [[1992-abdulghani|Abdulghani, 1992]] used SEM to examine microfacies and mineral textures in 193 thin sections from the Arab-D member.
+
+- [[1999-babalola|Babalola, 1999]] used SEM for detailed mineralogical characterization and observation of sedimentary structures.
+
+- [[2002-elhassan|ElHassan, 2002]] used SEM to analyze the textural elements of the Khafji reservoir.
+
+- [[1985-ghaled|Ghaled, 1985]] used SEM to observe the cryptocrystalline nature of magnesite samples.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used SEM to characterize the morphology of anhydrite laths and aragonitic crystal faces.
 
 ## Typical Workflow
 
@@ -303,6 +428,56 @@ last_updated: 2026-06-09
 - Characterization results confirmed that graphene was successfully functionalized for both adsorbents. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
 
 - Provided high-resolution images showing the shape and size distribution of particles in Jubail and Ras Tanura. ([[2019-alotaibi|Alotaibi, 2019, p. 132]])
+
+- SEM photomicrographs showed that micrite microtexture influences reservoir quality in terms of porosity, permeability, PTSD, and resistivity. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+
+- SEM for Tuwaiq Mountain Formation showed micrite; Dhurma SEM showed iron oxide between pores. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 75]])
+
+- Used to confirm the structural integrity of the PG material. ([[2021-alnasser|AlNasser, 2021, p. 18]])
+
+- Used to characterize biochar produced at 500°C and 800°C. ([[2021-siddiq|Siddiq, 2021, p. 12]])
+
+- SEM analysis showed that ooids have a radial internal fabric. ([[2021-alabyadh|Alabyadh, 2021, p. 99]])
+
+- Used for the documentation and illustration of key species from the lower Dhruma. ([[2022-khamsin|Khamsin, 2022, p. 35]])
+
+- Identified aragonitic acicular cements on oolitic grains and rhombohedral dolomite crystals in dolomitic lithofacies. ([[2022-khan|Khan, 2022, p. 127]])
+
+- Used to visualize the mineralogical transformations of carbonate samples. ([[2022-samarkin|Samarkin, 2022, p. 12]])
+
+- Identified micro-intercrystalline pores (<10 µm) and specific clay mineral precipitates that reduce permeability. ([[2022-salih|Salih, 2022, p. 137]])
+
+- SEM analysis showed platy detrital and elongated lath-shaped authigenic illite in lithofacies F1. ([[2022-bashri|Bashri, 2022, p. 56]])
+
+- Used to distinguish between salt-tolerant species like Quinqueloculina and Ammonia in hypersaline conditions. ([[2023-nasir|Nasir, 2023, p. 14]])
+
+- SEM images confirmed the identification of Cyprideis sp. based on valve morphology and sense organs. ([[2023-prayudi|Prayudi, 2023, p. 53]])
+
+- Used to produce detailed images of Arenoturrispirillina waskowskae and Ammopemphix contessaensis. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 43]])
+
+- Not stated in source ([[2024-alabbad|Alabbad, 2024]])
+
+- Used to identify 59 foraminiferal taxa, including several new species. ([[2024-alhilali|Alhilali, 2024, p. 13]])
+
+- Used to identify petrophysical features like moldic, interparticle, and dissolution porosity. ([[2024-allam|Allam, 2024, p. 35]])
+
+- 72 gold-coated chip samples were analyzed using a JEOL JSM/7900F machine. ([[2024-hassan|Hassan, 2024, p. 51]])
+
+- Revealed detailed petrographic features in A-type biotite monzogranites and I-type granodiorites. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 30]])
+
+- Not stated in source ([[2025-ferreira|Ferreira, 2025]])
+
+- Not stated in source ([[2026-fatima|Fatima, 2026]])
+
+- SEM photomicrographs revealed microvuggy porosity in calcite matrix (Sample 84/587) and intercrystal pores in crystalline dolomite (Sample 80/628). ([[1992-abdulghani|Abdulghani, 1992, p. 14]])
+
+- Provided high-resolution images of minerals and textures in the Wajid Sandstone. ([[1999-babalola|Babalola, 1999, p. 18]])
+
+- Not stated in source ([[2002-elhassan|ElHassan, 2002]])
+
+- SEM photomicrographs showed the cryptocrystalline nature of pure magnesite. ([[1985-ghaled|Ghaled, 1985, p. 16]])
+
+- Anhydrite was observed as fine crystal laths, approximately 10-20 $\mu$m in size. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 58]])
 
 ## Methodological Variations Across Sources
 

@@ -13,6 +13,7 @@ tags:
   - theme/mechanical-stratigraphy
 sources:
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -27,9 +28,13 @@ last_updated: 2026-06-09
 
 - [[2017-benaafi|Benaafi, 2017]] analyzed the mechanical-stratigraphy to understand the distribution of fractures in different units.
 
+- [[2021-albensaad|Albensaad, 2021]] developed high-resolution mechanical stratigraphy for the carbonate mudrocks.
+
 ## Scientific Context
 
 - [[2017-benaafi|Benaafi, 2017]] Helps in understanding the distribution and intensity of fractures in different lithological units.
+
+- [[2021-albensaad|Albensaad, 2021]] developed high-resolution mechanical stratigraphy for the carbonate mudrocks.
 
 ## Measurement and Characterization Methods
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-09
 ## Key Findings Across Sources
 
 - The highest values of Young's Modulus (E) were observed in Juayl Formation (48.28 GPa). ([[2017-benaafi|Benaafi, 2017, p. 100]])
+
+- High-resolution mechanical profiles were constructed using both core and log data to identify mechanical zones. ([[2021-albensaad|Albensaad, 2021, p. 76]])
 
 ## Contrasting Values and Interpretations
 

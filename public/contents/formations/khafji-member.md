@@ -13,8 +13,9 @@ tags:
   - theme/reservoir-characterization
 sources:
   - "raw/138942 - Identification of Discontinuous Oil Bearing Sandstone Bodies by Direct Modeling .pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 # Khafji Member
@@ -27,9 +28,13 @@ last_updated: 2026-06-08
 
 - [[2013-atig|atig, 2013]] analyzed the Khafji member to identify sand body geometry.
 
+- [[2002-elhassan|ElHassan, 2002]] studied the Khafji member in the Zuluf field.
+
 ## Depositional Environment
 
 - [[2013-atig|atig, 2013]] Deltaic system
+
+- [[2002-elhassan|ElHassan, 2002]] studied the Khafji member in the Zuluf field.
 
 ## Reservoir Properties
 
@@ -38,6 +43,8 @@ last_updated: 2026-06-08
 ## Key Findings Across Sources
 
 - Not stated in source ([[2013-atig|atig, 2013]])
+
+- The (LST) has the highest Young's modulus and Poisson's ratio relative to the (TST). ([[2002-elhassan|ElHassan, 2002, p. 19]])
 
 ## Conflicting Interpretations Across Sources
 

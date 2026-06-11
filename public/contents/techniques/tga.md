@@ -15,8 +15,10 @@ sources:
   - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
   - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Tga
@@ -35,6 +37,10 @@ last_updated: 2026-06-09
 
 - [[2018-adeyemi|Adeyemi, 2018]] used TGA to evaluate the thermal stability of the synthesized adsorbents.
 
+- [[2021-alnasser|AlNasser, 2021]] used TGA to evaluate the thermal stability of polyethylenimine modified graphene (PG).
+
+- [[2024-abdallah|Abdallah, 2024]] used TGA to evaluate the thermal degradation of guar-based polymers.
+
 ## Instruments and Software
 
 
@@ -44,6 +50,10 @@ last_updated: 2026-06-09
 - [[2017-olabemiwo|Olabemiwo, 2017]] used TGA to analyze the thermal stability and composition of the adsorbents.
 
 - [[2018-adeyemi|Adeyemi, 2018]] used TGA to evaluate the thermal stability of the synthesized adsorbents.
+
+- [[2021-alnasser|AlNasser, 2021]] used TGA to evaluate the thermal stability of polyethylenimine modified graphene (PG).
+
+- [[2024-abdallah|Abdallah, 2024]] used TGA to evaluate the thermal degradation of guar-based polymers.
 
 ## Typical Workflow
 
@@ -58,6 +68,10 @@ last_updated: 2026-06-09
 - TGA was used to determine the weight loss and thermal properties of RFA, AFA, and PEFA. ([[2017-olabemiwo|Olabemiwo, 2017, p. 54]])
 
 - Adsorbent 2Z-700-90 showed a premium thermal ability of 50%. ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
+
+- The PG material showed excellent thermal stability up to more than 200 °C. ([[2021-alnasser|AlNasser, 2021, p. 49]])
+
+- Used to assess the impact of heat on polymer integrity. ([[2024-abdallah|Abdallah, 2024, p. 17]])
 
 ## Methodological Variations Across Sources
 

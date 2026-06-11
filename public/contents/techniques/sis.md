@@ -13,8 +13,9 @@ tags:
 sources:
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Sis
@@ -29,11 +30,15 @@ last_updated: 2026-06-09
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied sis to generate a 3D model of facies distribution in the Sufyan field.
 
+- [[2022-bashri|Bashri, 2022]] used SIS modeling algorithm to simulate lithofacies from well log data.
+
 ## Instruments and Software
 
 
 
 - [[2017-abdelgader|Abdelgader, 2017]] applied sis to generate a 3D model of facies distribution in the Sufyan field.
+
+- [[2022-bashri|Bashri, 2022]] used SIS modeling algorithm to simulate lithofacies from well log data.
 
 ## Typical Workflow
 
@@ -44,6 +49,8 @@ last_updated: 2026-06-09
 - The SIS-generated model showed a layer cake appearance in low resolution, highlighting challenges with thin layers during data upscaling. ([[2017-yousif|Yousif, 2017, p. 20]])
 
 - SIS was used to populate the 3D grid with facies associations across four distinct zones. ([[2017-abdelgader|Abdelgader, 2017, p. 209]])
+
+- The similarity between the true and simulated values for lithofacies was noted in the comparison of histograms. ([[2022-bashri|Bashri, 2022, p. 17]])
 
 ## Methodological Variations Across Sources
 

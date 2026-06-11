@@ -33,7 +33,7 @@ keywords:
   - Signal to noise ratio (S/N)
   - Gap deconvolution
 techniques:
-  - finite-difference-modeling
+  - finite-difference
   - spectral-analysis
   - signal-processing
   - seismic-interpretation
@@ -53,7 +53,7 @@ tags:
   - degree/ms
   - location/rub-al-khali-basin
   - location/saudi-arabia
-  - technique/finite-difference-modeling
+  - technique/finite-difference
   - technique/spectral-analysis
   - technique/signal-processing
   - technique/seismic-interpretation
@@ -138,7 +138,7 @@ The study suggests that while amplification correction improves S/N and consiste
 
 ## Related Concepts
 
-- [[finite-difference-modeling]]
+- [[finite-difference]]
 - [[avo-analysis]]
 - [[spectral-analysis]]
 - [[amplification]]
@@ -147,7 +147,6 @@ The study suggests that while amplification correction improves S/N and consiste
 - [[geophysics-general]]
 - [[seismic-acquisition]]
 - [[seismic-processing]]
-- [[finite-difference-method]]
 - [[spectral-ratio]]
 - [[impedance-contrast]]
 - [[resonance-effects]]

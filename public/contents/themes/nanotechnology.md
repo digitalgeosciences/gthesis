@@ -14,6 +14,7 @@ sources:
   - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
   - "raw/140020 - REMOVAL OF MERCURY (II) FROM WATER USING BIOSYNTHESIZED SILVER AND IRON NANOPART.pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
 status: active
 last_updated: 2026-06-09
 ---
@@ -36,6 +37,8 @@ last_updated: 2026-06-09
 
 - [[2019-salawudeen|Salawudeen, 2019]] utilized graphene-based nanomaterials (GPDADMAC and GPHM) for water purification.
 
+- [[2021-alnasser|AlNasser, 2021]] applied nanotechnology by developing graphene-based materials for water treatment.
+
 ## Key Subtopics
 
 - [[2009-al-khaldi|Al-Khaldi, 2009]] carbon nanotubes (CNTs), multi-walled carbon nanotubes (MWCNTs)
@@ -47,6 +50,8 @@ last_updated: 2026-06-09
 - [[2016-salawu|Salawu, 2016]] applied nanotechnology to develop silver and iron-based nanoparticles for environmental remediation.
 
 - [[2019-salawudeen|Salawudeen, 2019]] utilized graphene-based nanomaterials (GPDADMAC and GPHM) for water purification.
+
+- [[2021-alnasser|AlNasser, 2021]] applied nanotechnology by developing graphene-based materials for water treatment.
 
 ## Methods and Approaches Used
 
@@ -63,6 +68,8 @@ last_updated: 2026-06-09
 - Biosynthesized nanoparticles provided a versatile platform for both sensing and adsorption. ([[2016-salawu|Salawu, 2016, p. 64]])
 
 - Characterization results showed that graphene was successfully functionalized for both adsorbents. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
+
+- Graphene-based structures provided high surface area and stability. ([[2021-alnasser|AlNasser, 2021, p. 18]])
 
 ## Competing Approaches and Debates
 

@@ -20,8 +20,11 @@ sources:
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
   - "raw/140020 - REMOVAL OF MERCURY (II) FROM WATER USING BIOSYNTHESIZED SILVER AND IRON NANOPART.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Heavy Metals
@@ -50,6 +53,12 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] assessed heavy metal contamination in the mangrove ecosystem.
 
+- [[2022-al-harbi|Al-Harbi, 2022]] assessed the impact of dumpsites on surrounding soil quality by measuring heavy metal concentration.
+
+- [[2023-nasir|Nasir, 2023]] analyzed heavy metals using EF, SPI, and PLI indices to identify metal enrichment levels.
+
+- [[2024-alenazi|Alenazi, 2024]] evaluated the concentration and risk of heavy metals (HMs) in building dust.
+
 ## Scientific Context
 
 - [[2011-alsadeq|Alsadeq, 2011]] Heavy metals are key indicators of industrial or agricultural contamination.
@@ -69,6 +78,12 @@ last_updated: 2026-06-09
 - [[2016-salawu|Salawu, 2016]] addressed the removal of heavy metals like Hg2+ from water systems.
 
 - [[2019-alamran|AlAmran, 2019]] assessed heavy metal contamination in the mangrove ecosystem.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] assessed the impact of dumpsites on surrounding soil quality by measuring heavy metal concentration.
+
+- [[2023-nasir|Nasir, 2023]] analyzed heavy metals using EF, SPI, and PLI indices to identify metal enrichment levels.
+
+- [[2024-alenazi|Alenazi, 2024]] evaluated the concentration and risk of heavy metals (HMs) in building dust.
 
 ## Measurement and Characterization Methods
 
@@ -93,6 +108,12 @@ last_updated: 2026-06-09
 - Mercury (II) was identified as a critical contaminant requiring specific detection and removal techniques. ([[2016-salawu|Salawu, 2016, p. 24]])
 
 - Maximum concentration of Cu was 102.5 mg/kg in bark tissue. ([[2019-alamran|AlAmran, 2019, p. 15]])
+
+- Previous studies in Saudi Arabia showed significant contamination of metals like Cr, Mn, and Zn in areas near industrial zones. ([[2022-al-harbi|Al-Harbi, 2022, p. 26]])
+
+- The Uqair area was found to have minimal enrichment compared to the more industrially impacted Eco Park site. ([[2023-nasir|Nasir, 2023, p. 59]])
+
+- Dammam and Khobar showed higher amounts of HMs than Jeddah and Jubail. ([[2024-alenazi|Alenazi, 2024, p. 19]])
 
 ## Contrasting Values and Interpretations
 

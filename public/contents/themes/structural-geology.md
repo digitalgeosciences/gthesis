@@ -12,8 +12,10 @@ sources:
   - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
   - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
+  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Structural Geology
@@ -30,6 +32,10 @@ last_updated: 2026-06-09
 
 - [[2018-hanif|Hanif, 2018]] applied structural-geology to map fault trends in the Dammam Dome.
 
+- [[2023-rafiq|Rafiq, 2023]] applied structural geology to characterize the geothermal system.
+
+- [[2023-arrofi|Arrofi, 2023]] used structural lineament analysis to identify potential geothermal reservoirs.
+
 ## Key Subtopics
 
 - [[2017-benaafi|Benaafi, 2017]] ['fault analysis', 'fracture characterization']
@@ -37,6 +43,10 @@ last_updated: 2026-06-09
 - [[2017-abdelgader|Abdelgader, 2017]] analyzed the structural evolution of the Sufyan Sub-basin.
 
 - [[2018-hanif|Hanif, 2018]] applied structural-geology to map fault trends in the Dammam Dome.
+
+- [[2023-rafiq|Rafiq, 2023]] applied structural geology to characterize the geothermal system.
+
+- [[2023-arrofi|Arrofi, 2023]] used structural lineament analysis to identify potential geothermal reservoirs.
 
 ## Methods and Approaches Used
 
@@ -49,6 +59,10 @@ last_updated: 2026-06-09
 - Identified transtensional movement and oblique extension as primary mechanisms. ([[2017-abdelgader|Abdelgader, 2017, p. 60]])
 
 - Identified three primary fault orientations: N 12.7° E, N 39° W, and N 48° W. ([[2018-hanif|Hanif, 2018, p. 97]])
+
+- Identified a complex network of faults and fractures controlling water and heat flow. ([[2023-rafiq|Rafiq, 2023, p. 16]])
+
+- Lineaments are used to determine the orientation and intensity of deformation in the subsurface. ([[2023-arrofi|Arrofi, 2023, p. 21]])
 
 ## Competing Approaches and Debates
 

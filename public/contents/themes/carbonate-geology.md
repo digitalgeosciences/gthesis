@@ -28,8 +28,31 @@ sources:
   - "raw/140444 - MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAU.pdf"
   - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142417 - WORMHOLE SUSTAINABILITY UNDER HIGH STRESSES IN CARBONATE ROCKS.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
+  - "raw/143279 - CO2-Carbonate Mudrock Interactions Investigating The Influence of Organic Richne.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Carbonate Geology
@@ -78,6 +101,52 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] focused on the carbonate geology of the Dhruma Formation to understand its reservoir characteristics.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] applied carbonate-geology principles to characterize the Dhruma Formation.
+
+- [[2020-usman|Usman, 2020]] studied the carbonate mudrock source interval in the Jurassic period.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] focused on the carbonate geology of Jurassic formations in Central Saudi Arabia.
+
+- [[2021-albensaad|Albensaad, 2021]] investigated the geomechanics of carbonate mudrocks.
+
+- [[2021-alabyadh|Alabyadh, 2021]] focused on carbonate-geology to understand the Monte Sacro Sequence.
+
+- [[2022-khamsin|Khamsin, 2022]] investigated the carbonate systems within the Dhruma Formation.
+
+- [[2022-syahputra|Syahputra, 2022]] focused on the carbonate geology of the Hanifa Formation to understand burrowed strata.
+
+- [[2022-samarkin|Samarkin, 2022]] focused on the behavior of carbonate samples (chalk, limestone, dolomite) under chemical treatment.
+
+- [[2022-stiawan|Stiawan, 2022]] investigated the carbonate geology of the Jubaila Formation.
+
+- [[2022-salih|Salih, 2022]] focused on the geological and petrophysical characteristics of carbonate formations.
+
+- [[2022-bashri|Bashri, 2022]] analyzed the carbonate geology of the Hanifa Formation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] focused on the carbonate geology of the Umm Lajj Basin to identify Miocene deposits.
+
+- [[2023-al-garni|Al-Garni, 2023]] focused on the behavior of wormholes in carbonate reservoirs.
+
+- [[2024-allam|Allam, 2024]] focused on the characterization of Valanginian carbonates.
+
+- [[2024-saraih|Saraih, 2024]] applied carbonate geology principles to interpret the impact of burrow systems on reservoir quality.
+
+- [[2024-hassan|Hassan, 2024]] focused on the carbonate-geology of the Khuff Formation.
+
+- [[2024-fahmi|Fahmi, 2024]] investigated the carbonate component within the mixed siliciclastic system of the Marrat Formation.
+
+- [[2024-muharrag|Muharrag, 2024]] investigated the carbonate strata of the Dam Formation.
+
+- [[2024-allehyani|allehyani, 2024]] focused on the carbonate geology of the Hanifa Formation.
+
+- [[2025-refaat|Refaat, 2025]] investigated the carbonate geology of the Hanifa Formation.
+
+- [[2025-alhubail|Alhubail, 2025]] studied the behavior of carbonate mudrocks during CO2 treatment.
+
+- [[1989-abdou|Abdou, 1989]] applied carbonate geology principles to interpret the Gudair Formation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied carbonate geology principles to characterize the Arab-D limestone member.
+
 ## Key Subtopics
 
 - [[2002-ibrahim|Ibrahim, 2002]] ['diagenesis', 'lithofacies analysis']
@@ -117,6 +186,52 @@ last_updated: 2026-06-09
 - [[2017-adam|Adam, 2017]] focused on carbonate-geology to characterize the Khuff Formation's reservoir properties.
 
 - [[2018-ismanto|Ismanto, 2018]] focused on the carbonate geology of the Dhruma Formation to understand its reservoir characteristics.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] applied carbonate-geology principles to characterize the Dhruma Formation.
+
+- [[2020-usman|Usman, 2020]] studied the carbonate mudrock source interval in the Jurassic period.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] focused on the carbonate geology of Jurassic formations in Central Saudi Arabia.
+
+- [[2021-albensaad|Albensaad, 2021]] investigated the geomechanics of carbonate mudrocks.
+
+- [[2021-alabyadh|Alabyadh, 2021]] focused on carbonate-geology to understand the Monte Sacro Sequence.
+
+- [[2022-khamsin|Khamsin, 2022]] investigated the carbonate systems within the Dhruma Formation.
+
+- [[2022-syahputra|Syahputra, 2022]] focused on the carbonate geology of the Hanifa Formation to understand burrowed strata.
+
+- [[2022-samarkin|Samarkin, 2022]] focused on the behavior of carbonate samples (chalk, limestone, dolomite) under chemical treatment.
+
+- [[2022-stiawan|Stiawan, 2022]] investigated the carbonate geology of the Jubaila Formation.
+
+- [[2022-salih|Salih, 2022]] focused on the geological and petrophysical characteristics of carbonate formations.
+
+- [[2022-bashri|Bashri, 2022]] analyzed the carbonate geology of the Hanifa Formation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] focused on the carbonate geology of the Umm Lajj Basin to identify Miocene deposits.
+
+- [[2023-al-garni|Al-Garni, 2023]] focused on the behavior of wormholes in carbonate reservoirs.
+
+- [[2024-allam|Allam, 2024]] focused on the characterization of Valanginian carbonates.
+
+- [[2024-saraih|Saraih, 2024]] applied carbonate geology principles to interpret the impact of burrow systems on reservoir quality.
+
+- [[2024-hassan|Hassan, 2024]] focused on the carbonate-geology of the Khuff Formation.
+
+- [[2024-fahmi|Fahmi, 2024]] investigated the carbonate component within the mixed siliciclastic system of the Marrat Formation.
+
+- [[2024-muharrag|Muharrag, 2024]] investigated the carbonate strata of the Dam Formation.
+
+- [[2024-allehyani|allehyani, 2024]] focused on the carbonate geology of the Hanifa Formation.
+
+- [[2025-refaat|Refaat, 2025]] investigated the carbonate geology of the Hanifa Formation.
+
+- [[2025-alhubail|Alhubail, 2025]] studied the behavior of carbonate mudrocks during CO2 treatment.
+
+- [[1989-abdou|Abdou, 1989]] applied carbonate geology principles to interpret the Gudair Formation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied carbonate geology principles to characterize the Arab-D limestone member.
 
 ## Methods and Approaches Used
 
@@ -161,6 +276,52 @@ last_updated: 2026-06-09
 - Identified 7 distinct environmental settings within the Upper Khartam Member. ([[2017-adam|Adam, 2017, p. 100]])
 
 - The Dhruma Formation is a prime example of an ancient carbonate ramp system. ([[2018-ismanto|Ismanto, 2018, p. 16]])
+
+- The Dhruma Formation is a Jurassic carbonate system with complex diagenetic history. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 18]])
+
+- The target formation consists of carbonate mudrocks of Upper Jurassic (Kimmeridgian) age. ([[2020-usman|Usman, 2020, p. 21]])
+
+- Identified various types of porosity including moldic, dissolution, and intercrystalline. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+
+- The study focused on Kimmeridgian (Late Jurassic) carbonate mudrocks. ([[2021-albensaad|Albensaad, 2021, p. 1]])
+
+- Characterized oolitic shoal deposits in a carbonate platform setting. ([[2021-alabyadh|Alabyadh, 2021, p. 88]])
+
+- The Dhruma Formation consists of mixed carbonates and siliciclastic beds in a shallow marine setting. ([[2022-khamsin|Khamsin, 2022, p. 180]])
+
+- The studied stratum was deposited in a middle carbonate ramp environment. ([[2022-syahputra|Syahputra, 2022, p. 13]])
+
+- Different carbonates showed varying responses to chemicals; dolomite was less reactive. ([[2022-samarkin|Samarkin, 2022, p. 13]])
+
+- Carbonate reservoirs are complex due to diagenetic overprints on depositional textures. ([[2022-stiawan|Stiawan, 2022, p. 4]])
+
+- Carbonates like the Khuff and Hanifa show complex interactions between mineralogy and pore geometry. ([[2022-salih|Salih, 2022, p. 21]])
+
+- The study confirmed a homoclinal carbonate ramp model for both the Hawtah and Ulayyah members. ([[2022-bashri|Bashri, 2022, p. 69]])
+
+- Identified extensive carbonate outcrops that were previously misidentified as Quaternary. ([[2022-al-sadah|Al-Sadah, 2022, p. 15]])
+
+- 60% of global oil and gas production comes from carbonate reservoirs. ([[2023-al-garni|Al-Garni, 2023, p. 16]])
+
+- Identified five microfacies representing a carbonate ramp setting. ([[2024-allam|Allam, 2024, p. 11]])
+
+- BIFM 1 and BIFM 3 are identified as super-permeable zones due to interconnected open burrows. ([[2024-saraih|Saraih, 2024, p. 68]])
+
+- The reservoir units are represented in the transgressive porous and tight limestones and dolomites of Khuff-A, -B, and -C. ([[2024-hassan|Hassan, 2024, p. 34]])
+
+- The carbonate factory in Marrat Formation was characterized as a Tropical factory (T-factory). ([[2024-fahmi|Fahmi, 2024, p. 58]])
+
+- Stromatolite morphology in these carbonates significantly influences petrophysical properties. ([[2024-muharrag|Muharrag, 2024, p. 17]])
+
+- Bioturbation significantly impacts the heterogeneity of carbonate reservoirs. ([[2024-allehyani|allehyani, 2024, p. 20]])
+
+- Burrow fillings in the Glossifungites ichnofacies significantly influence the rock's initial framework. ([[2025-refaat|Refaat, 2025, p. 75]])
+
+- Carbonate minerals showed specific reactivity to CO2 based on their mineralogical composition. ([[2025-alhubail|Alhubail, 2025, p. 31]])
+
+- Interpretation showed depositional conditions fluctuated between shallow platform and shelf environments. ([[1989-abdou|Abdou, 1989, p. 17]])
+
+- The succession represents a shallowing upward carbonate cycle from open lagoons to a shallow shelf lagoon. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
 
 ## Competing Approaches and Debates
 

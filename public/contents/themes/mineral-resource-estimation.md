@@ -11,8 +11,10 @@ sources:
   - "raw/10032 - Geostatistical evaluation of the Hazam al-Jalamid phosphorite deposit, Northwest.pdf"
   - "raw/10140 - Geostatistical modelling of Zarghat magnesite deposit Saudi Arabia.pdf"
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
+  - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 # Mineral Resource Estimation
@@ -29,6 +31,10 @@ last_updated: 2026-06-08
 
 - [[1996-matter|Matter, 1996]] performed mineral-resource-estimation for the phosphorite deposits.
 
+- [[1987-abdul-latif|Abdul-Latif, 1987]] focused on mineral-resource-estimation to determine the economic viability of the Abu Tartur deposit.
+
+- [[1985-ghaled|Ghaled, 1985]] used geostatistical analysis to evaluate the distribution of MgO and CaO.
+
 ## Key Subtopics
 
 - [[1996-jarad|Jarad, 1996]] kriging, conditional simulation, semivariogram analysis
@@ -36,6 +42,10 @@ last_updated: 2026-06-08
 - [[1991-makkawi|Makkawi, 1991]] applied mineral-resource-estimation to the Zarghat magnesite deposit.
 
 - [[1996-matter|Matter, 1996]] performed mineral-resource-estimation for the phosphorite deposits.
+
+- [[1987-abdul-latif|Abdul-Latif, 1987]] focused on mineral-resource-estimation to determine the economic viability of the Abu Tartur deposit.
+
+- [[1985-ghaled|Ghaled, 1985]] used geostatistical analysis to evaluate the distribution of MgO and CaO.
 
 ## Methods and Approaches Used
 
@@ -48,6 +58,10 @@ last_updated: 2026-06-08
 - The kriged estimates indicate the existence of 3.2 million tonnes of magnesite. ([[1991-makkawi|Makkawi, 1991, p. 19]])
 
 - Identified a total quantity of 140,000 million tons at 15.9% P2O5 in the region. ([[1996-matter|Matter, 1996, p. 28]])
+
+- The study determined that geostatistical methods provide a more robust basis for estimation than classical methods. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 50]])
+
+- Reserve estimates indicate 3 million tons of ore, with 650,000 tons of high quality. ([[1985-ghaled|Ghaled, 1985, p. 27]])
 
 ## Competing Approaches and Debates
 

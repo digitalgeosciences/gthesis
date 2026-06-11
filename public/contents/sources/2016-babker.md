@@ -54,7 +54,7 @@ techniques:
   - uniaxial-compressive-strength
   - velocity-measurement
   - core-analysis
-  - lithofacies-analysis
+  - lithofacies
 tags:
   - degree/ms
   - formation/sarah-formation

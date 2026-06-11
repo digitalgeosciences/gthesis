@@ -43,8 +43,39 @@ sources:
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
   - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142387 - Preservation of Rock Samples Geochemical Investigation and Implication on Source.pdf"
+  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
+  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Diagenesis
@@ -123,6 +154,68 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] evaluated diagenetic processes like dolomitization and cementation to assess their impact on reservoir properties.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] analyzed diagenesis to determine its impact on reservoir quality.
+
+- [[2020-islam|Islam, 2020]] evaluated the diagenetic controls on reservoir quality.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] Not stated in source
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] investigated diagenetic processes in the Tuwaiq Mountain Formation.
+
+- [[2021-ahmed|Ahmed, 2021]] investigated the diagenetic evolution of the Marrat Formation including dissolution and cementation.
+
+- [[2021-alqarni|Alqarni, 2021]] evaluated diagenesis including cementation and compaction to assess reservoir quality.
+
+- [[2021-alabyadh|Alabyadh, 2021]] investigated diagenesis to determine the history of carbonate formation.
+
+- [[2022-khan|Khan, 2022]] analyzed the diagenesis of the studied core samples.
+
+- [[2022-samarkin|Samarkin, 2022]] investigated via mineralogical analysis to see how chemicals altered the carbonate matrix.
+
+- [[2022-stiawan|Stiawan, 2022]] analyzed the impact of diagenetic processes on carbonate porosity.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] identified diagenetic and non-diagenetic microfacies.
+
+- [[2022-salih|Salih, 2022]] investigated the impact of diagenesis on pore types and sonic velocity.
+
+- [[2022-bashri|Bashri, 2022]] investigated diagenetic features like encrustation and cementation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] investigated the diagenetic features of the carbonate rocks.
+
+- [[2022-babker|Babker, 2022]] investigated diagenetic overprints on the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] analyzed diagenesis to determine its impact on reservoir quality.
+
+- [[2023-al-eid|Al-Eid, 2023]] Not used in this study.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Not stated in source
+
+- [[2024-alabbad|Alabbad, 2024]] identified diagenesis as the primary driver for the observed universality of rock property trends.
+
+- [[2024-allam|Allam, 2024]] investigated the role of diagenetic processes on reservoir quality.
+
+- [[2024-alsadah|Alsadah, 2024]] considered the impact of diagenesis on foraminiferal shell chemistry.
+
+- [[2024-hassan|Hassan, 2024]] considered diagenesis as a factor influencing mineralogy and porosity.
+
+- [[2024-malik|Malik, 2024]] identified diagenetic processes such as chertification and dolomitization.
+
+- [[2024-fahmi|Fahmi, 2024]] Not stated in source
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] N/A
+
+- [[2024-muharrag|Muharrag, 2024]] investigated diagenesis to understand the difference in petrophysical properties below the sequence boundary.
+
+- [[2025-refaat|Refaat, 2025]] evaluated the diagenetic modifications within burrow fillings.
+
+- [[1989-abdou|Abdou, 1989]] identified diagenetic features to support environmental interpretation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] analyzed diagenesis to determine its impact on reservoir porosity.
+
+- [[1999-babalola|Babalola, 1999]] investigated the diagenetic history of the Wajid Sandstone.
+
+- [[1985-ghaled|Ghaled, 1985]] identified post-depositional diagenetic changes in the carbonate rocks.
+
 ## Scientific Context
 
 - [[1996-jarad|Jarad, 1996]] Impacts the physical and chemical properties of minerals.
@@ -192,6 +285,68 @@ last_updated: 2026-06-09
 - [[2018-butt|Butt, 2018]] analyzed diagenesis to determine the impact on reservoir quality.
 
 - [[2018-ismanto|Ismanto, 2018]] evaluated diagenetic processes like dolomitization and cementation to assess their impact on reservoir properties.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] analyzed diagenesis to determine its impact on reservoir quality.
+
+- [[2020-islam|Islam, 2020]] evaluated the diagenetic controls on reservoir quality.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] Not stated in source
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] investigated diagenetic processes in the Tuwaiq Mountain Formation.
+
+- [[2021-ahmed|Ahmed, 2021]] investigated the diagenetic evolution of the Marrat Formation including dissolution and cementation.
+
+- [[2021-alqarni|Alqarni, 2021]] evaluated diagenesis including cementation and compaction to assess reservoir quality.
+
+- [[2021-alabyadh|Alabyadh, 2021]] investigated diagenesis to determine the history of carbonate formation.
+
+- [[2022-khan|Khan, 2022]] analyzed the diagenesis of the studied core samples.
+
+- [[2022-samarkin|Samarkin, 2022]] investigated via mineralogical analysis to see how chemicals altered the carbonate matrix.
+
+- [[2022-stiawan|Stiawan, 2022]] analyzed the impact of diagenetic processes on carbonate porosity.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] identified diagenetic and non-diagenetic microfacies.
+
+- [[2022-salih|Salih, 2022]] investigated the impact of diagenesis on pore types and sonic velocity.
+
+- [[2022-bashri|Bashri, 2022]] investigated diagenetic features like encrustation and cementation.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] investigated the diagenetic features of the carbonate rocks.
+
+- [[2022-babker|Babker, 2022]] investigated diagenetic overprints on the Upper Khartam Member.
+
+- [[2023-butt|Butt, 2023]] analyzed diagenesis to determine its impact on reservoir quality.
+
+- [[2023-al-eid|Al-Eid, 2023]] Not used in this study.
+
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Not stated in source
+
+- [[2024-alabbad|Alabbad, 2024]] identified diagenesis as the primary driver for the observed universality of rock property trends.
+
+- [[2024-allam|Allam, 2024]] investigated the role of diagenetic processes on reservoir quality.
+
+- [[2024-alsadah|Alsadah, 2024]] considered the impact of diagenesis on foraminiferal shell chemistry.
+
+- [[2024-hassan|Hassan, 2024]] considered diagenesis as a factor influencing mineralogy and porosity.
+
+- [[2024-malik|Malik, 2024]] identified diagenetic processes such as chertification and dolomitization.
+
+- [[2024-fahmi|Fahmi, 2024]] Not stated in source
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] N/A
+
+- [[2024-muharrag|Muharrag, 2024]] investigated diagenesis to understand the difference in petrophysical properties below the sequence boundary.
+
+- [[2025-refaat|Refaat, 2025]] evaluated the diagenetic modifications within burrow fillings.
+
+- [[1989-abdou|Abdou, 1989]] identified diagenetic features to support environmental interpretation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] analyzed diagenesis to determine its impact on reservoir porosity.
+
+- [[1999-babalola|Babalola, 1999]] investigated the diagenetic history of the Wajid Sandstone.
+
+- [[1985-ghaled|Ghaled, 1985]] identified post-depositional diagenetic changes in the carbonate rocks.
 
 ## Measurement and Characterization Methods
 
@@ -266,6 +421,68 @@ last_updated: 2026-06-09
 - Major diagenetic processes included mechanical compaction, carbonate cementation, and pyrite/hematite cementation. ([[2018-butt|Butt, 2018, p. 140]])
 
 - Dedolomitization in burrowed wackestone led to higher porosity and permeability. ([[2018-ismanto|Ismanto, 2018, p. 17]])
+
+- Identified several key processes including micritization and dissolution that significantly altered porosity. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 109]])
+
+- Key diagenetic processes included compaction, dissolution, cementation, and grain coating. ([[2020-islam|Islam, 2020, p. 120]])
+
+- Not stated in source ([[2020-gbiyanju|Gbiyanju, 2020]])
+
+- Main types included cementation, recrystallization, silicification, and dolomitization. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 38]])
+
+- Iron oxide cementation was a major diagenetic process that filled moldic pores and microfractures. ([[2021-ahmed|Ahmed, 2021, p. 63]])
+
+- Identified carbonate and silica cements as primary factors for pore-space reduction. ([[2021-alqarni|Alqarni, 2021, p. 83]])
+
+- Identified key stages including microbial micritization, dolomitization, and dedolomitization. ([[2021-alabyadh|Alabyadh, 2021, p. 102]])
+
+- Identified significant dolomitization and cementation processes affecting porosity and permeability. ([[2022-khan|Khan, 2022, p. 117]])
+
+- NaF treatment led to the formation of fluorite (CaF2). ([[2022-samarkin|Samarkin, 2022, p. 12]])
+
+- Diagenetic features included micritization, dissolution, dolomitization (FP/NFP), burial/compaction, fracturing, and dedolomitization. ([[2022-stiawan|Stiawan, 2022, p. 43]])
+
+- Identified interparticle pores formed by various minerals like kaolinite and illite during burial. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 39]])
+
+- Cementation of oomolds by calcite significantly reduced pore aspect ratio while only slightly increasing velocity. ([[2022-salih|Salih, 2022, p. 60]])
+
+- Encrustation by oysters and microbial crusts was observed on coral heads in F7. ([[2022-bashri|Bashri, 2022, p. 61]])
+
+- Not stated in source ([[2022-al-sadah|Al-Sadah, 2022]])
+
+- This similarity enables the study of the lateral variability of the facies and their diagenetic overprints. ([[2022-babker|Babker, 2022, p. 86]])
+
+- Diagenetic characterization showed that reservoir quality is mainly controlled by depositional characteristics, with diagenesis playing a secondary role. ([[2023-butt|Butt, 2023, p. 30]])
+
+- Not stated in source ([[2023-al-eid|Al-Eid, 2023]])
+
+- Not stated in source ([[2024-hikmahtiar|Hikmahtiar, 2024]])
+
+- Diagenetic processes were found to be a universal trend across different geographic locations. ([[2024-alabbad|Alabbad, 2024, p. 56]])
+
+- Early-stage burial diagenesis was indicated by a shift toward more negative δ18O values. ([[2024-allam|Allam, 2024, p. 11]])
+
+- Diagenesis is identified as a key factor that can alter the chemical composition of foram shells, impacting proxy reliability. ([[2024-alsadah|Alsadah, 2024, p. 67]])
+
+- Different diagenetic processes produce different chemistry, mineralogy, and thus porosity. ([[2024-hassan|Hassan, 2024, p. 18]])
+
+- Chertification was determined to be of diagenetic origin in F5. ([[2024-malik|Malik, 2024, p. 49]])
+
+- Not stated in source ([[2024-fahmi|Fahmi, 2024]])
+
+- N/A ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024]])
+
+- Stromatolites below the SB were modified by diagenetic processes, leading to more uniform pore systems. ([[2024-muharrag|Muharrag, 2024, p. 32]])
+
+- Diagenetic processes such as dissolution of dolomite rhombs and cementation significantly impacted porosity levels. ([[2025-refaat|Refaat, 2025, p. 34]])
+
+- Common features included recrystallization, iron staining, and silicification. ([[1989-abdou|Abdou, 1989, p. 30]])
+
+- Cementation and micritization were pore-reducing, while dissolution and dolomitization were pore-enlarging. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+
+- Identified compaction, cementation (calcite), and dissolution as primary diagenetic processes. ([[1999-babalola|Babalola, 1999, p. 52]])
+
+- Evidence suggests magnesite was deposited followed by some post-depositional (diagenetic) changes. ([[1985-ghaled|Ghaled, 1985, p. 23]])
 
 ## Contrasting Values and Interpretations
 

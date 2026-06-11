@@ -55,8 +55,56 @@ sources:
   - "raw/140727 - Paleoecology and Paleoenvironmental Reconstruction of the Lower Silurian Qusaiba.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/142387 - Preservation of Rock Samples Geochemical Investigation and Implication on Source.pdf"
+  - "raw/142417 - WORMHOLE SUSTAINABILITY UNDER HIGH STRESSES IN CARBONATE ROCKS.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
+  - "raw/142443 - IMPACT OF SALINITY AND TEMPERATURE ON WORMHOLE GENERATION AND MECHANICAL PROPERT.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142750 - TURONIAN TO SANTONIAN AGGLUTINATED BENTHIC FORAMINIFERA FROM A MARGINAL MARINE H.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142793 - Evaluation of New Flowback Formulation for Hydraulically Fractured Tight Gas Wel.pdf"
+  - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
+  - "raw/142980 - PETROGENESIS OF NORTHERN MIDYAN TERRANE GRANITOIDS, ARABIAN SHIELD CONSTRAINTS F.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143279 - CO2-Carbonate Mudrock Interactions Investigating The Influence of Organic Richne.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
+  - "raw/143349 - UTILIZING SAUDI BASALT FOR CARBON MINERALIZATION IMPLICATIONS OF REDUCING CO2 EM.pdf"
+  - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
+  - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
+  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
+  - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # X-Ray Diffraction
@@ -153,6 +201,102 @@ last_updated: 2026-06-09
 
 - [[2019-alotaibi|Alotaibi, 2019]] used XRD to characterize mineralogy of PM10 samples from Jubail and Ras Tanura.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used XRD to determine the presence of minerals like dolomite in the D5 and D6 units.
+
+- [[2020-islam|Islam, 2020]] used XRD to determine the mineralogical composition of the Sarah Formation samples.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] used MicroXRF to identify lithofacies and establish a rock strength proxy based on elements Co, Sr, Ti, and Zr.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] used XRD to characterize the mineralogy of the Jubaila, Hanifa, Tuwaiq, Dhurma, and Marrat formations.
+
+- [[2021-alnasser|AlNasser, 2021]] used XRD to analyze the crystallinity of the synthesized graphene materials.
+
+- [[2021-ahmed|Ahmed, 2021]] used XRD to determine the mineralogy of 27 powder samples from the Marrat Formation.
+
+- [[2021-albensaad|Albensaad, 2021]] used XRD analysis to determine mineralogy, specifically identifying calcite as the dominant mineral.
+
+- [[2021-alqarni|Alqarni, 2021]] applied XRD to determine the semi-quantitative mineral content of core samples.
+
+- [[2021-siddiq|Siddiq, 2021]] used XRD to characterize biochar produced at 500°C and 800°C.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used XRD to quantify calcite and other minerals in carbonate rocks.
+
+- [[2022-khan|Khan, 2022]] used XRD to determine the mineral composition percentages of core samples from the King Fahd Causeway.
+
+- [[2022-septriandi|Septriandi, 2022]] used XRD to determine the mineralogical composition of identified lithofacies in the Jubaila Formation.
+
+- [[2022-samarkin|Samarkin, 2022]] used XRD to investigate changes in rock texture and mineralogy after chemical treatment.
+
+- [[2022-stiawan|Stiawan, 2022]] used XRD to determine the mineral composition of carbonate samples.
+
+- [[2022-radwan|Radwan, 2022]] used XRD to calculate Quartz Crystallinity Index (QCI) and monitor mineral changes after heating.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] used XRD to determine the lithofacies composition of 30 samples.
+
+- [[2022-salih|Salih, 2022]] used XRD to characterize the mineralogy of samples from the Khuff, Hanifa, and Jubaila formations.
+
+- [[2022-bashri|Bashri, 2022]] used XRD to determine the mineral composition of mudstone samples from the Hanifa Formation.
+
+- [[2022-argadestya|Argadestya, 2022]] used XRD to quantify the mineralogical composition of Merapi volcaniclastics.
+
+- [[2022-babker|Babker, 2022]] used XRD to characterize the mineralogy of the Upper Khartam Member lithofacies.
+
+- [[2023-butt|Butt, 2023]] used XRD to characterize the mineralogical composition of Al Wajh sandstones.
+
+- [[2023-iskandar|Iskandar, 2023]] used XRD to constrain modal mineralogy results from point counting.
+
+- [[2023-al-eid|Al-Eid, 2023]] used XRD to determine the mineralogical composition of Core 1 and Core 2.
+
+- [[2023-al-garni|Al-Garni, 2023]] used XRD to characterize the mineralogy of the core samples.
+
+- [[2023-rafiq|Rafiq, 2023]] used XRD to determine the mineralogy of rock and fracture samples.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] used xrd to characterize the mineralogy of limestone and dolomite samples.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used XRD to characterize the mineralogy of rock samples from the deformation zone.
+
+- [[2024-alabbad|Alabbad, 2024]] used XRD to characterize the mineralogy of carbonate and shale samples.
+
+- [[2024-alhilali|Alhilali, 2024]] used x-ray analysis to confirm chamber counts in species like Planohedbergella prairiehillensis even in cases of imperfect preservation.
+
+- [[2024-allam|Allam, 2024]] used XRD for mineralogical analysis of the carbonate samples.
+
+- [[2024-mohamed|Mohamed, 2024]] used XRD to characterize the mineralogy of Kentucky sandstone cores.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] used XRD to determine the mineralogy of sand samples from the dune.
+
+- [[2024-abdrabo|Abdrabo, 2024]] used XRD to determine the mineralogical makeup of the Qusaiba, Sharawra, and Tawil units.
+
+- [[2024-saraih|Saraih, 2024]] used XRD to characterize the mineralogy of the host rock matrix and burrow fillings in the Khanasir Member.
+
+- [[2024-hassan|Hassan, 2024]] used XRD to characterize mineralogy of the Khuff Formation.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used XRD to characterize the mineralogy of the NW Midyan granitoids.
+
+- [[2024-malik|Malik, 2024]] used XRD to characterize the mineralogy of the Dhaiqa Basin sediments.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] used XRD to characterize the mineralogy of the Al-Ghurayyah pluton.
+
+- [[2024-muharrag|Muharrag, 2024]] performed XRD analysis using PANalytical Empyrean device to quantify mineralogy.
+
+- [[2024-allehyani|allehyani, 2024]] used XRD to determine the mineral composition of samples from the Hanifa Formation.
+
+- [[2025-alhubail|Alhubail, 2025]] used XRD to characterize the mineralogy of carbonate mudrock samples before and after CO2 treatment.
+
+- [[2025-almousa|Almousa, 2025]] used XRD to characterize the mineralogical composition of the CAC.
+
+- [[2025-alghawi|Alghawi, 2025]] used XRD to characterize minerals and evaluate the impact of pressure, temperature, and pH on calcite precipitation.
+
+- [[2026-fatima|Fatima, 2026]] used XRD to characterize the mineralogy of aquifer materials U, L, and D.
+
+- [[1999-babalola|Babalola, 1999]] used XRD to determine clay mineralogy within the kaolinitic claystone.
+
+- [[2002-elhassan|ElHassan, 2002]] used XRD to determine clay mineralogy in Khafji reservoir samples.
+
+- [[1985-ghaled|Ghaled, 1985]] used XRD to identify mineral phases within cryptocrystalline magnesite samples.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used XRD to determine the mineral composition of 31 sediment samples.
+
 ## Instruments and Software
 
 
@@ -240,6 +384,102 @@ last_updated: 2026-06-09
 - [[2018-ismanto|Ismanto, 2018]] used XRD to determine the mineralogical composition of various microfacies in the Dhruma Formation.
 
 - [[2019-alotaibi|Alotaibi, 2019]] used XRD to characterize mineralogy of PM10 samples from Jubail and Ras Tanura.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used XRD to determine the presence of minerals like dolomite in the D5 and D6 units.
+
+- [[2020-islam|Islam, 2020]] used XRD to determine the mineralogical composition of the Sarah Formation samples.
+
+- [[2020-gbiyanju|Gbiyanju, 2020]] used MicroXRF to identify lithofacies and establish a rock strength proxy based on elements Co, Sr, Ti, and Zr.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] used XRD to characterize the mineralogy of the Jubaila, Hanifa, Tuwaiq, Dhurma, and Marrat formations.
+
+- [[2021-alnasser|AlNasser, 2021]] used XRD to analyze the crystallinity of the synthesized graphene materials.
+
+- [[2021-ahmed|Ahmed, 2021]] used XRD to determine the mineralogy of 27 powder samples from the Marrat Formation.
+
+- [[2021-albensaad|Albensaad, 2021]] used XRD analysis to determine mineralogy, specifically identifying calcite as the dominant mineral.
+
+- [[2021-alqarni|Alqarni, 2021]] applied XRD to determine the semi-quantitative mineral content of core samples.
+
+- [[2021-siddiq|Siddiq, 2021]] used XRD to characterize biochar produced at 500°C and 800°C.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used XRD to quantify calcite and other minerals in carbonate rocks.
+
+- [[2022-khan|Khan, 2022]] used XRD to determine the mineral composition percentages of core samples from the King Fahd Causeway.
+
+- [[2022-septriandi|Septriandi, 2022]] used XRD to determine the mineralogical composition of identified lithofacies in the Jubaila Formation.
+
+- [[2022-samarkin|Samarkin, 2022]] used XRD to investigate changes in rock texture and mineralogy after chemical treatment.
+
+- [[2022-stiawan|Stiawan, 2022]] used XRD to determine the mineral composition of carbonate samples.
+
+- [[2022-radwan|Radwan, 2022]] used XRD to calculate Quartz Crystallinity Index (QCI) and monitor mineral changes after heating.
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] used XRD to determine the lithofacies composition of 30 samples.
+
+- [[2022-salih|Salih, 2022]] used XRD to characterize the mineralogy of samples from the Khuff, Hanifa, and Jubaila formations.
+
+- [[2022-bashri|Bashri, 2022]] used XRD to determine the mineral composition of mudstone samples from the Hanifa Formation.
+
+- [[2022-argadestya|Argadestya, 2022]] used XRD to quantify the mineralogical composition of Merapi volcaniclastics.
+
+- [[2022-babker|Babker, 2022]] used XRD to characterize the mineralogy of the Upper Khartam Member lithofacies.
+
+- [[2023-butt|Butt, 2023]] used XRD to characterize the mineralogical composition of Al Wajh sandstones.
+
+- [[2023-iskandar|Iskandar, 2023]] used XRD to constrain modal mineralogy results from point counting.
+
+- [[2023-al-eid|Al-Eid, 2023]] used XRD to determine the mineralogical composition of Core 1 and Core 2.
+
+- [[2023-al-garni|Al-Garni, 2023]] used XRD to characterize the mineralogy of the core samples.
+
+- [[2023-rafiq|Rafiq, 2023]] used XRD to determine the mineralogy of rock and fracture samples.
+
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] used xrd to characterize the mineralogy of limestone and dolomite samples.
+
+- [[2023-alshaibani|AlShaibani, 2023]] used XRD to characterize the mineralogy of rock samples from the deformation zone.
+
+- [[2024-alabbad|Alabbad, 2024]] used XRD to characterize the mineralogy of carbonate and shale samples.
+
+- [[2024-alhilali|Alhilali, 2024]] used x-ray analysis to confirm chamber counts in species like Planohedbergella prairiehillensis even in cases of imperfect preservation.
+
+- [[2024-allam|Allam, 2024]] used XRD for mineralogical analysis of the carbonate samples.
+
+- [[2024-mohamed|Mohamed, 2024]] used XRD to characterize the mineralogy of Kentucky sandstone cores.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] used XRD to determine the mineralogy of sand samples from the dune.
+
+- [[2024-abdrabo|Abdrabo, 2024]] used XRD to determine the mineralogical makeup of the Qusaiba, Sharawra, and Tawil units.
+
+- [[2024-saraih|Saraih, 2024]] used XRD to characterize the mineralogy of the host rock matrix and burrow fillings in the Khanasir Member.
+
+- [[2024-hassan|Hassan, 2024]] used XRD to characterize mineralogy of the Khuff Formation.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used XRD to characterize the mineralogy of the NW Midyan granitoids.
+
+- [[2024-malik|Malik, 2024]] used XRD to characterize the mineralogy of the Dhaiqa Basin sediments.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] used XRD to characterize the mineralogy of the Al-Ghurayyah pluton.
+
+- [[2024-muharrag|Muharrag, 2024]] performed XRD analysis using PANalytical Empyrean device to quantify mineralogy.
+
+- [[2024-allehyani|allehyani, 2024]] used XRD to determine the mineral composition of samples from the Hanifa Formation.
+
+- [[2025-alhubail|Alhubail, 2025]] used XRD to characterize the mineralogy of carbonate mudrock samples before and after CO2 treatment.
+
+- [[2025-almousa|Almousa, 2025]] used XRD to characterize the mineralogical composition of the CAC.
+
+- [[2025-alghawi|Alghawi, 2025]] used XRD to characterize minerals and evaluate the impact of pressure, temperature, and pH on calcite precipitation.
+
+- [[2026-fatima|Fatima, 2026]] used XRD to characterize the mineralogy of aquifer materials U, L, and D.
+
+- [[1999-babalola|Babalola, 1999]] used XRD to determine clay mineralogy within the kaolinitic claystone.
+
+- [[2002-elhassan|ElHassan, 2002]] used XRD to determine clay mineralogy in Khafji reservoir samples.
+
+- [[1985-ghaled|Ghaled, 1985]] used XRD to identify mineral phases within cryptocrystalline magnesite samples.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used XRD to determine the mineral composition of 31 sediment samples.
 
 ## Typical Workflow
 
@@ -332,6 +572,102 @@ last_updated: 2026-06-09
 - Calcite was identified as the dominant mineral (over 90%), followed by dolomite (less than 10%). ([[2018-ismanto|Ismanto, 2018, p. 12]])
 
 - Identified three distinct clusters based on mineral composition for the sampled particulate matter. ([[2019-alotaibi|Alotaibi, 2019, p. 135]])
+
+- XRD analysis showed the presence of high amounts of dolomite in specific lithofacies. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 89]])
+
+- Comparison between QEMSCAN and XRD results were utilized for mineralogical characterization. ([[2020-islam|Islam, 2020, p. 57]])
+
+- Significant correlation was found between Young's modulus (E*) and four elements: Co, Sr, Ti, and Zr. ([[2020-gbiyanju|Gbiyanju, 2020, p. 35]])
+
+- XRD for Jubaila showed calcite as primary mineral with some quartz; Hanifa showed calcite, quartz, and minor minerals. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 74]])
+
+- Confirmed structural stability after adsorption cycles. ([[2021-alnasser|AlNasser, 2021, p. 18]])
+
+- The mineralogical composition in carbonates was relatively uniform, with most samples being nearly pure limestones except for one dolomitized sample (6_3a). ([[2021-ahmed|Ahmed, 2021, p. 71]])
+
+- Leeb hardness values were lower with lower calcite content; higher amounts of illite, kaolinite, and quartz were associated with lower HLD. ([[2021-albensaad|Albensaad, 2021, p. 70]])
+
+- Used Rietveld method to calculate percentages of crystalline minerals from powder samples. ([[2021-alqarni|Alqarni, 2021, p. 43]])
+
+- Used to determine changes in morphology and surface functional groups after adsorption experiments. ([[2021-siddiq|Siddiq, 2021, p. 12]])
+
+- Quantified mineral percentages for various samples across the Costa Callese section. ([[2021-alabyadh|Alabyadh, 2021, p. 120]])
+
+- Identified minerals such as dolomite, quartz, halite, and gypsum across various lithofacies. ([[2022-khan|Khan, 2022, p. 88]])
+
+- XRD patterns showed distinct mineral compositions for different lithofacies, with some being more siliceous or argillaceous. ([[2022-septriandi|Septriandi, 2022, p. 62]])
+
+- Used to confirm the formation of new minerals like fluorite (CaF2) during NaF treatment. ([[2022-samarkin|Samarkin, 2022, p. 12]])
+
+- Identified distinct differences between fabric preserving (FP) and non-fabric preserving (NFP) dolomite minerals. ([[2022-stiawan|Stiawan, 2022, p. 62]])
+
+- Used to show that QCI values vary temporally in sandstones and spatially in sands. ([[2022-radwan|Radwan, 2022, p. 15]])
+
+- Identified minerals including clay minerals (21 wt.%), mica (8 wt.%), and quartz in various lithofacies. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 33]])
+
+- Identified calcite as the dominant mineral in most carbonate samples, with specific instances of dolomite and quartz. ([[2022-salih|Salih, 2022, p. 31]])
+
+- XRD analysis showed calcite (88.3%), quartz (7.3%), kaolinite (1.9%), illite (0.8%), muscovite (1.6%), and minor amounts of montmorillonite and magnetite. ([[2022-bashri|Bashri, 2022, p. 56]])
+
+- Identified bulk mineralogical composition including plagioclase feldspars (albite, anorthite) and pyroxenes (augite, enstatite). ([[2022-argadestya|Argadestya, 2022, p. 64]])
+
+- Used to characterize 10 major lithofacies at various scales. ([[2022-babker|Babker, 2022, p. 14]])
+
+- Bulk XRD data were collected for all studied Al Wajh sandstones to determine mineral proportions. ([[2023-butt|Butt, 2023, p. 126]])
+
+- Results from the mode and norm are then further constrained by comparing results from the XRD analyses. ([[2023-iskandar|Iskandar, 2023, p. 53]])
+
+- XRD results for Core 1 showed calcite as the highest fraction (70%). ([[2023-al-eid|Al-Eid, 2023, p. 11]])
+
+- Mineralogy was determined for both Austin chalk and Indiana limestone samples. ([[2023-al-garni|Al-Garni, 2023, p. 8]])
+
+- Identified primary and secondary/altered minerals in the study area. ([[2023-rafiq|Rafiq, 2023, p. 60]])
+
+- Used to analyze rock properties before and after acidizing. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 36]])
+
+- Sample 5 was found to be rich in dolomite (93.9%) with only 6.1% quartz. ([[2023-alshaibani|AlShaibani, 2023, p. 10]])
+
+- Not stated in source ([[2024-alabbad|Alabbad, 2024]])
+
+- The number of chambers can be established by x-ray analysis even in cases of excellent preservation. ([[2024-alhilali|Alhilali, 2024, p. 49]])
+
+- Not stated in source ([[2024-allam|Allam, 2024]])
+
+- The core samples were confirmed to contain 66% Quartz, 14% Illite, 3% K-Feldspar, and 17% Plagioclase. ([[2024-mohamed|Mohamed, 2024, p. 24]])
+
+- The sample was found to consist mainly of quartz with small amounts of calcite, albite, and others. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 50]])
+
+- XRD results were used to create stacked bar charts showing mineral distribution across different lithofacies. ([[2024-abdrabo|Abdrabo, 2024, p. 47]])
+
+- XRD results were compared between host rock matrix and burrow filling to determine chemical differences. ([[2024-saraih|Saraih, 2024, p. 37]])
+
+- XRD analysis showed dolomite-rich upper sections with better reservoir quality and calcite-dominant lower sections. ([[2024-hassan|Hassan, 2024, p. 14]])
+
+- Used to distinguish between A-type and I-type minerals and determine mineral chemistry. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 31]])
+
+- Used to provide detailed mineralogical studies to aid understanding and correlate with previous works. ([[2024-malik|Malik, 2024, p. 14]])
+
+- Used to confirm the presence of minerals like pyrochlore, columbite, and zircon as primary indicators of magmatic processes. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 84]])
+
+- Confirmed that both groups are predominantly dolomite, with quartz content being higher above the SB (~5%) than below (~1.5%). ([[2024-muharrag|Muharrag, 2024, p. 96]])
+
+- Not stated in source (mineralogy data was collected but specific results not detailed in summary). ([[2024-allehyani|allehyani, 2024, p. 21]])
+
+- XRD confirmed the presence of specific carbonate minerals in the mudrock samples. ([[2025-alhubail|Alhubail, 2025, p. 10]])
+
+- The study confirmed the carbon content and structure of the CAC via XRD analysis. ([[2025-almousa|Almousa, 2025, p. 86]])
+
+- XRD analysis showed a relationship between pressure level and calcite precipitation. ([[2025-alghawi|Alghawi, 2025, p. 79]])
+
+- Identified quartz as a major component in materials U and L. ([[2026-fatima|Fatima, 2026, p. 81]])
+
+- Identified kaolinite as a major component in the clay fraction of the Wajid Sandstone. ([[1999-babalola|Babalola, 1999, p. 61]])
+
+- The XRD study revealed that kaolinite is the main clay mineral in the samples. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+
+- XRD studies demonstrated that the magnesite is either pure or impure (with abundant dolomite). ([[1985-ghaled|Ghaled, 1985, p. 22]])
+
+- The results were useful in quantifying the percentages of major minerals, agreeing with binocular microscope observations. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 20]])
 
 ## Methodological Variations Across Sources
 

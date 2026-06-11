@@ -57,8 +57,38 @@ sources:
   - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
   - "raw/140727 - Paleoecology and Paleoenvironmental Reconstruction of the Lower Silurian Qusaiba.pdf"
   - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
+  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
+  - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
+  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
+  - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
+  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
+  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
+  - "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
+  - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
+  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
+  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
+  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/143200 - FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.pdf"
+  - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
+  - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
+  - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 # Thin-Section Petrography
@@ -157,6 +187,66 @@ last_updated: 2026-06-09
 
 - [[2018-ismanto|Ismanto, 2018]] used thin-section petrography to characterize microfacies and determine mineral proportions.
 
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used thin-section petrography to identify diagenetic fabrics like micritization and dissolution.
+
+- [[2020-islam|Islam, 2020]] used thin-section-petrography to classify sandstones as sub-arkose to quartz arenite.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] used thin-section-petrography to characterize lithofacies and porosity types in Jurassic carbonates.
+
+- [[2021-ahmed|Ahmed, 2021]] performed thin-section petrography using an Olympus BX53 microscope to characterize pore types and diagenetic features.
+
+- [[2021-alqarni|Alqarni, 2021]] used thin-section-petrography to characterize lithofacies and mineralogy in the Sarah formation.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used thin-section-petrography to characterize microfacies and identify diagenetic minerals in the Monte Sacro Sequence.
+
+- [[2022-khamsin|Khamsin, 2022]] used thin-section-petrography to identify benthic foraminifera in the Dhruma Formation.
+
+- [[2022-khan|Khan, 2022]] used thin-section petrography to identify lithofacies and mineral textures.
+
+- [[2022-syahputra|Syahputra, 2022]] applied petrography to characterize rock textures (wackestone/packstone) and burrow attributes in the Ulayyah Member.
+
+- [[2022-stiawan|Stiawan, 2022]] applied thin-section petrography to identify pore types and diagenetic features.
+
+- [[2022-salih|Salih, 2022]] applied thin-section petrography to characterize lithofacies and pore systems in the studied carbonate formations.
+
+- [[2022-bashri|Bashri, 2022]] used thin-section-petrography to characterize the lithofacies of the Hanifa Formation.
+
+- [[2022-argadestya|Argadestya, 2022]] used thin-section petrography to analyze the mineralogy of samples from proximal to distal sites.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] applied thin-section analysis to determine the age and lithology of carbonate samples.
+
+- [[2022-babker|Babker, 2022]] used thin-section-petrography to characterize lithofacies at the macro-scale.
+
+- [[2023-butt|Butt, 2023]] used thin-section petrography to characterize lithofacies and mineralogy.
+
+- [[2023-iskandar|Iskandar, 2023]] used thin-section-petrography to identify petrographic characteristics and qualitative modal mineralogy.
+
+- [[2023-rafiq|Rafiq, 2023]] used thin-section-petrography to investigate mineralogical and textural features of the rock samples.
+
+- [[2024-allam|Allam, 2024]] used thin-section-petrography to identify five microfacies in the Valanginian carbonates.
+
+- [[2024-saraih|Saraih, 2024]] applied thin-section petrography to identify mineralogical compositions, textures, and micro-fractures in 36 samples.
+
+- [[2024-malik|Malik, 2024]] used thin-section-petrography to characterize the lithology and pore systems of the Dhaiqa Formation.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] applied thin-section petrography to characterize the mineralogy and texture of the Al-Ghurayyah pluton.
+
+- [[2024-muharrag|Muharrag, 2024]] applied thin-section petrography to characterize rock constituents and laminae in the Dam Formation.
+
+- [[2024-allehyani|allehyani, 2024]] used thin-section-petrography to distinguish between host rock matrix (HRM) and burrow fill (BF).
+
+- [[2024-jalloh|Jalloh, 2024]] used thin-section analysis to establish biozones and sequence stratigraphy in the Dhruma Formation.
+
+- [[2025-refaat|Refaat, 2025]] applied thin-section-petrography to identify burrowing styles and diagenetic modifications.
+
+- [[1989-abdou|Abdou, 1989]] used thin-section-petrography to characterize the lithology and microfacies of the Gudair Formation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied thin-section petrography to 193 samples from the Uthmaniyah area to identify lithofacies.
+
+- [[1999-babalola|Babalola, 1999]] used thin-section-petrography to characterize the lithofacies and mineralogy of the Wajid Sandstone.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used thin-section-petrography on one lithified aragonitic layer to examine mineralogy and texture.
+
 ## Instruments and Software
 
 
@@ -246,6 +336,66 @@ last_updated: 2026-06-09
 - [[2018-perdana|Perdana, 2018]] used thin-section petrography to define lithofacies in the Qusaiba Formation.
 
 - [[2018-ismanto|Ismanto, 2018]] used thin-section petrography to characterize microfacies and determine mineral proportions.
+
+- [[2020-al-zoukani|Al-Zoukani, 2020]] used thin-section petrography to identify diagenetic fabrics like micritization and dissolution.
+
+- [[2020-islam|Islam, 2020]] used thin-section-petrography to classify sandstones as sub-arkose to quartz arenite.
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] used thin-section-petrography to characterize lithofacies and porosity types in Jurassic carbonates.
+
+- [[2021-ahmed|Ahmed, 2021]] performed thin-section petrography using an Olympus BX53 microscope to characterize pore types and diagenetic features.
+
+- [[2021-alqarni|Alqarni, 2021]] used thin-section-petrography to characterize lithofacies and mineralogy in the Sarah formation.
+
+- [[2021-alabyadh|Alabyadh, 2021]] used thin-section-petrography to characterize microfacies and identify diagenetic minerals in the Monte Sacro Sequence.
+
+- [[2022-khamsin|Khamsin, 2022]] used thin-section-petrography to identify benthic foraminifera in the Dhruma Formation.
+
+- [[2022-khan|Khan, 2022]] used thin-section petrography to identify lithofacies and mineral textures.
+
+- [[2022-syahputra|Syahputra, 2022]] applied petrography to characterize rock textures (wackestone/packstone) and burrow attributes in the Ulayyah Member.
+
+- [[2022-stiawan|Stiawan, 2022]] applied thin-section petrography to identify pore types and diagenetic features.
+
+- [[2022-salih|Salih, 2022]] applied thin-section petrography to characterize lithofacies and pore systems in the studied carbonate formations.
+
+- [[2022-bashri|Bashri, 2022]] used thin-section-petrography to characterize the lithofacies of the Hanifa Formation.
+
+- [[2022-argadestya|Argadestya, 2022]] used thin-section petrography to analyze the mineralogy of samples from proximal to distal sites.
+
+- [[2022-al-sadah|Al-Sadah, 2022]] applied thin-section analysis to determine the age and lithology of carbonate samples.
+
+- [[2022-babker|Babker, 2022]] used thin-section-petrography to characterize lithofacies at the macro-scale.
+
+- [[2023-butt|Butt, 2023]] used thin-section petrography to characterize lithofacies and mineralogy.
+
+- [[2023-iskandar|Iskandar, 2023]] used thin-section-petrography to identify petrographic characteristics and qualitative modal mineralogy.
+
+- [[2023-rafiq|Rafiq, 2023]] used thin-section-petrography to investigate mineralogical and textural features of the rock samples.
+
+- [[2024-allam|Allam, 2024]] used thin-section-petrography to identify five microfacies in the Valanginian carbonates.
+
+- [[2024-saraih|Saraih, 2024]] applied thin-section petrography to identify mineralogical compositions, textures, and micro-fractures in 36 samples.
+
+- [[2024-malik|Malik, 2024]] used thin-section-petrography to characterize the lithology and pore systems of the Dhaiqa Formation.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] applied thin-section petrography to characterize the mineralogy and texture of the Al-Ghurayyah pluton.
+
+- [[2024-muharrag|Muharrag, 2024]] applied thin-section petrography to characterize rock constituents and laminae in the Dam Formation.
+
+- [[2024-allehyani|allehyani, 2024]] used thin-section-petrography to distinguish between host rock matrix (HRM) and burrow fill (BF).
+
+- [[2024-jalloh|Jalloh, 2024]] used thin-section analysis to establish biozones and sequence stratigraphy in the Dhruma Formation.
+
+- [[2025-refaat|Refaat, 2025]] applied thin-section-petrography to identify burrowing styles and diagenetic modifications.
+
+- [[1989-abdou|Abdou, 1989]] used thin-section-petrography to characterize the lithology and microfacies of the Gudair Formation.
+
+- [[1992-abdulghani|Abdulghani, 1992]] applied thin-section petrography to 193 samples from the Uthmaniyah area to identify lithofacies.
+
+- [[1999-babalola|Babalola, 1999]] used thin-section-petrography to characterize the lithofacies and mineralogy of the Wajid Sandstone.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used thin-section-petrography on one lithified aragonitic layer to examine mineralogy and texture.
 
 ## Typical Workflow
 
@@ -340,6 +490,66 @@ last_updated: 2026-06-09
 - Identified several mudstone and siltstone facies (Mdg, Mlg, Mzr) based on mineralogy and texture. ([[2018-perdana|Perdana, 2018, p. 36]])
 
 - Identified 8 distinct microfacies based on petrographic analysis. ([[2018-ismanto|Ismanto, 2018, p. 17]])
+
+- Identified 7 distinct diagenetic categories including micrite envelopes and neomorphic fabrics. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 75]])
+
+- Sandstone was classified into the sub-arkose to quartz arenite range based on QFL counts. ([[2020-islam|Islam, 2020, p. 71]])
+
+- Identified mudstones, wackestones, packstones, and grainstones as common lithofacies. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+
+- Identified moldic pores, microfractures, intergranular porosity, and burrow-related porosity as primary macro-porosity creators. ([[2021-ahmed|Ahmed, 2021, p. 67]])
+
+- Used to identify mineralogical composition, grain size characteristics, sorting, and diagenetic features like cementation. ([[2021-alqarni|Alqarni, 2021, p. 37]])
+
+- Identified multiple microfacies (MF1-MF10) including oolitic grainstones and peloidal packstones. ([[2021-alabyadh|Alabyadh, 2021, p. 83]])
+
+- Identification was possible for 89.93% of specimens, indicating good preservation. ([[2022-khamsin|Khamsin, 2022, p. 38]])
+
+- Identified various lithofacies such as oolitic grainstone, quartz sandstone, and bioclastic limestone. ([[2022-khan|Khan, 2022, p. 64]])
+
+- Petrography identified two distinct burrowing styles: bio-retexturing and pipe framework. ([[2022-syahputra|Syahputra, 2022, p. 41]])
+
+- Identified 5 pore types including intercrystal non-fabric preserved (BC-nfp) and intraparticle (WP). ([[2022-stiawan|Stiawan, 2022, p. 18]])
+
+- Identified various pore types including oomoldic, interparticle, vug, and micro-intercrystalline pores. ([[2022-salih|Salih, 2022, p. 30]])
+
+- Identified distinct lithofacies such as F1 (argillaceous carbonate mudstone) and F3 (sponge spiculitic wackestone). ([[2022-bashri|Bashri, 2022, p. 35]])
+
+- Identified distinct mineral grains (plagioclase, pyroxene) across different environments. ([[2022-argadestya|Argadestya, 2022, p. 58]])
+
+- Thin-section analysis revealed Borelis melo, confirming a middle Miocene age for the carbonates. ([[2022-al-sadah|Al-Sadah, 2022, p. 14]])
+
+- Used for characterizing LFA-1, LFA-2, LFA-3, LFA-4, LFA-5, and LFA-6. ([[2022-babker|Babker, 2022, p. 11]])
+
+- Petrographic point-count data were used to determine reservoir properties like porosity. ([[2023-butt|Butt, 2023, p. 124]])
+
+- Identification of petrographic characteristics and qualitative modal mineralogy (mode) of polished thin sections was acquired by using a Zeiss microscope. ([[2023-iskandar|Iskandar, 2023, p. 48]])
+
+- Identified quartz veins, pockets, orthoclase (cross-hatched twinning), and chlorite. ([[2023-rafiq|Rafiq, 2023, p. 72]])
+
+- Identified five microfacies representing a carbonate ramp setting from inner to outer ramp. ([[2024-allam|Allam, 2024, p. 11]])
+
+- Thin sections were used to distinguish between open, filled, and occluded fractures across three lithostratigraphic units. ([[2024-saraih|Saraih, 2024, p. 79]])
+
+- 35-micron thick, unpolished thin sections were used to identify pores and determine sedimentary facies. ([[2024-malik|Malik, 2024, p. 29]])
+
+- Identified four components: Arfvedsonite granite, amphibole-free porphyritic coarse/medium-grained granite, and microgranite. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
+
+- Identified distinct lamination with alternating micrite-rich (tan) and grain-rich (blue) laminae in CF forms. ([[2024-muharrag|Muharrag, 2024, p. 22]])
+
+- Identified distinct boundaries between muddy, well-cemented HRM and coarse-grained, porous BF in BN styles. ([[2024-allehyani|allehyani, 2024, p. 63]])
+
+- Used to define foraminiferal assemblages in subsurface sections before this study's outcrop focus. ([[2024-jalloh|Jalloh, 2024, p. 19]])
+
+- Thin-sections revealed two distinct burrowing styles: pipe framework (mud-poor) and bio-retexturing. ([[2025-refaat|Refaat, 2025, p. 28]])
+
+- Identified 10 distinct microfacies types in the Umm Gudair#1 well. ([[1989-abdou|Abdou, 1989, p. 16]])
+
+- Analysis identified six distinct units worthy of sub-member rank within the Arab-D Limestone Member. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+
+- Identified quartz, feldspar, and lithic grains (QFL) as primary components in both Red and Grey units. ([[1999-babalola|Babalola, 1999, p. 43]])
+
+- Identified the presence of acicular aragonitic cement inside shells and other minerals in the sedimentary matrix. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 22]])
 
 ## Methodological Variations Across Sources
 

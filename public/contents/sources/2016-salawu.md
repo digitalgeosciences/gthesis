@@ -56,7 +56,7 @@ tags:
   - technique/xrd
   - technique/uv-vis-spectroscopy
   - technique/miter-analysis
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - technique/synthesis
   - technique/electrospinning
   - technique/uv-vis

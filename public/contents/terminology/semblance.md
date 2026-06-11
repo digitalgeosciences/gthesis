@@ -13,8 +13,9 @@ tags:
 sources:
   - "raw/136092 - DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS.pdf"
   - "raw/136319 - An Innovative Model-based Velocity Integration Procedure with an Application in .pdf"
+  - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-10
 ---
 
 # Semblance
@@ -29,11 +30,15 @@ last_updated: 2026-06-08
 
 - [[2010-al-moqbel|Al-Moqbel, 2010]] evaluated semblance to determine the best stacking velocity for various horizons.
 
+- [[2024-felemban|Felemban, 2024]] used semblance to identify the best-fit stacking velocity in the analysis.
+
 ## Scientific Context
 
 - [[2009-al-lehyani|Al-Lehyani, 2009]] Used to identify the location of diffractors in the x-y plane by testing various surface wave velocities.
 
 - [[2010-al-moqbel|Al-Moqbel, 2010]] evaluated semblance to determine the best stacking velocity for various horizons.
+
+- [[2024-felemban|Felemban, 2024]] used semblance to identify the best-fit stacking velocity in the analysis.
 
 ## Measurement and Characterization Methods
 
@@ -44,6 +49,8 @@ last_updated: 2026-06-08
 - The highest semblance values were found when using the correct surface wave velocity (e.g., 1000 m/s for Model A and 900 m/s for Model B). ([[2009-al-lehyani|Al-Lehyani, 2009, p. 40]])
 
 - Semblance showed maximum coherency at a wide range of offsets in some cases, making it difficult to pick unique velocities without an integrated model. ([[2010-al-moqbel|Al-Moqbel, 2010, p. 16]])
+
+- Semblance energy is significantly weakened when data beyond the critical angle is included, making it difficult to pick the correct velocity. ([[2024-felemban|Felemban, 2024, p. 11]])
 
 ## Contrasting Values and Interpretations
 

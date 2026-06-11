@@ -14,8 +14,10 @@ sources:
   - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
+  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Uv Vis
@@ -32,6 +34,10 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] used UV-Vis for chemical analysis of soil and plant samples.
 
+- [[2021-alnasser|AlNasser, 2021]] used UV-VIS to determine the concentration of methylene blue in samples.
+
+- [[2022-radwan|Radwan, 2022]] used UV-VIS to evaluate spectral absorbance of sand samples after heating.
+
 ## Instruments and Software
 
 
@@ -39,6 +45,10 @@ last_updated: 2026-06-09
 - [[2019-salawudeen|Salawudeen, 2019]] used uv-vis to monitor the removal of phenol and cadmium from water.
 
 - [[2019-alamran|AlAmran, 2019]] used UV-Vis for chemical analysis of soil and plant samples.
+
+- [[2021-alnasser|AlNasser, 2021]] used UV-VIS to determine the concentration of methylene blue in samples.
+
+- [[2022-radwan|Radwan, 2022]] used UV-VIS to evaluate spectral absorbance of sand samples after heating.
 
 ## Typical Workflow
 
@@ -51,6 +61,10 @@ last_updated: 2026-06-09
 - Used to determine concentration changes of contaminants during adsorption processes. ([[2019-salawudeen|Salawudeen, 2019, p. 104]])
 
 - Not stated in source ([[2019-alamran|AlAmran, 2019]])
+
+- The maximum absorption for methylene blue was found at 665 nm. ([[2021-alnasser|AlNasser, 2021, p. 46]])
+
+- Pure quartzose sands have the highest spectral absorbance after heating to 1200°C. ([[2022-radwan|Radwan, 2022, p. 15]])
 
 ## Methodological Variations Across Sources
 

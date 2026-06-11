@@ -64,7 +64,7 @@ tags:
   - technique/icp-oes
   - technique/sem-eds
   - technique/dsc
-  - technique/adsorption-experiments
+  - technique/adsorption-experimentss
   - theme/environmental-geoscience
   - theme/water-treatment
   - theme/heavy-metals-pollution

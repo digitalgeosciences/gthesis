@@ -30,8 +30,12 @@ sources:
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
+  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
+  - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
+  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Gas Chromatography–Mass Spectrometry
@@ -78,6 +82,14 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] used GC-MS to analyze aromatic hydrocarbons (PAHs) in sediment and plant tissues.
 
+- [[2019-alhaiqi|Alhaiqi, 2019]] used GC/MS to quantify the concentration of Phenanthrene, Fluoranthene, and Pyrene in soil and plant tissues.
+
+- [[2020-usman|Usman, 2020]] applied GC-MS analysis on a subset of bitumen extracts to determine kerogen type and origin.
+
+- [[2024-almutawa|AlMutawa, 2024]] used GC-FID to measure soil TPHs and analyze the chemical composition of hydrocarbon samples.
+
+- [[2025-almousa|Almousa, 2025]] used GC-MS with a headspace analyzer to measure MTBE and BTEX concentrations following EPA Method 8260.
+
 ## Instruments and Software
 
 
@@ -115,6 +127,14 @@ last_updated: 2026-06-09
 - [[2018-adeyemi|Adeyemi, 2018]] used GC-MS to determine the concentration of MTBE in aqueous solutions.
 
 - [[2019-alamran|AlAmran, 2019]] used GC-MS to analyze aromatic hydrocarbons (PAHs) in sediment and plant tissues.
+
+- [[2019-alhaiqi|Alhaiqi, 2019]] used GC/MS to quantify the concentration of Phenanthrene, Fluoranthene, and Pyrene in soil and plant tissues.
+
+- [[2020-usman|Usman, 2020]] applied GC-MS analysis on a subset of bitumen extracts to determine kerogen type and origin.
+
+- [[2024-almutawa|AlMutawa, 2024]] used GC-FID to measure soil TPHs and analyze the chemical composition of hydrocarbon samples.
+
+- [[2025-almousa|Almousa, 2025]] used GC-MS with a headspace analyzer to measure MTBE and BTEX concentrations following EPA Method 8260.
 
 ## Typical Workflow
 
@@ -157,6 +177,14 @@ last_updated: 2026-06-09
 - Used to monitor MTBE concentrations during batch adsorption experiments. ([[2018-adeyemi|Adeyemi, 2018, p. 48]])
 
 - Identified specific polycyclic aromatic hydrocarbons (PAHs) in the study area. ([[2019-alamran|AlAmran, 2019, p. 15]])
+
+- The method allowed for the detection of specific PAH concentrations across different time intervals (30, 60, 90 days). ([[2019-alhaiqi|Alhaiqi, 2019, p. 14]])
+
+- Analysis of n-alkane isoprenoids and molecular biomarkers indicated a Type II kerogen with little to no sulfur. ([[2020-usman|Usman, 2020, p. 17]])
+
+- The GC-FID was utilized to confirm that aromatic, aliphatic, and cyclic aliphatic compounds were effectively degraded in some conditions. ([[2024-almutawa|AlMutawa, 2024, p. 21]])
+
+- Used for measuring concentration of MTBE (1000 mg/L) and BTEX components in the fixed-bed column samples. ([[2025-almousa|Almousa, 2025, p. 30]])
 
 ## Methodological Variations Across Sources
 

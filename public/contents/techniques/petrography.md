@@ -18,8 +18,12 @@ sources:
   - "raw/140048 - Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia.pdf"
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
   - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Petrography
@@ -42,6 +46,14 @@ last_updated: 2026-06-09
 
 - [[2017-yousif|Yousif, 2017]] used petrography to characterize lithofacies and determine the depositional environment of the Dhruma Formation.
 
+- [[2022-stiawan|Stiawan, 2022]] applied thin-section petrography to characterize carbonate textures and pore types.
+
+- [[2022-babker|Babker, 2022]] used thin-section-petrography to characterize the lithofacies and mineralogy of the Khuff Formation.
+
+- [[2023-iskandar|Iskandar, 2023]] used petrography to characterize the modal mineralogy and textural features of peridotite xenoliths.
+
+- [[2025-ferreira|Ferreira, 2025]] applied machine learning models to automate mineral identification in petrography.
+
 ## Instruments and Software
 
 
@@ -55,6 +67,14 @@ last_updated: 2026-06-09
 - [[2017-mohammed-2|Mohammed, 2017]] used petrography to analyze the lithofacies of the Dam Formation.
 
 - [[2017-yousif|Yousif, 2017]] used petrography to characterize lithofacies and determine the depositional environment of the Dhruma Formation.
+
+- [[2022-stiawan|Stiawan, 2022]] applied thin-section petrography to characterize carbonate textures and pore types.
+
+- [[2022-babker|Babker, 2022]] used thin-section-petrography to characterize the lithofacies and mineralogy of the Khuff Formation.
+
+- [[2023-iskandar|Iskandar, 2023]] used petrography to characterize the modal mineralogy and textural features of peridotite xenoliths.
+
+- [[2025-ferreira|Ferreira, 2025]] applied machine learning models to automate mineral identification in petrography.
 
 ## Typical Workflow
 
@@ -73,6 +93,14 @@ last_updated: 2026-06-09
 - Identification of various carbonate and siliciclastic components in the Dam Formation. ([[2017-mohammed-2|Mohammed, 2017, p. 162]])
 
 - Identified nine distinct lithofacies types (LFTs) based on petrographic analysis, with fissile shale being the most dominant at 36%. ([[2017-yousif|Yousif, 2017, p. 18]])
+
+- Identified five distinct pore types: BC-nfp, BC-fp, WP, FR, and MP. ([[2022-stiawan|Stiawan, 2022, p. 53]])
+
+- Petrographic analysis revealed specific lithofacies patterns in the Upper Khartam Member. ([[2022-babker|Babker, 2022]])
+
+- Identified minerals as spinel lherzolite, spinel harzburgite, and wehrlites. ([[2023-iskandar|Iskandar, 2023, p. 21]])
+
+- Automated methods for labeling and annotating geoscientific images are still in their infancy, particularly in carbonate petrography and modal mineralogy analysis. ([[2025-ferreira|Ferreira, 2025, p. 10]])
 
 ## Methodological Variations Across Sources
 

@@ -20,8 +20,11 @@ sources:
   - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
+  - "raw/142010 - MODELLING THE EFFECTS OF CLIMATE CHANGE ON AIR QUALITY IN THE DAMMAM METROPOLITA.pdf"
+  - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
+  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 # Environmental Pollution
@@ -54,6 +57,12 @@ last_updated: 2026-06-09
 
 - [[2019-alamran|AlAmran, 2019]] investigated environmental-pollution in mangrove ecosystems.
 
+- [[2022-mustapha|Mustapha, 2022]] studied the impact of climate change on air quality and SO2 concentrations.
+
+- [[2022-alshaikhali|Alshaikhali, 2022]] investigated microplastic contamination as a form of environmental pollution in coastal sediments.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] investigated environmental pollution caused by illegal dumping in Saudi Arabia.
+
 ## Key Subtopics
 
 - [[2013-mohammed|Mohammed, 2013]] ['marine pollution', 'pesticide contamination']
@@ -77,6 +86,12 @@ last_updated: 2026-06-09
 - [[2019-alotaibi|Alotaibi, 2019]] investigated environmental pollution through the analysis of particulate matter (PM10).
 
 - [[2019-alamran|AlAmran, 2019]] investigated environmental-pollution in mangrove ecosystems.
+
+- [[2022-mustapha|Mustapha, 2022]] studied the impact of climate change on air quality and SO2 concentrations.
+
+- [[2022-alshaikhali|Alshaikhali, 2022]] investigated microplastic contamination as a form of environmental pollution in coastal sediments.
+
+- [[2022-al-harbi|Al-Harbi, 2022]] investigated environmental pollution caused by illegal dumping in Saudi Arabia.
 
 ## Methods and Approaches Used
 
@@ -105,6 +120,12 @@ last_updated: 2026-06-09
 - Identified significant concentrations of trace metals in PM10 samples from industrial areas. ([[2019-alotaibi|Alotaibi, 2019, p. 144]])
 
 - Over 40% of the shorelines have been industrialized, leading to significant heavy metal and PAH contamination. ([[2019-alamran|AlAmran, 2019, p. 27]])
+
+- Saudi Arabia is a major emitter of Sulphur Dioxide (SO2), which poses significant health challenges. ([[2022-mustapha|Mustapha, 2022, p. 25]])
+
+- Microplastics are introduced to marine environments via land-based and sea-based sources, including waste management failures and industrial activities. ([[2022-alshaikhali|Alshaikhali, 2022, p. 16]])
+
+- Illegal dumping leads to potential contamination of groundwater, soil, and air. ([[2022-al-harbi|Al-Harbi, 2022, p. 17]])
 
 ## Competing Approaches and Debates
 
