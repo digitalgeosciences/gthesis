@@ -63,7 +63,7 @@
   },
   "announcement": {
     "enabled": true,
-    "message": "This content was created with AI assistance. While we strive for accuracy, errors may occur. Please share your feedback: https://forms.gle/J2236VnNbSDB4pB86",
+    "message": "This GeoThesis content was generated with AI assistance. Although we strive for accuracy, it may contain errors or redundant information. Please share your feedback: https://forms.gle/J2236VnNbSDB4pB86",
     "dismissible": true,
     "background": "#fef3c7",
     "textColor": "#92400e",
