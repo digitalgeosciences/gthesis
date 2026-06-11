@@ -17,22 +17,6 @@ const root = resolve(__dirname, "..");
 const base = resolve(root, "public/contents");
 const outPath = resolve(root, "public/content-index.json");
 
-async function loadBlockedIds(baseDir) {
-  const blocked = new Set();
-  try {
-    const raw = await readFile(join(baseDir, "blocked.csv"), "utf8");
-    const [, ...lines] = raw.replace(/\r\n/g, "\n").split("\n");
-    for (const line of lines) {
-      if (!line.trim()) continue;
-      const id = line.split(",")[0].trim();
-      if (id) blocked.add(id);
-    }
-  } catch {
-    // CSV missing — no entries blocked
-  }
-  return blocked;
-}
-
 async function loadNameMap(baseDir) {
   const map = new Map();
   try {
@@ -83,7 +67,7 @@ async function parseIndexSummaries(indexPath) {
   return summaries;
 }
 
-async function parseDir(dir, entryType, prefix, blockedIds = new Set(), category) {
+async function parseDir(dir, entryType, prefix, category) {
   let files;
   try {
     files = await readdir(dir);
@@ -105,7 +89,6 @@ async function parseDir(dir, entryType, prefix, blockedIds = new Set(), category
           console.error(`[GeoThesis] Skipping ${join(dir, file)}: ${err.message.split("\n")[0]}`);
           return;
         }
-        if (fm.id && blockedIds.has(String(fm.id))) return;
         const entry = {
           type: entryType,
           slug,
@@ -176,9 +159,8 @@ function buildLinks(all) {
 }
 
 async function main() {
-  const [summaries, blockedIds, nameMap] = await Promise.all([
+  const [summaries, nameMap] = await Promise.all([
     parseIndexSummaries(join(base, "index.md")),
-    loadBlockedIds(base),
     loadNameMap(base),
   ]);
   const topLevel = await readdir(base, { withFileTypes: true });
@@ -187,8 +169,8 @@ async function main() {
     .map((e) => e.name);
 
   const [sourcesEntries, ...conceptChunks] = await Promise.all([
-    parseDir(join(base, "sources"), "source", "sources", blockedIds),
-    ...conceptDirs.map((dir) => parseDir(join(base, dir), "concept", "concepts", new Set(), dir)),
+    parseDir(join(base, "sources"), "source", "sources"),
+    ...conceptDirs.map((dir) => parseDir(join(base, dir), "concept", "concepts", dir)),
   ]);
 
   const all = Object.assign({}, sourcesEntries, ...conceptChunks);
