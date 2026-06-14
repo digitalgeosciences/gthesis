@@ -38,7 +38,10 @@ function Home() {
         .slice(0, 12)
     : [];
 
-  if (!data || !config) return <PageLoader />;
+  // Gate first paint only on the tiny config (~2 KB) so the hero renders
+  // immediately. The 100 KB content index streams in behind skeletons rather
+  // than blocking the whole page.
+  if (!config) return <PageLoader />;
 
   const surprise = () => {
     if (!data) return;
