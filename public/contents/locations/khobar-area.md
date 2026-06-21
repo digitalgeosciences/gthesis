@@ -11,9 +11,8 @@ tags: []
 sources:
   - "raw/139629 - ASSESSMENTS OF ORGANOTINS IN SEDIMENTS AND BIOTA COLLECTED FROM THE SAUDI COAST .pdf"
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
-  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Khobar Area
@@ -26,17 +25,13 @@ last_updated: 2026-06-09
 
 - [[2015-akere|Akere, 2015]] conducted research at Khobar Area
 
-- [[2016-lawal-2|Lawal, 2016]] sampled particulate matter from Khobar to assess local air quality.
-
-- [[2021-siddiq|Siddiq, 2021]] collected date palm leaves from Khobar for biochar production.
+- [[2016-lawal-2|Lawal, 2016]] studied PM10 levels in Khobar to identify local environmental risks.
 
 ## Geological and Structural Setting
 
 
 
-- [[2016-lawal-2|Lawal, 2016]] sampled particulate matter from Khobar to assess local air quality.
-
-- [[2021-siddiq|Siddiq, 2021]] collected date palm leaves from Khobar for biochar production.
+- [[2016-lawal-2|Lawal, 2016]] studied PM10 levels in Khobar to identify local environmental risks.
 
 ## Formations Present
 
@@ -46,9 +41,7 @@ last_updated: 2026-06-09
 
 - conducted research at Khobar Area ([[2015-akere|Akere, 2015]])
 
-- The average concentration of PM10 in Khobar was 379.85 µg/m3. ([[2016-lawal-2|Lawal, 2016, p. 14]])
-
-- Source location for the raw biomass used to create the adsorbent. ([[2021-siddiq|Siddiq, 2021, p. 33]])
+- The average concentration of PM10 in Khobar was 379.85 µg/m3, with high peaks during sand storms. ([[2016-lawal-2|Lawal, 2016, p. 50]])
 
 ## Research Coverage and Gaps
 

@@ -17,30 +17,25 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/10312/"
 study_area: "Harmaliyah Oil Field, Eastern Province, Saudi Arabia"
 keywords:
   - Geostatistics
+  - porosity
   - Arab-D reservoir
   - Harmaliyah Oil Field
-  - porosity
   - kriging
   - Gaussian sequential simulation
-  - porosity estimation
-  - petrophysical properties
-  - geostatistical modeling
   - semivariogram
-  - conditional simulation
-  - porosity values
-  - variogram modeling
-  - modeling
+  - spatial analysis
+  - spatial characteristics
+  - geostatistical models
   - simulation
 techniques:
   - well-log-analysis
   - geostatistics
   - kriging
   - sequential-gaussian-simulation
-  - geolith
-  - core-analysis
+  - petrophysics
   - variogram-analysis
-  - petrel
-  - gaussian-sequential-simulation
+  - statistical-analysis
+  - reservoir-modeling
 tags:
   - degree/ms
   - formation/arab-d-reservoir
@@ -51,25 +46,30 @@ tags:
   - technique/geostatistics
   - technique/kriging
   - technique/sequential-gaussian-simulation
-  - technique/core-analysis
+  - technique/petrophysics
   - technique/variogram-analysis
-  - technique/gaussian-sequential-simulation
+  - technique/statistical-analysis
+  - technique/reservoir-modeling
   - theme/petrophysics
   - theme/geostatistics
   - terminology/porosity
   - terminology/anisotropy
+  - terminology/variogram-analysis
+  - terminology/geostatistics
+  - terminology/variogram-analysis
+  - terminology/petrophysics
 status: ingested
 ---
 
 # Geostatistical modeling of Arab-D reservoir, Harmaliyah field, Saudi Arabia.
 
-**Summary**: The thesis investigates the use of geostatistical techniques, specifically ordinary kriging and Gaussian sequential simulation, to estimate and model porosity values within the Jurassic Arab-D reservoir in the Harmaliyah Oil Field. The study concludes that while both methods are consistent, simulation better captures the actual heterogeneity of the reservoir compared to the smoother distribution produced by kriging.
+**Summary**: The thesis investigates the spatial distribution of porosity within the Jurassic Arab-D reservoir in the Harmaliyah Oil Field using geostatistical methods. It evaluates various statistical parameters, performs semivariogram analysis to determine anisotropy, and concludes that faulting does not significantly impact porosity distribution.
 
 ---
 
 ## Research Problem
 
-The need for accurate 3D modeling of spatial rock properties (porosity) in the Arab-D reservoir within the Harmaliyah Oil Field to overcome limitations of traditional geological tools in characterizing reservoir heterogeneity.
+Determining the most effective geostatistical method (kriging vs. conditional simulation) for modeling and simulating porosity distribution within the Arab-D reservoir in the Harmaliyah Field, specifically addressing the need to maintain both statistical and spatial characteristics of the rock properties.
 
 ## Objectives
 
@@ -79,56 +79,36 @@ The need for accurate 3D modeling of spatial rock properties (porosity) in the A
 - Fit appropriate theoretical models to experimental semivariograms.
 - Apply a suitable kriging technique to estimate well-log porosity values.
 - Construct a 3D simulation model for the well-log porosity values.
-- Construct geostatistical models to estimate and simulate porosity values within the Arab-D reservoir.
-- Evaluate the spatial characteristics of reservoir rock properties using geostatistical techniques.
-- Perform a critical review of data to ensure consistency between digital logs and original traces.
-- Conduct univariate statistical analysis (mean, median, variance, skewness) for each well and zone.
-- Evaluate the impact of faulting on porosity distribution across different blocks.
-- Calculate and model vertical and horizontal semivariograms to determine spatial continuity.
-- Determine appropriate geostatistical models for porosity estimation.
-- Construct geostatistical models based on spatial continuity to estimate and simulate porosity values.
-- Analyze vertical and horizontal semivariograms of well-log porosity for individual zones and the whole reservoir.
-- Determine anisotropy in marker surfaces using variogram maps.
-- Construct a 3D grid system to represent the reservoir's geometry and volume.
-- Estimate marker surfaces for the top and bottom of the reservoir using ordinary kriging.
-- Develop a 3D model of well-log porosity values using ordinary kriging.
-- Perform conditional simulation (Gaussian Sequential Simulation) to capture the spatial variability of porosity.
-- Estimate and simulate porosity values within the Jurassic Arab-D reservoir rocks in the Harmali_yah Oil Field.
-- Construct geostatistical models based on spatial continuity of well-log data.
-- Compare kriged results with simulation results to evaluate the impact of stochastic variability.
-- To estimate and simulate porosity values within the Jurassic Arab-D reservoir rocks.
-- To construct geostatistical models based on spatial continuity.
-- To compare kriging and conditional simulation methods for modeling reservoir properties.
 
 ## Methods
 
-The study involved a multi-step workflow: 1) Data validation by comparing digital logs with original traces. 2) Univariate statistical analysis of well-log porosity (mean, median, skewness, coefficient of variation). 3) Spatial partitioning into six zones and five fault blocks to assess local variability. 4) Normalization of data to a standard normal form (mean=0, SD=1). 5) Calculation of experimental semivariograms for vertical and horizontal directions using the GEOLITH package. 6) Fitting of transition models (spherical, exponential, Gaussian) to these semivariograms.
+The study utilized a multi-step workflow: 1) Data validation by comparing digital porosity data with original well-log traces. 2) Univariate statistical analysis (mean, median, variance, standard deviation, skewness, and coefficient of variation) for individual wells and reservoir zones. 3) Analysis of fault blocks to determine the influence of structural features on porosity distribution. 4) Geostatistical spatial analysis including semivariogram calculation for vertical and horizontal directions using the GEOLITH package. 5) Modeling of experimental semivariograms using spherical, exponential, and Gaussian models.
 
 ## Data and Materials
 
-Well-log derived porosity values from 44 vertical wells in the Harmaliyah Oil Field; data included well locations, tops, and survey data for both the Arab-D reservoir and marker surfaces.
+Well-log porosity data from multiple wells (e.g., X01 to X48) across six zones in the Arab-D reservoir; survey data for well locations; and marker surface data for top and bottom boundaries of the reservoir.
 
 ## Key Findings
 
-- Kriging resulted in a smoother distribution of porosity values compared to simulation. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
-- Simulation appeared to have reproduced actual heterogeneity in the distribution of porosity within the reservoir. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
-- Comparison of histograms and statistical parameters of input data and simulated values indicated a very close match in both distributions and parameters. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
-- The Harmaliyah Oil Field is located approximately 200 km southwest of Dhahran and 25 km east of the southern portion of the Ghawar Field. ([[1996-al-salem|Al-Salem, 1996, p. 21]])
-- The Arab-D reservoir was discovered in January 1972 and produced crude oil with 35° API gravity, 740 gas/oil ratio, and 1.67% sulfur content. ([[1996-al-salem|Al-Salem, 1996, p. 24]])
-- The Arab-D reservoir is characterized by high primary porosity due to pre-burial diagenetic features like early lithification, cementation, dissolution, and dedolomitization. ([[1996-al-salem|Al-Salem, 1996, p. 37]])
-- Three main types of porosity exist in the Arab-D: intergranular (up to 25%), intragranular (up to 15%), and intercrystalline (10% to 25%). ([[1996-al-salem|Al-Salem, 1996, p. 38]])
-- The average thickness of the Arab-D reservoir in the Harmaliyah Field is approximately 40m (136 ft). ([[1996-al-salem|Al-Salem, 1996, p. 38]])
-- Five basic carbonate lithofacies types were identified: Coralline/algal, Grainstone, Dolomite mosaic, Dolomitized sediments, and Packstone/Wackestone/Mudstone. ([[1996-al-salem|Al-Salem, 1996, p. 40]])
-- Dolomite mosaic facies shows good reservoir characteristics where dolomite forms 80% to 90% of the matrix. ([[1996-al-salem|Al-Salem, 1996, p. 42]])
-- Dolomitized sediments have poor reservoir characteristics as porosity decreases when dolomite exceeds 10% in the matrix. ([[1996-al-salem|Al-Salem, 1996, p. 43]])
-- Four wells were excluded from the final geostatistical model because their logs did not reach the base of the reservoir. ([[1996-al-salem|Al-Salem, 1996, p. 50]])
-- Mean porosity values for individual wells ranged between 0.07 and 0.18. ([[1996-al-salem|Al-Salem, 1996, p. 56]])
-- Zone 2 exhibited the highest mean porosity (0.16) and the highest number of data points (2,779). ([[1996-al-salem|Al-Salem, 1996, p. 58]])
-- Zones 1 and 6 showed the lowest mean values (0.067 and 0.064 respectively) and the highest coefficient of variation, indicating higher variability. ([[1996-al-salem|Al-Salem, 1996, p. 59]])
+- The Arab-D reservoir is characterized by high primary porosity due to early lithification, cementation, dissolution, and dedolomitization. ([[1996-al-salem|Al-Salem, 1996, p. 37]])
+- Three types of porosity exist in the Arab-D: intergranular (up to 25%), intragranular (up to 15%), and intercrystalline (10% to 25%). ([[1996-al-salem|Al-Salem, 1996, p. 38]])
+- The average thickness of the Arab-D reservoir is approximately 40m (136 ft), divided into six zones based on time stratigraphic markers. ([[1996-al-salem|Al-Salem, 1996]])
+- page_num_raw_val_not_found_in_text_but_it_is_on_page_38 ([[1996-al-salem|Al-Salem, 1996]])
+- Kriging resulted in a smoother distribution of porosity values compared to the simulation model. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
+- The Gaussian Sequential Simulation (GSS) successfully reproduced actual heterogeneity in the distribution of porosity within the reservoir. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
+- Comparison of results showed a very close match between input data and simulated values for both distributions and parameters. ([[1996-al-salem|Al-Salem, 1996, p. 19]])
+- Mean porosity values for individual wells range between 0.07 and 0.18. ([[1996-al-salem|Al-Salem, 1996, p. 57]])
+- Data from half of the wells are positively skewed and those from the other half are negatively skewed with the magnitude of skewness being less than 0.5 in most cases. ([[1996-al-salem|Al-Salem, 1996, p. 57]])
+- Zone 2 has the highest mean porosity value (0.16) and the highest median value (0.17). ([[1996-al-salem|Al-Salem, 1996, p. 59]])
+- Zones 3, 4, and 5 have nearly identical mean values of 0.13, 0.13, and 0.12 respectively. ([[1996-al-salem|Al-Salem, 1996, p. 59]])
+- Zone 1 and Zone 6 have the lowest mean values (0.067 and 0.064) and highest coefficient of variation (>0.5), indicating higher variability. ([[1996-al-salem|Al-Salem, 1996, p. 59]])
+- The average porosity for the whole reservoir is 0.12, with a range from 0.0 to 0.29 and a coefficient of variation of 0.53. ([[1996-al-salem|Al-Salem, 1996, p. 60]])
+- Faulting did not have any significant effect on porosity or the distribution of well-log porosity data, suggesting faults may not penetrate fully into the Arab-D reservoir. ([[1996-al-salem|Al-Salem, 1996, p. 74]])
+- Vertical semivariograms for individual wells showed no nugget variance (0.0), indicating an absence of variation at the scale of measurement (0.5 ft). ([[1996-al-salem|Al-Salem, 1996, p. 94]])
 
 ## Limitations
 
-The study notes that the interpretation of fault impact is limited by the possibility that faults do not penetrate all the way through the reservoir or are not present across the entire field.
+Four wells were excluded from the final geostatistical analysis because their traces did not penetrate to the base of the reservoir or contained missing values in the lower portion.
 
 ## Recommendations and Future Work
 
@@ -137,14 +117,12 @@ Not stated in source
 ## Related Concepts
 
 - [[well-log-analysis]]
-- [[geostatistics]]
 - [[kriging]]
 - [[sequential-gaussian-simulation]]
 - [[arab-d-reservoir]]
 - [[harmaliyah-field]]
 - [[porosity]]
-- [[reservoir-characterization]]
+- [[petrophysics]]
+- [[geostatistics]]
 - [[variogram-analysis]]
 - [[anisotropy]]
-- [[petrophysics]]
-- [[gaussian-sequential-simulation]]

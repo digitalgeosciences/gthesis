@@ -19,40 +19,36 @@ keywords:
   - Fly ash (FA)
   - Adsorption
   - Water treatment
-  - Groundwater contaminant
-  - Fly Ash
-  - Contaminated Water
   - Modified fly ash
-  - Metal oxide impregnation
-  - Waste management
-  - MTBE
-  - Groundwater Contamination
+  - Non-modified fly ash
+  - Surface morphology
+  - Elemental composition
 techniques:
   - bet
   - tga
+  - sonication
+  - calcination
+  - batch-adsorption
+  - filtration
   - fesem
   - edx
   - gc-ms
-  - adsorption-experiments
-  - bet-surface-area-analysis
-  - nanotrack-particle-size-analysis
   - sem
-  - langmuir-isotherm-model
-  - freundlich-isotherm-model
-  - uv-vis-spectroscopy
 tags:
   - degree/ms
   - location/saudi-arabia
   - technique/bet
   - technique/tga
+  - technique/batch-adsorption
+  - technique/filtration
   - technique/sem
-  - technique/xrf
+  - technique/xrd
   - technique/gc-ms
-  - technique/adsorption-experimentss
-  - technique/sem-eds
-  - technique/uv-vis-spectroscopy
+  - technique/adsorption-experiments
+  - technique/water-treatment
   - theme/water-treatment
-  - theme/environmental-geoscience
+  - theme/environmental-pollution
+  - terminology/mtbe
   - terminology/adsorption
   - terminology/water-quality
 status: ingested
@@ -60,85 +56,70 @@ status: ingested
 
 # Removal of Methyl Tertiary Butyl Ether (MTBE) from Water Using Modified and Non-modified Fly Ash
 
-**Summary**: The thesis investigates the removal of MTBE from aqueous solutions using raw and modified fly ash (impregnated with silver, aluminum, or ferric oxide) as adsorbents. It concludes that while activated carbon remains more efficient for pure removal, silver oxide impregnated fly ash provides a viable and potentially more sustainable waste-management solution.
+**Summary**: The thesis investigated the removal of MTBE from water using raw, acid-treated, and metal oxide (silver, iron, and aluminum) impregnated fly ash. The study concluded that silver oxide-impregnated fly ash was the most effective adsorbent, achieving 24% removal compared to less than 10% for other materials.
 
 ---
 
 ## Research Problem
 
-MTBE is a common gasoline oxygenate that is highly soluble in water, mobile in groundwater, and persistent, making it a significant environmental contaminant. Existing remediation techniques often have limitations or are not economically feasible for large-scale treatment.
+MTBE is a common gasoline additive that poses significant risks to groundwater and drinking water due to its high solubility, mobility, and persistence. Existing remediation techniques have inherent limitations, necessitating the search for cost-effective alternatives like modified fly ash as an adsorbent.
 
 ## Objectives
 
-- Assess adsorption efficiencies of raw fly ash (non-modified), acid treated fly ash, and metal oxide (silver, iron, and aluminum) impregnated fly ash for MTBE treatment.
-- Characterize the physical and chemical properties of the different fly ash materials.
-- Evaluate the effect of various parameters (pH, agitation speed, adsorbent dosage, contact time, and initial concentration) on MTBE removal.
-- Compare the performance of modified fly ash with activated carbon.
 - To demonstrate removal of MTBE from contaminated water using modified and non-modified fly ash under bench-scale conditions.
 - To study the effect of solution conditions such as pH, fly ash dosage, contact time, MTBE concentration, and mixing rates on the adsorption efficiency.
 - To evaluate the adsorption kinetics under the optimum treatment conditions.
-- Prepare three types of fly ash: raw, acid-treated, and metal oxide impregnated (aluminum, iron, silver).
-- Characterize the prepared fly ash using BET surface area analysis, TGA, FESEM, and EDX.
-- Evaluate the adsorption efficiency of these materials for removing MT1BE from spiked water samples.
-- Evaluate the physical properties (surface area, particle size, composition) of raw and modified fly ash.
-- Determine the impact of metal oxide impregnation on the adsorption capacity of fly ash for MTBE removal.
-- Identify the optimal experimental conditions (pH, agitation speed, dosage, contact time) for MTBE removal using silver oxide impregnated fly ash.
-- Compare the performance of fly ash-based adsorbents against activated carbon.
 - Assess the potential of fly ash as an adsorbent for MTBE in aqueous solution
-- Determine how adsorption processes are influenced by experimental variables (e.g., pH, dosage)
-- Identify optimal conditions for MTBE removal using modified fly ash
-- Evaluate the feasibility and cost-effectiveness of fly ash compared to activated carbon
-- Evaluate the removal of MTBE from water using non-modified fly ash
-- Evaluate the removal of MTBE from water using modified fly ash
-- Compare the performance of fly ash and activated carbon in MTBE removal
+- Determine how adsorption processes are influenced by experimental variables (pH, agitation speed, contact time, and initial concentration)
+- Evaluate the synergistic effects of combining activated carbon with various fly ash materials
 
 ## Methods
 
-Fly ash was obtained from a local plant and processed into three types: raw (washed/dried), acid-treated (nitric acid treatment), and impregnated (doped with Al, Fe, or Ag oxides). Characterization included BET surface area analysis to determine porosity, TGA for weight percentage determination during heating, FESEM for morphology, and EDX for elemental composition. Batch adsorption experiments were conducted using 100 mL of MTBE-spiked water with varying adsorbent dosages (10-100 mg), contact times (1-5 hours), pH levels (3-9), and initial concentrations (500-1000 µg/L). Analysis was performed using a GC-MS system equipped with an auto-sampler and a DB 520.2 column.
+The study involved characterizing adsorbent materials using FESEM to analyze surface morphology, EDX for elemental composition, TGA for thermal stability/impurities, and BET for specific surface area. Batch experiments were conducted where 100 mL of MTBE-spiked deionized water was treated with various dosages (10-100 mg) of fly ash types (raw, acid-treated, and impregnated with Fe2O3, Al2O3, or Ag2O3). Analytical measurements of MTBE concentration were performed using a GC-MS system. Adsorption parameters were evaluated using Langmuir and Freundlich isotherm models.
 
 ## Data and Materials
 
-The study utilized fly ash collected from heavy liquid fuel powered electricity generating power plants operated by Saudi Aramco, consisting of raw, acid-treated, and metal oxide (silver, iron, and aluminum) impregnated samples. Batch experiments were conducted with varying parameters: pH levels, agitation speeds (e.g., 200 rpm), adsorbent dosages (e.g., 50 mg or 75 mg), contact times (up to 2 hours), and initial MTBE concentrations (e.g., 1000 µg/L).
+The study utilized 6 types of adsorbent materials (raw fly ash, acid treated fly ash, ferric oxide impregnated fly ash, aluminum oxide impregnated fly ash, silver oxide impregnated fly ash, and activated carbon). Batch experiments used 100 mL samples with initial MTBE concentrations of 500-1000 μg/L. Analytical data included BET surface areas (e.g., 16.7890 m²/g for Ag2O-FA), TGA weight loss percentages, and GC-MS concentration readings.
 
 ## Key Findings
 
-- Only silver oxide impregnated-FA showed significant adsorption, with a reported removal of 24% in the English abstract (or 42% in the Arabic summary) for MTBE in aqueous solution. ([[2014-adebayo|Adebayo, 2014, p. 12]])
-- Other tested adsorbent materials (acid treated and metal oxide impregnated except silver) showed less than 10% removal of MTBE. ([[2014-adebayo|Adebayo, 2014, p. 13]])
-- The pH of the solution had an insignificant effect on MTBE removal when non-modified fly ash was applied. ([[2014-adebayo|Adebayo, 2014, p. 12]])
-- More acidic solutions showed better adsorption with the Ag2O impregnated fly ash. ([[2014-adebayo|Adebayo, 2014, p. 13]])
-- Ag2O-FA showed optimum adsorption at 2 hours of contact time and using 50 mg of adsorbent (noted as 10 mg in Arabic summary). ([[2014-adebayo|Adebayo, 2014, p. 13]])
-- MTBE has high water solubility (50,000 mg/L), low soil and aquifer adsorption, and high mobility in groundwater systems. ([[2014-adebayo|Adebayo, 2014, p. 17]])
-- MTBE is considered a potential human carcinogen by the US EPA with hazardous effects at concentrations between 20 and 40 µg/L. ([[2014-adebayo|Adebayo, 2014, p. 17]])
-- MTBE has a lower organic-carbon partition coefficient (KOC) of 11 mg/L compared to benzene's 80 mg/L, leading to faster movement in groundwater. ([[2014-adebayo|Adebayo, 2014, p. 23]])
-- Ozone alone was found to be 5 times less efficient than O3/H2O2 for the removal of MTBE in water. ([[2014-adebayo|Adebayo, 2014, p. 32]])
-- UV/ozone was reported to be two times faster than the use of ozone alone in treating MT10 mg/L contaminated water, with removal efficiency greater than 99.9%. ([[2014-adebayo|Adebayo, 2014, p. 32]])
-- Raw fly ash had a higher surface area than acid-treated fly ash because the removal of metals/impurities during acid treatment reduced the available surface. ([[2014-adebayo|Adebayo, 2014, p. 42]])
-- Impregnation with metal oxides resulted in significant improvement in the surface area of the fly ash compared to raw or acid-treated versions. ([[2014-adebayo|Adebayo, 2014, p. 50]])
-- The GC-MS system was calibrated for a range of 0.5 to 5,000 µg/L to monitor MTBE concentrations. ([[2014-adebayo|Adebayo, 2014, p. 49]])
-- Nanotrack analysis showed average particle sizes of 4470 nm for raw fly ash and 2880 nm for acid-treated fly ash. ([[2014-adebayo|Adebayo, 2014, p. 53]])
-- BET surface area values were: Raw fly ash (7.1539 m²/g), Acid treated fly ash (6.0245 m²/g), Ferric oxide impregnated fly ash (9.0565 m²/g), Aluminum oxide impregnated fly ash (11.8890 m²/g), and Silver oxide impregnated fly ash (16.7890 m²/g). ([[2014-adebayo|Adebayo, 2014, p. 54]])
+- Only silver oxide impregnated-FA showed adsorption of 24% removal of MTBE in aqueous solution, while the other tested adsorbent materials showed <10% removal. ([[2014-adebayo|Adebayo, 2014, p. 12]])
+- The pH of the solution was found to have insignificant effect on MTBE removal when non-modified fly ash was applied. ([[2014-adebayo|Adebayo, 2014, p. 12]])
+- More acidic solutions showed better adsorption with the Ag2O impregnated fly ash. ([[2014-adebayo|Adebayo, 2014, p. 12]])
+- Ag2O-FA showed optimum adsorption at 2 hours of contact and using 50 mg of adsorbent. ([[2014-adebayo|Adebayo, 2014, p. 12]])
+- MTBE has a high water solubility (50,000 mg/L) and low soil and aquifer adsorption, making it a contaminant of concern. ([[2014-adebayo|Adebayo, 2014, p. 17]])
+- Silver oxide impregnated fly ash showed removal efficiency of approximately 42% in the Arabic summary section (Note: English abstract states 24%). ([[2014-adebayo|Adebayo, 2014, p. 13]])
+- Raw fly ash showed a higher surface area (7.1539 m²/g) than acid treated fly ash (6.0245 m²/g) due to the removal of metal impurities during acid treatment. ([[2014-adebayo|Adebayo, 2014, p. 54]])
+- Silver oxide impregnated fly ash (Ag2O-FA) showed a significant increase in surface area compared to other modified fly ashes, reaching 16.7890 m²/g. ([[2014-adebayo|Adebayo, 2014, p. 54]])
+- TGA analysis confirmed that acid treatment successfully removed impurities from raw fly ash, as evidenced by the complete burning of the material in TGA profiles. ([[2014-adebayo|Adebayo, 2014, p. 53]])
+- Silver oxide impregnated fly ash (Ag2O-FA) was the only tested adsorbent that produced a notable removal of MTBE, achieving a peak removal efficiency of 24% at an optimum dosage of 50 mg. ([[2014-adebayo|Adebayo, 2014, p. 73]])
+- The removal efficiency of Ag2O-FA increased with decreasing pH, reaching its highest value of 37% at pH 3. ([[2014-adebayo|Adebayo, 2014, p. 99]])
+- Ag2O-FA showed a peak removal of 24% at an optimum dosage of 50 mg; dosages above this resulted in a decline due to the overlapping or aggregation of adsorption sites. ([[2014-adebayo|Adebayo, 2014, p. 78]])
+- finding_page_num_not_available_in_source_for_this_specific_item ([[2014-adebayo|Adebayo, 2014]])
+- The removal efficiency for Ag2O-FA increased with agitation speed up to 200 rpm, attributed to improved contact between active sites and MTBE. ([[2014-adebayo|Adebayo, 2014, p. 76]])
+- Adsorption of MTBE onto silver oxide impregnated fly ash followed the Langmuir isotherm model more closely than the Freundlich model (R² = 0.9875 vs 0.7822). ([[2014-adebayo|Adebayo, 2014, p. 93]])
 
 ## Limitations
 
-The study noted that the cost comparison did not include the capital-intensive nature of landfilling fly ash or the specific costs associated with the impregnation process.
+The study noted that the high solubility of MTBE in water (50,000 mg/L) and its low organic-carbon partition coefficient KOC (11 mg/L) make adsorption a challenging technique for its removal from aqueous media.
 
 ## Recommendations and Future Work
 
-- Further studies on other modifications to fly ash to achieve higher adsorption efficiency than silver oxide.
-- Studies on combining non-modified and modified fly ash with other established MTBE treatment techniques.
-- Application of similar adsorbent materials to other contaminants of environmental concern.
+- Further studies on other modifications to fly ash that could bring about higher adsorption efficiency than silver oxide impregnation.
+- Subsequent studies on the combination of non-modified and modified fly ash with other established MTBE treatment techniques.
+- Application of similar adsorbent materials on a different contaminant of environmental concern.
 
 ## Related Concepts
 
 - [[bet]]
 - [[tga]]
-- [[sem]]
-- [[gc-ms]]
+- [[mtbe]]
 - [[adsorption]]
-- [[water-quality]]
 - [[water-treatment]]
 - [[saudi-arabia]]
+- [[sem]]
+- [[edx]]
+- [[gc-ms]]
 - [[adsorption-experiments]]
-- [[environmental-geoscience]]
-- [[sem-eds]]
-- [[uv-vis-spectroscopy]]
+- [[water-quality]]
+- [[environmental-pollution]]

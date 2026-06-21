@@ -4,43 +4,44 @@ title: "Organochlorine Pesticides"
 aliases:
   - "OCPs"
 canonical: true
-definition: "Pesticides containing chlorine atoms that are persistent in the environment."
-units: "ug/g or ng/g"
+definition: "Hydrocarbons with chlorine atoms in their structure, known for persistence and toxicity."
+units: "mg/L or mg/kg"
 related_techniques:
+  - "spe"
+  - "ultrasonication"
   - "gc-ms"
-  - "solid-phase-extraction"
 tags:
   - theme/environmental-pollution
 sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Organochlorine Pesticides
 
-**Summary**: Pesticides characterized by the presence of chlorine atoms, known for their persistence and bioaccumulation.
+**Summary**: A class of persistent organic pollutants (POPs) characterized by high stability and potential for bioaccumulation.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-mohammed|Mohammed, 2013]] studied organochlorine pesticides (OCPs) as a primary environmental contaminant in the Arabian Gulf.
+- [[2013-mohammed|Mohammed, 2013]] monitored OCPs in various environmental media to assess contamination levels.
 
 ## Scientific Context
 
-- [[2013-mohammed|Mohammed, 2013]] OCPs are a major concern due to their long half-life and persistence in soil and aquatic habitats.
+- [[2013-mohammed|Mohammed, 2013]] OCPs are a major concern due to their ability to bioaccumulate in the food chain.
 
 ## Measurement and Characterization Methods
 
-- [[2013-mohammed|Mohammed, 2013]] quantified via extraction and chromatography.
+- [[2013-mohammed|Mohammed, 2013]] Quantified via GC-MS after SPE or UAE extraction.
 
 ## Key Findings Across Sources
 
-- Concentrations of OCPs in sediment samples were found to range from 0.014 to 2.571 ug/g. ([[2013-mohammed|Mohammed, 2013, p. 39]])
+- DDD, a metabolite of DDT, was the most prevalent pesticide found across all samples. ([[2013-mohammed|Mohammed, 2013, p. 14]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

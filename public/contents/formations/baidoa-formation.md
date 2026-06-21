@@ -2,45 +2,48 @@
 type: formation
 title: "Baidoa Formation"
 aliases:
-  - "Baidoa Formation"
+  - "Baidoa aquifer"
 canonical: true
 age: "Middle Jurassic"
-basin: "Lugh-Mandcra basin (local)"
-lithology: "limestone and marl"
-reservoir_status: "potential"
+basin: "Somali Embayment"
+lithology: "sandstone, marls, and limestone"
+reservoir_status: "producer"
 tags:
   - formation/baidoa-formation
 sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Baidoa Formation
 
-**Summary**: A Middle Jurassic formation in Somalia consisting of three members: Uaney, Baidoa, and Goloda.
+**Summary**: A sedimentary formation in the southern region of Somalia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1993-moallim|Moallim, 1993]] studied the baidoa-formation to characterize its karstified limestone units as potential aquifers.
+- [[1993-moallim|Moallim, 1993]] characterized the Baidoa aquifer's hydraulic properties and water quality.
 
 ## Depositional Environment
 
-- [[1993-moallim|Moallim, 1993]] marine/shallow marine
+- [[1993-moallim|Moallim, 1993]] marine-littoral to fluvial
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[1993-moallim|Moallim, 1993]] Karstification and fracturing
+
 ## Key Findings Across Sources
 
-- The Goloda Member reaches a thickness of 650 meters in the Lugh-Mandcra basin. ([[1993-moallim|Moallim, 1993, p. 25]])
+- Divided into three members: Uaney, Baidoa, and Goloda. ([[1993-moallim|Moallim, 1993, p. 25]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1993-moallim|Moallim, 1993]] karstification, weathering
 
 ## Open Questions and Research Gaps
 

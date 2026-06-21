@@ -1,57 +1,56 @@
 ---
 type: formation
 title: "Bentiu Formation"
-aliases: []
+aliases:
+  - "Bentiu-1 Reservoir"
+  - "Bentiu-1"
 canonical: true
-age: "Not stated in source"
-basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "Not stated in source"
-tags: []
+age: "Albian-Cenomanian"
+basin: "Muglad Rift Basin"
+lithology: "sandstone"
+reservoir_status: "producer"
+tags:
+  - formation/bentiu-formation
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
   - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Bentiu Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A thick sandstone sequence in the Muglad Rift Basin.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Bentiu Formation
+- [[2015-jabir|Jabir, 2015]] modeled the lithofacies and petrophysical properties of the Bentiu-1 reservoir.
 
-- [[2015-jabir|Jabir, 2015]] studied the bentiu-formation to characterize its lithofacies and petrophysical properties.
-
-- [[2017-abdelgader|Abdelgader, 2017]] identified the bentiu-formation as a stratigraphic marker in the geoseismic sections.
+- [[2017-abdelgader|Abdelgader, 2017]] analyzed the bentiu-formation as a primary reservoir rock in the Muglad Basin.
 
 ## Depositional Environment
 
+- [[2015-jabir|Jabir, 2015]] braided and meandering streams
 
-
-- [[2015-jabir|Jabir, 2015]] studied the bentiu-formation to characterize its lithofacies and petrophysical properties.
-
-- [[2017-abdelgader|Abdelgader, 2017]] identified the bentiu-formation as a stratigraphic marker in the geoseismic sections.
+- [[2017-abdelgader|Abdelgader, 2017]] analyzed the bentiu-formation as a primary reservoir rock in the Muglad Basin.
 
 ## Reservoir Properties
+
+- [[2015-jabir|Jabir, 2015]] porosity 15-40%, permeability determined by core-porosity relationship
+
+## Diagenetic History
 
 
 
 ## Key Findings Across Sources
 
-- studied the Bentiu Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+- The Bentiu-1 is the main oil bearing interval, with thickness between 90m and 250m. ([[2015-jabir|Jabir, 2015, p. 21]])
 
-- The Bentiu-1 reservoir interval contains four lithological cycles capped by shale. ([[2015-jabir|Jabir, 2015, p. 13]])
-
-- The Bentiu Formation is situated above the Abu Gabra Formation and below the Darfur Group. ([[2017-abdelgader|Abdelgader, 2017, p. 43]])
+- The Bentiu Formation is characterized by high sedimentation rates and stacked channel/bar deposits. ([[2017-abdelgader|Abdelgader, 2017, p. 48]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

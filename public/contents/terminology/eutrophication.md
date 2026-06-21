@@ -1,50 +1,45 @@
 ---
 type: terminology
 title: "Eutrophication"
-aliases: []
+aliases:
+  - "nutrient-loading"
 canonical: true
-definition: "Excessive richness of nutrients in water."
+definition: "Excessive nutrient enrichment leading to algal blooms and oxygen depletion."
 units: "not applicable"
-related_techniques: []
+related_techniques:
+  - "hydrochemical-analysis"
 tags:
-  - theme/environmental-geoscience
+  - theme/water-quality
 sources:
   - "raw/139640 - INFLUENCE OF TREATED SEWAGE EFFLUENTS ON SAUDI COAST OF THE ARABIAN GULF FROM WA.pdf"
-  - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Eutrophication
 
-**Summary**: The enrichment of water by nutrients, leading to excessive growth of algae and oxygen depletion.
+**Summary**: The enrichment of water bodies with nutrients, leading to excessive plant/algae growth.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-yusuf|Yusuf, 2015]] discussed eutrophication as a consequence of nutrient loading from sewage.
-
-- [[2015-arslan|Arslan, 2015]] assessed the impact of eutrophication indicators (SO4, PO4, NO3, NO2) on foraminiferal assemblages.
+- [[2015-yusuf|Yusuf, 2015]] assessed eutrophication risk from sewage outfalls.
 
 ## Scientific Context
 
-- [[2015-yusuf|Yusuf, 2015]] Impacts marine biodiversity and oxygen levels.
-
-- [[2015-arslan|Arslan, 2015]] assessed the impact of eutrophication indicators (SO4, PO4, NO3, NO2) on foraminiferal assemblages.
+- [[2015-yusuf|Yusuf, 2015]] A major concern in coastal water quality management.
 
 ## Measurement and Characterization Methods
 
-- [[2015-yusuf|Yusuf, 2015]] Monitoring nutrient concentrations (nitrate, phosphate).
+- [[2015-yusuf|Yusuf, 2015]] Inferred from nitrate, nitrite, and phosphate concentrations.
 
 ## Key Findings Across Sources
 
-- High nutrient levels can lead to algal blooms and depleted dissolved oxygen. ([[2015-yusuf|Yusuf, 2015, p. 16]])
+- Input of nutrients from sewage effluents can result into eutrophication of marine ecosystems. ([[2015-yusuf|Yusuf, 2015, p. 16]])
 
-- The site is subject to eutrophication caused by nitrates and sulfates. ([[2015-arslan|Arslan, 2015, p. 95]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

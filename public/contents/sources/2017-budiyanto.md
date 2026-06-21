@@ -12,7 +12,7 @@ committee_members:
   - "Musa Mohammed Musa"
 source_file: "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140284/"
-study_area: "Saudi Arabia (specifically focusing on the Arabian Gulf and produced water from oil production)"
+study_area: "Jubail area, Saudi Arabia (27°06'46.53'' N 49°22'24.53'' E)"
 keywords:
   - hypersaline
   - halophilic bacteria
@@ -20,144 +20,97 @@ keywords:
   - temperature
   - pH
   - salinity
-  - Polycyclic Aromatic Hydrocarbons (PAHs)
-  - hypersaline environment
-  - biodegradation
-  - produced water
   - pyrene degradation
-  - petroleum-contaminated soil
-  - 16S rRNA analysis
-  - Idiomarina sp.
-  - Halomonas shengliensis
-  - Halomonas smyrnensis
-  - bioremediation
-  - polycyclic aromatic hydrocarbons
+  - hypersaline environment
+  - polyaromatic compounds
+  - biodegradation
 techniques:
-  - light-microscopy
   - sem
-  - molecular-microbiology
   - gc-ms
-  - gas-chromatography
+  - 16s-rrna-analysis
+  - molecular-microbiology
+  - light-microscopy
   - microscopy
-  - phylogenetic-tree-construction
-  - liquid-liquid-extraction
-  - morphological-analysis
-  - molecular-analysis
-  - sem-eds
+  - phylogeny-tree
+  - growth-kinetics
 tags:
   - degree/ms
-  - location/arabian-gulf
-  - location/saudi-arabia
   - location/jubail-area
   - technique/sem
   - technique/gc-ms
-  - technique/microscopy
-  - technique/molecular-microbiology
-  - technique/xrd
-  - technique/gas-chromatography
-  - technique/liquid-liquid-extraction
-  - technique/sem-eds
+  - technique/microbiology
+  - technique/molecular-analysis
   - theme/environmental-microbiology
-  - theme/bioremediation
-  - theme/environmental-geoscience
-  - terminology/bioremediation
-  - terminology/polycyclic-aromatic-hydrocarbons
+  - theme/environmental-pollution
   - terminology/halophilic-bacteria
-  - terminology/salinity
+  - terminology/pyrene
+  - terminology/bioremediation
+  - terminology/growth-kinetics
 status: ingested
 ---
 
 # Study of pyrene degradation by halophilic bacteria under hypersaline environment
 
-**Summary**: The thesis investigated the degradation of pyrene by halophilic bacteria isolated from petroleum-contaminated soil in the Jubail area. The study identified three specific strains (Idiomarina sp., Halomonas shengliensis, and Halomonas smyrnensis) and evaluated their growth rates and ability to degrade pyrene under varying salinity and temperature conditions.
+**Summary**: The thesis investigated the isolation and characterization of halophilic bacteria from petroleum-contaminated soil in the Jubail area to evaluate their ability to degrade pyrene under hypersaline conditions. The study tested various environmental factors including temperature, pH, and salinity levels, concluding that specific strains like Halomonas smyrnensis 20PY1A showed the fastest degradation rates.
 
 ---
 
 ## Research Problem
 
-Pyrene is a persistent and toxic PAH that poses significant environmental risks, especially when present in hypersaline conditions like those found in produced water from the oil industry. Current physical and chemical treatments are costly or produce waste, necessitating the search for biological alternatives using halophilic bacteria.
+The persistence of polycyclic aromatic hydrocarbons (PAHs), specifically pyrene, in hypersaline environments poses a significant challenge for remediation due to its low bioavailability and the limited ability of non-halophilic bacteria to survive in high salt concentrations.
 
 ## Objectives
 
-- Isolate halophilic bacteria from contaminated areas.
-- Characterize the morphology and molecular identity of the isolates.
-- Evaluate the growth of isolated strains under various environmental conditions (temperature, pH, salinity).
-- Quantify the degradation of pyrene by the isolated strains.
-- Assess the ability of isolates to grow in the presence of other aromatic compounds.
 - Isolate a strain of bacteria from petroleum contaminated soil samples that have the ability to degrade pyrene at high salinity medium
-- Identify isolated halophile bacteria species using 16S RNA sequences and construct the bacteria Phylogenic tree.
-- Characterize the morphology of bacteria species using light microscopy and Scanning Electron Microscope (SEM).
-- Study the effect of various conditions: temperature (10, 25, 37 and 50 oC), pH (3, 5, 7, and 9), salinity (0, 5, 10, 15, and 20 % NaCl), initial pyrene concentration (1, 5, 50, 100, and 1000 ppm) on the ability of isolated strains to degrade pyrene also to quantify pyrene concentration during biodegradation process using GC.
-- Test the ability of strains to grow in different aromatic compounds (salicylic acid, naphthalene, phenanthrene, anthracene).
-- Enrich and isolate halophilic bacteria from petroleum-contaminated soil using pyrene as a sole carbon source.
-- Identify isolated strains through morphological characterization and 16S rRNA sequencing.
-- Evaluate the growth of isolates under different environmental conditions (salinity, temperature, and pyrene concentration).
-- Quantify the degradation of pyrene by the isolated halophilic bacteria.
-- Identify optimum growth conditions (pH, temperature, salinity) for Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A.
-- Evaluate the effect of different pyrene concentrations on the growth of these strains.
-- Quantify the degradation of pyrene by each strain over a period of time.
-- Assess the ability of the isolates to grow using various other aromatic compounds as carbon sources.
-- Isolate halophilic bacteria from petroleum-contaminated soil in the Jubail area.
-- Identify and characterize the isolated strains using morphological and molecular analysis.
-- Determine the optimal growth conditions (pH, temperature, salinity) for these strains in the presence of pyrene.
-- Evaluate the effect of initial pyrene concentration on the growth kinetics of the isolates.
-- Measure the degradation rates of py/pyrene by the isolated strains.
-- To study the degradation of pyrene by halophilic bacteria under hypersaline conditions
-- To evaluate the potential of halophilic microorganisms for bioremediation of polycyclic aromatic hydrocarbons (PAHs)
-- Identify halophilic bacteria capable of biodegrading pyrene
-- Characterize the biodegradation process under hypersaline conditions
+- Identify isolated halophile bacteria species using 16S RNA sequences and construct the bacteria Phylogenic tree
+- Characterize the morphology of bacteria species using light microscopy and Scanning Electron Microscope (SEM)
+- Study the effect of various conditions: temperature (10, 25, 37 and 50 oC), pH (3, 5, 7, and 9), salinity (0, 5, 10, 15, and 20 % NaCl), initial pyrene concentration (1, 5, 50, 100, and 1000 ppm) on the ability of isolated strains to degrade pyrene also to quantify pyrene concentration during biodegradation process using GC
+- Test the ability of strains to grow in different aromatic compounds (salicylic acid, naphthalene, phenanthrene, anthracene)
+- Isolate halophilic bacteria capable of degrading pyrene from petroleum- contaminated soil.
 
 ## Methods
 
-Halophilic bacteria were isolated from petroleum-contaminated soil samples from the Jubail area using enrichment techniques in various salinity conditions. Morphological and molecular analyses were conducted to identify the species (Idiomarina sp., Halomonas shengliensis, and Halomonas smyrnensis). Growth experiments were performed under varying conditions: temperature (10, 25, 37, 50 °C), pH (3, 5, 7, 9), salinity (0, 5, 10, 15, 20% w/v NaCl), and initial pyrene concentrations (1, 5, 50, 100, 1000 mg/L). The degradation of pyrene was monitored by measuring the reduction in concentration using liquid-liquid extraction followed by GC-MS analysis.
+The study involved enriching halophilic bacteria from contaminated soil samples using Bushnell-Haas (BH) medium with pyrene as a sole carbon source at varying salt concentrations (10%, 20%, and 25% NaCl). Morphological characterization was performed via light microscopy (Zeiss Imager D2) and Scanning Electron Microscopy (SEM, JEOL). Molecular identification utilized 16S rRNA gene amplification via PCR (primers 27F and 1492R) followed by sequencing. Pyrene degradation was monitored over 18 days by measuring bacterial growth (OD600) and quantifying residual pyrene concentration using liquid-liquid extraction and GC-MS.
 
 ## Data and Materials
 
-Soil samples from petroleum-contaminated areas; various aromatic compounds (salicylic acid, naphthalene, phenanthrene, anthracene); experimental conditions including temperatures of 10, 25, 37, and 50°C; pH levels of 3, 5, 7, and 9; salinity levels of 0, 5, 10, 15, and 20% NaCl; pyrene concentrations ranging from 1 to 1000 ppm.
+Soil samples from the Jubail area; 3 isolated bacterial strains (Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A); various aromatic compounds (phenanthrene, anthracene, naphthalene, salicylic acid) used as alternative carbon sources; pyrene concentrations ranging from 0.05 to 50 mg/L.
 
 ## Key Findings
 
-- Idiomarina sp. 10PY1A had a doubling time of 26 hours at pH 7 and 25 hours at pH 9. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-- Halomonas shengliensis 10PY2B had a doubling time of 30 hours at pH 7 and 41 hours at pH 9. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-- Halomonas smyrnensis 20PY1A had a doubling time of 24 hours at pH 7 and 20 hours at pH 9. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-- No growth was observed for any strain at 50°C; the optimum growth range was 25-37°C. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-- Optimal salinity for Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A was 5%, 10%, and 15% respectively. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-- Growth of all strains correlated negatively with the number of rings in other aromatic compounds (Salicylic acid, Naphthalene, Phenanthrene, Anthracene). ([[2017-budiyanto|Budiyanto, 2017, p. 20]])
-- The fastest degradation rate for pyrene was observed in Halomonas smyrnensis 20PY1A at 37°C and pH 7. ([[2017-budiyanto|Budiyanto, 2017, p. 20]])
-- Pyrene is a high molecular weight (HMW) PAH with a molecular weight of 202.2506 g/mol and solubility of approximately 0.135 mg/L in water. ([[2017-budiyanto|Budiyanto, 2017, p. 30]])
-- The Arabian Gulf is characterized by high salinity, often exceeding 40 psu (average global sea water is ~35 psu). ([[2017-budiyanto|Budiyanto, 2017, p. 26]])
-- Produced water from oil production can have a water-to-oil ratio of approximately 3:1. ([[2017-budiyanto|Budiyanto, 2017, p. 23]])
-- Halophilic bacteria are categorized by salt requirements: non-halophiles (<0.2 M NaCl), halotolerant/slight halophiles (0.2-0.5 M NaCl), moderate halophiles (0.5-2.5 M NaCl), and extreme halophiles (2.5-5.5 M NaCl). ([[2017-budiyanto|Budiyanto, 2017, p. 32]])
-- The order Halobacteriales in the domain Archaea contains the family Halobacteriaceae, which includes gram-negative halophilic organisms. ([[2017-budiyanto|Budiyanto, 2017, p. 33]])
-- Biodegradation of pyrene by Mycobacterium. Vanbalenii PYR-1 involves a sequence of 27 enzymes to transform pyrene into metabolic intermediates. ([[2017-budiyanto|Budiyanto, 2017, p. 34]])
-- Halophilic bacteria utilize two osmoregulation strategies: ion regulation (accumulating K+, Na+, Cl-) and the synthesis/accumulation of organic osmolytes like glycine betaine, trehalose, and ectoine. ([[2017-budiyanto|Budiyanto, 2017, p. 35]])
-- Several strains, including Halorubacterium piscisalsi and Haloferax sp., were shown capable of degrading pyrene at concentrations up to 160 ppm. ([[2017-budiyanto|Budiyanto, 2017, p. 38]])
+- Two strains were isolated in 10% NaCl (Idiomarina sp. 10PY1A and Halomonas shengliensis 10PY2B) and one strain in 20% NaCl (Halomonas smyrnensis 20PY1A). ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+- The doubling time of Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B and Halomonas smyr_ensis 20PY1A at pH 7 was 26 hours, 30 hours and 24 hours, respectively. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+- No growth for all isolated strains was observed at 50 °C; the optimum growth for all isolated strains was observed at 25-37 °C. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+- The optimal salinity for Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B and Halomonas smyrnensis 20PY1A was 5%, 10%, and 15%, respectively. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+- Growth rate of all strains correlated negatively with the number of rings in tested aromatic compounds (Salicylic acid, Naphthalene, Phenanthrene, Anthracene). ([[2017-budiyanto|Budiyanto, 2017, p. 20]])
+- The fastest degradation rate was observed by Halomonas smyrnensis 20PY1A at 37 °C and pH 7. ([[2017-budiyanto|Budiyanto, 2017, p. 20]])
+- Three distinct strains were successfully isolated: Idiomarina sp. (10PY1A), Halomonas shengliensis (10PY2B), and Halomonas smyrnensis (20PY1A). ([[2017-budiyanto|Budiyanto, 2017, p. 53]])
+- Halomonas smyrnensis 20PY1A exhibited the fastest growth rate among isolates with a doubling time of 24 hours at 37°C. ([[2017-budiyanto|Budiyanto, 2017, p. 61]])
+- All three strains were non-acidophilic, showing no growth at pH 3 and pH 5. ([[2017-budiyanto|Budiyanto, 2017, p. 95]])
+- The optimal temperature for all three strains was between 25°C and 37°C; no growth occurred at 50°C. ([[2017-budiyanto|Budiyanto, 2017, p. 96]])
+- Idiomarina sp. 10PY1A showed the best growth at 5% salinity (dt=18 hours). ([[2017-budiyanto|Budiyanto, 2017, p. 72]])
+- Halomonas smyrnensis 20PY1A and Halomonas shengliensis 10PY2B both showed optimal growth at 10% salinity. ([[2017-budiyanto|Budiyanto, 2017, p. 73]])
+- Lower initial pyrene concentrations (0.05-0.25 mg) resulted in faster growth rates compared to higher concentrations, which exhibited toxic effects. ([[2017-budiyanto|Budiyanto, 2017, p. 76]])
+- The degradation rate of pyrene by Halomonas smyrnensis 20PY1A was the highest at 0.0495 day-1. ([[2017-budiyanto|Budiyanto, 2017, p. 84]])
+- Growth rates were negatively correlated with the number of rings in aromatic compounds; salicylic acid (1 ring) supported the fastest growth, while pyrene (4 rings) was the slowest. ([[2017-budiyanto|Budiyanto, 2017, p. 90]])
 
 ## Limitations
 
-The study notes that the research on halophilic bacteria specifically for pyrene degradation in Saudi Arabia is currently limited, particularly regarding non-halophilic bacteria studies which are more common.
+Not stated in source
 
 ## Recommendations and Future Work
 
-- Investigate the biochemical pathways of pyrene biodegradation in these strains.
-- Analyze the production of bio-surfactants by these halophilic bacteria or add synthetic surfactants to increase pyrene availability.
-- Conduct pilot laboratory studies to investigate the ability of these strains to biodegrade pyrene in high saline conditions such as produced water.
+The author recommends investigating biochemical pathways of pyrene biodegradation, analyzing bio-surfactant production by these strains, and conducting pilot studies to test their ability to degrade pyrene in high saline conditions such as produced water.
 
 ## Related Concepts
 
-- [[sem]]
 - [[gc-ms]]
-- [[bioremediation]]
-- [[polycyclic-aromatic-hydrocarbons]]
-- [[arabian-gulf]]
-- [[environmental-microbiology]]
+- [[sem]]
 - [[halophilic-bacteria]]
-- [[salinity]]
-- [[molecular-microbiology]]
-- [[gc]]
-- [[saudi-arabia]]
-- [[16s-rrna-sequencing]]
+- [[pyrene]]
 - [[jubail-area]]
-- [[liquid-liquid-extraction]]
-- [[environmental-geology]]
-- [[sem-eds]]
+- [[environmental-microbiology]]
+- [[environmental-pollution]]
+- [[microbiology]]
+- [[bioremediation]]
+- [[growth-kinetics]]

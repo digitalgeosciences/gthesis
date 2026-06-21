@@ -3,7 +3,6 @@ type: technique
 title: "Pspi"
 aliases:
   - "Phase Shift plus Interpolation"
-  - "PSPI"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
@@ -14,18 +13,18 @@ tags:
 sources:
   - "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
 # Pspi
 
-**Summary**: A seismic imaging technique that uses phase shifts and interpolation in the f-k domain to map reflectors.
+**Summary**: A seismic imaging technique that uses phase shift and interpolation to improve the resolution of migrated images.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-mohammed|Mohammed, 2015]] used PSPI to perform prestack imaging for a visco-acoustic medium.
+- [[2015-mohammed|Mohammed, 2015]] modified the PSPI algorithm to include a Q-factor in the extrapolator term to compensate for absorption in visco-acoustic media.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Modified PSPI with compensation for absorption improved spatial resolution in complex structures. ([[2015-mohammed|Mohammed, 2015, p. 18]])
+- The modified PSPI produced sharper features, such as pinch-outs and faults, compared to standard acoustic PSPI. ([[2015-mohammed|Mohammed, 2015, p. 79]])
 
 ## Methodological Variations Across Sources
 

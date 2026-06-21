@@ -12,121 +12,91 @@ committee_members:
   - "Umair Bin Waheed"
 source_file: "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142770/"
-study_area: "Rub al Khali basin (referenced in literature context)"
+study_area: "Rub Al-Khali Desert, Kingdom of Saudi Arabia (synthetic data used for primary evaluation)"
 keywords:
-  - Parallax phenomenon
-  - Seismic data
-  - Sand dunes
-  - Occlusion removal
-  - Signal processing
-  - parallax approach
-  - sand dune effects
-  - multiple-image methods
-  - synthetic seismic data
+  - parallax phenomenon
+  - seismic data
+  - sand dunes
+  - image processing
   - NMO correction
-  - F-K filter
-  - super gather
-  - P-wave reflection
+  - CDP stacking
+  - signal-to-noise ratio
 techniques:
-  - seismic-processing
   - nmo-correction
-  - f-k-filter
-  - deconvolution
+  - cdp-stacking
   - agc
-  - seismic-unx
+  - f-k-filtering
+  - deconvolution
   - matlab
   - seislab
-  - cdp-stacking
-  - synthetic-data-generation
+  - seismic-unx
 tags:
   - degree/ms
   - location/rub-al-khali-basin
-  - location/saudi-arabia
-  - location/dammam-area
-  - location/eastern-province
-  - technique/seismic-processing
-  - technique/matlab
   - technique/nmo-correction
-  - technique/f-k-filter
-  - technique/synthetic-data-generation
-  - theme/geophysics-general
-  - theme/applied-geophysics
+  - technique/cdp-stack
+  - technique/agc
+  - technique/f-k-filtering
+  - technique/deconvolution
+  - technique/matlab
+  - technique/signal-processing
   - theme/seismic-imaging
-  - terminology/parallax
+  - theme/applied-geophysics
   - terminology/signal-to-noise-ratio
-  - terminology/seismic-imaging
-  - terminology/p-wave-reflection
-  - terminology/parallax-phenomenon
+  - terminology/acoustic-impedance
 status: ingested
 ---
 
 # PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA
 
-**Summary**: The thesis investigates a parallax-based approach to remove the effects of sand dunes on seismic data, which typically cause noise and obscure underlying reflections. By applying four different variations of this method to synthetic 2D data, the study concludes that approaches three and four provide the best improvement in continuity and clarity for P-wave reflection events.
+**Summary**: The thesis explores a parallax-based approach, inspired by image processing techniques, to mitigate the effects of sand dunes on seismic data. By applying muting, NMO correction, and trace replacement across four distinct workflows, the study demonstrates that these methods significantly improve the continuity and clarity of reflections beneath dune structures in 2D synthetic datasets.
 
 ---
 
 ## Research Problem
 
-Sand dunes cause significant noise in seismic data—including time delay, reverberation, and amplitude amplification—which masks underlying geological information. Traditional methods like static corrections or spectral ratios are often insufficient to fully resolve the impact of these near-surface features on seismic imaging.
+Sand dunes cause significant degradation of seismic images due to time delays, reverberation, and amplitude amplification. These effects act as 'occlusions' that mask subsurface information, making it difficult to produce high-resolution images of targets located beneath the dunes.
 
 ## Objectives
 
-- Introduce four parallax-based approaches to remove the adverse effects of sand dunes on seismic data.
-- Evaluate these methods using 2D synthetic elastic seismic data generated from a model with realistic barchan dune topography.
-- Apply and evaluate a parallax-based approach to remove sand dune effects from 2D synthetic seismic data.
-- Compare different implementation strategies (Approach One through Four) for muting, replacing, and stacking traces affected by dunes.
-- Evaluate the effectiveness of a parallax-based approach for removing sand dune effects from seismic data.
-- Implement four distinct variations of the parallax-based methodology on synthetic 2D data.
-- Compare the results of these approaches to determine which provides the best improvement in signal continuity and clarity.
+- Introduce a parallax-based approach for removing sand dune effects from seismic data based on image processing principles.
+- Develop four specific workflows (approaches) to implement this concept in 2D seismic data.
+- Evaluate these approaches using synthetic 2D elastic seismic data generated from a model with realistic barchan dune topography.
 
 ## Methods
 
-The study utilizes two datasets: synthetic data generated from a 2D elastic model (10 km long, with a sand dune between 2-3 km) and real data acquired near Dammam Airport. The synthetic data were processed using a standard 2D land seismic workflow including AGC, F-K filtering, spiking deconvolution, CDP sorting, NMO correction, and static correction. Four parallax-based approaches were tested: Approach One (muting + NMO + stacking), Approach Two (muting + NMO + stacking unmuted + replacing muted with stacked traces), Approach Three (muting + NMO + trace replacement from adjacent CDPs), and Approach Four (muting + NMO + supergather creation + trace replacement). Processing was performed using Seismic Un*x and MATLAB with the SeisLab package.
+The study utilizes a 2D elastic model consisting of two horizontal layers and a sand dune (10 km long, 3 km wide) to generate synthetic data. The processing workflow includes: 1) AGC for amplitude boosting; 2) F-K filtering to remove linear noise below 1500 m/s; 3) Spiking deconvolution to sharpen the wavelet; 4) CDP sorting; 5) NMO correction (T0=1s, Vnmo=3000m/s); 6) Static correction; and 7) CDP stacking. Four parallax-based approaches were then tested: Approach 1 (Muting + NMO + Stack), Approach 2 (Muting + NMO + Stack + Replacement from same CDP), Approach 3 (Muting + NMO + Trace Replacement from adjacent CDPs), and Approach 4 (Muting + NMO + Supergather creation + Trace Replacement from supergather).
 
 ## Data and Materials
 
-The study uses 2D synthetic elastic seismic data generated from a model consisting of two horizontal layers with a dune having realistic barchan topography and a vertical velocity profile. The dataset includes shot gathers, CDP gathers, and various processing stages (AGC, F-K, deconvolution).
+Synthetic data generated from a 2D elastic model with a 10 km length, 3000 m/s and 5000 m/s layer velocities. The dataset included 5001 CDPs and 251 shots. Real seismic data were acquired near the Dammam Airport but were excluded from final analysis due to lack of clear reflection events.
 
 ## Key Findings
 
-- Sand dunes cause three primary issues in seismic data: time delays due to low velocity, reverberation due/to high impedance contrast at the dune boundaries, and amplitude amplification of signals directly under the dune. ([[2024-jahlan|Jahlan, 2024, p. 20]])
-- The parallax-based approach aims to treat the sand dune as an 'occlusion' in a photographic sense, where information is recovered from adjacent viewpoints (CDPs). ([[2024-jahlan|Jahlan, 2024, p. 18]])
-- Approach One involves identifying and muting traces affected by the dune and replacing them with data from neighboring CDPs. ([[2024-jahlan|Jahlan, 2024, p. 26]])
-- The results show that stacked sections of target reflections below the dune are enhanced compared to standard processing workflows. ([[2024-jahlan|Jahlan, 2024, p. 14]])
-- The synthetic model included a sand dune with P-wave velocity $v(z) = v_0 \sqrt{1 + k z^{1/3}}$, where $v_0$ = 15 m/s and $k$ = 1500 m$^{-1/3}$, resulting in a minimum P-wave velocity of approximately 761 m/s (rounded to 700 m/s). ([[2024-jahlan|Jahlan, 2024, p. 31]])
-- The synthetic data were simulated using a zero-phase Ricker wavelet with a peak frequency of 10 Hz and a maximum frequency of 25 Hz. ([[2024-jahlan|Jahlan, 2024, p. 32]])
-- Standard processing (AGC, F-K filtering, spiking deconvolution) successfully removed linear noise but did not eliminate the effects of sand dunes on underlying traces. ([[2024-jahlan|Jahlan, 2024, p. 51]])
-- Approach One using 'fold number' stacking (ignoring muted traces in the fold count) showed better results than total trace stacking, as it illuminated events more clearly under the dune. ([[2024-jahlan|Jahlan, 2024, p. 62]])
-- The sand dune was located between 2000 and 3000 m, while the affected traces extended from 1000 to 4000 m in the synthetic dataset. ([[2024-jahlan|Jahlan, 2024, p. 57]])
-- Approach one (muting, NMO correction, and CDP stacking) successfully illuminated the reflection below the sand dune by muting noisy traces and taking the mean of the fold number. ([[2024-jahlan|Jahlan, 2024, p. 83]])
-- Approach two produced results identical to approach one because the replaced traces had the same amplitude values and thus the same mean. ([[2024-jahlan|Jahlan, 2024, p. 83]])
-- Approach three significantly improved stack quality, making the reflection event more continuous and sharper, though it introduced some noise from donor CDPs. ([[2024-jahlan|Jahlan, 2024, p. 83]])
-- Approach four also showed significant improvement in continuity and clarity of the P-wave reflection event under sand dune illumination. ([[2024-jahlan|Jahlan, 2024, p. 83]])
-- The third approach was identified as producing the best results for improving signal quality. ([[2024-jahlan|Jahlan, 2024, p. 83]])
-- The fourth approach produced excellent results, showing improved continuity of the reflection event. ([[2024-jahlan|Jahlan, 2024, p. 83]])
+- The sand dune impacts on seismic data are characterized by time delays, reverberation, and amplitude amplification (Page 20). ([[2024-jahlan|Jahlan, 2024, p. 20]])
+- AGC with a window of 100 ms successfully boosted the amplitude of raw synthetic data, making events like the P-wave primary reflection at 1s visible (Page 52). ([[2024-jahlan|Jahlan, 2024, p. 52]])
+- F-K filtering effectively removed linear noise with velocities below 1500 m/s without affecting the primary P-wave reflection (Page 57). ([[2024-jahlan|Jahlan, 2024, p. 57]])
+- NMO correction successfully flattened the P-wave primary reflection at 1s, though it could not correct for time delays caused by the sand dune (Page 57). ([[2024-jahlan|Jahlan, 2024, p. 57]])
+- Approach Three produced the best results in terms of clarity and continuity of the P-wave reflection under the sand dune (Page 83). ([[2024-jahlan|Jahlan, 2024, p. 83]])
+- Approach Four also provided excellent results, showing improved continuity and a sharper image compared to standard processing (Page 83). ([[2024-jahlan|Jahlan, 2024, p. 83]])
+- Approach Two produced identical results to Approach One because the replaced traces had the same amplitude values (Page 69). ([[2024-jahlan|Jahlan, 2024, p. 69]])
 
 ## Limitations
 
-Real seismic data acquired near Dammam Airport were found unsuitable for the study because they contained no usable reflection events after processing.
+The real seismic data acquired near Dammam Airport were not suitable for testing the parallax approach as they lacked clear reflection events.
 
 ## Recommendations and Future Work
 
-- Create a workflow for preconditioning CDP gathers and improving trace selection for the replacement step.
-- Test the proposed approaches on real seismic data sets from near-surface and exploration surveys.
+- Create a workflow for preconditioning CDP gathers and improving trace selection for replacement.
+- Test proposed approaches on appropriate real seismic data from near-surface and exploration surveys.
 - Extend the proposed approaches to refraction events.
 
 ## Related Concepts
 
-- [[seismic-processing]]
+- [[signal-processing]]
 - [[nmo-correction]]
-- [[parallax]]
+- [[cdp-stack]]
 - [[signal-to-noise-ratio]]
-- [[rub-al-khali-basin]]
+- [[acoustic-impedance]]
 - [[seismic-imaging]]
-- [[matlab]]
-- [[dammam-area]]
-- [[applied-geophysics]]
-- [[f-k-filter]]
-- [[p-wave-reflection]]
-- [[parallax-phenomenon]]
+- [[rub-al-khali-basin]]

@@ -2,109 +2,99 @@
 type: technique
 title: "ICP-OES"
 aliases:
-  - "ICP-ES"
   - "ICP-OES"
+  - "Inductively Coupled Plasma - Optical Emission Spectrometry"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "trace element concentrations (ppm or %)"
+output: "concentration of trace metals (mg/kg)"
 tags:
   - technique/icp-oes
-  - theme/geochemistry
+  - theme/trace-element-geochemistry
 sources:
-  - "raw/10471 - Pleistocene-holocene sedimentation along King fahd Causeway between Saudi Arabia.pdf"
-  - "raw/136127 - REMOVAL OF ARSENIC AND MERCURY FROM WATER USING MULTI-WALLED CARBON NANOTUBES.pdf"
   - "raw/139394 - Spatial Distribution of the Levels of Trace Metals in the Topsoil of Dammam Area.pdf"
   - "raw/139621 - INVESTIGATING THE PHYTOREMEDIATION POTENTIAL OF SELECTED SAUDI PLANTS IN REMOVIN.pdf"
-  - "raw/139623 - Stratigraphic Architecture and Diagenetic Evolution of Early Miocene Syn-rift Ca.pdf"
-  - "raw/139811 - UTILIZING OF GIS TO MAP TRACE METALS DISTRIBUTION IN SABKHA AL-FASL, JUBAIL, SAU.pdf"
+  - "raw/139846 - Optimization of In-Situ Generated CO2 Using Chelating Agents for EOR from Carbon.pdf"
   - "raw/139856 - GEOCHEMICAL AND PETROGRAPHICAL STUDY OF THE SHARAWRA FORMATION, OLD QUSAIBA VILL.pdf"
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
-  - "raw/140048 - Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia.pdf"
-  - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
-  - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
+  - "raw/140353 - CARBONATE SURFACE CHEMISTRY EFFECT OF MONOVALENT IONS.pdf"
+  - "raw/140568 - Reaction Kinetics of Carbonate Rocks with Chelating AgentsSeawater System.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
-  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
-  - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
-  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/141362 - SANDSTONE ACIDIZING USING IN-SITU GENERATED HYDROFLUORIC ACID.pdf"
+  - "raw/142047 - Iron Sulfide Scale Inhibition in Water Injection Wells.pdf"
+  - "raw/142405 - INVESTIGATION OF CHELATING AGENT AS ACID FRACTURING FLUIDS.pdf"
+  - "raw/142808 - Spontaneous Imbibition of Acidic Fluids in Sandstones and Carbonates A Core- and.pdf"
+  - "raw/142824 - Optimizing Non-Freshwater Fracturing Fluid Rheology Utilizing Chelating Agents.pdf"
   - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # ICP-OES
 
-**Summary**: A technique for determining the concentration of trace elements in rock samples.
+**Summary**: A technique for determining the elemental composition of materials by exciting atoms in a plasma.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1988-darwish|Darwish, 1988]] used ICP-OES to determine metal concentrations (K, Ca, Fe, Mg) across different lithofacies.
+- [[2014-adedapo|Adedapo, 2014]] used ICP-OES to quantify trace metal concentrations in 132 topsoil samples.
 
-- [[2009-al-khaldi|Al-Khaldi, 2009]] used ICP-AES to determine the concentration of Arsenic (As) and Mercury (Hg) in water.
+- [[2015-bello|Bello, 2015]] used ICP-OES to quantify cadmium, lead, and nickel concentrations in plant tissues.
 
-- [[2014-adedapo|Adedapo, 2014]] used ICP-OES to quantify trace metal concentrations in 132 topsoil samples from Dammam area.
+- [[2015-mohammed-2|Mohammed, 2015]] used ICP-OES to measure Ca2+ concentration in produced effluents.
 
-- [[2015-bello|Bello, 2015]] used ICP-OES to analyze cadmium, lead, and nickel concentrations in plant tissues and water.
+- [[2016-abbas|Abbas, 2016]] used ICP-OES to determine trace element concentrations like Ba, Sr, and Cr.
 
-- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] used ICP-OES at the University of Miami to analyze trace element concentrations in carbonate rock samples.
+- [[2016-lawal-2|Lawal, 2016]] used ICP-OES to determine the concentration of trace metals like Mn, V, Zn, and Ni.
 
-- [[2015-jawad|Jawad, 2015]] used ICP-AES to measure trace metal concentrations (V, Cr, Co, Ni, Cu, Zn, Mo, Ba, and Pb) in sediment samples.
+- [[2017-sadeed|SADEED, 2017]] used ICP-OES to determine calcium ion concentrations in filtrates to quantify mineral dissolution.
 
-- [[2016-abbas|Abbas, 2016]] used ICP-OES to determine inorganic chemical components, including rare earth elements and trace metals.
+- [[2017-ibrahim|Ibrahim, 2017]] used ICP-OES to determine calcium concentration in samples collected from the RDA.
 
-- [[2016-lawal-2|Lawal, 2016]] used ICP-OES to determine the concentration of trace metals in PM samples.
+- [[2019-alamran|AlAmran, 2019]] used ICP-OES to determine total recoverable metal concentrations (As, Cd, Cr, Cu, Fe, Pb, Zn) in sediment and plant tissues.
 
-- [[2016-radwan|Radwan, 2016]] used ICP-OES to detect variations in trace elements like Na, Fe, K, and Al.
+- [[2019-gomaa|Gomaa, 2019]] used ICP-OES to quantify silicon and other minerals dissolved during acid treatment.
 
-- [[2017-amao|Amao, 2017]] used ICP-OES to determine concentrations of heavy metals (As, Cd, Co, Cr, Cu, Hg, Pb, and Zn).
+- [[2021-gasimli|Gasimli, 2021]] used ICP-OES to monitor chemical concentrations during coreflooding experiments.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] used ICP-OES to determine the concentration of cadmium in aqueous solutions after adsorption.
+- [[2023-alabdrabalnabi|ALABDRABALNABI, 2023]] used ICP-OES to quantify calcium and magnesium ion concentrations in effluent samples.
 
-- [[2019-alamran|AlAmran, 2019]] used ICP-OES to identify heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
+- [[2023-pratama|PRATAMA, 2023]] used ICP-OES to monitor the chemical evolution of fluids after interaction with rock samples.
 
-- [[2021-siddiq|Siddiq, 2021]] used ICP-OES to measure residual arsenic concentrations in both batch and SIP experiments.
+- [[2023-othman|Othman, 2023]] used ICP-OES to analyze salt content and evaluate scale formation in core samples.
 
-- [[2022-samarkin|Samarkin, 2022]] used ICP-OES to analyze reaction kinetics between chemicals and rocks.
-
-- [[2023-iskandar|Iskandar, 2023]] used ICP-OES to determine major element concentrations in peridotite samples.
-
-- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in AC filter samples from buildings in Saudi Arabia.
+- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in dust samples from AC filters.
 
 ## Instruments and Software
 
 
 
-- [[2009-al-khaldi|Al-Khaldi, 2009]] used ICP-AES to determine the concentration of Arsenic (As) and Mercury (Hg) in water.
+- [[2015-bello|Bello, 2015]] used ICP-OES to quantify cadmium, lead, and nickel concentrations in plant tissues.
 
-- [[2014-adedapo|Adedapo, 2014]] used ICP-OES to quantify trace metal concentrations in 132 topsoil samples from Dammam area.
+- [[2015-mohammed-2|Mohammed, 2015]] used ICP-OES to measure Ca2+ concentration in produced effluents.
 
-- [[2015-bello|Bello, 2015]] used ICP-OES to analyze cadmium, lead, and nickel concentrations in plant tissues and water.
+- [[2016-abbas|Abbas, 2016]] used ICP-OES to determine trace element concentrations like Ba, Sr, and Cr.
 
-- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] used ICP-OES at the University of Miami to analyze trace element concentrations in carbonate rock samples.
+- [[2016-lawal-2|Lawal, 2016]] used ICP-OES to determine the concentration of trace metals like Mn, V, Zn, and Ni.
 
-- [[2015-jawad|Jawad, 2015]] used ICP-AES to measure trace metal concentrations (V, Cr, Co, Ni, Cu, Zn, Mo, Ba, and Pb) in sediment samples.
+- [[2017-sadeed|SADEED, 2017]] used ICP-OES to determine calcium ion concentrations in filtrates to quantify mineral dissolution.
 
-- [[2016-abbas|Abbas, 2016]] used ICP-OES to determine inorganic chemical components, including rare earth elements and trace metals.
+- [[2017-ibrahim|Ibrahim, 2017]] used ICP-OES to determine calcium concentration in samples collected from the RDA.
 
-- [[2016-lawal-2|Lawal, 2016]] used ICP-OES to determine the concentration of trace metals in PM samples.
+- [[2019-alamran|AlAmran, 2019]] used ICP-OES to determine total recoverable metal concentrations (As, Cd, Cr, Cu, Fe, Pb, Zn) in sediment and plant tissues.
 
-- [[2016-radwan|Radwan, 2016]] used ICP-OES to detect variations in trace elements like Na, Fe, K, and Al.
+- [[2019-gomaa|Gomaa, 2019]] used ICP-OES to quantify silicon and other minerals dissolved during acid treatment.
 
-- [[2017-amao|Amao, 2017]] used ICP-OES to determine concentrations of heavy metals (As, Cd, Co, Cr, Cu, Hg, Pb, and Zn).
+- [[2021-gasimli|Gasimli, 2021]] used ICP-OES to monitor chemical concentrations during coreflooding experiments.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] used ICP-OES to determine the concentration of cadmium in aqueous solutions after adsorption.
+- [[2023-alabdrabalnabi|ALABDRABALNABI, 2023]] used ICP-OES to quantify calcium and magnesium ion concentrations in effluent samples.
 
-- [[2019-alamran|AlAmran, 2019]] used ICP-OES to identify heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
+- [[2023-pratama|PRATAMA, 2023]] used ICP-OES to monitor the chemical evolution of fluids after interaction with rock samples.
 
-- [[2021-siddiq|Siddiq, 2021]] used ICP-OES to measure residual arsenic concentrations in both batch and SIP experiments.
+- [[2023-othman|Othman, 2023]] used ICP-OES to analyze salt content and evaluate scale formation in core samples.
 
-- [[2022-samarkin|Samarkin, 2022]] used ICP-OES to analyze reaction kinetics between chemicals and rocks.
-
-- [[2023-iskandar|Iskandar, 2023]] used ICP-OES to determine major element concentrations in peridotite samples.
-
-- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in AC filter samples from buildings in Saudi Arabia.
+- [[2024-alenazi|Alenazi, 2024]] used ICP-OES to analyze heavy metals (HMs) in dust samples from AC filters.
 
 ## Typical Workflow
 
@@ -112,37 +102,33 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Quantified K and Ca levels ranging from 0.06% to 1.36% in various dolomite and carbonate samples. ([[1988-darwish|Darwish, 1988, p. 178]])
+- Detected levels of Cd, Cr, Cu, and Zn exceeded allowable limits in industrial/residential zones. ([[2014-adedapo|Adedapo, 2014, p. 12]])
 
-- Used as a primary tool for measuring heavy metal content in aqueous solutions. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 51]])
+- Quantified heavy metal concentrations using Perkin Elmer Optima 8000 ICP-OES. ([[2015-bello|Bello, 2015, p. 55]])
 
-- Quantified metals including As, Ba, Cd, Cr, Cu, Hg, Ni, Pb, Ti, V, and Zn with specific mean values and standard deviations. ([[2014-adedapo|Adedapo, 2014, p. 12]])
+- Ca2+ concentrations increased significantly during 7wt% EDTA flooding, indicating rock dissolution. ([[2015-mohammed-2|Mohammed, 2015, p. 103]])
 
-- Used for determining heavy metal concentrations in samples. ([[2015-bello|Bello, 2015, p. 10]])
+- ICP-OES revealed high concentrations of Ba (34.46 mg/l) and Sr (43.69 mg/l). ([[2016-abbas|Abbas, 2016, p. 172]])
 
-- Used to provide geochemical signatures for both Musayr and Wadi Waqb formations. ([[2015-koeshidayatullah|Koeshidayatullah, 2015, p. 8]])
+- Found Mn, V, Zn, and Ni at levels higher than those reported in literature. ([[2016-lawal-2|Lawal, 2016, p. 15]])
 
-- Average concentrations were determined as V(1.46ppm), Cr (1.59ppm), Co(0.37ppm), Ni(2.48ppm), Cu(0.8lppm), Zn(2.56ppm), Mo(0.28ppm), Ba(2.67ppm) and Pb(0.21ppm). ([[2015-jawad|Jawad, 2015, p. 14]])
+- Calcium concentration was highest in NaCl (3981.25 ppm) compared to NaI (1721.2 ppm). ([[2017-sadeed|SADEED, 2017, p. 84]])
 
-- ICP-OES allowed for the determination of elements like Zr, Ta, and various rare earths at ppm levels. ([[2016-abbas|Abbas, 2016, p. 53]])
+- Quantified calcium ions to calculate dissolution rates of carbonate rocks. ([[2017-ibrahim|Ibrahim, 2017, p. 97]])
 
-- Trace metal analysis showed the presence of Mn, V, Zn and Ni at levels higher than what was obtainable from literature. ([[2016-lawal-2|Lawal, 2016, p. 15]])
+- Used to identify maximum concentrations of metals like Cu (102.5 mg/kg) and Zn (8.6 mg/kg). ([[2019-alamran|AlAmran, 2019, p. 15]])
 
-- Detected significant increases in iron, potassium, and aluminum in the dark grey bed (sample 48). ([[2016-radwan|Radwan, 2016, p. 67]])
+- Detected Si+ ions at 329.2 ppm using ammonium persulfate as an oxidizer. ([[2019-gomaa|Gomaa, 2019, p. 102]])
 
-- Most heavy metals showed very low concentrations; e.g., Cu ranged from below detection limit to 5.1 mg/kg. ([[2017-amao|Amao, 2017, p. 93]])
+- ICP-OES was utilized to quantify the concentration of EDTA and DTPA in the system. ([[2021-gasimli|Gasimli, 2021, p. 22]])
 
-- Used to calculate percent removal and adsorption capacity (qe) of Cd(II). ([[2017-olabemiwo|Olabemiwo, 2017, p. 51]])
+- ICP analysis confirmed that HCl had the highest dissolution rates for both Ca and Mg, while GLDA showed significant but lower dissolution. ([[2023-alabdrabalnabi|ALABDRABALNABI, 2023, p. 48]])
 
-- Used to separate individual trace metals from mixtures in sediment and plant samples. ([[2019-alamran|AlAmran, 2019, p. 37]])
+- Detected Ca2+ levels up to 1000 ppm in acidic water, confirming calcite dissolution. ([[2023-pratama|PRATAMA, 2023, p. 84]])
 
-- Samples were analyzed by using ICP-OES (Plasma Quant 9000) following EPA method 1632. ([[2021-siddiq|Siddiq, 2021, p. 35]])
+- Identified specific ions (Ca, Mg) that were responsible for scale formation during core flooding. ([[2023-othman|Othman, 2023, p. 35]])
 
-- Used to monitor chemical concentrations during the treatment process. ([[2022-samarkin|Samarkin, 2022, p. 12]])
-
-- ICP-OES analysis of the melts after dissolution in ACS-grade nitric acid determined oxides of most major elements at 0.01 percent except Cr2O3 (0.002%), Fe2O3 and K2O (0.04%). ([[2023-iskandar|Iskandar, 2023, p. 49]])
-
-- The analysis identified concentrations of 14 different heavy metals including Cr, Zn, Cu, Mn, Pb, Cd, As, Co, Ni, V, Fe, Al, Ba, and Mo. ([[2024-alenazi|Alenazi, 2024, p. 18]])
+- The analysis confirmed concentrations of 14 different heavy metals including Cr, Zn, Cu, Mn, Pb, Cd, As, Co, Ni, V, Fe, Al, Ba, and Mo. ([[2024-alenazi|Alenazi, 2024, p. 18]])
 
 ## Methodological Variations Across Sources
 

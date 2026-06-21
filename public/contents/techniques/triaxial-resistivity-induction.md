@@ -3,29 +3,29 @@ type: technique
 title: "Triaxial Resistivity Induction"
 aliases:
   - "Triaxial Resistivity Induction"
-  - "Triaxial induction"
+  - "multicomponent induction"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "Rh and Rv values (horizontal and vertical resistivity)."
+output: "Rh and Rv values, sand resistivity (Rsand)."
 tags:
   - technique/triaxial-resistivity-induction
   - theme/petrophysics
 sources:
   - "raw/138928 - COMPARING HYDROCARBON VOLUME BETWEEN LSA (LAMINATED SAND ANALYSIS) AND STANDARD .pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Triaxial Resistivity Induction
 
-**Summary**: An advanced induction tool that measures 3x3 tensor magnetic field responses to determine horizontal and vertical resistivity.
+**Summary**: A tool that measures the 3x3 tensor magnetic field to determine horizontal and vertical resistivity.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-abdullah|Abdullah, 2013]] applied triaxial-resistivity-induction to derive Rh and Rv for accurate sand resistivity in laminated zones.
+- [[2013-abdullah|Abdullah, 2013]] applied triaxial resistivity induction to derive Rh and Rv for accurate sand resistivity calculation.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- The tool allows the calculation of true sand resistivity (Rsand) by accounting for electrical anisotropy in shaly sands. ([[2013-abdullah|Abdullah, 2013, p. 25]])
+- The difference in Rv values between high and low sand resistivity cases highlights the uncertainty of standard tools in laminated systems. ([[2013-abdullah|Abdullah, 2013, p. 43]])
 
 ## Methodological Variations Across Sources
 

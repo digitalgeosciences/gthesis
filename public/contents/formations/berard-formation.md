@@ -11,7 +11,7 @@ tags: []
 sources:
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Berard Formation
@@ -32,12 +32,15 @@ last_updated: 2026-06-08
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
 - studied the Berard Formation ([[1996-matter|Matter, 1996]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

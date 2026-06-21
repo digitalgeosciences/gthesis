@@ -3,7 +3,6 @@ type: formation
 title: "Dammam Formation"
 aliases:
   - "Dammam Formation"
-  - "Dammam Limestone"
 canonical: true
 age: "Middle Eocene"
 basin: "Arabian Shelf"
@@ -11,46 +10,30 @@ lithology: "carbonate rocks"
 reservoir_status: "producer"
 tags:
   - formation/dammam-formation
-  - theme/petroleum-geology
 sources:
   - "raw/10176 - Acoustic and resistivity studies of the Khobar Member, the Dammam Formation, Eas.pdf"
   - "raw/10307 - Stratigraphical and microfacies analysis of the late Eocene - early Oligocene su.pdf"
-  - "raw/138528 - Environmental Assessment of Groundwater Condition in Tarout Island, Eastern Prov.pdf"
-  - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
-  - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
-  - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
-  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/138483 - Quantitative Assessment of Disinfection By-products Formed by Chlorine, Chlorine.pdf"
   - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
-  - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-17
 ---
 
 # Dammam Formation
 
-**Summary**: A major carbonate formation in the Arabian Gulf region.
+**Summary**: A major carbonate formation in the Eastern Province of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2000-mohammad|Mohammad, 2000]] studied the Dammam formation to characterize its lithology and petrophysical properties.
+- [[2000-mohammad|Mohammad, 2000]] studied the Dammam formation to characterize its primary aquifer, the Khobar Member.
 
 - [[1992-el-sahn|El-Sahn, 1992]] correlated the Jabal Hafeet succession with the Dammam Formation.
 
-- [[2011-alsadeq|Alsadeq, 2011]] identified the Dammam formation as the primary geological unit containing the Khobar and Alat aquifers.
+- [[2011-ibrahim|Ibrahim, 2011]] Referenced in this thesis.
 
-- [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
-
-- [[2018-hanif|Hanif, 2018]] investigated the dammam-formation to characterize its structural properties.
-
-- [[2019-prasetyo|Prasetyo, 2019]] analyzed the Dammam formation as a key component of the regional hydrogelectoral system.
-
-- [[2022-pambudi|Pambudi, 2022]] evaluated as a primary candidate for ASR due1 to its importance in the region.
-
-- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and fracture systems.
-
-- [[1995-hasan|Hasan, 1995]] characterized the Dammam formation as a primary source for the Khobar and Alat aquifers.
+- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and structure.
 
 ## Depositional Environment
 
@@ -58,46 +41,29 @@ last_updated: 2026-06-11
 
 - [[1992-el-sahn|El-Sahn, 1992]] correlated the Jabal Hafeet succession with the Dammam Formation.
 
-- [[2011-alsadeq|Alsadeq, 2011]] identified the Dammam formation as the primary geological unit containing the Khobar and Alat aquifers.
+- [[2011-ibrahim|Ibrahim, 2011]] Referenced in this thesis.
 
-- [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
-
-- [[2018-hanif|Hanif, 2018]] investigated the dammam-formation to characterize its structural properties.
-
-- [[2019-prasetyo|Prasetyo, 2019]] analyzed the Dammam formation as a key component of the regional hydrogelectoral system.
-
-- [[2022-pambudi|Pambudi, 2022]] evaluated as a primary candidate for ASR due1 to its importance in the region.
-
-- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and fracture systems.
-
-- [[1995-hasan|Hasan, 1995]] characterized the Dammam formation as a primary source for the Khobar and Alat aquifers.
+- [[2023-alshaibani|AlShaibani, 2023]] studied the Dammam Formation to understand its deformation and structure.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- The Khobar Member is one of the most productive reservoirs in the Dammam Formation. ([[2000-mohammad|Mohammad, 2000, p. 30]])
+- The Dammam Formation contains several important aquifers including the Khobar and Al-Arad members. ([[2000-mohammad|Mohammad, 2000, p. 23]])
 
-- Suggested to expand the term 'Dammam' to include Late Eocene successions of similar facies (Dammam sensu lato). ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
+- The Dammam sensu lato is proposed to include Late Eocene successions of similar facies. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
 
-- The Dammam formation is subdivided into five members: Alat, Khobar, Alveolina Limestone, Saila shale, and Midra shale. ([[2011-alsadeq|Alsadeq, 2011, p. 25]])
+- Referenced in this thesis. ([[2011-ibrahim|Ibrahim, 2011]])
 
-- The Dammam Formation consists of limestones. ([[2018-mohamed|Mohamed, 2018, p. 37]])
-
-- Not stated in source ([[2018-hanif|Hanif, 2018]])
-
-- Consists of five units; upper two (Khobar and Alat) are the primary aquifers. ([[2019-prasetyo|Prasetyo, 2019, p. 24]])
-
-- The Dammam aquifer depth varies from <9m to 80m, increasing from northwest to southeast. ([[2022-pambudi|Pambudi, 2022, p. 52]])
-
-- The Dammam Formation is the main formation exposed in the study area. ([[2023-alshaibani|AlShaibani, 2023, p. 17]])
-
-- The Dammam formation thickness varies from 125 to 200 meters and is divided into five members including Midra, Saila, Alveolina, Khobar, and Alat. ([[1995-hasan|Hasan, 1995, p. 49]])
+- The Dammam Formation contains several members including Midra Shale, Saila Shale, Alveolina Limestone, Khobar limestone member, and Alat dolomitic limestone/marl member. ([[2023-alshaibani|AlShaibani, 2023, p. 17]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

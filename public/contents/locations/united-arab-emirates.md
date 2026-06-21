@@ -14,7 +14,7 @@ tags:
 sources:
   - "raw/10307 - Stratigraphical and microfacies analysis of the late Eocene - early Oligocene su.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # United Arab Emirates
@@ -25,7 +25,7 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-el-sahn|El-Sahn, 1992]] located the study area at Jabal Hafeet.
+- [[1992-el-sahn|El-Sahn, 1992]] studied the Jabal Hafeet section located in the UAE.
 
 ## Geological and Structural Setting
 
@@ -33,7 +33,7 @@ last_updated: 2026-06-08
 
 ## Formations Present
 
-- [[1992-el-sahn|El-Sahn, 1992]] Dammam, Asmari, Umm Al-Radhuma
+- [[1992-el-sahn|El-Sahn, 1992]] Dammam, Rus, Umm Al-Radhuma
 
 ## Key Findings From This Location
 

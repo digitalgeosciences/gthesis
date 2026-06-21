@@ -1,313 +1,259 @@
 ---
 type: location
 title: "Eastern Province"
-aliases: []
+aliases:
+  - "Eastern Province"
 canonical: true
-region: "Not stated in source"
+region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Not stated in source"
-tags: []
+geology: "carbonate platform"
+tags:
+  - location/eastern-province
 sources:
-  - "raw/10010 - An integrated geological modeling of the Arab-D reservoir, Uthmaniyah area Ghawa.pdf"
   - "raw/10176 - Acoustic and resistivity studies of the Khobar Member, the Dammam Formation, Eas.pdf"
   - "raw/10389 - Integrated deterministicprobabilistic petroleum volume evaluation for a carbonat.pdf"
   - "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
   - "raw/136319 - An Innovative Model-based Velocity Integration Procedure with an Application in .pdf"
+  - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
   - "raw/138810 - Management of the Drilling Wastes in the Eastern Province of Saudi Arabia.pdf"
+  - "raw/138834 - Effect of Saturation on Acoustic of Carbonate Rock.pdf"
   - "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
+  - "raw/139181 - WELLBORE STABILITY ASSESSMENT IN A SHALE FORMATION.pdf"
+  - "raw/139463 - DEVELOPMENT OF AN ENVIRONMENTALLY-FRIENDLY DRILLING FLUID USING DATE SEEDS AND G.pdf"
   - "raw/139776 - High-resolution stratigraphic architecture and sedimentological heterogeneity wi.pdf"
   - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
   - "raw/139874 - GIS application and Environmental Factors for Mosquito Control in Eastern Provin.pdf"
   - "raw/139876 - Porosity and Permeability Characterization within the Lithofacies Framework of A.pdf"
-  - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
   - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
   - "raw/140031 - Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Rese.pdf"
-  - "raw/140039 - DEPOSITIONAL AND DIAGENETIC CONTROLS ON POROSITY EVOLUTION OF THE MIOCENE DAM FO.pdf"
   - "raw/140109 - ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA.pdf"
-  - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
   - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
-  - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
-  - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
-  - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
-  - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
+  - "raw/140616 - An Empirical Correlation of Permeability for the Khuff formation..pdf"
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
-  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
-  - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
-  - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
-  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
   - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
-  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
   - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
-  - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
   - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
   - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
   - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
-  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
-  - "raw/143000 - DEPOSITIONAL CONTROLS ON CO2 STORAGE IN CARBONATE RESERVOIRS FROM SUBSURFACE TO .pdf"
-  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
+  - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
   - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
+  - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
+  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
   - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Eastern Province
 
-**Summary**: Geographic study area or location in the thesis collection.
+**Summary**: A region in Saudi Arabia containing significant carbonate reservoirs.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-ibrahim|Ibrahim, 2002]] conducted research at Eastern Province
+- [[2000-mohammad|Mohammad, 2000]] studied the Eastern Province to evaluate groundwater resources in the Khobar aquifer.
 
-- [[2000-mohammad|Mohammad, 2000]] studied the Khobar aquifer in the Eastern Province of Saudi Arabia.
+- [[2003-al-shridi|Al-Shridi, 2003]] located the study area in the Eastern Province of Saudi Arabia.
 
-- [[2003-al-shridi|Al-Shridi, 2003]] located the study area within the Eastern Province of Saudi Arabia.
-
-- [[2006-al-enezi|Al-Enezi, 2006]] located the study area within the eastern-province.
+- [[2006-al-enezi|Al-Enezi, 2006]] studied the Dam Formation within the eastern-province.
 
 - [[2010-al-moqbel|Al-Moqbel, 2010]] Referenced in this thesis.
 
-- [[2012-attyah|Attyah, 2012]] focused on the management of drilling waste within the Eastern Province.
+- [[2012-iwalewa|Iwalewa, 2012]] studied the aquifer within the eastern-province.
 
-- [[2013-yousif|Yousif, 2013]] conducted research in the eastern-province to analyze the Hofuf formation.
+- [[2012-attyah|Attyah, 2012]] focused on the management of drilling wastes within the Eastern Province.
 
-- [[2015-ali|Ali, 2015]] studied the dam-formation in the eastern-province.
+- [[2012-elhaj|Elhaj, 2012]] conducted research in the eastern-province to study carbonate rocks.
 
-- [[2016-armoh|Armoh, 2016]] conducted study in the eastern-province.
+- [[2013-yousif|Yousif, 2013]] located the study site within the eastern-province of Saudi Arabia.
 
-- [[2016-yasin|Yasin, 2016]] studied mosquito distribution within the Eastern Province.
+- [[2014-al-haidary|Al-Haidary, 2014]] conducted study in the eastern-province area.
 
-- [[2016-hassan-2|Hassan, 2016]] located the study area in the Eastern Province of Saudi Arabia.
+- [[2014-wajheeuddin|Wajheeuddin, 2014]] sourced raw materials (date seeds and grass) from this location.
 
-- [[2016-bashri|Bashri, 2016]] studied outcrops in the eastern-province to characterize the Dam Formation.
+- [[2015-ali|Ali, 2015]] conducted field mapping and sampling within the Al-Lidam area of the Eastern Province.
 
-- [[2016-lawal-2|Lawal, 2016]] focused the study on the Eastern province to assess air quality near industrial hubs.
+- [[2016-armoh|Armoh, 2016]] conducted study in the eastern-province to evaluate local water resources.
 
-- [[2016-saleh|Saleh, 2016]] located the study area within the eastern province of Saudi Arabia.
+- [[2016-yasin|Yasin, 2016]] focused on the Eastern Province to map mosquito distribution and environmental impacts.
 
-- [[2016-salih|Salih, 2016]] conducted field investigations in the Al-Lidam area of the eastern province.
+- [[2016-hassan-2|Hassan, 2016]] studied an outcrop of the Dam Formation in Al-Nasbiyah, Eastern Province.
 
-- [[2016-houssain|Houssain, 2016]] analyzed data from the eastern-province to characterize the Unayzah reservoir.
+- [[2016-lawal-2|Lawal, 2016]] conducted study within the eastern-province to assess local air quality.
 
-- [[2016-sameh|Sameh, 2016]] the study was conducted within the context of environmental management in the Eastern Province, KSA.
+- [[2016-saleh|Saleh, 2016]] investigated the khuff-formation in the eastern-province to assess its geomechanical potential.
 
-- [[2016-septriandi|Septriandi, 2016]] studied the dam-formation in the eastern-province.
+- [[2016-houssain|Houssain, 2016]] located the study area in the Eastern Province.
 
-- [[2016-ibrahim|Ibrahim, 2016]] sampled microalgae from the coast of Al Khobar and Jubail in the Eastern Province.
+- [[2016-septriandi|Septriandi, 2016]] studied the eastern-province to analyze Miocene formations.
 
-- [[2017-mohammed-2|Mohammed, 2017]] studied outcrops in the eastern province to map the Dam Formation.
+- [[2017-mohammed-2|Mohammed, 2017]] studied outcrops within the eastern province to map regional stratigraphy.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] sourced raw fly ash from a power plant in the Eastern Province.
+- [[2017-hasan|Hasan, 2017]] focused on data from the Khuff formation in the eastern province.
 
-- [[2018-adeyemi|Adeyemi, 2018]] conducted research in the eastern-province region.
+- [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province aquifer system.
 
-- [[2019-alotaibi|Alotaibi, 2019]] analyzed particulate matter trends in the Eastern Region (Mezira).
+- [[2021-albensaad|Albensaad, 2021]] studied mudrocks in the eastern basin of Saudi Arabia.
 
-- [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province to assess aquifer sustainability.
+- [[2022-al-harbi|Al-Harbi, 2022]] studied waste sites within the Eastern Province.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] located in the eastern-province to study aeolian systems.
+- [[2024-makki|Makki, 2024]] conducted field studies in the eastern-province to analyze dune structures.
 
-- [[2020-ghazwani|Ghazwani, 2020]] addressed environmental threats from industrial activities in the Eastern Province.
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] conducted the study in a sand dune located in the eastern-province.
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination across four sites in the eastern province.
+- [[2024-almutawa|AlMutawa, 2024]] sampled soil from the Eastern Province to study industrial contamination.
 
-- [[2022-pambudi|Pambudi, 2022]] included the eastern-province in the ASR study area.
+- [[2024-ahmad|Ahmad, 2024]] focused on the eastern-province to model local impacts of sea level rise.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] conducted study on waste sites within the eastern-province.
+- [[2024-muharrag|Muharrag, 2024]] Referenced in this thesis.
 
-- [[2023-alsahwan|AlSahwan, 2023]] conducted field studies in the eastern province to validate the proposed method.
+- [[2026-fatima|Fatima, 2026]] focused on the eastern province to address local water scarcity and salinity issues.
 
-- [[2024-makki|Makki, 2024]] conducted field experiments in a barchan sand dunes located in the Eastern Province.
+- [[1989-abdou|Abdou, 1989]] studied the geological units within the eastern-province.
 
-- [[2024-tarchi|Tarchi, 2024]] studied a sand dune located in the Eastern Province.
+- [[2002-al-ali|Al-Ali, 2002]] conducted the study in the survey area within the Eastern Province.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
-
-- [[2024-almutawa|AlMutawa, 2024]] collected soil samples from contaminated sites within the eastern province of Saudi Arabia.
-
-- [[2024-ahmad|Ahmad, 2024]] focused on the coastal aquifers within the eastern-province.
-
-- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Eastern province of Saudi Arabia.
-
-- [[2024-yusmananto|Yusmananto, 2024]] studied the reservoir within the eastern-province context.
-
-- [[2025-oyekan|Oyekan, 2025]] conducted field experiments in the eastern-province to validate the inversion model.
-
-- [[2026-fatima|Fatima, 2026]] focused on the eastern coastal region of Saudi Arabia for TWW recharge study.
-
-- [[1992-hassan|Hassan, 1992]] studied the aquifers within the Eastern Province of Saudi Arabia.
+- [[1992-hassan|Hassan, 1992]] studied groundwater in the eastern-province to assess local water resources.
 
 ## Geological and Structural Setting
 
+- [[2000-mohammad|Mohammad, 2000]] Arabian Shelf
 
+- [[2003-al-shridi|Al-Shridi, 2003]] located the study area in the Eastern Province of Saudi Arabia.
 
-- [[2000-mohammad|Mohammad, 2000]] studied the Khobar aquifer in the Eastern Province of Saudi Arabia.
-
-- [[2003-al-shridi|Al-Shridi, 2003]] located the study area within the Eastern Province of Saudi Arabia.
-
-- [[2006-al-enezi|Al-Enezi, 2006]] located the study area within the eastern-province.
+- [[2006-al-enezi|Al-Enezi, 2006]] studied the Dam Formation within the eastern-province.
 
 - [[2010-al-moqbel|Al-Moqbel, 2010]] Referenced in this thesis.
 
-- [[2012-attyah|Attyah, 2012]] focused on the management of drilling waste within the Eastern Province.
+- [[2012-iwalewa|Iwalewa, 2012]] studied the aquifer within the eastern-province.
 
-- [[2013-yousif|Yousif, 2013]] conducted research in the eastern-province to analyze the Hofuf formation.
+- [[2012-attyah|Attyah, 2012]] focused on the management of drilling wastes within the Eastern Province.
 
-- [[2015-ali|Ali, 2015]] studied the dam-formation in the eastern-province.
+- [[2012-elhaj|Elhaj, 2012]] conducted research in the eastern-province to study carbonate rocks.
 
-- [[2016-armoh|Armoh, 2016]] conducted study in the eastern-province.
+- [[2013-yousif|Yousif, 2013]] located the study site within the eastern-province of Saudi Arabia.
 
-- [[2016-yasin|Yasin, 2016]] studied mosquito distribution within the Eastern Province.
+- [[2014-al-haidary|Al-Haidary, 2014]] conducted study in the eastern-province area.
 
-- [[2016-hassan-2|Hassan, 2016]] located the study area in the Eastern Province of Saudi Arabia.
+- [[2014-wajheeuddin|Wajheeuddin, 2014]] sourced raw materials (date seeds and grass) from this location.
 
-- [[2016-bashri|Bashri, 2016]] studied outcrops in the eastern-province to characterize the Dam Formation.
+- [[2015-ali|Ali, 2015]] conducted field mapping and sampling within the Al-Lidam area of the Eastern Province.
 
-- [[2016-lawal-2|Lawal, 2016]] focused the study on the Eastern province to assess air quality near industrial hubs.
+- [[2016-armoh|Armoh, 2016]] conducted study in the eastern-province to evaluate local water resources.
 
-- [[2016-saleh|Saleh, 2016]] located the study area within the eastern province of Saudi Arabia.
+- [[2016-yasin|Yasin, 2016]] focused on the Eastern Province to map mosquito distribution and environmental impacts.
 
-- [[2016-salih|Salih, 2016]] conducted field investigations in the Al-Lidam area of the eastern province.
+- [[2016-hassan-2|Hassan, 2016]] studied an outcrop of the Dam Formation in Al-Nasbiyah, Eastern Province.
 
-- [[2016-houssain|Houssain, 2016]] analyzed data from the eastern-province to characterize the Unayzah reservoir.
+- [[2016-lawal-2|Lawal, 2016]] conducted study within the eastern-province to assess local air quality.
 
-- [[2016-sameh|Sameh, 2016]] the study was conducted within the context of environmental management in the Eastern Province, KSA.
+- [[2016-saleh|Saleh, 2016]] investigated the khuff-formation in the eastern-province to assess its geomechanical potential.
 
-- [[2016-septriandi|Septriandi, 2016]] studied the dam-formation in the eastern-province.
+- [[2016-houssain|Houssain, 2016]] located the study area in the Eastern Province.
 
-- [[2016-ibrahim|Ibrahim, 2016]] sampled microalgae from the coast of Al Khobar and Jubail in the Eastern Province.
+- [[2016-septriandi|Septriandi, 2016]] studied the eastern-province to analyze Miocene formations.
 
-- [[2017-mohammed-2|Mohammed, 2017]] studied outcrops in the eastern province to map the Dam Formation.
+- [[2017-mohammed-2|Mohammed, 2017]] studied outcrops within the eastern province to map regional stratigraphy.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] sourced raw fly ash from a power plant in the Eastern Province.
+- [[2017-hasan|Hasan, 2017]] focused on data from the Khuff formation in the eastern province.
 
-- [[2018-adeyemi|Adeyemi, 2018]] conducted research in the eastern-province region.
+- [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province aquifer system.
 
-- [[2019-alotaibi|Alotaibi, 2019]] analyzed particulate matter trends in the Eastern Region (Mezira).
+- [[2021-albensaad|Albensaad, 2021]] studied mudrocks in the eastern basin of Saudi Arabia.
 
-- [[2019-prasetyo|Prasetyo, 2019]] focused the study on the Eastern Province to assess aquifer sustainability.
+- [[2022-al-harbi|Al-Harbi, 2022]] studied waste sites within the Eastern Province.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] located in the eastern-province to study aeolian systems.
+- [[2024-makki|Makki, 2024]] conducted field studies in the eastern-province to analyze dune structures.
 
-- [[2020-ghazwani|Ghazwani, 2020]] addressed environmental threats from industrial activities in the Eastern Province.
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] conducted the study in a sand dune located in the eastern-province.
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination across four sites in the eastern province.
+- [[2024-almutawa|AlMutawa, 2024]] sampled soil from the Eastern Province to study industrial contamination.
 
-- [[2022-pambudi|Pambudi, 2022]] included the eastern-province in the ASR study area.
+- [[2024-ahmad|Ahmad, 2024]] focused on the eastern-province to model local impacts of sea level rise.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] conducted study on waste sites within the eastern-province.
+- [[2024-muharrag|Muharrag, 2024]] Referenced in this thesis.
 
-- [[2023-alsahwan|AlSahwan, 2023]] conducted field studies in the eastern province to validate the proposed method.
+- [[2026-fatima|Fatima, 2026]] focused on the eastern province to address local water scarcity and salinity issues.
 
-- [[2024-makki|Makki, 2024]] conducted field experiments in a barchan sand dunes located in the Eastern Province.
+- [[1989-abdou|Abdou, 1989]] studied the geological units within the eastern-province.
 
-- [[2024-tarchi|Tarchi, 2024]] studied a sand dune located in the Eastern Province.
+- [[2002-al-ali|Al-Ali, 2002]] conducted the study in the survey area within the Eastern Province.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
-
-- [[2024-almutawa|AlMutawa, 2024]] collected soil samples from contaminated sites within the eastern province of Saudi Arabia.
-
-- [[2024-ahmad|Ahmad, 2024]] focused on the coastal aquifers within the eastern-province.
-
-- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Eastern province of Saudi Arabia.
-
-- [[2024-yusmananto|Yusmananto, 2024]] studied the reservoir within the eastern-province context.
-
-- [[2025-oyekan|Oyekan, 2025]] conducted field experiments in the eastern-province to validate the inversion model.
-
-- [[2026-fatima|Fatima, 2026]] focused on the eastern coastal region of Saudi Arabia for TWW recharge study.
-
-- [[1992-hassan|Hassan, 1992]] studied the aquifers within the Eastern Province of Saudi Arabia.
+- [[1992-hassan|Hassan, 1992]] studied groundwater in the eastern-province to assess local water resources.
 
 ## Formations Present
 
-
+- [[2000-mohammad|Mohammad, 2000]] Dammam Formation, Khobar Member
 
 ## Key Findings From This Location
 
-- conducted research at Eastern Province ([[2002-ibrahim|Ibrahim, 2002]])
+- The region contains several major aquifers including Um Er Radhuma, Dammam, and Neogene. ([[2000-mohammad|Mohammad, 2000, p. 31]])
 
-- The Khobar aquifer is one of the important aquifers in the Eastern Province. ([[2000-mohammad|Mohammad, 2000, p. 14]])
+- The study area is located onshore in the Eastern Province of Saudi Arabia. ([[2003-al-shridi|Al-Shridi, 2003, p. 45]])
 
-- The East Arabian Gulf region contains significant Jurassic source rocks and reservoir units. ([[2003-al-shridi|Al-Shridi, 2003, p. 31]])
-
-- The Dam Formation is a major carbonate unit in this region, extending from south of Qatar to the edge of the Arabian Shield. ([[2006-al-enezi|Al-Enezi, 2006, p. 65]])
+- The study area is located at Jabal Midra al-Janubi in the Eastern Province. ([[2006-al-enezi|Al-Enezi, 2006, p. 71]])
 
 - Referenced in this thesis. ([[2010-al-moqbel|Al-Moqbel, 2010]])
 
-- The area hosts more than 90% of the oil and gas reserves in Saudi Arabia. ([[2012-attyah|Attyah, 2012, p. 9]])
+- The UER aquifer is a major source of water in the Eastern Province. ([[2012-iwalewa|Iwalewa, 2012, p. 51]])
 
-- The study area includes specific outcrops near a cement factory in Shedgum. ([[2013-yousif|Yousif, 2013, p. 19]])
+- The oil and gas drilling operations are more concentrated in the Eastern Province of Saudi Arabia which hosts the biggest Oil and Gas Reserves in the world. ([[2012-attyah|Attyah, 2012, p. 10]])
 
-- The study area is located in the Al-Lidam Area within the Eastern Province. ([[2015-ali|Ali, 2015, p. 14]])
+- Four textures were found in the Al-Lidam area: Mudstone, Wackestone, Packstone, and Grainstone. ([[2012-elhaj|Elhaj, 2012, p. 96]])
 
-- The site is located approximately 25 km west of Dhahran. ([[2016-armoh|Armoh, 2016, p. 20]])
+- The Hofuf outcrop is located in this province, showing repetitive fluvial cycles. ([[2013-yousif|Yousif, 2013, p. 66]])
 
-- Eight sites across the Eastern Province were sampled to assess larval and adult mosquito abundance. ([[2016-yasin|Yasin, 2016, p. 16]])
+- Data from multiple wells (A, B, L, C, D) were analyzed to characterize local stress fields. ([[2014-al-haidary|Al-Haidary, 2014, p. 63]])
 
-- Dam Formation is widely exposed in the Eastern Province of Saudi Arabia. ([[2016-hassan-2|Hassan, 2016, p. 19]])
+- Not stated in source ([[2014-wajheeuddin|Wajheeuddin, 2014]])
 
-- Outcrops in the Al Lidam area provide excellent exposure of mixed siliciclastic-carbonate rocks. ([[2016-bashri|Bashri, 2016, p. 18]])
+- The Al-Lidam area contains well-exposed Miocene Dam Formation outcrops. ([[2015-ali|Ali, 2015, p. 19]])
 
-- Air pollution is higher in the Eastern province compared to other areas due to industrial activity. ([[2016-lawal-2|Lawal, 2016, p. 30]])
+- The site (Sabkha Jayb Uwayyid) is located within this province, characterized by a hyper-arid climate. ([[2016-armoh|Armoh, 2016, p. 20]])
 
-- Average fracture densities are 13 per 100 ft in this region. ([[2016-saleh|Saleh, 2016, p. 25]])
+- The area contains diverse ecosystems including coastal lowlands and inland plains which support various mosquito species. ([[2016-yasin|Yasin, 2016, p. 43]])
 
-- The study area includes several distinct lithofacies such as stromatolites and various cross-bedded grainstones. ([[2016-salih|Salih, 2016, p. 53]])
+- The study area is located in Al-Nasbiyah Area in the Eastern Province of Saudi Arabia, some 61 km to the Southwest of Dammam City. ([[2016-hassan-2|Hassan, 2016, p. 20]])
 
-- Four wells in the eastern part of Saudi Arabia were analyzed. ([[2016-houssain|Houssain, 2016, p. 23]])
+- The region is a primary center for oil, gas, and petrochemical industries. ([[2016-lawal-2|Lawal, 2016, p. 33]])
 
-- Not stated in source ([[2016-sameh|Sameh, 2016]])
+- Tensile fractures are dominant at both regional and local scales in this area. ([[2016-saleh|Saleh, 2016, p. 62]])
 
-- The study area is located in the Al-Lidam area within the Eastern Province. ([[2016-septriandi|Septriandi, 2016, p. 15]])
+- Four wells were analyzed in the eastern part of Saudi Arabia. ([[2016-houssain|Houssain, 2016, p. 23]])
 
-- Samples were collected from the coastline of Al Khobar and Jubail. ([[2016-ibrahim|Ibrahim, 2016, p. 13]])
+- Not stated in source ([[2016-septriandi|Septriandi, 2016]])
 
-- Contains a variety of carbonate and siliciclastic lithofacies. ([[2017-mohammed-2|Mohammed, 2017, p. 15]])
+- The Dam Formation is widely distributed in this area, showing significant lateral heterogeneity. ([[2017-mohammed-2|Mohammed, 2017, p. 15]])
 
-- Source of the industrial waste (fly ash) used as the primary adsorbent material. ([[2017-olabemiwo|Olabemiwo, 2017, p. 40]])
+- Data used for correlation development were sourced from the Khuff formation in eastern Saudi Arabia. ([[2017-hasan|Hasan, 2017, p. 149]])
 
-- Sludge was sourced from a plant in the Eastern Province. ([[2018-adeyemi|Adeyemi, 2018, p. 40]])
+- The area shows a consistent groundwater depletion trend of -6.384 mm/yr. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
 
-- In the Eastern Region, the annual trend at $\tau_{500}$ showed an increase in PM10 concentration by 9%. ([[2019-alotaibi|Alotaibi, 2019, p. 96]])
+- The area is experiencing a compressive regime where maximum horizontal stress is dominant. ([[2021-albensaad|Albensaad, 2021, p. 23]])
 
-- Experienced a rapid increase in water demand and subsequent groundwater depletion since 1967. ([[2019-prasetyo|Prasetyo, 2019, p. 18]])
+- The study focused on two cities (Dammam and Hafer Al-Batin) located in this province. ([[2022-al-harbi|Al-Harbi, 2022, p. 12]])
 
-- The Jafurah Sand Sea is located east of Al Hasa city and covers approximately 40,000 km2. ([[2022-al-alawi|Al-Alawi, 2022, p. 15]])
+- Located a barchan dune with cross-strata dipping at 30 degrees. ([[2024-makki|Makki, 2024, p. 56]])
 
-- Not stated in source ([[2020-ghazwani|Ghazwani, 2020]])
+- The site was characterized as an arid environment with low water saturation. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 41]])
 
-- Average abundance was 11.5 ± 5.02 particles/kg (109.4 ± 50.26 particles/m2). ([[2022-alshaikhali|Alshaikhali, 2022, p. 49]])
+- The area contains 1,877 active factories with significant potential to pollute surrounding soils. ([[2024-almutawa|AlMutawa, 2024, p. 14]])
 
-- The central-eastern Saudi Arabia... includes three provinces (Riyadh, Qasim, and the Eastern Province). ([[2022-pambudi|Pambudi, 2022, p. 19]])
+- The Eastern Province aquifers are vulnerable to saltwater intrusion due to high pumping and climate change. ([[2024-ahmad|Ahmad, 2024, p. 15]])
 
-- The area contains a significant number of illegal dumping sites due to rapid urbanization. ([[2022-al-harbi|Al-Harbi, 2022, p. 12]])
+- Referenced in this thesis. ([[2024-muharrag|Muharrag, 2024]])
 
-- Field data from a dune near Dammam Airport confirmed that the site was dry. ([[2023-alsahwan|AlSahwan, 2023, p. 25]])
+- The region has a surplus of treated wastewater (TWW) that can be used for aquifer recharge. ([[2026-fatima|Fatima, 2026, p. 17]])
 
-- The study area is part of the Al-Jafurah sand sea, an aeolian landscape stretching 800 km along the coast. ([[2024-makki|Makki, 2024, p. 51]])
+- Identified regional unconformities and distinct formations in the eastern province. ([[1989-abdou|Abdou, 1989, p. 169]])
 
-- The study area was specifically near Dammam Airport. ([[2024-tarchi|Tarchi, 2024, p. 17]])
+- Not stated in source ([[2002-al-ali|Al-Ali, 2002]])
 
-- Referenced in this thesis. ([[2024-alkhunaizi|Alkhunaizi, 2024]])
-
-- The Eastern Region contains a significant number of active factories (1,877) with high potential to pollute surrounding environments. ([[2024-almutawa|AlMutawa, 2024, p. 14]])
-
-- The study area includes Neogene, Alat, and Khobar aquifers which are potentially affected by seawater intrusion. ([[2024-ahmad|Ahmad, 2024, p. 20]])
-
-- Dammam and Khobar (in the East) had higher metal concentrations than Jeddah and Jubail. ([[2024-alenazi|Alenazi, 2024, p. 19]])
-
-- The study area shows a trend of thinning and more basinal facies towards the north. ([[2024-yusmananto|Yusmananto, 2024, p. 59]])
-
-- The study was tested on data collected over a barchan dune in the eastern province of Saudi Arabia. ([[2025-oyekan|Oyekan, 2025, p. 75]])
-
-- The Eastern Province has 71.49% surplus of treated wastewater every year. ([[2026-fatima|Fatima, 2026, p. 25]])
-
-- The study area is located in the Eastern Province, bounded by 24°N to 29°N and 47°E to 51°E. ([[1992-hassan|Hassan, 1992, p. 23]])
+- The area is characterized by carbonate aquifers (Alat and Khobar) with high transmissivity. ([[1992-hassan|Hassan, 1992, p. 21]])
 
 ## Research Coverage and Gaps
 

@@ -13,199 +13,159 @@ committee_members:
   - "Justin V. Strauss"
 source_file: "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/143010/"
-study_area: "NW Arabian plate, specifically Ediacaran sedimentary successions in isolated Najd fault-associated basins along the NW region of Saudi Arabia."
+study_area: "Dhaiqa Basin, Al-Wajh quadrangle, northwestern Saudi Arabia"
 keywords:
   - Ediacaran
   - Saudi Arabia
   - Jibalah Group
+  - Dhaiqa Formation
+  - Mataar Formation
   - sedimentology
-  - sequence stratigraphy
+  - geochemistry
   - stable isotopes
   - micropaleontology
-  - carbonate
-  - geochemistry
-  - petroleum potential
-  - multiproxy characterization
-  - sedimentary facies
-  - depositional environment
-  - petrography
   - microfossils
   - vase-shaped microfossils
-  - trochamminids
-  - siliciclastic
-  - carbonate rocks
-  - paleoenvironment
-  - Shuram anomaly
-  - carbon isotope excursion
-  - Shuram
-  - depositional framework
-  - radiometric dating
+  - sequence stratigraphy
+  - carbonate
+  - sedimentary facies
+  - petrology
+  - carbon isotope
+  - marine vs non-marine
 techniques:
   - xrd
   - xrf
   - qemscan
   - thin-section-petrography
-  - source-rock-evaluation
   - rock-eval-pyrolysis
   - u-pb-dating
   - icp-oes
   - icp-ms
   - tims
-  - olympus-bx53f-petrographic-microscope
-  - zeiss-axio-scan-z1
-  - quorum-ems-150r-es
-  - rock-eval-7-source-rock-analyzer
+  - sem-ed
+  - petrography
+  - biostratigraphy
   - stable-isotope-analysis
-  - axio-scanner
+  - fischer-plot
+  - microfacies-analysis
+  - sequence-stratigraphy
+  - lithostratigraphy
+  - fluid-inclusions
   - clumped-isotopes
   - toc-analysis
-  - microfacies-analysis
-  - lithofacies
-  - sem-eds
-  - petrography
-  - microfossil-extraction
-  - acetic-acid-method
-  - stable-isotope-geochemistry
-  - sequence-stratigraphy
-  - biostratigraphy
 tags:
   - degree/phd
-  - formation/jua-formation
-  - formation/qusaiba-member
+  - formation/mataar-formation
   - formation/dhaiqa-formation
-  - formation/hadrukh-formation
-  - formation/none
-  - location/northwest-saudi-arabia
-  - location/saudi-arabia
   - location/western-saudi-arabia
+  - location/saudi-arabia
+  - location/northwest-saudi-arabia
   - technique/xrd
   - technique/xrf
   - technique/qemscan
   - technique/thin-section-petrography
   - technique/rock-eval-pyrolysis
-  - technique/sem
+  - technique/u-pb-dating
   - technique/icp-ms
   - technique/icp-oes
-  - technique/u-pb-dating
-  - technique/stable-isotope-analysis
-  - technique/sem-eds
-  - technique/clumped-isotopes
-  - technique/well-log-analysis
-  - technique/microfacies-analysis
+  - technique/sem-ed
+  - technique/petrography
   - technique/biostratigraphy
+  - technique/stable-isotope-analysis
+  - technique/fischer-plot
+  - technique/microfacies-analysis
+  - technique/sequence-stratigraphy
+  - technique/lithostratigraphy
+  - technique/toc-analysis
   - theme/sedimentology
-  - theme/stratigraphy
   - theme/general-geochemistry
-  - theme/invertebrate-paleontology
   - theme/paleoenvironmental-reconstruction
-  - theme/petroleum-geology-deposits
-  - terminology/sedimentology
-  - terminology/sequence-stratigraphy
-  - terminology/stable-isotope-analysis
-  - terminology/micropaleontology
-  - terminology/geochemistry
-  - terminology/lithofacies
+  - theme/sedimentary-petrology
+  - theme/chemostratigraphy
+  - terminology/facies-analysis
   - terminology/diagenesis
+  - terminology/vase-shaped-microfossils
+  - terminology/shuram-isotope-excursion
+  - terminology/carbonate-sedimentology
+  - terminology/sedimentary-geochemistry
 status: ingested
 ---
 
 # High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arabia
 
-**Summary**: The thesis investigates the Ediacaran sedimentary successions of the Dhaiqa Formation in northwestern Saudi Arabia using a multiproxy approach including stable isotopes and thin-section petrography. It characterizes the depositional environment, identifies potential Shuram isotope excursion (SIE) indicators, and provides a regional/global correlation for these sequences.
+**Summary**: The thesis investigates the Ediacaran sedimentary successions of the Jibalah Group, specifically focusing on the Dhaiqa Basin in the Al-Wajh quadrangle. It utilizes a multiproxy approach including detailed sedimentology, stable isotope geochemistry (C and O), micropaleontology, and U-Pb dating to determine the depositional environment and clarify the debate between marine and non-marine origins.
 
 ---
 
 ## Research Problem
 
-The Ediacaran Jibalah group carbonates in Saudi Arabia are poorly understood due to a lack of detailed sedimentary facies descriptions and a lack of clarity regarding their depositional environment (marine vs. non-marine/lacustrine) and the nature of their geochemical signals (primary vs. secondary).
+The Ediacaran successions of the NW Arabian plate are poorly understood due to a lack of detailed sedimentological control, leading to conflicting interpretations regarding their depositional environments (marine vs. lacustrine) and making regional/global correlation difficult.
 
 ## Objectives
 
-- Provide a detailed sedimentological description and depositional framework of the Dhaiqa Basin.
-- Determine the depositional environment of the Dhiqa basin using multiple proxies (sedimentology, sequence stratigraphy, stable isotopes, micropaleontology).
-- Correlate the sediments across the Arabian plate and with similar global sequences.
-- To determine the origin and depositional settings of the Ediacaran carbonates in Saudi Arabia by integrating sedimentology, micropaleontology and geochemistry.
-- To conduct high-resolution multiproxy novel geochemical characterizations (Stable isotopes C & O, clumped isotopes) to unravel the origin of Ediacaran carbonates.
-- To decipher the origin of geochemical signals (primary vs. secondary) in Ediacaran carbonates.
-- To perform age dating studies on the sediments using detrital Zircon U-Pb age dating on siliciclastic rock units and carbonate U-Pb age dating techniques on carbonate rocks.
-- To find the traces of Shuram-Wonoka Anomaly if any in these sediments using C isotope data.
-- To find the Petroleum potential if any in these Ediacaran sediments.
-- To establish a geochemical correlation of Ediacaran carbonates across the Arabian Plate and globally.
-- Characterize the lithology and mineralogy of the Dhaiqa Basin outcrop using petrography and QEMSCAN.
-- Identify and describe sedimentary lithofacies and facies associations within the Dhaiqa Basin.
-- Establish a depositional framework for the Ediacaran sequences in the NW Arabian plate.
-- Integrate multi-proxy data (petrography, mineralogy, geochemistry) to interpret environmental changes.
-- Describe sedimentary facies and depositional framework of the Dhaiqa Formation
-- Identify and characterize Ediacaran microfossils (VSMs and trochamminids)
-- Establish a sequence stratigraphic framework for the Dhaiqa Basin using T-R cycles
-- Evaluate organic matter richness and maturity in the sedimentary units
-- Characterize the sedimentary facies and depositional framework of the Dhaiqa Formation.
-- Analyze stable carbon (δ13C) and oxygen (δ18O) isotopes to reconstruct paleo-environments and paleotemperatures.
-- Identify potential candidates for the Shuram Isotope Excursion (SIE).
-- Establish regional and global correlations for Ediacaran sequences in Saudi Arabia.
-- Provide a detailed sedimentary facies description and depositional framework for the Dhaiqa Formation.
-- Characterize the sedimentological and geochemical signatures of Ediacaran sequences in the Dhaiqa Basin.
-- Evaluate the impact of regional tectonic activity on sedimentation style and depositional setting.
-- Assess the petroleum potential of Neoproterozoic sediments (Jibalah Group) in Eastern KSA.
-- Characterize Ediacaran sequences using a multiproxy approach
-- Establish a sedimentary facies description for the outcrops
-- Develop a depositional framework for the isolated Najd fault-associated basins
+- Determine the origin and depositional settings of the Ediacaran carbonates in Saudi Arabia by integrating sedimentology, micropaleontology, and geochemistry.
+- Conduct high-resolution multiproxy novel geochemical characterizations (Stable isotopes C & O, clumped isotopes) to unravel the origin of Ediacaran carbonates.
+- Decipher the origin of geochemical signals (primary vs. secondary) in Ediacaran carbonates.
+- Perform age dating studies on the sediments using detrital Zircon U-Pb age dating on siliciclastic rock units and carbonate U-Pb age dating techniques on carbonate rocks.
+- Find the traces of Shuram-Wonoka Anomaly if any in these sediments using C isotope data.
+- Find the Petroleum potential if any in these Ediacaran sediments.
 
 ## Methods
 
-The study utilized field mapping and logging of a 420m section of the Dhaiqa Basin. Petrographic analysis was performed using an Olympus BX53F microscope and ZEISS Axio Scan Z1. Mineralogical distribution was determined via QEMSCAN (using Quorum EMS 150R ES for coating). Inorganic geochemistry included XRD (Malvern PANalytical Empyrean) and XRF (Bruker AXS). Rock-Eval pyrolysis (Rock Eval 7) was used to determine S1, S2, and Tmax to calculate HI and OI. Stable isotope analysis was conducted on 124 samples using a Coupled Kiel IV Carbonate device Mass Spectrometer.
+The study involved detailed field mapping and sampling of a 420m section in the Dhaiqa Basin. Petrography was performed using thin sections (35-micron) analyzed under an Olympus BX53F microscope, with mineralogical distribution determined via QEMSCAN (using a Quanta 650 FEG SEM). Mineralogy and geochemistry were analyzed using XRD (Malvern PANalytical Empyrean Cu LFF HR) and XRF (Esprit M4 Tornado µXRF). Organic matter and source rock potential were evaluated using Rock Eval Pyrolysis (Rock Eval 7 Source Rock Analyzer) to determine S1, S2, T-max, HI, and OI. Stable isotopes (C, O, Sr) were measured using a Coupled Kiel IV Carbonate device Mass Spectrometer.
 
 ## Data and Materials
 
-The study focuses on the Dhaiqa Basin located in the NW Saudi Arabia, specifically within the Jibalah Group. Data includes lithological logs, mineralogical data from XRD/XRF, Rock-Eval Pyrolysis results, stable isotope values for ̈́13C and ͈18O, and micropaleontological samples.
+The study analyzed the Dhaiqa Formation in the Dhaiqa Basin, including a 403.5m thick section divided into 194 smaller cycles for Fischer plot analysis. Samples included 22 representative samples for Rock Eval Pyrolysis and various thin sections for petrography and QEMSCAN.
 
 ## Key Findings
 
-- The Dhaiqa Basin is characterized as a mixed clastic-carbonate system rather than a continuous carbonate succession. ([[2024-malik|Malik, 2024, p. 14]])
-- Sediments include basal fanglomerates followed by mixed clastic-carbonates and microbialite facies of limestones. ([[2024-malik|Malik, 2024, p. 14]])
-- Laminated sandstones overlie the carbonates, indicating a shallow water origin predominantly lacustrine with close proximity to the source. ([[2024-malik|Malik, 2024, p. 14]])
-- Microfossils including vase-shaped microfossils of Ediacaran age and Trochamminid foraminifera were identified in the section. ([[2024-malik|Malik, 2024, p. 14]])
-- The Dhaiqa basin is a potentially fault-controlled basin, originated at a flank of a normal fault during left-lateral transcurrent movement at the Najd Fault system. ([[2024-malik|Malik, 2024, p. 14]])
-- Stable isotope results suggest the basin was not completely isolated and had potential connections with open seas during the Ediacaran. ([[2024-malik|Malik, 2024, p. 14]])
-- The Dhaiqa basin contains a single, continuous exposure of up to 400 m thick sediments belonging to the Mataar and Dhaiqa formations. ([[2024-malik|Malik, 2024, p. 28]])
-- The Mataar Formation is mostly siliciclastics and has conglomeratic facies in the basin while the Dhaiqa Formation is predominately carbonate interbedded with sandstone horizons. ([[2024-malik|Malik, 2024, p. 29]])
-- Previous studies on Dhaiqa carbonates using ICP-OES, stable isotopes (δ18O, δ13C) via ICP-MS, and strontium (87Sr/86Sr) via TIMS found anomalous behavior in 87Sr/86Sr values. ([[2024-malik|Malik, 2024, p. 24]])
-- The Jibalah group is considered to be of syn-rift deposits formed during the transition from collisional to extensional tectonics. ([[2024-malik|Malik, 2024, p. 23]])
-- The study identified nine distinct lithofacies and four facies associations within the Dhaiqa Basin. ([[2024-malik|Malik, 2024, p. 39]])
-- F1 (Polymict clast-supported conglomerate) constitutes about 15% of the measured section, interpreted as alluvial fan deposits from the Najd Fault System. ([[2024-malik|Malik, 2024, p. 41]])
-- F2 (Matrix-supported conglomerate) is found at ~62m and shows a debris-flow origin in an alluvial fan setting. ([[2024-malik|Malik, 2024, p. 44]])
-- F3 (Structureless sandstone and siltstone) shows evidence of upper plane bed traction sedimentation in an alluvial setting. ([[2024-malik|Malik, 2024, p. 45]])
-- F4 (Parallel-laminated sandstone) is interpreted as being deposited sub-aqueously out of suspension in a lacustrine or distal alluvial fan environment. ([[2024-malik|Malik, 2024, p. 46]])
+- The Dhaiqa Basin is found to be a potentially fault-controlled basin, originated at a flank of a normal fault developed during some stage of the left-lateral transcurrent movement at the Najd Fault system. ([[2024-malik|Malik, 2024, p. 15]])
+- The studied section is found to be more of a mixed clastic-carbonate system rather than a continuous carbonate succession. ([[2024-malik|Malik, 2024, p. 15]])
+- Sediments deposited include basal fanglomerates covered by mix clastic-carbonates and microbialites facies of limestones. Laminated sandstones overlie these carbonates indicating a shallow water origin predominantly lacustrine with close proximity to the source. ([[2024-malik|Malik, 2024, p. 15]])
+- Microfossils including famous vase shaped microfossils of Ediacaran age along with Trochamminid foraminifera have also been found in the studied section. ([[2024-malik|Malik, 2024, p. 15]])
+- F1 (Polymict clast-supported conglomerate) constitutes about 15% of the measured section and is interpreted as being deposited in distributary channels of relatively proximal parts of an alluvial fan. ([[2024-malik|Malik, 2024, p. 27]])
+- F4 (Parallel-laminated sandstone) is interpreted to have been deposited sub-aqueously out of suspension at a similar shallow depth as the carbonate strata. ([[2024-malik|Malik, 2024, p. 31]])
+- F5 (Siliceous limestone mudstone/wackestone/packstone) shows a sharp transition from clastic-rich to clastic-poor environments, with chertification and dolomitization identified as diagenetic processes. ([[2024-malik|Malik, 2024, p. 33]])
+- F6 (Sandy microbialite) is interpreted as being deposited in an intertidal to supratidal environment or lacustrine setting, showing a continuous siliciclastic influx. ([[2024-malik|Malik, 2024, p. 35]])
+- F7 (Organic-rich limestone mudstone/wackestone/packstone) was likely deposited in quiet, low-energy distal portions of marginal marine to lacustrine settings with very little terrestrial input. ([[2024-malik|Malik, 2024, p. 36]])
+- Identified four facies associations: FA1 (structureless clastic), FA2 (parallel laminated clastic), FA3 (mixed clastic-carbonate), and FA4 (carbonate). ([[2024-malik|Malik, 2024, p. 56]])
+- QEMSCAN results for FA2 showed quartz as a dominant mineral with plagioclase feldspar, while carbonate parts were primarily calcite. ([[2024-malik|Malik, 2024, p. 60]])
+- Rock Eval Pyrolysis revealed very low S1 (0.02-0.3), S2 (0.03-0.07), and TOC (0.03-0.27) values, indicating poor hydrocarbon potential. ([[2024-malik|Malik, 2024, p. 63]])
+- The Dhaiqa Basin section was divided into 194 smaller cycles covering a total depositional thickness of 403.5m for Fischer plot analysis. ([[2024-malik|Malik, 2024, p. 68]])
+- First discovery of vase-shaped microfossils (VSMs) and possible multichambered foraminifera (trochamminids) in Ediacaran rocks of Saudi Arabia. ([[2024-malik|Malik, 2024, p. 70]])
+- The $\delta^{13}C$ values range from -3.38\text{°} to 6.728\text{°} (mean 2.313\text{°}) and $\delta^{18}O$ values range from -17.126\text{°} to 2.352\text{°} (average -8.691\text{°}). ([[2024-malik|Malik, 2024, p. 71]])
 
 ## Limitations
 
-The lack of other logged sections in the Dhaiqa Basin makes it difficult to determine if the basin is bounded by a strike- or dip-slip fault. Additionally, some Ediacaran exposures contain siliciclastics that may not yield reliable isotopic results.
+Lack of other logged sections to elucidate geometry/nature of age-equivalent strata; limited local correlation due to few studies on stable isotopes in Arabian plate; potential for diagenetic alteration of older carbonates (though Mn/Sr ratios suggested stability).
 
 ## Recommendations and Future Work
 
-- Detailed diagenetic studies (Sr, $\epsilon$Nd, $13C_{org}$) for both carbonate and clastic components.
-- Provenance analysis using major and trace elemental data.
+- Perform detailed diagenetic studies using Sr, εNd, and 13Corg isotopic covariances.
+- Conduct provenance analysis using major and trace elemental data.
 - Study cherts for source of silica (hydrothermal/marine/terrestrial) and microfossil content.
-- Employ more geochemical proxies and age dating techniques (e.g., $13C_{org}$, $\delta^{44}/^{40}Ca$).
+- Employ more geochemical proxies and age dating techniques (e.g., δ44/40Ca).
+- Study all related Ediacaran basins in Saudi Arabia to create a complete picture of sedimentation.
 
 ## Related Concepts
 
 - [[xrd]]
+- [[qemscan]]
 - [[rock-eval-pyrolysis]]
-- [[sedimentology]]
-- [[sequence-stratigraphy]]
-- [[northwestern-saudi-arabia]]
-- [[jua-formation]]
+- [[thin-section-petrography]]
+- [[dhaiqa-formation]]
+- [[mataar-formation]]
+- [[western-saudi-arabia]]
+- [[facies-analysis]]
+- [[diagenesis]]
 - [[paleoenvironmental-reconstruction]]
 - [[stable-isotope-analysis]]
-- [[micropaleontology]]
-- [[saudi-arabia]]
-- [[thin-section-petrography]]
-- [[icp-ms]]
+- [[sequence-stratigraphy]]
+- [[northwest-saudi-arabia]]
+- [[vase-shaped-microfossils]]
+- [[shuram-isotope-excursion]]
+- [[petrography]]
 - [[u-pb-dating]]
-- [[geochemistry]]
-- [[western-saudi-arabia]]
-- [[qusaiba-member]]
-- [[qemscan]]
-- [[lithofacies]]
-- [[diagenesis]]
+- [[carbonate-sedimentology]]
+- [[sedimentary-geochemistry]]

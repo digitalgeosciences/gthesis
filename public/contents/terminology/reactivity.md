@@ -2,45 +2,44 @@
 type: terminology
 title: "Reactivity"
 aliases:
-  - "chemical reactivity"
+  - "reaction rate"
 canonical: true
-definition: "The rate or tendency of a chemical reaction to occur."
-units: "not applicable"
+definition: "The rate at which a chemical reaction occurs."
+units: "mL/sec or pressure change over time"
 related_techniques:
-  - "ftir"
-  - "tga"
+  - "viscosity-measurement"
 tags:
-  - theme/petroleum-engineering
+  - theme/chemical-flooding
 sources:
   - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Reactivity
 
-**Summary**: The tendency of a chemical species to undergo a chemical reaction.
+**Summary**: The chemical property of a substance that determines how quickly it undergoes a chemical reaction.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-abdallah|Abdallah, 2024]] studied the reactivity of TCFs as a function of pH and emulsification.
+- [[2024-abdallah|Abdallah, 2024]] evaluated the reactivity of NaNO2 and NH4Cl systems under varying conditions like pH, temperature, and concentration.
 
 ## Scientific Context
 
-- [[2024-abdallah|Abdallah, 2024]] Controlling the rapid reaction of TCFs is essential for safe and effective use in oilfield applications.
+- [[2024-abdallah|Abdallah, 2024]] Critical for determining the safety and timing of heat release in thermochemical systems.
 
 ## Measurement and Characterization Methods
 
-- [[2024-abdallah|Abdallah, 2024]] monitored via pressure and temperature changes during activation.
+- [[2024-abdallah|Abdallah, 2024]] Measured via gas evolution (N2) and pressure buildup.
 
 ## Key Findings Across Sources
 
-- Emulsifiers B and C tended to activate TCF reactions due to low pH. ([[2024-abdallah|Abdallah, 2024, p. 20]])
+- Reactivity was significantly influenced by pH; lower pH values led to higher initial reaction rates. ([[2024-abdallah|Abdallah, 2024, p. 39]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

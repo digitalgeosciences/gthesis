@@ -6,25 +6,24 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "mass of petroleum hydrocarbons in soil samples"
+output: "mass of TPH in a sample"
 tags:
   - technique/gravimetric-method
-  - theme/environmental-geoscience
 sources:
   - "raw/138453 - Assessing the Use of Local Indigenous Microorganisms for the Bioremediation of S.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Gravimetric Method
 
-**Summary**: A method of determining the amount of a substance by weighing it.
+**Summary**: A method of measuring the amount of a substance by weighing it.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2011-salamah|Salamah, 2011]] applied gravimetric methods to determine total petroleum hydrocarbons (TPH) levels in soil samples.
+- [[2011-salamah|Salamah, 2011]] applied gravimetric method to quantify TPH in soil samples.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Gravimetric methods were used to assess the degradation of TPH across various experimental conditions. ([[2011-salamah|Salamah, 2011, p. 21]])
+- The gravimetric method determined that 10g of contaminated soil contained approximately 0.2g of TPH. ([[2011-salamah|Salamah, 2011, p. 49]])
 
 ## Methodological Variations Across Sources
 

@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "sensitivity analysis results and parameter influence rankings"
+output: "a surface representing the relationship between input parameters (e.g., sediment supply) and output results (thickness)."
 tags:
   - technique/response-surface-modeling
-  - theme/uncertainty-quantification
+  - theme/geostatistics
 sources:
   - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Response Surface Modeling
 
-**Summary**: A method to estimate the relationship between uncertain parameters and simulation outcomes by generating a response surface.
+**Summary**: A statistical method used to estimate the relationship between input parameters and model outputs.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-fahmi|Fahmi, 2024]] applied response surface modeling with Latin hypercube sampling to evaluate parameter sensitivity in the Marrat Formation.
+- [[2024-fahmi|Fahmi, 2024]] applied response surface modeling via Latin hypercube sampling to evaluate the sensitivity of various geological factors.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The RSM allowed for the identification of sediment supply and carbonate production as the primary drivers of architecture. ([[2024-fahmi|Fahmi, 2024, p. 100]])
+- The RSM allowed for the identification of sediment supply as a primary driver in the lower and middle Marrat members. ([[2024-fahmi|Fahmi, 2024, p. 100]])
 
 ## Methodological Variations Across Sources
 

@@ -4,43 +4,42 @@ title: "Shear Zone"
 aliases:
   - "shear zone"
 canonical: true
-definition: "A zone of crushed rock formed by sliding past each other along a fault."
+definition: "A zone where rock is pulverized or broken due to sliding along a fault."
 units: "not applicable"
 related_techniques:
   - "xrd"
 tags:
-  - theme/petroleum-geology
-  - theme/geophysics-general
+  - terminology/shear-zone
 sources:
   - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Shear Zone
 
-**Summary**: A zone of crushed, broken, or pulverized rock formed by movement along a fault.
+**Summary**: A zone of crushed or broken rock formed by rocks sliding past each other.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-alshaibani|AlShaibani, 2023]] interpreted the deformation zone as a shear zone based on mineralogy and geophysics.
+- [[2023-alshaibani|AlShaibani, 2023]] interpreted the deformation zone as a shear zone.
 
 ## Scientific Context
 
-- [[2023-alshaibani|AlShaibani, 2023]] The shear zone represents the final stage of deformation in the study area.
+- [[2023-alshaibani|AlShaibani, 2023]] Used to describe the final stage of deformation in the study area.
 
 ## Measurement and Characterization Methods
 
-- [[2023-alshaibani|AlShaibani, 2023]] Inferred from mineralogical consistency and structural analysis.
+- [[2023-alshaibani|AlShaibani, 2023]] Inferred from mineralogical consistency and structural mapping.
 
 ## Key Findings Across Sources
 
-- The deformation zone evolved from a single fault into a fault zone and finally into a shear zone. ([[2023-alshaibani|AlShaibani, 2023, p. 56]])
+- The deformation zone is interpreted as a shear zone that evolved from a single fault to a complex system of small faults. ([[2023-alshaibani|AlShaibani, 2023, p. 56]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

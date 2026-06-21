@@ -12,130 +12,108 @@ committee_members:
   - "Gabor Korvin"
 source_file: "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139877/"
-study_area: "Rawd Al-Jawa paleovalley, Qaseem Formation, Central Saudi Arabia"
+study_area: "Rawd Al-Jawa paleovalley, Al-Qaseem area, Central Saudi Arabia"
 keywords:
   - Sarah Formation
-  - glacio-fluvial deposits
-  - lithofacies
-  - sedimentology
-  - fracture characterization
-  - geomechanical properties
-  - paleovalley
-  - tight gas reservoir
   - lithostratigraphy
-  - fracture characteristics
-  - Paleochannel
-  - Glacial environment
-  - Petrophysical analysis
-  - Siltstone
-  - Mudstone
-  - Sandstone
-  - fracture analysis
+  - geomechanical properties
+  - fracture characterization
+  - paleochannel
+  - glacio-fluvial deposits
+  - tight gas reservoir
   - petrophysical properties
-  - porosity
-  - permeability
 techniques:
-  - schmidt-hummer
-  - spectral-gamma-ray
-  - lidar
-  - thin-section-petrography
   - xrd
   - sem
+  - thin-section-petrography
   - porosity-and-permeability-measurement
-  - sonic-velocity-measurement
-  - point-load-index
-  - schmidt-hammer
-  - uniaxial-compressive-strength-ucs
   - point-load-test
-  - helium-porosity
-  - gas-permeameter
+  - uniaxial-compressive-strength-test
+  - schmidt-hammer
+  - velocity-analysis
+  - spectral-gamma-ray
+  - lidar
   - scan-line-method
-  - gamma-ray-spectrometry
   - uniaxial-compressive-strength
   - velocity-measurement
-  - core-analysis
-  - lithofacies
+  - fracture-characterization
 tags:
   - degree/ms
   - formation/sarah-formation
   - location/central-saudi-arabia
-  - location/al-qaseem-area
+  - location/central-saudi-area
   - technique/xrd
   - technique/sem
   - technique/thin-section-petrography
-  - technique/lidar
-  - technique/well-log-analysis
+  - technique/porosity
   - technique/core-analysis
-  - technique/schmidt-hammer
-  - technique/gamma-ray-spectrometry
   - technique/point-load-test
+  - technique/uniaxial-compression-test
+  - technique/lidar
+  - technique/scan-line-method
+  - technique/spectral-gamma-ray
+  - technique/schmidt-hammer
+  - technique/fracture-characterization
   - theme/lithostratigraphy
-  - theme/geomechanics
-  - theme/sedimentology
-  - theme/fract-characterization
   - theme/fracture-characterization
+  - theme/petrophysics
+  - theme/geomechanics
+  - terminology/facies-analysis
+  - terminology/fracture-characterization
   - terminology/geomechanics
   - terminology/lithostratigraphy
-  - terminology/fracture-characterization
-  - terminology/sedimentology
-  - terminology/fractured-reservoirs
-  - terminology/lithofacies
+  - terminology/porosity
 status: ingested
 ---
 
 # THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH FORMATION OUTCROP ANALOGUE, CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the relationship between lithostratigraphy and geomechanical properties in the Sarah Formation, a Late Ordovician glacio-fluvial deposit in central Saudi Arabia. By analyzing four outcrop sections using petrophysical measurements (porosity, permeability) and mechanical tests (point load, Schmidt hammer, UCS), the study identifies five distinct geomechanical units linked to specific lithofacies.
+**Summary**: The thesis investigates the relationship between lithostratigraphy and geomechanical properties in the Sarah Formation, a Late Ordovician glacio-fluvial deposit in central Saudi Arabia. Using field observations, thin-section petrography, XRD, SEM, and mechanical testing (UCS, point load, sonic velocity), the study identifies five distinct lithofacies and three fracture modes to evaluate reservoir heterogeneity.
 
 ---
 
 ## Research Problem
 
-The Sarah Formation is an important target for conventional and tight gas reservoirs, but its geomechanical behavior and lithological heterogeneity in the subsurface are poorly understood due. The study uses a well-exposed outcrop analogue in central Saudi Arabia to characterize these properties.
+The lack of understanding regarding how lithostratigraphic heterogeneity influences geomechanical properties and fracture characteristics in the Sarah Formation, which is a significant target for conventional and tight gas reservoirs.
 
 ## Objectives
 
-- Characterize the lithofacies, sedimentological, and fracture characteristics of the Sarah paleovalley.
-- Investigate the relationship between lithostratigraphy and geomechanical properties.
-- Assess the impact of lithological heterogeneity on petrophysical and geomechanical properties.
 - Investigate and characterize lithofacies and sedimentological characteristics of Sarah paleovalley at outcrop scale.
 - Investigate the geomechanical and fracture characteristics in Sarah Paleochannel.
 - Investigate the relationship between mechanical units and stacked sedimentary units.
 - Establish the geomechanical model of Sarah formation paleochannel.
+- Investigate the relationship between lithostratigraphy and geomechanical properties.
 - Identify the impact of heterogeneity on reservoir units.
-- Establish a link between lithostratigraphic units and geomechanical behavior to improve reservoir understanding.
-- Determine how different lithofacies influence rock strength (UCS, point load) and elastic properties (P-wave velocity).
-- Evaluate the impact of fractures on reservoir quality and seal integrity.
 
 ## Methods
 
-The study utilized a three-part approach: sedimentological analysis, fracture characterization, and geomechanical testing. Field measurements included sampling at 40 cm intervals along four outcrop sections. Geomechanical tests performed included point load tests, Schmidt hammer tests, and uniaxial compressive strength (UCS) tests. Petrophysical properties were determined via porosity and permeability measurements. Spectral gamma-ray readings were integrated with mechanical data to define lithofacies. Fracture analysis involved identifying three modes of stress (opening, sliding, shear) based on fracture geometry and mineral infill.
+The study employed a three-part approach: field investigation, laboratory analysis, and analytical interpretation. Field work included sedimentological description of four vertical sections in Rawd Al-Jawa paleovalley, fracture mapping using scan line methods, and Lidar imaging for 3D fracture characterization. Laboratory analyses included thin section petrography to identify mineralogy (quartz, kaolinite, illite) and cementation; XRD and SEM to characterize minerals and pore-filling materials; porosity and permeability measurements using TPI-219 and TKA-209 instruments; and geomechanical testing including point load tests, uniaxial compressive strength (UCS), Schmidt hammer, and ultrasonic wave velocity measurements.
 
 ## Data and Materials
 
-The study analyzed 4 vertical stratigraphic sections at the Sarah paleovalley outcrop, including samples of five distinct lithofacies (ferruginous sandstone, slumped siltstone, mudstone, white sandstone, and fluvial sandstone). Fracture data were collected via scan line measurements across multiple orientations.
+Data were collected from four vertical stratigraphic sections in the Rawd Al-Jawa paleovalley. Laboratory analysis was performed on core plugs representing different lithofacies to determine porosity, permeability, and mechanical properties. Lidar data provided high-resolution 3D point clouds for fracture mapping.
 
 ## Key Findings
 
-- The study identified five distinct lithofacies within the paleovalley: (a) yellowish brown poorly sorted medium to coarse diamictite with ferruginous sandstone; (b) brownish-yellow finely laminated slumped siltstone; (c) slumped mudstone; (d) white medium to coarse grained diamictite and poorly sorted sandstone; and (e) yellow fine to medium grained moderately sorted, laminated fluvial sandstone. ([[2016-babker|Babker, 2016, p. 13]])
-- Fracture analysis revealed three types of fracture modes: mode 1 (opening mode), mode 2 (sliding mode), and mode 3 (shear mode), reflecting different stress regimes. ([[2016-babker|Babker, 2016, p. 13]])
-- Both calcite and iron oxides were identified as fracture fill for most closed to resistive fracture types (mode 2 and mode 3). ([[2016-babker|Babker, 2016, p. 13]])
+- The study identified five distinct lithofacies: (a) yellowish brown, poorly sorted, medium to coarse diamictite with ferruginous sandstone; (b) brownish yellow, finely laminated, slumped siltstone; (c) slumped mudstone; (d) white, medium to coarse grained, diamictite and poorly sorted sandstone; and (e) yellow, fine to medium grained moderately sorted, laminated fluvial sandstone. ([[2016-babker|Babker, 2016, p. 13]])
+- Three fracture modes were identified: Mode 1 (opening mode), Mode 2 (sliding mode), and Mode 3 (shear mode). ([[2016-babker|Babker, 2016, p. 13]])
+- Both calcite and iron oxides were found as fracture fill for most of the closed to resistive fracture types (mode 2 and mode 3). ([[2016-babker|Babker, 2016, p. 13]])
 - The study identified five geomechanical units that have a direct relationship to the lithological units, ranging from low strength to extremely low strength. ([[2016-babker|Babker, 2016, p. 13]])
-- Lithofacies in the outcrop vary from glacio-fluvial sandstone packages characterized by large boulders of slumped siltstone and shale bodies to moderately sorted white fluvial sandstone at the top. ([[2016-babker|Babker, 2016, p. 18]])
-- The Sarah Formation is characterized as a tight sandstone reservoir with significant potential for conventional and tight gas production. ([[2016-babker|Babker, 2016, p. 21]])
-- Schmidt hammer results are used to provide quick estimation of rock hardness and strength, showing correlation between hammer values, compressive strength, and Young's modulus across lithofacies. ([[2016-babker|Babker, 2016, p. 27]])
-- Spectral gamma ray measurements indicate organic matter content (Uranium) and minerals like feldspars (K and Th) in siliciclastic rocks. ([[2016-babker|Babker, 2016, p. 28]])
-- Lidar imaging provides high-resolution 3D images to calculate strike, dip, and fracture density of the outcrop. ([[2016-babker|Babker, 2016, p. 29]])
-- The study identifies four distinct fracture zones in the Sarah Formation based on image log data from previous studies (referenced as a basis for current investigation). ([[2016-babker|Babker, 2016, p. 26]])
-- Porosity and permeability measurements were conducted to detect heterogeneity within lithofacies and determine relationships with mechanical properties. ([[2016-babker|Babker, 2016, p. 34]])
-- The study identified 5 main lithofacies: ferruginous sandstone, slumped siltstone, slumped mudstone, muddy-brown siltstone, and laminated fluvial sandstone. ([[2016-babker|Babker, 2016, p. 74]])
-- Thin section petrography revealed fractured and striated quartz as evidence of a glacial environment in the Sarah paleochannel. ([[2016-babker|Babker, 2016, p. 68]])
-- XRD results confirmed that quartz is the main forming mineral, with kaolinite and illite identified as cement materials in siltstone lithofacies. ([[2016-babker|Babker, 2016, p. 71]])
-- Fracture intensity was calculated using the scan line method, resulting in an average of 6 fractures per 2 meters. ([[2016-babker|Babker, 2016, p. 67]])
+- Thin section petrography revealed fractured and striated quartz as evidence of glacial nature in the Sarah paleochannel. ([[2016-babker|Babker, 2016, p. 68]])
+- XRD analysis confirmed the dominance of quartz with the presence of kaolinite, illite, and iron oxides as cement materials. ([[2016-babker|Babker, 2016, p. 71]])
+- SEM results showed quartz overgrowth and the presence of clay minerals (illite and kaolinite) in siltstone lithofacies. ([[2016-babker|Babker, 2016, p. 73]])
+- Thrust fractures, representing unconformity surfaces from glacial movement, were found to act as fluid barriers due to iron-bearing cementation. ([[2016-babker|Babker, 2016, p. 78]])
+- Open fractures (Mode I) are considered younger and improve reservoir quality, while shear fractures (Mode III) are often filled with ferrugination or gypsum, acting as barriers. ([[2016-babker|Babker, 2016, p. 83]])
+- Fractures were categorized into three types: open fractures (promoting reservoir quality), closed fractures (filled with iron oxides), and resistive fractures (filled with gypsum or iron oxides). ([[2016-babker|Babker, 2016, p. 87]])
+- Ferruginous boundaries had a thickness of 2 to 7 cm and were identified as significant factors in reducing reservoir quality. ([[2016-babker|Babker, 2016, p. 87]])
+- Porosity is inversely proportional to geomechanical parameters including point load, p-wave velocity, Schmidt hammer values, and UCS. ([[2016-babker|Babker, 2016, p. 125]])
+- The average uniaxial compressive strength (UCS) for the lithofacies were: Yellowish sandstone (45.1 MPa), Fluvial sandstone (42.26 MPa), Siltstone (14.8 MPa), and Mudstone (5.76 MPa). ([[2016-babker|Babker, 2016, p. 102]])
+- Point load values for the lithofacies were: Yellowish glacial sandstone (1.88), Fluvial sandstone (1.76), Siltstone (0.6), and Mudstone (0.24). ([[2016-babker|Babker, 2016, p. 103]])
+- P-wave velocity is directly proportional to rock strength (point load, Schmidt hammer) and inversely proportional to porosity. ([[2016-babker|Babker, 2016, p. 97]])
 
 ## Limitations
 
-The study notes that many fractures in the tight reservoir are sub-seismic scale, making them difficult to detect in subsurface data; therefore, outcrop analysis is used to overcome these limitations.
+The study notes that many fractures in the tight reservoir are sub-seismic scale, making them difficult to detect at the subsurface level without high-resolution data.
 
 ## Recommendations and Future Work
 
@@ -151,15 +129,17 @@ The study notes that many fractures in the tight reservoir are sub-seismic scale
 - [[sem]]
 - [[thin-section-petrography]]
 - [[lidar]]
+- [[porosity]]
+- [[core-analysis]]
+- [[uniaxial-compression-test]]
+- [[point-load-test]]
 - [[sarah-formation]]
 - [[central-saudi-arabia]]
+- [[facies-analysis]]
+- [[fracture-characterization]]
+- [[petrophysics]]
+- [[schmidt-hammer]]
+- [[spectral-gamma-ray]]
+- [[central-saudi-area]]
 - [[geomechanics]]
 - [[lithostratigraphy]]
-- [[sedimentology]]
-- [[fracture-characterization]]
-- [[schmidt-hammer]]
-- [[core-analysis]]
-- [[fractured-reservoirs]]
-- [[lithofacies]]
-- [[gamma-ray-spectrometry]]
-- [[point-load-test]]

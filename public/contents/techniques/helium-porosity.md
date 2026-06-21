@@ -2,74 +2,52 @@
 type: technique
 title: "Helium Porosity Measurement"
 aliases:
-  - "helium porosimetry"
-  - "gas expansion porosimetry"
+  - "Helium Porosimeter"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "porosity percentage (%)"
+output: "porosity percentage"
 tags:
-  - technique/helium-porosity
-  - theme/petrophysics
+  - technique/helium-porosimetry
 sources:
-  - "raw/10133 - Assessment of hydrogeological parameters from thin-section study of middle creta.pdf"
-  - "raw/139876 - Porosity and Permeability Characterization within the Lithofacies Framework of A.pdf"
-  - "raw/140765 - Microfacies Analysis of the Bajocian—Bathonian Dhruma Carbonates, Central Saudi .pdf"
-  - "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
+  - "raw/138834 - Effect of Saturation on Acoustic of Carbonate Rock.pdf"
   - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
-  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
-  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
-  - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
-  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
+  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
+  - "raw/143032 - The impact of CO2 storage on the rock integrity.pdf"
+  - "raw/9826 - Monitoring fluid fron movement using permanent resistivity arrays.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Helium Porosity Measurement
 
-**Summary**: A method to measure the porosity of a rock sample by measuring the volume of helium gas it absorbs.
+**Summary**: A method to measure the porosity of a rock sample by displacing fluid with helium gas.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1995-magaji|Magaji, 1995]] used helium-porosity to measure actual porosity in selected Wasia sandstone samples.
+- [[2012-elhaj|Elhaj, 2012]] used helium-porosimetry to determine the porosity of 93 carbonate samples from the Dam formation.
 
-- [[2016-hassan-2|Hassan, 2016]] used TPI-219 Helium porosimeter to measure porosity for 254 core plugs across four lithofacies.
+- [[2020-islam|Islam, 2020]] used helium-porosity measurements to establish the baseline petrophysical properties of the Sarah Formation.
 
-- [[2018-ismanto|Ismanto, 2018]] used helium-porosity to quantify the petrophysical properties of different microfacies.
+- [[2022-babker|Babker, 2022]] used helium-porosity to determine the average porosity for eight lithofacies.
 
-- [[2020-al-zoukani|Al-Zoukani, 2020]] used helium-porosity to determine the porosity of 38 rock samples.
+- [[2024-almukainah|Almukainah, 2024]] used Helium Porosimeter to measure porosity before and after 60 days of aging in live brine.
 
-- [[2020-islam|Islam, 2020]] used helium-porosity to measure the porosity and permeability of 70 plugs.
-
-- [[2021-ahmed|Ahmed, 2021]] used helium porosity measurements with a Vinci He Porosimeter to determine total and effective porosity.
-
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] used helium-porosity to determine the absolute porosity and permeability of different lithofacies.
-
-- [[2024-allam|Allam, 2024]] used helium porosity measurements on 36 core plugs to quantify reservoir quality.
-
-- [[2024-allehyani|allehyani, 2024]] used helium-porosity to determine the bulk porosity of standard core samples.
+- [[2003-chowdhury|CHOWDHURY, 2003]] used Helium Porosimeter to determine the average porosity of the glass bead pack.
 
 ## Instruments and Software
 
 
 
-- [[2016-hassan-2|Hassan, 2016]] used TPI-219 Helium porosimeter to measure porosity for 254 core plugs across four lithofacies.
+- [[2020-islam|Islam, 2020]] used helium-porosity measurements to establish the baseline petrophysical properties of the Sarah Formation.
 
-- [[2018-ismanto|Ismanto, 2018]] used helium-porosity to quantify the petrophysical properties of different microfacies.
+- [[2022-babker|Babker, 2022]] used helium-porosity to determine the average porosity for eight lithofacies.
 
-- [[2020-al-zoukani|Al-Zoukani, 2020]] used helium-porosity to determine the porosity of 38 rock samples.
+- [[2024-almukainah|Almukainah, 2024]] used Helium Porosimeter to measure porosity before and after 60 days of aging in live brine.
 
-- [[2020-islam|Islam, 2020]] used helium-porosity to measure the porosity and permeability of 70 plugs.
-
-- [[2021-ahmed|Ahmed, 2021]] used helium porosity measurements with a Vinci He Porosimeter to determine total and effective porosity.
-
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] used helium-porosity to determine the absolute porosity and permeability of different lithofacies.
-
-- [[2024-allam|Allam, 2024]] used helium porosity measurements on 36 core plugs to quantify reservoir quality.
-
-- [[2024-allehyani|allehyani, 2024]] used helium-porosity to determine the bulk porosity of standard core samples.
+- [[2003-chowdhury|CHOWDHURY, 2003]] used Helium Porosimeter to determine the average porosity of the glass bead pack.
 
 ## Typical Workflow
 
@@ -77,23 +55,15 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Used as a primary measurement for comparing against values derived from petrographic calculations. ([[1995-magaji|Magaji, 1995, p. 53]])
+- Measured porosity values using Helium Porosimeter ranged between 24.36% and 54.22% (average 37.87%). ([[2012-elhaj|Elhaj, 2012, p. 97]])
 
-- Porosity measurements showed a coefficient of variation (CV) less than 1 for all lith1.04 ([[2016-hassan-2|Hassan, 2016, p. 114]])
+- Measured porosity ranged from 13.03% to 25% while permeability ranged from 7.3 mD to 714.61 mD. ([[2020-islam|Islam, 2020, p. 138]])
 
-- Lagoonal environments showed 5-17% porosity with permeability <1 mD. ([[2018-ismanto|Ismanto, 2018, p. 101]])
+- Porosity measurements for LFA-1 ranged from 16% to 33%. ([[2022-babker|Babker, 2022, p. 45]])
 
-- Helium porosity was measured between 1.97% and 16.1% across the studied lithofacies. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 115]])
+- All samples demonstrated a modest increase in porosity following a 60-day period of aging in live brine. ([[2024-almukainah|Almukainah, 2024, p. 55]])
 
-- The average porosity across three sections was 17.06%. ([[2020-islam|Islam, 2020, p. 98]])
-
-- Porosity was calculated from the change in gas pressure and bulk volume of the cores. ([[2021-ahmed|Ahmed, 2021, p. 51]])
-
-- Determined that LF4 had higher porosity than its proximal counterparts due to larger interparticle pore preservation. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 47]])
-
-- Porosity values for sandy peloidal grainstone (MF-2) ranged from 11.5% to 15.2%. ([[2024-allam|Allam, 2024, p. 38]])
-
-- The bulk porosity of the 21 standard-size core samples was measured using a helium porometer. ([[2024-allehyani|allehyani, 2024, p. 23]])
+- The measurement yielded an average porosity of 37.5%. ([[2003-chowdhury|CHOWDHURY, 2003, p. 50]])
 
 ## Methodological Variations Across Sources
 

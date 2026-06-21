@@ -12,134 +12,117 @@ committee_members:
   - "Mohammed Alfarhan"
 source_file: "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142041/"
-study_area: "Cultivated area in Saudi Arabia (specifically mentioned as Eastern Province in related publications)"
+study_area: "Cultivated area in Saudi Arabia (specific location not named)"
 keywords:
-  - Groundwater storage variation
   - InSAR
-  - GRACE satellite
-  - Geostatistics
-  - Remote sensing
-  - Saudi Arabia
   - GRACE
-  - groundwater storage variations
-  - hydraulic head
-  - Groundwater storage
+  - Groundwater Storage Variation
+  - Geostatistics
+  - Remote Sensing
+  - Saudi Arabia
+  - GRACE satellite data
+  - Hydraulic head
 techniques:
   - insar
   - grace
-  - gldas
-  - snap
-  - kriging
-  - geostatistics
-  - variogram-analysis
-  - sequential-gaussian-simulation
-  - remote-sensing
   - gis
-  - petrel
-  - matlab
-  - sieve-analysis
-  - well-log-analysis
-  - r-programming
-  - snaphu
-  - d-insar
-  - normal-score-transform
+  - kriging
+  - sequential-gaussian-simulation
+  - snap
   - r
-  - bilinear-interpolation
-  - k-means-clustering
+  - gstat
+  - spcosa
+  - stratified-random-sampling
+  - exploratory-data-analysis
+  - d-insar
+  - tws-calculation
+  - normal-score-transform
+  - bivariate-analysis
+  - interpolation
+  - gslib
 tags:
   - degree/ms
-  - formation/quaternary-sediments
-  - location/al-jawf-basin
+  - formation/saq-formation
+  - location/al-jawf-area
   - location/saudi-arabia
-  - location/eastern-province
   - technique/in-sar
   - technique/geostatistics
-  - technique/variogram-analysis
-  - technique/sequential-gaussian-simulation
   - technique/remote-sensing
   - technique/gis
   - technique/kriging
+  - technique/sequential-gaussian-simulation
+  - technique/stratified-random-sampling
+  - technique/data-analysis
+  - technique/grace
+  - technique/interpolation
   - theme/hydrogeology
   - theme/groundwater-modeling
   - theme/remote-sensing
-  - theme/water-resources-management
-  - theme/environmental-geoscience
-  - terminology/groundwater-flow
+  - terminology/hydrogeology
   - terminology/groundwater-modeling
-  - terminology/aquifer-characterization
-  - terminology/variogram-analysis
+  - terminology/geostatistics
 status: ingested
 ---
 
 # Geostatistical Modelling of Groundwater Storage Variations Using InSAR Remote Sensing Data
 
-**Summary**: The thesis investigates the use of InSAR and GRACE satellite data to estimate groundwater storage variations in a cultivated area in Saudi Arabia where in-situ data is limited. It employs geostatistical modeling (kriging and sequential Gaussian simulation) to upscale high-resolution InSAR data for comparison with lower-resolution GRACE data, finding a moderate positive correlation between the two models.
+**Summary**: The thesis investigates the use of InSAR and GRACE satellite data to monitor groundwater storage variations in the Wadi Al Sirhan Basin, Saudi Arabia. By integrating high-resolution InSAR surface displacement with low-resolution GRACE gravity measurements through geostatistical modeling (Kriging and SGS), the study aims to provide a tool for monitoring hydraulic head changes and aquifer depletion in agricultural areas.
 
 ---
 
 ## Research Problem
 
-Limited in-situ groundwater data in Saudi Arabia makes it difficult for water planners to monitor groundwater abstraction and storage variations, especially in cultivated areas where remote sensing can provide a large-scale overview.
+The lack of sufficient in-situ groundwater data in Saudi Arabia makes it difficult to monitor groundwater abstraction and storage variations, particularly in large-scale aquifers like the Saq and Tawil-Quarternary systems. Existing remote sensing tools like GRACE have low spatial resolution (50km), while InSAR provides high resolution but is often limited by atmospheric noise and lack of coherence in agricultural zones.
 
 ## Objectives
 
-- Monitor the groundwater-related subsidence in the agricultural areas of the selected study area.
-- Analyze the spatial behavior of the ground surface displacement data and generate the most appropriate geostatistical models and simulations.
-- Explore the applicability of geostatistics and spatial analysis to improve mapping the hydraulic head and predicting groundwater storage variations.
+- Monitor groundwater-related subsidence in the agricultural areas of the selected study area.
+- Analyze the spatial behavior of ground surface displacement data and generate the most appropriate geostatistical models and simulations.
+- Explore the applicability of geostatistics and sampling analysis to improve mapping the hydraulic head and predicting groundwater storage variations.
 - Use InSAR and GRACE satellite data to remotely assess groundwater storage changes in a cultivated area.
-- Integrate high-resolution InSAR surface displacement with low-resolution GRACE TWS data using geostatistical methods.
-- Validate the high-resolution InSAR-derived groundwater model against GRACE-derived models.
-- Develop high-resolution hydraulic head models from InSAR data.
-- Validate the InSAR-derived groundwater storage variation model using GRACE-derived data.
-- Apply geostatistics to estimate groundwater storage variations.
+- Develop a geostatistical model to provide high-resolution spatial mapping of hydraulic head and groundwater storage variation.
 
 ## Methods
 
-The study employs an integrated approach: 1) Data acquisition of Sentinel-1 SAR images (5x20m), GRACE Mascon data (0.5 deg), and GLDAS land surface models. 2) Processing InSAR data using SNAP to generate ground displacement ($\Delta d$) and SNAPHU for phase unwrapping. 3) Spatial sampling of high-density InSAR points using stratified random sampling in QGIS/R. 4) Geostatistical analysis (variogram modeling, Ordinary Kriging, and Sequential Gaussian Simulation) via the gstat package in R to fill gaps and model spatial behavior. 5) Conversion of $\Delta d$ to groundwater storage variation ($\Delta GWS$) using aquifer parameters like skeletal storage coefficient ($Ske$). 6) Validation through bivariate analysis comparing InSAR-derived models with GRACE-derived models.
+The study utilizes D-InSAR processing for ground surface displacement (∆d). Geostatistical analysis is applied to fill gaps caused by coherence filtering. The data undergoes a Normal-Gaussian Distribution Transformation using R to prepare it for Sequential Gaussian Simulation (SGS). Variogram analysis determines anisotropy and sill values for both sampled and transformed datasets. Ordinary Kriging is used for interpolation of the sampled data, while SGS provides multiple realizations for the transformed data. These results are then converted into hydraulic head changes (∆h) and groundwater storage variation (∆GWS) models using parameters like skeletal storage (Ske) and storativity. Finally, the InSAR-derived model is validated against GRACE-derived GWS models through bivariate analysis and Pearson correlation.
 
 ## Data and Materials
 
-The study utilized 3 InSAR observations from 2019 to 2021, initially containing approximately 40 million data points. After sampling and outlier removal, a dataset of 3555 points was used for geostatistical modeling. GRACE satellite data combined with GLDAS simulation models (VIC, Noah, CLSM, and average) were used as the validation benchmark.
+The study utilized Sentinel-1 SAR images (5m x 20m resolution), GRACE Mascon RL06 data (0.1 to 0.5 degree resolution), and GLDAS simulation products (Noah, VIC, CLSM). Data were collected from three time periods: Jan-Feb 2019, Jan-Feb 2020, and Feb-March 2021.
 
 ## Key Findings
 
-- GRACE data indicated a groundwater extraction of 443.68 MCM in the affected area (including all overlying aquifers), while InSAR specifically estimated the Tawil Aquifer at 113.68 MCM. ([[2022-karami|Karami, 2022, p. 13]])
-- A positive correlation was found between groundwater storage changes derived from GRACE and those derived from InSAR, confirming the model's validity. ([[2022-karami|Karami, 2022, p. 14]])
-- The study area includes two main aquifers: the Saq Aquifer (primary) and the Tawil-Quaternary Aquifer system (local). ([[2022-karami|Karami, 2022, p. 23]])
-- Saq Sandstone is a primary aquifer with excellent porosity and permeability, but shows higher salinities in certain areas due to irrigation. ([[2022-karami|Karami, 2022, p. 26]])
-- The Tawil-Quaternary Aquifer system consists of Devonian sandstone (Tawil formation), Wasia-Aruma limestone, Mira Formation, and Quaternary sediments. ([[2022-karami|Karami, 2022, p. 24]])
-- InSAR can detect ground surface displacement with accuracy reaching a few mm per year, making it suitable for monitoring aquifer compaction. ([[2022-karami|Karami, 2022, p. 30]])
-- The study utilizes the D-InSAR technique specifically because of its advantages in spatial analysis over large displacement areas and agricultural zones. ([[2022-karami|Karami, 2022, p. 32]])
-- GRACE data, while having low resolution (0.5 degrees), provides a reliable measurement of total water storage changes at a broad scale. ([[2022-karami|Karami, 2022, p. 38]])
-- The integration of InSAR and GRACE allows for the improvement of GRACE's low resolution when aquifer compaction is present. ([[2022-karami|Karami, 2022, p. 34]])
-- Geostatistical methods like Sequential Gaussian Simulation (SGS) are used to generate realistic, equally probable realizations of unmeasured phenomena in remote sensing data. ([[2022-karami|Karami, 2022, p. 48]])
-- The D-InSAR technique successfully identified ground surface displacement (∆d) in a cultivated area, where vegetation typically limits signal coherence. ([[2022-karami|Karami, 2022, p. 52]])
-- Outlier removal using the IQR approach significantly improved the distribution of both original and sampled InSAR data toward a more normal distribution. ([[2022-karami|Karami, 2022, p. 42]])
-- The average value for aquifer storativity was used to estimate high-resolution groundwater storage variation, with values derived from UN-ESCWA and BRGM sources. ([[2022-karami|Karami, 2022, p. 68]])
-- A moderate positive correlation of 0.41 was found between InSAR-derived GWS and GRACE-GLDAS Average models. ([[2022-karami|Karami, 2022, p. 70]])
-- A higher correlation of 0.67 was observed between the InSAR-GWS and GRACE-CLSM model. ([[2022-karami|Karami, 2022, p. 70]])
+- The study area includes the Saq Aquifer (primary) and the overlying Tawil-Quarternary Aquifer system, with a high rate of groundwater extraction in Wadi Al Sirhan Basin. ([[2022-karami|Karami, 2022, p. 18]])
+- GRACE data provided an estimation of 443.68 MCM for the total affected aquifer area (including all overlying aquifers), while InSAR estimated 113.68 MCM specifically for the Tawil Aquifer. ([[2022-karami|Karami, 2022, p. 13]])
+- InSAR-derived $\Delta d$ values were successfully extracted using D-InSAR, showing that the Jan-Feb 2019 data contained significant atmospheric noise compared to later years. ([[2022-karami|Karami, 2022, p. 54]])
+- Stratified random sampling reduced the dataset from approximately 40 million points to a manageable sample of 3555 valid data points while maintaining the original distribution. ([[2022-karami|Karami, 2022, p. 56]])
+- Outlier removal using the IQR method (1.5 * IQR) successfully transformed the skewed InSAR data into a more normal distribution for geostatistical modeling. ([[2022-karami|Karami, 2022, p. 58]])
+- A positive correlation was found between groundwater storage changes derived from GRACE and those derived from InSAR, confirming the validity of the integrated model. ([[2022-karami|Karami, 2022, p. 14]])
+- The transformation of sampled InSAR data into a Gaussian distribution resulted in a shift from negative to positive skewness and more normal kurtosis values. ([[2022-karami|Karami, 2022, p. 60]])
+- Variogram analysis identified the major direction of continuity at approximately 165 degrees and the minor direction at 105 degrees. ([[2022-karami|Karami, 2022, p. 62]])
+- The spherical model was determined as the best fit for both sampled and transformed data sets in variogram modeling. ([[2022-karami|Karami, 2022, p. 64]])
+- Ordinary Kriging produced a smoothed distribution of ∆d, while SGS generated multiple realizations showing higher spatial variability than kriging but similar distributions to original data. ([[2022-karami|Karami, 2022, p. 49]])
+- The study identified two zones: high-rate extraction (water thickness -1.5 to -1) in the West and low-rate extraction (-0.5 to -0.1) in the East. ([[2022-karami|Karami, 2022, p. 57]])
+- A significant difference was noted where GRACE reported total groundwater extraction of 443.68 MCM, while InSAR showed 113.68 MCM, attributed to different measurement scales (regional vs local). ([[2022-karami|Karami, 2022, p. 57]])
+- The correlation between the InSAR-derived GWS model and the GRACE-GLAS Average was 0.41, while the correlation with GRACE-CLSM was 0.67. ([[2022-karami|Karami, 2022, p. 70]])
 
 ## Limitations
 
-The study notes that InSAR alone cannot predict water storage for the entire aquifer system and that coherence is often low in cultivated areas due to vegetation; however, this can be mitigated by geostatistical analysis and filtering.
+The study notes that InSAR is limited by atmospheric noise and lack of coherence in areas with high vegetation (common in agricultural zones). Additionally, GRACE data has a very low spatial resolution (50km), necessitating geostatistical interpolation to bridge the gap between local-scale monitoring and regional-scale measurements.
 
 ## Recommendations and Future Work
 
-Future research should integrate geostatistical methods with machine learning to improve modeling. The use of PSI or SBAS techniques could be applied for future temporal analyses using different SAR acquisition baselines.
+The study suggests that this integrated approach can provide planners with a tool to remotely monitor hydraulic head variations and estimate groundwater storage changes without heavy reliance on in-situ data, potentially reducing costs and helping sustain aquifers.
 
 ## Related Concepts
 
 - [[in-sar]]
 - [[geostatistics]]
-- [[variogram-analysis]]
-- [[sequential-gaussian-simulation]]
-- [[groundwater-flow]]
-- [[groundwater-modeling]]
-- [[hydrogeology]]
 - [[remote-sensing]]
-- [[al-jawf-basin]]
-- [[quaternary-sediments]]
-- [[aquifer-characterization]]
+- [[hydrogeology]]
+- [[groundwater-modeling]]
 - [[saudi-arabia]]
+- [[al-jawf-area]]
 - [[kriging]]
-- [[water-resources-management]]
+- [[sequential-gaussian-simulation]]
+- [[grace]]

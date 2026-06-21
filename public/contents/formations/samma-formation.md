@@ -4,9 +4,9 @@ title: "Samma Formation"
 aliases:
   - "Samma"
 canonical: true
-age: "Paleocene (Tertiary)"
+age: "Paleocene"
 basin: "Rawat Basin"
-lithology: "Sandstone and claystone"
+lithology: "fluvial and overbank facies"
 reservoir_status: "potential"
 tags:
   - formation/samma-formation
@@ -14,7 +14,7 @@ tags:
 sources:
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Samma Formation
@@ -25,7 +25,7 @@ last_updated: 2026-06-09
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-awad|Awad, 2016]] studied the Samma formation to characterize its depositional environment and stratigraphic position.
+- [[2016-awad|Awad, 2016]] studied the samma-formation to characterize its alluvial fan and fluvial depositional environments.
 
 ## Depositional Environment
 
@@ -33,15 +33,18 @@ last_updated: 2026-06-09
 
 ## Reservoir Properties
 
-- [[2016-awad|Awad, 2016]] thickness 11-50m for FS1
+
+
+## Diagenetic History
+
+
 
 ## Key Findings Across Sources
 
-- Depositional environments include alluvial fan, fluvial, shoreface, and shallow lacustrine. ([[2016-awad|Awad, 2016, p. 17]])
+- The Samma Formation was an over-filled basin during the early Paleocene. ([[2016-awad|Awad, 2016, p. 18]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2016-awad|Awad, 2016]] not stated in source
 
 ## Open Questions and Research Gaps
 

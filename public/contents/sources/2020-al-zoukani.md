@@ -13,180 +13,146 @@ committee_members:
   - "Dr. Wael Abdallah"
 source_file: "raw/141503 - LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASS.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/141503/"
-study_area: "Dhruma Formation outcrops, central Saudi Arabia (50 km west of Riyadh)"
+study_area: "Dhruma Formation outcrops, central Saudi Arabia (specifically D5 and D6 units)"
 keywords:
   - Middle Dhruma Formation
-  - D5 unit
-  - D6 unit
-  - lithofacies
-  - diagenesis
-  - petrophysics
-  - porosity-permeability
-  - carbonate-sedimentology
   - Jurassic
-  - sedimentology
   - petrophysical properties
+  - sedimentology
+  - diagenesis
   - porosity
   - permeability
-  - pore throat size distribution
-  - porosity-permeability relationship
+  - lithofacies
   - reservoir rock types
-  - carbonate reservoir
-  - Dhruma Formation
   - carbonate rocks
+  - Dhruma Formation
+  - petrophysics
+  - petrophysical data
   - micritization
-  - pore-throat size distribution
-  - capillary pressure
-  - depositional environment
-  - microporosity
-  - rock typing
-  - pore throat size
+  - mercury injection capillary pressure
+  - pore throat size distribution
+  - carbonate reservoir
 techniques:
-  - core-analysis
-  - resistivity-logging
-  - mercury-injection-capillary-pressure
   - thin-section-petrography
-  - sem
   - xrd
-  - fieldwork
-  - well-log-analysis
+  - sem
+  - capillary-pressure
   - resistivity-measurement
-  - stereomicroscope
+  - core-analysis
+  - microscopy
   - sem-eds
-  - helium-porosity
-  - xrf
-  - nmr
-  - dielectric-spectroscopy
+  - micromorphology
+  - petrology
+  - mercury-injection-capillary-pressure
+  - well-log-analysis
+  - petrophysics
+  - lithofacies-analysis
+  - petrography
+  - resistivity-logging
 tags:
   - degree/ms
   - formation/dhruma-formation
+  - location/central-saudi-area
   - location/central-saudi-arabia
-  - technique/core-analysis
-  - technique/resistivity-logging
-  - technique/mercury-injection-capillary-pressure
   - technique/thin-section-petrography
-  - technique/sem
   - technique/xrd
-  - technique/mercury-injection-cap-pressure
-  - technique/well-log-analysis
+  - technique/sem
+  - technique/capillary-pressure
+  - technique/resistivity-measurement
+  - technique/core-analysis
+  - technique/microscopy
   - technique/sem-eds
-  - technique/helium-porosity
-  - technique/xrf
-  - technique/nmr
-  - theme/carbonate-sedimentology
+  - technique/mercury-injection-capillary-pressure
+  - technique/well-log-analysis
+  - technique/petrophysics
+  - technique/lithofacies-analysis
+  - technique/petrography
   - theme/petrophysics
   - theme/carbonate-geology
   - theme/sedimentology
-  - theme/diagenesis
   - terminology/diagenesis
-  - terminology/lithofacies
   - terminology/porosity
   - terminology/permeability
+  - terminology/facies-analysis
   - terminology/reservoir-rock-types
-  - terminology/sedimentology
+  - terminology/microporosity
+  - terminology/pore-system
 status: ingested
 ---
 
 # LINKING GEOLOGICAL AND PETROPHYSICAL DATA IN THE MIDDLE DHRUMA FORMATION (JURASSIC), CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the link between geological and petrophysical properties in the D5 and D6 units of the Middle Dhruma Formation in central Saudi Arabia. By integrating sedimentological, petrographic, and petrophysical data (porosity, permeability, and resistivity), the study aims to characterize lithofacies and identify Reservoir Rock Types (RRTs) to improve reservoir management.
+**Summary**: The thesis investigates the D5 and D6 units of the Middle Dhruma Formation in central Saudi Arabia by integrating sedimentological field characterization with petrophysical analysis. It concludes that these units are tight carbonate rocks where porosity is dominated by microporosity, and permeability is primarily controlled by depositional texture and diagenetic processes like micritization.
 
 ---
 
 ## Research Problem
 
-The complex relationship between original sedimentary textures and subsequent diagenetic modifications (such as dissolution, cementation, and neomorphism) in the Middle Dhruma Formation (Jurassic) and how these factors influence petrophysical properties like porosity, permeability, and pore throat size distribution.
+There is a gap in understanding how specific geological factors, particularly diagenetic processes and sedimentary textures, influence the complex petrophysical behavior of carbonate rocks (porosity, permeability, and resistivity) in the Dhruma Formation.
 
 ## Objectives
 
-- Characterize the lithofacies and depositional environments of the D5 and D6 units.
-- Identify and quantify diagenetic processes affecting the rock fabric and porosity-1permeability.
-- Establish relationships between lithofacies, diagenesis, and petrophysical properties (porosity, permeability, and electrical resistivity).
-- Develop a reservoir rock typing (RRT) system for the Middle Dhruma Formation.
-- Characterize the sedimentological features of the D5 and D6 units to interpret depositional environments.
-- Document diagenetic modifications and porosity evolution in the D5-D6 interval.
-- Evaluate the impact of lithofacies and diagenesis on petrophysical properties (porosity, permeability, capillary pressure, and resistivity).
-- Identify reservoir rock types based on a combination of texture-based classification and mercury-derived data.
 - Characterize and interpret the sedimentology of the D5-D6 interval of the Dhruma outcrop to constrain depositional environments.
-- Characterize and interpret diagenetic processes in the D5-D6 interval and construct a paragenetic sequence to evaluate effects on porosity, permeability, pore-throat size, and resistivity.
+- Characterize and interpret diagenetic processes in the D5-D6 interval and construct a paragenetic sequence.
+- Evaluate the effects of diagenesis on porosity-permeability relationships, pore-throat size distribution, and rock resistivity.
 - Integrate sedimentological data and petrophysical measurements to interpret different petrophysical qualities of identified lithofacies.
-- Identify appropriate Reservoir Rock Types (RRTs) by grouping D5-D6 Dhruma samples with similar characteristics.
-- Identify and characterize lithofacies types in the D5 and D6 units of the Middle Dhruma Formation.
-- Determine the mineralogical composition of the carbonate rocks using XRD.
-- Evaluate porosity and permeability characteristics for different lithofacies.
-- Establish a relationship between geological features (lithology, texture) and petrophysical properties.
-- Characterize the lithofacies of the D5 and D6 units within the Middle Dhruma Formation.
-- Identify and quantify diagenetic processes affecting porosity and permeability.
-- Establish petrophysical relationships between different carbonate textures and rock types.
-- Determine cementation exponents (m) for various lithofacies to improve reservoir evaluation.
-- Characterize the lithofacies and depositional environments of the D5 and D6 units in the Middle Dhruma Formation.
-- Evaluate the impact of diagenetic processes (micritization, dissolution, cementation, compaction, fracturing) on reservoir quality.
-- Quantify pore systems using MICP to determine pore-throat size distribution and capillary pressure.
-- Establish petrophysical rock typing based on lithofacies and texture.
-- Characterize the D5 and D6 units of the Middle Dhruma Formation using integrated geological and petrophysical methods.
-- Identify and classify reservoir rock types (RRTs) based on texture and mercury-derived data.
-- Evaluate the impact of microporosity and diagenetic processes (micritization, cementation) on petrophysical properties.
-- Correlate microtexture types with porosity and permeability.
-- Integrate geological and petrophysical methods to characterize the D5 and D6 units.
-- Evaluate the impact of diagenesis on reservoir quality.
-- Establish a link between rock fabric/petrography and petrophysical properties.
+- Identify appropriate Reservoir Rock Types (RRTs) by grouping D5-D6 samples with similar characteristics.
+- Characterize the D5 and D6 units of the Middle Dhruma Formation using sedimentological and petrophysical methods.
 
 ## Methods
 
-The study utilized a multi-step workflow: 1. Field work involved detailed sedimentological description of four outcrop sections (D5-1, D5-2, and D6). 2. Laboratory analysis included core plug preparation (1"x1" for MICP, 1" diameter for resistivity), Soxhlet cleaning with toluene and methanol to remove salts/water, and staining with Alizarin Red S. 3. Petrophysical measurements: Porosity and permeability were measured simultaneously using helium gas in a Coretest AP608 porosimeter-permeameter under 500 psi confining pressure. 4. Petrography: 91 thin sections were prepared, stained, and analyzed via an Olympus polarizing petrographic microscope to identify grain textures, cement types, and pore types.
+The study utilized a multi-disciplinary approach: 1) Field work involved detailed sedimentological characterization of four outcrop sections (D5-1, D5-2, and D6). 2) Laboratory analysis included thin section petrography (91 slides), X-ray diffractometry (XRD), and scanning electron microscopy (SEM) to characterize mineralogy and microtextures. 3) Petrophysical measurements were conducted using the Coretest AP608 porosimeter-permeameter for helium porosity/permeability, Mercury Injection Capillary Pressure (MICP) for pore throat size distribution, and 2-electrode resistivity measurements.
 
 ## Data and Materials
 
-The study utilized samples from the D5-1 and D5-2 sections of the D5 unit and the SWC section of the D6 unit in the Middle Dhruma Formation. Data included core analysis for 36 samples, MICP data for various lithofacies, and petrophysical parameters including resistivity and cementation exponent.
+92 carbonate samples collected from two main outcrop areas; 47 core plugs used for petrophysical testing; 91 thin section slides prepared for petrography; 15 lithofacies identified; 14 reservoir rock types (RRTs) defined.
 
 ## Key Findings
 
-- The D5 and D6 units are predominantly limestones but contain siliciclastic mudstones in many intervals. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 1]])
-- Identified 15 distinct lithofacies (LFT1 to LFT15) within the D5 and D6 units, ranging from marly mudstones to grainstones. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 46]])
-- Diagenetic processes identified include micritization, dissolution, neomorphic fabrics, cementation (blocky calcite), and dolomitization. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 75]])
-- Lithofacies are categorized into three depositional environments: low energy, moderate energy, and high energy. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 103]])
-- Micritization and dissolution were identified as primary drivers of porosity changes in specific lithofacies. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 109]])
-- Porosity-permeability trends are controlled by both texture (lithofacies) and diagenetic modification. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 119]])
-- Reservoir Rock Types (RRTs) were established for Grainstone, Packstone/floatstone, and Muddy lithofacies to better characterize reservoir quality. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 124]])
-- Electrical resistivity was used to differentiate between lithofacies and identify zones of high cementation. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 130]])
-- The study identified 15 distinct lithofacies deposited on an inner shelf carbonate ramp, including lagoonal (marly mudstone, wackestone, packstone) and shoal complex environments. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 18]])
-- Porosity values in the D5 and D6 units range from 2% to 19%, while permeability ranges between 0.001 mD and 1.3 mD. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
-- Depositional texture (grainy, mixed, muddy) has a strong first-order effect on porosity-permeability trends; grainy textures show higher permeability than mixed or muddy textures at similar porosities. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
-- Grainy textures generally exhibit the highest cementation exponents (m), followed by mixed, then muddy textures. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
-- Micritization and diagenetic micrite growth are identified as primary factors controlling petrophysical properties in both D5 and D6 units. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
-- Permeability in muddy texture samples is very low, falling into the 'unconventional' range with pore throat sizes mostly below 5 microns. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 23]])
-- The study identified 14 distinct reservoir rock types (RRT) based on combining texture-based classification with mercury-derived data. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- The study identified 15 distinct lithofacies deposited on the inner shelf of a carbonate ramp, including lagoonal, back-barrier, and shoal complex environments. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 18]])
+- Porosity values in the D5 and D6 units ranged from 2% to 19%, while permeability values ranged between 0.001 mD and 1.3 mD. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
+- Depositional texture (grainy, mixed, muddy) showed a first-order effect on porosity-permeability trends; grainy textures had higher permeability than mixed or muddy textures at similar porosities. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
+- Grainy textures generally exhibited the highest cementation exponents (m), followed by mixed, then muddy textures. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 19]])
+- The most significant factors controlling petrophysical properties were the micritic nature of the sediments and diagenetic micritization. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- MICP results showed that permeability is very low in muddy texture samples, with pore-throat sizes mostly below 5 microns (unconventional range). ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- The primary porosity type identified was microporosity within muddy/micritic facies and among non-touching micrite cement crystals. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- Integration of texture-based classification with MICP data resulted in the identification of 14 distinct Reservoir Rock Types (RRTs). ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- SEM analysis revealed four different micrite microtextures based on morphology and contact, which influence reservoir quality regarding porosity, permeability, and resistivity. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 20]])
+- Diagenetic processes such as cementation and micro-crystallization of calcium carbonates led to the occlusion of primary pores, significantly reducing permeability. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 22]])
+- The study identified 15 distinct lithofacies (LFT1-LFT15) based on Dunham's classification and sedimentary features. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 69]])
+- Lithofacies LFT1 (Bioturbated Marly Mudstone) contains up to 18% quartz and 30% clays, with a visual porosity of approximately 3%. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 70]])
+- Lithofacies LFT2 (Peloidal-Oolitic Skeletal Wackestone) has an average grain size of 250 µm and a visual porosity ranging from 1% to 5%. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 72]])
+- Lithofacies LFT3 (Skeletal Peloidal Packstone) shows a dominance of peloids up to 50% and a visual porosity of 3% to 7%. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 75]])
+- Lithofacies LFT4 (Burrowed Skeletal Peloidal/Pelletoidal Packstone) has a grain size average of 200 µm and visual porosity up to 10%. ([[2020-al-zoukani|Al-Zoukani, 2020, p. 77]])
 
 ## Limitations
 
-Not all lithofacies showed permeability during Kg measurements due to the fact that almost all lithofacies are micritic or diagenetically micritized, which may have significantly reduced their permeability.
+Some lithofacies (e.g., grainstone) showed lower porosity due to early cementation and micritization, while others had higher permeability at the same porosity because of better-connected pore networks; however, many samples were so tight that permeability did not exceed 1.3 mD.
 
 ## Recommendations and Future Work
 
 - Use acidizing techniques to maximize production from these tight carbonate zones.
-- Examine current rock types against dynamic petrophysical properties like relative permeability for better reservoir modeling.
-- Conduct a comparison study between the current outcrops and their equivalent subsurface reservoirs.
-- Obtain more samples with MICP characteristics to cover a higher range of poro-perm trends within each texture.
+- Compare current outcrop data with equivalent subsurface reservoir properties for dynamic petrophysical modeling.
+- Acquire more samples with MICP characteristics to better define the range of poro-perm trends within each texture.
 
 ## Related Concepts
 
-- [[micp]]
-- [[thin-section-petrography]]
-- [[dhruma-formation]]
-- [[central-saudi-arabia]]
-- [[diagenesis]]
-- [[lithofacies]]
-- [[petrophysics]]
-- [[reservoir-characterization]]
-- [[porosity]]
-- [[permeability]]
+- [[capillary-pressure]]
 - [[xrd]]
 - [[sem]]
-- [[mercury-injection-capillary-pressure]]
-- [[carbonate-geology]]
+- [[thin-section-petrography]]
+- [[diagenesis]]
+- [[porosity]]
+- [[permeability]]
+- [[facies-analysis]]
 - [[reservoir-rock-types]]
-- [[sedimentology]]
+- [[dhruma-formation]]
+- [[central-saudi-area]]
+- [[petrophysics]]
 - [[sem-eds]]
-- [[helium-porosity]]
-- [[core-analysis]]
-- [[well-log-analysis]]
+- [[mercury-injection-capillary-pressure]]
+- [[central-saudi-arabia]]
+- [[carbonate-geology]]
+- [[petrography]]
+- [[microporosity]]
+- [[pore-system]]

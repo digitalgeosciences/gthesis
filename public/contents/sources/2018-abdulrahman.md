@@ -16,120 +16,86 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/140641/"
 study_area: "Northern Ghawar Field, Saudi Arabia"
 keywords:
   - seismic data
-  - velocity determination
+  - velocity analysis
   - short-offset assumption
   - synthetic seismic data
-  - viscoelastic model
-  - finite difference method
-  - offset
   - Ghawar Field
+  - viscoelastic model
 techniques:
-  - su-seismic-unix
-  - fdelmodc
-  - digitizeit
-  - finite-difference
-  - t2-gain-method
+  - finite-difference-modeling
+  - seismic-unix
+  - t2-gain
   - fourier-transform
   - band-pass-filter
   - deconvolution
   - cdp-sorting
-  - velocity-analysis
+  - velocity-spectrum
   - dix-formula
-  - seismic-unix
 tags:
   - degree/ms
-  - formation/hadrukh-formation
-  - formation/dammam-formation
-  - formation/rus-formation
-  - formation/umm-al-radhuma-formation
-  - formation/aruma-formation
-  - formation/wasia-formation
-  - formation/shuaiba-formation
-  - formation/hith-anhydrite
-  - formation/arab-formation
-  - formation/hanifa-formation
-  - formation/dhruma-formation
-  - formation/marrat-formation
-  - formation/minjur-sandstone
-  - formation/jilh-formation
-  - formation/sudair-formation
-  - formation/khuff-formation
-  - formation/unayzah-formation
-  - formation/qusaiba-member
-  - formation/saq-formation
+  - formation/biyadh-formation
   - location/ghawar-field
-  - location/saudi-arabia
-  - technique/finite-difference
-  - technique/well-log-analysis
+  - technique/finite-difference-modeling
   - technique/seismic-processing
   - technique/velocity-analysis
+  - technique/signal-processing
   - theme/geophysics-general
-  - theme/seismology
-  - theme/applied-geophysics
-  - theme/seismic-imaging
-  - terminology/velocity-analysis
+  - theme/seismic-interpretation
   - terminology/short-offset-assumption
-  - terminology/short-offset
-  - terminology/kern-analysis
+  - terminology/velocity-modeling
 status: ingested
 ---
 
 # RELATION BETWEEN OFFSET AND VELOCITY DETERMINATION - APPLICATION ON A SYNTHETIC SEISMIC DATA SET FROM NORTHERN GHAWAR FIELD, SAUDI ARABIA
 
-**Summary**: The thesis investigates the impact of offset on velocity analysis in the Northern Ghawari Field using a synthetic seismic dataset. By comparing results from restricted (short-offset) and unrestricted data, it concludes that the short-offset assumption is not strictly necessary for accurate velocity estimation in this specific area.
+**Summary**: The thesis investigates the impact of offset on velocity analysis in the Northern Ghawar Field using a viscoelastic synthetic seismic dataset. It compares interval velocity estimations from long and short offsets, concluding that the short-offset assumption is not strictly necessary for the Biyadh formation due to gradual velocity changes.
 
 ---
 
 ## Research Problem
 
-The core problem is determining whether the standard 'short-offset' assumption (where offset is significantly smaller than depth) is necessary or if larger offsets can be used to accurately determine seismic velocities in the Gh100/Biyadh area of the Ghawar Field, where velocity changes may be gradual.
+The determination of accurate interval velocities in seismic processing often relies on the 'short-offset' assumption (X < H) to minimize errors. This study addresses whether this constraint is necessary when analyzing specific formations, like the Biyadh, in the Northern Ghawar Field.
 
 ## Objectives
 
 - Investigate the effect of offset on velocity analysis in a specific area of Ghawar Field.
-- Generate synthetic seismic data using a viscoelastic depth model and finite difference method.
-- Estimate the interval velocity of a key layer (Biyadh) from processed synthetic data.
-- Quantify the errors in velocity estimation when offset is restricted versus when it is unrestricted.
-- Compare long-offset and short-offset data processing for determining seismic velocities.
-- Evaluate the accuracy of interval velocity calculations using the Dix formula under both offset conditions.
+- Generate viscoelastic synthetic seismic data using a finite difference model.
+- Estimate and compare interval velocities for the Biyadh layer using both restricted (short-offset) and unrestricted (long-offset) data.
+- Quantify the errors in velocity estimation between these two cases.
 
 ## Methods
 
-The study utilized synthetic 2D viscoelastic seismic data generated from a model including Vp, Vs, Qp, Qs, and density. The data were processed using Seismic Unix through several stages: T2 gain application (0.5s gate, power of 2), Fourier Transform to identify frequency content, band-pass filtering (10-55 Hz), spiking deconvolution (0.004s prediction lag, 0.2s operator length, 0.1% prewhitening), and CDP sorting. Velocity analysis was performed using the Velan script in Seismic Unix, where velocity spectra were analyzed for both full offset and restricted short-18000m offsets. The Dix formula was then applied to calculate interval velocities from stacking velocities at the top and bottom of the Biyadh formation.
+The study utilized a 2D viscoelastic model to generate synthetic seismic data via the 'fdelmodc' finite difference method. The resulting data were processed using Seismic Unix (SU), involving steps such as T2 gain, Fourier Transform for frequency analysis, band-pass filtering to remove ground roll, spiking deconvolution, and CDP sorting. Velocity estimation was performed using a velocity spectrum approach on CDP 180000, where stacking velocities were picked from the spectrum and then used in the Dix formula to calculate interval velocities.
 
 ## Data and Materials
 
-A 2D viscoelastic depth model including parameters for Vp, Vs, Qp, Qs, and density. A synthetic seismic dataset generated via finite difference modeling. Specific focus on the Biyadh layer (197m thick, 4045 m/s).
+A synthetic seismic dataset (7.188 GB) with 1,178,880 traces was generated based on a 2D viscoelastic model of the Northern Ghawar Field. The study specifically analyzed the Biyadh formation at a depth of approximately 950m.
 
 ## Key Findings
 
-- The difference in percentage between the average error in velocity estimation when offset is unrestricted versus when it is restricted is only 2.893%. ([[2018-abdulrahman|Abdulrahman, 2018, p. 9]])
-- The Biyadh layer was identified as a key target with a thickness of 197 meters and a velocity of 4045 m/s. ([[2018-abdulrahman|Abdulrahman, 2018, p. 22]])
-- The study concluded that there is no need to honor the short-offset assumption when working on this particular area of Ghawar Field. ([[2018-abdulrahman|Abdulrahman, 2018, p. 10]])
-- The average velocity error for the long-offset case was 5.116%, while the short-offset case was 4.968%, showing a difference of only 2.893% between the two methods. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
-- The median velocity error for long-offset was 3.826% and for short-offset was 4.734%, indicating both methods are relatively accurate for this specific area. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
-- The study concluded that, contrary to common theory, there is no strict need to honor the short-offset assumption in the Ghawar Field area studied because velocity changes gradually from surface to Biyadh. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
-- While both methods were accurate for the Biyadh formation, shorter offsets provided better semblance and easier picking for deeper layers due to better hyperbolic fitting with less noise. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
-- The maximum error in the long-offset case (14.46%) was higher than the short-offset case (9.91%), but minimum errors were similar (0.391% vs 0.329%). ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
-- The synthetic data included a 25 Hz dominant frequency and was subjected to Gaussian noise with a standard deviation of 10%. ([[2018-abdulrahman|Abdulrahman, 2018, p. 29]])
+- The average error in velocity estimation for the long-offset case was 5.116%, while the short-offset case was 4.968%. ([[2018-abdulrahman|Abdulrahman, 2018, p. 49]])
+- The difference in percentage between the average errors of unrestricted and restricted offset cases is only 2.893%. ([[2018-abdulrahman|Abdulrahman, 2018, p. 10]])
+- The Biyadh formation was identified as a high-velocity (4045 m/s) and relatively thick layer (197 meters). ([[2018-abdulrahman|Abdulrahman, 2018, p. 22]])
+- page_number_not_applicable_for_table_data ([[2018-abdulrahman|Abdulrahman, 2018]])
 
 ## Limitations
 
-Potential sources of error include: (1) the use of a viscoelastic dataset with a conventional processing workflow that might not be optimal for complex data; (2) potential interference from shear waves in P-wave analysis; (3) frequency changes due to absorption over time; and (4) the impact of added noise on synthetic results.
+The study used a viscoelastic dataset but only analyzed P-waves, potentially ignoring shear wave interference. Additionally, the synthetic data included added noise and potential frequency shifts due to absorption were not fully accounted for in the processing workflow.
 
 ## Recommendations and Future Work
 
-Future studies should: 1. Regenerate data as acoustic instead of viscoelastic. 2. Use 3D synthetics. 3. Test other velocity analysis methods like constant-velocity stacks (CVS). 4. Test on real data with well-log information. 5. Calculate errors for more layers and areas in Ghawar Field. 6. Implement advanced prestack noise removal.
+- Regenerate the data set as acoustic instead of viscoelastic.
+- Use 3D synthetics.
+- Test other velocity analysis methods like constant-velocity stacks (CVS).
+- Validate findings on real data with well-log information.
+- Analyze other layers and areas in Ghawar Field.
 
 ## Related Concepts
 
-- [[finite-difference]]
-- [[seismic-processing]]
+- [[finite-difference-modeling]]
 - [[velocity-analysis]]
 - [[short-offset-assumption]]
+- [[velocity-modeling]]
 - [[ghawar-field]]
-- [[seismology]]
-- [[short-offset]]
-- [[kern-analysis]]
-- [[shuaiba-formation]]
-- [[seismic-imaging]]
+- [[biyadh-formation]]
+- [[seismic-interpretation]]

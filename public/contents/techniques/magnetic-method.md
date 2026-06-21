@@ -2,29 +2,30 @@
 type: technique
 title: "Magnetic Method"
 aliases:
-  - "potential field methods"
+  - "magnetic survey"
+  - "magnetic data"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "depth estimates and uncertainty ranges"
+output: "depth to basement estimates and uncertainty ranges"
 tags:
   - technique/magnetic-method
   - theme/geophysics-general
 sources:
   - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Magnetic Method
 
-**Summary**: Geophysical method using magnetic variations to map subsurface features like basement depth.
+**Summary**: Geophysical method using magnetic field variations to map subsurface structures and estimate depth to basement.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2020-abdallah-2|Abdallah, 2020]] applied the magnetic method to provide a sense of vertical control for the velocity model.
+- [[2020-abdallah-2|Abdallah, 2020]] applied the magnetic method (Werner and Spectral analysis) to establish a range of uncertainty for the basement depth.
 
 ## Instruments and Software
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Magnetic data provides a range of uncertainty (5-10%) that can be used as 'pseudo wells' to calibrate seismic results. ([[2020-abdallah-2|Abdallah, 2020, p. 44]])
+- The magnetic methods provided an uncertainty window between 6300m and 6600m, which served as a critical constraint for seismic interpretation. ([[2020-abdallah-2|Abdallah, 2020, p. 72]])
 
 ## Methodological Variations Across Sources
 

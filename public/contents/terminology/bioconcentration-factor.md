@@ -2,52 +2,51 @@
 type: terminology
 title: "Bioconcentration Factor"
 aliases:
-  - "BCF"
-  - "Biological Concentration Factor"
+  - "bioaccumulation"
 canonical: true
-definition: "Ratio of metal concentration in plant tissue vs. aqueous medium."
+definition: "The concentration of a chemical in an organism compared to its environment."
 units: "dimensionless"
 related_techniques:
-  - "biochemical-tests"
+  - "solid-phase-extraction"
 tags:
-  - theme/phytoremediation
+  - theme/marine-pollution
 sources:
-  - "raw/139621 - INVESTIGATING THE PHYTOREMEDIATION POTENTIAL OF SELECTED SAUDI PLANTS IN REMOVIN.pdf"
   - "raw/139629 - ASSESSMENTS OF ORGANOTINS IN SEDIMENTS AND BIOTA COLLECTED FROM THE SAUDI COAST .pdf"
+  - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Bioconcentration Factor
 
-**Summary**: The ratio of the concentration of a substance in an organism to its concentration in the surrounding medium.
+**Summary**: The ratio of a chemical's concentration in an organism to its concentration in the surrounding environment.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-bello|Bello, 2015]] calculated BCF for cadmium, nickel, and lead to determine uptake mechanisms.
+- [[2015-akere|Akere, 2015]] assessed organotins in biota samples to understand accumulation.
 
-- [[2015-akere|Akere, 2015]] assessed the accumulation of organotins in biota samples (clams and oysters).
+- [[2019-alamran|AlAmran, 2019]] calculated BAF to evaluate the accumulation of metals and hydrocarbons in plant tissues.
 
 ## Scientific Context
 
-- [[2015-bello|Bello, 2015]] Used to distinguish between phytostabilization and phytoextraction capabilities.
+- [[2015-akere|Akere, 2015]] Determines the risk posed by organotins to the food chain.
 
-- [[2015-akere|Akere, 2015]] assessed the accumulation of organotins in biota samples (clams and oysters).
+- [[2019-alamran|AlAmran, 2019]] calculated BAF to evaluate the accumulation of metals and hydrocarbons in plant tissues.
 
 ## Measurement and Characterization Methods
 
-- [[2015-bello|Bello, 2015]] Calculated as (Total metal concentration in plant) / (metal concentration in solution).
+- [[2015-akere|Akere, 2015]] Comparing biota samples with sediment samples.
 
 ## Key Findings Across Sources
 
-- BCF values for cadmium (1.14) and lead (1.6) were higher than 1, indicating potential for phytostabilization. ([[2015-bello|Bello, 2015, p. 95]])
+- TBT and TPhT were the only organotin species found in the biota, suggesting lower degradation or higher stability in tissues. ([[2015-akere|Akere, 2015, p. 48]])
 
-- TBT and TPhT were detected in biota at concentrations of 3.4–12.92 ng/g and 14–39.9 ng/g respectively. ([[2015-akere|Akere, 2015, p. 11]])
+
+- The maximum bioaccumulation factor (BAF) was 120 for root tissue. ([[2019-alamran|AlAmran, 2019, p. 16]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

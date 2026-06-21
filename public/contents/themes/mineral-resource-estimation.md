@@ -3,8 +3,8 @@ type: theme
 title: "Mineral Resource Estimation"
 aliases: []
 canonical: true
-description: "Estimation of mineral quantities and grades using geostatistical methods."
-key_challenges: "Uncertainty in grade distribution and spatial continuity."
+description: "The estimation of mineral quantities and grades for economic planning."
+key_challenges: "uncertainty in grade distribution and spatial continuity."
 tags:
   - theme/mineral-resource-estimation
 sources:
@@ -14,58 +14,58 @@ sources:
   - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
   - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Mineral Resource Estimation
 
-**Summary**: The process of estimating the quantity and grade of minerals in a deposit.
+**Summary**: The process of estimating the quantity and grade of mineral resources in a deposit.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1996-jarad|Jarad, 1996]] performed mineral-resource-estimation for the phosphorite deposit.
+- [[1996-jarad|Jarad, 1996]] applied geostatistical methods to estimate the reserves of the phosphorite deposit.
 
-- [[1991-makkawi|Makkawi, 1991]] applied mineral-resource-estimation to the Zarghat magnesite deposit.
+- [[1991-makkawi|Makkawi, 1991]] focused on mineral-resource-estimation for the Zarghat magnesite deposit.
 
-- [[1996-matter|Matter, 1996]] performed mineral-resource-estimation for the phosphorite deposits.
+- [[1996-matter|Matter, 1996]] evaluated the mineral-resource-estimation for phosphorite deposits in the region.
 
-- [[1987-abdul-latif|Abdul-Latif, 1987]] focused on mineral-resource-estimation to determine the economic viability of the Abu Tartur deposit.
+- [[1987-abdul-latif|Abdul-Latif, 1987]] applied geostatistical methods to mineral-resource-estimation for the Abu Tartur phosphate deposit.
 
-- [[1985-ghaled|Ghaled, 1985]] used geostatistical analysis to evaluate the distribution of MgO and CaO.
+- [[1985-ghaled|Ghaled, 1985]] evaluated the mineral resource estimation and geostatistics of the magnesite deposit.
 
 ## Key Subtopics
 
-- [[1996-jarad|Jarad, 1996]] kriging, conditional simulation, semivariogram analysis
+- [[1996-jarad|Jarad, 1996]] ['kriging', 'conditional simulation', 'grade-tonnage relationship']
 
-- [[1991-makkawi|Makkawi, 1991]] applied mineral-resource-estimation to the Zarghat magnesite deposit.
+- [[1991-makkawi|Makkawi, 1991]] focused on mineral-resource-estimation for the Zarghat magnesite deposit.
 
-- [[1996-matter|Matter, 1996]] performed mineral-resource-estimation for the phosphorite deposits.
+- [[1996-matter|Matter, 1996]] evaluated the mineral-resource-estimation for phosphorite deposits in the region.
 
-- [[1987-abdul-latif|Abdul-Latif, 1987]] focused on mineral-resource-estimation to determine the economic viability of the Abu Tartur deposit.
+- [[1987-abdul-latif|Abdul-Latif, 1987]] applied geostatistical methods to mineral-resource-estimation for the Abu Tartur phosphate deposit.
 
-- [[1985-ghaled|Ghaled, 1985]] used geostatistical analysis to evaluate the distribution of MgO and CaO.
+- [[1985-ghaled|Ghaled, 1985]] evaluated the mineral resource estimation and geostatistics of the magnesite deposit.
 
 ## Methods and Approaches Used
 
-- [[1996-jarad|Jarad, 1996]] geostatistics, kriging, conditional simulation
+- [[1996-jarad|Jarad, 1996]] ['geostatistics', 'kriging', 'conditional-simulation']
 
 ## Key Findings Across Sources
 
-- Horizon 1 contains approximately 1008 x 10^3 tonnes at an average P20% grade of 20%. ([[1996-jarad|Jarad, 1996, p. 20]])
+- The study determined that Horizon 1 contains approximately 1008 x 10^3 tonnes at an average P20% grade of 20%. ([[1996-jarad|Jarad, 1996, p. 20]])
 
-- The kriged estimates indicate the existence of 3.2 million tonnes of magnesite. ([[1991-makkawi|Makkawi, 1991, p. 19]])
+- The grade-tonnage relationship, based on kriged estimates, indicates the existence of 3.2 million tonnes. ([[1991-makkawi|Makkawi, 1991, p. 19]])
 
-- Identified a total quantity of 140,000 million tons at 15.9% P2O5 in the region. ([[1996-matter|Matter, 1996, p. 28]])
+- Identified significant reserves including 1200 million tons at 20.3% P2O5 in the Thaniyat area. ([[1996-matter|Matter, 1996, p. 28]])
 
-- The study determined that geostatistical methods provide a more robust basis for estimation than classical methods. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 50]])
+- Geostatistical methods provided more reliable estimates with quantifiable confidence intervals compared to classical methods. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 18]])
 
-- Reserve estimates indicate 3 million tons of ore, with 650,000 tons of high quality. ([[1985-ghaled|Ghaled, 1985, p. 27]])
+- Reserves are estimated to be 3 million tons with a grade of 38-48% MgO. ([[1985-ghaled|Ghaled, 1985, p. 22]])
 
 ## Competing Approaches and Debates
 
-- [[1996-jarad|Jarad, 1996]] Uncertainty in grade distribution and spatial continuity.
+- [[1996-jarad|Jarad, 1996]] uncertainty in grade distribution and spatial continuity.
 
 ## Open Questions and Research Gaps
 

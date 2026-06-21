@@ -13,161 +13,141 @@ committee_members:
   - "Khaled M. Mazen"
 source_file: "raw/136127 - REMOVAL OF ARSENIC AND MERCURY FROM WATER USING MULTI-WALLED CARBON NANOTUBES.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/136127/"
-study_area: "Dhahran, Saudi Arabia (KFUPM campus)"
+study_area: "Dhahran, Saudi Arabia"
 keywords:
-  - Arsenic (As)
-  - Mercury (Hg)
-  - Multi-walled carbon nanotubes (MWCNTs)
-  - Adsorption efficiency
-  - Solution conditions
-  - pH
-  - Contact time
-  - Mixing rate
-  - Langmuir and Freundlich isotherm models
-  - Adsorption kinetics
-  - Arsenic
-  - Mercury
-  - Water Treatment
-  - Carbon Nanotubes
-  - Adsorption
   - multi-walled carbon nanotubes
-  - MWCNTs
-  - arsenic (III)
-  - mercury (II)
-  - dosage
   - arsenic removal
   - mercury removal
+  - water treatment
+  - adsorption
   - Langmuir isotherm
   - Freundlich isotherm
-  - adsorbent
+  - arsenic (III)
+  - mercury (II)
+  - adsorption efficiency
+  - pH effect
+  - contact time
+  - dosage of the adsorbent
+  - multi-walled carbon nanotubes (MWCNTs)
+  - adsorption capacity
+  - mixing rate
+  - dosage
+  - Langmuir and Freundlich isotherm models
+  - arsenic
+  - mercury
+  - adsorption kinetics
 techniques:
-  - sem
   - tem
-  - icp-oes
-  - cvd
-  - uv-vis-spectroscopy
-  - arc-discharge
-  - laser-ablation
-  - chemical-vapor-deposition-cvd
-  - acid-reflux
+  - sem
+  - microscopy
+  - hg-icp-aes
+  - mercury-analyzer-system
+  - batch-adsorption-experiment
+  - langmuir-isotherm-model
+  - freundlich-isotherm-model
+  - pseudo-second-order-kinetic-model
+  - first-order-kinetics
+  - second-order-kinetics
+  - hrtem
   - batch-adsorption-experiments
   - langmuir-model
   - freundlich-model
-  - pseudo-second-order-kinetic-model
-  - adsorption-experiments
-  - flame-atomic-absorption-spectrometry
-  - icp-ms
+  - experimental-measurement
 tags:
   - degree/ms
   - location/dhahran-area
-  - location/saudi-arabia
-  - technique/sem
   - technique/tem
-  - technique/icp-oes
-  - technique/cvd
-  - technique/uv-vis-spectroscopy
-  - technique/xrd
-  - technique/arc-discharge
-  - technique/adsorption-experimentss
-  - technique/icp-ms
+  - technique/sem
+  - technique/microscopy
+  - technique/hg-icp-aes
+  - technique/mercury-analyzer-system
+  - technique/batch-adsorption-experiment
+  - technique/langmuir-isotherm-model
+  - technique/freundury-isotherm-model
+  - technique/pseudo-second-order-kinetic-model
+  - technique/adsorption-experiments
+  - technique/langmuir-model
+  - technique/freundlich-model
+  - technique/mathematical-modeling
   - theme/water-treatment
   - theme/nanotechnology
   - theme/environmental-geoscience
-  - terminology/water-quality
   - terminology/adsorption
-  - terminology/adsorption-experiment
-  - terminology/nanotechnology
+  - terminology/carbon-nanotubes
+  - terminology/water-quality
 status: ingested
 ---
 
 # REMOVAL OF ARSENIC AND MERCURY FROM WATER USING MULTI-WALLED CARBON NANOTUBES
 
-**Summary**: The thesis investigates the removal of trivalent arsenic (As(III)) and divalent mercury (Hg(II)) from water using multi-walled carbon nanotubes (MWCNTs) produced at KFUPM. It evaluates the impact of various solution conditions, including pH, initial concentration, adsorbent dosage, contact time, and mixing rate on the adsorption efficiency.
+**Summary**: The thesis investigated the removal of trivalent Arsenic (As(III)) and divalent Mercury (Hg(II)) from water using multi-walled carbon nanotubes (MWCNTs) and iron-doped MWCNTs (MWCNT-Fe). The study evaluated various operational parameters including pH, dosage, and contact time, concluding that MWCNTs are highly effective adsorbents for both contaminants.
 
 ---
 
 ## Research Problem
 
-The removal of heavy metals like arsenic and mercury from water is a critical environmental issue. While MWCNTs show promise for mercury removal, they were found ineffective for arsenic (III) due to its neutral state at common pH levels; thus, the study explores iron-impregnated MWCNTs as an alternative.
+The removal of heavy metals like arsenic and mercury from water is a significant environmental challenge due to their persistence and toxicity. This research addresses the need for efficient adsorbent materials, specifically evaluating multi-walled carbon nanotubes (MWCNTs) as a potential solution in water treatment processes.
 
 ## Objectives
 
 - To remove Arsenic (As) and Mercury (Hg) from water during the treatment process using MWCNTs.
-- To study the effect of solution conditions such as pH, metal ions concentration, dosage of MWCNTs, contact time and mixing rate on the adsorption efficiency.
+- Evaluate the effect of solution conditions such as initial pH, metal ion concentration, adsorbent dosage, contact time, and mixing rate on removal efficiency.
 - To evaluate the adsorption isotherms and kinetics of the experimental data.
-- To utilize multi-walled carbon nanotubes (MWCNTs) as an adsorbent for removing arsenic and mercury from water.
-- To evaluate the effect of solution conditions such as initial concentration, pH, dosage, contact time, and mixing rate on removal efficiency.
-- Evaluate the effectiveness of multi-walled carbon nanotubes (MWCNTs) in removing As(III) and Hg(II) from water.
-- Investigate the impact of solution conditions such as pH, initial concentration, dosage, contact time, and mixing rate on adsorption performance.
-- Characterize multi-walled carbon nanotubes (MWCNTs) produced by KFUPM using SEM and TEM.
-- Evaluate the effect of pH on the removal of Hg(II) and As(III) using MWCNTs.
-- Determine the impact of contact time, mixing rate, and adsorbent dosage on the adsorption efficiency of both metals.
-- Investigate the effectiveness of iron-impregnated MWCNTs (MWCNT-Fe) for the removal of As(III).
-- Remove trivalent Arsenic As (III) and divalent Mercury Hg (II) from water using MWCNTs.
-- Optimize process parameters including initial solution pH, metal ion concentration, adsorbent dosage, contact time, and mixing rate.
-- To evaluate the adsorption of Mercury (II) by multi-walled carbon nanotubes (MWCNTs).
-- To investigate the effect of solution conditions (pH, dosage, time, and mixing rate) on mercury removal.
-- To study the adsorption isotherms of mercury using MWCNTs.
-- To evaluate the adsorption of Arsenic (III) by multi-walled carbon nanotubes.
-- To assess the effectiveness of MWCNT-Fe (iron-modified) for arsenic removal.
-- To evaluate the removal of trivalent Arsenic (As(III)) and divalent Mercury (Hg(II)) from water using MWCNTs.
-- To investigate the effect of solution conditions such as initial pH, metal ion concentration, adsorbent dosage, contact time, and mixing rate on the adsorption process.
+- Determine the impact of adsorbent dosage (MWCNTs) on removal rates.
+- Characterize the physical structure of produced multi-walled carbon nanotubes (MWCNTs).
+- Compare the performance of different types of carbon nanotubes (MWCNT-Fe vs. MWCNT-COOH vs. raw MWCNTs) for arsenic removal.
 
 ## Methods
 
-The study utilized MWCNTs produced by chemical vapor deposition (CVD). Batch mode adsorption experiments were conducted in glass flasks at room temperature. Solutions of As(III) and Hg(II) were prepared from certified stock solutions and adjusted to various pH levels (4-9). The system was agitated at different speeds (50, 100, 150, 200 rpm) for durations of 10, 30, 60, and 120 minutes. Samples were filtered through 0.45µm Millipore filter papers. Analysis of As(III) was performed using a Hydride Generated Inductively Coupled Plasma-Atomic Emission Spectrometer (HG-ICP-AES), and Hg(II) was analyzed via a mercury analyzer system. Adsorption capacity (qe) and removal percentage were calculated based on initial and equilibrium concentrations.
+The study utilized MWCNTs produced at KFUPM. Batch mode adsorption experiments were conducted in 125-mL Erlenmeyer flasks containing 50 mL of solution (1.0 mg/L As(III) and 0.1 mg/L Hg(II)). Parameters varied included: adsorbent dosage (5 and 10 mg), pH (4, 5, 7, 8, 9), contact time (10 to 120 min), and agitation speeds (50 to 200 rpm). Samples were filtered through 0.45µm Millipore filter papers. Analysis was performed using a Hydride Generated Inductively Coupled Plasma-Atomic Emission Spectrometer (HG-ICP-AES) for As(III) and a mercury analyzer system for Hg(II). Data were modeled using Langmuir and Freundlich isotherms, as well as first-order, pseudo-second-order, and second-order kinetic models.
 
 ## Data and Materials
 
-The study used multi-walled carbon nanotubes (MWCNTs) and iron-impregnated MWCNTs (MWCNT-Fe). Experimental parameters included varying pH levels, metal ion concentrations, adsorbent dosages, contact times, and mixing rates (50 to 150 rpm).
+The study used multi-walled carbon nanotubes (MWCNTs) and iron-doped multi-walled carbon nanotubes (MWCNT-Fe). Experimental data included measurements of concentration (mg/L), time (min), and adsorbent dosage (mg or g/L) across various pH levels (ranging from 4 to 8) and agitation speeds.
 
 ## Key Findings
 
-- The percentage uptake of both As(III) and Hg(II) increased with an increase in pH from 4 to 8. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
+- Adsorption percentage increased with an increase in pH from 4 to 8. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
 - The optimum pH for removal was found to be 8, which showed 100% removal of 0.1 ppm Hg(II) ions using 200 ppm of un-modified MWCNTs. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- The optimum pH of 8 resulted in 87.8% removal of 10 ppm As(III) ions using 400 ppm of Iron-Impregnated MWCNTs (MWCNT-Fe). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- Adsorption capacity increased with the agitation rate from 50 to 150 rpm, with higher removal observed at 150 rpm. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- A dosage of 10 mg of un-modified MWCNTs achieved 100% removal of Hg(II) ions. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- finding_page_note_for_dosage_as_3_is_not_explicitly_on_one_page_but_summary_mentions_40mg_of_modified_MWCNTs_achieved_87.8_percent_removal ([[2009-al-khaldi|Al-Khaldi, 2009]])
-- A dosage of 40 mg of modified MWCNTs achieved 87.8% removal of As(III) ions. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- Both Langmuir and Freundlich isotherms were used to successfully describe the adsorption process for both metals. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
-- Arsenite (As(III)) is more mobile than arsenate (As(V)) in groundwater because uncharged arsenite is less prone to be sorbed to a mineral surface. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 24]])
-- The World Health Organization (WHO) has set a guideline of 10 μg/L as the drinking water standard for arsenic. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 24]])
-- arsenic-specific-limitations_noted_in_literature_as_0.01 mg/L in some countries. ([[2009-al-khaldi|Al-Khaldi, 2009]])
-- page_number_reference_to_source_text_on_page_26 ([[2009-al-khaldi|Al-Khaldi, 2009]])
-- MWCNTs are characterized by a diameter range of 2 to 30 nm and a wall spacing of 0.34 nm. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 40]])
-- Arc-discharge method produces CNTs with high crystallinity and yield, but they tend to be short with random sizes. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 45]])
-- Laser ablation allows for greater control over growth conditions and higher yields compared to the arc method. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 47]])
+- The optimum pH of 8 resulted in 87.8% removal of 10 ppm As(III) ions using 400 ppm of Iron-Impregnated MWCNTs. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
+- Adsorption capacity increased with the agitation rate from 50 to 150 rpm, with higher removal of Hg(II) and As(III) observed at 150 rpm. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
+- 40 mg of modified MWCNTs achieved 87.8% removal of As(III) ions. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
+- Both Langmuir and Freundlich isotherms were used to describe the adsorption process for both metals. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 11]])
+- MWCNTs are reported to have high adsorption capacity for heavy metals like lead (Li et al., 2002) and higher capacities than activated carbon for cadmium and chromium (Li et al., 2003). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 55]])
+- The removal of mercury (II) using MWCNTs was specifically targeted as a gap in existing literature regarding the combined effect of pH, dosage, mixing rate, and contact time. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 61]])
+- Adsorption capacity for Al2O3 supported on CNTs is approximately 4 times higher than that of as-grown CNTs for fluoride removal (Li et al., 2001). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 58]])
+- The point of zero charge (pH_PZC) for the system was noted as approximately 4.9, influencing the electrostatic interaction with metal ions. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 59]])
+- Adsorption capacity for CeO2 supported on ACNTs is reported between 1.5 and 2.0 times higher than activated carbon or other supports (Di et al., 2006). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 58]])
+- MWCNTs produced via CVD had a diameter ranging from 20-40 nm (average 24 nm) and lengths of several microns. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 70]])
+- The removal of Hg(II) by MWCNTs was found to be pH dependent, with adsorption increasing as pH rose from 4.0 to 8.0 due to stronger electrostatic interactions and the role of functional groups (hydroxyl, carboxyl, carbonyl). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 73]])
+- At a MWCNTs dose of 200 mg/L, the removal of Hg(II) was not affected by pH changes as the dosage effect dominated. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 74]])
+- The contact time to reach equilibrium for Hg(II) adsorption onto MWCNTs was 120 minutes, with final capacities reaching 0.486 mg/g (at Ci = 0.1 mg/L). ([[2009-al-khaldi|Al-Khaldi, 2009, p. 76]])
 
 ## Limitations
 
-The study notes that while CNTs are effective, their high cost is a factor; however, the benefits in capacity and scale of operation may outweigh costs. The author suggests further studies on cost-effectiveness and large-scale industrial application.
+The study notes that the cost of carbon nanotubes is high, which may impact large-scale industrial adoption despite their high adsorption capacity. The research also highlights the need for further investigation into the effects of CNTs on human health.
 
 ## Recommendations and Future Work
 
-- Include particle size characterization and determination of surface area for adsorbent dosage studies.
-- Conduct tests using real wastewater from industries to verify practical effectiveness.
-- Produce CNTs with higher purity.
+- Include particle size characterization and determination of surface area of adsorbent in future studies.
+- Conduct tests using real wastewater from industries to verify effectiveness in actual applications.
+- Produce CNTs with higher purity for improved performance.
 - Study the effects of CNTs on human health.
-- Perform descriptive studies to elucidate adsorption mechanisms and metal recovery.
+- Perform descriptive studies to elucidate adsorption mechanisms and recover metal-loaded adsorbents.
 - Validate optimization equations developed in this study.
 
 ## Related Concepts
 
-- [[sem]]
 - [[tem]]
-- [[icp-oes]]
-- [[water-quality]]
+- [[microscopy]]
 - [[adsorption]]
+- [[carbon-nanotubes]]
 - [[water-treatment]]
-- [[nanotechnology]]
 - [[dhahran-area]]
-- [[saudi-arabia]]
-- [[cvd]]
+- [[hg-icp-aes]]
+- [[mercury-analyzer-system]]
+- [[water-quality]]
+- [[sem]]
 - [[adsorption-experiments]]
-- [[environmental-geoscience]]
-- [[langmuir-model]]
-- [[freundlich-model]]
-- [[pseudo-second-order-kinetic-model]]
-- [[icp-ms]]
-- [[uv-vis-spectroscopy]]
+- [[nanotechnology]]
+- [[mathematical-modeling]]

@@ -6,7 +6,7 @@ aliases:
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
-coordinates: "26° 20'–27° 45’N; 48° 00'–49° 20’E"
+coordinates: "26° 20'–27° 45’N and 48° 00'–49° 20’E"
 geology: "carbonate rocks and Neogene clastics"
 tags:
   - location/wadi-al-miyah
@@ -14,30 +14,30 @@ tags:
 sources:
   - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Wadi Al-Miyah
 
-**Summary**: The primary study area located in Eastern Saudi Arabia.
+**Summary**: A geographic area in the Eastern Province of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1995-hasan|Hasan, 1995]] conducted a hydrogeological study of the Wadi Al-Miyah area.
+- [[1995-hasan|Hasan, 1995]] focused on the hydrogeological study of the Wadi Al-Miyah area.
 
 ## Geological and Structural Setting
 
-- [[1995-hasan|Hasan, 1995]] Modified by local anticlinal structures and wadi systems.
+- [[1995-hasan|Hasan, 1995]] not stated in source
 
 ## Formations Present
 
-- [[1995-hasan|Hasan, 1995]] Rus formation, Neogene aquifer, Alat aquifer, Khobar aquifer
+- [[1995-hasan|Hasan, 1995]] Rus, Dammam, Hadrukh, Dam
 
 ## Key Findings From This Location
 
-- A detailed geological map of scale 1:150,000 was constructed for this area. ([[1995-hasan|Hasan, 1995, p. 28]])
+- The study area covers approximately 10,380 square kilometers. ([[1995-hasan|Hasan, 1995, p. 33]])
 
 ## Research Coverage and Gaps
 

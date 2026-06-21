@@ -2,19 +2,19 @@
 type: terminology
 title: "Lognormal"
 aliases:
-  - "log-normal distribution"
+  - "log-normal"
 canonical: true
-definition: "A distribution with a high proportion of lower values (positive skew) or higher values (negative skew)."
+definition: "A probability distribution where the natural logarithm of the variable is normally distributed."
 units: "dimensionless"
 related_techniques:
-  - "kriging"
+  - "statistical-analysis"
 tags:
-  - terminology/log-normal
+  - terminology/lognormal
   - theme/geostatistics
 sources:
   - "raw/10140 - Geostatistical modelling of Zarghat magnesite deposit Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Lognormal
@@ -25,11 +25,11 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[1991-makkawi|Makkawi, 1991]] identified lognormality in CaO and MgO distributions to justify logarithmic transformation.
+- [[1991-makkawi|Makkawi, 1991]] identified lognormal behavior in CaO% and MgO% distributions.
 
 ## Scientific Context
 
-- [[1991-makkawi|Makkawi, 1991]] Common in geological variables like mineral grades.
+- [[1991-makkawi|Makkawi, 1991]] Common in mineral deposits where values are strictly positive and skewed.
 
 ## Measurement and Characterization Methods
 
@@ -37,10 +37,10 @@ last_updated: 2026-06-08
 
 ## Key Findings Across Sources
 
-- The sampling distributions of CaO% and MgO% values were characterized by lognormal behavior. ([[1991-makkawi|Makkawi, 1991, p. 51]])
+- The sampling distributions of CaO% and MgO% values are characterized by lognormal behavior, suggesting that more accurate evaluation can be achieved using logarithmic values. ([[1991-makkawi|Makkawi, 1991, p. 19]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

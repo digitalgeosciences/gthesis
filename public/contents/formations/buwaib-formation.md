@@ -2,47 +2,49 @@
 type: formation
 title: "Buwaib Formation"
 aliases:
-  - "Buwaib"
+  - "Buwaib Formation"
   - "Biyadh"
 canonical: true
-age: "Lower Cretaceous"
+age: "Hauterivian"
 basin: "Rub' Al Khali basin"
-lithology: "argillaceous lime mudstone"
-reservoir_status: "not stated"
+lithology: "shale, dolomite, calcarenite"
+reservoir_status: "not stated in source"
 tags:
   - formation/buwaib-formation
-  - theme/stratigraphy
 sources:
   - "raw/10406 - Lower Cretaceous stratigraphy and depositional history of the Rub' Al Khali bsin.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Buwaib Formation
 
-**Summary**: The third formation of the Thamama Group.
+**Summary**: A transitional carbonate formation.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-al-sulami|Al-Sulami, 1992]] investigated the buwaib-formation as a transitional unit.
+- [[1992-al-sulami|Al-Sulami, 1992]] characterized the buwaib-formation as a transition between Yamama and Shu'aiba.
 
 ## Depositional Environment
 
-- [[1992-al-sulami|Al-Sulami, 1992]] basinal marine
+- [[1992-al-sulami|Al-Sulami, 1992]] carbonate ramp
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[1992-al-sulami|Al-Sulami, 1992]] not stated in source
+
 ## Key Findings Across Sources
 
-- The Buwaib/Biyadh (undiff.) Formation is characterized by an argillaceous lime mudstone at its base. ([[1992-al-sulami|Al-Sulami, 1992, p. 15]])
+- Consists of interbedded shale, dolomite, calcarenite, and rare sandstone. ([[1992-al-sulami|Al-Sulami, 1992, p. 39]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1992-al-sulami|Al-Sulami, 1992]] not stated
 
 ## Open Questions and Research Gaps
 

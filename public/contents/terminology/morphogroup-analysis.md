@@ -2,58 +2,51 @@
 type: terminology
 title: "Morphogroup Analysis"
 aliases:
-  - "morphology analysis"
+  - "morphogroup analysis"
 canonical: true
-definition: "Classification of foraminifera based on functional morphology (e.g., size, shape) rather than species taxonomy."
-units: "dimensionless"
+definition: "Classification of foraminifera based on test shape and function rather than taxonomy."
+units: "not applicable"
 related_techniques:
-  - "acetic-acid-treatment"
+  - "microscopy"
 tags:
-  - theme/paleoenvironmental-reconstruction
+  - terminology/morphology-analysis
 sources:
   - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
-  - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
   - "raw/143200 - FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Morphogroup Analysis
 
-**Summary**: The classification of foraminifera based on their shape and size rather than species taxonomy.
+**Summary**: Classification of foraminifera based on test shape and function rather than taxonomy.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-septriandi|Septriandi, 2016]] analyzed foraminiferal assemblages using morphogroups to interpret paleobathymetric trends.
+- [[2016-septriandi|Septriandi, 2016]] applied morphogroup analysis to interpret paleobathymetric trends in the Dam Formation.
 
-- [[2022-khamsin|Khamsin, 2022]] applied morphogroup analysis to interpret paleoenvironmental conditions.
-
-- [[2024-jalloh|Jalloh, 2024]] used morphogroup analysis to determine the impact of T-R cycles on ecological niches.
+- [[2024-jalloh|Jalloh, 2024]] applied morphogroup analysis to determine paleoenvironmental trends.
 
 ## Scientific Context
 
-- [[2016-septriandi|Septriandi, 2016]] Used to assess paleobathymetric trends and paleoenvironmental changes when specific species identification is difficult or for broader environmental interpretation.
+- [[2016-septriandi|Septriandi, 2016]] Used to assess paleobathymetric trends when specific species are not well-known or vary geographically.
 
-- [[2022-khamsin|Khamsin, 2022]] applied morphogroup analysis to interpret paleoenvironmental conditions.
-
-- [[2024-jalloh|Jalloh, 2024]] used morphogroup analysis to determine the impact of T-R cycles on ecological niches.
+- [[2024-jalloh|Jalloh, 2024]] applied morphogroup analysis to determine paleoenvironmental trends.
 
 ## Measurement and Characterization Methods
 
-- [[2016-septriandi|Septriandi, 2016]] Quantifying the proportions of different morphogroups within a sample.
+- [[2016-septriandi|Septriandi, 2016]] Semi-quantitative assessment of assemblage proportions.
 
 ## Key Findings Across Sources
 
-- Changes in the proportions of the morphogroups are used to semi-quantitatively assess paleobathymetric trends and paleoenvironmental changes. ([[2016-septriandi|Septriandi, 2016, p. 38]])
+- Four morphogroups (A-D) were defined to assess paleoenvironmental changes reflected by the foraminiferal assemblages. ([[2016-septriandi|Septriandi, 2016, p. 63]])
 
-- The lower Dhruma is interpreted as marine with normal environmental conditions based on these groups. ([[2022-khamsin|Khamsin, 2022, p. 10]])
 
-- Revealed a transition from 50% epifaunal dominance in the base to 60% in the upper section, indicating a full T-R cycle. ([[2024-jalloh|Jalloh, 2024, p. 79]])
+- Morphogroup analysis... is therefore a powerful tool for understanding the regional sequence stratigraphy. ([[2024-jalloh|Jalloh, 2024, p. 111]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

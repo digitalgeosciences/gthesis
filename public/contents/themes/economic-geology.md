@@ -9,7 +9,7 @@ tags: []
 sources:
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Economic Geology

@@ -12,139 +12,101 @@ committee_members:
   - "Bin Waheed Umair"
 source_file: "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142265/"
-study_area: "Ithra field, Dammam, eastern Saudi Arabia; Yilmaz dataset (Far East and Alberta)"
+study_area: "Ithra field, Dammam, eastern Saudi Arabia; Yilmaz dataset (global locations); Synthetic data."
 keywords:
-  - first break picking
-  - traveltime
+  - first arrivals
+  - traveltime picking
   - unsupervised machine learning
   - DBSCAN
   - super-virtual refraction interferometry
-  - SVI
-  - signal-to-noise ratio
-  - seismic data processing
-  - first arrivals
-  - traveltime picking
   - SNR
+  - seismic data processing
+  - signal-to-noise ratio
 techniques:
   - dbscan
   - svi
   - matlab
   - cross-correlation
-  - hilbert-transform
-  - fourier-transform
-  - fractal-dimension-analysis
-  - lmo
-  - deconvolution
-  - bandpass-filter
+  - linear-moveout
   - moving-average
   - super-virtual-refraction-interferometry
-  - lmo-image
-  - tau-p-transform
-  - pocs
-  - mdpe
+  - linear-moveout-correction
+  - bandpass-filter
+  - python
 tags:
   - degree/ms
-  - location/dammam-area
-  - location/saudi-arabia
   - location/ithra-field
-  - location/yaz-field
-  - technique/machine-learning-geoscience
-  - technique/seismic-processing
-  - technique/velocity-analysis
+  - location/saudi-arabia
   - technique/dbscan
   - technique/super-virtual-refraction-interferometry
-  - technique/well-log-analysis
+  - technique/matlab
   - technique/signal-processing
-  - technique/refraction-seismics
-  - theme/geophysics-general
-  - theme/seismology
+  - technique/linear-moveout-correction
+  - technique/cross-correlation
+  - technique/bandpass-filter
+  - technique/moving-average
+  - theme/seismic-processing
   - theme/machine-learning-geoscience
-  - theme/applied-geophysics
-  - theme/signal-processing
-  - terminology/first-arrivals
   - terminology/signal-to-noise-ratio
+  - terminology/first-arrivals
 status: ingested
 ---
 
 # FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) AND SUPER-VIRTUAL REFRACTION INTERFEROMETRY TECHNIQUE
 
-**Summary**: The thesis investigates automated first break traveltime picking in seismic data using a combination of the DBSCAN unsupervised machine learning algorithm and super-virtual refraction interferometry (SVI). The study demonstrates that while DBSCAN performs well on clean data, its integration with SVI significantly improves picking accuracy in low signal-to-noise ratio (SNR) environments, such as those found in the Ithra field.
+**Summary**: The thesis investigates an automated method for picking first arrival traveltimes in seismic data with low signal-to-noise ratios (SNR). It proposes a hybrid workflow combining the unsupervised machine learning algorithm DBSCAN to provide initial muting windows and the Super-Virtual Refraction Interferometry (SVI) technique to enhance SNR, followed by a final DBSCAN pass for accurate picking.
 
 ---
 
 ## Research Problem
 
-Accurate first break picking is critical for seismic processing, but traditional and automated methods often fail or produce unreliable results when the signal--to-noise ratio (SNR) is low. The study addresses this by combining DBSCAN's clustering capabilities with SVI's ability to enhance SNR in noisy data.
+Standard automatic first break picking methods often fail or produce unreliable results when seismic data has low signal-to-noise ratios (SNR), which is critical for subsequent processing steps like static correction and velocity analysis.
 
 ## Objectives
 
-- Develop an automated method for first arrival traveltime picking using unsupervised machine learning (DBSCAN).
-- Integrate Super-Virtual Refraction Interferometry (SVI) to improve the SNR of raw data before applying DBSCAN.
-- Evaluate the proposed methodology on synthetic and field datasets (Ithra and Yilmaz fields).
 - Enhance the signal-to-noise ratio of the first arrivals using super-virtual refraction interferometry (SVI)
 - Accurate first arrival travel time picking using unsupervised machine learning technique (DBSCAN)
-- Compare the results before and after applying SVI and picked by DBSCAN both for synthetic and real datasets
-- Improve the signal-to-noise ratio (SNR) of far-offset arrivals using Super-Virtual Refraction Interferometry (SVI).
-- Integrate DBSCAN and SVI to provide a robust solution for first break picking in noisy seismic data.
-- Develop an automated first arrival traveltime picking method using unsupervised machine learning (DBSCAN).
-- Integrate super-virtual refraction interferometry (SVI) to improve the signal-to-noise ratio of first breaks before applying DBSCAN.
-- Evaluate the performance of the proposed hybrid method against manual pickings and other established methods like cross-correlation.
-- Evaluate the performance of the DBSCAN unsupervised machine learning algorithm for automatic first arrival traveltime picking.
-- Integrate DBSCAN with super-virtual refraction interferometry (SVI) to improve results in low SNR environments.
-- Compare the proposed methodology against existing methods like τ-p transform, mixed Coppens, POCS, and MDPE.
-- Evaluate the accuracy of DBSCAN in picking first arrival traveltimes.
-- Enhance the accuracy of DBSCAN's first arrival traveltime picking using super-virtual refraction interferometry.
+- Compare the results before and average after applying SVI and picked by DBSCAN both for synthetic and real datasets
+- Develop an automated method for first arrival traveltime picking using unsupervised machine learning (DBSCAN).
+- Integrate super-virtual refraction interferometry (SVI) to improve SNR in noisy datasets.
+- Evaluate the proposed methodology against manual picks and existing methods like cross-correlation on synthetic and field data.
 
 ## Methods
 
-The methodology involves a multi-step workflow: 1. Preprocessing including clipping to enhance weak amplitudes. 2. Selecting a sliding window of traces and samples. 3. Applying Linear Moveout (LMO) at various velocities and stacking the results. 4. Using DBSCAN clustering on the stacked LMO images to identify signal clusters vs noise. 5. Using the identified cluster centers as initial picks to define muting windows for SVI. 6. Applying SVI (including optional deconvolution) to enhance SNR of far-offset arrivals. 7. Final automatic picking using DBSCAN on the enhanced data. 8. Post-processing with moving average smoothing and constant shifts.
+The workflow involves: 1. Preprocessing using a bandpass filter (25-35 Hz pass, 80-100 Hz cut) to remove noise. 2. Applying Linear Moveout (LMO) correction to flatten events and determine optimal velocities. 3. Using DBSCAN clustering on LMO images to identify signal clusters; if 1-3 clusters exist, the data is flagged as signal. 4. Implementing SVI to generate super-virtual traces through cross-correlation and stacking to improve SNR of far-offset first breaks. 5. Applying a second pass of DBSCAN on the SVI output for final picking. 6. Using 'restricted scanning windows' and 'extrapolation' to handle cases where initial DBSCAN picks are missing or inaccurate due to noise.
 
 ## Data and Materials
 
-1. Synthetic dataset: 2D velocity model (600m x 80m) with two layers (500 m/s and 1500 m/s), 121 receivers, 121 shots, 30 Hz Ricker wavelet. 2. Ithra field data: Dammam, Saudi Arabia; 600m profile, 120 geophones, 120 shot gathers. 3. Yilmaz dataset: Two specific shot gathers (6 and 25) from global locations (Far East and Alberta).
+1. Synthetic data: A two-layer 2D velocity model (500 m/s and 1500 m/s) with 121 receivers and 121 shots, including a subset of 2500 samples. 2. Ithra field data: Collected near Ithra Dammam, Saudi Arabia, consisting of 120 shot gathers (each with 24 geophones). 3. Yilmaz dataset: Two specific shot gathers (6 and 25) from a global collection used for benchmarking.
 
 ## Key Findings
 
-- For synthetic data, the accuracy of DBSCAN-only picking was poor before SVI, but after applying SVI, 98.4% of pickings fell within an allowable error of ±8.33 msec. ([[2022-awais|Awais, 2022, p. 17]])
-- For Ithra field data, DBSCAN-only picking was poor before SVI; after applying SVI, 86.4% of pickings were within the allowable error of ±8.33 msec. ([[2022-awais|Awais, 2022, p. 17]])
-- On Yilmaz shot gather 6, the proposed method outperformed other methods by picking 91% of traveltimes within an allowable error of ±20 msec. ([[2022-awais|Awais, 2022, p. 17]])
-- On Yilmaz shot gather 25, the proposed method picked 99% of traveltimes within an allowable error of ±20 msec. ([[2022-awais|Awais, 2022, p. 17]])
-- DBSCAN-only picking results were poor when using a restricted scanning window in high-level random noise without SVI (Figure 7.3). ([[2022-awais|Awais, 2022, p. 13]])
-- DBSCAN is an unsupervised machine learning method that identifies outliers as noise, unlike k-mean or mean-shift algorithms. ([[2022-awais|Awais, 2022, p. 38]])
-- The MDPE method (based on Hilbert transform) achieved over 88% accuracy on synthetic gathers and over 85% on real seismic data with high SNR. ([[2022-awais|Awais, 2022, p. 32]])
-- SVI is a robust and effective SNR enhancer for far-offset head waves, successfully applied to both land and marine surveys. ([[2022-awais|Awais, 2022, p. 34]])
-- CNN-based methods are computationally expensive, time-consuming, and require intensive data labeling compared to unsupervised methods like DBSCAN. ([[2022-awais|Awais, 2022, p. 31]])
-- DBSCAN successfully identified two clusters in the test data with epsilon=1 and minPts=10, where blue/magenta points were clusters and red points were noise. ([[2022-awais|Awais, 2022, p. 40]])
-- SVI improves SNR of far-offset arrivals by a factor of √Ns (post-critical source positions) and √Nsv (coincident receiver positions). ([[2022-awais|Awais, 2022, p. 43]])
-- DBSCAN's performance is significantly improved when the search window is restricted to the center/bottom of the window, where first arrivals typically follow a time-offset slope. ([[2022-awais|Awais, 2022, p. 50]])
-- LMO stacking at multiple velocities allows for the identification of signal vs. noise; signals form clear clusters in the LMO image while noise results in dispersed values. ([[2022-awais|Awais, 2022, p. 52]])
-- The clipping method can effectively increase the amplitudes of weak first arrivals by a factor determined by the ratio of high to low values (e.g., multiplying by 50 and dividing by 5). ([[2022-awais|Awais, 2022, p. 63]])
-- For synthetic data with high noise (50%), the initial DBSCAN picking was inaccurate due to low SNR, but applying SVI improved accuracy such that all picks fell within the ±8.33 msec threshold. ([[2022-awais|Awais, 2022, p. 56]])
+- For synthetic data, DBSCAN picking before SVI was poor, but after applying SVI, 98.4% of the automatic first arrival traveltimes fell within an allowable error of ±8.33 msec. ([[2022-awais|Awais, 2022, p. 17]])
+- For Ithra field data, DBSCAN picking before SVI was poor; after applying SVI, 86.4% of the pickings were within the allowed error of ±8.33 msec. ([[2022-awais|Awais, 2022, p. 17]])
+- On Yilmaz shot gathers 6 and 25, the proposed method outperformed other methods by picking 91% and 99% of traveltimes within an allowable error of ±20 msec. ([[2022-awais|Awais, 2022, p. 19]])
+- DBSCAN's performance is significantly improved when using a restricted scanning window to mitigate the impact of random noise on clustering. ([[2022-awais|Awais, 2022, p. 33]])
+- SVI enhances SNR by a factor of √Ns for virtual refractions and √Nsv for super-virtual refractions. ([[2022-awais|Awais, 2022, p. 42]])
+- The proposed methodology achieved an accuracy of approximately 98.4% for all 121 synthetic shot gathers when comparing DBSCAN-SVI results to manual picks. ([[2022-awais|Awais, 2022, p. 58]])
+- For Ithra field data, the SVI technique improved the number of accurately picked traces by 54% (shot 25) and 62% (shot 100) compared to manual picks. ([[2022-awais|Awais, 2022, p. 61]])
+- DBSCAN alone achieved 91% and 99% accuracy on Yilmaz shot gathers 6 and 25, outperforming several other methods including $\tau$-p transform (88%), mixed Coppens' (46-71%), POCS (58-77%), and MDPE (>85%). ([[2022-awais|Awais, 2022, p. 65]])
+- The inclusion of a 'restricted scanning window' for DBSCAN reduced the number of outliers and significantly decreased the computation time required to pick first arrivals. ([[2022-awais|Awais, 2022, p. 54]])
+- SVI successfully improved the SNR of far-offset first breaks, making them detectable even when they were not visible in the original raw data. ([[2022-awais|Awais, 2022, p. 76]])
 
 ## Limitations
 
-Existing automatic methods (e.g., those based on Fourier transforms or fractal dimensions) struggle in low SNR environments; specifically, the MDPE method requires more testing with various datasets to understand its limitations.
+The methodology is currently not applicable to data containing coherent noise and has not been tested on mixed-phase wavelets; it is primarily validated for zero or minimum phase wavelets.
 
 ## Recommendations and Future Work
 
-Future research should test the method with mixed-phase wavelets and explore using DBSCAN to generate training datasets for supervised machine learning models.
+Future research should test the method with mixed-phase wavelets and explore using DBSCAN results as training data for supervised machine learning models to further refine first break picking.
 
 ## Related Concepts
 
-- [[machine-learning]]
-- [[seismic-processing]]
-- [[first-arrivals]]
-- [[signal-to-noise-ratio]]
-- [[seismology]]
-- [[saudi-arabia]]
 - [[dbscan]]
 - [[super-virtual-refraction-interferometry]]
-- [[machine-learning-geoscience]]
-- [[velocity-analysis]]
-- [[dammam-area]]
+- [[signal-to-noise-ratio]]
+- [[first-arrivals]]
 - [[ithra-field]]
-- [[refraction-seismics]]
-- [[signal-processing]]
-- [[ithar-field]]
-- [[geophysics-general]]
-- [[applied-geophysics]]
+- [[seismic-processing]]
+- [[machine-learning-geoscience]]
+- [[linear-moveout-correction]]

@@ -2,45 +2,44 @@
 type: terminology
 title: "Nutrient Removal"
 aliases:
-  - "nitrogen removal"
-  - "phosphorus removal"
+  - "nitrate removal"
+  - "phosphate removal"
 canonical: true
-definition: "The reduction of nutrient concentrations (NO3-N and PO4-P) from a growth medium by microalgae."
+definition: "The reduction of nitrate and phosphate concentrations in the growth medium."
 units: "percentage (%)"
-related_techniques:
-  - "spectrophotometry"
+related_techniques: []
 tags:
-  - theme/bioremediation
+  - theme/environmental-microbiology
 sources:
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Nutrient Removal
 
-**Summary**: The capacity of microorganisms to uptake and remove nitrogen and phosphorus from a medium.
+**Summary**: The process of removing nutrients like nitrogen and phosphorus from water, often used in wastewater treatment.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-ibrahim|Ibrahim, 2016]] evaluated the nutrient removal efficiency of three microalgae strains for potential wastewater treatment applications.
+- [[2016-ibrahim|Ibrahim, 2016]] assessed nutrient removal to evaluate the potential for simultaneous waste treatment and biofuel production.
 
 ## Scientific Context
 
-- [[2016-ibrahim|Ibrahim, 2016]] This indicates the potential for using these strains in wastewater treatment systems.
+- [[2016-ibrahim|Ibrahim, 2016]] Indicates the ability of microalgae to treat wastewater while producing biomass.
 
 ## Measurement and Characterization Methods
 
-- [[2016-ibrahim|Ibrahim, 2016]] measured via spectrophotometric analysis of nitrate and phosphate concentrations over time.
+- [[2016-ibrahim|Ibrahim, 2016]] measured by comparing initial and final nutrient concentrations.
 
 ## Key Findings Across Sources
 
-- All strains removed over 90% of phosphate and more than 99% of nitrate in the experimental period. ([[2016-ibrahim|Ibrahim, 2016, p. 50]])
+- Nitrate and phosphate were almost completely removed (over 90%) within a 20-day incubation period. ([[2016-ibrahim|Ibrahim, 2016, p. 60]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

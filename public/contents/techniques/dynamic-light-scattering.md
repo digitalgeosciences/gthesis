@@ -7,14 +7,14 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "droplet size distribution and polydispersity index (PI)"
+output: "droplet size distribution curves and polydispersity index (PI)"
 tags:
   - technique/dynamic-light-scattering
   - theme/petroleum-engineering
 sources:
   - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Dynamic Light Scattering
@@ -25,7 +25,7 @@ last_updated: 2026-06-10
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-abdallah|Abdallah, 2024]] used dynamic light scattering (Anton Paar Analyzer 500) to determine droplet size distributions.
+- [[2024-abdallah|Abdallah, 2024]] applied dynamic light scattering to determine droplet size distributions and polydispersity indices for TCF emulsions.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The polydispersity index (PI) for all systems was in the middle range of heterogeneity. ([[2024-abdallah|Abdallah, 2024, p. 67]])
+- Droplet sizes were found to be heterogeneous, with polydispersity indices (PI) falling in the middle range of heterogeneity. ([[2024-abdallah|Abdallah, 2024, p. 67]])
 
 ## Methodological Variations Across Sources
 

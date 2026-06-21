@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "predicted pollutant concentrations and AQI maps"
+output: "pollutant concentration maps and dispersion patterns"
 tags:
   - technique/calpuff
   - theme/environmental-risk-assessment
 sources:
   - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Calpuff
 
-**Summary**: A non-steady-state Lagrangian puff dispersion model used to predict the concentration of air pollutants in complex environments.
+**Summary**: A non-steady-state Lagrangian puff model used for modeling the transport and transformation of air pollutants over long distances.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2025-al-afif|Al-Afif, 2025]] used CALPUFF to simulate atmospheric dispersion of CO, SO2, NO2, PM2.5, and PM10 from industrial stacks.
+- [[2025-al-afif|Al-Afif, 2025]] used CALPUFF to predict atmospheric dispersion of NO2, PM2.5, PM10, SO2, and CO from industrial stacks.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- CALPUFF successfully modeled three scenarios: current conditions, increased stack height, and fuel switching. ([[2025-al-afif|Al-Afif, 2025, p. 16]])
+- CALPUFF successfully modeled 1-hour, 24-hour, and annual average pollutant dispersions for over 90 stacks. ([[2025-al-afif|Al-Afif, 2025, p. 12]])
 
 ## Methodological Variations Across Sources
 

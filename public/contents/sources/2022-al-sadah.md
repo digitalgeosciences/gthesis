@@ -12,212 +12,111 @@ committee_members:
   - "Michael A. Kaminski"
 source_file: "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142224/"
-study_area: "Umm Lajj Quadrant, Northwest Saudi Arabia (Red Sea Basin)"
+study_area: "Umm Lajj Basin, northern part of the east coast of the Red Sea, Saudi Arabia"
 keywords:
   - Miocene carbonate sequence
   - Umm Lajj Quadrangle
   - Raghama Formation
-  - Wadi Waqb Member
-  - Jabal Kibrit Formation
+  - Wajh Basin
   - lithofacies
   - biostratigraphy
-  - Wajh Basin
-  - sedimentology
-  - micropaleontology
-  - remote sensing
-  - ASTER imagery
-  - ASTER data
-  - lithostratigraphy
-  - microfossils
-  - Umm Lajj
+  - ASTER satellite imagery
+  - Wadi Waqb member
+  - Borelis melo
   - Red Sea Basin
-  - stratigraphy
 techniques:
+  - thin-section-petrography
+  - microscopy
   - remote-sensing
   - aster
   - pca
-  - microfacies-analysis
-  - hand-specimen-analysis
-  - thin-section-petrography
-  - biostratigraphy
   - gis
-  - multiband-composites
-  - hybridclassification
+  - erdas
+  - biostratigraphy
+  - field-investigation
   - stereo-microscope
-  - multi-spectral-analysis
-  - petrography
+  - vnir
+  - swir
 tags:
   - degree/ms
-  - formation/qusaiba-member
-  - formation/wajid-sandstone
-  - formation/musayr-formation
-  - formation/burqan-formation
-  - formation/jabal-kibrit-formation
-  - formation/sarah-formation
-  - formation/jauf-formation
-  - formation/unayzah-formation
-  - formation/khuff-formation
-  - formation/sudair-formation
-  - formation/jilh-formation
-  - formation/minjur-sandstone
-  - formation/marrat-formation
-  - formation/dhruma-formation
-  - formation/tuwaiq-mountain-formation
-  - formation/hanifa-formation
-  - formation/jubaila-formation
-  - formation/arab-formation
-  - formation/arab-d-reservoir
-  - formation/arab-c-reservoir
-  - formation/arab-b-reservoir
-  - formation/arab-a-reservoir
-  - formation/hith-anhydrite
-  - formation/buwaib-formation
-  - formation/yamama-formation
-  - formation/shuaiba-formation
-  - formation/wasia-formation
-  - formation/safaniya-member
-  - formation/khafji-member
-  - formation/aruma-formation
-  - formation/umm-al-radhuma-formation
-  - formation/rus-formation
-  - formation/dammam-formation
-  - formation/khobar-member
   - formation/hadrukh-formation
-  - formation/dam-formation
-  - formation/hofuf-formation
-  - formation/dibdibba-formation
-  - formation/bentiu-formation
-  - formation/aradeiba-member
-  - formation/fadhili-reservoir
-  - formation/zarghat-deposit
-  - formation/hazam-al-jalamid-phosphorite
-  - formation/sulaiy-formation
-  - formation/asmari-formation
-  - formation/andhur-formation
-  - formation/jeza-formation
-  - formation/qalibah-formation
-  - formation/harmaliyah-formation
-  - formation/bardawil-formation
-  - formation/turayf-formation
-  - formation/arab-c-formation
-  - formation/fadhili-formation
-  - formation/shabelle-formation
-  - formation/juba-formation
-  - formation/adigrat-formation
-  - formation/mansa-guda-formation
-  - formation/hamantey-formation
-  - formation/jesomma-formation
-  - formation/merca-formation
-  - formation/taleh-formation
-  - formation/aurado-formation
-  - formation/thamama-group
-  - formation/aruma-group
-  - formation/hibr-group
-  - formation/harrat-rahat
-  - formation/hazm-al-jalamid-phosphorite
-  - formation/hudayb-limestone
-  - formation/zallum-sandstone
-  - formation/arar-formation
-  - formation/khobar-aquifer
-  - formation/baidoa-aquifer
-  - formation/precambrian-basement
-  - formation/quaternary-sediments
+  - formation/raqhama-formation
   - location/red-sea
   - location/northwest-saudi-arabia
-  - location/saudi-arabia
-  - technique/remote-sensing
   - technique/thin-section-petrography
-  - technique/biostratigraphy
-  - technique/gis
+  - technique/remote-sensing
   - technique/pca
+  - technique/gis
+  - technique/biostratigraphy
+  - technique/field-investigation
   - technique/stereo-microscope
   - theme/carbonate-geology
-  - theme/biostratigraphy
   - theme/lithostratigraphy
   - theme/sedimentology
   - theme/stratigraphy
   - terminology/biostratigraphy
-  - terminology/lithostratigraphy
+  - terminology/facies-analysis
   - terminology/diagenesis
-  - terminology/lithofacies
 status: ingested
 ---
 
 # REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABIA
 
-**Summary**: The thesis investigates the Miocene carbonate sequences in the Umm Lajj Quadrangle, specifically focusing on the Raghama Formation and its subdivisions. It utilizes a combination of field sedimentology, micropaleontology (thin sections), and remote sensing (ASTER imagery) to map lateral distributions and refine existing geological maps.
+**Summary**: The thesis investigates the Miocene carbonate sequence in the Umm Lajj Basin, specifically focusing on the Raghama Formation and its correlation with the Wadi Waqb member. Using a combination of field mapping, thin-section analysis, and satellite imagery (ASTER), the study confirms the mid-Miocene age of several outcrops and identifies potential mineral and hydrocarbon targets.
 
 ---
 
 ## Research Problem
 
-Miocene carbonate outcrops in the Umm Lajj Quadrangle were historically assigned to the Raghama Formation or labeled as Quaternary due to a lack of detailed age-dating and lithostratigraphic analysis, leading to uncertainty when correlating surface outcrops with subsurface units.
+Many carbonate outcrops in the Umm Lajj Basin were historically assigned to the Quaternary or the Raghama Formation without sufficient biostratigraphic data. This lack of clarity complicates the correlation between surface geology and subsurface units in the Red Sea basin.
 
 ## Objectives
 
-- Sample, measure, and describe several carbonate sections in the Umm Lajj area.
-- Assess tectonic movements that caused the spread and uplift of these carbonates from their original depositional settings.
-- Determine the age, lithostratigraphy, and depositional environment of the studied carbonate blocks using micropaleontological analysis.
-- Evaluate the extent of Wadi Waqb_deposits and other Miocene strata in the Umm Lajj Basin.
 - Conduct sedimentology and micropaleontology studies to identify the age, lithofacies, and microfacies of the carbonate outcrops in the study area.
 - Evaluate the Qot outcrop (Elevated Quaternary terraces) near Bir ibn Ghynayn.
 - Map the lateral distribution of the Miocene carbonate sequences in the study area using ASTER images.
 - Refine the existing geologic map for the Miocene carbonates in the study area using current stratigraphic nomenclature.
-- Determine the age of the carbonate sequences in the Wadi Khuff, Wadi Aqer, and Umm Lajj outcrops.
-- Establish the lithostratigraphic correlation between local carbonates and the Raghama Formation/Wadi Waqb Member.
-- Utilize ASTER remote sensing data to identify and map carbonate distribution within the basin.
-- Confirm the geological age of the Wadi Khuff outcrop
-- Identify and characterize carbonate units within the Umm Lajj Quadrant
-- Correlate local sedimentary sequences with known formations like the Raghama Formation
-- Utilize remote sensing to identify carbonate outcrops in the region
+- Confirm the age of the Wadi Khuff outcrop using fossil evidence.
+- Identify and map carbonate outcrops in the study area using satellite imagery (ASTER).
 
 ## Methods
 
-The methodology involves field-based sedimentological logging (lithology, grain size, microstructures) and sampling of vertical profiles. Samples were prepared as thin sections to perform petrographic and biostratigraphic analyses. Remote sensing was conducted using ASTER L1 data processed via ERDAS software, involving single band inspection, multiband composites, Principal Component Analysis (PCA), and hybrid classification (combining PCA, band ratios, and field-ground truth) to map carbonate distribution.
+The research combined field investigations (sampling and logging) with laboratory analysis and remote sensing. Fieldwork involved three transects at Wadi Khuff, Wadi Aqer, and Umm Lajj to collect samples for thin-section preparation. Petrographic and micropaleontological analyses were conducted using thin-section microscopes to identify microfossils like Borelis melo. Remote sensing utilized ASTER satellite data (VNIR, SWIR, TIR bands) processed via ERDAS software. Analysis included Single Band Inspection, Principal Component Analysis (PCA), and multi-band composites to differentiate lithologies and minerals.
 
 ## Data and Materials
 
-Analysis of three primary outcrop locations: Wadi Khuff (Location 1), Wadi Aqer (Location 2), and Umm Lajj (Location 3). Data included ASTER satellite imagery, thin sections from various beds (e.g., WK-03 to WK-06), and field observations of fossils like Borelis melo and Gypsina sp.
+Three distinct outcrop locations in the Umm Lajj Quadrangle: Wadi Khuff (380m wide, 50m high), Wadi Aqer (17km north of Wadi Khuff), and Umm Lajj (30km south of Wadi Khuff). A total of 88 visited points were recorded, with 50 samples collected for thin-section analysis. ASTER satellite imagery from July 20, 2006, was used for regional mapping.
 
 ## Key Findings
 
-- Hand specimens and thin-section analysis revealed the presence of Borelis melo, a middle Miocene benthic foraminifer. ([[2022-al-sadah|Al-Sadah, 2022, p. 14]])
-- The carbonate outcrops in Umm Lajj Basin can potentially correlate to Wadi Waqb carbonates rather than being assigned to the Raghama Formation. ([[2022-al-sadah|Al-Sadah, 2022, p. 15]])
-- Wadi Waqb outcrops are present in the Umm Lajj Basin, located over 350 km south of most reported Wadi Waqb outcrops in the Ifal Basin. ([[2022-al-sadah|Al-Sadah, 2022, p. 15]])
-- The study area includes a carbonate block consisting of massive coral deposits separated by mudstone intervals. ([[2022-al-sadah|Al-Sadah, 2022, p. 14]])
-- Wadi Khuff (WK) section shows variation in lithology, grain size, and fossil types across different beds. ([[2022-al-sadah|Al-Sadah, 2022, p. 42]])
-- The Raghama Formation has been subdivided into six formations in the Midyan Basin: Musayir, Burqan, Jabal Kibrit, Kial, Mansiyah, and Ghawwas. ([[2022-al-sadah|Al-Sadah, 2022, p. 26]])
-- The Musayir Formation is a lower Miocene carbonate composed of calcareous sandstones, oysters, foraminifera, and ooids. ([[2022-al-sadah|Al-Sadah, 2022, p. 42]])
-- The Burqan Formation comprises lower Miocene fine to medium-grained sandstone beds separated by low to moderately bioturbated siltstone and claystone beds. ([[2022-al-sadah|Al-Sadah, 2022, p. 43]])
-- Jabal Kibrit is a Lower to Middle Miocene formation composed of two significant facies: carbonate Wadi Waqb (reefal carbonates) and siliciclastic Dubaibah. ([[2022-al-sadah|Al-Sadah, 2022, p. 45]])
-- Wajh Formation consists of reddish-brown conglomerates within a sandstone matrix, unconformably overlying the basement. ([[2022-al-sadah|Al-Sadah, 2022, p. 38]])
-- The presence of the benthic foraminifera Borelis melo in multiple outcrops confirms a Middle Miocene age (not older than N8). ([[2022-al-sadah|Al-Sadah, 2022, p. 72]])
-- Wadi Khuff carbonate units are identified as part of a distal reef complex under deeper conditions (<200 m) based on the co-occurrence of planktonic foraminifera and mesophylum red algae. ([[2022-al-sadah|Al-Sadah, 2022, p. 76]])
-- The Wadi Khuff outcrop is located 25 km from the current shoreline, making it unlikely to be Quaternary (Qot) deposits. ([[2022-al-sadah|Al-Sadah, 2022, p. 89]])
-- PCA analysis of ASTER data successfully differentiated carbonate rocks from clastic sediments and basement rocks across the study area. ([[2022-al-sadah|Al-Sadah, 2022, p. 81]])
-- The Dhaylan Formation is identified as an interbedded arkosic sandstone and red mudstone sequence, likely deposited in an alluvial setting. ([[2022-al-sadah|Al-Sadah, 2022, p. 85]])
+- The presence of Borelis melo in several outcrops (Wadi Khuff, Wadi Aqer, and Umm Lajj) confirms a Middle Miocene age (Langhian), corresponding to the Wadi Waqb Member of the Jabal Kibrit Formation. ([[2022-al-sadah|Al-Sadah, 2022, p. 73]])
+- The carbonate units in Wadi Khuff are significantly older than Quaternary reefs due to their higher elevation, greater distance from the shoreline (up to 25 km), and association with tilted basement blocks. ([[2022-al-sadah|Al-Sadah, 2022, p. 75]])
+- Wadi Khuff carbonates were likely deposited as part of a distal reef complex under deeper conditions (<200 m) based on the co-occurrence of planktonic foraminifera and mesophylum red algae. ([[2022-al-sadah|Al-Sadah, 2022, p. 76]])
+- PCA analysis of ASTER data successfully differentiated carbonate, clastic, and basement rocks across a 60 km area. ([[2022-al-sadah|Al-Sadah, 2022, p. 81]])
+- The Qot outcrop (previously labeled as Quaternary) was identified as Miocene carbonates based on the presence of Borelis melo and other microfossils. ([[2022-al-sadah|Al-Sadah, 2022, p. 75]])
+- The Wadi Khuff outcrop is confirmed to be mid-Miocene in age, contradicting previous literature that classified it as a Quaternary raised reef. ([[2022-al-sadah|Al-Sadah, 2022, p. 95]])
+- Age confirmation was achieved through the presence of Borelis melo, a middle Miocene benthic foraminifer. ([[2022-al-sadah|Al-Sadah, 2022, p. 95]])
+- A basaltic flow (dated 5 Ma to Quaternary) was observed overlaying similar outcrops and extending toward Harrat Qalib. ([[2022-al-sadah|Al-Sadah, 2022, p. 95]])
+- ASTER and other satellites successfully identified three large carbonate outcrops in the basin, spaced approximately 80 km apart. ([[2022-al-sadah|Al-Sadah, 2022, p. 95]])
+- Wadi Khuff is characterized as a grainy rudstone, poorly sorted, heavily cemented, and rich in aragonite, red algae, and corals with no visible porosity. ([[2022-al-sadah|Al-Sadah, 2022, p. 91]])
+- Wadi Waqb (near the fault) is described as muddier (packstone/grainstone), very vuggy and connected, but potentially impacted by anhydrite replacement. ([[2022-al-sadah|Al-Sadah, 2022, p. 91]])
 
 ## Limitations
 
-Sampling the uppermost parts of certain outcrops (like those near Jabal Dhaylan) is challenging due to steep terrain; lack of overlying depositional controls in some sections led to previous misidentifications as Quaternary.
+Previous maps lacked sufficient age-dating information for carbonate outcrops, leading to their misidentification as Quaternary features due to a lack of detailed biostratigraphic data in the local area.
 
 ## Recommendations and Future Work
 
-The study suggests that surface geology maps of the Umm Lajj Quadrangle should be re-evaluated with a focus on the extent of Wadi Waqb deposits and other Miocene strata.
+The study suggests that lithostratigraphic and biostratigraphy units can now be correlated from outcrop to subsurface in the Umm Lajj Basin using updated nomenclature.
 
 ## Related Concepts
 
-- [[remote-sensing]]
 - [[thin-section-petrography]]
+- [[remote-sensing]]
 - [[biostratigraphy]]
-- [[lithostratigraphy]]
+- [[facies-analysis]]
 - [[carbonate-geology]]
 - [[red-sea]]
-- [[qusaiba-member]]
-- [[pca]]
-- [[musayir-formation]]
-- [[burqan-formation]]
-- [[wajid-sandstone]]
+- [[hadrukh-formation]]
 - [[diagenesis]]
-- [[lithofacies]]
-- [[northwestern-saudi-arabia]]
+- [[raqhama-formation]]

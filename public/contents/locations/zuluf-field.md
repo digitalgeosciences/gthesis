@@ -2,41 +2,42 @@
 type: location
 title: "Zuluf Field"
 aliases:
-  - "Zuluf Field"
+  - "Zuluf field"
 canonical: true
-region: "Eastern Province"
+region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "carbonate platform"
+geology: "carbonate and siliciclastic shelf"
 tags:
   - location/zuluf-field
+  - theme/reservoir-characterization
 sources:
   - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Zuluf Field
 
-**Summary**: A major offshore oil field in Saudi Arabia.
+**Summary**: A major offshore oil field in the northern part of the Arabian Gulf.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-elhassan|ElHassan, 2002]] conducted study on the Zuluf field.
+- [[2002-elhassan|ElHassan, 2002]] studied the Zuluf field for mechanical property analysis.
 
 ## Geological and Structural Setting
 
-- [[2002-elhassan|ElHassan, 2002]] offshore field
+- [[2002-elhassan|ElHassan, 2002]] passive plate margin
 
 ## Formations Present
 
-- [[2002-elhassan|ElHassan, 2002]] khafji-member
+- [[2002-elhassan|ElHassan, 2002]] Khafji Member, Safaniya Member, Shu'aiba Formation
 
 ## Key Findings From This Location
 
-- The azimuths of the minimum and maximum horizontal stress are approximately northwest and northeast, respectively. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- The Khafji reservoir is a part of the Khafji Member of the Middle Cretaceous Wasia Formation. ([[2002-elhassan|ElHassan, 2002, p. 24]])
 
 ## Research Coverage and Gaps
 

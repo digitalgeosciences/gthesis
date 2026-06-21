@@ -7,36 +7,36 @@ canonical: true
 region: "Northwestern Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "sedimentary basin"
+geology: "sedimentary phosphorite deposit"
 tags:
   - location/hazm-al-jalamid
 sources:
   - "raw/10032 - Geostatistical evaluation of the Hazam al-Jalamid phosphorite deposit, Northwest.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Hazm Al-Jalamid
 
-**Summary**: A specific phosphorite deposit location in the Sirhan-Turayf Basin.
+**Summary**: A significant phosphorite deposit located in the Sirhan-Turayf Basin of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1996-jarad|Jarad, 1996]] focused on the hazm-al-jalamid location for geostatistical evaluation.
+- [[1996-jarad|Jarad, 1996]] focused on the geostatistical evaluation of the Hazm Al-Jalamid deposit.
 
 ## Geological and Structural Setting
 
-- [[1996-jarad|Jarad, 1996]] Sirhan-Turayf Basin
+- [[1996-jarad|Jarad, 1996]] controlled by the growth of the Ha'il Arch and its parallel structures
 
 ## Formations Present
 
-- [[1996-jarad|Jarad, 1996]] hazm-al-jalamid-phosphorite
+- [[1996-jarad|Jarad, 1996]] Thaniyat Turayf Phosphorite Member
 
 ## Key Findings From This Location
 
-- The study area is located along the Trans-Arabian Pipeline (TAPLINE), 25 km north of the Hazm Al-Jalamid village. ([[1996-jarad|Jarad, 1996, p. 21]])
+- The Hazm Al-Jalamid deposit is arguably the most attractive one due to its exceptionally high grade and thickness. ([[1996-jarad|Jarad, 1996, p. 20]])
 
 ## Research Coverage and Gaps
 

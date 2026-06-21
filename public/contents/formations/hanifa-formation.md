@@ -6,7 +6,7 @@ aliases:
 canonical: true
 age: "Jurassic"
 basin: "Arabian Basin"
-lithology: "Carbonate"
+lithology: "limestone and calcarenitic limestone"
 reservoir_status: "producer"
 tags:
   - formation/hanifa-formation
@@ -21,81 +21,84 @@ sources:
   - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
   - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Hanifa Formation
 
-**Summary**: A carbonate reservoir in the Berri field.
+**Summary**: A Jurassic carbonate formation characterized by shallow water limestone.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2001-al-khalifa|Al-Khalifa, 2001]] studied the Hanifa formation to model porosity distribution.
+- [[2001-al-khalifa|Al-Khalifa, 2001]] investigated the Hanifa Formation as the primary reservoir of interest.
 
-- [[2015-elzain|Elzain, 2015]] studied the Hanifa Formation to characterize its reservoir properties and lithofacies.
+- [[2015-elzain|Elzain, 2015]] studied the Hanifa Formation to characterize the Ulayyah Member.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Hanifa formation for porosity and permeability.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Hanifa Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2022-syahputra|Syahputra, 2022]] studied the Hanifa Formation (specifically the Ulayyah Member) to analyze the spatial patterns of a burrowed stratum.
+- [[2022-syahputra|Syahputra, 2022]] studied the Hanifa Formation to understand burrowed strata.
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] analyzed the Hanifa formation as a representative of offshore to shoreface environments.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] studied the Hawtah member to compare its pore systems and mechanical properties with the Qusaiba Member.
 
-- [[2022-salih|Salih, 2022]] investigated the impact of bioturbation on sonic velocity in the Hanifa Formation.
+- [[2022-salih|Salih, 2022]] investigated the impact of burrow fill on the acoustic velocity of the Hanifa Formation.
 
-- [[2022-bashri|Bashri, 2022]] studied the hanifa-formation to characterize its reservoir potential and depositional history.
+- [[2022-bashri|Bashri, 2022]] studied the Hanifa Formation to characterize its reservoir properties and depositional model.
 
-- [[2024-allehyani|allehyani, 2024]] investigated the Hanifa Formation to understand bioturbation's effect on seismic signatures.
+- [[2024-allehyani|allehyani, 2024]] investigated the Hanifa Formation's burrowed strata.
 
-- [[2025-refaat|Refaat, 2025]] studied the hanifa-formation to evaluate burrow filling impacts on reservoir quality.
+- [[2025-refaat|Refaat, 2025]] investigated the burrow fillings within the Hanifa Formation to evaluate reservoir quality.
 
 ## Depositional Environment
 
-- [[2001-al-khalifa|Al-Khalifa, 2001]] shallow water, lagoonal and peritidal facies
+- [[2001-al-khalifa|Al-Khalifa, 2001]] shallow water, lagoonal, and peritidal facies
 
-- [[2015-elzain|Elzain, 2015]] studied the Hanifa Formation to characterize its reservoir properties and lithofacies.
+- [[2015-elzain|Elzain, 2015]] studied the Hanifa Formation to characterize the Ulayyah Member.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Hanifa formation for porosity and permeability.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Hanifa Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2022-syahputra|Syahputra, 2022]] studied the Hanifa Formation (specifically the Ulayyah Member) to analyze the spatial patterns of a burrowed stratum.
+- [[2022-syahputra|Syahputra, 2022]] studied the Hanifa Formation to understand burrowed strata.
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] analyzed the Hanifa formation as a representative of offshore to shoreface environments.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] studied the Hawtah member to compare its pore systems and mechanical properties with the Qusaiba Member.
 
-- [[2022-salih|Salih, 2022]] investigated the impact of bioturbation on sonic velocity in the Hanifa Formation.
+- [[2022-salih|Salih, 2022]] investigated the impact of burrow fill on the acoustic velocity of the Hanifa Formation.
 
-- [[2022-bashri|Bashri, 2022]] studied the hanifa-formation to characterize its reservoir potential and depositional history.
+- [[2022-bashri|Bashri, 2022]] studied the Hanifa Formation to characterize its reservoir properties and depositional model.
 
-- [[2024-allehyani|allehyani, 2024]] investigated the Hanifa Formation to understand bioturbation's effect on seismic signatures.
+- [[2024-allehyani|allehyani, 2024]] investigated the Hanifa Formation's burrowed strata.
 
-- [[2025-refaat|Refaat, 2025]] studied the hanifa-formation to evaluate burrow filling impacts on reservoir quality.
+- [[2025-refaat|Refaat, 2025]] investigated the burrow fillings within the Hanifa Formation to evaluate reservoir quality.
 
 ## Reservoir Properties
 
-- [[2001-al-khalifa|Al-Khalifa, 2001]] Porosity varies across different facies.
+- [[2001-al-khalifa|Al-Khalifa, 2001]] Porosity varies by zone; higher in upper grainstones.
+
+## Diagenetic History
+
+- [[2001-al-khalifa|Al-Khalifa, 2001]] minor effect of diagenesis; primary intergranular porosity is dominant.
 
 ## Key Findings Across Sources
 
-- The Hanifa Reservoir contains various facies and requires multi-scale data integration for accurate modeling. ([[2001-al-khalifa|Al-Khalifa, 2001, p. 13]])
+- The Hanifa Formation is a large-scale coarsening- and shallowing-upward carbonate platform sequence approximately 500 feet thick. ([[2001-al-khalifa|Al-Khalifa, 2001, p. 35]])
 
-- The formation contains high-frequency sequences with a maximum porosity of 32-25% in specific grainstone facies. ([[2015-elzain|Elzain, 2015, p. 13]])
+- The Ulayyah member of the Hanifa formation is composed of medium- to thick-bedded, mostly grainy limestones. ([[2015-elzain|Elzain, 2015, p. 12]])
 
-- Hanifa mudstone showed moldic porosity and dolomitization. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 62]])
+- The Hanifa Formation showed a Dykstra-Parsons coefficient of 0.799. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
 
-- The Ulayyah Member shows excellent porosity ranging from 5-32% in major fields like Abqaiq and Berri. ([[2022-syahputra|Syahputra, 2022, p. 17]])
+- The Ulayyah Member of the Hanifa Formation contains high porosity (5-32%) and is a major reservoir. ([[2022-syahputra|Syahputra, 2022, p. 17]])
 
-- TML exhibits less brittleness than Hanifa due to higher clay content and more abundant laminations. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 19]])
+- TML (part of this study's comparison) showed less brittleness than Hanifa due to higher clay content. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 20]])
 
-- Velocity in this formation is more strongly correlated with porosity (R2=0.7) than permeability. ([[2022-salih|Salih, 2022, p. 88]])
+- The formation is characterized by high mineralogical diversity and significant bioturbation. ([[2022-salih|Salih, 2022, p. 104]])
 
-- The formation exhibits a homoclinal ramp model in the Hawtah Member and a reef-bearing ramp in the Ulayyah Member. ([[2022-bashri|Bashri, 2022, p. 52]])
+- The formation is divided into Hawtah (mid-Oxfordian) and Ulayyah (late-Oxfordian) members. ([[2022-bashri|Bashri, 2022, p. 43]])
 
-- The formation contains a mixture of argillaceous limestone and pure carbonate. ([[2024-allehyani|allehyani, 2024, p. 13]])
+- The upper part of Hanifa has a grainy carbonate lithology with burrowed intervals and represents a good hydrocarbon reservoir. ([[2024-allehyani|allehyani, 2024, p. 33]])
 
-- The Hanifa Formation contains significant bioturbated strata with distinct burrowing styles (pipe framework and bio-retexturing). ([[2025-refaat|Refaat, 2025, p. 3]])
+- The Ulayyah Member of the Hanifa Formation contains both mud-rich and mud-poor packstones with varying degrees of dolomitization. ([[2025-refaat|Refaat, 2025, p. 39]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

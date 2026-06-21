@@ -2,18 +2,20 @@
 type: terminology
 title: "Adsorption Isotherms"
 aliases:
-  - "isotherms"
+  - "Langmuir"
+  - "Freundlich"
 canonical: true
-definition: "The relationship between the amount of adsorbate on an adsorbent and its concentration in solution."
-units: "not applicable"
+definition: "Equilibrium relationship between solute and adsorbent."
+units: "mg/g"
 related_techniques:
-  - "icp-oes"
+  - "adsorption-experiments"
 tags:
   - theme/water-treatment
 sources:
-  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
+  - "raw/140210 - A STUDY OF THE ADSORPTIONDESORPTION OF METHANECARBON DIOXIDE ON THE SURFACE OF D.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Adsorption Isotherms
@@ -24,22 +26,28 @@ last_updated: 2026-06-09
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-siddiq|Siddiq, 2021]] applied adsorption isotherms to determine the mechanism of sorption.
+- [[2015-danmaliki|Danmaliki, 2015]] analyzed adsorption isotherms to determine capacity and favorability.
+
+- [[2016-elnaeem|Elnaeem, 2016]] analyzed adsorption isotherms to determine the best mathematical model for different rock types.
 
 ## Scientific Context
 
-- [[2021-siddiq|Siddiq, 2021]] Identifies whether adsorption is occurring on a homogeneous or heterogeneous surface.
+- [[2015-danmaliki|Danmaliki, 2015]] Determines the maximum capacity and affinity of the material.
+
+- [[2016-elnaeem|Elnaeem, 2016]] analyzed adsorption isotherms to determine the best mathematical model for different rock types.
 
 ## Measurement and Characterization Methods
 
-- [[2021-siddiq|Siddiq, 2021]] Batch experiments with varying initial concentrations.
+- [[2015-danmaliki|Danmaliki, 2015]] Plotting equilibrium data against concentration.
 
 ## Key Findings Across Sources
 
-- Freundlich model best described the mechanism as it has the highest R2 (0.9609) and very similar trend with actual values. ([[2021-siddiq|Siddiq, 2021, p. 53]])
+- The Freundlich isotherm model yielded a better fit than the Langmuir model. ([[2015-danmaliki|Danmaliki, 2015, p. 188]])
+
+
+- Langmuir isotherm poorly fit experimental data, while Freundlich and BET models showed excellent fits (R2 > 0.98). ([[2016-elnaeem|Elnaeem, 2016, p. 46]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

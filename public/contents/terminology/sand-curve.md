@@ -2,44 +2,44 @@
 type: terminology
 title: "Sand Curve"
 aliases:
-  - "the sand curve"
+  - "traditional sand curve"
 canonical: true
-definition: "A polynomial relationship between sand thickness and time-in-sand."
-units: "ms"
+definition: "An empirical curve relating time-in-sand to the thickness of a sand layer."
+units: "ms vs meters"
 related_techniques:
-  - "seismic-processing"
+  - "velocity-analysis"
 tags:
-  - theme/near-surface-geophysics
+  - theme/static-corrections
 sources:
   - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Sand Curve
 
-**Summary**: A standard method for calculating time-in-sand based on the thickness of the sand layer.
+**Summary**: An empirical relationship used to convert time-in-sand into a corresponding thickness or elevation.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-aljishi|AlJishi, 2022]] evaluated and adjusted the sand_curve to improve accuracy in desert environments.
+- [[2022-aljishi|AlJishi, 2022]] evaluated the limitations of the traditional Sand Curve and proposed an adaptive version.
 
 ## Scientific Context
 
-- [[2022-aljishi|AlJishi, 2022]] Standard industry method for correcting seismic data in areas with significant surface sand layers.
+- [[2022-aljishi|AlJishi, 2022]] Used specifically in desert environments with high-contrast sand/sabkha boundaries.
 
 ## Measurement and Characterization Methods
 
-- [[2022-aljishi|AlJishi, 2022]] Traditionally based on physical measurements of thickness; proposed as a data-driven adjustment.
+- [[2022-aljishi|AlJishi, 2022]] Fitting polynomial functions to time-thickness data.
 
 ## Key Findings Across Sources
 
-- The proposed data-driven approach provides an alternative to the traditional Sand Curve by using autocorrelation signatures. ([[2022-aljishi|AlJishi, 2022, p. 16]])
+- The standard Sand Curve is often limited by specific data ranges (e.g., 105m) and can be improved with local data points. ([[2022-aljishi|AlJishi, 2022, p. 47]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -15,205 +15,347 @@ source_file: "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).
 url: "https://eprints.kfupm.edu.sa/id/eprint/142812/"
 study_area: "Not stated in source"
 keywords:
-  - Thermochemical fluids (TCFs)
-  - Fracture cleanup
-  - Reaction kinetics
-  - Emulsification
-  - Frac fluids breakers
-  - Guar gum
-  - Viscosity measurement
-  - Coreflood experiments
+  - thermochemical fluids (TCFs)
+  - fracture cleanup
   - reaction kinetic
-  - hydrothermal degradation
+  - emulsification
   - polymer-based fracturing fluids
-  - sodium nitrite
-  - ammonium chloride
-  - viscosity reduction
-  - polymer degradation
-  - emulsion breaking
-  - water-blocking
   - nitrogen generation
   - Thermochemical Fluids
   - Characterization
   - Rheology
   - Sustainability
   - Controlled Reactivity
-  - pH adjustment
-  - acid-in-diesel
-  - hydrothermal treatment
-  - hydroxypropyl guar (HPG)
-  - carboxymethyl hydroxypropyl guar (CMHPG)
-  - viscosity
-  - thermal degradation
-  - hydrogenation
-  - nitrogen gas generation
-  - nitrogen/heat generating reaction
-  - tight gas reservoirs
+  - viscosity reduction
+  - polymer degradation
+  - hydrogen peroxide
+  - ammonium chloride
+  - sodium nitrite
+  - nitrogen gas
 techniques:
-  - viscosity-measurement
-  - thermal-gravimetric-analysis
-  - core-flooding
-  - thin-section-petrography
-  - autoclave-testing
-  - zeta-potential-analysis
-  - ftir
-  - tga
-  - coreflood
-  - gel-permeation-chromatography
-  - thermogravimetric-analysis
-  - differential-scanning-calorimetry
-  - gc-ms
-  - nmr-logging
-  - reservoir-simulation
   - water-displacement-method
   - pvt-cell
   - ph-measurement
-  - calculation-of-initial-and-average-reaction-rates
+  - ftir
+  - tga
+  - viscosity-measurement
+  - coreflood
   - conductivity-measurement
+  - thin-section-petrography
   - dynamic-light-scattering
   - drop-shape-analysis
   - zeta-potential-measurement
-  - high-shear-mixing
-  - coreflood-experiments
-  - thermal-shock-test
+  - coreflooding
+  - microscopy
+  - autoclave-testing
+  - rheology-measurement
   - thermal-treatment
-  - kinetic-study
-  - rheology
-  - microemulsion-preparation
 tags:
   - degree/phd
-  - technique/viscosity-measurement
-  - technique/thermal-gravimetric-analysis
-  - technique/core-flooding
-  - technique/ftir
-  - technique/tga
-  - technique/viscositymeasurement
-  - technique/coreflood
-  - technique/gel-permeation-chromatography
-  - technique/thermogravimetric-analysis
-  - technique/differential-scanning-calorimetry
-  - technique/gas-chromatography
-  - technique/nmr-logging
-  - technique/reservoir-simulation
   - technique/water-displacement-method
   - technique/pvt-cell
   - technique/ph-measurement
+  - technique/ftir
+  - technique/tga
+  - technique/viscosity-measurement
+  - technique/coreflooding
   - technique/conductivity-measurement
   - technique/thin-section-petrography
   - technique/dynamic-light-scattering
   - technique/drop-shape-analysis
   - technique/zeta-potential-measurement
-  - technique/core-analysis
   - technique/xrd
   - technique/sem
-  - technique/kinetics
-  - technique/rheology
+  - technique/sem-eds
+  - technique/qemscan
+  - technique/ebsd
+  - technique/cathodoluminescence
+  - technique/ct-scanning
+  - technique/xrf
+  - technique/icp-ms
+  - technique/icp-oes
+  - technique/atomic-absorption-spectrometry
+  - technique/toc-analysis
+  - technique/rock-eval-pyrolysis
+  - technique/gc-ms
+  - technique/nmr
+  - technique/mercury-injection-capillary-pressure
+  - technique/helium-porosity
+  - technique/core-analysis
+  - technique/well-log-analysis
+  - technique/formation-micro-imager
+  - technique/seismic-interpretation
+  - technique/seismic-inversion
+  - technique/seismic-imaging
+  - technique/avo-analysis
+  - technique/velocity-analysis
+  - technique/ground-penetrating-radar
+  - technique/electrical-resistivity-tomography
+  - technique/lidar
+  - technique/gis
+  - technique/kriging
+  - technique/sequential-gaussian-simulation
+  - technique/object-based-modeling
+  - technique/reservoir-simulation
+  - technique/petrel
+  - technique/move
+  - technique/rockworks
+  - technique/interactive-petrophysics
+  - technique/matlab
+  - technique/sieve-analysis
+  - technique/paleomagnetic-analysis
+  - technique/uv-photocatalysis
+  - technique/hplc
+  - technique/remote-sensing
+  - technique/microseismic-monitoring
+  - technique/gravity-surveys
+  - technique/geostatistics
+  - technique/variogram-analysis
+  - technique/machine-learning-geoscience
+  - technique/neural-networks
+  - technique/support-vector-machine
+  - technique/multivariate-regression
+  - technique/rock-magnetism
+  - technique/magnetic-susceptibility
+  - technique/groundwater-modeling
+  - technique/pumping-test
+  - technique/hydrochemical-analysis
+  - technique/tritium-analysis
+  - technique/ion-chromatography
+  - technique/gas-chromatography
+  - technique/uv-vis-spectroscopy
+  - technique/gamma-ray-spectrometry
+  - technique/seismic-processing
+  - technique/reservoir-modeling
+  - technique/basin-modeling
+  - technique/dfn-modeling
+  - technique/saturation-height-modeling
+  - technique/petrophysics
+  - technique/image-log-analysis
+  - technique/resistivity-logging
+  - technique/microfacies-analysis
+  - technique/biostratigraphy
+  - technique/adsorption-experiments
+  - technique/ozonation
+  - technique/molecular-microbiology
+  - technique/sterenet-analysis
+  - technique/response-surface-methodology
+  - technique/grade-tonnage-analysis
+  - technique/petrography
+  - technique/microscopy
+  - technique/sem-ed
+  - technique/gps
+  - technique/pca
+  - technique/stable-isotope-analysis
+  - technique/signal-processing
+  - technique/tem
+  - technique/micro-ct-scanning
+  - technique/uv-vis
+  - technique/gc-fid
+  - technique/bet
+  - technique/mathematical-modeling
+  - technique/sequence-stratigraphy
+  - technique/lithostratigraphy
+  - technique/ray-tracing
+  - technique/lithofacies-analysis
+  - technique/finite-difference-modeling
+  - technique/spectral-analysis
+  - technique/dsc
+  - technique/forward-modeling
+  - technique/impulse-hammer
+  - technique/hcpc
+  - technique/microxrf
+  - technique/petrology
+  - technique/triaxial-test
+  - technique/linear-regression
+  - technique/factor-analysis
+  - technique/hilbert-transform
+  - technique/schmidt-hammer
+  - technique/geomechanics
+  - technique/edx
+  - technique/magnetic-surveys
+  - technique/core-flooding
+  - technique/u-pb-dating
+  - technique/icp
+  - technique/cokriging
+  - technique/multi-attribute-analysis
+  - technique/latin-hypercube-sampling
+  - technique/micromanipulation
+  - technique/bioremediation
+  - technique/sgr
+  - technique/fuzzy-logic
+  - technique/sedimentology
+  - technique/paleocurrent-analysis
+  - technique/point-load-test
+  - technique/microbiology
+  - technique/multivariate-analysis
+  - technique/regression-analysis
+  - technique/spme
+  - technique/ultrasonic-velocity-measurement
+  - technique/uniaxial-compression-test
+  - technique/spectral-decomposition
+  - technique/minitab
+  - technique/k-means-clustering
+  - technique/morphology-analysis
+  - technique/liquid-liquid-extraction
+  - technique/seismic-facies-analysis
+  - technique/laser-diffraction
+  - technique/chemostratigraphy
+  - technique/rock-physics
+  - technique/in-sar
+  - technique/electrochemistry
+  - technique/fracture-characterization
+  - technique/statistical-analysis
+  - technique/general-geochemistry
+  - technique/micro-ct-scan
+  - technique/triaxial-testing
+  - technique/image-analysis
+  - technique/scratch-test
+  - technique/rheology-measurement
+  - technique/dbscan
+  - technique/cnn
+  - technique/python
+  - technique/wrf
+  - technique/dem-modeling
+  - technique/velocity-modeling
+  - technique/rock-physics-modeling
+  - technique/finite-element-modeling
+  - technique/lineament-analysis
+  - technique/epma
+  - technique/photogrammetry
+  - technique/magnetotelluric
+  - technique/transient-electromagnetic
+  - technique/mt
+  - technique/amt
+  - technique/shrimp
+  - technique/digital-rock-physics
+  - technique/formation-evaluation
+  - technique/grade-tonenge-analysis
+  - technique/dta
+  - technique/contour-mapping
+  - technique/compositing
+  - technique/thermodemagnetization
+  - technique/principalcomponentanalysis
+  - technique/gaussian-sequential-simulation
+  - technique/varium-analysis
+  - technique/pixe
+  - technique/gamma-ray-log
+  - technique/pice
+  - technique/circuit-simulation
+  - technique/experimental-measurement
+  - technique/heavy-mineral-analysis
+  - technique/trace-element-chemistry
+  - technique/trace-element-geochemistry
+  - technique/collocated-kriging
+  - technique/formel-method
+  - technique/autoscan-method
+  - technique/leak-off-test
+  - technique/lithofacies-modeling
+  - technique/multi-attribute-regression
+  - technique/stratemodel
+  - technique/open-works
+  - technique/geolog
+  - technique/risk-analysis
+  - technique/cvd
+  - technique/arc-discharge
+  - technique/semmeasurement
+  - technique/least-squares-fitting
+  - technique/semblance-measurement
+  - technique/least-mean-square-estimation
+  - technique/hydrogeology
+  - technique/water-treatment
+  - technique/environmental-risk-assessment
+  - technique/thermal-treatment
   - theme/petroleum-engineering
   - theme/reservoir-engineering
-  - theme/well-stimulation
   - theme/chemical-flooding
-  - theme/hydraulic-fracturing
   - terminology/viscosity
-  - terminology/fractured-reservoirs
-  - terminology/reactivity
   - terminology/permeability
-  - terminology/emulsion-breaking
-  - terminology/water-blocking
+  - terminology/saturation-height-modeling
+  - terminology/kinetics
+  - terminology/chemical-flooding
+  - terminology/rheology
+  - terminology/reactivity
+  - terminology/emulsification
+  - terminology/power-law-model
+  - terminology/adsorption
+  - terminology/interfacial-tension
+  - terminology/shear-thinning
 status: ingested
 ---
 
 # FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs)
 
-**Summary**: The thesis investigates the use of thermochemical fluids (TCFs), specifically sodium nitrite and ammonium chloride, as agents for cleaning up polymer-based fracturing fluids. The study evaluates their reaction kinetics, emulsification in diesel to improve stability, and their effectiveness in breaking down guar gum derivatives during coreflood experiments.
+**Summary**: The thesis investigates the use of thermochemical fluids (TCFs), specifically sodium nitrite and ammonium chloride, as agents for cleaning up polymer-based fracturing fluids. It evaluates their reaction kinetics under thermal activation, their behavior in emulsions, and their effectiveness in removing trapped water and degrading polymers in low-permeability formations.
 
 ---
 
 ## Research Problem
 
-Fracture cleanup is critical for success in hydraulic fracturing; however, polymer-based fracturing fluids can cause significant damage (up to 99% in injection wells) by creating filter cakes and reducing permeability. Existing methods like oxidizers or acids may have timing issues or limited effectiveness in certain conditions.
+The accumulation of polymer-based fracturing fluids and the resulting entrapment of water in low-permeability formations (such as shale) cause significant damage to well productivity. Existing methods like acid treatment or oxidizers have limitations, necessitating more efficient ways to degrade polymers and reduce viscosity while simultaneously generating gas to lower hydrostatic pressure.
 
 ## Objectives
 
-- Study the reaction kinetics of TCFs activated thermally.
-- Explore the emulsification of TCFs in diesel to form water-in-oil emulsions for improved stability.
-- Evaluate the impact of emulsification and pH adjustments on the reactivity of TCFs.
-- Investigate the potential of TCFs as cleanup agents for polymer-based fracturing fluids (guar gum, HPG, CMHPG).
 - Investigate the potential use of thermochemical fluids (TCFs) for fracture fluid cleanup.
 - Investigate the use of thermochemical fluids with conventional breakers.
 - Study the reaction kinetic of the thermochemical fluids activated by heat.
-- Assess the emulsification and pH adjustment on the reactivity control of TCFs.
-- Investigate the reaction kinetics of TCFs activated thermally.
-- Explore the emulsification of TCFs in diesel to form water-in-oil emulsions.
-- Examine how emulsification and pH adjustments impact fracture cleanup.
-- Evaluate the potential of TCFs as agents for reducing viscosity and degrading polymer chains.
-- Examine how emulsification and pH adjustments impact the reactivity of the system.
-- Study the reaction kinetics of thermally activated TCFs
-- Explore the emulsification of TCFs in diesel to form water-in-oil emulsions
-- Examine how emulsification and pH adjustments impact the properties of TCFs for fracture cleanup applications
-- Investigate the potential application of TCFs as fracture cleanup agents.
-- Examine how emulsification and pH adjustments impact the reactivity of TCFs.
-- Examine how emulsification and pH adjustments impact the reactivity and sustainability of TCFs.
-- Assess the potential of TCFs for cleaning up polymer-based fracturing fluids (HPG and CMHPG).
-- Examine how emulsification and pH adjustments impact the performance of TCFs as cleanup agents.
-- Evaluate the thermal degradation of fracturing fluid polymers (GG, HPG, CMHPG) using TCFs.
-- Assess the suitability of TCFs as cleanup fluids through coreflood experiments.
-- Examine how emulsification and pH adjustments impact the performance of TCFs.
-- Assess the impact of TCFs as cleanup fluids through coreflood experiments.
-- Examine how emulsification and pH adjustments impact the performance of these systems.
+- Explore the emulsification of TCFs in diesel using different surfactants to form water-in-oil emulsions.
+- Study the reaction kinetics of TCFs (NaNO2/NH4Cl) under varying concentrations and temperatures.
+- Evaluate the impact of pH and salinity on the reactivity of thermochemical fluids.
 
 ## Methods
 
-The study involved preparing TCFs in diesel at a 70/30 vol% ratio. Three emulsifiers (A, B, C) were used to create water-in-oil (WO) emulsions. Characterization included conductivity measurements using an EUTECH CyberScan PCD650, viscosity measurements via Anton Paar RheoCompass over various temperatures and shear rates, droplet size distribution analysis using dynamic light scattering (Anton Paar Analyzer 500), surface tension and interfacial tension (IFT) measurement using drop shape analysis (DSA-100), pH measurement with a benchtop meter, and zeta potential measurement for emulsifier characterization in bentonite suspensions.
+The study utilized several experimental techniques: 1. Emulsion Preparation: High shear rate Silverson-L5M-A mixer was used to create water-in-oil emulsions of TCFs in diesel with three different emulsifiers (Emulsifier-A, B, and C) at concentrations of 1%, 3%, and 5%. 2. pH Measurement: Thermo Scientific Orion Star A111 Benchtop pH Meter was used for measurement. 3. Autoclave Testing: Two autoclaves were used; one to study emulsification effects (OLT-HP-500) and another to study the impact of pH and initial pressure on non-emulsified TCFs. 4. Analytical Characterization: FTIR was used to identify functional groups in polymers, and TGA was used to determine thermal stability and decomposition temperatures. 5. Viscosity Measurement: Chandler Engineering Viscometer Model 5550 was used for viscosity measurements under various shear rates and temperatures. 6. Coreflooding: Conducted on Indiana limestone and Berea sandstone core plugs to evaluate the cleanup of fracturing fluids.
 
 ## Data and Materials
 
-The study utilized thermochemical salts (sodium nitrite and ammonium udallium chloride) at concentrations of 1-5 M. Three types of emulsifiers (A, B, and C) were tested for TCF emulsification in diesel. Polymer-based fracturing fluids included hydroxypropyl guar (HPG), carboxymethyl hydroxypropyl guar (CMHPG), and slickwater formulations.
+The study utilized sodium nitrite (NaNO2) and ammonium chloride (NH4Cl) of ACS reagent grade. Deionized water (18.2 MΩ·cm) was used for solution preparation. Polymer samples included HPG (hydroxypropyl guar) and CMHPG (carboxymethyl hydroxypropyl guar). Experimental designs involved varying salt concentrations (1-5 M), temperatures (50-90°C or 70-80-90°C in specific tests), and different emulsifiers (A, B, C).
 
 ## Key Findings
 
-- The reaction kinetics of NaNO2 and NH4Cl were found to be significantly influenced by concentration, temperature, and pH levels in a closed system. ([[2024-abdallah|Abdallah, 2024, p. 35]])
-- Emulsification of TCFs in diesel with 1% and 5% emulsifier concentrations resulted in distinct droplet size distributions and polydispersity indices (PDI). ([[2024-abdallah|Abdallah, 2024, p. 67]])
-- The viscosity of 70% emulsified NH4Cl and NaNO2 in diesel was measured across a temperature range of 25 to 90°C. ([[2024-abdallah|Abdallah, 2024, p. 71]])
-- TGA analysis revealed the heating properties and thermal stability of various thermochemical fluids. ([[2024-abdallah|Abdallah, 2024, p. 124]])
-- Coreflood experiments confirmed the potential of TCFs to act as cleanup agents by reducing the viscosity of polymer-based fracturing fluids. ([[2024-abdallah|Abdallah, 2024, p. 130]])
-- Ammonium chloride exhibited a higher order than sodium nitrite, with excess NH4Cl enhancing the reaction due to its catalytic effects. ([[2024-abdallah|Abdallah, 2024, p. 19]])
-- The obtained kinetics (dc/dt = -7.66 x 10^11 Co^2.45 e^(-91.44 kJ/mol)/RT) differed from literature, impacting practical reactivity control. ([[2024-abdallah|Abdallah, 2024, p. 19]])
-- Emulsifier-A proved most effective for creating water-in-oil emulsions and enhancing thermal stability compared to Emulsifiers B and C. ([[2024-abdallah|Abdallah, 2024, p. 20]])
+- The reaction kinetics of the thermochemical fluids followed a specific rate equation: dc/dt = -7.66 x 10^11 Co^2.45 e^(-91.44 kJ/mol)/RT. ([[2024-abdallah|Abdallah, 2024, p. 50]])
+- Ammonium chloride exhibited a higher order than sodium nitrite, with excess NH4Cl enhancing the reaction due to its catalytic effects. ([[2024-abdallah|Abdallah, 2024, p. 50]])
+- Emulsifier-A proved most effective for creating water-in-oil (WO) emulsions and enhancing thermal stability. ([[2024-abdallah|Abdallah, 2024, p. 20]])
 - Coreflood results indicated permeability regain of 87% for HPG borate-crosslinked, 96% for CMHPG dual crosslinked, and 90% for slickwater fracturing fluids. ([[2024-abdallah|Abdallah, 2024, p. 20]])
 - Thermally treated slickwater outperformed slickwater with an ammonium persulfate breaker in permeability regain. ([[2024-abdallah|Abdallah, 2024, p. 20]])
-- The reaction of NaNO2 + NH4Cl is irreversible with Keq = 3.9x10^71 Pa*mole*m^-3 at 25C. ([[2024-abdallah|Abdallah, 2024, p. 26]])
-- Thermochemical fluids (TCFs) can produce 132,500 Btu heat/bbl solution and 400 scf of N2 gas per 3-M solution. ([[2024-abdallah|Abdallah, 2024, p. 43]])
-- The use of TCFs was shown to reduce capillary pressure by 57%, which positively impacts fracture fluids cleanup. ([[2024-abdallah|Abdallah, 2024, p. 37]])
-- Thermochemical treatment can increase the temperature of a system from 100°C to approximately 170°C, and was shown to remove 72% of W/O emulsion from core samples. ([[2024-abdallah|Abdallah, 2024, p. 44]])
-- page_number_not_specified_in_source ([[2024-abdallah|Abdallah, 2024]])
+- The reaction of NaNO2 and NH4Cl is irreversible with Keq = 3.9 x 10^71 Pa·mol·m-3 at 25°C. ([[2024-abdallah|Abdallah, 2024, p. 26]])
+- Thermochemical treatment was found to decrease capillary pressure by 57% which will impact positively frac fluids cleanup. ([[2024-abdallah|Abdallah, 2024, p. 37]])
+- Reaction kinetics showed that the reaction order was nearly first-order for NaNO2 (0.967) and approximately 1.5 for NH4Cl (1.479). ([[2024-abdallah|Abdallah, 2024, p. 64]])
+- The apparent Arrhenius activation energy for the thermally activated reaction was determined to be 91.44 kJ/mol. ([[2024-abdallah|Abdallah, 2024, p. 46]])
+- Reactivity of the nitrogen/heat generating system was significantly influenced by pH, with a solution at pH 6.54 showing over 20 times higher initial reaction rate than one at pH 8.54. ([[2024-abdallah|Abdallah, 2024, p. 39]])
+- Water salinity had a negligible impact on the reactivity of the nitrogen/heat generating system, though it was observed that TCFs prepared in formation water showed foamability. ([[2024-abdallah|Abdallah, 2024, p. 40]])
+- Emulsifier-A provided the most effective emulsification capability, resulting in higher viscosity and smaller droplet size distributions compared to other emulsifiers. ([[2024-abdallah|Abdallah, 2024, p. 55]])
+- The TCFs/diesel emulsions exhibited pseudoplastic fluid characteristics (shear thinning) and followed the power-law model. ([[2024-abdallah|Abdallah, 2024, p. 72]])
+- Increasing emulsifier concentration from 1% to 5% improved emulsion stability and increased viscosity across all systems. ([[2024-abdallah|Abdallah, 2024, p. 69]])
+- The average frequency factor (A) for the reaction was calculated as 7.66 x 10^11. ([[2024-abdallah|Abdallah, 2024, p. 46]])
 
 ## Limitations
 
-Not stated in source
+The study notes that while emulsification is effective for controlling reactivity, it may not prevent reactions if the medium becomes highly acidic (pH < 6) or if the system is subjected to high shear during injection.
 
 ## Recommendations and Future Work
 
-The study suggests that the choice of emulsifier concentration should be based on well temperatures, and a demulsifier (including acids) might be injected to break the emulsion and activate TCFs for specific downhole applications.
+Future work will include studying the effect of triggering temperatures, volume fraction of TCFs, and individual/in combination TCFs emulsified on the reactivity of TCFs using an autoclave reactor. The study suggests that for low depths (low pressure), pH adjustment is effective, while for greater depths (high pressure), emulsification is preferred.
 
 ## Related Concepts
 
-- [[viscosity-measurement]]
-- [[core-flooding]]
-- [[thermal-gravimetric-analysis]]
-- [[viscosity]]
-- [[fractured-reservoirs]]
-- [[reservoir-engineering]]
-- [[petroleum-engineering]]
-- [[saudi-arabia]]
 - [[ftir]]
 - [[tga]]
-- [[coreflood]]
-- [[reactivity]]
+- [[coreflooding]]
+- [[viscosity]]
 - [[permeability]]
-- [[gel-permeation-chromatography]]
-- [[thermogravimetric-analysis]]
-- [[emulsion-breaking]]
-- [[water-blocking]]
-- [[well-stimulation]]
+- [[reservoir-engineering]]
+- [[saturation-height-modeling]]
+- [[kinetics]]
+- [[viscosity-measurement]]
 - [[dynamic-light-scattering]]
-- [[drop-shape-analysis]]
+- [[chemical-flooding]]
+- [[rheology]]
+- [[petroleum-engineering]]
+- [[reactivity]]
+- [[emulsification]]
+- [[power-law-model]]
+- [[adsorption]]
+- [[interfacial-tension]]
+- [[shear-thinning]]
+- [[core-flooding]]

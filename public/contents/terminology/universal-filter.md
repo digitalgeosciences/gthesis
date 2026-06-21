@@ -2,44 +2,44 @@
 type: terminology
 title: "Universal Filter"
 aliases:
-  - "current-mode universal filter"
+  - "multi-function filter"
 canonical: true
-definition: "A versatile filtering network that provides multiple modes of operation through parameter tuning rather than structural changes."
+definition: "A circuit that can perform multiple filtering functions without changing topology."
 units: "not applicable"
 related_techniques:
   - "circuit-simulation"
 tags:
-  - theme/electronics
+  - theme/electrical-engineering
 sources:
   - "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Universal Filter
 
-**Summary**: A circuit capable of producing multiple filter responses (lowpass, highpass, bandpass, notch, allpass) without changing its physical configuration.
+**Summary**: A circuit capable of providing multiple types of filtering responses (lowpass, highpass, etc.) without changing its physical configuration.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] proposed a current-mode universal filter using unity gain cells to realize five different responses.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] developed a universal-filter that can provide five different responses by adjusting internal parameters.
 
 ## Scientific Context
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Useful in integrated systems where space and hardware reconfiguration are limited.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Simplifies the design of systems requiring multiple filter types in a single hardware footprint.
 
 ## Measurement and Characterization Methods
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Evaluated by measuring gain and phase across a range of frequencies.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Analyzed via frequency response (magnitude and phase).
 
 ## Key Findings Across Sources
 
-- The proposed universal filter can realize lowpass, band1pass, highpass, notch, and allpass responses without changing the circuit topology. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 100]])
+- The proposed filter provides lowpass, bandpass, and highpass responses simultaneously in some configurations. ([[1997-al-gahtani-2|Al-Gahtani, 1997, p. 138]])
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Not specified.
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

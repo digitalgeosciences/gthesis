@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "soil water flux and root water uptake calculations"
+output: "Simulated soil water content and root water uptake rates."
 tags:
   - technique/hydrology-modeling
   - theme/hydrogeology
 sources:
   - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Hydrology Modeling
 
-**Summary**: Numerical modeling of water movement in the soil zone.
+**Summary**: Numerical modeling of water movement in variably saturated porous media.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-prasetyo|Prasetyo, 2024]] used HYDRUS-1D to simulate root water uptake (RWU) and evaluate irrigation efficiency.
+- [[2024-prasetyo|Prasetyo, 2024]] used HYDRUS-1D to simulate root water uptake (RWU) and soil water balance.
 
 ## Instruments and Software
 

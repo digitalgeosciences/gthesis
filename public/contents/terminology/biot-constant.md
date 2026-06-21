@@ -3,9 +3,9 @@ type: terminology
 title: "Biot Constant"
 aliases:
   - "Biot's constant"
-  - "alpha"
+  - "a"
 canonical: true
-definition: "A factor relating total stress to effective stress in a porous medium."
+definition: "a = 1 - (K_dry / K_dry-saturated)"
 units: "dimensionless"
 related_techniques:
   - "triaxial-test"
@@ -14,33 +14,33 @@ tags:
 sources:
   - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Biot Constant
 
-**Summary**: A poroelastic parameter representing the fraction of total stress that is supported by the rock grains.
+**Summary**: A poroelastic parameter representing the fraction of total stress supported by the rock grains.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-elhassan|ElHassan, 2002]] determined Biot's constant from triaxial test data to calculate effective stress and in-situ stress.
+- [[2002-elhassan|ElHassan, 2002]] calculated Biot's constant to evaluate the role of pore fluid in the reservoir's mechanical response.
 
 ## Scientific Context
 
-- [[2002-elhassan|ElHassan, 2002]] Essential for converting total stresses from logs into effective stresses on the rock matrix.
+- [[2002-elhassan|ElHassan, 2002]] Determines the amount of stress borne by rock grains in the presence of pore fluids.
 
 ## Measurement and Characterization Methods
 
-- [[2002-elhassan|ElHassan, 2002]] Derived from triaxial test results using Young's modulus and Poisson's ratio.
+- [[2002-elhassan|ElHassan, 2002]] Calculated from triaxial test results using Young's modulus and Poisson's ratio.
 
 ## Key Findings Across Sources
 
-- Biot's constant was determined using the relationship between bulk moduli (K_m and K_b). ([[2002-elhassan|ElHassan, 2002, p. 114]])
+- Biot's constant values ranged from 0.81 to 0.92 and increased with increasing porosity. ([[2002-elhassan|ElHassan, 2002, p. 123]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

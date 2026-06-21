@@ -11,7 +11,7 @@ tags: []
 sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Mansa Guda Formation
@@ -32,12 +32,15 @@ last_updated: 2026-06-08
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
 - studied the Mansa Guda Formation ([[1993-moallim|Moallim, 1993]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

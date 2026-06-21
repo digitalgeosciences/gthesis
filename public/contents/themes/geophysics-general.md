@@ -1,133 +1,114 @@
 ---
 type: theme
 title: "Geophysics, General"
-aliases: []
+aliases:
+  - "geophysics"
 canonical: true
-description: "Not stated in source"
-key_challenges: "Not stated in source"
-tags: []
+description: "The broad application of physics to study Earth's subsurface."
+key_challenges: "Signal noise and resolution limits."
+tags:
+  - theme/geophysics-general
 sources:
-  - "raw/136092 - DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS.pdf"
+  - "raw/10158 - Application of multi-seismic attributes in estimating reservoir properties..pdf"
   - "raw/136319 - An Innovative Model-based Velocity Integration Procedure with an Application in .pdf"
+  - "raw/138548 - Resolving the Cycle Skip Introduced by the Multi-Layer Static Model using a Hybr.pdf"
   - "raw/138901 - SEISMIC ATTRIBUTES AND ADVANCED COMPUTER ALGORITHM TO PREDICT FORMATION PORE PRE.pdf"
-  - "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
-  - "raw/139094 - Transmission Amplitude Variation with Offset (TAVO).pdf"
-  - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
-  - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
-  - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
-  - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
+  - "raw/139588 - LOG POROSITY AND LITHOLOGY PREDICTION FROM SEISMIC DATA FRONTIER AND TENSLEEP FO.pdf"
+  - "raw/139620 - Improved 3-D Seismic Edge Detection with the Magic Cube Operator.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
-  - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
-  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
   - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
-  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Geophysics, General
 
-**Summary**: Broad research theme addressed in the thesis collection.
+**Summary**: The study of the physical properties of the Earth and its processes.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2009-al-lehyani|Al-Lehyani, 2009]] contributed to the theme of Geophysics General
+- [[1997-al-marhoun|Al-Marhoun, 1997]] applied geophysics-general principles to interpret seismic data.
 
-- [[2010-al-moqbel|Al-Moqbel, 2010]] applied geophysics-general principles to develop a model-based velocity integration procedure.
+- [[2010-al-moqbel|Al-Moqbel, 2010]] Referenced in this thesis.
 
-- [[2013-mark|Mark, 2013]] applied geophysical techniques to predict pore pressure in a deep formation.
+- [[2011-toma|Toma, 2011]] addressed geophysics-general issues regarding seismic data processing and static corrections.
 
-- [[2013-yousif|Yousif, 2013]] used geophysics-general techniques like GPR to image subsurface structures.
+- [[2013-mark|Mark, 2013]] applied geophysics-general techniques to interpret seismic data for drilling safety.
 
-- [[2014-kola|Kola, 2014]] used geophysics-general principles to develop TAVO analysis for VSP data.
+- [[2015-fuad|Fuad, 2015]] used seismic attributes and inversion techniques for reservoir characterization.
 
-- [[2016-edigbue|Edigbue, 2016]] applied geophysics principles to develop a 3D supervirtual interferometry algorithm.
+- [[2015-adetokunbo|Adetokunbo, 2015]] applied geophysics principles to develop new seismic attributes for reservoir characterization.
 
-- [[2016-hassan|Hassan, 2016]] applied geophysics principles, specifically AVOA, to characterize fractures in clastic reservoirs.
+- [[2018-putra|Putra, 2018]] addressed geophysics-general problems regarding array response in non-ideal fields.
 
-- [[2016-ali|Ali, 2016]] applied geophysics-general principles to interpret seismic data for fluid characterization.
+- [[2021-siddiq|Siddiq, 2021]] applied geophysics (SIP) to monitor chemical processes in a porous medium.
 
-- [[2017-almarzooq|Almarzooq, 2017]] applied geophysics principles to address seismic data quality issues in complex surface environments.
+- [[2023-alsahwan|AlSahwan, 2023]] applied geophysics-general techniques to solve water saturation problems.
 
-- [[2018-putra|Putra, 2018]] investigated the impact of geometry on seismic signal quality.
+- [[2023-almarzooq|Almarzooq, 2023]] applied geophysics-general principles to analyze VSP data and seismic signals.
 
-- [[2022-awais|Awais, 2022]] addressed core geophysics problems related to seismic data processing.
-
-- [[2023-alshaibani|AlShaibani, 2023]] used integrated geophysical methods to characterize the anomaly.
-
-- [[2024-felemban|Felemban, 2024]] applied geophysics principles to analyze seismic velocity and time-to-depth conversion.
-
-- [[2024-maigana|Maigana, 2024]] applied geophysics to interpret seismic data from the Tui field.
+- [[2024-felemban|Felemban, 2024]] investigated geophysics-general principles regarding velocity analysis and depth conversion.
 
 ## Key Subtopics
 
+- [[1997-al-marhoun|Al-Marhoun, 1997]] ['seismic attributes', 'signal processing']
 
+- [[2010-al-moqbel|Al-Moqbel, 2010]] Referenced in this thesis.
 
-- [[2010-al-moqbel|Al-Moqbel, 2010]] applied geophysics-general principles to develop a model-based velocity integration procedure.
+- [[2011-toma|Toma, 2011]] addressed geophysics-general issues regarding seismic data processing and static corrections.
 
-- [[2013-mark|Mark, 2013]] applied geophysical techniques to predict pore pressure in a deep formation.
+- [[2013-mark|Mark, 2013]] applied geophysics-general techniques to interpret seismic data for drilling safety.
 
-- [[2013-yousif|Yousif, 2013]] used geophysics-general techniques like GPR to image subsurface structures.
+- [[2015-fuad|Fuad, 2015]] used seismic attributes and inversion techniques for reservoir characterization.
 
-- [[2014-kola|Kola, 2014]] used geophysics-general principles to develop TAVO analysis for VSP data.
+- [[2015-adetokunbo|Adetokunbo, 2015]] applied geophysics principles to develop new seismic attributes for reservoir characterization.
 
-- [[2016-edigbue|Edigbue, 2016]] applied geophysics principles to develop a 3D supervirtual interferometry algorithm.
+- [[2018-putra|Putra, 2018]] addressed geophysics-general problems regarding array response in non-ideal fields.
 
-- [[2016-hassan|Hassan, 2016]] applied geophysics principles, specifically AVOA, to characterize fractures in clastic reservoirs.
+- [[2021-siddiq|Siddiq, 2021]] applied geophysics (SIP) to monitor chemical processes in a porous medium.
 
-- [[2016-ali|Ali, 2016]] applied geophysics-general principles to interpret seismic data for fluid characterization.
+- [[2023-alsahwan|AlSahwan, 2023]] applied geophysics-general techniques to solve water saturation problems.
 
-- [[2017-almarzooq|Almarzooq, 2017]] applied geophysics principles to address seismic data quality issues in complex surface environments.
+- [[2023-almarzooq|Almarzooq, 2023]] applied geophysics-general principles to analyze VSP data and seismic signals.
 
-- [[2018-putra|Putra, 2018]] investigated the impact of geometry on seismic signal quality.
-
-- [[2022-awais|Awais, 2022]] addressed core geophysics problems related to seismic data processing.
-
-- [[2023-alshaibani|AlShaibani, 2023]] used integrated geophysical methods to characterize the anomaly.
-
-- [[2024-felemban|Felemban, 2024]] applied geophysics principles to analyze seismic velocity and time-to-depth conversion.
-
-- [[2024-maigana|Maigana, 2024]] applied geophysics to interpret seismic data from the Tui field.
+- [[2024-felemban|Felemban, 2024]] investigated geophysics-general principles regarding velocity analysis and depth conversion.
 
 ## Methods and Approaches Used
 
-
+- [[1997-al-marhoun|Al-Marhoun, 1997]] seismic-attribute-analysis
 
 ## Key Findings Across Sources
 
-- contributed to the theme of Geophysics General ([[2009-al-lehyani|Al-Lehyani, 2009]])
+- Not stated in source ([[1997-al-marhoun|Al-Marhoun, 1997]])
 
-- The 3D cube showed that velocity follows regional geological trends, such as eastward dipping horizons. ([[2010-al-moqbel|Al-Moqbel, 2010, p. 56]])
+- Referenced in this thesis. ([[2010-al-moqbel|Al-Moqbel, 2010]])
 
-- Seismic attributes like Instantaneous Frequency and T* Attenuation were used to identify geological features. ([[2013-mark|Mark, 2013, p. 54]])
+- The hybrid approach provided a tool to resolve cycle skips while maintaining consistency with regional projects. ([[2011-toma|Toma, 2011, p. 57]])
 
-- GPR was identified as a superior tool for near-surface investigation compared to seismic due to higher resolution. ([[2013-yousif|Yousif, 2013, p. 18]])
+- Seismic attributes like Vp/Vs and P-Impedance are key indicators of rock properties. ([[2013-mark|Mark, 2013, p. 86]])
 
-- TAVO avoids issues like absorption and wavelet non-stationarity in reflected waves. ([[2014-kola|Kola, 2014, p. 3]])
+- Seismic attributes like amplitude, phase, and frequency provide critical information on bed thickness and lithology. ([[2015-fuad|Fuad, 2015, p. 42]])
 
-- The 3D SVI algorithm successfully addresses ray-path problems in 3D geometries. ([[2016-edigbue|Edigbue, 2016, p. 17]])
+- The proposed method can serve as a complementary tool to other existing seismic attributes. ([[2015-adetokunbo|Adetokunbo, 2015, p. 13]])
 
-- AVOA is an umbrella of techniques using velocity or amplitude anisotropy to identify fracture zones. ([[2016-hassan|Hassan, 2016, p. 68]])
+- Analyzed how various field parameters affect the seismic array's ability to act as a directional filter. ([[2018-putra|Putra, 2018, p. 21]])
 
-- Used seismic attributes and inversion to identify oil and water zones. ([[2016-ali|Ali, 2016, p. 26]])
+- SIP response is both sensitive and distinctive towards the analyzed concentrations of arsenic. ([[2021-siddiq|Siddiq, 2021, p. 47]])
 
-- The investigation focused on signal processing techniques to mitigate environmental effects on seismic waves. ([[2017-almarzooq|Almarzooq, 2017, p. 1]])
+- Seismic refraction and diving direct waves were used to identify saturated zones. ([[2023-alsahwan|AlSahwan, 2023, p. 25]])
 
-- Determined that position errors have a more significant impact than weight errors. ([[2018-putra|Putra, 2018, p. 23]])
+- Direct inversion from corridor stacks proved superior to wavelet-based transformations for this specific application. ([[2023-almarzooq|Almarzooq, 2023, p. 118]])
 
-- Not stated in source ([[2022-awais|Awais, 2022]])
-
-- Integration of seismic and resistivity reduces uncertainty in complex geology. ([[2023-alshaibani|AlShaibani, 2023, p. 14]])
-
-- The research demonstrated that signal processing parameters (like offset limits) directly impact the accuracy of geophysical measurements. ([[2024-felemban|Felemban, 2024, p. 11]])
-
-- Seismic interpretation revealed stacked and isolated channel geometries. ([[2024-maigana|Maigana, 2024, p. 84]])
+- The study demonstrated that offset selection is a critical parameter in the processing stage for accurate T2Z. ([[2024-felemban|Felemban, 2024, p. 11]])
 
 ## Competing Approaches and Debates
 
-
+- [[1997-al-marhoun|Al-Marhoun, 1997]] Signal noise and resolution limits.
 
 ## Open Questions and Research Gaps
 

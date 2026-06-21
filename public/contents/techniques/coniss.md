@@ -3,29 +3,28 @@ type: technique
 title: "Coniss"
 aliases:
   - "CONISS"
-  - "constrained incremental sum of squares"
+  - "constrained incremental-sum-squares clustering"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "sediment contamination zones"
+output: "stratigraphic assemblage zones"
 tags:
   - technique/coniss
-  - theme/environmental-geology
 sources:
   - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Coniss
 
-**Summary**: A hierarchical clustering method used to divide data into zones based on similarity.
+**Summary**: A method used to divide samples into zones based on changes in the assemblage composition.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-nasir|Nasir, 2023]] used CONISS to divide the cores into sediment contamination zones by depth-constrained hierarchical clustering.
+- [[2023-nasir|Nasir, 2023]] applied CONISS to segment foraminiferal assemblages into distinct zones.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Used to identify and compare metal contamination zones with foraminiferal assemblage zones. ([[2023-nasir|Nasir, 2023, p. 59]])
+- Divided Core 25 into four zones and Core 12 into three zones, correlating with metal enrichment periods. ([[2023-nasir|Nasir, 2023, p. 63]])
 
 ## Methodological Variations Across Sources
 

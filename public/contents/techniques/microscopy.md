@@ -2,63 +2,93 @@
 type: technique
 title: "Microscopy"
 aliases:
-  - "light microscopy"
-  - "light micrograph"
+  - "reflected light microscope"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "optical images of cellular structures"
+output: "identification of mineral types and textures"
 tags:
   - technique/microscopy
+  - theme/mineralogy
 sources:
+  - "raw/10050 - A paleomagnetic study of central Harrat Rahat, Western Saudi Arabia.pdf"
+  - "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
+  - "raw/136127 - REMOVAL OF ARSENIC AND MERCURY FROM WATER USING MULTI-WALLED CARBON NANOTUBES.pdf"
   - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
-  - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
+  - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
+  - "raw/139989 - Stability and Texture of CO2N2 Foam in Sandstone.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
-  - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
+  - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
   - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
   - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
   - "raw/142750 - TURONIAN TO SANTONIAN AGGLUTINATED BENTHIC FORAMINIFERA FROM A MARGINAL MARINE H.pdf"
+  - "raw/142820 - Sustaining Hydraulic Conductivity in SoftAcid Damaged Carbonate Fractures Chemic.pdf"
+  - "raw/143158 - METHODS FOR ENHANCING FRACTURING PROPPANT CONDUCTIVITY.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Microscopy
 
-**Summary**: The use of light microscopes to view small samples.
+**Summary**: Examination of mineral grains under a reflected light microscope.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2012-amao|Amao, 2012]] used light microscopy to observe colony composition and cell types.
+- [[1993-kaka|Kaka, 1993]] used microscopy to study the opaque mineralogy of magnetic carriers.
 
-- [[2016-septriandi|Septriandi, 2016]] used microscopy to sort and count foraminiferal specimens from acid residue.
+- [[2006-al-enezi|Al-Enezi, 2006]] used microscopy to identify foraminiferal species in both recent and Miocene samples.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used microscopy for morphological characterization of isolated strains S1, S2, and S3.
+- [[2009-al-khaldi|Al-Khaldi, 2009]] utilized electron microscopy to observe the structure of carbon nanotubes.
 
-- [[2018-amiruddin|Amiruddin, 2018]] used microscopy to observe the mortality of Artemia sp. nauplii during 48-hour exposure.
+- [[2012-amao|Amao, 2012]] used microscopy to identify and characterize the morphometric dimensions of various Hyella species.
 
-- [[2023-nasir|Nasir, 2023]] used binocular microscopy to identify foraminiferal taxa and calculate abundance counts.
+- [[2015-arslan|Arslan, 2015]] used binocular and phase-contrast microscopes to monitor locomotion and attachment of live foraminifera.
 
-- [[2023-prayudi|Prayudi, 2023]] used microscopy to identify foraminiferal species and assess morphological features in the western Arabian Gulf.
+- [[2016-siddiqui|Siddiqui, 2016]] used microscopy via a visual cell to capture foam images for analysis.
 
-- [[2024-alhilali|Alhilali, 2024]] used microscopy for the initial sorting and identification of foraminiferal specimens.
+- [[2016-ibrahim|Ibrahim, 2016]] used microscopy for the morphological identification of isolated strains.
+
+- [[2017-amao|Amao, 2017]] used microscopy for initial identification and counting of foraminiferal specimens.
+
+- [[2023-nasir|Nasir, 2023]] used microscopy to identify and count both living and dead foraminifera in sediment samples.
+
+- [[2023-prayudi|Prayudi, 2023]] used microscopy to assess foraminiferal morphological abnormalities.
+
+- [[2024-alhilali|Alhilali, 2024]] used standard light microscopy for the preparation and analysis of foraminifera samples.
+
+- [[2023-desouky|Desouky, 2023]] used microscopy (specifically AutoScan) to measure the elastic modulus of carbonate rocks.
+
+- [[2024-suleiman-5|Suleiman, 2024]] used microscopy to determine sphericity and roundness of various proppant types.
 
 ## Instruments and Software
 
 
 
-- [[2016-septriandi|Septriandi, 2016]] used microscopy to sort and count foraminiferal specimens from acid residue.
+- [[2006-al-enezi|Al-Enezi, 2006]] used microscopy to identify foraminiferal species in both recent and Miocene samples.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used microscopy for morphological characterization of isolated strains S1, S2, and S3.
+- [[2009-al-khaldi|Al-Khaldi, 2009]] utilized electron microscopy to observe the structure of carbon nanotubes.
 
-- [[2018-amiruddin|Amiruddin, 2018]] used microscopy to observe the mortality of Artemia sp. nauplii during 48-hour exposure.
+- [[2012-amao|Amao, 2012]] used microscopy to identify and characterize the morphometric dimensions of various Hyella species.
 
-- [[2023-nasir|Nasir, 2023]] used binocular microscopy to identify foraminiferal taxa and calculate abundance counts.
+- [[2015-arslan|Arslan, 2015]] used binocular and phase-contrast microscopes to monitor locomotion and attachment of live foraminifera.
 
-- [[2023-prayudi|Prayudi, 2023]] used microscopy to identify foraminiferal species and assess morphological features in the western Arabian Gulf.
+- [[2016-siddiqui|Siddiqui, 2016]] used microscopy via a visual cell to capture foam images for analysis.
 
-- [[2024-alhilali|Alhilali, 2024]] used microscopy for the initial sorting and identification of foraminiferal specimens.
+- [[2016-ibrahim|Ibrahim, 2016]] used microscopy for the morphological identification of isolated strains.
+
+- [[2017-amao|Amao, 2017]] used microscopy for initial identification and counting of foraminiferal specimens.
+
+- [[2023-nasir|Nasir, 2023]] used microscopy to identify and count both living and dead foraminifera in sediment samples.
+
+- [[2023-prayudi|Prayudi, 2023]] used microscopy to assess foraminiferal morphological abnormalities.
+
+- [[2024-alhilali|Alhilali, 2024]] used standard light microscopy for the preparation and analysis of foraminifera samples.
+
+- [[2023-desouky|Desouky, 2023]] used microscopy (specifically AutoScan) to measure the elastic modulus of carbonate rocks.
+
+- [[2024-suleiman-5|Suleiman, 2024]] used microscopy to determine sphericity and roundness of various proppant types.
 
 ## Typical Workflow
 
@@ -66,19 +96,31 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Light micrographs showed various species including Hyella inconstans, H. immanis, and H. salutans. ([[2012-amao|Amao, 2012, p. 40]])
+- Samples with more oxidized titanomagnetite minerals are less susceptible to further alteration during heating. ([[1993-kaka|Kaka, 1993, p. 18]])
 
-- Sorted 300 specimens per sample to determine morphogroup distribution. ([[2016-septriandi|Septriandi, 2016, p. 50]])
+- Identified 51 species of foraminifera within the Dam Formation using microscopic analysis. ([[2006-al-enezi|Al-Enezi, 2006, p. 85]])
 
-- Strain S2 was identified as Chlorella vulgaris based on its spherical shape and thin cell wall. ([[2016-ibrahim|Ibrahim, 2016, p. 50]])
+- Electron micrographs showed distinct features like parallel dark lines corresponding to (002) lattice images of graphite. ([[2009-al-khaldi|Al-Khaldi, 2009, p. 38]])
 
-- Nauplii were considered dead if they did not show any movement for 10 seconds under a microscope. ([[2018-amiruddin|Amiruddin, 2018, p. 72]])
+- SEM revealed that materials from the Arabian Gulf are heavily bored, with evidence of epilithic communities of diatoms. ([[2012-amao|Amao, 2012, p. 50]])
 
-- Identified 20 genera, 8 families, 3 orders, and 2 classes of foraminifera across the study sites. ([[2023-nasir|Nasir, 2023, p. 19]])
+- Observation under a phase-contrast stereo inverted microscope allowed for the tracking of movement rates in Petri plates. ([[2015-arslan|Arslan, 2015, p. 48]])
 
-- Identified various foraminiferal genera such as Monalysidium, Peneroplis, and Ammonia across different sites. ([[2023-prayudi|Prayudi, 2023, p. 95]])
+- Visual evidence confirmed that Witcolate failed to produce any foam. ([[2016-siddiqui|Siddiqui, 2016, p. 73]])
 
-- Microscopy allowed for the differentiation between species like Whiteinella brittonensis and Whiteinella sp. 1 based on aperture size and wall texture. ([[2024-alhilali|Alhilali, 2024, p. 28]])
+- Strain 2 was identified as a small spherical green cell with cup-shaped chloroplasts. ([[2016-ibrahim|Ibrahim, 2016, p. 51]])
+
+- Light microscope images were used to document various species in the study. ([[2017-amao|Amao, 2017, p. 14]])
+
+- Identified 20 genera, 8 families, 3 orders, and 2 classes of foraminifera across the study sites. ([[2023-nasir|Nasir, 2023, p. 34]])
+
+- Foraminifera showed a 25% rate of deformity in the western Gulf. ([[2023-prayudi|Prayudi, 2023, p. 17]])
+
+- Used to identify 59 foraminiferal taxa. ([[2024-alhilali|Alhilali, 2024, p. 13]])
+
+- Acid etching reduced the elastic modulus of Austin chalk by up to 78%. ([[2023-desouky|Desouky, 2023, p. 114]])
+
+- 40/70 sand had a roundness of 0.3, while ceramic had both sphericity and roundness at 0.9. ([[2024-suleiman-5|Suleiman, 2024, p. 40]])
 
 ## Methodological Variations Across Sources
 

@@ -12,101 +12,83 @@ committee_members:
   - "Zhou Wei"
 source_file: "raw/142407 - SCIENTIFIC MACHINE LEARNING FOR MICROSEISMIC HYPOCENTER LOCALIZATION.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142407/"
-study_area: "Utah FORGE field data (applied) and synthetic models (Marmousi and simple velocity model)"
+study_area: "Utah FORGE site, Utah, USA"
 keywords:
-  - microseismic hypocenter localization
-  - Fourier Neural Operators
-  - eikonal equation
-  - data-driven approach
-  - real-time microseismic event localization
   - microseismic monitoring
   - hypocenter localization
-  - Fourier Neural Operator (FNO)
+  - Fourier Neural Operators (FNO)
+  - eikonal equation
+  - real-time microseismic event localization
   - machine learning
-  - geothermal energy
-  - real-time event localization
 techniques:
   - fourier-neural-operators
   - neural-networks
-  - fast-marching-algorithm
-  - fourier-neural-operator-fno
+  - scikit-fmm
   - sonic-log-analysis
-  - distributed-acoustic-sensing-das
+  - distributed-acoustic-sensing
+  - data-analysis
 tags:
   - degree/ms
-  - location/saudi-arabia
-  - location/utahsite
+  - location/utah-site
   - technique/machine-learning-geoscience
   - technique/neural-networks
-  - technique/microseismic-monitoring
-  - theme/geophysics-general
-  - theme/machine-learning-geoscience
+  - technique/signal-processing
+  - technique/well-log-analysis
+  - theme/earthquake-seismology
   - theme/microseismic-monitoring
-  - terminology/eikonal-equation
-  - terminology/earthquake-seismology
   - terminology/hypocenter
+  - terminology/eikonal-equation
 status: ingested
 ---
 
 # SCIENTIFIC MACHINE LEARNING FOR MICROSEISMIC HYPOCENTER LOCALIZATION
 
-**Summary**: The thesis investigates a data-driven approach for real-time microseismic hypocenter localization using Fourier Neural Operators (FNOs) to solve the eikonal equation. The method was validated on synthetic models (Simple and Marmousi) and applied to field data from Utah FORGE, demonstrating high accuracy even under conditions of missing receivers and noise.
+**Summary**: The thesis explores a data-driven approach to microseismic hypocenter localization using Fourier Neural Operators (FNOs) to solve the eikonal equation. The method was tested on synthetic Marmousi models and real field data from the Utah FORGE site, demonstrating robustness against noise and missing receiver data.
 
 ---
 
 ## Research Problem
 
-Traditional methods for microseismic hypocenter localization face limitations in computation and physics, while existing machine learning approaches like PINNs require extensive retraining for every new event or velocity variation. There is a need for a resolution-invariant model that can be evaluated quickly (one forward pass) for real-time monitoring.
+Traditional methods for locating microseismic events face limitations in computation and physics, while existing machine learning approaches often lack generalization or require extensive training for every new velocity model. This study addresses these issues by using FNOs to create a resolution-invariant model capable of real-time localization.
 
 ## Objectives
 
-- Develop a data-driven approach to locate hypocenters using Fourier Neural Operators (FNOs).
-- Build a resolution-invariant model capable of rapid evaluation with one forward pass.
-- Solve the eikonal equation in a data-driven manner using operator learning.
-- Evaluate the proposed method's performance under extreme conditions like missing receivers and high-level noise.
-- Apply the proposed method to real field data (Utah FORGE) to demonstrate practical applicability.
-- Develop an FNO-based framework for hypocenter localization.
-- Evaluate the robustness of the FNO model against varying levels of noise in travel-time observations.
-- Assess the impact of missing receiver data on the accuracy of source location.
-- Validate the FNO model using real microseismic data from the Utah FORGE site.
+- Develop an FNO-based framework for microseismic hypocenter localization.
+- Evaluate the performance of FNO models under conditions of missing receiver data (30%, 40%, and 50% removal).
+- Assess the robustness of the FNO model against different levels of noise injection in travel-time observations.
+- Apply the proposed method to real field data from the Utah FORGE site.
 
 ## Methods
 
-The study utilizes Fourier Neural Operators (FNO) to solve the 2D eikonal equation in a data-driven manner. FNOs are used because they offer reduced time complexity, ability to generalize across different conditions, and do not require specific boundary/initial conditions. For training, travel times from surface receivers are used as input to produce a full travel-time field; the hypocenter is then identified by finding the minimum value in that field. To handle missing receiver data (30%, 40%, 50% removal), a four-layer feed-forward artificial neural network with 60 nodes per layer was implemented to interpolate and extrapolate missing values before FNO processing. The scikit-fmm package's fast marching algorithm was used to calculate true travel times for training on synthetic models.
+The study utilizes Fourier Neural Operators (FNO) to solve the eikonal equation in a data-driven manner. The FNO model is trained on 2D travel-time fields where input and output dimensions are matched by padding. To handle missing receiver data, a four-layer feed-forward neural network was used to interpolate/extrapolate missing values before F10 processing. Synthetic tests were conducted using a simple velocity model and the complex Marmousi model (using scikit-fmm for ground truth). Real data from the Utah FORGE site included sonic log analysis of well 58-32 and Distributed Acoustic Sensing (DAS) picks from well 78-32.
 
 ## Data and Materials
 
-Synthetic datasets based on the Marmousi velocity model with three noise levels; real-world data from the Utah FORGE site including sonic log data from well 58-32 and DAS pick data from well 78-32.
+Synthetic datasets: Simple velocity model (101x151 grid), Marmousi model (751x2301 grid). Real data: Utah FORGE site data including sonic logs from well 58-32 and DAS picks from well 78-32.
 
 ## Key Findings
 
-- The FNO-based method successfully achieved high accuracy in detecting event locations on both simple and complex (Marmousi) velocity models. ([[2023-suleymanli|Suleymanli, 2023, p. 16]])
-- The proposed model is resolution-invariant, allowing for evaluation with a single forward pass instead of retraining. ([[2023-suleymanli|Suleymanli, 2023, p. 16]])
-- The FNO approach showed high accuracy even under extreme conditions such as missing receivers and high-level noise injection. ([[2023-suleymanli|Suleymanli, 2023, p. 16]])
-- A feed-forward neural network (4 layers, 60 nodes each) effectively restored input shapes for the FNO model when receiver data was missing. ([[2023-suleymanli|Suleymanli, 2023, p. 31]])
-- The accuracy of the FNO model degraded only slightly when 30% of receiver data was removed compared to the baseline. ([[2023-suleymanli|Suleymanli, 2023, p. 33]])
-- The accuracy of the FNO model degraded 'reasonably' (more than at 30%) but remained functional when 40% of input data was removed. ([[2023-suleymanli|Suleymanli, 2023, p. 33]])
-- The FNO model showed significant degradation in performance at a 50% missing receiver data rate compared to 40%, but remained sufficiently accurate for localization. ([[2023-suleymanli|Suleymanli, 2023, p. 34]])
-- For the Marmousi model with high-level noise and 30% removal, the maximum deviation on the Z axis was approximately 200 meters (0.07 km), which is only slightly higher than the noise-free case. ([[2023-suleymanli|Suleymanli, 2023, p. 36]])
-- The FNO model's performance remained robust even under high-level noise conditions, showing that it can provide accurate predictions in noisy environments. ([[2023-suleymanli|Suleymanli, 2023, p. 36]])
-- The study successfully demonstrated the real-time event localization capability of the FNO model using data from the Utah FORGE site. ([[2023-suleymanli|Suleymanli, 2023, p. 52]])
+- The FNO model successfully achieved high accuracy in detecting event locations even under extreme conditions such as missing receivers and high terms of noise injection. ([[2023-suleymanli|Suleymanli, 2023, p. 16]])
+- With a 30% removal rate, the precision of location coordinates was only slightly degraded compared to the noise-free case. ([[2023-suleymanli|Suleymanli, 2023, p. 33]])
+- At a 40% removal rate, the accuracy of the FNO model degraded reasonably compared to the 30% removal test. ([[2023-suleymanli|Suleymanli, 2023, p. 33]])
+- At a 50% removal rate, there was a significant degradation in performance due to the increased proportion of missing receiver data, but results remained sufficiently accurate for precise event localization. ([[2023-suleymanli|Suleymanli, 2023, p. 34]])
+- For the Marmousi model with high-level noise (std dev 0.2s) and 30% removal, the maximum deviation on the Z axis was approximately 0.07 km, only slightly higher than the noise-free case. ([[2023-suleymanli|Suleymanli, 2023, p. 36]])
+- The FNO model demonstrated robust performance across three levels of noise (low: 0.05s, mid: 0.1s, high: 0.2s) with only slight decreases in accuracy as noise increased. ([[2023-suleymanli|Suleymanli, 2023, p. 36]])
+- The model successfully demonstrated real-time event localization capabilities on real data from the Utah FORGE site despite limited velocity models and restricted DAS coverage. ([[2023-suleymanli|Suleymanli, 2023, p. 52]])
 
 ## Limitations
 
-Standard machine learning models like CNNs have a restricted ability to generalize beyond their training data. PINNs, while physically informed, require retraining for every new event or velocity variation.
+The current study is limited to 2D FNO models; however, the author notes that moving to 3D models holds significant potential for more comprehensive analysis. The real data application was also constrained by a limited velocity model from sonic logs and restricted DAS coverage.
 
 ## Recommendations and Future Work
 
-Future work includes applying the FNO method to 3D models, utilizing 3D FNOs for velocity generalization, and integrating physics-informed neural operators (PINO).
+Future work should include applying the method to 3D models and utilizing 3D FNOs for velocity generalization to further enhance robustness in microseismic applications. Integration of physics-informed neural operators (PINO) is also suggested as a promising avenue.
 
 ## Related Concepts
 
-- [[machine-learning]]
 - [[neural-networks]]
-- [[microseismic-monitoring]]
-- [[eikonal-equation]]
-- [[earthquake-seismology]]
 - [[machine-learning-geoscience]]
-- [[saudiarabia]]
 - [[hypocenter]]
+- [[eikonal-equation]]
+- [[microseismic-monitoring]]
 - [[utah-site]]

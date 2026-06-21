@@ -1,46 +1,46 @@
 ---
 type: terminology
-title: "Lithosphere Asthenosphere Coupling"
+title: "Lithosphere-Asthenosphere Coupling"
 aliases:
   - "lithosphere-asthenosphere coupling"
 canonical: true
-definition: "The coupling of the brittle upper layer with the underlying flowing mantle."
+definition: "The coupling of the brittle upper lithosphere with the underlying ductile asthenosphere."
 units: "not applicable"
 related_techniques:
-  - "seismic-inversion"
+  - "tomographic-inversion"
 tags:
-  - theme/tectonic-analysis
+  - theme/solid-earth-geophysics
 sources:
   - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
-# Lithosphere Asthenosphere Coupling
+# Lithosphere-Asthenosphere Coupling
 
-**Summary**: The mechanical and structural connection between the rigid lithosphere and the ductile asthenosphere.
+**Summary**: The physical and mechanical interaction between the rigid lithosphere and the ductile asthenosphere.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] investigated as a potential consequence of mantle upwelling and crustal thinning in the Palu-Koro Fault zone.
+- [[2025-kesumastuti|Kesumastuti, 2025]] interpreted a low-velocity zone (L2) as evidence of lithosphere-asthenosphere coupling in the Palu-Koro Fault Zone.
 
 ## Scientific Context
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Determines how fault dynamics and lithospheric thickness are influenced by mantle processes.
+- [[2025-kesumastuti|Kesumastuti, 2025]] Coupling affects fault dynamics and seismic behavior in active zones.
 
 ## Measurement and Characterization Methods
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Inferred from low-velocity anomalies in tomographic models.
+- [[2025-kesumastuti|Kesumastuti, 2025]] Inferred from low-velocity anomalies in the upper mantle.
 
 ## Key Findings Across Sources
 
-- The L2 anomaly (extending to 100 km) suggests a strong connection between the lithosphere and asthenosphere beneath the Palu-Koro Fault. ([[2025-kesumastuti|Kesumastuti, 2025, p. 93]])
+- A low-velocity anomaly... could indicate a deformed lithosphere influenced by mantle upwelling triggered by crustal thinning. ([[2025-kesumastuti|Kesumastuti, 2025, p. 93]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] L2 anomaly extending to 100 km.
 
 ## Open Questions and Research Gaps
 

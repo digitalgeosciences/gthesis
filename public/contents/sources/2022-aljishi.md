@@ -12,130 +12,111 @@ committee_members:
   - "Ismail Ebrahim San Linn Kaka"
 source_file: "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142247/"
-study_area: "Rub-AlKhali of Saudi Arabia and Taklimakan of China"
+study_area: "Rub al Khali desert, Saudi Arabia"
 keywords:
   - Sand dune
   - Static delay
+  - Data-driven approach
   - Sand curve
-  - Seismic data processing
+  - Seismic data
+  - Refraction
   - Autocorrelation
-  - Rub-AlKhali
-  - sand dune static delay
-  - near-surface seismic reverberations
-  - data driven approach
-  - Seismic data acquisition
-  - Reflections
-  - Refractions
   - Signal processing
-  - Rub al Khali
+  - Seismic data processing
+  - Sabkha
 techniques:
-  - seismic-processing
   - autocorrelation
-  - forward-modeling
-  - well-log-analysis
-  - groundwater-modeling
-  - agc
-  - fk-filter
-  - karhunloevtransform
-  - cross-correlation
-  - stacking
+  - finite-difference-modeling
+  - signal-processing
+  - seismic-interpretation
   - velocity-analysis
+  - well-log-analysis
+  - petrophysics
+  - seismic-processing
   - deconvolution
   - interpolation
-  - signal-processing
+  - cross-correlation
+  - data-analysis
 tags:
   - degree/ms
   - location/rub-al-khali-basin
-  - location/saudi-arabia
-  - technique/seismic-processing
   - technique/autocorrelation
-  - technique/forward-modeling
-  - technique/groundwater-modeling
+  - technique/finite-difference-modeling
+  - technique/signal-processing
+  - technique/seismic-interpretation
   - technique/velocity-analysis
+  - technique/seismic-processing
   - technique/deconvolution
   - technique/interpolation
-  - technique/signal-processing
+  - technique/cross-correlation
+  - technique/petrophysics
+  - technique/data-analysis
+  - theme/geophysics-general
   - theme/near-surface-geophysics
-  - theme/seismic-processing
-  - theme/seismic-acquisition
-  - terminology/static-correction
+  - theme/static-corrections
+  - terminology/static-corrections
   - terminology/sand-curve
-  - terminology/near-surface-geophysics
   - terminology/reverberation
 status: ingested
 ---
 
 # SAND DUNE STATIC DELAY: A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE
 
-**Summary**: The thesis investigates the challenges of seismic data acquisition and processing in sand dune environments, specifically focusing on the Rub-alKhali region. It proposes a data-driven approach using autocorrelation and adaptive sand curves to accurately determine static delays and improve the imaging of underlying structures.
+**Summary**: The thesis investigates the challenges of seismic data acquisition and processing in sand dune environments, specifically focusing on the Rub al Khali desert. It proposes a new adaptive, data-driven approach to construct and adjust 'sand curves' to accurately calculate static delays caused by varying sand thicknesses.
 
 ---
 
 ## Research Problem
 
-Sand dune environments cause significant complications for seismic data acquisition and processing due to variations in amplitude, surface multiples, and near-surface static issues. Existing methods like the 'Sand Curve' are robust but can be improved to better handle diverse sand thicknesses and ensure a consistent base of sand elevation.
+Sand dune environments cause significant variations in seismic wave velocity and high lateral differences in static delays due to the contrast between unconsolidated sands and compacted sabkhas. Existing empirical methods (like the standard Sand Curve) often fail to provide accurate solutions because they rely on fixed assumptions or limited data ranges.
 
 ## Objectives
 
-- Develop a data-driven near-surface static solution for sand dune environments.
-- Improve the accuracy of 'time-in-sand' calculations using autocorrelation analysis.
-- Evaluate the proposed method against existing methods like the standard Sand Curve.
-- Examine the use of autocorrelation in seismic data of sand dune environments to correct for static delays.
-- Develop an approach to generate an adaptive sand curve.
-- Identify and enhance the signature of near-surface reverberations in common source and receiver fields.
-- Evaluate different offset ranges to address reverberations coherently.
-- Model the effects of sand dunes and sabkhas on seismic signals using forward modeling.
-- Evaluate the effectiveness of autocorrelation in identifying and enhancing reverberation signatures.
-- Develop an adaptive sand curve methodology to improve the accuracy of static delay calculations.
-- Address the limitations of existing, constrained sand curves in high-elevation areas.
-- Evaluate the limitations of current Sand Curve approaches for seismic data processing in sand dunes.
-- Develop an adaptive, data-driven approach to adjust the Sand Curve based on actual survey data.
-- Propose a new methodology for picking the 'base of sand' elevation to ensure a consistent and smooth surface.
-- Demonstrate the effectiveness of these methods using real seismic data from the Rub al Khali desert.
+- Develop a data-driven approach for near-surface static correction in sand dune environments.
+- Utilize autocorrelation and stacking of common source/receiver gathers to enhance reverberation signatures.
+- Create an adaptive, area-specific sand curve that does not require prior knowledge of sand thickness or porosity.
+- Evaluate the effectiveness of the proposed method using both synthetic models and real field data.
+- Identify limitations of current Sand Curve approaches for sand dune static delays.
+- Develop a more reliable elevation picking strategy for mixed surface geology (sand/sabkha).
 
 ## Methods
 
-The study utilizes several signal processing techniques, including auto-correlation analysis to identify sand reverberation signatures. A custom deconvolution operator is designed by averaging normalized traces to remove background noise and highlight the sand's signature. The 'base of sand' is determined through a combination of elevation picking (using polygon selection for sabkhas) and cross-correlation residual updating. These methods are then used to construct an adaptive sand curve that accounts for varying sand thicknesses, which is compared against the traditional Sand Curve model.
+The methodology involves: 1) Identifying near--surface multiples (reverberations) caused by high impedance contrasts between sand and sabkha. 2) Applying autocorrelation to individual traces to highlight periodic signals. 3) Sorting and stacking autocorrelations in common source and receiver domains to enhance the signal-to-noise ratio of these reverberations. 4) Using finite-difference modeling to create synthetic data for validation. 5) Developing an 'inverse sand curve' by fitting a polynomial to relate travel time to thickness, allowing for accurate elevation determination.
 
 ## Data and Materials
 
-The study uses real seismic data acquired in the Rub al Khali desert of Saudi Arabia, featuring sand dunes with elevations ranging from a few meters to 250 meters. The dataset includes multiple survey blocks and various types of sand and sabkha (salt flat) formations.
+The study utilizes: (1) Synthetic models generated via finite-difference methods with five layers including air, sand, and sabkha; (2) Real seismic data acquired in the Rub-AlKhali desert region of Saudi Arabia showing distinct dune reverberations.
 
 ## Key Findings
 
-- Sand dunes cause a sharp contrast in acoustic impedance between unconsolidated quartz (sand) and high-velocity salt deposits with clays (sabkha), leading to significant static delays. ([[2022-aljishi|AlJishi, 2022, p. 19]])
-- Dune reverberations, while often considered noise, are useful for revealing two-way-time in the sand dune from the sabkha to the topography. ([[2022-aljishi|AlJishi, 2022, p. 19]])
-- The proposed data-driven method does not require prior knowledge of sand thickness, porosity, or water saturation to calculate static corrections. ([[2022-aljishi|AlJishi, 2022, p. 16]])
-- page_number_not_applicable_for_this_finding_as_it_is_a_methodology_statement ([[2022-aljishi|AlJishi, 2022]])
-- The study identifies that standard refraction tomography cannot solve high lateral variation delays caused by sand dunes without first correcting for time-in-sand. ([[2022-aljishi|AlJishi, 2022, p. 21]])
-- Autocorrelation of the source gather shows that topographical variations of the dunes correlate well with the values of the autocorrelation mirror. ([[2022-aljishi|AlJishi, 2022, p. 12]])
-- Autocorrelation of the source gather reveals a signature that mirrors the topography, where peaks correspond to approximately twice the two-way-time delay in the sand portion. ([[2022-aljishi|AlJishi, 2022, p. 29]])
-- The autocorrelation approach is effective at filtering out random noise while preserving periodic features like those from near-surface reverberations. ([[2022-aljishi|AlJishi, 2022, p. 34]])
-- Common source and common receiver gathers allow for the identification of coherent events related specifically to either the source side or the receiver side. ([[2022-aljishi|AlJishi, 2022, p. 38]])
-- Automatic Gain Control (AGC) enhances periodic events, including second-order multiples, which are more noticeable with short window AGC. ([[2022-aljishi|AlJishi, 2022, p. 41]])
-- FK filters in the post-stack domain can effectively reject flat events (like those from water tables) while preserving non-flat near-surface signals. ([[2022-aljishi|AlJishi, 2022, p. 43]])
-- Karhun-Loev transform can be used to extract and suppress unwanted linear events that are coherent across the volume without harming the near-surface signature. ([[2022-aljishi|AlJishi, 2022, p. 43]])
-- The forward modeling showed that high velocity contrast at the air-sand boundary results in distinct reverberations, which can be predicted if geological parameters (velocity, density, depth) are known. ([[2022-aljishi|AlJishi, 2022, p. 47]])
-- Autocorrelation was found to be highly effective in enhancing targeted reverberation signatures and reducing noise when combined with stacking. ([[2022-aljishi|AlJishi, 2022, p. 59]])
-- The 'inverse sand curve' allows for the conversion of picked times into a thickness value, which can then be used to determine an elevation point for more intuitive quality control. ([[2022-aljishi|AlJishi, 2022, p. 65]])
+- Autocorrelation effectively isolates periodic signals (reverberations) from random noise, even when the original signal is heavily obscured by noise (e.g., 80% Gaussian noise). ([[2022-aljishi|AlJishi, 2022, p. 34]])
+- Stacking autocorrelations in common source and receiver domains significantly enhances the clarity of reverberation signatures while canceling out non-coherent signals. ([[2022-aljishi|AlJishi, 2022, p. 42]])
+- The first-order reverberation occurs at twice the travel time of the primary reflection, and subsequent higher-order harmonics appear at regular intervals. ([[2022-aljishi|AlJishi, 2022, p. 51]])
+- Finite-difference modeling confirmed that high velocity contrasts between sand and sabkha layers produce distinct reverberations that can be used for static correction. ([[2022-aljishi|AlJishi, 2022, p. 46]])
+- The proposed 'inverse sand curve' allows the conversion of picked time values into accurate elevation data, facilitating a more robust two-step static solution. ([[2022-aljishi|AlJishi, 2022, p. 47]])
+- Existing Sand Curve models are often limited by inaccurate base-of-sand picking, which leads to long-wavelength static errors. ([[2022-aljishi|AlJishi, 2022, p. 73]])
+- The proposed elevation picking method using sabkha boundaries as a reference provides a more robust and smoother surface for the base of sand. ([[2022-aljishi|AlJishi, 2022, p. 73]])
+- A 1-meter interval thickness stack significantly improves the coherence of the event signature compared to legacy methods. ([[2022-aljishi|AlJishi, 2022, p. 94]])
+- The new adaptive sand curve provides a better match with the actual data and allows for a wider range of usable thicknesses (up to 200m). ([[2022-aljishi|AlJishi, 2022, p. 95]])
+- The proposed method results in a more robust, noise-free base-of-sand surface compared to legacy methods. ([[2022-aljishi|AlJishi, 2022, p. 97]])
+- Application of the new approach on Rub al Khali data resulted in improved stack response and better focus for subsequent imaging. ([[2022-aljishi|AlJishi, 2022, p. 100]])
 
 ## Limitations
 
-The study notes that survey reports from contractors often contain poorly classified surface points, requiring extensive manual editing. Additionally, the accuracy of the 'base of sand' is dependent on the distribution of sabkha bodies; more sabkhas lead to higher accuracy.
+Existing Sand Curves are often limited by specific thickness ranges (e.g., 105 meters) and may not account for local variations in sand composition or water saturation; the proposed method's accuracy is dependent on the quality of the initial autocorrelation stacking.
 
 ## Recommendations and Future Work
 
-The author suggests using ray-tracing methods to isolate specific acoustic reflections/refractions and implementing multi-source modeling with variable topography to eliminate receiver-side reverberation in source point stacks.
+Future work could include using ray-tracing methods to isolate specific reflection/refraction paths, modeling more complex topographies with alternating sand and sabkha units, and incorporating multi-source point data to eliminate receiver-side reverberation effects.
 
 ## Related Concepts
 
-- [[seismic-processing]]
 - [[autocorrelation]]
-- [[forward-modeling]]
-- [[static-correction]]
+- [[finite-difference-modeling]]
+- [[static-corrections]]
 - [[sand-curve]]
+- [[reverberation]]
 - [[rub-al-khali-basin]]
 - [[near-surface-geophysics]]
-- [[finite-difference]]
-- [[reverberation]]
+- [[seismic-processing]]
 - [[signal-processing]]

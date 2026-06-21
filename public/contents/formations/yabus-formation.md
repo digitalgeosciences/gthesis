@@ -4,28 +4,28 @@ title: "Yabus Formation"
 aliases:
   - "Yabus"
 canonical: true
-age: "Paleocene (Tertiary)"
+age: "Eocene"
 basin: "Rawat Basin"
-lithology: "sandstone and shale"
+lithology: "sandstones and mudstones"
 reservoir_status: "producer"
 tags:
   - formation/yabus-formation
-  - theme/sedimentology
+  - theme/reservoir-characterization
 sources:
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Yabus Formation
 
-**Summary**: A Paleocene formation in the Rawat Basin.
+**Summary**: An Eocene formation representing the main reservoir in the White Nile basin.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-awad|Awad, 2016]] analyzed the Yabus formation to determine its stratigraphic framework and depositional environment.
+- [[2016-awad|Awad, 2016]] analyzed the yabus-formation to identify fluvio-deltaic sandstone reservoirs.
 
 ## Depositional Environment
 
@@ -33,15 +33,18 @@ last_updated: 2026-06-09
 
 ## Reservoir Properties
 
-- [[2016-awad|Awad, 2016]] not stated in source
+
+
+## Diagenetic History
+
+
 
 ## Key Findings Across Sources
 
-- interpreted to be deposited in fluvial and deltaic environments. ([[2016-awad|Awad, 2016, p. 17]])
+- The Yabus Formation is interpreted as being deposited in fluvial and deltaic environments. ([[2016-awad|Awad, 2016, p. 17]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2016-awad|Awad, 2016]] not stated in source
 
 ## Open Questions and Research Gaps
 

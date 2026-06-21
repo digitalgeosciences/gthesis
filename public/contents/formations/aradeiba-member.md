@@ -2,20 +2,19 @@
 type: formation
 title: "Aradeiba Member"
 aliases:
-  - "Aradeiba-D"
   - "Aradeiba Formation"
+  - "Aradeiba-D"
 canonical: true
 age: "Upper Cretaceous"
 basin: "Muglad Rift Basin"
-lithology: "sandstone"
+lithology: "sandstone and mudstone"
 reservoir_status: "producer"
 tags:
   - formation/aradeiba-member
-  - theme/reservoir-characterization
 sources:
   - "raw/138941 - SEISMIC ATTRIBUTES AND PETROPHYSICAL MODELLING OF THE ARADEIBA-D MEMBER, MUGLAD .pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Aradeiba Member
@@ -26,22 +25,25 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-el-kheir|El-Kheir, 2013]] studied the Aradeiba-D member to determine its petrophysical properties and distribution.
+- [[2013-el-kheir|El-Kheir, 2013]] studied the aradeiba-member to characterize its heterogeneity and geometry.
 
 ## Depositional Environment
 
-- [[2013-el-kheir|El-Kheir, 2013]] fluvio-deltaic to lacustrine facies
+- [[2013-el-kheir|El-Kheir, 2013]] lacustrine to fluvio-deltaic facies
 
 ## Reservoir Properties
 
-- [[2013-el-kheir|El-Kheir, 2013]] Average thickness 7m, max 20m
+
+
+## Diagenetic History
+
+
 
 ## Key Findings Across Sources
 
-- The average thickness of the sand is about 7 meters, with a maximum thickness of nearly 20 meters. ([[2013-el-kheir|El-Kheir, 2013, p. 14]])
+- The average thickness of the sand is about 7 meters, with a maximum of nearly 20 meters. ([[2013-el-kheir|El-Kheir, 2013, p. 14]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

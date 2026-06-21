@@ -2,72 +2,69 @@
 type: formation
 title: "Jubaila Formation"
 aliases:
-  - "Upper Jubaila Member"
+  - "Upper Jubaila Formation"
 canonical: true
-age: "Not stated in source"
+age: "Late Jurassic (Kimmeridgian)"
 basin: "Arabian Basin"
 lithology: "carbonate"
-reservoir_status: "producer"
+reservoir_status: "Not stated in source"
 tags:
   - formation/jubaila-formation
+  - theme/sedimentology
 sources:
-  - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
   - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
   - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
   - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
   - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Jubaila Formation
 
-**Summary**: A carbonate formation overlying the Arab Formation.
+**Summary**: A carbonate formation underlying the Arab-D member.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-abdalla|Abdalla, 2013]] analyzed the Upper Jubaila Member to establish a stratigraphic baseline for the outcrop study.
+- [[2015-abdlmutalib|Abdlmutalib, 2015]] analyzed the jubaila-formation to compare its geomechanical properties with those of the Arab-D member.
 
-- [[2015-abdlmutalib|Abdlmutalib, 2015]] analyzed the Upper Jubaila Formation to compare its geomechanical properties with the Arab-D.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Jubaila Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Jubaila formation for porosity and permeability.
+- [[2022-septriandi|Septriandi, 2022]] Referenced in this thesis.
 
-- [[2022-septriandi|Septriandi, 2022]] studied the Jubaila Formation as an unconventional resource.
-
-- [[2022-stiawan|Stiawan, 2022]] studied the Upper Jubaila Formation as a representative of the Arab-D reservoir.
+- [[2022-stiawan|Stiawan, 2022]] studied the jubaila-formation to understand its pore systems and reservoir quality.
 
 ## Depositional Environment
 
-- [[2013-abdalla|Abdalla, 2013]] upper slope to ramp crest
+- [[2015-abdlmutalib|Abdlmutalib, 2015]] lower to upper slope and ramp crest
 
-- [[2015-abdlmutalib|Abdlmutalib, 2015]] analyzed the Upper Jubaila Formation to compare its geomechanical properties with the Arab-D.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Jubaila Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Jubaila formation for porosity and permeability.
+- [[2022-septriandi|Septriandi, 2022]] Referenced in this thesis.
 
-- [[2022-septriandi|Septriandi, 2022]] studied the Jubaila Formation as an unconventional resource.
-
-- [[2022-stiawan|Stiawan, 2022]] studied the Upper Jubaila Formation as a representative of the Arab-D reservoir.
+- [[2022-stiawan|Stiawan, 2022]] studied the jubaila-formation to understand its pore systems and reservoir quality.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- The Upper Jubaila Member contains 21 cycles and is characterized by stromatoporoid-rich lithofacies. ([[2013-abdalla|Abdalla, 2013, p. 80]])
+- The Upper Jubaila is characterized by stromatoporoid wackstone/packstone and dolomitic mudstone/wackstone lithofacies in a lower to just upper slope setting. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 77]])
 
-- Characterized by lower to upper slope and ramp crest settings; showed three fracture sets. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 14]])
+- The Jubaila Formation had a Dykstra-Parsons coefficient of 0.65. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
 
-- Jubaila wackstone showed fracture and moldic porosity. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 60]])
+- Referenced in this thesis. ([[2022-septriandi|Septriandi, 2022]])
 
-- The formation contains a variety of lithofacies including calcareous mudstones and silica-rich units. ([[2022-septriandi|Septriandi, 2022, p. 39]])
-
-- The formation contains three main lithofacies: Stromatoporoid packstone, Dolomitic wackestone, and Dolomitic mudstone. ([[2022-stiawan|Stiawan, 2022, p. 33]])
+- The formation contains three lithofacies: stromatoporoid packstone (SP), dolomitic wackestone (DW), and dolomitic mudstone (DM). ([[2022-stiawan|Stiawan, 2022, p. 18]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

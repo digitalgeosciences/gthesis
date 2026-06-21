@@ -14,185 +14,154 @@ committee_members:
   - "Rudy Swennen"
 source_file: "raw/142190 - Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142190/"
-study_area: "Oxfordian Hanifa Formation outcrops along a 535 km-long N-S transect in central Saudi Arabia."
+study_area: "Hanifa Formation outcrops in central Saudi Arabia (specifically the area between Riyadh-Makkah road and As Sulayyil section)"
 keywords:
-  - Hanifa Formation
-  - Oxfordian
-  - sedimentology
-  - stratigraphy
-  - reservoir characterization
+  - Oxfordian Hanifa Formation
   - carbonate ramp
-  - facies analysis
-  - lithofacies
   - sequence stratigraphy
-  - chemostratigraphy
-  - porosity
-  - permeability
+  - lithofacies
+  - petrophysical characterization
+  - 3D geostatistical modeling
   - Homoclinal carbonate ramp
   - Reef-bearing carbonate ramp
-  - Siliciclastics
+  - Siliciclastic
   - Reef facies association
-  - Oxfordian Hanifa Formation
+  - Hanifa Formation
+  - Oxfordian
+  - chemostratigraphy
+  - reservoir characterization
   - petrophysical modeling
-  - petrophysical properties
-  - carbonate reservoir
-  - Upper Jurassic
-  - carbonate rocks
+  - sedimentology
+  - stratigraphy
 techniques:
   - thin-section-petrography
-  - sem-eds
+  - microfacies-analysis
   - chemostratigraphy
-  - sequence-stratigraphy
-  - lithofacies
-  - well-log-analysis
-  - sequential-gaussian-simulation
-  - petrophysical-characterization
-  - 3d-geostatistical-modeling
-  - core-analysis
   - geostatistics
-  - easy-core
-  - epson-perfection-v700-scanner
-  - polarizing-microscope
-  - olympus-uc30-digital-camera
+  - sequential-gaussian-simulation
+  - well-log-analysis
+  - petrophysics
+  - sedimentology
+  - sequence-stratigraphy
+  - lithostratigraphy
+  - petrography
+  - microscopy
   - sem
   - xrd
-  - fischer-plot
-  - elemental-chemostratigraphy
+  - biostratigraphy
+  - core-analysis
   - xrf
-  - gis
   - petrel
-  - helium-porosity
-  - petrophysics
-  - microfacies-analysis
+  - stochastic-simulation
+  - 3d-geostatistical-modeling
 tags:
   - degree/phd
   - formation/hanifa-formation
   - location/central-saudi-arabia
   - technique/thin-section-petrography
-  - technique/sem-eds
-  - technique/sequence-stratigraphy
-  - technique/chemostratigraphy
-  - technique/well-log-analysis
-  - technique/sequential-gaussian-simulation
-  - technique/petrophysics
-  - technique/3d-geological-modeling
-  - technique/geostatistics
-  - technique/sem
-  - technique/xrd
-  - technique/lithofacies
-  - technique/xrf
-  - technique/gis
-  - technique/petrel
-  - technique/core-analysis
-  - technique/helium-porosity
   - technique/microfacies-analysis
+  - technique/chemostratigraphy
+  - technique/geostatistics
+  - technique/sequential-gaussian-simulation
+  - technique/well-log-analysis
+  - technique/petrophysics
+  - technique/sedimentology
+  - technique/sequence-stratigraphy
+  - technique/lithostratigraphy
+  - technique/xrd
+  - technique/sem
+  - technique/biostratigraphy
+  - technique/xrf
+  - technique/petrel
+  - technique/stochastic-simulation
+  - technique/microscopy
+  - technique/lithofacies-analysis
+  - theme/carbonate-sedimentology
+  - theme/petrophysics
+  - theme/sequence-stratigraphy
   - theme/sedimentology
   - theme/stratigraphy
-  - theme/petrophysics
-  - theme/carbonate-geology
-  - terminology/lithofacies
-  - terminology/carbonate-ramp
-  - terminology/chemostratigraphy
+  - theme/paleoenvironmental-reconstruction
+  - terminology/facies-analysis
   - terminology/sequence-stratigraphy
-  - terminology/sedimentology
-  - terminology/diagenesis
-  - terminology/reservoir-characterization
+  - terminology/porosity
+  - terminology/permeability
+  - terminology/homoclinal-carbonate-ramp
+  - terminology/reef-bearing-carbonate-ramp
+  - terminology/chemostratigraphy
 status: ingested
 ---
 
 # Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassic Hanifa Formation, Central Saudi Arabia
 
-**Summary**: The thesis investigates the Han190-Sedimentology, Stratigraphy, and Reservoir Characterization of the Upper Jurassi.pdf study of the Oxfordian Hanifa Formation in central Saudi Arabia to resolve ambiguity between carbonate ramp and rimmed-shelf models. It utilizes high-resolution analysis of eight outcrop sections to develop a conceptual depositional model and characterize reservoir properties.
+**Summary**: The thesis investigates the Oxfordian Hanifa Formation in central Saudi Arabia using high-resolution sedimentology, sequence stratigraphy, and chemostratigraphy to develop a regional correlation framework. It further integrates these findings with 3D geostatistical modeling of lithofacies and petrophysical properties (porosity and permeability) to characterize the reservoir's heterogeneity.
 
 ---
 
 ## Research Problem
 
-The complex nature of the Hanifa Formation's carbonate reservoir, characterized by high heterogeneity in lithofacies, diagenetic history, and sedimentary processes, makes it difficult to model accurately without a clear understanding of its high-frequency cycles and stratigraphic framework.
+Ambiguity exists regarding whether the Hanifa Formation represents a carbonate ramp or a rimmed-shelf platform, which impacts the understanding of its 3D architecture and reservoir characterization. Additionally, the muddy nature of Jurassic logs makes it difficult to correlate stratigraphic units without high-resolution outcrop data.
 
 ## Objectives
 
-- Provide high-resolution (centimeter-scale) description and analysis of eight outcrop sections through the Oxfordian Hanifa Formation.
-- Develop a comprehensive conceptual depositional model for the Hanifa Formation over time.
-- Perform sequence stratigraphic and chemostratigraphic analyses to understand the evolution of the carbonate ramp.
-- Integrate sequence stratigraphy and petrophysical models to characterize the reservoir potential of the Hanifa Formation.
+- Resolve ambiguity regarding the carbonate platform type (ramp vs. rimmed-shelf) through detailed sedimentological analysis.
+- Establish a high-resolution sequence stratigraphy and chemostratigraphic framework for correlation between outcrops and subsurface data.
+- Characterize the upper section of the Ulayyah Member as reservoir units by quantifying porosity and permeability and mapping them to lithofacies.
+- Develop 3D geostatistical models (lithofacies, porosity, and permeability) to predict properties in unstudied areas.
 - Develop a comprehensive conceptual depositional model for the Hanifa Formation through time.
-- Establish a high-resolution sequence and chemostratigraphic framework for the Oxfordian Hanifa Formation.
-- Characterize reservoir lithofacies and their associated petrophysical properties (porosity and permeability).
-- Construct 3D lithofacies, porosity, and permeability models to understand spatial distribution.
-- Sedimentary facies analysis using micro and macro features to resolve the ambiguity between carbonate ramp and rimmed-shelf models.
-- Establish sequence stratigraphy and stratal stacking patterns as a chronostratigraphic basis for correlation between outcrops.
-- Characterize the upper section of the Ulayyah Member as reservoir equivalent geologically and petrophysically (porosity, permeability).
-- Quantify observations and geostatistically study their spatial distribution and variation.
-- Perform high-resolution sedimentological analysis of eight outcrop sections of the Hanifa Formation.
-- Identify and characterize sedimentary lithofacies within the formation.
-- Develop a conceptual depositional model for the Oxfordian Hanifa Formation.
-- Evaluate reservoir characterization based on facies associations.
-- Develop a comprehensive conceptual depositional model for the Oxfordian Hanifa Formation.
-- Identify and characterize sedimentary lithofacies within the Hanifa Formation.
-- Establish a high-resolution sequence stratigraphic framework based on lithofacies variation and strata stacking patterns.
-- Integrate elemental chemostratigraphy to provide a regional correlation tool between outcrop data and subsurface well logs.
-- Develop a high-resolution sequence stratigraphic framework for the Hanifa Formation.
-- Establish a chemostratigraphic correlation between outcrop sections and subsurface well logs.
-- Characterize lithofacies and their associated petrophysical properties (porosity, permeability).
-- Construct 3D geostatistical models of lithofacies and reservoir properties to evaluate geological controls on reservoir quality.
-- Characterize equivalent reservoir units of the Hanifa Formation outcrops
-- Construct three-dimensional lithofacies and petrophysical analogs for subsurface simulation
-- Determine the relationship between lithofacies, porosity, and permeability in the Oxfordian system
-- Perform high-resolution sedimentology and sequence stratigraphy on outcrop sections.
-- Characterize lithofacies petrophysical properties (porosity and permeability).
-- Generate 3D lithofacies and petrophysical models using geostatistical modeling.
-- Characterize the reservoir properties and facies associations within the formation.
+- Identify and characterize sedimentary lithofacies and their associated depositional environments.
 
 ## Methods
 
-The study utilizes high-resolution (centimeter-scale) description of eight outcrop sections along a 535 km N-S transect. Sequence stratigraphy is applied using Fisher plots to identify fourth-order sequences based on lithofacies changes and stratal stacking patterns. Chemostratigraphy, specifically the Mn chemical profile, is used for regional correlation across outcrops and with well logs. Petrophysical characterization includes identifying porosity types (intergranular, intragranular, burrow, moldic, fracture) via thin-section petrography. 3D geostatistical modeling (Sequential Indicator Simulation - SIS) is used to model lithofacies and property distribution.
+The study utilized high-resolution (centimeter-scale) description of eight outcrop sections. Sequence stratigraphy was applied using Fischer plots to identify 5th and 4th order sequences. Chemostratigraphy (based on Si, Al, Ca, Mn, Fe) was used for regional correlation between outcrops and subsurface logs. Petrophysical characterization involved estimating visual porosity from thin sections and measuring porosity/permeability from plugs. Geostatistical modeling included variogram analysis and Sequential Gaussian Simulation (SGS) to create 3D lithofacies, porosity, and permeability models.
 
 ## Data and Materials
 
-Analysis of eight outcrop sections through the Oxfordian Hanifa Formation along a 535 km-long N-S transect in central Saudi Arabia; total vertical thickness of studied sections reached 461 m. Ten specific outcrops were used for detailed lithofacies and petrophysical characterization.
+8 outcrop sections along a 535 km-long N-S transect; cumulative vertical thickness of 461 m; 9 sedimentary lithofacies categorized into 4 facies associations; chemostratigraphic data from multiple sections (H1, H2, H3, H5, H8); petrophysical measurements from plugs and thin section analysis.
 
 ## Key Findings
 
-- Nine sedimentary lithofacies were identified and grouped into four facies associations: I) outer-ramp association (FA1), II) mid-ramp association (FA2), III) inner-ramp association (FA3), and IV) siliciclastic-dominated sequences. ([[2022-bashri|Bashri, 2022, p. 19]])
-- The study identified five types of depositional sequences: Type 1 (storm beds/rudstone), Type 2 (outer to mid-ramp transition), Type 3 (outer to inner-ramp transition), Type 4 (reef-bearing carbonate ramp), and Type 6 (siliciclastic-dominated). ([[2022-bashri|Bashri, 2022, p. 70]])
-- Chemostratigraphic analysis of section H2 revealed four subzones (C1, C2, C3, C4) based on major element variations (Si, Al, Ca, Mn, Fe), with a significant drop in carbonate production (Ca) and increase in siliciclastic input during the MFS J50. ([[2022-bashri|Bashri, 2022, p. 76]])
-- The Hanifa Formation is characterized by a homoclinal carbonate ramp model in the Hawtah Member and a reef-bearing carbonate ramp model in the Ulayyah Member. ([[2022-bashri|Bashri, 2022, p. 52]])
-- Lithofacies F1 (outer-ramp) consists of argillaceous carbonate mudstone, while F3 (mid-ramp) is a sponge spiculitic wackestone. ([[2022-bashri|Bashri, 2022, p. 35]])
-- F9 represents an oncoidal rudstone facies with high microbial activity and various types of oncoids (spongiostromate and porostromate). ([[2022-bashri|Bashri, 2022, p. 41]])
-- Nine sedimentary lithofacies were identified and grouped into four facies associations (FA1: outer-ramp, FA2: mid-ramp, FA3: inner-ramp grainy-facies, FA4: inner-ramp reefal). ([[2022-bashri|Bashri, 2022, p. 19]])
-- The Mn chemical profile is lithology independent and highly correlatable between studied outcrops and subsurface data. ([[2022-bashri|Bashri, 2022, p. 21]])
-- Porosity and permeability are found to be proportional to the lithofacies; for example, mid-ramp wackestone/packstone shows higher porosity and permeability than reefal lithofacies. ([[2022-bashri|Bashri, 2022, p. 21]])
-- The study identified sixteen fourth-order sequences (seq 1 - seq 16) using sequence stratigraphic principles and Fisher plots. ([[2022-bashri|Bashri, 2022, p. 20]])
-- Four chemostratigraphic divisions (C1, C2, C3, and C4) were interpreted based on the vertical variation of major elements Si, Al, Ca, Mn, and Fe. ([[2022-bashri|Bashri, 2022, p. 20]])
-- The Hanifa Formation carbonate ramp evolution reflects coral reef expansion over the southern Neo-Tethys passive margin in the late Oxfordian. ([[2022-bashri|Bashri, 2022, p. 20]])
-- Common porosity types identified include intragranular, intergranular, burrow, moldic, and fracture porosity. ([[2022-bashri|Bashri, 2022, p. 21]])
-- The lithofacies model matches the regional trend, while the 3D permeability model showed high degree of heterogeneity with a moderate degree of qualitative distinction. ([[2022-bashri|Bashri, 2022, p. 18]])
-- The lithofacies succession distinguishes two depositional phases: Phase 1 (middle Oxfordian Hawtah Member) on a homoclinal carbonate ramp, and Phase 2 (upper Oxfordian Ulayyah Member) showing transition to a reef-bearing ramp. ([[2022-bashri|Bashri, 2022, p. 25]])
+- Nine sedimentary lithofacies were identified and grouped into four facies associations: I) outer-ramp (F1), II) mid-ramp (F2, F3, F4), III) inner-ramp grainy-facies (F5, F6), and IV) inner-ramp reefal association (F7, F8, F9). ([[2022-bashri|Bashri, 2022, p. 19]])
+- The lithofacies succession distinguishes two depositional phases: Phase 1 (middle Oxfordian Hawtah Member) as a homoclinal carbonate ramp, and Phase 2 (upper Oxfordian Ulayyah Member) transitioning to a reef-bearing carbonate ramp. ([[2022-bashri|Bashri, 2022, p. 47]])
+- The first description of siliciclastic-dominated sequences (F4, F6) was reported in the southern section of the transect. ([[2022-bashri|Bashri, 2022, p. 20]])
+- A total of sixteen 4th-order sequences were identified using sequence stratigraphic principles and lithofacies changes. ([[2022-bashri|Bashri, 2022, p. 20]])
+- Chemostratigraphic divisions (C1, C2, C3, C4) based on Si, Al, Ca, Mn, Fe are highly correlatable between outcrops and subsurface data; specifically, the Mn log is lithology independent. ([[2022-bashri|Bashri, 2022, p. 20]])
+- The mid-ramp massive skeletal wackestone/packstone (F3) shows the highest porosity and permeability among certain facies. ([[2022-bashri|Bashri, 2022, p. 18]])
+- Porosity types identified include intragranular, intergranular, burrow, moldic, and fracture porosity. ([[2022-bashri|Bashri, 2022, p. 21]])
+- Inner-ramp peloidal grainstone exhibits greater reservoir qualities than coral/stromatoporoid framestone in the highstand systems tract (HST). ([[2022-bashri|Bashri, 2022, p. 132]])
+- 3D lithofacies models produced from outcrop data match regional trends and show a high correlation between porosity and lithofacies. ([[2022-bashri|Bashri, 2022, p. 21]])
+- F1 (argillaceous carbonate mudstone) is interpreted as a deep outer-ramp deposit with evidence of fine siliciclastic suspended load. ([[2022-bashri|Bashri, 2022, p. 64]])
+- F2 (intraclastic rudstone) represents mid-ramp facies, showing storm-generated currents and high-energy conditions. ([[2022-bashri|Bashri, 2022, p. 65]])
+- F3 (sponge spiculitic wackestone/packstone) indicates a distal to proximal mid-ramp setting with low energy sedimentation. ([[2022-bashri|Bashri, 2022, p. 65]])
+- F4 (horizontally laminated siltstone/claystone) represents a mid-ramp setting below fairweather wave-base, showing siliciclastic input. ([[2022-bashri|Bashri, 2022, p. 65]])
+- F5a (skeletal peloidal grainstone) is interpreted as high-energy inner-ramp sand sheets; F5b (quartz peloidal grainstone) represents subaqueous shoals with a nearby siliciclastic source. ([[2022-bashri|Bashri, 2022, p. 66]])
+- F6 (trough cross-bedded sandstone) is interpreted as a proximal inner-ramp deposit with multi-directional flow above fairweather wave-base. ([[2022-bashri|Bashri, 2022, p. 67]])
 
 ## Limitations
 
-Some sections (H6, Al Ahmar, and As Sulayyil) were not included in the chemostratigraphic approach due to poor exposure; however, they were used for lithostratigraphy and regional correlation.
+Some sections (H6, Al Ahmar, and As Sulayyil) were excluded from chemostratigraphic analysis due to poor exposure; however, they were included in the lithofacies and sequence stratigraphic studies.
 
 ## Recommendations and Future Work
 
-The integrated framework of lithostratigraphy, sequence stratigraphy, and chemostratigraphy provides a robust tool for subsurfaced correlation and reservoir characterization.
+The 3D lithofacies and petrophysical models constructed from outcrop analogs can be used for subsurface reservoir simulations and development plans to address challenges posed by large inter-well spacing.
 
 ## Related Concepts
 
 - [[thin-section-petrography]]
-- [[sem-eds]]
-- [[sequence-stratigraphy]]
 - [[chemostratigraphy]]
+- [[geostatistics]]
+- [[facies-analysis]]
+- [[sequence-stratigraphy]]
 - [[hanifa-formation]]
 - [[central-saudi-arabia]]
-- [[lithofacies]]
-- [[carbonate-ramp]]
-- [[sedimentology]]
-- [[reservoir-characterization]]
-- [[sis]]
-- [[geostatistics]]
+- [[petrophysics]]
+- [[porosity]]
+- [[permeability]]
 - [[xrd]]
 - [[sem]]
-- [[carbonate-geology]]
-- [[diagenesis]]
+- [[homoclinal-carbonate-ramp]]
+- [[reef-bearing-carbonate-ramp]]
+- [[sedimentology]]
+- [[xrf]]
+- [[petrel]]
+- [[sequential-gaussian-simulation]]

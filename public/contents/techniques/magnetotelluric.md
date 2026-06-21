@@ -1,8 +1,9 @@
 ---
 type: technique
-title: "Magnetotelluric"
+title: "Magnetotelluric Surveying"
 aliases:
   - "MT"
+  - "magnetotelluric"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
@@ -13,27 +14,32 @@ tags:
 sources:
   - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
   - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
-# Magnetotelluric
+# Magnetotelluric Surveying
 
-**Summary**: A passive geophysical method to measure subsurface resistivity.
+**Summary**: A passive electromagnetic method used to map deep-seated resistivity structures.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-ahmed|Ahmed, 2024]] used magnetotelluric (MT) data to characterize the 3D resistivity model of Al-Hassa National Park.
+- [[2024-ahmed|Ahmed, 2024]] applied magnetotelluric (MT) data to create 3D resistivity models of the Al-Hassa region.
 
-- [[2024-chavanidis|Chavanidis, 2024]] used magnetotelluric soundings to confirm the geotherm and identify the depth of the Curie isotherm.
+- [[2024-chavanidis|Chavanidis, 2024]] utilized magnetotelluric (MT) data to identify high-conductivity zones related to hydrothermal fluids.
+
+- [[2025-ahmed|Ahmed, 2025]] applied AMT to capture deeper geoelectric information and calibrate data near boreholes.
 
 ## Instruments and Software
 
 
 
-- [[2024-chavanidis|Chavanidis, 2024]] used magnetotelluric soundings to confirm the geotherm and identify the depth of the Curie isotherm.
+- [[2024-chavanidis|Chavanidis, 2024]] utilized magnetotelluric (MT) data to identify high-conductivity zones related to hydrothermal fluids.
+
+- [[2025-ahmed|Ahmed, 2025]] applied AMT to capture deeper geoelectric information and calibrate data near boreholes.
 
 ## Typical Workflow
 
@@ -41,9 +47,11 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The 3D resistivity model showed a correlation with gravity-derived density variations. ([[2024-ahmed|Ahmed, 2024, p. 108]])
+- The 3D inversion of MT data provided a detailed view of resistivity variations across different depth slices. ([[2024-ahmed|Ahmed, 2024, p. 75]])
 
-- MT13 sounding showed a significant reduction in resistivity at approximately 14.8 km, confirming the Curie isotherm. ([[2024-chavanidis|Chavanidis, 2024, p. 114]])
+- MT soundings confirmed the calculated geotherm and identified a heat source at 5-6 km depth. ([[2024-chavanidis|Chavanidis, 2024, p. 37]])
+
+- AMT effectively captured tensor information across a broad area, useful for identifying deep conductive layers. ([[2025-ahmed|Ahmed, 2025, p. 67]])
 
 ## Methodological Variations Across Sources
 

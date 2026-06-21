@@ -3,19 +3,17 @@ type: location
 title: "Harmaliyah Field"
 aliases:
   - "Harmaliyah Field"
-  - "Harmaliyah Oil Field"
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "structural trap (asymmetric anticline)"
+geology: "carbonate platform"
 tags:
   - location/harmaliyah-field
-  - theme/petroleum-geology
 sources:
   - "raw/10312 - Geostatistical modeling of Arab-D reservoir, Harmaliyah field, Saudi Arabia..pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Harmaliyah Field
@@ -26,19 +24,19 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[1996-al-salem|Al-Salem, 1996]] conducted geostatistical modeling within the Harmaliyah Oil Field.
+- [[1996-al-salem|Al-Salem, 1996]] conducted geostatistical modeling within the harmaliyah-field.
 
 ## Geological and Structural Setting
 
-- [[1996-al-salem|Al-Salem, 1996]] anticline with a plunging nose in the southwest and its steeper flank dipping at 1.5 to 2.5 degrees to the southeast.
+- [[1996-al-salem|Al-Salem, 1996]] asymmetric anticline
 
 ## Formations Present
 
-- [[1996-al-salem|Al-Salem, 1996]] arab-d-reservoir
+- [[1996-al-salem|Al-Salem, 1996]] Arab-D, Lower Fadhili
 
 ## Key Findings From This Location
 
-- The field is located about 200 km southwest of Dhahran and is approximately 37km long and 11km wide. ([[1996-al-salem|Al-Salem, 1996, p. 21]])
+- The field is an asymmetric anticline approximately 37km long and 11km wide. ([[1996-al-salem|Al-Salem, 1996, p. 21]])
 
 ## Research Coverage and Gaps
 

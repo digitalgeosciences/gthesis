@@ -14,156 +14,113 @@ source_file: "raw/138810 - Management of the Drilling Wastes in the Eastern Prov
 url: "https://eprints.kfupm.edu.sa/id/eprint/138810/"
 study_area: "Eastern Province, Saudi Arabia"
 keywords:
-  - Drilling wastes
-  - Drilling fluids
-  - Water Based Fluids (WBF)
-  - Oil Based Fluids (OBF)
-  - Synthetic Based Fluids (SBF)
-  - Environmental impacts
-  - Waste management
   - Drilling Waste
-  - Oil and Gas
+  - Management
+  - Oil and Gas Industry
   - Environmental Impact
   - Saudi Arabia
-  - Oil and gas exploration
-  - offshore drilling
+  - drilling wastes
+  - waste management
   - oil and gas drilling
-  - Saudi Aramco
   - offshore operations
-  - Management
 techniques:
   - questionnaire
-  - well-log-analysis
-  - sieve-analysis
-  - thermal-treatment
-  - bioremediation
   - solidification
   - stabilization
-  - spss
-  - microsoft-excel
+  - thermal-treatment
+  - bioremediation
+  - incineration
+  - thermal-desorption
   - survey
-  - questionnaire-survey
   - data-analysis
-  - statistical-analysis
 tags:
   - degree/ms
   - location/eastern-province
   - location/saudi-arabia
-  - technique/questionnaire
-  - technique/well-log-analysis
-  - technique/sieve-analysis
-  - technique/thermal-treatment
-  - technique/bioremediation
   - technique/solidification
   - technique/stabilization
+  - technique/thermal-treatment
+  - technique/bioremediation
+  - technique/questionnaire
   - technique/survey
-  - technique/statistical-analysis
-  - theme/environmental-geoscience
+  - technique/data-analysis
   - theme/drilling-waste-management
-  - terminology/drilling-waste
+  - theme/environmental-risk-assessment
   - terminology/drilling-waste-management
   - terminology/solidification-and-stabilization
-  - terminology/water-quality
+  - terminology/drilling-fluids
+  - terminology/drilling-cuttings
+  - terminology/heavy-metals-pollution
   - terminology/water-based-fluids
   - terminology/oil-based-fluids
-  - terminology/synthetic-based-fluids
-  - terminology/heavy-metals
+  - terminology/solidification
 status: ingested
 ---
 
 # Management of the Drilling Wastes in the Eastern Province of Saudi Arabia
 
-**Summary**: The thesis investigates the management of drilling wastes (fluids and cuttings) in the Eastern Province of Saudi Arabia, focusing on environmental impacts and current disposal practices. It evaluates various types of drilling fluids, including water-based (WBF) and oil-based (OBM), and assesses the effectiveness of existing waste treatment and disposal methods.
+**Summary**: The thesis investigates the management of drilling wastes (fluids and cuttings) in the Eastern Province of Saudi Arabia, focusing on current practices, waste volumes, and regulatory frameworks. It evaluates various treatment methods like physical, chemical, and thermal processes, and highlights the need for improved local regulations to mitigate environmental impacts.
 
 ---
 
 ## Research Problem
 
-The rapid expansion of oil and gas drilling in the Eastern Province leads to significant quantities of drilling waste (fluids and cuttings) that pose risks to surface, ground, and coastal waters. There is a lack of specific, updated governmental regulations for managing these wastes, necessitating an assessment of current industry practices and local regulatory gaps.
+The rapid expansion of oil and gas drilling in the Eastern Province of Saudi Arabia generates large quantities of drilling wastes (fluids and cuttings) that pose significant environmental risks due to their potential toxicity, high salinity, and heavy metal content.
 
 ## Objectives
 
-- To identify the types, compositions, and volumes of drilling wastes generated in the Eastern Province.
-- To evaluate the current management practices (reduction, reuse, transfer, treatment) for drilling waste.
-- To assess the disposal methods and environmental regulations governing drilling waste.
-- To evaluate the different types of drilling fluids (WBM, OBM, SBF) and their specific waste characteristics.
-- To identify the environmental impacts associated with drilling waste in both onshore and offshore environments.
-- To review Saudi Arabian environmental regulations and international standards for drilling waste disposal.
-- To outline appropriate management practices and technologies for treating and disposing of drill cuttings and fluids.
-- Surveying of the drilling wastes with regard to volume, types, chemical and physical characteristics and compositions.
-- Assessing the current management practices and policies followed by various drilling companies.
-- Comparing the current drilling wastes management practices in Saudi Arabia with other international experience.
-- Evaluate the types, volume, and composition of drilling fluids used in the Eastern Province.
-- Assess the current methods for managing and disposing of drilling wastes.
-- Identify environmental risks associated with different drilling fluid types (WBF vs. OBM).
-- Provide a framework or guidelines for sustainable drilling waste management.
-- Evaluate the different types of drilling fluids (WBF, OBF, SBF) used in the region and their respective environmental impacts.
-- Quantify the volume of drilling waste (fluids and cuttings) generated by various companies in the Eastern Province.
-- Identify the factors considered by contractors when selecting drilling fluids.
-- Assess current management practices such as reduction, recycling, and disposal.
-- Evaluate current methods for reusing drilling waste including road spreading and land farming.
-- Assess the challenges faced by companies in transporting drilling waste from offshore and remote locations.
-- Identify common treatment technologies such as physical, chemical, biological, and thermal treatments.
-- Analyze the disposal practices (e.g., onsite pits, landfills) and the materials used for liners.
-- Evaluate the current regulatory landscape and awareness of local regulations regarding drilling waste.
-- Assess the practices of managing drilling wastes in the Eastern Province of Saudi Arabia
-- Evaluate the volume and composition of drilling fluids (WBF, OBF, SBF) used by companies
-- Identify common methods for waste reduction, treatment, and reuse
-- Evaluate the adequacy of local environmental regulations and standards for waste management
-- To evaluate the environmental impact of drilling wastes on marine and terrestrial environments.
-- To review various technologies for the treatment and disposal of drilling waste.
-- To assess current management practices and regulations regarding drilling waste in Saudi Arabia.
+- To assess the current volume and types of drilling waste produced by companies in the Eastern Province.
+- To evaluate the environmental impacts of different drilling fluid systems (WBF, OBF, SBF).
+- To identify and recommend best practices for the management, treatment, and disposal of drilling wastes.
+- Survey the drilling wastes regarding volume, types, chemical and physical characteristics, and compositions.
+- Assess current management practices and policies followed by various drilling companies.
+- Compare current drilling waste management practices in Korea with other international experience.
 
 ## Methods
 
-The study employs a review of waste management concepts, identification of legislation/standards for drilling operations, and an evaluation of treatment technologies including thermal treatment (incineration and desorption), biological treatment (bioremediation, composting, bioreactors), and physical-chemical methods (solidification and stabilization). It also analyzes waste minimization strategies like TFM (Total Fluid Management) and EIR (Environmental Impact Reduction).
+The study employs a descriptive analytical methodology (mixed methods) using both primary and secondary data. Primary data was collected via a structured questionnaire distributed to 19 oil and gas companies and approximately 25 drilling contractors in the Eastern Province of Saudi Arabia. The survey included online and hard copy distributions, covering company background, waste types/volumes, management practices, and environmental regulations.
 
 ## Data and Materials
 
-Data collected from a survey of drilling companies in the Eastern Province. The study reports an annual production of approximately 250,000 tonnes of drilling waste. Survey results included data on fluid types (WBF, OBF, SBF), chemical additives (Bentonite, Barite, etc.), and specific waste volumes ranging from 300 to 4,000 tons per well.
+Data collected from 19 oil and gas companies (C1-C19) and approximately 25 drilling contractors in the Eastern Province of Saudi Arabia. The study analyzed volumes for both drilling fluids (over 120,000 tons total) and solid cuttings (over 130,000 tons total).
 
 ## Key Findings
 
-- The majority of drilling companies in the region use Water Based Fluids (WBF) at a rate of 63.2%. ([[2012-attyah|Attyah, 2012, p. 9]])
-- Approximately 31.6% of respondent companies utilize Oil Based Fluids (OBF). ([[2012-attyah|Attyah, 2012, p. 9]])
-- The volume of drilling wastes produced is inconsistent, with most companies reporting between 500-4000 tons of fluid waste and 300-3000 tons of solid cuttings. ([[2012-attyah|Attyah, 2012, p. 9]])
-- Barite (primarily barium sulfate) is used to increase density, with concentrations as high as 700 lb/bbl in drilling fluids. ([[2012-attyah|Attyah, 2012, p. 15]])
-- Bentonite (sodium montmorillonite) is the most common additive for maintaining rheological properties and providing filtration control. ([[2012-attyah|Attyah, 2012, p. 16]])
-- Lignosulfonate acts as a thinning agent or deflocculant, with concentrations ranging from 1 to 15 lb/bbl. ([[2012-attyah|Attyah, 2012, p. 16]])
-- Lignite is used as a deflocculant and to control filtration rates, typically in freshwater fluids at concentrations of 1-25 lb/bbl. ([[2012-attyah|Attyah, 2012, p. 17]])
-- Caustic Soda (sodium hydroxide) is utilized to maintain the pH of drilling fluids between 9 and 12. ([[2012-attyah|Attyah, 2012, p. 17]])
-- Water-based fluids (WBM) typically generate between 7,000 and 13,000 bbl of waste per well, with 1,400 to 2,800 bbl of that amount being drill cuttings. ([[2012-attyah|Attyah, 2012, p. 21]])
-- Synthetic-based fluids (SBF) can reduce the quantities of fluids and cuttings waste generated by up to 70% compared to water-based fluids in some cases. ([[2012-attyah|Attyah, 2012, p. 23]])
-- For wells drilled in less than 1,000 feet of water, estimated cuttings are 565 bbl (development) and 1,184 bbl (exploration); for depths over 1,000 feet, estimates are 855 bbl and 1,901 bbl respectively. ([[2012-attyah|Attyah, 2012, p. 25]])
-- Drilling cuttings from SBF systems can be reduced to dry cuttings of 526, 1,101, 795, and 1,768 barrels depending on the well type and depth (assuming no washout). ([[2012-attyah|Attyah, 2012, p. 25]])
-- Barite used in drilling fluids must not contain mercury (Hg) > 1 mg/kg or cadmium (Cd) > 3 mg/kg. ([[2012-attyah|Attyah, 2012, p. 35]])
-- Low toxicity OBM for offshore use must have an aromatic content of less than 1%. ([[2012-attyah|Attyah, 2012, p. 34]])
-- Chemical additives in drilling fluids should have a 96 hr LC50 value > 30,000 mg/l to be considered acceptable for marine environments. ([[2012-attyah|Attyah, 2012, p. 34]])
+- 63.2% of the surveyed drilling companies used Water Based Fluids (WBF), while 31.6% used Oil Based Fluids (OBF). ([[2012-attyah|Attyah, 2012, p. 10]])
+- The volume of drilling wastes produced was inconsistent, with most companies producing between 500-4000 tons of fluid waste and 300-3000 tons of solid cuttings. ([[2012-attyah|Attyah, 2012, p. 10]])
+- Water-based fluids (WBF) are generally considered more environmentally friendly but can still pose risks from heavy metals like mercury and cadmium in barite. ([[2012-attyah|Attyah, 2012, p. 28]])
+- Oil-based fluids (OBF) provide better well stability but require stringent containment and disposal due to higher environmental risk. ([[2012-attyah|Attyah, 2012, p. 22]])
+- Synthetic-based fluids (SBF) can reduce the volume of waste by up to 70% compared to WBF in some cases. ([[2012-attyah|Attyah, 2012, p. 23]])
+- Thermal treatment is identified as the most efficient method for destroying organics and reducing the mobility of inorganics like metals and salts. ([[2012-attyah|Attyah, 2012, p. 35]])
+- Solidification encapsulates waste in a monolithic solid, while stabilization reduces hazard potential by converting contaminants into less soluble or mobile forms. ([[2012-attyah|Attyah, 2012, p. 36]])
+- 63.2% of drilling contractors nearly always use Water Based Fluids (WBF), which are generally non-toxic but can contain chemicals like bentonite and barite. ([[2012-attyah|Attyah, 2012, p. 71]])
+- Only 10.5% of respondents frequently used Oil Based Fluids (OBF), which pose higher environmental risks due to potential toxicity from diesel and other additives. ([[2012-attyah|Attyah, 2012, p. 75]])
+- Over 50% of respondents reported using Synthetic Based Fluids (SBF) as a less toxic alternative to OBF, potentially reducing waste volume by up to 70%. ([[2012-attyah|Attyah, 2012, p. 78]])
+- 100% of respondents reported never using gaseous fluids due to high costs and safety risks associated with H2S or CO2. ([[2012-attyah|Attyah, 2012, p. 81]])
+- Bentonites (68.4%) and Barite (63.2%) were among the most frequently used additives in drilling fluid preparation. ([[2012-attyah|Attyah, 2012, p. 88]])
+- The total volume of drilling fluids generated by the surveyed companies exceeded 120,550 tons. ([[2012-attyah|Attyah, 2012, p. 91]])
+- The total amount of solid cuttings generated from the surveyed companies was 130,057 tons. ([[2012-attyah|Attyah, 2012, p. 93]])
+- The estimated total volume of both drilling wastes (fluids and cuttings) is 250,634 tons per year. ([[2012-attyah|Attyah, 2012, p. 94]])
 
 ## Limitations
 
-The study faced three limitations: (1) difficulty obtaining information due to the sensitive/confidential nature of environmental issues; (2) some respondents refused or did not complete questionnaires due to time constraints or lack of confidence; and (3) the study did not evaluate every waste management topic in deep detail.
+The study faced challenges due to the sensitive nature of environmental data, leading to some companies withholding information; some participants were unavailable or did not complete questionnaires fully; and the scope was limited in depth regarding specific technical details.
 
 ## Recommendations and Future Work
 
-Recommendations include: (1) further studies on offshore OBF/SBF impacts, (2) evaluation of environmental designs for onsite pits/landfills, (3) groundwater assessment near disposal sites, and (4) assessing heavy metal concentrations. Practical recommendations for companies include prioritizing waste minimization, preparing Waste Management Plans (WMP), training workforce to reduce volumes, using high-G shale shakers, and reporting to government agencies.
+The study recommends implementing best practices for managing drilling wastes, including the use of non-toxic additives, recycling fluids where possible, and utilizing treatment methods like solidification/stabilization or bioremediation to ensure compliance with environmental regulations.
 
 ## Related Concepts
 
-- [[questionnaire]]
-- [[drilling-waste]]
-- [[eastern-province]]
-- [[drilling-waste-management]]
-- [[well-log-analysis]]
-- [[environmental-geology]]
-- [[thermal-treatment]]
+- [[solidification]]
 - [[bioremediation]]
+- [[drilling-waste-management]]
+- [[eastern-province]]
 - [[solidification-and-stabilization]]
-- [[survey]]
-- [[water-quality]]
+- [[environmental-risk-assessment]]
+- [[drilling-fluids]]
+- [[drilling-cuttings]]
+- [[heavy-metals-pollution]]
 - [[water-based-fluids]]
 - [[oil-based-fluids]]
-- [[synthetic-based-fluids]]
-- [[saudi-arabia]]
-- [[heavy-metals]]
-- [[statistical-analysis]]
+- [[questionnaire]]

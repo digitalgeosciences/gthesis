@@ -7,10 +7,9 @@ description: "Not stated in source"
 key_challenges: "Not stated in source"
 tags: []
 sources:
-  - "raw/10032 - Geostatistical evaluation of the Hazam al-Jalamid phosphorite deposit, Northwest.pdf"
-  - "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
+  - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-14
 ---
 
 # Geology of Deposits
@@ -21,15 +20,11 @@ last_updated: 2026-06-11
 
 ## How It Appears in the Thesis Collection
 
-- [[1996-jarad|Jarad, 1996]] contributed to the theme of Geology Of Deposits
-
-- [[1985-ghaled|Ghaled, 1985]] investigated the geology of the Zarghat magnesite deposit.
+- [[1996-matter|Matter, 1996]] contributed to the theme of Geology Of Deposits
 
 ## Key Subtopics
 
 
-
-- [[1985-ghaled|Ghaled, 1985]] investigated the geology of the Zarghat magnesite deposit.
 
 ## Methods and Approaches Used
 
@@ -37,9 +32,7 @@ last_updated: 2026-06-11
 
 ## Key Findings Across Sources
 
-- contributed to the theme of Geology Of Deposits ([[1996-jarad|Jarad, 1996]])
-
-- The deposit is situated within the Jibalah Group carbonate sequence. ([[1985-ghaled|Ghaled, 1985, p. 40]])
+- contributed to the theme of Geology Of Deposits ([[1996-matter|Matter, 1996]])
 
 ## Competing Approaches and Debates
 

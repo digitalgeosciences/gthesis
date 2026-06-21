@@ -3,43 +3,44 @@ type: terminology
 title: "Saturation_Index"
 aliases:
   - "SI"
+  - "Sf"
 canonical: true
-definition: "Logarithm of the ratio between the ion activity product and the solubility product."
+definition: "A measure of the thermodynamic equilibrium between water and minerals."
 units: "dimensionless"
 related_techniques:
-  - "pc-water-equilibrium-modeling"
+  - "hydrochemical-analysis"
 tags:
-  - theme/hydrogeochemistry
+  - theme/groundwater-geochemistry
 sources:
   - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Saturation_Index
 
-**Summary**: A measure of the degree to which a mineral is oversaturated or undersaturated in an aqueous solution.
+**Summary**: A measure of the thermodynamic equilibrium between water and specific minerals.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-hassan|Hassan, 1992]] calculated saturation_index for calcite, dolomite, and gypsum.
+- [[1992-hassan|Hassan, 1992]] calculated saturation indices to determine if aquifers were over- or under-saturated with calcite, dolomite, and gypsum.
 
 ## Scientific Context
 
-- [[1992-hassan|Hassan, 1992]] SI values indicate whether minerals are likely to precipitate or dissolve in the aquifer.
+- [[1992-hassan|Hassan, 1992]] Used to identify mineral dissolution/precipitation processes.
 
 ## Measurement and Characterization Methods
 
-- [[1992-hassan|Hassan, 1992]] Calculated using PCWATEQ based on concentration, pH, and temperature.
+- [[1992-hassan|Hassan, 1992]] Calculated using PCWATEQ based on ion concentrations.
 
 ## Key Findings Across Sources
 
-- The Khobar aquifer is generally oversaturated with respect to calcite and dolomite but undersaturated with respect to gypsum. ([[1992-hassan|Hassan, 1992, p. 91]])
+- Both aquifers are over-saturated with calcite and dolomite, and under-saturated with gypsum. ([[1992-hassan|Hassan, 1992, p. 19]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -12,115 +12,91 @@ committee_members:
   - "Khalid A. Al-Ramadan"
 source_file: "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139873/"
-study_area: "Unayzah-C and Unayzah-A reservoirs in a field at the SE corner of the Ghawar field, Eastern Central Saudi Arabia."
+study_area: "Eastern Central Saudi Arabia"
 keywords:
   - Fracture Detection
   - Azimuthal P-wave Amplitude Variation with Offset (AVOA)
   - Clastic Reservoir
   - 3D full-azimuth broadband seismic data
-  - Unayzah-C
-  - Unayzah-A
-  - AVOA
-  - azimuthal P-wave amplitude variation with offset
-  - seismic anisotropy
   - Unayzah-C reservoir
   - Unayzah-A reservoir
 techniques:
   - avo-analysis
-  - ellipse-fitting
-  - seismic-interpretation
+  - seismic-attributes
   - well-log-analysis
   - borehole-image-logs
   - well-testing
   - production-data
-  - seismic-attributes
-  - petrel
-  - pstm
+  - seismic-processing
+  - petrophysics
 tags:
   - degree/ms
   - formation/unayzah-formation
-  - location/central-saudi-arabia
-  - location/ghawar-field
+  - location/central-saudi-area
   - technique/avo-analysis
-  - technique/seismic-interpretation
+  - technique/seismic-attributes
   - technique/well-log-analysis
-  - technique/image-log-analysis
+  - technique/borehole-image-logs
   - technique/well-testing
+  - technique/seismic-processing
   - theme/fracture-characterization
-  - theme/clastic-reservoirs
   - theme/petrophysics
-  - theme/geophysics-general
+  - theme/seismic-interpretation
   - terminology/fracture-characterization
   - terminology/anisotropy
-  - terminology/clastic-reservoirs
 status: ingested
 ---
 
 # Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA) in a Clastic Reservoir, Eastern Central Saudi Arabia
 
-**Summary**: The thesis investigates fracture detection in the Unayzah-C and Unayzah-A clastic reservoirs in Eastern Central Saudi Arabia using 3D full-azimuth broadband seismic data. It evaluates the AVOA method against traditional attributes like curvature and coherence, concluding that while AVOA identifies high fracturing, its correlation with well data is limited by reservoir heterogeneity and noise.
+**Summary**: The thesis evaluates the effectiveness of Azimuthal P-wave Amplitude Variation with Offset (AVOA) in detecting and characterizing fractures within the Unayzah-C and Unayzah-A clastic reservoirs in Eastern Central Saudi Arabia. Using 3D full-azimuth broadband seismic data, the study compares AVOA results with well logs, production data, and other seismic attributes like curvature and coherence to determine the reliability of seismic indicators for fracture detection in heterogeneous clastic systems.
 
 ---
 
 ## Research Problem
 
-The primary challenge is mapping the top/bottom of the Unayzah-C reservoir due to low signal-to-noise ratio (SNR) and limited bandwidth in conventional 3D seismic, as well as identifying fracture zones within this deep, low porosity clastic reservoir.
+The primary challenge is mapping and characterizing fractures in the deep, low-porosity Unayzah-C reservoir due to low signal-to-noise ratio (SNR) and limited bandwidth in conventional 3D seismic data, as well as determining if AVOA can reliably distinguish between true fracture zones and other geological features like granulation seams or deformation bands.
 
 ## Objectives
 
-- Evaluate the effectiveness of AVOA for delineating and characterizing fracture zones in the Unayzah-A and Unayzah-C reservoirs.
-- Determine the improvement of wide azimuth seismic data in fracture detection specifically in clastic reservoirs.
-- Validate AVOA results against well data (borehole images, well testing) and other seismic indicators (curvature, coherence).
-- Map the top and bottom of the Unayzah-C reservoir using 3D full-azimuth broadband seismic data.
-- Determine areas of high fracture potential using AVOA analysis.
-- Validate AVOA results with borehole image logs, well tests, and other seismic attributes (curvature and coherence).
-- Implement AVOA method on 3D full-azimuth broadband seismic data over a study area.
-- Validate AVOA results with available well data (borehole images, well testing, production data).
-- Evaluate the effectiveness of AVOA compared to curvature and coherence attributes for fracture detection.
+- Evaluate the improvement of wide azimuth seismic data in fracture detection for clastic reservoirs.
+- Determine the effectiveness of the AVOA technique to delineate and characterize fracture zones within Unayzah-A and Unayzah-C reservoirs.
+- Validate AVOA results using well data (borehole images, well testing) and other seismic attributes (curvature, coherence).
 
 ## Methods
 
-The study utilizes a 3D full-azimuth broadband seismic dataset acquired in 2010. The workflow includes: 1) Mapping the top of Unayzah-C using the new data; 2) Applying AVOA analysis to determine fracture potential (anisotropy ratio and orientation); 3) Extracting coherence and curvature attributes as alternative indicators; 4) Validating results against borehole image logs, well tests, and production data. Ellipse fitting techniques were used to calculate anisotropy parameters from the P-wave amplitude variation with offset.
+The study utilizes a 3D full-azimuth broadband seismic dataset acquired with point receivers and low frequency sweeps down to 2 Hz. The AVOA technique is applied by calculating the anisotropy ratio (ellipticity) and orientation of the anisotropy ellipse from P-wave amplitude variations across different azimuths. These results are compared against well data (borehole images, production data, and well tests) for the Unayzah-A reservoir and against secondary seismic attributes (curvature and coherence) for the Unayzah-C reservoir where well data is limited.
 
 ## Data and Materials
 
-A 3D full-azimuth broadband seismic dataset (46,080 channels, 2-94 Hz frequency range) over a field at the SE corner of the Ghawar field. Data includes borehole image logs from several wells (e.g., WELL-H, WELL-K, WELL-L), well test data from 8 wells, and production simulation results.
+3D full-azimuth broadband seismic dataset with 46,080 channels; borehole image logs from 7 wells in the Unayzah-A area; well testing results from 8 wells; production data for the Unayzah-A reservoir; and multi-attribute seismic volumes (curvature, coherence).
 
 ## Key Findings
 
-- The new 3D full-azimuth broadband seismic data showed significant enhancement in continuity and resolution, leading to improved mapping of the top of the Unayzah-C reservoir. ([[2016-hassan|Hassan, 2016, p. 11]])
-- Anisotropy was found to be very weak in both reservoirs (Unayzah-A and Unayzah-C), with an ellipticity ratio of less than 1, potentially due to noise, clastic lithology, and heterogeneity. ([[2016-hassan|Hassan, 2016, p. 12]])
-- Only a few locations showed an ellipticity ratio greater than 1, located along the western steep flank, possibly corresponding to N-S trending faults. ([[2016-hassan|Hassan, 2016, p. 12]])
-- No correlation was found between curvature, coherence, and AVOA in either the Unayzah-A or Unayzah-C reservoirs. ([[2016-hassan|Hassan, 2016, p. 12]])
-- The orientation of the ellipses was NW-SE, which did not align with the N-S structural trend. ([[2016-hassan|Hassan, 2016, p. 12]])
-- The maximum ellipticity (anisotropy intensity) ratio was 4.21 (421%) for the Unayzah-C reservoir and 3.97 (397%) for the Unayzah-A reservoir. ([[2016-hassan|Hassan, 2016, p. 31]])
-- Well testing of 8 wells showed that only WELL-I intersected a fracture zone or small conductive fault; the other seven were interpreted as homogeneous matrix wells. ([[2016-hassan|Hassan, 2016, p. 40]])
-- A total of 23 fractures were identified in 7 wells from borehole image logs, with 13 being nonconductive and only 10 being small layer-bound conductive fractures. ([[2016-hassan|Hassan, 2016, p. 33]])
-- The orientation of the ellipse's long axis was found to be more chaotic than the actual fracture data provided by well logs. ([[2016-hassan|Hassan, 2016]])
-- page_number_not_found ([[2016-hassan|Hassan, 2016]])
-- AVOA ellipticity maps portrayed both Unayzah-C and Unayzah-A reservoirs as highly fractured reservoirs. ([[2016-hassan|Hassan, 2016, p. 67]])
-- Both curvature and coherence attributes also predicted fractured reservoirs in both the Unayzah-C and Unayzah-A units. ([[2016-hassan|Hassan, 2016, p. 67]])
-- Well data, production data, and simulation results showed the opposite for Unayzah-A reservoir (indicating fewer fractures than suggested by seismic). ([[2016-hassan|Hassan, 2016, p. 67]])
-- The maximum ellipticity (anisotropy intensity) ratio is 4.21 (421%) for Unayzah-C reservoir and it is 3.97 (397%) for Unayzah-A reservoir. ([[2016-hassan|Hassan, 2016, p. 69]])
-- Most ellipticity values are less than 1, indicating weak anisotropy; values greater than 1 were concentrated on the western flank where faults were documented by image logs. ([[2016-hassan|Hassan, 2016, p. 69]])
+- The maximum ellipticity (anisotropy intensity) ratio was found to be 4.21 (421%) for the Unayzah-C reservoir and 3.97 (397%) for the Unayzah-A reservoir. ([[2016-hassan|Hassan, 2016, p. 31]])
+- Anisotropy was found to be very weak in both reservoirs, with an ellipticity ratio of less than 1 in most locations, potentially due to noise, clastic lithology, and heterogeneity. ([[2016-hassan|Hassan, 2016, p. 12]])
+- Only a few locations with an ellipticity ratio greater than 1 were identified on the western steep flank, which may correspond to potential N-S trending faults. ([[2016-hassan|Hassan, 2016, p. 12]])
+- No correlation was found between curvature, coherence and AVOA in either the Unayzah-A or Unayzah-C reservoirs. ([[2016-hassan|Hassan, 2016, p. 12]])
+- Well testing of 8 wells showed that only one well (WELL-I) intersected a fracture zone; the other seven were interpreted as homogeneous matrix wells. ([[2016-hassan|Hassan, 2016, p. 33]])
+- A total of 23 fractures were identified in 7 borehole image logs, but most were nonconductive and likely represented cemented fractures or granulation seams. ([[2016-hassan|Hassan, 2016, p. 32]])
+- The maximum in-situ stress is oriented NE-SW (based on 197 induced fractures and 14 breakouts), which is consistent with the regional trend. ([[2016-hassan|Hassan, 2016, p. 33]])
+- A study of critically stressed fractures by GMI found that fluid conductive fractures are unlikely in this field, supporting the conclusion from production data and well tests. ([[2016-hassan|Hassan, 2016, p. 43]])
 
 ## Limitations
 
-Well data (image logs and dynamic data) are only available for the Unayzah-A reservoir, leading to a lack of direct validation for the Unayzah-C reservoir. Additionally, many fractures in the area are nonconductive (cemented or filled with sand/clay), making them difficult to detect via seismic anisotropy.
+The primary limitations include the high degree of heterogeneity in the Unayzah-C formation (glacial clastic deposit), the prevalence of nonconductive fractures (cemented or filled with sand/clay) which do not produce significant AVOA signatures, and the lack of sufficient well data for the Unayzah-C reservoir.
 
 ## Recommendations and Future Work
 
-It is suggested to carefully process input data using the approach by Burnstad and Keho (2011) to eliminate stratigraphic effects and enhance AVOA results.
+Future research should include processing input data using methods to eliminate stratigraphic effects and enhance AVOA results by accounting for differences between in-situ stress orientation and dominant fracture strike.
 
 ## Related Concepts
 
 - [[avo-analysis]]
 - [[well-log-analysis]]
+- [[seismic-interpretation]]
+- [[unayzah-formation]]
+- [[central-saudi-area]]
 - [[fracture-characterization]]
 - [[anisotropy]]
-- [[unayzah-formation]]
-- [[central-saudi-arabia]]
-- [[ghawar-field]]
-- [[fractured-reservoirs]]
-- [[clastic-reservoirs]]
-- [[geophysics-general]]
+- [[petrophysics]]

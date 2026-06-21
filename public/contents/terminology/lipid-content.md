@@ -2,25 +2,23 @@
 type: terminology
 title: "Lipid Content"
 aliases:
-  - "oil content"
+  - "fatty acid content"
 canonical: true
-definition: "The percentage of dry weight consisting of lipids."
+definition: "The weight percentage of lipids in the biomass."
 units: "percentage (%)"
 related_techniques:
-  - "gc-ms"
-  - "extraction"
+  - "gc-fid"
 tags:
-  - theme/biofuel-production
   - theme/environmental-microbiology
 sources:
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Lipid Content
 
-**Summary**: The amount of lipids (fats) present in a biological sample.
+**Summary**: The amount of lipids present in a biological sample, often expressed as a percentage of dry weight.
 
 ---
 
@@ -30,18 +28,18 @@ last_updated: 2026-06-09
 
 ## Scientific Context
 
-- [[2016-ibrahim|Ibrahim, 2016]] High lipid content is a primary indicator for high biofuel yield.
+- [[2016-ibrahim|Ibrahim, 2016]] High lipid content is a primary indicator for biofuel potential.
 
 ## Measurement and Characterization Methods
 
-- [[2016-ibrahim|Ibrahim, 2016]] Extraction and quantification from biomass.
+- [[2016-ibrahim|Ibrahim, 2016]] calculated by dividing the weight of recovered lipid by the dry weight.
 
 ## Key Findings Across Sources
 
-- Lipid content was found to be 19%, 27%, and 14% in S1, S2, and S3 respectively. ([[2016-ibrahim|Ibrahim, 2016, p. 12]])
+- S2 strain showed the highest lipid content of 27% compared to S1 (19%) and S3 (14%). ([[2016-ibrahim|Ibrahim, 2016, p. 64]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

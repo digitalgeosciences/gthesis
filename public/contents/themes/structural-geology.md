@@ -2,71 +2,43 @@
 type: theme
 title: "Structural Geology"
 aliases:
-  - "tectonic structure"
+  - "structural characterization"
 canonical: true
-description: "Study of deformation and structural features like faults and folds."
-key_challenges: "Identifying active vs. inactive fracture sets in complex tectonic settings."
+description: "The study of the structure and deformation of rocks and the earth's crust."
+key_challenges: "Mapping complex fracture networks in both surface and subsurface environments."
 tags:
   - theme/structural-geology
 sources:
-  - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
-  - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
-  - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
   - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
-  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Structural Geology
 
-**Summary**: The study of the structure of the Earth's crust.
+**Summary**: The study of the structure and deformation of rocks and the earth's crust.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2017-benaafi|Benaafi, 2017]] applied structural-geology to analyze the impact of fault systems like the Najd Fault on the Wajid Group.
-
-- [[2017-abdelgader|Abdelgader, 2017]] analyzed the structural evolution of the Sufyan Sub-basin.
-
-- [[2018-hanif|Hanif, 2018]] applied structural-geology to map fault trends in the Dammam Dome.
-
-- [[2023-rafiq|Rafiq, 2023]] applied structural geology to characterize the geothermal system.
-
-- [[2023-arrofi|Arrofi, 2023]] used structural lineament analysis to identify potential geothermal reservoirs.
+- [[2023-rafiq|Rafiq, 2023]] conducted structural analysis to identify fault zones and fracture systems as fluid pathways.
 
 ## Key Subtopics
 
-- [[2017-benaafi|Benaafi, 2017]] ['fault analysis', 'fracture characterization']
-
-- [[2017-abdelgader|Abdelgader, 2017]] analyzed the structural evolution of the Sufyan Sub-basin.
-
-- [[2018-hanif|Hanif, 2018]] applied structural-geology to map fault trends in the Dammam Dome.
-
-- [[2023-rafiq|Rafiq, 2023]] applied structural geology to characterize the geothermal system.
-
-- [[2023-arrofi|Arrofi, 2023]] used structural lineament analysis to identify potential geothermal reservoirs.
+- [[2023-rafiq|Rafiq, 2023]] ['fault analysis', 'fracture characterization', 'lineament mapping']
 
 ## Methods and Approaches Used
 
-- [[2017-benaafi|Benaafi, 2017]] ['lineament mapping', 'aeromagnetic interpretation']
+- [[2023-rafiq|Rafiq, 2023]] ['remote-sensing', 'gis', 'aeromagnetic data']
 
 ## Key Findings Across Sources
 
-- The Ruwah fault zone is considered the most control on the Wajid Group sandstone in the study area. ([[2017-benaafi|Benaafi, 2017, p. 47]])
-
-- Identified transtensional movement and oblique extension as primary mechanisms. ([[2017-abdelgader|Abdelgader, 2017, p. 60]])
-
-- Identified three primary fault orientations: N 12.7° E, N 39° W, and N 48° W. ([[2018-hanif|Hanif, 2018, p. 97]])
-
-- Identified a complex network of faults and fractures controlling water and heat flow. ([[2023-rafiq|Rafiq, 2023, p. 16]])
-
-- Lineaments are used to determine the orientation and intensity of deformation in the subsurface. ([[2023-arrofi|Arrofi, 2023, p. 21]])
+- Identified high-fault fracture density zones (Zones A, B, E, I, J) that correlate with surface features. ([[2023-rafiq|Rafiq, 2023, p. 107]])
 
 ## Competing Approaches and Debates
 
-- [[2017-benaafi|Benaafi, 2017]] Identifying active vs. inactive fracture sets in complex tectonic settings.
+- [[2023-rafiq|Rafiq, 2023]] Mapping complex fracture networks in both surface and subsurface environments.
 
 ## Open Questions and Research Gaps
 

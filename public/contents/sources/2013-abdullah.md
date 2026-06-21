@@ -14,127 +14,100 @@ source_file: "raw/138928 - COMPARING HYDROCARBON VOLUME BETWEEN LSA (LAMINATED S
 url: "https://eprints.kfupm.edu.sa/id/eprint/138928/"
 study_area: "Not stated in source"
 keywords:
-  - Low Resistivity Pay (LRP)
-  - Low Resistivity Low Contrast (LRLC)
-  - High Resistivity Low Contrast (HRLC)
   - Laminated Sand Analysis (LSA)
-  - Thinly bedded formations
-  - Turbidite
-  - Fluvial
-  - Low Resistivity Sandstone
-  - Triaxial Resistivity Induction
+  - Low Resistivity Sandstone Reservoirs
   - Nuclear Magnetic Resonance (NMR)
-  - High-Resolution Borehole Image
+  - Triaxial Resistivity Induction
+  - Borehole Images
+  - Thinly bedded formations
+  - Petrophysical analysis
   - Laminated Sand Analysis
-  - NMR
-  - Borehole Image
-  - SHARP processing
-  - Thin Bed Analysis
-  - Low Resistivity Pay
+  - Low Resistivity Sandstone
   - Wireline NMR
-  - Triaxial Induction Logs
   - Borehole Image Logs
 techniques:
   - nmr
-  - triaxial-resistivity-logs
-  - borehole-images
-  - well-log-analysis
-  - petrophysics
   - triaxial-resistivity-induction
   - image-log-analysis
-  - triaxial-resistivity-induction-logs
-  - core-analysis
-  - shale-gamma-ray-spectrometry
-  - triaxial-induction-logs
+  - well-log-analysis
+  - petrophysics
+  - formation-evaluation
   - borehole-image-logs
+  - deconvolution
 tags:
   - degree/ms
-  - technique/well-log-analysis
   - technique/nmr
   - technique/triaxial-resistivity-induction
   - technique/image-log-analysis
-  - technique/triaxial-resistivity-induction-logs
-  - technique/core-analysis
+  - technique/well-log-analysis
+  - technique/petrophysics
+  - technique/formation-evaluation
   - theme/petrophysics
   - terminology/petrophysics
-  - terminology/reservoir-characterization
+  - terminology/petrophysics
   - terminology/porosity
-  - terminology/petrophysical-rock-typing
-  - terminology/clay-mineralogy
+  - terminology/water-saturation
+  - terminology/facies-analysis
+  - terminology/anisotropy
 status: ingested
 ---
 
 # COMPARING HYDROCARBON VOLUME BETWEEN LSA (LAMINATED SAND ANALYSIS) AND STANDARD TECHNIQUES IN LOW RESISTIVITY SANDSTONE RESERVOIRS
 
-**Summary**: The thesis compares Laminated Sand Analysis (LSA) techniques, utilizing triaxial induction logs and borehole image logs, against standard evaluation methods for determining hydrocarbon volumes in thinly bedded, low-resistivity sandstone reservoirs. It concludes that integrating multi-component induction data with NMR and image logs significantly improves the estimation of true sand formation resistivity and subsequent water saturation calculations.
+**Summary**: The thesis compares Laminated Sand Analysis (LSA) techniques, including Wireline NMR and Triaxial Resistivity Induction, against standard evaluation methods for determining hydrocarbon volumes in thinly bedded, low-resistivity sandstone reservoirs. The study demonstrates that high-resolution tools significantly improve the identification of pay zones and accurate water saturation calculations in turbidite and fluvial environments.
 
 ---
 
 ## Research Problem
 
-Standard formation evaluation logs (Gamma ray, Resistivity, Neutron, Density) have limited vertical resolution, causing them to fail in accurately characterizing thinly beded sand-shale sequences. In these environments, standard methods often overestimate clay volume (Vcl) and underestimate porosity and hydrocarbon saturation, leading to inaccurate reservoir evaluations.
+Standard formation evaluation methods using conventional logs (Gamma ray, resistivity, Neutron, and Density) often overestimate clay volume and underestimate porosity and hydrocarbon saturation in thinly bedded formations due to the low vertical resolution of the tools.
 
 ## Objectives
 
-- Evaluate the impact of thin bedding on standard petrophysical measurements.
-- Compare standard evaluation techniques with Laminated Sand Analysis (LSA).
-- Utilize advanced data such as NMR, Triaxial resistivity logs, and Borehole images to improve characterization of thinly bedded intervals.
-- Perform case studies in fluvial and turbidite environments to validate LSA results.
-- Compare hydrocarbon volume calculations between Laminated Sand Analysis (LSA) techniques and standard petrophysical methods.
-- Evaluate the use of NMR to identify low resistivity pays by distinguishing free fluid from bound fluid.
-- Utilize high-resolution borehole images to identify laminations and provide a high-resolution resistivity curve (SRES).
-- Apply Triaxial Resistivity Induction logs to derive horizontal (Rh) and vertical (Rv) resistivities to determine true sand resistivity in laminated zones.
-- Evaluate the impact of thin bed effects on standard petrophysical calculations.
-- Compare Laminated Sand Analysis (LSA) using NMR and borehole images against conventional log interpretation.
-- Demonstrate the effectiveness of SHARP processing for deconvolution of high-resolution image logs to improve reservoir characterization.
-- Evaluate thinly bedded low resistivity pays using LSA techniques compared to standard evaluations.
-- Compare the volume of hydrocarbons calculated from LSA techniques (NMR, borehole image logs, and triaxial induction) against standard evaluation methods.
-- Assess the impact of shale anisotropy on the estimation of sand and shale resistivity.
+- Evaluate two case studies in fluvial and turbidite environments featuring thin-bedded clastic formations with low resistivity values.
+- Compare conventional analysis (Gamma Ray, Deep Resistivity, Neutron-Density) against Laminated Sand Analysis (LSA).
+- Utilize Wireline Nuclear Magnetic Resonance (NMR) to distinguish free fluid from bound fluid volumes.
+- Use High Resolution Borehole Images to identify lamination and provide high-resolution log responses for each bed.
+- Employ Triaxial Resistivity Induction logs to derive horizontal (Rh) and vertical (Rv) resistivity to determine true sand resistivity in laminations.
+- Compare LSA techniques (NMR, borehole image logs, triaxial resistivity) with standard evaluation methods for thinly bedded pay zones.
 
 ## Methods
 
-The study follows a multi-step workflow: 1) Gathering open hole logs from two case studies (one fluvial, one turbidite). 2) Applying environmental corrections and depth matching. 3) Calculating initial formation evaluations using standard shaly-sand models. 4) Processing NMR logs to determine pore size distribution and fluid types. 5) Processing borehole images to generate high-resolution resistivity curves (SRES). 6) Matching standard logs to the SRES curve. 7) Processing Triaxial Resistivity Induction data via a 1D-inversion algorithm to obtain Rv and Rh. 8) Recomputing formation evaluations using LSA parameters. 9) Comparing results between conventional and LSA methods.
+The study follows a multi-step workflow: 1) Gathering open hole logs from two case studies. 2) Applying environmental corrections and depth-matching. 3) Computing formation evaluation using standard shaly-sand models (Gamma Ray, Deep Resistivity, Neutron-Density). 4) Processing NMR logs to determine T2 distributions and free/bound fluid volumes. 5) Processing borehole image logs to generate high-resolution resistivity curves (SRES). 6) Matching standard resolution logs to SRES curves. 7) Processing Triaxial Resistivity Induction logs using a 1D-inversion algorithm for Rv and Rh. 8) Recomputing formation evaluation using the integrated advanced techniques. 9) Comparing results between conventional and LSA methods.
 
 ## Data and Materials
 
-The study includes data from two specific wells (Well A and Well B). Well A is a Cretaceous fluvio-deltaic sandstone system; Well B is an offshore turbiditic sedimentary reservoir. Data types include Gamma Ray, Neutron-Density, NMR (T2 distribution), Borehole Images (SRES), and Triaxial Resistivity logs.
+Two case studies in different geological settings (fluvial and turbidite). Data includes: Gamma Ray, Neutron-Density, Deep/Shallow Resistivity, NMR logs, Borehole Images, and Triaxial Resistivity Induction logs. Specific calculations include T2 distribution analysis, SRES curve generation, and Klein/Clavaud equations for resistivity inversion.
 
 ## Key Findings
 
-- Standard evaluation methods in thinly bedded formations overestimate the volume of clay (Vcl) and underestimate porosity and hydrocarbon saturations. ([[2013-abdullah|Abdullah, 2013, p. 16]])
-- Laminated Sand Analysis (LSA) provides improved hydrocarbon estimations by utilizing data from NMR, Borehole Images, and Triaxial resistivity logs. ([[2013-abdullah|Abdullah, 2013, p. 16]])
-- Low Resistivity Low Contrast (LRLC) pays are often difficult to recognize with standard tools because they appear wet due to the presence of bound water in thin sand layers. ([[2013-abdullah|Abdullah, 2013, p. 19]])
-- Triaxial resistivity logs provide vertical (Rv) and horizontal (Rh) resistivity, which is critical for identifying laminated beds. ([[2013-abdullah|Abdullah, 2013, p. 26]])
-- Borehole images allow for the identification of high-resolution lithology and bed thickness below the resolution of standard tools. ([[2013-abdullah|Abdullah, 2013, p. 41]])
-- Standard resistivity tools often fail to distinguish between high-quality sand and low-resistivity pay because they respond primarily to the horizontal component (Rh) of the formation. ([[2013-abdullah|Abdullah, 2013, p. 24]])
-- Triaxial induction tools provide a 3x3 tensor magnetic field response, allowing for the derivation of both Rh and Rv, which is critical for identifying thin-bedded laminations. ([[2013-abdullah|Abdullah, 2013, p. 25]])
-- NMR measurements (T2 distribution) allow for the differentiation between free fluid volumes and bound fluid volumes (clay-bound and capillary-bound water). ([[2013-abdullah|Abdullah, 2013, p. 37]])
-- The use of advanced Klein equations (Clavaud equations) incorporating shale anisotropy (Rh and Rv of shale) improves the accuracy of sand resistivity calculation in complex lithologies. ([[2013-abdullah|Abdullah, 2013, p. 26]])
-- High-resolution borehole images provide evidence of lamination and can be used to generate a high-resolution resistivity curve (SRES). ([[2013-abdullah|Abdullah, 2013, p. 21]])
-- In Well A, the inclusion of NMR data revealed a 'hidden' producible zone between 55 ft and 30 ft where T2 distributions were biased toward the high end of the spectrum, indicating larger pores not captured by conventional logs. ([[2013-abdullah|Abdullah, 2013, p. 76]])
-- SHARP processing (deconvolution) successfully produced higher resolution lithofacies and petrophysical properties compared to standard-resolution logs in thin-bedded zones. ([[2013-abdullah|Abdullah, 2013, p. 81]])
-- In the thin-bed zone of Well A (55 ft - 30 ft), LSA using NMR and borehole images reduced the calculated water saturation from 0.89 to 0.68 and clay volume from 0.65 to 0.45 compared to conventional analysis. ([[2013-abdullah|Abdullah, 2013, p. 83]])
-- Well B showed high resistivity anisotropy (2-3) in the thin-bedded pay zone (X450-X250 ft), confirming the presence of laminated sand-shale sequences. ([[2013-abdullah|Abdullah, 2013, p. 91]])
-- Wireline NMR successfully identified hydrocarbons in thin-bedded pay zones by separating free fluid from bound fluid using 0.3 msec cutoffs. ([[2013-abdullah|Abdullah, 2013, p. 96]])
+- Standard evaluation methods in thinly bedded formations often lead to an underestimation of hydrocarbon volumes due to the low resolution of conventional tools. ([[2013-abdullah|Abdullah, 2013, p. 16]])
+- NMR analysis revealed a producible zone between 55 ft and 30 ft that was hidden or underestimated in the initial conventional evaluation. ([[2013-abdullah|Abdullah, 2013, p. 75]])
+- High-resolution borehole images provided clear evidence of lamination in the middle zone (55 ft to 20 ft) where standard logs failed to resolve individual beds. ([[2013-abdullah|Abdullah, 2013, p. 78]])
+- Triaxial Resistivity Induction allows for the calculation of horizontal (Rh) and vertical (Rv) resistivity, which is critical for determining true sand resistivity in laminated systems. ([[2013-abdullah|Abdullah, 2013, p. 43]])
+- The use of SRES curves from borehole images combined with NMR and Triaxial Resistivity provides a more accurate representation of lithofacies and fluid distribution. ([[2013-abdullah|Abdullah, 2013, p. 78]])
+- In Well A, the inclusion of NMR and borehole image logs identified additional hydrocarbon volumes in a thin bed zone (XX55 ft – XX30 ft) that were missed by conventional analysis. ([[2013-abdullah|Abdullah, 2013, p. 83]])
+- In the thin-bedded pay zone of Well A, LSA reduced the calculated clay volume (VCL) from 0.65 to 0.45 and improved water saturation (SWIT) from 0.89 to 0.68. ([[2013-abdullah|Abdullah, 2013, p. 83]])
+- In Well B, the triaxial resistivity induction logs confirmed increased hydrocarbon volume in thinly bedded formations by utilizing both Rv and Rh values. ([[2013-abdullah|Abdullah, 2013, p. 98]])
+- The use of a shale anisotropy factor (alpha) of 2.5 was determined to be critical; using alpha=1 resulted in erroneous hydrocarbon saturations in high-shale content zones. ([[2013-abdullah|Abdullah, 2013, p. 96]])
+- Triaxial resistivity inversion showed the highest resistivity anisotropy (Rv/Rh) in the thin-bedded pay zone of Well B, reaching values between 2 and 3. ([[2013-abdullah|Abdullah, 2013, p. 93]])
 
 ## Limitations
 
-The study notes that additional data from tested core labs, downhole formation tester data, and drill stem tests are required to confirm the calculated hydrocarbon volumes and producibility of the laminated sequences.
+The study notes that while LSA techniques provide superior resolution, final confirmation of hydrocarbon volumes and producibility requires additional data from core labs, downhole formation testers, and drill stem tests.
 
 ## Recommendations and Future Work
 
-Future work should incorporate core lab analysis, downhole formation tester data, and drill stem test results to validate the petrophysical models used for LSA.
+Future work should incorporate more extensive core lab testing, downhole formation tester data, and drill stem test results to validate the petrophysical models for these laminated sequences.
 
 ## Related Concepts
 
 - [[nmr]]
-- [[well-log-analysis]]
-- [[petrophysics]]
-- [[reservoir-characterization]]
-- [[porosity]]
-- [[petrophysical-rock-typing]]
-- [[saudi-arabia]]
 - [[triaxial-resistivity-induction]]
 - [[image-log-analysis]]
-- [[triaxial-resistivity-induction-logs]]
-- [[clay-mineralogy]]
+- [[petrophysics]]
+- [[not-stated-in-source]]
+- [[porosity]]
+- [[water-saturation]]
+- [[facies-analysis]]
+- [[anisotropy]]

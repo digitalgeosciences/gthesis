@@ -1,31 +1,30 @@
 ---
 type: technique
-title: "Amt"
+title: "Audio Modulation Technology"
 aliases:
-  - "Audio Magnetotelluric"
-  - "AMT"
+  - "audio-magnetotelluric"
+  - "frequency-domain electromagnetic"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "resistivity and phase data"
+output: "resistivity and phase information"
 tags:
   - technique/amt
-  - theme/geophysics-general
 sources:
   - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
-# Amt
+# Audio Modulation Technology
 
-**Summary**: A frequency-domain electromagnetic method used to provide deep subsurface resistivity and phase information.
+**Summary**: A geophysical method that measures natural variations in the Earth's magnetic and electric fields to determine subsurface resistivity.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2025-ahmed|Ahmed, 2025]] applied AMT to expand the depth of research and improve stratigraphic interpretation.
+- [[2025-ahmed|Ahmed, 2025]] applied AMT to extend the depth of investigation and provide phase information for better stratigraphic interpretation.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- AMT data provided additional resistivity and phase information, improving the identification of carbonate zones and freshwater aquifers. ([[2025-ahmed|Ahmed, 2025, p. 15]])
+- AMT data processed with KMSPro provided additional depth and phase info, improving structural interpretation. ([[2025-ahmed|Ahmed, 2025, p. 15]])
 
 ## Methodological Variations Across Sources
 

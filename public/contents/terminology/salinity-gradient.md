@@ -4,41 +4,42 @@ title: "Salinity Gradient"
 aliases:
   - "salinity gradient"
 canonical: true
-definition: "Variation in salt concentration in water bodies."
-units: "PSU"
-related_techniques: []
+definition: "The variation of salt concentration in a body of water."
+units: "PSU (Practical Salinity Units)"
+related_techniques:
+  - "multi-meter probe"
 tags:
-  - theme/marine-geochemistry
+  - theme/marine-chemistry
 sources:
   - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Salinity Gradient
 
-**Summary**: A change in the concentration of dissolved salts in water over a specific distance or area.
+**Summary**: A change in salt concentration over a geographic distance or environmental transition.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-alsadah|Alsadah, 2024]] investigated the Mg/Ca ratio along a salinity gradient in the Arabian Gulf.
+- [[2024-alsadah|Alsadah, 2024]] studied the Mg/Ca ratio along a salinity gradient in the Arabian Gulf.
 
 ## Scientific Context
 
-- [[2024-alsadah|Alsadah, 2024]] High salinity can influence the chemical signature of foraminiferal shells, potentially confounding temperature signals.
+- [[2024-alsadah|Alsadah, 2024]] Salinity affects the chemical composition and biological response of marine organisms.
 
 ## Measurement and Characterization Methods
 
-- [[2024-alsadah|Alsadah, 2024]] measured via multi-meter probes at various locations.
+- [[2024-alsadah|Alsadah, 2024]] Measured using multi-meter probes in situ.
 
 ## Key Findings Across Sources
 
-- The study observed a range of salinities from 51.6 to 79.7 PSU across the sampled locations. ([[2024-alsadah|Alsadah, 2024, p. 36]])
+- High salinity (51.60-79.70 PSU) significantly impacts paleothermometry calculations by increasing Mg incorporation. ([[2024-alsadah|Alsadah, 2024, p. 14]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

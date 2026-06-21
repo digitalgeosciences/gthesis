@@ -2,51 +2,45 @@
 type: terminology
 title: "Pore Types"
 aliases:
-  - "porosity types"
+  - "pore types"
 canonical: true
-definition: "Classification of pores based on their geometry and formation process."
+definition: "Classification of pores based on shape, size, and connectivity."
 units: "not applicable"
 related_techniques:
-  - "petrography"
+  - "thin-section-petrography"
+  - "sem"
 tags:
-  - theme/reservoir-characterization
+  - terminology/pore-types
 sources:
-  - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
   - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Pore Types
 
-**Summary**: The classification of pores based on their shape and origin.
+**Summary**: The classification of pores based on their geometry, size, and origin.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2017-yousif|Yousif, 2017]] identified different pore types to assess the impact of diagenesis on reservoir quality.
-
-- [[2022-salih|Salih, 2022]] categorized pore types into eight categories including interparticle, moldic, vugs, and micro-intercrystalline.
+- [[2022-salih|Salih, 2022]] identified eight pore types to determine their impact on acoustic velocity.
 
 ## Scientific Context
 
-- [[2017-yousif|Yousif, 2017]] Pore types are essential for understanding the connectivity and volume of reservoir space.
-
-- [[2022-salih|Salih, 2022]] categorized pore types into eight categories including interparticle, moldic, vugs, and micro-intercrystalline.
+- [[2022-salih|Salih, 2022]] Determines the relationship between porosity and acoustic velocity via EPAR.
 
 ## Measurement and Characterization Methods
 
-- [[2017-yousif|Yousif, 2017]] identified through thin-section petrography.
+- [[2022-salih|Salih, 2022]] identified using thin-section petrography and SEM.
 
 ## Key Findings Across Sources
 
-- Four primary pore types were identified: fracture, intraparticle, moldic, and intercrystalline; fracture and intraparticle are the dominant types. ([[2017-yousif|Yousif, 2017, p. 19]])
+- Oomoldic and framework pores have higher EPAR values (~0.4) compared to interparticle and microporosity (EPAR < 0.1). ([[2022-salih|Salih, 2022, p. 68]])
 
-- Moldic porosity was identified as the most common pore type by volume in the study area. ([[2022-salih|Salih, 2022, p. 59]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -13,170 +13,136 @@ committee_members:
   - "Waleed Abdulghani"
 source_file: "raw/140444 - MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAU.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140444/"
-study_area: "Tuwaiq Mountain Formation, Shaqra quadrangle, Central Saudi Arabia"
+study_area: "Shaqra' quadrangle, Al-Majma'ah Governorate, Central Saudi Arabia"
 keywords:
-  - Microfacies
-  - Diagenesis
   - Tuwaiq Mountain Formation
-  - Jurassic
-  - Saudi Arabia
-  - Carbonate Reservoirs
-  - carbonate reservoir
+  - microfacies
+  - diagenesis
   - petrophysical properties
-  - porosity evolution
-  - Jafura basin
-  - petrology
+  - carbonate reservoir
   - depositional environment
-  - carbonate
-  - carbonate platform
+  - Saudi Arabia
+  - petrography
+  - sedimentology
   - porosity
-  - permeability
-  - carbonate rocks
+  - calcitization
   - meteoric diagenesis
-  - Wettability
-  - Petrophysics
+  - permeability
 techniques:
   - xrd
   - sem-eds
-  - thin-section-petrography
-  - porosity-and-permeability-measurement
-  - xrf
   - cathodoluminescence
-  - sem
-  - core-analysis
-  - well-log-analysis
+  - xrf
   - micro-ct-scan
+  - petrography
+  - porosity-and-permeability-measurement
   - contact-angle-measurement
-  - field-photography
-  - polarized-microscope
-  - reflected-microscope
+  - thin-section-petrography
+  - microfacies-analysis
+  - lithostratigraphy
+  - sequence-stratigraphy
+  - sem
 tags:
   - degree/ms
   - formation/tuwaiq-mountain-formation
-  - formation/tuwaiq-mountain-formations
-  - location/central-saudi-arabia
-  - location/saudi-arabia
+  - location/central-saudi-area
   - technique/xrd
   - technique/sem-eds
-  - technique/thin-section-petrography
-  - technique/xrf
   - technique/cathodoluminescence
-  - technique/sem
+  - technique/xrf
   - technique/micro-ct-scan
+  - technique/petrography
+  - technique/porosity
+  - technique/contact-angle-measurement
+  - technique/thin-section-petrography
+  - technique/microfacies-analysis
+  - technique/sem
   - theme/microfacies-analysis
   - theme/diagenesis
-  - theme/carbonate-geology
   - theme/petrophysics
+  - theme/carbonate-geology
   - theme/sedimentology
   - terminology/diagenesis
   - terminology/microfacies-analysis
   - terminology/porosity
   - terminology/permeability
-  - terminology/sedimentology
-  - terminology/micritization
-  - terminology/dolomitization
+  - terminology/wettability
+  - terminology/facies-analysis
+  - terminology/calcitization
 status: ingested
 ---
 
 # MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the Tuwaiq Mountain Formation (TMF) in Central Saudi Arabia, focusing on its microfacies, diagenetic history, and impact on petrophysical properties. Through a combination of field work, thin-section petrography, XRD, XRF, and SEM, the study identifies eight distinct microfacies and characterizes complex diagenetic processes like dolomitization and silicification.
+**Summary**: The thesis investigates the microfacies and diagenetic history of the Tuwaiq Mountain Formation (TMF) in Central Saudi Arabia, focusing on how depositional textures and diagenetic processes like meteoric dissolution and calcitization control petrophysical properties. It identifies eight distinct microfacies and evaluates their porosity, permeability, and wettability through thin-section analysis, SEM, and contact angle measurements.
 
 ---
 
 ## Research Problem
 
-The TMF contains significant hydrocarbon reservoirs (e.g., Khurais and Ghawar fields), but its complex history of carbonate deposition and subsequent diagenesis—including dolomite calcitization and meteoric alteration—requires detailed characterization to understand the controls on reservoir quality and petrophysical properties.
+The Tuwaiq Mountain Formation (TMF) contains significant hydrocarbon reservoirs in the Khurais and Ghawar fields, but its petrophysical properties are poorly understood due to complex diagenetic overprints and varying depositional environments. The study aims to determine how specific microfacies and diagenetic processes like meteoric diagenesis impact porosity, permeability, and wett ability.
 
 ## Objectives
 
-- Characterize the microfacies of the Tuwaiq Mountain Formation
-- Identify the paragenetic sequence and diagenetic features of the TMF
-- Evaluate the impact of diagenesis on petrophysical properties (porosity and permeability)
-- Develop a depositional model for the TMF
-- Determine different microfacies and their depositional environments within the TMF
-- Build a 3D conceptual depositional model of the TMF
-- Define different diagenetic alterations and their specific environments
-- Determine the controls on petrophysical properties (porosity, permeability, and wettability) in the TMF
 - Recognition of various lithofacies and facies associations in the TMF and interpretation of their palaeoenvironmental conditions along a strike oriented cross section in the basin.
 - Conduct a detailed analysis of the microfacies for recognition of potential reservoir properties based on mineralogical and textural data to establish a depositional model.
 - Identification of the diagenetic patterns of the TMF and their effect on porosity and permeability.
-- Integration of depositional and diagenetic controls on the porosity evolution and resulting reservoir quality.
-- Describe the carbonate microfacies of the T1, T2, and T3 members of the Tuwaiq Mountain Formation.
-- Identify the diagenetic features affecting reservoir quality in these members.
-- Determine the depositional environments for each lithofacies association.
-- Establish a depositional model for the Tuwaiq Mountain Formation.
-- Identify and characterize distinct carbonate microfacies within the Tuwaiq Mountain Formation.
-- Analyze the role of various diagenetic processes in affecting rock texture and porosity.
-- Interpret depositional environments for each identified microfacies based on sedimentological and paleontological data.
-- Characterize the microfacies of the Tuwaiq Mountain Formation (TMF) to understand depositional environments.
-- Identify and analyze the diagenetic features and paragenetic sequence of the TMF carbonates.
-- Establish a 3D conceptual depositional model for the TMF based on lithofacies and sedimentary cycles.
-- Investigate the presence of siliciclastic input in the TMF using XRF analysis.
-- Characterize the microfacies of the Tuwaiq Mountain Formation.
-- Identify and quantify various diagenetic processes including micritization, recrystallization, dissolution, dolomitization, cementation, and silicification.
-- Determine the timing and sequence of diagenetic events (erogenic, mesogenic, telogenic).
-- Characterize the microfacies and paragenetic sequence of the Tuwaiq Mountain Formation (TMF).
-- Evaluate the impact of diagenetic processes, specifically dolomite calcitization and meteoric dissolution, on porosity and permeability.
-- Determine the effect of rock chemistry and lithology on wettability through contact angle measurements across different microfacies.
-- Identify and characterize the distinct microfacies within the Tuwaiq Mountain Formation (TMF).
-- Determine the sequence stratigraphic framework and depositional environments of the TMF.
-- Investigate the complex diagenetic history affecting porosity, permeability, and reservoir quality.
-- Evaluate the impact of mineralogy and diagenesis on rock wettability through contact angle measurements.
+- Integration of deepened and diagenetic controls on the porosity evolution and resulting reservoir quality.
+- Describe and characterize the microfacies of the Tuwaiq Mountain Formation using thin-section petrography.
+- Identify and characterize the microfacies of the Tuwaiq Mountain Formation (TMF) to understand depositional environments.
 
 ## Methods
 
-The study integrated field work, laboratory analysis, and data interpretation. Field work involved measuring three sections (T1, T2, T3) in the Shaqra' quadrangle to describe lithofacies, sedimentary structures, and macroporosity. Laboratory analysis included: 105 thin sections prepared with blue epoxy resin and Alizarin red-S staining; petrographic analysis using an Olympus EX51 microscope; porosity/permeability measurements on 50 samples using an AP-608 automated porosimeter; XRD (Rigaku Miniflex II) on 15 powdered samples to identify minerals like calcite, dolomite, and quartz; SEM-EDS (JEOL JSM-5900LV) on 27 gold-coated chips for small-scale diagenetic features; XRF (JSX-3400RII) on 54 samples for major/trace elements; Micro CT-Scan on 4 samples to visualize 3D pore networks; and cathodoluminescence microscopy at Saudi Aramco to distinguish mineral species. Contact angle measurements were performed using a Vinci Technologies IFT700.
+The study integrated field work, laboratory analysis, and data interpretation. Fieldwork involved measuring three sections (T1, T2, T3) in the Shaqra quadrangle to determine lithofacies and sedimentary structures. Laboratory analysis included: 105 thin sections prepared with blue epoxy resin and Alizarin red-S staining for petrography; porosity and permeability measurements on 50 samples using an Automated Porosimeter-Permeameter (AP-608); XRD on 15 powdered samples to identify mineralogy; SEM-EDS on 27 gold-coated chips to observe small-scale diagenetic features; XRF on 54 samples for elemental analysis; Micro CT-Scan on 4 samples to visualize 3D pore networks; and cathodoluminescence (CL) on 4 samples to distinguish mineral species. Contact angle measurements were performed using a Vinci Technologies IFT700 system.
 
 ## Data and Materials
 
-The study utilizes samples from the Tuwaiq Mountain Formation in the Shaqra quadrangle, including various carbonate facies such as coral rudstone, packstone, and grainstone. Data includes thin sections, SEM images, XRD results for mineralogy (e.g., Sr concentration), and contact angle measurements for wettability analysis.
+The study analyzed samples from the TMF in the Shaqra quadrangle, including three members (T1, T2, and T3). Data included thin section photomicrographs, SEM images of various pore types, XRD/XRF mineralogical data for 4-5 specific microfacies, and contact angle measurements on four distinct microfacies.
 
 ## Key Findings
 
-- The Tuwaiq Mountain Formation contains three distinct members (T1, T2, T3) with varying microfacies and diagenetic features. ([[2017-elyamani|ElYamani, 2017, p. 47]])
-- Microfacies include coral peloidal rudstone (MF 1), coral rudstone (MF 2), coral floatstone with spiculitic matrix (MF 3), spiculitic wackestone (MF 4), and fine-grained peloidal grainstone (MF 6). ([[2017-elyamani|ElYamani, 2017, p. 67]])
-- Diagenetic features include microbial micritization, recrystallization/neomorphism, dissolution, evaporite precipitation/dissolution, dolomitization, cementation, silicification, and fracturing. ([[2017-elyamani|ElYamani, 2017, p. 100]])
-- The TMF is characterized by a variety of depositional environments including shoal, shallow lagoon, and deep lagoon settings. ([[2017-elyamani|ElYamani, 2017, p. 83]])
-- Petrophysical properties (porosity and permeability) are significantly influenced by diagenetic processes such as dissolution and cementation. ([[2017-elyamani|ElYamani, 2017, p. 131]])
-- Eight distinct microfacies were identified: MF1 coral rudstone, MF2 coral rudstone with intraclasts and coated grains, MF3 coral floatstone, MF4 spiculitic wackstone, MF5 worn and coated foraminiferal wack/pack-stone, MF6 non-laminated peloidal grainstone, MF7 peloidal packstone, and MF8 peloidal grainstone. ([[2017-elyamani|ElYamani, 2017, p. 19]])
-- The TMF was deposited in the interior part of a rimmed carbonate platform with three main environments: deep lagoon, shallow lagoon, and shoal. ([[2017-elyamani|ElYamani, 2017, p. 19]])
-- XRF results indicate a signature of siliciclastic input potentially from tidal channels or windblown dust (shield-derived). ([[2017-elyamani|ElYamani, 2017, p. 20]])
-- The TMF shows a general shallowing upward trend, representing a major regressive cycle with sub-cycles likely driven by Milankovitch cycles. ([[2017-elyamani|ElYamani, 2017, p. 20]])
-- Dolomitization in the TMF is attributed to hypersaline fluids based on texture, association with evaporites, and Sr concentrations of 800-1200 ppm. ([[2017-elyamani|ElYamani, 2017, p. 20]])
-- Silicification occurred via leaching and reprecipitating of sponge spicules (calcarenite/carbonate context). ([[2017-elyamani|ElYamani, 2017, p. 20]])
-- Dolomite calcitization resulted from meteoric fluids, evidenced by the presence of equant calcite crystals filling rhombohedral pores. ([[2017-elyamani|ElYamani, 2017, p. 21]])
-- Porosity ranges from less than 2% to a maximum of 19%, and permeability is generally below 1 mD in most cases. ([[2017-elyamani|ElYamani, 2017, p. 21]])
-- Meteoric diagenesis had a positive effect on pore space by creating vuggy and moldic porosities, particularly in grain-dominated facies. ([[2017-elyamani|ElYamani, 2017, p. 21]])
-- Contact angle measurements showed that microfacies heterogeneity (surface chemistry, texture, organic content) significantly impacts wettability; e.g., MF4 (~11°), MF5 (~30°), MF3 (~54°), and MF1 (~46°). ([[2017-elyamani|ElYamani, 2017, p. 153]])
+- Eight microfacies types were identified in the TMF: MF 1 coral rudstone, MF 2 coral rudstone with intraclasts and coated grains, MF 3 coral floatstone, MF 4 spiculitic wackstone, MF 5 worn and coated foraminiferal wack/pack-stone, MF 6 non-laminated peloidal grainstone, MF 7 peloidal packstone, and MF 8 peloidal grainstone. ([[2017-elyamani|ElYamani, 2017, p. 19]])
+- XRF results show a signature of siliciclastic input which may be attributed to a tidal channel and/or windblown dust as shield derived siliciclastic input. ([[2017-elyamani|ElYamani, 2017, p. 20]])
+- The facies stacking pattern shows a general shallowing upward, indicating a major regressive cycle from deep lagoonal to shallow lagoon and finally shoal-derived sediments. ([[2017-elyamani|ElYamani, 2017, p. 20]])
+- Cyclicity analysis suggests that the scale of small-scale and medium-scale cycles are probably of 4th and 5th order, potentially driven by Milankovitch cycles. ([[2017-elyamani|ElYamani, 2017, p. 20]])
+- Dolomitization is attributed to hypersaline fluids based on texture, association with evaporites, and Sr concentrations of 800-1200 ppm. ([[2017-elyamani|ElYamani, 2017, p. 20]])
+- Silicification is interpreted to have occurred via leaching and reprecipitating of sponge spicules. ([[2017-elyamani|ElYamani, 2017, p. 20]])
+- Dolomite calcitization resulted from meteoric fluids, as evidenced by rhombohedral pores filled with equant crystals of calcite cement. ([[2017-elyamani|ElYamani, 2017, p. 21]])
+- Porosity ranges from less than 2% to a maximum of 19%, and permeability in most cases is below 1 mD. ([[2017-elyamani|ElYamani, 2017, p. 21]])
+- Contact angle measurements revealed that microfacies heterogeneity (surface rock chemistry, texture, and organic matter) significantly impacts wettability. ([[2017-elyamani|ElYamani, 2017, p. 21]])
+- A correlation of R2=0.8981 was found between Al3+ concentration and contact angle, indicating that Al3+ plays a significant role in rock wettability. ([[2017-elyamani|ElYamani, 2017, p. 154]])
+- The Tuwaiq Mountain Formation is divided into three members (T1, T2, and T3) based on fossil content and lithology. ([[2017-elyamani|ElYamani, 2017, p. 44]])
+- Member T1 contains coral-derived facies (rudstones/wackestones) and mud-supported facies (skeletal mud-wackstone). ([[2017-elyamani|ElYamani, 2017, p. 66]])
+- Member T2 consists of two units: a lower unit with reef-derived facies and an upper unit with grain-supported peloidal facies. ([[2017-elyamani|ElYamani, 2017, p. 66]])
+- Member T3 is primarily composed of reef-derived facies (rudstones/wackstone) and alternates with mud-supported facies. ([[2017-elyamani|ElYamani, 2017, p. 67]])
+- MF 1 (Coral peloidal rudstone) indicates a high-energy environment, likely in a shallow lagoon above the fair weather wave base (FWWB). ([[2017-elyamani|ElYamani, 2017, p. 78]])
 
 ## Limitations
 
-A detailed understanding of microfacies and stratigraphic architecture is not always possible using subsurface data alone due to limitations in data availability and resolution, necessitating the use of surface outcrop analogs.
+The estimation of high-frequency cycle durations is difficult due to a lack of precise geochronology or specific biostratigraphic constraints; additionally, the absence of a complete succession of all members (T1, T2, T3) in the study area hinders accurate counting of small-scale cycles.
 
 ## Recommendations and Future Work
 
-- Perform isotope analysis on different cement types to better identify diagenetic fluids and environments.
-- Study additional outcrops of the TMF in different locations to improve understanding of regional depositional environment and paleogeography.
-- Conduct analysis of insoluble residues to confirm the presence of clay minerals (Al, K, Si) not captured by standard XRF if they are not silicified.
+- Perform isotope analysis of different cement types to identify specific diagenetic fluids.
+- Study additional TMF outcrops in different locations to improve understanding of regional paleogeography.
+- Conduct analysis of insoluble residues to identify clay minerals (Al, K, Si) not captured by XRF.
 
 ## Related Concepts
 
 - [[xrd]]
 - [[sem-eds]]
-- [[thin-section-petrography]]
+- [[micro-ct-scan]]
 - [[tuwaiq-mountain-formation]]
-- [[central-saudi-arabia]]
+- [[central-saudi-area]]
 - [[diagenesis]]
 - [[microfacies-analysis]]
-- [[carbonate-geology]]
-- [[reservoir-characterization]]
-- [[xrf]]
-- [[sem]]
+- [[petrophysics]]
 - [[porosity]]
 - [[permeability]]
-- [[micro-ct-scan]]
-- [[tuwaiq-mountain-formations]]
-- [[sedimentology]]
-- [[micritization]]
-- [[dolomitization]]
+- [[wettability]]
+- [[thin-section-petrography]]
+- [[facies-analysis]]
+- [[carbonate-geology]]
+- [[xrf]]
+- [[sem]]
+- [[calcitization]]

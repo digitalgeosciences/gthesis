@@ -2,28 +2,29 @@
 type: technique
 title: "Acetic Acid Treatment"
 aliases:
-  - "acetic acid method"
+  - "acetic acid treatment"
+  - "acetic acid disaggregation"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "liberated microfossils"
+output: "disaggregated carbonate rock and released microfossils"
 tags:
   - technique/acetic-acid-treatment
 sources:
   - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Acetic Acid Treatment
 
-**Summary**: A chemical treatment used to dissolve limestone while preserving the structure of microfossils.
+**Summary**: A chemical process used to break down carbonate matrix and release microfossils.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2016-septriandi|Septriandi, 2016]] implemented and optimized the acetic acid method for extracting microfossils from indurated Miocene carbonates.
+- [[2016-septriandi|Septriandi, 2016]] used acetic acid treatment to extract foraminifera from lithified carbonate rocks.
 
 ## Instruments and Software
 
@@ -35,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The process involved soaking 100g of carbonate samples in a solution of 80% acetic acid and 20% distilled water for 10 hours to extract microfossils. ([[2016-septriandi|Septriandi, 2016, p. 46]])
+- The method was successful for extracting foraminifera without destroying the fossil content, allowing for accurate counting of abundance and morphotypes. ([[2016-septriandi|Septriandi, 2016, p. 90]])
 
 ## Methodological Variations Across Sources
 

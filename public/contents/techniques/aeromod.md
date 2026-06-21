@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "concentration distribution of pollutants"
+output: "pollutant concentration maps and values at specific receptors"
 tags:
   - technique/aeromod
   - theme/environmental-geoscience
 sources:
   - "raw/142010 - MODELLING THE EFFECTS OF CLIMATE CHANGE ON AIR QUALITY IN THE DAMMAM METROPOLITA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Aeromod
 
-**Summary**: An atmospheric dispersion model used to estimate the concentration of air pollutants from various sources.
+**Summary**: An atmospheric dispersion model used to estimate the concentration of pollutants in the atmosphere from various sources.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-mustapha|Mustapha, 2022]] used AERMOD to calculate dispersion and downwind concentration of SO2 in the Dammam area.
+- [[2022-mustapha|Mustapha, 2022]] used AERMOD to predict SO2 dispersion trends in the Dammam area under varying climate scenarios.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- AERMOD is an approved tool for ambient air quality assessment worldwide, capable of providing refined concentration estimates over a wide scope of meteorological conditions. ([[2022-mustapha|Mustapha, 2022, p. 19]])
+- The model successfully predicted that wind speed changes had a more significant impact on SO2 concentrations than temperature changes. ([[2022-mustapha|Mustapha, 2022, p. 15]])
 
 ## Methodological Variations Across Sources
 

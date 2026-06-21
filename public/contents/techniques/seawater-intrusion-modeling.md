@@ -2,30 +2,29 @@
 type: technique
 title: "Seawater Intrusion Modeling"
 aliases:
-  - "DDFM"
-  - "density-dependent flow modeling"
+  - "SWI modeling"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "salt concentration maps and transition zone locations"
+output: "spatial maps of the saltwater-freshwater interface"
 tags:
   - technique/seawater-intrusion-modeling
-  - theme/saline-intrusion
+  - theme/hydrogeology
 sources:
   - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Seawater Intrusion Modeling
 
-**Summary**: Modeling the interaction between saline and fresh water using density differences.
+**Summary**: Specific numerical modeling techniques to simulate the movement of saline water into freshwater aquifers.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-ahmad|Ahmad, 2024]] applied SEAWAT to perform density-dependent flow modeling (DDFM) for salt transport.
+- [[2024-ahmad|Ahmad, 2024]] applied seawater-intrusion-modeling using SEAWAT to evaluate coastal aquifer vulnerability.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Integrated MODFLOW and MT3DMS into SEAWAT to simulate the movement of the saltwater-freshwater interface. ([[2024-ahmad|Ahmad, 2024, p. 32]])
+- The model showed that sea level rise and reduced recharge directly correlate with increased inland salt migration. ([[2024-ahmad|Ahmad, 2024, p. 32]])
 
 ## Methodological Variations Across Sources
 

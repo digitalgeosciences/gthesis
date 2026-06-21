@@ -12,30 +12,28 @@ committee_members:
   - "Mehmet Namik Cagatay"
 source_file: "raw/9913 - Geological, mineralogical and geostatistical studies on Zarghat magnesite deposi.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/9913/"
-study_area: "Zarghat magnesite deposit, Northern part of the Arabian Shield, Saudi Arabia"
+study_area: "Zarghat area, Northern part of the Arabian Shield, Saudi Arabia"
 keywords:
-  - magnesite
-  - geostatistics
-  - mineralogy
-  - petrography
-  - Saudi Arabia
   - magnesite deposit
+  - mineralogy
+  - geostatistics
   - Jibalah Group
-  - carbonate formation
-  - dolomite
-  - semivariogram
-  - geostatistical studies
-  - sedimentary origin
   - carbonate sequence
+  - Saudi Arabia
+  - magnesite
+  - semivariogram
+  - dolomite
+  - sedimentary origin
 techniques:
+  - thin-section-petrography
   - xrd
   - dta
   - sem
-  - microprobe-analysis
-  - thin-section-petrography
+  - sem-ed
   - geostatistics
-  - sem-eds
-  - x-ray-powder-diffractometer
+  - variogram-analysis
+  - cross-semivariogram
+  - microscopy
   - kriging
 tags:
   - degree/ms
@@ -43,98 +41,81 @@ tags:
   - location/saudi-arabia
   - technique/xrd
   - technique/sem
+  - technique/sem-ed
   - technique/thin-section-petrography
   - technique/geostatistics
-  - technique/sem-ed
-  - technique/dta
-  - technique/kriging
-  - theme/mineral-resource-estimation
+  - technique/variogram-analysis
   - theme/mineralogy
-  - theme/geology-of-deposits
+  - theme/general-geochemistry
+  - theme/sedimentary-petrology
   - theme/geostatistics
-  - theme/sedimentology
-  - theme/magnesite-deposits
+  - theme/mineral-resource-estimation
+  - theme/carbonate-sedimentology
+  - terminology/magnesite-deposits
   - terminology/diagenesis
-  - terminology/cryptocrystalline
-  - terminology/semivariogram
+  - terminology/carbonate-sedimentology
 status: ingested
 ---
 
 # Geological, mineralogical and geostatistical studies on Zarghat magnesite deposit, Saudi Arabia
 
-**Summary**: The thesis investigates the Zarghat magnesite deposit in the northern Arabian Shield, focusing on its mineralogical composition, texture, and spatial distribution of chemical components. Using techniques like XRD, DTA, SEM, and geostatistical modeling (semivariograms), it characterizes the ore's purity and provides a basis for future economic feasibility.
+**Summary**: The thesis investigates the mineralogical, textural, and geostatistical characteristics of the Zarghat magnesite deposit in the Jibalah Group of the Arabian Shield. It utilizes XRD, DTA, SEM, and petrographic microscopy to characterize the carbonate minerals and employs semivariogram analysis to determine the spatial distribution of chemical components.
 
 ---
 
 ## Research Problem
 
-The study addresses the need to characterize the mineralogical composition, texture, and spatial distribution of chemical components (MgO and CaO) within the Zarghat magnesite deposit to understand its genesis and potential for industrial use.
+The study addresses the need to understand the mineralogical composition, textural characteristics, and spatial distribution of variables (MgO and CaO) within the Zarghat magnesite deposit to clarify its geological origin and potential for industrial use.
 
 ## Objectives
 
 - Study the geological setting of the Zarghat magnesite deposit.
-- Determine the mineralogical and textural characteristics of the magnesite and associated rocks.
-- Evaluate the spatial distribution of variables (crude/calcined MgO and CaO) within the ore body using geostatistical computations.
-- To describe the geology and structure of the Zarghat area.
-- To characterize the mineralogy of the magnesite and associated rocks using XRD, SEM, and DTA.
-- To evaluate the thermal behavior of the magnesite for potential use as a refractory material.
-- Determine the mineralogical composition of the magnesite and associated dolomite minerals.
-- Identify the paragenetic sequence of minerals in the deposit.
-- Quantify the spatial distribution of MgO and CaO using geostatistical methods (semivariograms).
-- Characterize the mineralogy of the Zarghat magnesite using SEM and X-ray studies.
-- Perform a geostatistical study to determine the continuity of the mineralization.
-- Determine the origin of the Zarghat magnesite deposit through comparison with global models.
-- To study the geological setting of the Zarghat magnesite deposit.
-- To characterize the mineralogical composition of the magnesite and associated dolomite.
-- To apply geostatistical methods to evaluate the deposit.
+- Determine the mineralogical and textural characteristics of the magnesite and associated rocks using microscopy, XRD, DTA, and SEM.
+- Evaluate the spatial distribution of variables (MgO and CaO) within the ore body using geostatistical methods.
+- Determine the mineralogical nature of the magnesite in the Zarghat deposit.
+- Evaluate the impact of diagenetic processes on the mineralogy.
+- Perform geostatistical analysis (semivariograms) to determine the spatial distribution and continuity of MgO% and CaO% content.
 
 ## Methods
 
-Field investigation involved identifying rock types and collecting 97 samples from three traverses. Laboratory analysis included thin-section petrography on 85 sections, XRD on 80 powder samples (Philips PW 1349/30), DTA on 54 samples (DuPont 990 Thermal Analyzer), and SEM with automated microprobe analysis (JEOL 35 CF-Kevex 7000) on gold-coated discs. Geostatistical computations were performed using IBM 370-158 computer to calculate semivariograms and cross-semivariograms for MgO and CaO content.
+Field investigation included mapping and sampling across three traverses. Laboratory analysis involved thin-section petrography to determine mineralogy/texture; XRD for identifying mineral phases in cryptocrystalline samples; DTA to determine decomposition temperatures of carbonates; SEM with chemical scanning (EDS) for high-magnification imaging and composition; and geostatistical computations using semivariograms and cross-semivariograms to analyze the spatial distribution of crude and calcined MgO/CaO.
 
 ## Data and Materials
 
-Samples of pure magnesite, impure magnesite, bedded dolomite, and vein dolomite; DTA results from three distinct hill locations (ESE-hills, Central-hill, WNW-hill); X-ray diffraction data for various mineral phases.
+97 total samples collected from three main hills (WNW, Central, ESE). 85 thin sections prepared. 80 XRD analyses performed on powdered samples. 54 DTA analyses conducted. Geostatistical data derived from BRGM drilling and assay reports.
 
 ## Key Findings
 
-- The magnesite is mostly cryptocrystalline and massive, but occasionally sheared and fragmented. ([[1985-ghaled|Ghaled, 1985, p. 22]])
-- XRD studies demonstrate that the magnesite exists as either pure magnesite with minor dolomite traces or impure magnesite with abundant dolomite. ([[1985-ghaled|Ghaled, 1985, p. 22]])
-- DTA investigation showed a decomposition temperature of approximately 620°C for magnesite. ([[1985-ghaled|Ghaled, 1985, p. 22]])
-- The deposit is located in the Jibalah Group, which consists of carbonate sequence and an underlying andesite unit. ([[1985-ghaled|Ghaled, 1985, p. 22]])
-- Semivariogram functions revealed continuous behavior near the origin for several selected variables, indicating a sedimentary deposit character. ([[1985-ghaled|Ghaled, 1985, p. 23]])
-- The magnesite deposit is located in the Jibalah Group (Precambrian) and consists of three main bodies: West-northwest (WNW), Central, and East-southeast (ESE) hills. ([[1985-ghaled|Ghaled, 1985, p. 45]])
-- Magnesite thickness varies from 43.5 m to 5.5 m in the sampled areas. ([[1985-ghaled|Ghaled, 1985, p. 45]])
-- XRD analysis of 37 out of 52 samples showed nearly pure magnesite with only trace amounts of dolomite. ([[1985-ghaled|Ghaled, 1985, p. 80]])
-- 15 out of 52 XRD samples showed significant dolomite peaks, indicating impure magnesite. ([[1985-ghaled|Ghaled, 1985, p. 80]])
-- DTA analysis revealed a decomposition temperature for Zarghat magnesite of approximately 620°C. ([[1985-ghaled|Ghaled, 1985, p. 86]])
-- The carbonate formation in the Jibalah Group includes cherty limestone, bedded dolomite, and magnesite. ([[1985-ghaled|Ghaled, 1985, p. 41]])
-- The decomposition temperature of the Zarghat magnesite is approximately 620°C. ([[1985-ghaled|Ghaled, 1985, p. 108]])
-- Magnesite in Zarghat is of cryptocrystalline nature, consisting of anhedral fine-grained crystals (pure) or containing dolomite (impure). ([[1985-ghaled|Ghaled, 1985, p. 108]])
-- Dolomite was formed later than magnesite as evidenced by the corroded edges of the enclosed magnesite grains. ([[1985-ghaled|Ghaled, 1985, p. 108]])
-- The correlation coefficient between crude CaO% and crude MgO% was found to be -0.961, and for calcined values, it was -0.825. ([[1985-ghaled|Ghaled, 1985, p. 120]])
+- The magnesite is mostly cryptocrystalline, massive but at places sheared and fragmented. ([[1985-ghaled|Ghaled, 1985, p. 22]])
+- XRD results showed that the magnesite is either in the form of pure magnesite with minor traces of dolomite or impure magnesite with abundant dolomite. ([[1985-ghaled|Ghaled, 1985, p. 78]])
+- The decomposition temperature of Zarghat magnesite as revealed by DTA analyses is about 620°C. ([[1985-ghaled|Ghaled, 1985, p. 86]])
+- Bedded dolomite was identified as having a clear gradational contact with the magnesite. ([[1985-ghaled|Ghaled, 1985, p. 41]])
+- page_number_not_specified_in_source ([[1985-ghaled|Ghaled, 1985]])
+- The semivariogram and cross-semivariogram functions revealed continuous behavior near the origin, which is common in most sedimentary deposits. ([[1985-ghaled|Ghaled, 1985, p. 23]])
+- Magnesite in Zarghat is cryptocrystalline, consisting of anhedral fine-grained crystals (pure) or containing dolomite (impure). ([[1985-ghaled|Ghaled, 1985, p. 108]])
+- Dolomite veinlets were observed to form as a result of hydromagnesite-magnesite transformation during diagenesis. ([[1985-ghaled|Ghaled, 1985, p. 108]])
+- A high negative correlation (0.961 for crude, 0.825 for calcined) was found between CaO% and MgO% content. ([[1985-ghaled|Ghaled, 1985, p. 120]])
+- Semivariogram models for the deposit were found to be spherical with nugget variances equal to zero. ([[1985-ghaled|Ghaled, 1985, p. 157]])
+- The zone of influence for crude MgO% in the horizontal direction was determined to be 117 m, and for calcined MgO%, it was 157 m. ([[1985-ghaled|Ghaled, 1985, p. 160]])
+- Semivariograms showed a continuous mineralization type with rapid growth in the vertical direction, suggesting a sedimentary origin. ([[1985-ghaled|Ghaled, 1985, p. 158]])
 
 ## Limitations
 
-The number of samples in some drill-holes (e.g., ZA 12, 15, 16, 19) was insufficient for geostatistical analysis.
+Not stated in source
 
 ## Recommendations and Future Work
 
-The study aims to provide information toward future ore beneficiation, mineral processing, and economic feasibility studies.
+Co-kriging may be suitably adopted for reserve estimation due to high correlation between CaO% and MgO%.
 
 ## Related Concepts
 
 - [[xrd]]
+- [[dta]]
 - [[sem]]
 - [[geostatistics]]
 - [[zarghat-deposit]]
 - [[saudi-arabia]]
-- [[mineral-resource-estimation]]
-- [[diagenesis]]
-- [[cryptocrystalline]]
-- [[dta]]
-- [[mineralogy]]
-- [[geology-of-deposits]]
-- [[semivariogram]]
-- [[mineral-deposits]]
 - [[magnesite-deposits]]
+- [[diagenesis]]
+- [[mineral-resource-estimation]]
+- [[carbonate-sedimentology]]

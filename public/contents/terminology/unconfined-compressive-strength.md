@@ -4,43 +4,49 @@ title: "Unconfined Compressive Strength"
 aliases:
   - "UCS"
 canonical: true
-definition: "The compressive strength of a rock sample without lateral confinement."
+definition: "Maximum axial compressive stress before failure without confining pressure."
 units: "MPa"
 related_techniques:
   - "scratch-test"
-  - "well-log-analysis"
 tags:
-  - theme/mechanical-stratigraphy
+  - theme/petroleum-engineering
 sources:
-  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/140935 - A study on the effect of THMC conditions on scratch test measurements.pdf"
+  - "raw/142054 - THE EFFECT OF DRILLING FLUID TYPE AND EXPOSURE TIME ON GEOMECHANICAL PROPERTIES .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Unconfined Compressive Strength
 
-**Summary**: A measure of the maximum load a rock can withstand before failure.
+**Summary**: The maximum stress a rock can withstand before failure under no confining pressure.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-albensaad|Albensaad, 2021]] determined UCS through scratch tests and log-based empirical equations.
+- [[2019-khan|Khan, 2019]] used UCS as the primary metric for evaluating the effect of THMC conditions on rock strength.
+
+- [[2021-serag|SERAG, 2021]] determined UCS to evaluate changes in rock strength due to mud interaction.
 
 ## Scientific Context
 
-- [[2021-albensaad|Albensaad, 2021]] A primary indicator of the mechanical strength of the formation.
+- [[2019-khan|Khan, 2019]] UCS is critical for wellbore stability and sand production prediction.
+
+- [[2021-serag|SERAG, 2021]] determined UCS to evaluate changes in rock strength due to mud interaction.
 
 ## Measurement and Characterization Methods
 
-- [[2021-albensaad|Albensaad, 2021]] Measured via scratch test profiles and calculated from log data.
+- [[2019-khan|Khan, 2019]] Derived from scratch test data using the ISE correlation.
 
 ## Key Findings Across Sources
 
-- Core-based UCS values from scratch tests were compared with those derived from logs. ([[2021-albensaad|Albensaad, 2021, p. 61]])
+- A consistent decrease in strength was observed across all samples when exposed to distilled water. ([[2019-khan|Khan, 2019, p. 65]])
+
+
+- The scratch test was used to determine the unconfined compression strength (UCS) for the core samples. ([[2021-serag|SERAG, 2021, p. 45]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

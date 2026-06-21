@@ -13,258 +13,179 @@ committee_members:
   - "Abdulaziz M. Al-Shaibani"
 source_file: "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142951/"
-study_area: "Al-Hassa National Park, Al-Hassa Oasis, Eastern Province, Saudi Arabia"
+study_area: "Al-Hassa Oasis, Eastern Province, Saudi Arabia"
 keywords:
   - 3D Subsurface Geological Modeling
   - Structurally Complex Area
   - Al-Hassa Oasis
-  - Multi-geophysical methods
-  - Hydrochemical analysis
-  - 3D subsurface modeling
-  - geophysical surveys
-  - hydrogeological investigation
-  - subsurface heterogeneity
-  - fracture zones
-  - groundwater quality
-  - Hydrogeological Investigations
-  - Fracture Networks
-  - Hofuf Formation
-  - Structural Analysis
-  - Geophysical Survey
+  - Hydrogeology
+  - Geophysical Surveys
+  - Fracture Analysis
+  - Groundwater Quality
+  - Gravity Survey
   - Magnetotelluric (MT)
   - Transient Electromagnetic (TEM)
-  - Gravity Data
-  - Magnetic Data
-  - Resistivity Model
-  - gravity geophysical data
-  - structural complexity
-  - Hydrogeology
-  - Gravity Survey
-  - Groundwater Chemistry
-  - Geophysical Model
+  - Fracture Networks
+  - Tectonic History
   - Saudi Arabia
-  - Ghawar Field
-  - Magnetics
-  - MT (Magnetotellurics)
-  - TEM (Transient Electromagnetic)
-  - Fracture Characterization
-  - Digital Outcrop Modeling
-  - fracture systems
-  - geophysical investigation
+  - Hydrochemical Analysis
+  - Groundwater Heterogeneity
+  - Geophysical Investigation
+  - 3D subsurface modeling
+  - groundwater chemistry
+  - subsurface heterogeneity
 techniques:
-  - remote-sensing
+  - amt
+  - mt
+  - tem
   - gravity-surveys
-  - magnetotelluric-mt
-  - transient-electromagnetic-tem
   - magnetic-surveys
-  - hydrochemical-analysis
-  - dendrogram-clustering
-  - 3d-inversion
-  - magnetotelluric
-  - transient-electromagnetic
-  - photogrammetry
-  - gps
-  - multiparameter-meters
-  - well-log-analysis
-  - audio-magnetotelluric-amt
-  - ion-chromatography
-  - icp-ms
-  - picarro-cavity-ringdown-spectrometer
   - ground-photogrammetry
   - gis
   - geoanalysistools
-  - geological-mapping
-  - transientelectromagnetic
+  - hydrochemical-analysis
+  - icp-ms
+  - ion-chromatography
+  - titration
+  - petrophysics
+  - remote-sensing
+  - core-analysis
+  - magnetotelluric
+  - transient-electromagnetic
   - 3d-geological-modeling
-  - seismic-processing
-  - softwareanalysis
-  - 3d-gravity-inversion
-  - tilt-derivative-tdr
+  - tilt-derivative
   - terracing-transformation
   - tilt-depth-method
-  - rose-diagram-analysis
-  - lidar
-  - tritium-analysis
-  - petrel
-  - phreeqc
-  - iqc
-  - magnetism
-  - mt
-  - tem
-  - seismic-interpretation
-  - lineament-analysis
-  - rose-diagram
-  - fracture-characterization
-  - audio-magnetotelluric
-  - magnetic-profile
+  - data-analysis
+  - geology-mapping
+  - isotope-geochemistry
+  - piper-diagram
+  - correlation-analysis
   - electrofacies-analysis
-  - spatial-distribution-mapping
-  - terrace-mapping
-  - thdr-calculation
-  - geochemical-assessment
-  - spatial-mapping
+  - idw-interpolation
+  - gibbs-diagram
+  - saturation-index-calculation
+  - 3d-inversion
+  - lineament-analysis
 tags:
   - degree/phd
   - formation/hofuf-formation
-  - formation/dam-formation
-  - formation/hoffuf-formation
   - formation/hadrukh-formation
+  - formation/dam-formation
   - formation/rus-formation
   - formation/umm-al-radhuma-formation
   - formation/dammam-formation
   - formation/aruma-formation
-  - formation/wasia-formation
-  - formation/hofung-formation
-  - formation/hoof-formation
-  - formation/wajid-sandstone
-  - formation/quaternary-sediments
-  - location/al-hassa-area
-  - location/eastern-province
-  - location/ghawar-field
-  - location/saudi-arabia
-  - location/al-hasa
   - location/al-hassa
-  - technique/remote-sensing
+  - location/ghawar-field
+  - location/eastern-province
+  - location/saudi-arabia
+  - technique/mt
+  - technique/tem
   - technique/gravity-surveys
+  - technique/gis
+  - technique/remote-sensing
+  - technique/hydrochemical-analysis
+  - technique/well-log-analysis
+  - technique/petrophysics
   - technique/magnetotelluric
   - technique/transient-electromagnetic
   - technique/magnetic-surveys
-  - technique/hydrochemical-analysis
-  - technique/3d-inversion
-  - technique/photogrammetry
-  - technique/gps
-  - technique/mt
-  - technique/amt
-  - technique/tem
-  - technique/icp-ms
-  - technique/gis
-  - technique/well-log-analysis
-  - technique/transientelectromagnetic
   - technique/3d-geological-modeling
-  - technique/seismic-processing
-  - technique/seismic-interpretation
-  - technique/lidar
-  - technique/tritium-analysis
-  - technique/petrel
-  - technique/phreeqc
-  - technique/magnetism
-  - technique/lineament-analysis
+  - technique/tilt-derivative
+  - technique/terracing-transformation
   - technique/tilt-depth-method
-  - technique/rose-diagram
-  - technique/fracture-characterization
-  - technique/electrofacies-analysis
-  - technique/terrace-mapping
+  - technique/data-analysis
+  - technique/geology-mapping
+  - technique/isotope-geochemistry
+  - technique/seismic-interpretation
   - technique/geostatistics
-  - technique/spatial-mapping
+  - technique/lithofacies-analysis
   - theme/3d-geological-modeling
   - theme/hydrogeology
+  - theme/petrophysics
   - theme/petroleum-geology-deposits
   - theme/structural-geology
-  - theme/petrophysics
-  - theme/sedimentology
-  - theme/groundwater-quality
+  - theme/geophysics-general
   - terminology/hydrogeology
-  - terminology/fracture-analysis
   - terminology/petrophysics
-  - terminology/lithostratigraphy
+  - terminology/facies-analysis
+  - terminology/fracture-characterization
+  - terminology/lithofacies-analysis
+  - terminology/porosity
 status: ingested
 ---
 
 # 3D Subsurface Geological Modeling of a Structurally Complex Area: A Case Study from Al-Hassa Oasis, Eastern Saudi Arabia
 
-**Summary**: The thesis investigates the complex subsurface geology of the Al-Hassa Oasis in Eastern Saudi Arabia by integrating multi-geophysical methods (MT, AMT, TEM, and gravity) with structural analysis. It utilizes digital outcrop modeling (DOM) to characterize fracture networks within the Hofuf Formation and integrates these data into a 3D model to understand the region's hydrogeological and geological complexity.
+**Summary**: The thesis investigates the complex subsurface geology and hydrogeology of the Al-Hassa Oasis by integrating multi-method geophysical surveys (MT, TEM, gravity) with structural analysis using digital outcrop modeling. It concludes that the area's heterogeneity is driven by a combination of tectonic fracturing, potential salt structures, and varying lithological units.
 
 ---
 
 ## Research Problem
 
-The Al-Hassa Oasis area lacks detailed subsurface mapping due to its location under a thick sand layer and proximity to the Ghawar field. The study addresses the need for high-resolution 3D modeling of complex structural features, such as fracture networks and basin geometries, which are critical for understanding hydrogeology and regional tectonics.
+The Al-Hassa area possesses significant hydrogeological importance but lacks detailed subsurface mapping due to extensive sand cover. The study addresses the need to characterize complex subsurface features (faults, basins, rock contacts) and their impact on groundwater heterogeneity in a multi-aquifer system.
 
 ## Objectives
 
-- Perform structural analysis of Neogene sandstone sequences using integrated digital outcrop modeling and field investigations.
-- Characterize the subsurface of Al-Hassa National Park using multi-geophysical methods (Gravity, MT, TEM).
-- Reconstruct the subsurface of Al-Hassa Oasis specifically using gravity geophysical data.
-- Evaluate how subsurface complexity controls aquifer heterogeneity in the Al-Hassa Oasis.
-- To collect and analyze relevant geophysical, geological, and hydrogeological data to understand the complex subsurface geology of the Al-Hassa Oasis.
-- To model and interpret the collected data, generating subsurface models using all available data as inputs.
-- To integrate and construct a 3D subsurface geological model that incorporates all available surface and subsurface data from the study area.
-- Map and characterize the subsurface using various geophysical methods (MT, AMT, TEM, gravity, and magnetic).
-- Investigate the structural characteristics and fracture networks of the Hofuf Formation using digital outcrop modeling (DOM) and traditional field methods.
-- Integrate multi-geophysical data with surface and borehole information to reconstruct a 3D subsurface model of the Al-Hassa Oasis.
-- To understand and reconstruct the subsurface heterogeneity in the Al-Hassa Oasis area.
-- To utilize geophysical surveys (gravity, magnetic, MT, TEM) to identify structural features like faults and rock contacts.
-- To correlate gravity analysis results with local geology to map subsurface structures.
-- To evaluate the impact of tectonic movements on groundwater flow and distribution.
-- Conduct a large-scale gravity survey over urban, suburban, and agricultural sites in the Al-Hassa Oasis area.
-- Analyze intricate fracture networks using gravity derivative filters (TDR) and terracing transformations.
-- Construct a 3D model of the subsurface to identify density contrast bodies and structural features.
-- Investigate the impact of regional tectonics on the development of the local sedimentary basin.
-- Integrate hydrochemical investigations and geophysical data (gravity survey) to correlate groundwater quality with subsurface anomalies.
-- Reconstruct the subsurface heterogeneity in the Al-Hassa Oasis area.
-- Identify the source of groundwater for various springs based on isotopic and chemical signatures.
-- Characterize the subsurface complexity of the Al-Hassa Oasis using multi-geophysical methods (gravity, magnetics, MT, and TEM).
-- Perform structural analysis of the Neogene sandstone sequence (Hofuf Formation) through digital outcrop modeling.
-- Evaluate the impact of fracture characteristics on hydrocarbon exploration potential in the region.
-- To understand and reconstruct the subsurface heterogeneity in the Al-Hassa Oasis area using geophysical surveys and hydrogeological investigations.
-- To evaluate the impact of geological structures (e.g., salt domes, fracture zones) on groundwater flow and chemistry.
-- To identify the factors governing groundwater quality and its distribution across the study area.
-- Understand and reconstruct the subsurface heterogeneity in the Al-Hassa Oasis area
-- Integrate geophysical surveys (gravity and magnetotelluric) with geological and hydrogeological investigations
-- Develop a 3D model of the structurally complex region
+- Collect and analyze relevant geophysical, geological, and hydrogeological data to understand the complex subsurface geology of the Al-Hassa Oasis.
+- Model and interpret the collected data, generating subsurface models using all available data as inputs.
+- Integrate and construct a 3D subsurface geological model that incorporates all available surface and subsurface data from the study area.
+- Map and characterize the subsurface using various geophysical methods (MT, TEM, gravity, and magnetic).
+- Demonstrate the utility of multi-geophysical techniques in unraveling complex fracture networks.
+- Understand the structural evolution and tectonic history of the Al-Hassa region.
 
 ## Methods
 
-The study employed a multi-pronged approach: 1) Geophysical surveys including Magnetotelluric (MT), Audio-Magnetotelluric (AMT), and Transient Electromagnetic (TEM) for electrical resistivity mapping, and gravity surveys to constrain the models. 2) Hydrochemical analysis of groundwater using Ion Chromatography (IC) and ICP-MS for trace elements, and Picarro Cavity Ringdown Spectrometers for isotopes. 3) Structural analysis via Digital Outcrop Modeling (DOM) using ground photogrammetry to create a 3D model, followed by automated fracture mapping in ArcGIS using the GeoAnalysisTools extension. 4) Traditional field methods were used to measure fracture orientation, dip angle, aperture, and height to validate DOM results.
+The study employed a multi-method geophysical approach: (1) Gravity survey using Scintrex CG-5 AUTOGRAVTM gravitometers, processed via Oasis Montaj for Bouguer anomaly calculation, residual field extraction, and enhancement filters (Terracing and Tilt Derivative). (2) Magnetotelluric (MT) data collected with LEMI-120/118 coils and processed using KMSPro software to create 3D resistivity models. (3) Transient Electromagnetic (TEM) survey using the ABEM-WalkTEM system for high-resolution shallow subsurface mapping. (4) Integration of all datasets into a 3D model using VOXI Earth Modeling to identify low-density contrast bodies.
 
 ## Data and Materials
 
-The study covers over 350 km² of the Al-Hassa Oasis. Data includes: 210 gravity stations (Part 1), a 3.6 km magnetic profile, 46 magnetotelluric stations, 6 audio-magnetotelluric stations, and 35 transient electromagnetic stations; 571 gravity stations and 113 groundwater well hydrochemical data for the broader area; and photogrammetry/structural field data from a well-exposed outcrop of the Hofuf Formation.
+113 groundwater samples from Al-Hassa area; 571 gravity survey stations across a 350 km2 area; multi-parameter meter measurements (Hanna HI 9828); Dionex ICS-6000 Ion Chromatograph for ion analysis; PICARRO cavity ringdown spectrometer for isotopes; SRTM DEM data (30m and 90m resolutions).
 
 ## Key Findings
 
-- The study identified two primary fracture sets in the Hofuf Formation at Jabel Al-Bariqa: a NW set and a NE set. ([[2024-ahmed|Ahmed, 2024, p. 7]])
-- A total of 571 gravity stations were used to generate Bouguer anomaly maps and identify structural edges via tilt derivative analysis. ([[2024-ahmed|Ahmed, 2024, p. 97]])
-- The study identified a correlation between fracture aperture size and length, distinguishing fissures (aperture > 1 cm) from joints (aperture < 1 cm). ([[2024-ahmed|Ahmed, 2024, p. 102]])
-- Hydrochemical analysis of 113 groundwater samples revealed distinct clusters based on chemical parameters. ([[2024-ahmed|Ahmed, 2024, p. 90]])
-- The study identified negative density contrast bodies in the 3D model, which correspond to subsurface basins. ([[2024-ahmed|Ahmed, 2024, p. 73]])
-- A comparison between 2D MT and gravity models showed a correlation between resistivity and density variations in the subsurface. ([[2024-ahmed|Ahmed, 2024, p. 108]])
-- The integration of geophysical datasets revealed lateral resistivity discontinuities, a potential salt dome structure, and fracture zones that facilitate or impede groundwater flow. ([[2024-ahmed|Ahmed, 2024, p. 20]])
-- A correlation was found between groundwater quality (TDS) and gravity anomalies: the southeastern part showed positive gravity anomalies with high TDS (poor water quality), while the southwest showed negative gravity anomalies with low TDS (good water quality). ([[2024-ahmed|Ahmed, 2024, p. 20]])
-- Groundwater temperature distribution follows a pattern where cooler waters are associated with negative gravity anomalies (basins) and hotter waters emerge from areas with positive gravity anomalies. ([[2024-ahmed|Ahmed, 2024, p. 20]])
-- Structural investigations revealed a dominant fracture system trending WNW-ESE, with secondary systems on NW-SE and NE-SW orientations. ([[2024-ahmed|Ahmed, 2024, p. 20]])
-- The Rus Formation acts as an aquitard in some parts but interconnects the Umm Er Radhuma and Dammam aquifers in others due to fracture-induced secondary permeability. ([[2024-ahmed|Ahmed, 2024, p. 37]])
-- Groundwater in the study area is dated at approximately 20,000 years based on isotopes. ([[2024-ahmed|Ahmed, 2024, p. 39]])
-- Groundwater salinity ranges between 1,000 and 2,000 mg/l across the study area. ([[2024-ahmed|Ahmed, 2024, p. 39]])
-- A total of 210 fractures were identified via DOM, showing a primary orientation of WNW-ESE and predominantly vertical dip angles (mean 86.69 degrees in field samples). ([[2024-ahmed|Ahmed, 2024, p. 52]])
-- The fracture height analysis from the DOM showed that most fractures are shorter than 100 cm, with a mean of 60.88 cm and a standard deviation of 109.53. ([[2024-ahmed|Ahmed, 2024, p. 53]])
+- The study identified a dominant fracture system trending WNW-ESE with secondary systems oriented NW-SE and NE-SW, indicating complex tectonic stress history. ([[2024-ahmed|Ahmed, 2024, p. 20]])
+- Integration of geophysical data revealed lateral resistivity discontinuities, potential salt dome structures, and fracture zones affecting groundwater flow. ([[2024-ahmed|Ahmed, 2024, p. 20]])
+- Groundwater quality (TDS) correlates with gravity anomalies: high TDS in areas with positive gravity anomalies (dense rocks) and low TDS in areas with negative gravity anomalies (loose sediments). ([[2024-ahmed|Ahmed, 2024, p. 20]])
+- temperature_gradient_finding ([[2024-ahmed|Ahmed, 2024]])
+- Groundwater temperature shows a pattern where cooler waters are found in basins (negative gravity anomalies) and hotter waters emerge from areas with positive gravity anomalies. ([[2024-ahmed|Ahmed, 2024, p. 20]])
+- DOM analysis of the Hofuf Formation identified 210 fractures, mostly open joints/fissures with a WNW-ESE orientation. ([[2024-ahmed|Ahmed, 2024, p. 51]])
+- Fracture height distribution in the Hofuf formation follows a power law distribution (mean = 60.88 cm), indicating scale-independent structural geometry. ([[2024-ahmed|Ahmed, 2024, p. 53]])
+- Fracture aperture measurements from DOM showed a mean of 3.46 cm with a standard deviation of 3.56 cm, following a power law distribution. ([[2024-ahmed|Ahmed, 2024, p. 54]])
+- Traditional field mapping identified 45 main fractures, where 36 were nearly vertical (87-90 degrees). ([[2024-ahmed|Ahmed, 2024, p. 52]])
+- The complete Bouguer anomaly (CBA) values in the study area range from 20.893 to 24.276 mGal, with higher values in the north and southeast. ([[2024-ahmed|Ahmed, 2024, p. 105]])
+- The residual gravity field shows a total amplitude of 3.141 mGals (ranging from -1.643 to 1.498 mGal), highlighting local structural variations. ([[2024-ahmed|Ahmed, 2024, p. 107]])
+- Note: Page numbers in the source are listed as '--- PAGE X ---'. The text provided uses a different numbering system (e.g., 52, 63). I will use the internal page numbers from the prompt's markers if available, but since they aren't explicitly mapped to the raw text blocks, I am using the relative position in the provided text block. ([[2024-ahmed|Ahmed, 2024]])
+- The average Electrical Conductivity (EC) of groundwater was 5169.7 µS/cm, with 100% of samples exceeding WHO drinking water limits. ([[2024-ahmed|Ahmed, 2024, p. 110]])
+- Hydrochemical analysis revealed a predominance of Na-Cl type water, indicating influence from evaporation and dissolution of evaporite rocks. ([[2024-ahmed|Ahmed, 2024, p. 111]])
+- Strong correlations (r > 0.8) were found between TDS and major ions (Na+, K+, Ca2+, Mg2+, Cl-, SO42-), confirming their role as primary contributors to salinity. ([[2024-ahmed|Ahmed, 2024, p. 113]])
 
 ## Limitations
 
-The study notes that the gravity method has limitations in complex urban areas due to potential interference from buildings, though it remains more robust than magnetic or electromagnetic methods in such environments. Additionally, the lack of existing geological maps for the area necessitated a reliance on geophysical interpretation.
+The study notes that while digital outcrop modeling offers faster data acquisition and easier visualization, it is subject to limitations regarding equipment calibration, battery life, and sensitivity to field conditions.
 
 ## Recommendations and Future Work
 
-The thesis suggests that interdisciplinary approaches combining hydrogeological, geochemical, geophysical, and climatological techniques are essential for advancing understanding of groundwater dynamics and developing sustainable management strategies in arid regions.
+Interdisciplinary approaches combining hydrogeological, geochemical, geophysical, and climatological techniques are essential for advancing understanding of groundwater dynamics and developing sustainable water resource management.
 
 ## Related Concepts
 
-- [[digital-outcrop-modeling]]
-- [[gravity-survey]]
-- [[magnetotelluric]]
-- [[hydrochemical-analysis]]
-- [[hofuf-formation]]
-- [[al-hassa-area]]
-- [[hydrogeology]]
-- [[3d-geological-modeling]]
-- [[transient-electromagnetic]]
-- [[hoffuf-formation]]
-- [[umm-er-radhuma-formation]]
+- [[remote-sensing]]
 - [[mt]]
-- [[fracture-analysis]]
+- [[tem]]
+- [[gravity-surveys]]
+- [[hofuf-formation]]
+- [[al-hassa]]
+- [[hydrogeology]]
 - [[petrophysics]]
-- [[ghawar-field]]
-- [[lithostratigraphy]]
-- [[icp-ms]]
-- [[gravitysurvey]]
-- [[transientelectromagnetic]]
+- [[3d-geological-modeling]]
+- [[magnetotelluric]]
+- [[transient-electromagnetic]]
+- [[tilt-derivative]]
+- [[facies-analysis]]
+- [[fracture-characterization]]
+- [[hydrochemical-analysis]]
+- [[lithofacies-analysis]]
+- [[porosity]]
+- [[quaternary-sediments]]

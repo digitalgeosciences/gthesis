@@ -3,48 +3,54 @@ type: theme
 title: "Sedimentary Petrology"
 aliases: []
 canonical: true
-description: "Study of sedimentary rock properties and history."
-key_challenges: "Distinguishing between primary texture and diagenetic effects on porosity."
-tags:
-  - theme/sedimentary-petrology
+description: "Not stated in source"
+key_challenges: "Not stated in source"
+tags: []
 sources:
-  - "raw/10133 - Assessment of hydrogeological parameters from thin-section study of middle creta.pdf"
+  - "raw/10050 - A paleomagnetic study of central Harrat Rahat, Western Saudi Arabia.pdf"
   - "raw/139856 - GEOCHEMICAL AND PETROGRAPHICAL STUDY OF THE SHARAWRA FORMATION, OLD QUSAIBA VILL.pdf"
+  - "raw/140586 - SEDIMENTARY FACIES ANALYSIS, PETROGRAPHY AND DIAGENESIS OF THE EARLY MIOCENE NUT.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Sedimentary Petrology
 
-**Summary**: The study of the origin, composition, and structure of sedimentary rocks.
+**Summary**: Broad research theme addressed in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1995-magaji|Magaji, 1995]] used sedimentary-petrology to analyze the mineralogy and texture of the Wasia sandstone.
+- [[1993-kaka|Kaka, 1993]] contributed to the theme of Sedimentary Petrology
 
-- [[2016-abbas|Abbas, 2016]] applied sedimentary petrology to characterize the lithofacies of the Sharawra Formation.
+- [[2016-abbas|Abbas, 2016]] applied sedimentary petrology to characterize the lithology of the Sharawra Formation.
+
+- [[2018-butt|Butt, 2018]] analyzed the sedimentary petrology of the Burqan Formation to understand its depositional environment.
 
 ## Key Subtopics
 
-- [[1995-magaji|Magaji, 1995]] ['microfacies-analysis', 'diagenesis']
 
-- [[2016-abbas|Abbas, 2016]] applied sedimentary petrology to characterize the lithofacies of the Sharawra Formation.
+
+- [[2016-abbas|Abbas, 2016]] applied sedimentary petrology to characterize the lithology of the Sharawra Formation.
+
+- [[2018-butt|Butt, 2018]] analyzed the sedimentary petrology of the Burqan Formation to understand its depositional environment.
 
 ## Methods and Approaches Used
 
-- [[1995-magaji|Magaji, 1995]] ['thin-section-petrography']
+
 
 ## Key Findings Across Sources
 
-- Quartz arenite lithology was identified as the primary component of the formation. ([[1995-magaji|Magaji, 1995, p. 118]])
+- contributed to the theme of Sedimentary Petrology ([[1993-kaka|Kaka, 1993]])
 
-- Identified distinct facies based on mineralogy (calcite, quartz, clay) and texture. ([[2016-abbas|Abbas, 2016, p. 13]])
+- The formation is a coarsening upward sequence of sandstone, siltstone, with intercalated shale. ([[2016-abbas|Abbas, 2016, p. 32]])
+
+- Identified 13 sub-lithofacies based on grain size and sedimentary structures. ([[2018-butt|Butt, 2018, p. 198]])
 
 ## Competing Approaches and Debates
 
-- [[1995-magaji|Magaji, 1995]] Distinguishing between primary texture and diagenetic effects on porosity.
+
 
 ## Open Questions and Research Gaps
 

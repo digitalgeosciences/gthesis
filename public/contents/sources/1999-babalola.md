@@ -1,7 +1,7 @@
 ---
 type: source
 id: "9778"
-title: "Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus_hait area, Southwestern Saudi Arabia"
+title: "Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mushayt area, Southwestern Saudi Arabia"
 author: "Lameed Olabode Babalola"
 year: 1999
 department: "Geosciences"
@@ -22,117 +22,91 @@ keywords:
   - X-ray diffractometry
   - provenance
   - depositional environments
-  - sedimentology
-  - kaolinite
+  - kaolinitic claystone
+  - chemical weathering
   - ferruginous horizons
-  - claystone
-  - Saudi Arabia
-  - XRD
-  - SEM
-  - sedimentary petrology
-  - Red Unit
-  - Grey Unit
-  - depositional environment
 techniques:
   - thin-section-petrography
+  - heavy-mineral-analysis
+  - xrf
+  - icp
   - sem
   - xrd
-  - xrf
-  - heavy-mineral-analysis
-  - icp
-  - sem-eds
-  - multivariate-statistical-tools
   - trace-element-chemistry
-  - qemscan
+  - multivariate-analysis
+  - factor-analysis
+  - electrofacies-analysis
 tags:
   - degree/ms
   - formation/wajid-sandstone
   - location/abha-khamis-mushait-area
-  - location/saudi-arabia
-  - location/western-saudi-arabia
   - technique/thin-section-petrography
+  - technique/heavy-mineral-analysis
+  - technique/xrf
+  - technique/icp
   - technique/sem
   - technique/xrd
-  - technique/xrf
-  - technique/heavy-mineral-analysis
-  - technique/icp
-  - technique/sem-eds
   - technique/trace-element-chemistry
-  - technique/trace-element-geochemistry
-  - technique/qemscan
+  - technique/multivariate-analysis
+  - technique/factor-analysis
+  - technique/electrofacies-analysis
   - theme/sedimentology
-  - theme/provenance
-  - theme/lithostratigraphy
-  - theme/depositional-environments
-  - theme/general-geochemistry
   - theme/paleoenvironmental-reconstruction
   - terminology/provenance
   - terminology/depositional-environments
-  - terminology/diagenesis
-  - terminology/lithofacies
-  - terminology/sedimentology
-  - terminology/heavy-mineral-analysis
+  - terminology/porosity
   - terminology/chemical-index-of-alteration
 status: ingested
 ---
 
-# Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus_hait area, Southwestern Saudi Arabia
+# Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mushayt area, Southwestern Saudi Arabia
 
-**Summary**: The thesis investigates the depositional environments and provenance of the Lower Paleozoic Wajid Sandstone in the Abha-Khamis Mushayt area using a multidisciplinary approach including petrography, heavy mineral analysis, and trace element chemistry. It identifies two distinct units (Red and Grey) within the formation and concludes that both units exhibit a predominantly continental margin tectonic provenance.
+**Summary**: The thesis investigates the depositional environments and provenance of the Lower Paleozoic Wajid Sandstone in the Abha-Khamis Mushayt area using a multidisciplinary approach including petrography, heavy mineral analysis, and geochemistry. It concludes that the sediments were deposited in a braided river environment with primary sources from the highlands in Yemen and minor contributions from the Arabian Shield.
 
 ---
 
 ## Research Problem
 
-Determining the depositional environments and provenance of the Lower Paleozoic Wajid Sandstone in southwestern Saudi Arabia, specifically focusing on its sedimentary characteristics and the origin of associated ferruginous horizons and kaolinitic claystones.
+Determining the provenance and depositional environment of the Lower Paleozoic Wajid Sandstone in southwestern Saudi Arabia, specifically investigating the origin of its kaolinitic claystones and ferruginous horizons.
 
 ## Objectives
 
-- Investigate the depositional environments of the Wajid Sandstone.
-- Determine the provenance of the sediments within the Wajid Sandstone.
-- Investigate the origin of the associated ferruginous horizons.
-- Investigate the origin of the kaolinitic claystone.
 - Investigate the provenance of the sediments based on petrography, heavy mineral types and associations, geochemical evidence and paleocurrent data.
 - Determine the origin of the white kaolinitic claystone and iron-rich horizons that abound within the essentially sandstone sequence in the studied area.
 - Characterize the facies and determine their depositional environments.
+- Investigate the depositional environments of the Wajid Sandstone using petrological and geochemical data.
 - Determine the provenance of the sediments of the Wajid Sandstone.
-- Investigate the origin of associated ferruginous horizons and kaolinitic claystone.
-- Identify the origin of associated ferruginous horizons and kaolinitic claystone.
-- Differentiate between the Red Unit and Grey Unit based on mineralogy and geochemistry.
-- Investigate the depositional environments of the Wajid Sandstone in the Abha-Khamis Mushayt area.
-- Investigate the origin of the associated ferruginous horizons and kaolinitic claystone.
-- Investigate the origin of associated ferruginous horizons.
-- Investigate the origin of kaolinitic claystone.
+- Identify the origin of the associated ferruginous horizons and kaolinitic claystone.
 
 ## Methods
 
-A multidisciplinary approach was used, including thin section petrography to analyze lithofacies and mineralogy; heavy mineral separation and analysis (including Q-mode factor and cluster analyses) to determine provenance; scanning electron microscopy (SEM) for detailed mineralogical characterization; X-ray diffractometry (XRD) for clay mineralogy quantification; and geochemical sample preparation followed by trace element and major element chemistry analysis using multivariate techniques (R-mode and Q-mode analysis).
+The study utilized a multidisciplinary approach: (1) Field investigation involving mapping and logging of 14 outcrops across three localities (Ahad Rufaidah, Al Soudah, and Al Habalah); (2) Thin section petrography on 83 samples; (3) Heavy mineral analysis on 44 samples using tribromomethane separation and a Zeiss Auxio-phot binocular microscope; (4) Geochemical analysis of 87 samples including bulk chemistry via XRF and trace elements via ICP; (5) Mineralogical characterization of clay minerals using XRD (Seol Model JDX-3530) on 40 samples, including glycolation to identify expandable clays; (6) SEM analysis for microstructural observation and elemental determination.
 
 ## Data and Materials
 
-Field samples from multiple outcrops (Outcrop 1 through Outcrop 7) in the Abha-Khamis Mushayt area. Data includes heavy mineral counts, trace element concentrations in basement rocks (granite, gabbro, schist), and detailed lithological descriptions of various intervals within the Wajid Sandstone.
+Samples from the Wajid Sandstone exposed in the Abha-Khamis Mushayt area, including the Red Unit and Grey Unit. Analysis included heavy mineral counts/types, trace element concentrations (SiO2, Al2O3, K2O, Na2O, TiO2, Fe2O3), and XRD of clay minerals.
 
 ## Key Findings
 
-- The Wajid Sandstone is characterized by two main units: a Red Unit (characterized by cross-stratification) and a Grey Unit. ([[1999-babalola|Babalola, 1999, p. 12]])
-- Petrographic analysis shows the Wajid Sandstone contains minerals such as quartz, feldspar, and lithic grains (QFL). ([[1999-babalola|Babalola, 1999, p. 43]])
-- The Red Unit exhibits unidirectional cross-beds, while the Grey Unit features bi-directional cross-beds. ([[1999-babalola|Babalola, 1999, p. 12]])
-- XRD analysis identified kaolinite as a major clay mineral in the kaolinitic claystone portions of the formation. ([[1999-babalola|Babalola, 1999, p. 61]])
-- Heavy mineral distribution was analyzed using Q-mode factor and cluster analyses to determine provenance. ([[1999-babalola|Babalola, 1999, p. 93]])
-- Geochemical analysis (trace elements and major elements) was used to distinguish between the Red and Grey Units and identify source signatures. ([[1999-babalola|Babalola, 1999, p. 117]])
-- The study identified kaolinitic claystone as being derived from granitic source terrain based on ternary plots of Al2O3-SiO2-TiO2 and Al2O3-SiO2-K2O. ([[1999-babalola|Babalola, 1999, p. 110]])
-- The sedimentary environment for the Red Unit is interpreted as a high-energy, likely fluvial or beach environment based on cross-stratification. ([[1999-babalola|Babalola, 1999, p. 156]])
-- The Wajid Sandstone is represented by an approximately 300m thick sequence of medium to coarse grained, poor to well-sorted, mineralogically mature, pebbly sandstone and conglomerate. ([[1999-babalola|Babalola, 1999, p. 18]])
-- The dominance of zircon, tourmaline and rutile in the heavy mineral suites supports the mineralogical maturity of the sediments. ([[1999-babalola|Babalola, 1999, p. 18]])
-- The overall optical attributes (color, crystal types, inclusions) of these heavy minerals indicate an acidic to intermediate source terrain. ([[1999-babalola|Babalola, 1999, p. 18]])
+- The Wajid Sandstone is represented by an approximately 300m thick sequence of medium to coarse grained, poorly to well-sorted, mineralogically mature, pebbly sandstone and conglomerate. ([[1999-babalola|Babalola, 1999, p. 18]])
+- The dominance of zircon, tourmaline and rutile in the heavy mineral suites supports the mineralogical maturity of the sediments (over 95% quartz). ([[1999-babalola|Babalola, 1999, p. 18]])
+- Heavy minerals indicate an acidic to intermediate source terrain; specifically, high SiO2, Al2O3, and Fe2O3/TiO2 combined with low P2O5, CaO, MgO, TiO2, Cr, Co, Ni, and V suggest a dominant intermediate to felsic source. ([[1999-babalola|Babalola, 1999, p. 18]])
 - The presence of epidote and garnet indicates contributions from metamorphic terrain. ([[1999-babalola|Babalola, 1999, p. 18]])
-- The association of high SiO2, Al2O3=TiO2 with low concentrations of P2O5, CaO, MgO, TiO2, Cr, Co, Ni and V indicates a predominantly intermediate to felsic source terrain. ([[1999-babalola|Babalola, 1999, p. 18]])
-- The mineralogical maturity of the sediments (over 95% quartz) indicates a stable cratonic setting of the source terrains. ([[1999-babalola|Babalola, 1999, p. 18]])
 - Bivariate plots of K2O/Na2O and SiO2 favor a passive margin tectonic environment with minor oceanic island arc influence. ([[1999-babalola|Babalola, 1999, p. 18]])
+- Paleocurrent distribution (mainly northern orientation) suggests highlands in Yemen as the major source, with some contribution from the Arabian Shield. ([[1999-babalola|Babalola, 1999, p. 18]])
+- Sedimentary structures including large-scale, low-angle cross-bedding and cross-lamination indicate a braided river depositional environment. ([[1999-babalola|Babalola, 1999, p. 18]])
+- SEM and XRD studies showed that authigenic hematite and goethite are the dominant iron minerals of the Red Unit. ([[1999-babalola|Babalola, 1999, p. 18]])
+- The associated claystone is mainly composed of authigenic kaolinite. ([[1999-babalola|Babalola, 1999, p. 18]])
+- The sedimentary sequence was divided into two units: a lower Red Unit and an upper Grey Unit, separated by a conglomerate bed (50cm to 1m thick). ([[1999-babalola|Babalola, 1999, p. 40]])
+- The Wajid Sandstone is predominantly a pebbly, coarse to medium-grained quartz-rich sandstone (quartz content averaging 65-69%). ([[1999-babalola|Babalola, 1999, p. 54]])
+- The sedimentary units are classified as quartz arenites with QFL values ranging from 95% to 100% for quartz. ([[1999-babalola|Babalola, 1999, p. 60]])
+- Porosity in the studied sediments ranges from a low of 3% to a high of 20%. ([[1999-babalola|Babalola, 1999, p. 63]])
+- Kaolinite is the dominant clay mineral, with concentrations ranging from 60% to 90% in the clay fraction. ([[1999-babalola|Babalola, 1999, p. 81]])
+- The ZTR index (measure of mineralogical maturity) for the Red Unit ranges from 74.18% to 100%, and for the Grey Unit, it is 78.08% to 99.4%. ([[1999-babalola|Babalola, 1999, p. 86]])
 
 ## Limitations
 
-Correlation with type sections at Wadi ad Dawasir was noted as difficult due to limited data and lack of definitive correlation tools such as fossils or marker beds.
+Correlation with the type sections at Wadi ad Dawasir is noted as difficult due to limited data and lack of definitive correlation tools such as fossils and marker beds.
 
 ## Recommendations and Future Work
 
@@ -140,20 +114,17 @@ Not stated in source
 
 ## Related Concepts
 
-- [[thin-section-petrography]]
 - [[xrd]]
 - [[sem]]
-- [[wajid-sandstone]]
-- [[abha-khamis-mushait-area]]
+- [[heavy-mineral-analysis]]
+- [[thin-section-petrography]]
 - [[provenance]]
 - [[depositional-environments]]
+- [[wajid-sandstone]]
+- [[abha-khamis-mushait-area]]
 - [[sedimentology]]
-- [[diagenesis]]
-- [[lithofacies]]
-- [[heavy-mineral-analysis]]
-- [[sem-eds]]
-- [[geochemistry]]
-- [[factor-analysis]]
-- [[chemical-index-of-alteration]]
-- [[trace-element-geochemistry]]
+- [[porosity]]
 - [[paleoenvironmental-reconstruction]]
+- [[trace-element-chemistry]]
+- [[multivariate-analysis]]
+- [[chemical-index-of-alteration]]

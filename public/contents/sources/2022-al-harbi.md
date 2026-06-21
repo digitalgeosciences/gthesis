@@ -12,141 +12,106 @@ committee_members:
   - "Alfarhan Mohammed"
 source_file: "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142264/"
-study_area: "Dammam and Hafer Al-Batin cities, Eastern Province, Saudi Arabia"
+study_area: "Two cities in the Eastern Province, Saudi Arabia (Dammam and Hafr Al-Batin)"
 keywords:
   - Open waste dumping sites
-  - Eastern Province
-  - Remote Sensing
-  - Image Processing
-  - Construction and Demolition (C&D) waste
-  - Soil quality assessment
-  - Spectral reflectance
-  - open dumpsite
-  - satellite image analysis
-  - waste management
-  - soil quality
-  - heavy metals
-  - urban area
-  - soil assessment
-  - construction waste
+  - Remote sensing
+  - Image processing
   - Saudi Arabia
+  - Soil quality
+  - Spectral reflectance
+  - Construction and demolition (C&D) waste
+  - open dumpsites
+  - heavy metals
+  - spectral library
 techniques:
   - remote-sensing
   - image-processing
-  - gis
   - spectroradiometer
-  - google-earth-engine
-  - toc-analysis
-  - tc-measurement
-  - spectral-analysis
-  - machine-learning-geoscience
-  - spectral-unmixing
-  - image-differencing
-  - ground-truthing
-  - soil-sampling
-  - unsupervised-classification
-  - supervised-classification
-  - change-detection
-  - visual-inspection-of-images
-  - spectroscopy
   - icp-ms
-  - acid-digestion
+  - soil-sampling
+  - differentiation
+  - multi-attribute-analysis
+  - spectrometer
+  - general-geochemistry
 tags:
   - degree/ms
   - location/eastern-province
+  - location/damman-area
   - location/saudi-arabia
-  - location/dammam-area
   - technique/remote-sensing
-  - technique/gis
-  - technique/well-log-analysis
-  - technique/spectral-analysis
+  - technique/image-processing
+  - technique/spectroradiometer
+  - technique/icp-ms
+  - technique/differentiation
+  - technique/general-geochemistry
   - theme/environmental-geoscience
-  - theme/environmental-pollution
   - theme/environmental-risk-assessment
-  - theme/environmental-monitoring
-  - terminology/construction-and-demolition-waste
-  - terminology/spectral-reflectance
-  - terminology/soil-quality
-  - terminology/heavy-metals
-  - terminology/remote-sensing
-  - terminology/geoaccumulation-index
-  - terminology/environmental-monitoring
+  - terminology/environmental-risk-assessment
+  - terminology/environmental-risk-assessment
+  - terminology/heavy-metals-pollution
 status: ingested
 ---
 
 # ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SAUDI ARABIA: REMOTE SENSING AND IMAGE PROCESSING APPROACH
 
-**Summary**: The thesis assesses open waste dumping sites in Dammam and Hafer Al-Batin using a combination of remote sensing (unsupervised, supervised, and change detection) and soil analysis. It concludes that while remote sensing effectively maps these sites, the construction waste present does not significantly impact local soil quality regarding heavy metals or organic content.
+**Summary**: The thesis assessed open waste dumpsites in two cities within the Eastern Province of Saudi Arabia using a combination of remote sensing, machine learning, and soil analysis. The study successfully identified 62 confirmed dumpsites and concluded that while these sites pose environmental risks, their impact on local soil quality regarding heavy metals and TOC remained within acceptable limits.
 
 ---
 
 ## Research Problem
 
-Rapid urbanization in Eastern Saudi Arabia has led to an increase in illegal open dumpsites, which pose significant environmental risks and health hazards. Local authorities struggle to identify these sites timely due, to a lack of effective monitoring systems and the difficulty of manual field surveys.
+The rapid urbanization in Saudi Arabia has led to a significant increase in construction and demolition (C&D) waste, creating challenges for local authorities in identifying and managing illegal dumping sites. These sites pose risks to public health and the environment, but are often discovered too late due to reliance on manual surveys.
 
 ## Objectives
 
-- Map the locations of open dumpsites in Dammam and Hafer Al-Batin using satellite imagery.
-- Study the spectral reflectance of common materials found in these dumpsites to create a spectral library.
-- Assess the environmental impact on soil quality (pH, EC, TOC, TC, and heavy metals) at selected sites.
 - Evaluate the effectiveness of using remote sensing techniques in identifying illegal dumpsites
-- Map the existing uncontrolled dumpsites in the study area
+- Map existing uncontrolled dumpsites in the study area (Dammam and Hafer Al-Batin)
 - Identify and quantify the composition (waste type) of these illegal dumping in a selected dumpsite
 - Assess the impacts of a selected dumpsite on the surrounding soil quality
-- Identify the locations of illegal waste dumpsites using remote sensing techniques (unsupervised, supervised, and change detection).
-- Develop a spectral library of common materials found in construction dumpsites to aid identification.
-- Assess the impact of these dumpsites on soil quality by measuring heavy metals, TOC, pH, and electrical conductivity.
-- Assess open waste dumping sites in two cities in the Eastern Province of Saudi Arabia
-- Utilize remote sensing and image processing to identify these sites
+- Identify the locations of unlawful dumpsites around two cities in the Eastern Province using remote sensing and image processing.
+- Build a spectral library of common materials found in these dumpsites using a spectrometer.
 
 ## Methods
 
-The research employs a two-pronged approach: 1) Remote sensing methodologies involving satellite image acquisition from platforms like Google Earth Engine (GEE) or USGS, followed by pre-processing (radiometric, atmospheric, and geometric corrections). Classification is performed using unsupervised and supervised machine learning (specifically the Random Forest algorithm) to categorize land cover into urban, water, vegetation, bare soil, and potential dumpsites. Spectral unmixing is used to isolate pure spectral signatures of waste from mixed pixels. Image differencing is applied for temporal change detection over multi-year periods. 2) Field-based methods include ground-truthing via site visits and in-situ spectral measurements using a spectroradiometer (SPECTRAL EVOLUTION, 350-2500 nm). Soil quality assessment involves systematic sampling (cell sampling strategy) of soil from selected sites to analyze heavy metal contamination.
+The research employed two main methodologies: 1) Remote sensing based: Satellite imagery from Google Earth Engine/USGS was processed using unsupervised and supervised machine learning (Random Forest algorithm) to classify land cover into five categories (urban, water, vegetation, bare soil, potential dumpsite). Change detection via image differencing was used to identify temporal changes. In-situ spectral measurements were taken using a spectroradiometer (SPECTRAL EVOLUTION) to create a library of 21 common materials. 2) Lab-based: Soil samples were collected from two sites (Dammam and Hafer Al-Batin) using an auger sampling strategy. Analysis included pH and electrical conductivity (EC) measurement via a hand-held CyberScan PCD 650, TOC/TC analysis using a dry combustion analyzer (Elementar), and heavy metal determination via microwave-assisted acid digestion followed by ICP-MS.
 
 ## Data and Materials
 
-The study identified 64 dumpsites across two cities. Soil analysis included samples from a Dammam site and a Hafer Al-Batin site, including a reference control sample. A spectral library of 21 materials (including plastics, wood, and construction materials) was developed.
+The study identified 62 confirmed dumpsites across the two cities. A spectral library was constructed from 21 common materials. Soil analysis included measurements of heavy metals (concentration in ppm), TOC, pH, and EC for samples taken from the Dammam and Hafr Al-Batin sites.
 
 ## Key Findings
 
-- The study successfully mapped 62 open dumpsite locations using remote sensing and image processing techniques. ([[2022-al-harbi|Al-Harbi, 2022, p. 11]])
-- A spectral library was created for 21 common materials found in the waste sites to aid in identification. ([[2022-al-harbi|Al-Harbi, 2022, p. 11]])
-- Soil quality at the selected dumpsites was found to be within normal ranges compared to nearby soil, indicating no significant impact on soil from the dumped waste. ([[2022-al-harbi|Al-Harbi, 2022, p. 11]])
-- C&D waste constitutes approximately 30% to 40% of total solid waste in Saudi Arabia. ([[2022-al-harbi|Al-Harbi, 2022, p. 15]])
-- For every 10,000 m2 area, between 500 and 600 tons of C&D waste are generated during construction, while 7,000 to 12,000 tons are produced during demolition/construction cycles. ([[2022-al-harbi|Al-Harbi, 2022, p. 15]])
-- Approximately 80% of marine litter is generated on the mainland and transported by rivers into the sea. ([[2022-al-harbi|Al-Harbi, 2022, p. 17]])
-- The Random Forest algorithm successfully identified numerous new dumpsites on the outskirts of both Dammam and Hafer Al-Batin cities. ([[2022-al-harbi|Al-Harbi, 2022, p. 20]])
-- Ground truthing confirmed that 8 out of 10 visited sites were indeed dumpsites, primarily consisting of construction and demolition waste. ([[2022-al-harbi|Al-Harbi, 2022, p. 33]])
-- The study identified a significant limitation in quantifying specific waste types due to the lack of high-resolution hyperspectral data and the heterogeneous nature of the waste mixtures. ([[2022-al-harbi|Al-Harbi, 2022, p. 34]])
-- Image differencing was found to be an effective, though tedious, method for capturing dumpsites that might be missed by standard classification algorithms. ([[2022-al-harbi|Al-Harbi, 2022, p. 33]])
-- A total of 64 dumpsites were identified in the two cities using remote sensing methods. ([[2022-al-harbi|Al-Harbi, 2022, p. 41]])
-- The average organic carbon (TOC) for the Hafer Al-Batin site was 0.25%, and the total carbon (TC) was 1.8%. ([[2022-al-harbi|Al-Harbi, 2022, p. 49]])
-- The Dammam site showed a higher total carbon content of 10.55% (mean), which is attributed to inorganic carbonates. ([[2022-al-harbi|Al-Harbi, 2022, p. 50]])
-- page_number_reference_note_for_finding_3_is_implied_by_table_6_on_page_50 ([[2022-al-harbi|Al-Harbi, 2022]])
-- Both sites exhibited average pH values of approximately 8.2, indicating slightly alkaline soil. ([[2022-al-harbi|Al-Harbi, 2022, p. 50]])
+- A total of 64 open dumpsites were identified across Dammam (28) and Hafer Al-Batin (36) using a combination of supervised classification, change detection, and visual inspection. ([[2022-al-harbi|Al-Harbi, 2022, p. 41]])
+- The average organic carbon level in the Hafer Al-Batin site was 0.25% with total carbon at 1.8%, while the Dammam site showed a higher total carbon of 10.55% (potentially due to inorganic carbonates). ([[2022-al-harbi|Al-Harbi, 2022, p. 49]])
+- Both sites exhibited slightly alkaline soil with average pH values around 8.2. ([[2022-al-harbi|Al-Harbi, 2022, p. 50]])
+- Average electrical conductivity (EC) for both sites was approximately 2000 µS/cm, which is considered moderately high compared to the natural level of 1000 µS/cm. ([[2022-al-harbi|Al-Harbi, 2022, p. 50]])
+- Heavy metal analysis in Dammam showed significant concentrations of several metals; for example, Al was measured at an average of 2531.6 mg/kg and Cr at 33.2 mg/kg. ([[2022-al-harbi|Al-Harbi, 2022, p. 51]])
+- Heavy metal analysis in Hafer Al-Batin showed high concentrations for several metals, including Al (average ~4000 mg/kg) and Cr (average ~30 mg/kg). ([[2022-al-harbi|Al-Harbi, 2022, p. 51]])
+- A spectral library of 21 common materials was successfully created to serve as a reference for identifying waste types in remote sensing data. ([[2022-al-harbi|Al-Harbi, 2022, p. 48]])
+- 62 confirmed dumpsites were identified using a combination of remote sensing, machine learning, and image processing techniques. ([[2022-al-harbi|Al-Harbi, 2022, p. 56]])
+- Soil analysis for both sites showed TOC and TC values within normal ranges. ([[2022-al-harbi|Al-Harbi, 2022, p. 56]])
+- Average electrical conductivity (EC) at both sites was approximately 2000 S/cm, which is significantly higher than the normal level of 1000 S/cm. ([[2022-al-harbi|Al-Harbi, 2022, p. 56]])
+- Heavy metal concentrations (Co, Al, Cr, Pb, Ni, As, Cu, Cd, Hg) were found to be within acceptable ranges compared to EPA standards. ([[2022-al-harbi|Al-Harbi, 2022, p. 54]])
+- In Dammam, Igeo values for As and Cd were between 0 and 1 (unpolluted to moderately polluted), while other metals were below zero (unpolluted). ([[2022-al-harbi|Al-Harbi, 2022, p. 55]])
+- In Hafr Al-Batin, Cu and Cd showed Igeo values between 0.35 and 1.70 when calculated from maximum sample values, indicating moderate pollution. ([[2022-al-harbi|Al-Harbi, 2022, p. 55]])
 
 ## Limitations
 
-The study could not identify specific waste types or quantities due to a lack of high-resolution hyperspectral imaging data and the heterogeneous nature of materials in small areas, which makes it difficult for current algorithms to unmix spectral mixtures.
+The identification and quantification of specific waste types within dumpsites could not be fully achieved due to the lack of high-resolution hyperspectral imagery and the heterogeneous nature of the materials which are often mixed together in small areas.
 
 ## Recommendations and Future Work
 
-Develop more comprehensive waste management regulations, increase public awareness, implement stricter enforcement with severe penalties for illegal dumping, and invest in research regarding sustainable waste management practices.
+The study suggests that the established remote sensing approach can be extended to other cities in Saudi Arabia. It also highlights the need for higher resolution data (hyperspectral) to better differentiate between various types of waste within a single site.
 
 ## Related Concepts
 
 - [[remote-sensing]]
-- [[gis]]
-- [[construction-and-demolition-waste]]
-- [[spectral-reflectance]]
-- [[environmental-pollution]]
-- [[eastern-province]]
-- [[saudi-arabia]]
-- [[soil-quality]]
-- [[spectral-analysis]]
-- [[heavy-metals]]
-- [[environmental-risk-assessment]]
+- [[image-processing]]
 - [[icp-ms]]
-- [[geoaccumulation-index]]
-- [[environmental-monitoring]]
-- [[environmental-geology]]
+- [[spectroradiometer]]
+- [[environmental-risk-assessment]]
+- [[eastern-province]]
+- [[environmental-geoscience]]
+- [[general-geochemistry]]
+- [[heavy-metals-pollution]]

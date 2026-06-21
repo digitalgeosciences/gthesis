@@ -13,156 +13,115 @@ committee_members:
   - "Guido Port"
 source_file: "raw/138787 - Investigation of Source Rock Potential and Micropaleontology of the Middle Ordov.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/138787/"
-study_area: "Northwestern Saudi Arabia (specifically the area near the border to Jordan and the Al Jauf graben)"
+study_area: "Northwestern Saudi Arabia (specifically the NE flank of the NW-SE oriented Al Juf Graben near the border to Jordan)"
 keywords:
   - Source Rock Potential
   - Micropaleontology
   - Hanadir Member
   - Qasim Formation
-  - Middle Ordovician
   - Rock-Eval Pyrolysis
   - Palynology
+  - 1D Basin Modeling
+  - Middle Ordovician
   - Basin Modeling
-  - Saudi Arabia
-  - Llavirnian
-  - Geochemistry
+  - Thermal Maturity
+  - Northwestern Saudi Arabia
 techniques:
   - rock-eval-pyrolysis
   - biostratigraphy
   - 1d-basin-modeling
-  - petrography
-  - 1d-basin-model
   - delta-log-r
-  - well-log-analysis
-  - toc-analysis
-  - thin-section-petrography
-  - basin-modeling
-  - petrel
-  - geolog
-  - ptromod
-  - geolog-software
-  - sem
-  - fe-s-c-analysis
+  - petrography
   - petromod
-  - organic-petrography
-  - lithology-based-log-calculation
+  - sem
   - microscopy
+  - geochemical-log-analysis
+  - lithology-based-log-calculation
 tags:
   - degree/ms
   - formation/qusaiba-member
-  - formation/qalibah-formation
-  - formation/qalimah-formation
+  - formation/hanadir-formation
+  - formation/none
   - location/northwest-saudi-arabia
   - technique/rock-eval-pyrolysis
   - technique/biostratigraphy
   - technique/basin-modeling
-  - technique/well-log-analysis
-  - technique/toc-analysis
-  - technique/thin-section-petrography
-  - technique/sem
-  - technique/xrf
   - technique/petrel
+  - technique/sem
   - technique/microscopy
+  - technique/well-log-analysis
   - theme/source-rock-evaluation
-  - theme/biostratigraphy
+  - theme/paleoenvironmental-reconstruction
+  - theme/petroleum-geology-deposits
   - theme/sedimentology
-  - theme/petroleum-systems
-  - theme/sedimentary-geochemistry
-  - terminology/petroleum-hydrocarbons
-  - terminology/diagenesis
+  - theme/biostratigraphy
   - terminology/source-rock-evaluation
   - terminology/biostratigraphy
-  - terminology/lithostratigraphy
 status: ingested
 ---
 
 # Investigation of Source Rock Potential and Micropaleontology of the Middle Ordovician Hanadir Member of the Qasim Formation, Northwestern Saudi Arabia
 
-**Summary**: The thesis evaluates the geochemical source potential and micropaleontological characteristics of the Middle Ordovician (Llavirnian) Hanadir member of the Qasim Formation in northwestern Saudi Arabia. It utilizes Rock-Eval pyrolysis, TOC analysis, and micropaleontology to characterize the organic matter quality and identify agglutinated foraminifera.
+**Summary**: The thesis evaluates the geochemical source potential and micropaleontology of the Middle Ordovician Hanadir member of the Qasim Formation in northwestern Saudi Arabia. It utilizes Rock-Eval pyrolysis and foraminifera analysis to characterize organic matter preservation and maturity, concluding that the Hanadir member is a candidate Paleozoic source rock for gas.
 
 ---
 
 ## Research Problem
 
-Determining the original kerogen type and source rock potential of the Hanadir member is challenging due to high thermal maturity (Vitreinite Reflectance 1.3-1.5%) and potential drilling fluid contamination in certain wells.
+The investigation of the source rock potential and thermal maturity of the Hanadir member within the Qasim Formation in northwestern Saudi Arabia, specifically addressing the challenges of identifying kerogen types in highly mature samples.
 
 ## Objectives
 
 - Assess source rock potential of Hanadir using Rock-Eval Pyrolysis method.
 - Understand Hanadir source rock depositional environment through agglutinated Foraminifera.
-- Assess level of maturity of Hanadir shale through several methods, such as Chitinozoans and Acritachs color index, and calculated vitrinite reflectance equivalent.
+- Assess level of maturity of Hanadir shale through several methods, such as Chitinozoans and Acritarchs color index, and calculated vitrinite reflectance equivalent.
 - Create 1D numerical simulation model to understand the geological evolution of stratigraphic layers.
-- Evaluate the geochemical source potential of the Hanadir member using Rock-Eval pyrolysis.
-- Determine the age and thermal maturity of the Hanadir member through acritarchs and chitinozoans analysis.
-- Identify depositional environments and anoxia conditions via micropaleontology.
-- Provide evidence for igneous intrusion using agglutinated foraminifera color index.
-- Model basin evolution through 1D numerical simulations.
 - Evaluate the geochemical source potential of the Middle Ordovician (Llavirnian) Hanadir member of the Qasim Formation.
-- Identify and describe agglutinated foraminifera from the Hanadir member.
-- Construct 1D basin models to reconstruct the geological history of the area.
-- Determine the thermal maturity of organic matter in Wells A, B, and C.
-- Identify the original kerogen type through a combination of geochemistry and micropaleontology.
-- Assess the impact of drilling fluid contamination on Rock-Eval data in Well C.
-- Analyze the depositional environment using Fe-S-C analysis and micropaleontology.
-- Evaluate the geochemical source potential of the Middle Ordovician (Llavirnian) Hanadir member.
-- Determine the thermal maturity and burial history of the formation using 1D basin modeling.
-- Identify the impact of localized igneous intrusions on source rock maturation.
-- Utilize micropaleontology to determine depositional environments and oxygen levels.
-- Evaluate the geochemical source potential of the Middle Ordovician (Llavirnian) Hanadir member of the Qasim Formation
-- Study the micropaleontology of the Hanadir Member
+- Analyze the micropaleontology of agglutinated foraminifera to determine depositional environments and oxygen levels.
 
 ## Methods
 
-Rock-Eval pyrolysis was performed on cuttings and core samples from three wells (A, B, and C) to determine TOC, HI, OI, S1, S2, and Tmax. Data were processed in GeoLog software for correlation. SEM imaging was used to examine the morphology of agglutinated foraminifera. Fe-S-C ternary plot analysis was conducted on samples from the Qasim Formation to determine depositional redox conditions. Palynology (acritarchs and chitinozoans) was analyzed to confirm thermal maturity and age. 1D basin modeling using Petromod software was implemented to simulate burial history and temperature evolution.
+The study employed Rock-Eval pyrolysis to determine TOC, S2, HI, and Tmax for samples from three wells. Micropaleontology focused on identifying agglutinated foraminifera (e.g., Psammosphaera, Placopsilina) under binocular and SEM microscopy. 1D basin modeling was conducted using PetroMod software, incorporating parameters like heat flow, water surface interface temperature (SWIT), and paleo-water depth (PWD). Palynology was used to confirm thermal maturity via the Staplin scale.
 
 ## Data and Materials
 
-60 cuttings and core samples collected from three wells (A, B, and C) in the northwestern region of Saudi Arabia. Well-A contains ~316ft of Hanadir; Well-B contains ~333ft; Well-C contains up to 373ft. Total thickness across all wells is 1022 ft.
+Cuttings and core samples from three wells (A, B, and C) in northwestern Saudi Arabia. Well A: 28 samples (314 ft section); Well B: 24 samples (333 ft section); Well C: 17 samples (360 ft section). Palynology samples were taken at specific depths across all three wells.
 
 ## Key Findings
 
-- The Hanadir member is characterized by medium gray, fissile, micaeous and fissile-textured rocks with graded silty laminae and some graded very fine-grained sandstone beds. ([[2012-ghazwani|Ghazwani, 2012, p. 31]])
-- The average thickness of the Hanadir member in all three wells is about 300 ft. ([[2012-ghazwani|Ghazwani, 2012, p. 14]])
-- Hanadir can be correlated with Hiswa Formation in Jordan, both representing maximum flooding surface MFS030 during Middle Ordovician and having similar sediment facies. ([[2012-ghazwani|Ghazwani, 2012, p. 14]])
-- Geochemically, the present day organic matter of Hanadir (TOC between 0.5-2.98%) can be correlated with Hiswa Formation in Jordan (TOC 1.3-1.5%). ([[2012-ghazwani|Ghazwani, 2012, p. 14]])
-- Well A and B results indicate the source rock of the Hanadir is in gas generation window as indicated by low HI, high Tmax, high vitrinite reflectance and present day temperature. ([[2012-ghazwani|Ghazwani, 2012, p. 15]])
-- The sedimentary environment for the Hanadir member was an open-marine shelf environment below storm wave base. ([[2012-ghazwani|Ghazwani, 2012, p. 32]])
-- The Hanadir member corresponds to a maximum flooding event (MFS 030) dated at 465 Ma, characterized by black graptolitic shales. ([[2012-ghazwani|Ghazwani, 2012, p. 34]])
-- The foraminiferal fauna in the Hanadir Member consists entirely of agglutinated taxa, including Rhizammina, Psammosphaera, Saccammina, and Lagenammina. ([[2012-ghazwani|Ghazwani, 2012, p. 37]])
-- Finding of coiled, multichambered agglutinated foraminifera (Lituolina) in the Hanadir Shale pushes back their known stratigraphic range to the Middle Ordovician. ([[2012-ghazwani|Ghazwani, 2012, p. 37]])
-- Acritarchs and Chitinozoans are used as alternative techniques for determining thermal maturity; specifically, Linochitina pissotensis and Pterochitina retracta indicate a late Darriwilian age. ([[2012-ghazwani|Ghazwani, 2012, p. 39]])
-- The Hanadir member is geochemically similar to the Hiswa formation in Jordan (TOC 0.5-1.5%) and K7 member of Khabour Formation in Iraq (TOC 0.9-5%). ([[2012-ghazwani|Ghazwani, 2012, p. 49]])
-- Rock-Eval analysis indicates that the Hanadir source rock is in the gas generation window, making it a potential Paleozoic source rock for gas in northwestern Saudi Arabia. ([[2012-ghazwani|Ghazwani, 2012, p. 52]])
-- The Hanadir member is characterized as a predominantly argillaceous formation deposited in an open marine shelf environment below storm wave base. ([[2012-ghazwani|Ghazwani, 2012, p. 96]])
-- TOC values for the Hanadir in well-A fluctuated from 0.37 to 2.98 wt. % with an average of 1.10 wt.%. ([[2012-ghazwani|Ghazwani, 2012, p. 96]])
-- The S2 (remaining hydrocarbon potential) values for the Hanadir in well-A ranged from 0.05 to 0.72 mg HC/g Rock. ([[2012-ghazwani|Ghazwani, 2012, p. 97]])
+- The average thickness of the Hanadir member in all three wells is about 300 ft (approx. 91m). ([[2012-ghazwani|Ghazwani, 2012, p. 14]])
+- Hanadir can be correlated with Hiswa Formation in Jordan, both being highly mature type II kerogen with TOC between 0.5-2.98% and 1.3-1.5% respectively. ([[2012-ghazwani|Ghazwani, 2012, p. 15]])
+- Rock-Eval results for wells A and B indicate the source rock is in the gas generation window (low HI, high Tmax, high vitrinite reflectance). ([[2012-ghazwani|Ghazwani, 2012, p. 15]])
+- The Hanadir member contains a well-preserved assemblage of agglutinated taxa, which are the oldest foraminifera reported from Saudi Arabia. ([[2012-ghazwani|Ghazwani, 2012, p. 37]])
+- Finding of coiled, multichambered agglutinated foraminifera in the Hanadir Shale pushes back the known stratigraphic range of the suborder Lituolina to the Middle Ordovician. ([[2012-ghazwani|Ghazwani, 2012, p. 37]])
+- The study identified a potential for contamination in Well-C, specifically from an igneous intrusion (basalt or diorite). ([[2012-ghazwani|Ghazwani, 2012, p. 59]])
+- Well-A thickness is ~316ft (96.31m), Well-B is ~333ft (101.49m), and Well-C reaches up to 373 ft (113.69m). ([[2012-ghazwani|Ghazwani, 2012, p. 58]])
+- Hanadir member in well-A shows TOC values ranging from 0.37 to 2.98 wt.% with an average of 1.10 wt.%, indicating poor to very good quality organic matter. ([[2012-ghazwani|Ghazwani, 2012, p. 96]])
+- The combination of TOC, S2 (0.05-0.72%), and HI (8-69 mg HC/g Rock) in well-A suggests a lean to marginal generative potential. ([[2012-ghazwani|Ghazwani, 2012, p. 97]])
+- well-B shows higher thermal maturation than well-A, with Tmax values reaching up to 507°C and vitrinite reflectance (VRe) exceeding 1.4%. ([[2012-ghazwani|Ghazwani, 2012]])
+- page_number_placeholder_for_logic_check_actually_it_is_on_page_108 ([[2012-ghazwani|Ghazwani, 2012]])
+- Organic matter in Hanadir member in wells A and B is preserved in anoxic conditions, while well C shows evidence of exposure to dysoxic and oxic conditions. ([[2012-ghazwani|Ghazwani, 2012, p. 155]])
+- Hanadir member organic matter can be correlated with the Hiswa formation in Jordan (TOC range 0.5-1.5%) as a source for gas. ([[2012-ghazwani|Ghazwani, 2012, p. 155]])
+- A localized igneous intrusion was identified at Well-C, causing rapid thermal cracking of organic matter and resulting in over-mature stages (VR 0.7-4%). ([[2012-ghazwani|Ghazwani, 2012, p. 156]])
+- The presence of Psammosphaera and placopsilina species indicates adaptation to dysoxic conditions. ([[2012-ghazwani|Ghazwani, 2012, p. 153]])
 
 ## Limitations
 
-Determining original kerogen type via standard methods was difficult due to high thermal maturity; furthermore, some samples in Well-C were significantly affected by drilling fluid contamination.
+Rock-Eval pyrolysis is insufficient as a standalone tool to determine kerogen type for highly mature source rocks; however, this was mitigated by using micropaleontology (agglutinated foraminifera) to identify organic facies.
 
 ## Recommendations and Future Work
 
-- Conduct extensive geochemical studies in the Jalamid area where thick Qasim Formation sediments exist.
-- Perform similar studies on Hanadir outcrop sections to establish correlation with subsurface samples.
-- Establish a diversity curve for agglutinated foraminifera to identify the maximum flooding surface (MFS).
+- Conduct further geochemical studies in the Jalamid area where thick sediments of Qasim Formation exist.
+- Perform similar studies on Hanadir outcrop sections to establish correlation and diversity between subsurface and surface samples.
+- Establish an agglutinated foraminifera diversity curve and identify the maximum flooding surface (MFS) within the Hanadir.
 
 ## Related Concepts
 
 - [[rock-eval-pyrolysis]]
-- [[micropaleontology]]
+- [[biostratigraphy]]
 - [[basin-modeling]]
 - [[qusaiba-member]]
-- [[northwestern-saudi-arabia]]
+- [[northwest-saudi-arabia]]
 - [[source-rock-evaluation]]
-- [[petroleum-hydrocarbons]]
-- [[diagenesis]]
-- [[well-log-analysis]]
-- [[qalibah-formation]]
-- [[petroleum-systems]]
-- [[biostratigraphy]]
-- [[lithostratigraphy]]
-- [[toc-analysis]]
-- [[sem]]
-- [[xrf]]
-- [[qalimah-formation]]
+- [[paleoenvironmental-reconstruction]]
+- [[none]]

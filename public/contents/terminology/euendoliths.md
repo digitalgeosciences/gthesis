@@ -2,45 +2,44 @@
 type: terminology
 title: "Euendoliths"
 aliases:
-  - "true borers"
+  - "euendolithic cyanobacteria"
 canonical: true
-definition: "Microorganisms that bore into shells, bones and carbonate rocks."
+definition: "Photosynthetic microorganisms that bore into carbonate materials like rocks or shells."
 units: "not applicable"
 related_techniques:
-  - "sem"
   - "microscopy"
 tags:
-  - theme/environmental-microbiology
+  - theme/marine-bioerosion
 sources:
   - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Euendoliths
 
-**Summary**: Microorganisms that bore into carbonate rocks or shells.
+**Summary**: Cyanobacteria that bore into and live within carbonate substrates.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-amao|Amao, 2012]] focused on the identification and diversity of euendoliths.
+- [[2012-amao|Amao, 2012]] studied euendoliths as indicators of paleoenvironmental conditions and bioerosion agents.
 
 ## Scientific Context
 
-- [[2012-amao|Amao, 2012]] They are significant for biogeochemical cycles and space research.
+- [[2012-amao|Amao, 2012]] They are important for understanding biological corrosion and as indicators of past environments.
 
 ## Measurement and Characterization Methods
 
-- [[2012-amao|Amao, 2012]] Morphometric analysis of cell types.
+- [[2012-amao|Amao, 2012]] Morphometric analysis of cell dimensions.
 
 ## Key Findings Across Sources
 
-- Euendoliths are distinguished from other endoliths by their ability to bore into solid carbonate materials. ([[2012-amao|Amao, 2012, p. 17]])
+- Euendoliths are known to possess a host of adaptive capabilities including protection from desiccation, intense sunlight, and extreme temperature fluctuations. ([[2012-amao|Amao, 2012, p. 33]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

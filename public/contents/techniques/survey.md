@@ -2,29 +2,28 @@
 type: technique
 title: "Survey"
 aliases:
-  - "questionnaire"
-  - "field survey"
+  - "assessment"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "quantitative and qualitative data on industry practices"
+output: "assessment of current practices"
 tags:
   - technique/survey
 sources:
-  - "raw/138810 - Management of the Drilling Wastes in the Eastern Province of Saudi Arabia.pdf"
+  - "raw/9959 - Effect of a hydraulic fracture on the performance of a layered gas condensate re.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-20
 ---
 
 # Survey
 
-**Summary**: A systematic collection of data from a specific group of respondents to gather information on practices and quantities.
+**Summary**: A systematic investigation of the current state of building safety practices in Saudi Arabia.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2012-attyah|Attyah, 2012]] used a survey of 19 drilling companies to quantify waste volumes and identify common additives.
+- [[2000-hashmi|Hashmi, 2000]] used survey to assess current safety practices in residential buildings.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- The survey identified that 68.2% of contractors never used OBF, while 100% never used gaseous fluids. ([[2012-attyah|Attyah, 2012, p. 75]])
+- Identified that 69.3% of burned buildings were residential, highlighting a need for better design standards. ([[2000-hashmi|Hashmi, 2000, p. 249]])
 
 ## Methodological Variations Across Sources
 

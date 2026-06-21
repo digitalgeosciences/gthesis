@@ -4,7 +4,7 @@ title: "Shoreline Type"
 aliases:
   - "shoreline classification"
 canonical: true
-definition: "Classification based on physical features (sand, rock) and vegetation (mangroves, salt-marshes)."
+definition: "The physical nature of the coastline (e.g., sandy, rocky, vegetated)."
 units: "not applicable"
 related_techniques:
   - "gis"
@@ -13,33 +13,33 @@ tags:
 sources:
   - "raw/139862 - Mapping Environmental Sensitivity in the Western Arabian Gulf using Geographic I.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Shoreline Type
 
-**Summary**: The physical and biological characteristics of the coast, influencing oil cleanup difficulty.
+**Summary**: The physical characteristics of the coast, influencing oil cleanup difficulty.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-sudibyo|Sudibyo, 2016]] classified shoreline types to determine their sensitivity to oil spills.
+- [[2016-sudibyo|Sudibyo, 2016]] classified shoreline types to determine the ease of access and cleanup for different coastal zones.
 
 ## Scientific Context
 
-- [[2016-sudibyo|Sudibyo, 2016]] Determines the feasibility of mechanical or manual cleanup methods.
+- [[2016-sudibyo|Sudibyo, 2016]] Determines the feasibility and method of oil removal from the coast.
 
 ## Measurement and Characterization Methods
 
-- [[2016-sudibyo|Sudibyo, 2016]] Categorized into several types including sandy-shore, rocky-shore, and vegetated shoreline.
+- [[2016-sudibyo|Sudibyo, 2016]] Categorized into five types: man-made, rocky, sandy, muddy, and vegetated.
 
 ## Key Findings Across Sources
 
-- Vegetated shoreline type is the highest sensitivity because of the difficulties of the clean-up process, especially mangrove areas. ([[2016-sudibyo|Sudibyo, 2016, p. 78]])
+- Sandy-shore was the dominant type (49%), while vegetated shorelines were identified as high sensitivity due to cleanup complexity. ([[2016-sudibyo|Sudibyo, 2016, p. 78]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

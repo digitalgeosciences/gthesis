@@ -1,46 +1,47 @@
 ---
 type: terminology
-title: "Visco Elastic Surfactant"
+title: "Visco-Elastic Surfactant"
 aliases:
   - "VES"
 canonical: true
-definition: "surfactants that exhibit both viscous and elastic properties"
+definition: "Surfactants with both viscous and elastic properties."
 units: "not applicable"
 related_techniques:
-  - "rheology"
+  - "rheology-measurement"
+  - "micro-ct-scan"
 tags:
-  - theme/enhanced-oil-recovery
+  - theme/reservoir-engineering
 sources:
-  - "raw/142462 - PORE-SCALE INVESTIGATION OF IFT DYNAMICS FOR CHEMICAL EOR APPLICATIONS.pdf"
+  - "raw/139997 - TOWARD UNDERSTANDING THE BREAKING MECHANISM OF VISCOELASTIC SURFACTANT IN WELL S.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
-# Visco Elastic Surfactant
+# Visco-Elastic Surfactant
 
-**Summary**: A type of surfactant that exhibits both viscous and elastic properties, often used in EOR.
+**Summary**: Surfactants that exhibit both viscous and elastic properties, often forming cylindrical micelles.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-ahmed|Ahmed, 2023]] investigated the behavior of visco-elastic surfactants (VES) with crude oil.
+- [[2015-fogang|FOGANG, 2015]] studied a long-tail sulfobetaine surfactant as a VES system.
 
 ## Scientific Context
 
-- [[2023-ahmed|Ahmed, 2023]] VES are used to improve mobility and reduce IFT in heavy oil or complex reservoir systems.
+- [[2015-fogang|FOGANG, 2015]] Used in well stimulation as acid diverters due to their ability to form high-viscosity gels.
 
 ## Measurement and Characterization Methods
 
-- [[2023-ahmed|Ahmed, 2023]] characterized via rheology and phase behavior tests.
+- [[2015-fogang|FOGANG, 2015]] Rheological analysis and cryo-TEM imaging.
 
 ## Key Findings Across Sources
 
-- The study evaluated the phase behavior and IFT of VES systems at high temperatures. ([[2023-ahmed|Ahmed, 2023, p. 13]])
+- The solution was viscoelastic and highly viscous at both temperatures due to the presence of cylindrical micelle networks. ([[2015-fogang|FOGANG, 2015, p. 14]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2023-ahmed|Ahmed, 2023]] 1.25% concentration was a common benchmark for evaluation.
 
 ## Open Questions and Research Gaps
 

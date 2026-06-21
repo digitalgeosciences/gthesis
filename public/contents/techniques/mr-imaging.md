@@ -7,25 +7,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "T2 distribution maps and core images"
+output: "T2 relaxation times and 2D images of fluid distribution."
 tags:
   - technique/mr-imaging
-  - theme/petrophysics
+  - theme/reservoir-characterization
 sources:
   - "raw/142462 - PORE-SCALE INVESTIGATION OF IFT DYNAMICS FOR CHEMICAL EOR APPLICATIONS.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Mr Imaging
 
-**Summary**: A medical and industrial imaging technique used here to monitor fluid distribution in cores.
+**Summary**: A non-destructive imaging technique using magnetic fields to visualize fluid distribution and pore occupancy.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-ahmed|Ahmed, 2023]] used MRI to measure T2 distribution during core flooding.
+- [[2023-ahmed|Ahmed, 2023]] used MRI with a 12 MHz field to visualize the recovery process in-situ at the pore scale.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- MRI was used to measure T2 distribution and observe the difference between 1.25% VES and 1.25% VES with chelating agents. ([[2023-ahmed|Ahmed, 2023, p. 13]])
+- The 2D FSE scan provided visual analysis of the displacement, while T2 distribution offered quantitative accuracy for volume calculation. ([[2023-ahmed|Ahmed, 2023, p. 164]])
 
 ## Methodological Variations Across Sources
 

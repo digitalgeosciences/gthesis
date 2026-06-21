@@ -13,7 +13,7 @@ sources:
   - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Sudan
@@ -26,17 +26,17 @@ last_updated: 2026-06-09
 
 - [[2012-abdelgader|Abdelgader, 2012]] conducted research at Sudan
 
-- [[2015-jabir|Jabir, 2015]] located the study site within sudan.
+- [[2015-jabir|Jabir, 2015]] conducted a study in Sudan's Muglad Rift Basin.
 
-- [[2016-awad|Awad, 2016]] located the study in the Rawat basin within the Sudan region.
+- [[2016-awad|Awad, 2016]] conducted research in the sudan region, specifically within the Rawat Basin.
 
 ## Geological and Structural Setting
 
 
 
-- [[2015-jabir|Jabir, 2015]] located the study site within sudan.
+- [[2015-jabir|Jabir, 2015]] conducted a study in Sudan's Muglad Rift Basin.
 
-- [[2016-awad|Awad, 2016]] located the study in the Rawat basin within the Sudan region.
+- [[2016-awad|Awad, 2016]] conducted research in the sudan region, specifically within the Rawat Basin.
 
 ## Formations Present
 
@@ -46,9 +46,9 @@ last_updated: 2026-06-09
 
 - conducted research at Sudan ([[2012-abdelgader|Abdelgader, 2012]])
 
-- Not stated in source ([[2015-jabir|Jabir, 2015]])
+- The Fula Sub-basin covers an area of 5000 km2. ([[2015-jabir|Jabir, 2015, p. 20]])
 
-- Not applicable ([[2016-awad|Awad, 2016]])
+- The Rawat Basin is a part of the White Nile basin and contains significant hydrocarbon accumulations. ([[2016-awad|Awad, 2016, p. 22]])
 
 ## Research Coverage and Gaps
 

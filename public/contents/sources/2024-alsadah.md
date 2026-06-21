@@ -12,126 +12,99 @@ committee_members:
   - "Ardiansyah Koeshidayatullah"
 source_file: "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142828/"
-study_area: "Aluqair Beach and three connected ponds (Pond 1, Pond 2, Pond 3), Dhahran area, Eastern Province, Saudi Arabia"
+study_area: "Aluqair beach and three associated ponds (Pond 1, Pond 2, Pond 3), Arabian Gulf, Saudi Arabia."
 keywords:
   - Mg/Ca ratio
   - paleothermometer
-  - salinity gradient
   - foraminifera
+  - Arabian Gulf
+  - salinity gradient
   - Ammonia tepida
   - marine chemistry
-  - Arabian Gulf
-  - seawater chemistry
-  - proxy
-  - marine sediments
-  - geochemistry
+  - foraminiferal shells
+  - calcification
 techniques:
   - sem-eds
   - icp-ms
   - icp-oes
-  - micropaleontological-methods
-  - xrf
+  - biostratigraphy
+  - petrography
+  - analytical-techniques
 tags:
   - degree/ms
   - location/arabian-gulf
-  - location/dhahran-area
-  - location/eastern-province
-  - location/saudi-arabia
   - technique/sem-eds
   - technique/icp-ms
   - technique/icp-oes
-  - technique/xrd
-  - technique/xrf
+  - technique/microfacies-analysis
+  - technique/analytical-techniques
   - theme/paleoenvironmental-reconstruction
   - theme/marine-chemistry
-  - theme/marine-geochemistry
-  - theme/general-geochemistry
-  - terminology/paleothermometry
-  - terminology/salinity
-  - terminology/foraminifera
-  - terminology/salinity-gradient
-  - terminology/diagenesis
-  - terminology/calcification
+  - theme/sedimentary-geochemistry
   - terminology/paleothermometer
+  - terminology/salinity-gradient
+  - terminology/hydrogeochemistry
+  - terminology/paleothermometry
+  - terminology/diagenesis
 status: ingested
 ---
 
 # THE Mg/Ca RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GULF
 
-**Summary**: The thesis investigates the applicability of Mg/Ca and Na/Ca ratios in foraminiferal calcite as proxies for temperature and salinity, respectively, within the high-salinity environment of the Arabian Gulf. It concludes that due to high salinity and other environmental factors, these ratios do not currently provide reliable paleothermometry or proxy data for this specific region.
+**Summary**: The thesis investigates the reliability of Mg/Ca and Na/Ca ratios as proxies for temperature and salinity in the Arabian Gulf. It concludes that due to high salinity levels (51.6–79.7 PSU) and other factors like diagenesis and biological effects, these ratios do not currently provide reliable paleothermometry or salinity proxy data in this specific region.
 
 ---
 
 ## Research Problem
 
-The lack of direct historical temperature records and the need for reliable proxies like Mg/Ca ratio are complicated by environmental factors such as salinity gradients, which are prominent in the Arabian Gulf. The study specifically addresses whether the Mg/Ca ratio remains a valid paleothermometer when used with benthic foraminifera in high-salinity environments.
+The lack of reliable global records for past temperatures necessitates the use of proxies like the Mg/Ca ratio in foraminiferal shells; however, its accuracy is challenged by extreme conditions such as the high salinity gradients found in the Arabian Gulf.
 
 ## Objectives
 
-- Test the accuracy and reliability of using the Mg/Ca ratio in Ammonia tepida as a paleothermometer in the Arabian Gulf.
-- Investigate the reliability of using the Na/Ca ratio of foraminifera as a direct and independent salinity proxy.
-- Determine the Mg/Ca and Na/Ca ratios of foraminiferal shells using SEM-EDX and ICP-MS.
-- Compare shell chemistry results between different analytical instruments (SEM-EDX vs. ICP-MS).
-- Evaluate the correlation between Mg/Ca ratios and temperature across a salinity gradient.
-- Assess the reliability of Na/Ca as a potential salinity proxy.
-- Evaluate the applicability of the Mg/Ca ratio as a temperature proxy in the Arabian Gulf.
-- Assess the Na/Ca ratio as a direct independent salinity proxy in the Arabian Gulf.
-- Compare results between SEM-EDX and ICP-MS analytical techniques for determining Mg/Ca ratios.
-- Evaluate the Mg/Ca ratio as a paleothermometer in the Arabian Gulf
-- Assess the impact of salinity gradients on Mg/Ca ratios
-- Determine the reliability of Mg/Ca for reconstructing past temperatures in high-salinity environments
+- Test the utility of the Mg/Ca ratio in foraminifera as a paleothermometer in the Arabian Gulf.
+- Investigate the reliability of the Na/Ca ratio of foraminifera as a direct and independent salinity proxy.
+- Evaluate the Mg/Ca ratio as a paleothermometer along a salinity gradient in the Arabian Gulf.
+- Identify factors (biological, diagenetic, and environmental) affecting the accuracy of these proxies.
 
 ## Methods
 
-Sediment samples were collected from Aluqair Beach and three ponds (Pond 1, Pond 2, Pond 3) over eight months. Foraminifera were separated using a sieve (63-micron aperture) and identified under a binocular microscope. Mg/Ca ratios were determined via SEM-EDX (using the JEOL JCM-7000 system) on the last chamber of foraminifera to ensure accurate timing of calcification. Additionally, ICP-MS (iCAP RQ from Thermo SCIENTIFIC) was used to measure concentrations of Mg, Ca, and Na in both foraminiferal shells and seawater samples. ICP-OES was utilized specifically for characterizing seawater chemistry.
+The study involved collecting sediment samples from Aluqair beach and three adjacent ponds over eight months. Micropaleontological methods were used to isolate benthic foraminifera (Ammonia tepida). Chemical analysis was performed using SEM-EDX (JEOL JCM-7000) to determine Mg/Ca ratios via energy-dispersive X-ray spectroscopy on the final chamber of the shells, and ICP-MS (iCAP RQ from Thermo SCIENTIFIC) for more sensitive determination of Mg, Ca, and Na concentrations. Seawater chemistry was analyzed using ICP-OES.
 
 ## Data and Materials
 
-The study involved samples of benthic foraminifera (specifically Ammonia tepida), sea water measurements, and multi-meter probe readings for temperature and salinity across various locations in the Arabian Gulf. Data included Mg/Ca and Na/Ca ratios measured in both mmol/mol units and raw counts from SEM-EDX.
+8 sediment samples collected over 8 months; analysis of 20 specimens per location via SEM-EDX; additional measurements of temperature, salinity, and pH using a multi-meter probe at four locations (Aluqair Beach, Pond 1, Pond 2, Pond 3).
 
 ## Key Findings
 
-- The Mg/Ca ratio of Ammonia tepida ranges from approximately 20 to 150 mmol/mol across different groups. ([[2024-alsadah|Alsadah, 2024, p. 19]])
-- The Mg/Ca ratio does not directly fit the calibration equation at high salinity in the Arabian Gulf, as evidenced by low R^2 values (0.01-0.57). ([[2024-alsadah|Alsadah, 2024, p. 14]])
-- Mg/Ca ratio is not a reliable paleothermometer in areas with high salinity gradients (51.60-79.70 PSU) because foraminifera absorb more Mg in their shells due to high salinity. ([[2024-alsadah|Alsadah, 2024, p. 14]])
-- The study confirms that the Mg/Ca ratio increases as a result of higher salinity levels. ([[2024-alsadah|Alsadah, 2024, p. 15]])
-- Na/Ca is identified as a potential direct independent salinity proxy, though it remains regionally and species-dependent. ([[2024-alsadah|Alsadah, 2024, p. 19]])
-- The Mg/Ca ratio in foraminiferal shells showed no significant monthly trend from December to July across all four locations (Uqair Beach, Pond 1, Pond 2, and Pond 3). ([[2024-alsadah|Alsadah, 2024, p. 33]])
-- The maximum Mg/Ca ratio recorded was 137 mmol/mol at Pond 1 in May (31.4°C, 66.4 PSU), while the minimum was 5 mmol/mol at Uqair Beach in December (23°C, 51.6 PSU). ([[2024-alsadah|Alsadah, 2024, p. 33]])
-- The maximum Na/Ca ratio recorded was 1645 mmol/mol at Pond 3 in January (17.6°C, 64.4 PSU), and the minimum was 2 mmol/mol at Pond 1 in December. ([[2024-alsadah|Alsadah, 2024, p. 33]])
-- The maximum temperature recorded was 37.9°C (July, Uqair Beach) and the minimum was 17.1°C (January, Pond 1). ([[2024-alsadah|Alsadah, 2024, p. 36]])
-- The maximum salinity recorded was 79.7 PSU (June, Pond 3) and the minimum was 51.6 PSU (December, Uqair Beach). ([[2024-alsadah|Alsadah, 2024, p. 36]])
-- Average seawater Mg concentration was approximately 2126 ppm and Ca was 875 ppm across all months. ([[2024-alsadah|Alsadah, 2024, p. 36]])
-- The correlation between Mg/Ca ratio and temperature was poor (R² < 0.70) for all months, with R² values ranging from 0.01 to 0.57. ([[2024-alsadah|Alsadah, 2024, p. 38]])
-- The correlation between Mg/Ca ratio and salinity was also generally poor (R² < 0.70), except for the month of January where R² = 0.908. ([[2024-alsadah|Alsadah, 2024, p. 40]])
-- Na/Ca ratio showed poor correlation with salinity in most months, except for May when R² reached 0.763. ([[2024-alsadah|Alsadah, 2024, p. 42]])
-- The Mg/Ca ratio in foraminifera showed a significant mismatch with seawater Mg/Ca ratios in most months, only showing a strong correlation in January (R² = 0.77). ([[2024-alsadah|Alsadah, 2024, p. 46]])
+- The Mg/Ca ratio in foraminifera showed poor correlation with temperature across all months (R² values ranging from 0.01 to 0.57), making it unreliable as a standalone paleothermometer in the Arabian Gulf. ([[2024-alsadah|Alsadah, 2024, p. 43]])
+- The Na/Ca ratio showed poor correlation with salinity except for the month of May (R² = 0.763), indicating its limited reliability as an independent salinity proxy. ([[2024-alsadah|Alsadah, 2024, p. 41]])
+- Mg/Ca ratios in foraminifera were found to be influenced by high salinity, with values increasing significantly in areas of higher salinity (e.g., Pond 3). ([[2024-alsadah|Alsadah, 2024, p. 14]])
+- The maximum Mg/Ca ratio recorded was 137 mmol/mol at Pond 1 in May (31.4°C, 66.4 PSU), while the minimum was 5 mmol/mol at Aluqair Beach in December. ([[2024-alsadah|Alsadah, 2024, p. 33]])
+- The maximum Na/Ca ratio recorded was 1645 mmol/mol at Pond 3 in January (17.6°C, 64.4 PSU). ([[2024-alsadah|Alsadah, 2024, p. 33]])
+- Seawater Mg concentrations averaged approximately 2126 ppm and Ca concentrations around 875 ppm across all months. ([[2024-alsadah|Alsadah, 2024, p. 36]])
+- The correlation between foraminiferal Mg/Ca and seawater Mg/Ca was only significant in January (R² = 0.77). ([[2024-alsadah|Alsadah, 2024, p. 46]])
+- The Mg/Ca ratio showed poor correlation with temperature due to high salinity (52-80 PSU) and other factors like biological effects, diagenesis, and pH. ([[2024-alsadah|Alsadah, 2024, p. 66]])
+- The Na/Ca ratio could not be used as a proxy for salinity in the western Arabian Gulf due to high temperatures and potential saturation points at higher salinities (52-80 PSU). ([[2024-alsadah|Alsadah, 2024, p. 67]])
+- Mg/Ca ratios were found to be high because of high salinity, but did not fit calibration equations well in the Arabian Gulf (R2 values were low). ([[2024-alsadah|Alsadah, 2024, p. 68]])
+- The concentration of Mg and Ca in sea water at the Al Uqair area remained almost constant from December to July. ([[2024-alsadah|Alsadah, 2024, p. 66]])
 
 ## Limitations
 
-The study notes the lack of previous data for the Arabian Gulf regarding Mg/Ca ratios, the impact of high salinity, and the influence of temperature on calcification. The reliance on global studies from cooler, less saline waters limits the applicability of standard calibration models to the Arabian Gulf.
+The study notes that the lack of historical data for the Arabian Gulf's specific conditions, the potential for species-specific variations in Mg/Ca ratios, and the impact of shell dissolution on chemical signatures limit the reliability of these proxies.
 
 ## Recommendations and Future Work
 
-- Careful analysis of factors like biological variability (vital effects) is needed for Mg/Ca calibration.
-- Assessment of diagenesis and preservation impacts is mandatory for reliable calibration.
-- Understanding seasonal variations in specific species' Mg/Ca ratios is necessary.
-- Expanding temporal and geographic coverage to improve representation.
-- Increasing replication and sample size to enhance statistical strength.
-- Using standard reference materials to calibrate analytical techniques.
-- Combining field studies with lab culture studies to better understand environmental variables.
+Calibrate Mg/Ca ratios by accounting for biological variability, diagenesis, and seasonal changes; increase replication and sample size; use standard reference materials; perform both field studies and lab culture studies to isolate environmental variables.
 
 ## Related Concepts
 
-- [[sem-edx]]
+- [[sem-eds]]
 - [[icp-ms]]
-- [[paleothermometry]]
-- [[salinity]]
-- [[arabian-gulf]]
-- [[paleoenvironmental-reconstruction]]
-- [[foraminifera]]
-- [[salinity-gradient]]
-- [[diagenesis]]
-- [[calcification]]
-- [[xrf]]
 - [[paleothermometer]]
+- [[salinity-gradient]]
+- [[arabian-gulf]]
+- [[hydrogeochemistry]]
+- [[paleoenvironmental-reconstruction]]
+- [[analytical-techniques]]
+- [[paleothermometry]]
+- [[diagenesis]]

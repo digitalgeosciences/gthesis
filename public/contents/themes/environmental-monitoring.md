@@ -1,79 +1,78 @@
 ---
 type: theme
 title: "Environmental Monitoring"
-aliases:
-  - "environmental-monitoring"
+aliases: []
 canonical: true
-description: "Monitoring of chemical pollutants in water and biota."
-key_challenges: "Detection of low-concentration pesticides in complex matrices."
+description: "Monitoring of pollutants to ensure food safety and ecosystem health."
+key_challenges: "Detecting trace concentrations in complex environmental matrices."
 tags:
   - theme/environmental-monitoring
 sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
-  - "raw/139811 - UTILIZING OF GIS TO MAP TRACE METALS DISTRIBUTION IN SABKHA AL-FASL, JUBAIL, SAU.pdf"
   - "raw/139874 - GIS application and Environmental Factors for Mosquito Control in Eastern Provin.pdf"
-  - "raw/140015 - LEVELS AND CHARACTERISTICS OF AIRBORNE PARTICULATE MATTER IN DAMMAM, DHAHRAN AND.pdf"
-  - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
-  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
+  - "raw/142010 - MODELLING THE EFFECTS OF CLIMATE CHANGE ON AIR QUALITY IN THE DAMMAM METROPOLITA.pdf"
+  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
+  - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Environmental Monitoring
 
-**Summary**: The systematic observation of environmental conditions or pollutants to assess impact and risk.
+**Summary**: The systematic assessment of environmental factors or pollutants to determine their impact on ecosystems.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-mohammed|Mohammed, 2013]] conducted an environmental monitoring program for OCPs and OPPs in the Arabian Gulf.
+- [[2013-mohammed|Mohammed, 2013]] conducted environmental monitoring of pesticides in the Arabian Gulf.
 
-- [[2015-jawad|Jawad, 2015]] applied to monitor trace metal levels and water fluctuations in a wetland ecosystem.
+- [[2016-yasin|Yasin, 2016]] used environmental monitoring of climate and habitat data to inform mosquito control programs.
 
-- [[2016-yasin|Yasin, 2016]] focused on monitoring mosquito populations for public health safety.
+- [[2021-siddiq|Siddiq, 2021]] used SIP as a tool for the monitoring of arsenic adsorption processes.
 
-- [[2016-lawal-2|Lawal, 2016]] conducted environmental monitoring of air quality in the Eastern Province.
+- [[2022-mustapha|Mustapha, 2022]] evaluated air quality by modeling SO2 concentrations under different climate scenarios.
 
-- [[2019-alotaibi|Alotaibi, 2019]] performed environmental-monitoring of the Arabian Peninsula's atmosphere.
+- [[2024-alenazi|Alenazi, 2024]] calculated the air_quality (AQI) for various locations using PM2.5 and PM10 data.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] focused on the environmental-monitoring of waste sites in Saudi Arabia.
+- [[2025-al-afif|Al-Afif, 2025]] evaluated air-quality using AQI values for various pollutants.
 
 ## Key Subtopics
 
-- [[2013-mohammed|Mohammed, 2013]] ['sediment analysis', 'biota accumulation', 'water quality']
+- [[2013-mohammed|Mohammed, 2013]] ['sea water quality', 'sediment contamination', 'biota accumulation']
 
-- [[2015-jawad|Jawad, 2015]] applied to monitor trace metal levels and water fluctuations in a wetland ecosystem.
+- [[2016-yasin|Yasin, 2016]] used environmental monitoring of climate and habitat data to inform mosquito control programs.
 
-- [[2016-yasin|Yasin, 2016]] focused on monitoring mosquito populations for public health safety.
+- [[2021-siddiq|Siddiq, 2021]] used SIP as a tool for the monitoring of arsenic adsorption processes.
 
-- [[2016-lawal-2|Lawal, 2016]] conducted environmental monitoring of air quality in the Eastern Province.
+- [[2022-mustapha|Mustapha, 2022]] evaluated air quality by modeling SO2 concentrations under different climate scenarios.
 
-- [[2019-alotaibi|Alotaibi, 2019]] performed environmental-monitoring of the Arabian Peninsula's atmosphere.
+- [[2024-alenazi|Alenazi, 2024]] calculated the air_quality (AQI) for various locations using PM2.5 and PM10 data.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] focused on the environmental-monitoring of waste sites in Saudi Arabia.
+- [[2025-al-afif|Al-Afif, 2025]] evaluated air-quality using AQI values for various pollutants.
 
 ## Methods and Approaches Used
 
-- [[2013-mohammed|Mohammed, 2013]] ['GC-MS', 'SPE', 'UAE']
+- [[2013-mohammed|Mohammed, 2013]] ['spe', 'ultrasonication', 'gc-ms']
 
 ## Key Findings Across Sources
 
-- Concentrations of OCPs in Tarut Bay were significantly higher than those in Jubail coastal area due to agricultural runoff. ([[2013-mohammed|Mohammed, 2013, p. 15]])
+- Baseline data were established for OCPs and OPPs across sea water, sediment, and biota. ([[2013-mohammed|Mohammed, 2013, p. 14]])
 
-- GIS was used to develop maps for monitoring purposes as a guide for future management. ([[2015-jawad|Jawad, 2015, p. 21]])
+- Monitoring larval sites using GIS allows for more efficient identification of breeding grounds than traditional methods. ([[2016-yasin|Yasin, 2016, p. 21]])
 
-- Mapping breeding sites via GIS and analyzing climatic impacts provided a basis for more effective mosquito control. ([[2016-yasin|Yasin, 2016, p. 15]])
+- SIP appears to be a powerful tool to monitor As sorption processes; real conductivity clearly shows the onset, and progress, of early sorption processes. ([[2021-siddiq|Siddiq, 2021, p. 52]])
 
-- Spatial and temporal variations were observed in both concentration levels and elemental percentages. ([[2016-lawal-2|Lawal, 2016, p. 70]])
+- SO2 levels at receiving sites fell within the allowable limits of WHO and KSA standards even under future conditions. ([[2022-mustapha|Mustapha, 2022, p. 15]])
 
-- Monitoring revealed significant seasonal variations in particulate matter across different regions. ([[2019-alotaibi|Alotaibi, 2019, p. 112]])
+- Outdoor AQI for PM2.5 was categorized as 'unhealthy' in several industrial areas. ([[2024-alenazi|Alenazi, 2024, p. 205]])
 
-- Not stated in source ([[2022-al-harbi|Al-Harbi, 2022]])
+- SO2 levels were reduced to 'good' (AQI < 50) under the fuel-shifting scenario. ([[2025-al-afif|Al-Afif, 2025, p. 54]])
 
 ## Competing Approaches and Debates
 
-- [[2013-mohammed|Mohammed, 2013]] Detection of low-concentration pesticides in complex matrices.
+- [[2013-mohammed|Mohammed, 2013]] Detecting trace concentrations in complex environmental matrices.
 
 ## Open Questions and Research Gaps
 

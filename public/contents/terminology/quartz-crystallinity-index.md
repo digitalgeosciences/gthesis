@@ -3,10 +3,9 @@ type: terminology
 title: "Quartz Crystallinity Index"
 aliases:
   - "QCI"
-  - "Quartz Crystallinity Index"
 canonical: true
-definition: "A semi-quantitative 0 to 10 scale that expresses the crystallinity of powdered quartz by measuring the intensity of the (212) X-ray diffraction peak."
-units: "dimensionless"
+definition: "A measure of the crystallinity of powdered quartz based on XRD peak intensity."
+units: "0-10 scale"
 related_techniques:
   - "xrd"
 tags:
@@ -14,34 +13,34 @@ tags:
 sources:
   - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Quartz Crystallinity Index
 
-**Summary**: A semi-quantitative scale (0-10) that expresses the crystallinity of powdered quartz.
+**Summary**: A semi-quantitative scale (0-10) measuring the crystallinity of powdered quartz based on the intensity of the (212) XRD peak.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-radwan|Radwan, 2022]] used QCI to distinguish between different crystallization conditions and trace provenance.
+- [[2022-radwan|Radwan, 2022]] used QCI to distinguish between different provenance sources and identify chert influence.
 
 ## Scientific Context
 
-- [[2022-radwan|Radwan, 2022]] Used as a tool for provenance studies and to identify different crystallization conditions.
+- [[2022-radwan|Radwan, 2022]] Used to determine if sand is derived from specific geological units or influenced by chertification.
 
 ## Measurement and Characterization Methods
 
-- [[2022-radwan|Radwan, 2022]] Measured via XRD peak intensity analysis.
+- [[2022-radwan|Radwan, 2022]] Calculation of the (212) peak intensity relative to background.
 
 ## Key Findings Across Sources
 
-- QCI values in sandstones are associated with siliceous sponges and eolian environments. ([[2022-radwan|Radwan, 2022, p. 15]])
+- QCI values for sandstones were highest in Ordovician, Devonian, Permian, Triassic, and Cretaceous units (>9.5). ([[2022-radwan|Radwan, 2022, p. 47]])
+- [[2022-radwan|Radwan, 2022]] Sandstones: 8.2-9.8; Sands: 7.4-9.5.
 
 ## Contrasting Values and Interpretations
 
-- [[2022-radwan|Radwan, 2022]] Varies temporally in sandstones; more homogeneous in AlRub’AlKhali sands.
 
 ## Open Questions and Research Gaps
 

@@ -3,45 +3,44 @@ type: terminology
 title: "Thermal Energy Storage"
 aliases:
   - "TES"
-  - "thermal energy storage"
 canonical: true
-definition: "The storage of thermal energy in a medium to be used later on demand."
+definition: "The storage of thermal energy in a solid or liquid medium."
 units: "not applicable"
 related_techniques:
   - "dsc"
-  - "uv-vis"
+  - "tga"
 tags:
-  - theme/environmental-geoscience
+  - theme/mineralogy
 sources:
   - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Thermal Energy Storage
 
-**Summary**: The process of storing thermal energy for later use in systems like solar heating or cooling.
+**Summary**: The storage of thermal energy in a medium for later use, often in solar applications.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-radwan|Radwan, 2022]] investigated the potential of Arabian sands as a medium for thermal energy storage.
+- [[2022-radwan|Radwan, 2022]] evaluated the potential of Arabian sands as a thermal energy storage (TES) medium.
 
 ## Scientific Context
 
-- [[2022-radwan|Radwan, 2022]] Relevant for solar heating, drying, and cooking applications.
+- [[2022-radwan|Radwan, 2022]] Determining the suitability of local materials for solar power infrastructure.
 
 ## Measurement and Characterization Methods
 
-- [[2022-radwan|Radwan, 2022]] Evaluated via specific heat capacity and stability under high temperatures.
+- [[2022-radwan|Radwan, 2022]] Assessment of specific heat capacity and melting/agglomeration points.
 
 ## Key Findings Across Sources
 
-- Pure quartzose sands (≥99% quartz) are identified as high-performing candidates for this application. ([[2022-radwan|Radwan, 2022, p. 15]])
+- Pure quartzose sands are proposed as the best candidate for TES due to high specific heat capacity and stability up to 1200°C. ([[2022-radwan|Radwan, 2022, p. 52]])
+- [[2022-radwan|Radwan, 2022]] Not stated in source.
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

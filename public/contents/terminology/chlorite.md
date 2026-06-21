@@ -4,8 +4,8 @@ title: "Chlorite"
 aliases:
   - "ClO2-"
 canonical: true
-definition: "An inorganic ion formed during chlorine dioxide disinfection."
-units: "ppm"
+definition: "An inorganic byproduct of chlorine dioxide disinfection."
+units: "mg/l"
 related_techniques:
   - "ion-chromatography"
 tags:
@@ -13,33 +13,33 @@ tags:
 sources:
   - "raw/138483 - Quantitative Assessment of Disinfection By-products Formed by Chlorine, Chlorine.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Chlorite
 
-**Summary**: An inorganic disinfection by-product formed during chlorine dioxide treatment.
+**Summary**: An inorganic byproduct formed during chlorine dioxide treatment.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2011-ibrahim|Ibrahim, 2011]] assessed chlorite levels as a byproduct of chlorine dioxide usage.
+- [[2011-ibrahim|Ibrahim, 2011]] measured chlorite levels following chlorine dioxide disinfection.
 
 ## Scientific Context
 
-- [[2011-ibrahim|Ibrahim, 2011]] Chlorite is a byproduct of concern in water treatment systems.
+- [[2011-ibrahim|Ibrahim, 2011]] Chlorite is a regulated byproduct in water treatment.
 
 ## Measurement and Characterization Methods
 
-- [[2011-ibrahim|Ibrahim, 2011]] Quantified via Ion Chromatography.
+- [[2011-ibrahim|Ibrahim, 2011]] Ion Chromatography.
 
 ## Key Findings Across Sources
 
-- Chlorite was not detected at the 1:10 blending ratio. ([[2011-ibrahim|Ibrahim, 2011, p. 9]])
+- Chlorite formation was significantly higher at 30°C (80.2%) compared to lower temperatures. ([[2011-ibrahim|Ibrahim, 2011, p. 31]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

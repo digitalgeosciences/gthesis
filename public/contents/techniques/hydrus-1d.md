@@ -6,25 +6,24 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "simulated soil moisture profiles and RWU rates."
+output: "soil water balance and root water uptake (RWU) calculations"
 tags:
   - technique/hydrus-1d
-  - theme/hydrogeology
 sources:
   - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Hydrus 1D
 
-**Summary**: A numerical model for simulating water, heat, and solute transport in unsaturated and saturated porous media.
+**Summary**: A numerical model used to simulate water movement in unsaturated and saturated zone of the soil.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-prasetyo|Prasetyo, 2024]] used HYDRUS-1D to simulate soil water content and root water uptake (RWU) under various irrigation scenarios.
+- [[2024-prasetyo|Prasetyo, 2024]] used HYDRUS-1D to simulate root water uptake (RWU) and soil water balance.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The model successfully predicted the parabolic pattern of soil water content distribution over time. ([[2024-prasetyo|Prasetyo, 2024, p. 73]])
+- The calibrated HYDRUS-1D model successfully predicted seasonal variations in RWU, peaking in July. ([[2024-prasetyo|Prasetyo, 2024, p. 74]])
 
 ## Methodological Variations Across Sources
 

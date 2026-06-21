@@ -2,44 +2,51 @@
 type: terminology
 title: "Metasomatism"
 aliases:
-  - "hydrothermal alteration"
+  - "metasomatic enrichment"
 canonical: true
-definition: "Alteration of rock by hydrothermal fluids."
+definition: "Chemical alteration of rock by fluids."
 units: "not applicable"
 related_techniques:
-  - "sem-eds"
+  - "trace-element-geochemistry"
 tags:
   - theme/igneous-metamorphic-petrology
 sources:
+  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
   - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Metasomatism
 
-**Summary**: The chemical alteration of a rock by hydrothermal fluids.
+**Summary**: The chemical alteration of a rock by hydrothermal fluids or other chemically active fluids.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] identified metasomatism as a factor influencing the mineralogy and chemistry of the albitite unit.
+- [[2023-iskandar|Iskandar, 2023]] identified metasomatic enrichment in the LREE-enriched samples.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] investigated the role of metasomatism in mineral formation.
 
 ## Scientific Context
 
-- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] Metasomatism can mask original magmatic signatures in A-type granites.
+- [[2023-iskandar|Iskandar, 2023]] Used to identify secondary enrichment events in the mantle.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] investigated the role of metasomatism in mineral formation.
 
 ## Measurement and Characterization Methods
 
-- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] Inferred from high fluorine content and specific mineral assemblages.
+- [[2023-iskandar|Iskandar, 2023]] Analyzed via REE patterns (La, Ce).
 
 ## Key Findings Across Sources
 
-- Albitite is more hydrothermally controlled and affected by metasomatism rather than being purely magmatic in origin. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 73]])
+- LREE enrichment attests that the original mantle was subjected to secondary metasomatic enrichment. ([[2023-iskandar|Iskandar, 2023, p. 96]])
+
+
+- Evidence for both magmatic and post-magmatic metasomatism was found in almost all lithological units. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 66]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

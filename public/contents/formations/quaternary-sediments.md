@@ -1,125 +1,145 @@
 ---
 type: formation
 title: "Quaternary Sediments"
-aliases:
-  - "Pleistocene-Holocene rocks"
-  - "Pleistocene-Holocene sediments"
+aliases: []
 canonical: true
-age: "Pleistocene to Holocene"
-basin: "Arabian Gulf"
-lithology: "carbonate rocks and sediments"
-reservoir_status: "not applicable"
-tags:
-  - formation/quaternary-sediments
-  - theme/sedimentology
+age: "Not stated in source"
+basin: "Not stated in source"
+lithology: "Not stated in source"
+reservoir_status: "Not stated in source"
+tags: []
 sources:
+  - "raw/10171 - Management of groundwater resources in Somalia.pdf"
   - "raw/10471 - Pleistocene-holocene sedimentation along King fahd Causeway between Saudi Arabia.pdf"
   - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
-  - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
-  - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
   - "raw/140547 - DETECTION OF SHALLOW SUBSURFACE CAVITIES USING 2D &amp; 3D ELECTRICAL RESISTIVIT.pdf"
-  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
   - "raw/141851 - LITHOLOGICAL CHARACTERISTICS OF GLACIAL DEPOSITIONAL ENVIRONMENT AND ITS CONTROL.pdf"
   - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
-  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
   - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
+  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
+  - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
   - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
-  - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
+  - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
+  - "raw/9836 - Pleistocene-holocene sedimentation along King fahd Causeway between Saudi Arabia.pdf"
+  - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Quaternary Sediments
 
-**Summary**: Sedimentary deposits from the Pleistocene and Holocene epochs.
+**Summary**: Geological formation studied in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1988-darwish|Darwish, 1988]] studied the quaternary-sediments in the Gulf of Salwa area.
+- [[1993-moallim|Moallim, 1993]] studied the Quaternary Sediments
 
-- [[2012-amao|Amao, 2012]] analyzed quaternary-sediments to identify endolithic cyanobacteria.
+- [[1988-darwish|Darwish, 1988]] characterized the quaternary-sediments in the study area.
 
-- [[2016-armoh|Armoh, 2016]] analyzed quaternary-sediments to characterize the sabkha's surface layers.
+- [[2012-amao|Amao, 2012]] analyzed quaternary-sediments to identify endolithic cyanobacteria in ooids and shell fragments.
 
-- [[2017-amao|Amao, 2017]] analyzed foraminiferal remains in petroleum-bearing carbonate rocks and marine sediments.
+- [[2017-tayyab|Tayyab, 2017]] investigated quaternary-sediments in the study area.
 
-- [[2017-tayyab|Tayyab, 2017]] investigated quaternary-sediments to identify subsurface voids.
+- [[2021-alqarni|Alqarni, 2021]] studied the quaternary-sediments (referred to as Ordovician glacial deposits) in the Rub' al-Khali Basin.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] studied the quaternary-sediments in the Jafurah Sand Sea.
+- [[2022-khan|Khan, 2022]] analyzed the quaternary-sediments in the core samples.
 
-- [[2021-alqarni|Alqarni, 2021]] analyzed lithofacies within the glacial deposit units.
+- [[2022-radwan|Radwan, 2022]] analyzed quaternary-sediments to determine their suitability for solar energy applications.
 
-- [[2022-khan|Khan, 2022]] studied the quaternary-sediments of the King Fahd Causeway area.
+- [[2023-butt|Butt, 2023]] investigated the Al Wajh Formation as a primary reservoir target.
 
-- [[2022-karami|Karami, 2022]] analyzed the Tawil-Quaternary aquifer system.
+- [[2023-alsahwan|AlSahwan, 2023]] analyzed quaternary-sediments to determine water content in sand dunes.
 
-- [[2022-radwan|Radwan, 2022]] analyzed Quaternary surface sediments from Nafud, Dahna, and AlRub’AlKhali.
+- [[2024-makki|Makki, 2024]] investigated quaternary-sediments to determine their anisotropic properties.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] analyzed quaternary-sediments in a sand dune to determine water content.
+- [[2024-tarchi|Tarchi, 2024]] investigated the water content in quaternary-sediments (sand dunes) in the Eastern Province.
 
-- [[2025-oyekan|Oyekan, 2025]] investigated the quaternary-sediments within a barchan dune to determine water content.
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] studied the quaternary-sediments in a sand dune near Dammam.
+
+- [[2024-ahmed|Ahmed, 2024]] identified quaternary-sediments as indicators of basin environments.
+
+- [[1988-darwish-2|Darwish, 1988]] analyzed quaternary-sediments to determine Pleistocene-Holocene sea level changes.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] characterized quaternary-sediments at the sabkha site.
 
 ## Depositional Environment
 
-- [[1988-darwish|Darwish, 1988]] shallow marine to lagoonal environments
 
-- [[2012-amao|Amao, 2012]] analyzed quaternary-sediments to identify endolithic cyanobacteria.
 
-- [[2016-armoh|Armoh, 2016]] analyzed quaternary-sediments to characterize the sabkha's surface layers.
+- [[1988-darwish|Darwish, 1988]] characterized the quaternary-sediments in the study area.
 
-- [[2017-amao|Amao, 2017]] analyzed foraminiferal remains in petroleum-bearing carbonate rocks and marine sediments.
+- [[2012-amao|Amao, 2012]] analyzed quaternary-sediments to identify endolithic cyanobacteria in ooids and shell fragments.
 
-- [[2017-tayyab|Tayyab, 2017]] investigated quaternary-sediments to identify subsurface voids.
+- [[2017-tayyab|Tayyab, 2017]] investigated quaternary-sediments in the study area.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] studied the quaternary-sediments in the Jafurah Sand Sea.
+- [[2021-alqarni|Alqarni, 2021]] studied the quaternary-sediments (referred to as Ordovician glacial deposits) in the Rub' al-Khali Basin.
 
-- [[2021-alqarni|Alqarni, 2021]] analyzed lithofacies within the glacial deposit units.
+- [[2022-khan|Khan, 2022]] analyzed the quaternary-sediments in the core samples.
 
-- [[2022-khan|Khan, 2022]] studied the quaternary-sediments of the King Fahd Causeway area.
+- [[2022-radwan|Radwan, 2022]] analyzed quaternary-sediments to determine their suitability for solar energy applications.
 
-- [[2022-karami|Karami, 2022]] analyzed the Tawil-Quaternary aquifer system.
+- [[2023-butt|Butt, 2023]] investigated the Al Wajh Formation as a primary reservoir target.
 
-- [[2022-radwan|Radwan, 2022]] analyzed Quaternary surface sediments from Nafud, Dahna, and AlRub’AlKhali.
+- [[2023-alsahwan|AlSahwan, 2023]] analyzed quaternary-sediments to determine water content in sand dunes.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] analyzed quaternary-sediments in a sand dune to determine water content.
+- [[2024-makki|Makki, 2024]] investigated quaternary-sediments to determine their anisotropic properties.
 
-- [[2025-oyekan|Oyekan, 2025]] investigated the quaternary-sediments within a barchan dune to determine water content.
+- [[2024-tarchi|Tarchi, 2024]] investigated the water content in quaternary-sediments (sand dunes) in the Eastern Province.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] studied the quaternary-sediments in a sand dune near Dammam.
+
+- [[2024-ahmed|Ahmed, 2024]] identified quaternary-sediments as indicators of basin environments.
+
+- [[1988-darwish-2|Darwish, 1988]] analyzed quaternary-sediments to determine Pleistocene-Holocene sea level changes.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] characterized quaternary-sediments at the sabkha site.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- The sedimentary units include a 40m thick dolomite interval and a 3-9m thick non-dolomite interval. ([[1988-darwish|Darwish, 1988, p. 19]])
+- studied the Quaternary Sediments ([[1993-moallim|Moallim, 1993]])
 
-- Carbonate materials from Tarut, Mussalamia, and Abu Ali are predominantly fine particles (73.63% and 63.66%). ([[2012-amao|Amao, 2012, p. 46]])
+- The core samples penetrate Pleistocene-Holocene rocks and sediments. ([[1988-darwish|Darwish, 1988, p. 19]])
 
-- The first layer is a sandy soil layer with an average thickness of 15 m; the second layer is 113 m. ([[2016-armoh|Armoh, 2016, p. 23]])
+- Arabian Gulf sediment consists of ooids, shell fragments and other carbonate sediments. ([[2012-amao|Amao, 2012, p. 33]])
 
-- Fossil remains comprise a major proportion of petroleum-bearing carbonate rock in Eastern Saudi Arabia. ([[2017-amao|Amao, 2017, p. 19]])
+- The coastal plain is underlain by coralline limestone of Quaternary age. These coral beds are soft, porous and nonhomogeneous. ([[2017-tayyab|Tayyab, 2017, p. 19]])
 
-- The coralline limestone beds are soft, porous, and nonhomogeneous, often interspaced with large cavities. ([[2017-tayyab|Tayyab, 2017, p. 19]])
+- The formation contains seven distinct lithofacies including MS, PLS, LA, HAPS, SSD, and CP. ([[2021-alqarni|Alqarni, 2021, p. 125]])
 
-- The system includes dune, interdune, and sand sheet facies. ([[2022-al-alawi|Al-Alawi, 2022, p. 37]])
+- The sequence includes a 40m thick dolomitic unit and a 3-9m thick non-dolomitic unit. ([[2022-khan|Khan, 2022, p. 19]])
 
-- Identified several distinct facies such as MS and PLS in the glacial sequence. ([[2021-alqarni|Alqarni, 2021, p. 79]])
+- The purest sand samples (99% quartz) are located in the southwestern part of the Nafud desert. ([[2022-radwan|Radwan, 2022, p. 80]])
 
-- The sediments consist of various lithofacies including dolomite, limestone, and sandstone. ([[2022-khan|Khan, 2022, p. 2]])
+- The formation contains braided fluvial fan sandstones with high permeability (up to 3025 mD). ([[2023-butt|Butt, 2023, p. 134]])
 
-- The Tawil-Quarternary Aquifer system is mostly confined except for the Quaternary-Neogene sediments. ([[2022-karami|Karami, 2022, p. 24]])
+- The dune is composed mostly of quartz, with minor quantities of feldspar and calcite. ([[2023-alsahwan|AlSahwan, 2023, p. 37]])
 
-- Sands in these areas represent a significant portion of the Arabian Peninsula's land surface. ([[2022-radwan|Radwan, 2022, p. 15]])
+- The sand dune was found to have a mineral composition of 86.8% quartz and 9.4% feldspar. ([[2024-makki|Makki, 2024, p. 51]])
 
-- The study focused on unconsolidated sediments (sand) within a dune system. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 57]])
+- The sand is primarily composed of quartz, with some feldspars and carbonate minerals. ([[2024-tarchi|Tarchi, 2024, p. 39]])
 
-- The dune is composed of fine to medium grain sizes with 83% quartz mineralogy. ([[2025-oyekan|Oyekan, 2025, p. 54]])
+- The sediment consisted mainly of quartz, feldspar, and carbonate minerals. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 41]])
+
+- Basin areas are characterized by loose sediments, potentially facilitating the cooling of upwelling hot groundwater. ([[2024-ahmed|Ahmed, 2024, p. 143]])
+
+- The core samples penetrate Pleistocene-Holocene rocks and sediments in the Arabian Gulf. ([[1988-darwish-2|Darwish, 1988, p. 19]])
+
+- The sediment is dominated by gypsum, anhydrite, halite, and quartz sand. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 70]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1988-darwish|Darwish, 1988]] dolomitization, cementation, and dissolution
 
 ## Open Questions and Research Gaps
 

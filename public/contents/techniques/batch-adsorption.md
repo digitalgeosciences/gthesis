@@ -2,33 +2,37 @@
 type: technique
 title: "Batch Adsorption"
 aliases:
-  - "batch mode"
+  - "batch adsorption studies"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "equilibrium adsorption capacity and influence of environmental factors"
+output: "concentration of solute in liquid"
 tags:
   - technique/batch-adsorption
-  - theme/water-treatment
 sources:
+  - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
   - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Batch Adsorption
 
-**Summary**: A method where a fixed amount of adsorbent and adsorbate are mixed in a container to reach equilibrium.
+**Summary**: Batch adsorption is a method to study the removal of solutes from a liquid by an adsorbent.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2021-alnasser|AlNasser, 2021]] used batch adsorption to investigate the effects of concentration, time, temperature, pH, and metals on methylene blue removal.
+- [[2017-olabemiwo|Olabemiwo, 2017]] used batch adsorption to evaluate Cd(II) removal under various conditions.
+
+- [[2021-alnasser|AlNasser, 2021]] used batch-adsorption to evaluate the effects of concentration, time, temperature, and pH on methylene blue removal.
 
 ## Instruments and Software
 
 
+
+- [[2021-alnasser|AlNasser, 2021]] used batch-adsorption to evaluate the effects of concentration, time, temperature, and pH on methylene blue removal.
 
 ## Typical Workflow
 
@@ -36,7 +40,9 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The study confirmed that polyethylenimine modified graphene was the most effective material in batch mode. ([[2021-alnasser|AlNasser, 2021, p. 84]])
+- Maximum removal was achieved at pH 7, 15 min contact time, and 4 g/L dosage. ([[2017-olabemiwo|Olabemiwo, 2017, p. 73]])
+
+- The study successfully characterized the adsorption of methylene blue in batch mode across various parameters. ([[2021-alnasser|AlNasser, 2021, p. 65]])
 
 ## Methodological Variations Across Sources
 

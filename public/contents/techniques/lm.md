@@ -1,34 +1,40 @@
 ---
 type: technique
-title: "Lm"
+title: "LM"
 aliases:
-  - "Light Microscopy"
+  - "Levenberg-Marquardt"
   - "LM"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "magnified visual images"
+output: "optimized model parameters (e.g., permeability)"
 tags:
   - technique/lm
+  - theme/reservoir-characterization
 sources:
-  - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
+  - "raw/139447 - Optimum Damping Factor for Levenberg-Marquardt Algorithm with Application to Res.pdf"
+  - "raw/139694 - A Global Optimization Approach to the Gradual Deformation Method of History Matc.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
-# Lm
+# LM
 
-**Summary**: A technique using light and lenses to view samples under magnification.
+**Summary**: A gradient-based optimization algorithm that combines steepest descent and Gauss-Newton methods by using a damping factor to ensure the Hessian matrix remains positive-definite.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2012-amao|Amao, 2012]] used LM in conjunction with SEM for the morphometric identification of cyanobacteria.
+- [[2015-zhang|Zhang, 2015]] used LM to optimize reservoir parameters while investigating more efficient ways to determine the damping factor for large-scale problems.
+
+- [[2015-adeniji|Adeniji, 2015]] used LM to estimate deformation parameters in GDM.
 
 ## Instruments and Software
 
 
+
+- [[2015-adeniji|Adeniji, 2015]] used LM to estimate deformation parameters in GDM.
 
 ## Typical Workflow
 
@@ -36,7 +42,9 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Used as a core component of culture-independent techniques to identify species from both study regions. ([[2012-amao|Amao, 2012, p. 126]])
+- The proposed DE-based method yields smaller residuals of the objective function compared to traditional LM. ([[2015-zhang|Zhang, 2015, p. 16]])
+
+- LM was less reliable than global algorithms, only reducing the OF below 0.5 in one out of seven realizations. ([[2015-adeniji|Adeniji, 2015, p. 139]])
 
 ## Methodological Variations Across Sources
 

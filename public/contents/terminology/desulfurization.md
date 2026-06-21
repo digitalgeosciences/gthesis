@@ -1,45 +1,45 @@
 ---
 type: terminology
 title: "Desulfurization"
-aliases: []
+aliases:
+  - "ADS"
 canonical: true
-definition: "The removal of sulfur from fuel or crude oil."
+definition: "the removal of sulfur compounds from fuels to meet environmental standards."
 units: "not applicable"
 related_techniques:
   - "adsorption-experiments"
-  - "gc-ms"
 tags:
   - theme/water-treatment
 sources:
   - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
 # Desulfurization
 
-**Summary**: The removal of sulfur compounds from petroleum products.
+**Summary**: The removal of sulfur and other impurities from petroleum products.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-danmaliki|Danmaliki, 2015]] investigated desulfurization using activated carbon derived from waste tires.
+- [[2015-danmaliki|Danmaliki, 2015]] studied the desulfurization of thiophene, benzothiophene, and dibenzothiophene using metal-loaded carbon.
 
 ## Scientific Context
 
-- [[2015-danmaliki|Danmaliki, 2015]] Essential for reducing environmental impact and meeting regulatory limits on sulfur content.
+- [[2015-danmaliki|Danmaliki, 2015]] critical for reducing the impact of sulfur on air quality and equipment corrosion.
 
 ## Measurement and Characterization Methods
 
-- [[2015-danmaliki|Danmaliki, 2015]] Quantification of thiophene, BT, and DBT via GC-SCD.
+- [[2015-danmaliki|Danmaliki, 2015]] batch adsorption experiments.
 
 ## Key Findings Across Sources
 
-- Desulfurization was evaluated for thiophene, benzothiophene (BT), and dibenzothiophene (DBT). ([[2015-danmaliki|Danmaliki, 2015, p. 100]])
+- Nickel loaded on AC (AC/Ni) and cerium in combination with iron loaded on AC (AC/CeO2/Fe) showed the best performance. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

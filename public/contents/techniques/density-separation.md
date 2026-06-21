@@ -6,25 +6,24 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "separated microplastic particles"
+output: "isolated microplastic particles"
 tags:
   - technique/density-separation
-  - theme/environmental-geology
 sources:
   - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Density Separation
 
-**Summary**: A physical process used to separate materials based on their different densities in a liquid medium.
+**Summary**: A physical process using a high-density salt solution to separate lighter materials like plastics from heavier sediment.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] used density separation with NaCl (1.2 g/ml) to extract microplastics from sediment.
+- [[2022-alshaikhali|Alshaikhali, 2022]] used density separation with NaCl (1.2 g/ml) to isolate microplastics from sand samples.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Density separation using 1.2 g/ml NaCl was the standard method for isolating particles from the sediment matrix. ([[2022-alshaikhali|Alshaikhali, 2022, p. 23]])
+- Successfully separated light components including fibers and fragments from the sediment matrix. ([[2022-alshaikhali|Alshaikhali, 2022, p. 33]])
 
 ## Methodological Variations Across Sources
 

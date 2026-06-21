@@ -4,97 +4,83 @@ title: "Environmental Microbiology"
 aliases:
   - "environmental-microbiology"
 canonical: true
-description: "The study of microbes in environmental contexts like soil contamination."
-key_challenges: "Identifying effective indigenous strains and optimizing growth conditions (pH, temperature, nutrients)."
+description: "The study of microorganisms in environmental contexts like oil-contaminated soils."
+key_challenges: "Identifying robust indigenous strains that can survive and thrive in contaminated environments."
 tags:
   - theme/environmental-microbiology
 sources:
   - "raw/138453 - Assessing the Use of Local Indigenous Microorganisms for the Bioremediation of S.pdf"
   - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
-  - "raw/139073 - APPLICATION OF ENZYME TO BIOREMEDIATE WATER FROM ETHYLENE DICHLORIDE AND OIL.pdf"
   - "raw/139521 - ISOLATION AND CHARACTERIZATON OF MICROBIAL COMMUNITIES FOUND IN OIL-POLLUTED SIT.pdf"
-  - "raw/139640 - INFLUENCE OF TREATED SEWAGE EFFLUENTS ON SAUDI COAST OF THE ARABIAN GULF FROM WA.pdf"
   - "raw/139662 - INVESTIGATION OF VARIOUS BACTERIAL ISOLATES IN DEGRADATION OF SPECIFIC HYDROCARB.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
   - "raw/142810 - BIODEGRADATION OF PETROLEUM HYDROCARBONS USING INDIGENOUS HYDROCARBONS-DEGRADING.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Environmental Microbiology
 
-**Summary**: The study of microorganisms and their interactions with the environment, particularly in remediation contexts.
+**Summary**: The study of microorganisms in the environment and their role in ecological processes.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2011-salamah|Salamah, 2011]] focused on environmental-microbiology to isolate indigenous bacteria for soil cleanup.
+- [[2011-salamah|Salamah, 2011]] focused on environmental-microbiology to identify local strains for bioremediation.
 
-- [[2012-amao|Amao, 2012]] investigated the role of cyanobacteria in marine environments.
+- [[2012-amao|Amao, 2012]] focused on environmental-microbiology to understand the role of cyanobacteria in carbonate systems.
 
-- [[2014-abdallah|Abdallah, 2014]] investigated enzymatic bioremediation as a form of environmental microbiology to treat hazardous waste.
+- [[2015-oyehan|Oyehan, 2015]] applied environmental-microbiology to identify and characterize oil-degrading bacteria.
 
-- [[2015-oyehan|Oyehan, 2015]] investigated microbial communities for bioremediation of oil-polluted sites.
+- [[2015-malik|Malik, 2015]] investigated the use of specific bacterial isolates for environmental remediation.
 
-- [[2015-yusuf|Yusuf, 2015]] investigated environmental-microbiology to identify pathogens in coastal waters.
+- [[2016-ibrahim|Ibrahim, 2016]] applied environmental-microbiology to isolate and characterize local microalgae for biofuel production.
 
-- [[2015-malik|Malik, 2015]] investigated the use of bacterial isolates for the degradation of hydrocarbons.
+- [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for pyrene degradation.
 
-- [[2016-ibrahim|Ibrahim, 2016]] applied environmental microbiology to isolate and characterize microalgae for biofuel production.
-
-- [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for bioremediation.
-
-- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify indigenous bacteria capable of degrading hydrocarbons.
+- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify bacteria for soil remediation.
 
 ## Key Subtopics
 
-- [[2011-salamah|Salamah, 2011]] ['bioremediation', 'microbial identification']
+- [[2011-salamah|Salamah, 2011]] ['isolation of bacteria', '16S rRNA sequencing', 'biodegradation kinetics']
 
-- [[2012-amao|Amao, 2012]] investigated the role of cyanobacteria in marine environments.
+- [[2012-amao|Amao, 2012]] focused on environmental-microbiology to understand the role of cyanobacteria in carbonate systems.
 
-- [[2014-abdallah|Abdallah, 2014]] investigated enzymatic bioremediation as a form of environmental microbiology to treat hazardous waste.
+- [[2015-oyehan|Oyehan, 2015]] applied environmental-microbiology to identify and characterize oil-degrading bacteria.
 
-- [[2015-oyehan|Oyehan, 2015]] investigated microbial communities for bioremediation of oil-polluted sites.
+- [[2015-malik|Malik, 2015]] investigated the use of specific bacterial isolates for environmental remediation.
 
-- [[2015-yusuf|Yusuf, 2015]] investigated environmental-microbiology to identify pathogens in coastal waters.
+- [[2016-ibrahim|Ibrahim, 2016]] applied environmental-microbiology to isolate and characterize local microalgae for biofuel production.
 
-- [[2015-malik|Malik, 2015]] investigated the use of bacterial isolates for the degradation of hydrocarbons.
+- [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for pyrene degradation.
 
-- [[2016-ibrahim|Ibrahim, 2016]] applied environmental microbiology to isolate and characterize microalgae for biofuel production.
-
-- [[2017-budiyanto|Budiyanto, 2017]] applied environmental microbiology to isolate halophiles for bioremediation.
-
-- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify indigenous bacteria capable of degrading hydrocarbons.
+- [[2024-almutawa|AlMutawa, 2024]] applied environmental microbiology to isolate and identify bacteria for soil remediation.
 
 ## Methods and Approaches Used
 
-- [[2011-salamah|Salamah, 2011]] ['16S rRNA sequencing', 'gravimetric analysis']
+- [[2011-salamah|Salamah, 2011]] ['microbiology', 'gravimetric-method']
 
 ## Key Findings Across Sources
 
-- Two local strains (Pseudoxanthomonas sp. and Bacillus sp.) were identified as capable of degrading hydrocarbons. ([[2011-salamah|Salamah, 2011, p. 11]])
+- Indigenous bacteria (Pseudoxanthomonas sp. and Bacillus sp.) were successfully isolated from contaminated soil. ([[2011-salamah|Salamah, 2011, p. 44]])
 
-- Cyanobacteria were found to have significant roles in biogeochemical cycles. ([[2012-amao|Amao, 2012, p. 15]])
+- Not stated in source ([[2012-amao|Amao, 2012]])
 
-- Enzymatic bioremediation is an extension of microbial bioremediation since it only requires identifying the enzymes responsible for degradation. ([[2014-abdallah|Abdallah, 2014, p. 45]])
+- Identified 15 bacterial strains, mostly from the Proteobacteria phylum. ([[2015-oyehan|Oyehan, 2015, p. 17]])
 
-- 87% of the isolates were similar to P. aeruginosa, showing a dominance of specific genera in polluted areas. ([[2015-oyehan|Oyehan, 2015, p. 18]])
+- Bacterial strains like Proteus mirabilis, Burkholderia fungorum, and Rhodococcus qinshengi are potential candidates for bioremediation. ([[2015-malik|Malik, 2015, p. 15]])
 
-- Heterotrophic plate counts (HPC) were significantly higher near outfall locations compared to control sites. ([[2015-yusuf|Yusuf, 2015, p. 42]])
+- Three strains (S1, S2, and S3) were successfully isolated from the Arabian Gulf coast. ([[2016-ibrahim|Ibrahim, 2016, p. 51]])
 
-- Identified 5 specific strains as potential candidates for bioremediation based on their ability to degrade PAHs under various conditions. ([[2015-malik|Malik, 2015, p. 16]])
+- Three strains were isolated: Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
 
-- All isolated strains showed greater than 90% nitrate and phosphate removal. ([[2016-ibrahim|Ibrahim, 2016, p. 11]])
-
-- Three strains (Idiomarina sp. 10PY1A, Halomonas shengliensis 10PY2B, and Halomonas smyrnensis 20PY1A) were successfully isolated and characterized. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
-
-- Indigenous bacterial strains showed a significant capacity to utilize petroleum as carbon sources. ([[2024-almutawa|AlMutawa, 2024, p. 15]])
+- Indigenous bacteria adapted to high hydrocarbon concentrations developed specific metabolic pathways. ([[2024-almutawa|AlMutawa, 2024, p. 15]])
 
 ## Competing Approaches and Debates
 
-- [[2011-salamah|Salamah, 2011]] Identifying effective indigenous strains and optimizing growth conditions (pH, temperature, nutrients).
+- [[2011-salamah|Salamah, 2011]] Identifying robust indigenous strains that can survive and thrive in contaminated environments.
 
 ## Open Questions and Research Gaps
 

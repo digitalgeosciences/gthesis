@@ -1,52 +1,44 @@
 ---
 type: terminology
 title: "Pore Radius"
-aliases:
-  - "pore throat radius"
+aliases: []
 canonical: true
-definition: "The radius of the smallest opening in the interconnected pore network."
-units: "microns"
+definition: "The average radius of the pores within a rock's pore system."
+units: "micrometers (um)"
 related_techniques:
-  - "mercury-injection-capillary-pressure"
+  - "numerical-simulation"
 tags:
-  - theme/petrophysics
+  - theme/reservoir-engineering
 sources:
-  - "raw/136368 - Saturation-Height Modelling of Oil and Gas-Capped Reservoirs.pdf"
-  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142243 - Numerical Investigation of Rock and Acid Properties Impacting Matrix Acidizing E.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Pore Radius
 
-**Summary**: The physical dimension of the narrowest part of a pore, determining capillary pressure.
+**Summary**: The average radius of the pores within a rock's pore system.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2010-alroudhan|AlRoudhan, 2010]] calculated pore-radius from mercury injection data to determine distribution.
-
-- [[2023-alsahwan|AlSahwan, 2023]] used grain radius as an input for Hertz-Mindlin calculations.
+- [[2022-alkathim|Alkathim, 2022]] investigated how changes in pore radius impacted PVBT.
 
 ## Scientific Context
 
-- [[2010-alroudhan|AlRoudhan, 2010]] Directly influences capillary pressure and, consequently, water saturation distribution.
-
-- [[2023-alsahwan|AlSahwan, 2023]] used grain radius as an input for Hertz-Mindlin calculations.
+- [[2022-alkathim|Alkathim, 2022]] Pore size affects the surface area available for acid reaction.
 
 ## Measurement and Characterization Methods
 
-- [[2010-alroudhan|AlRoudhan, 2010]] Derived from mercury injection capillary pressure using the Washburn equation.
+- [[2022-alkathim|Alkathim, 2022]] Simulated via two-scale continuum model.
 
 ## Key Findings Across Sources
 
-- A capillary pressure curve is converted into a continuous distribution of equivalent pore throat radii. ([[2010-alroudhan|AlRoudhan, 2010, p. 80]])
-
-- Used to calculate dry sediment moduli (K_d, G_d). ([[2023-alsahwan|AlSahwan, 2023, p. 27]])
+- Impact was found similar to porosity variation because of the proportional relationship between both parameters. ([[2022-alkathim|Alkathim, 2022, p. 97]])
+- [[2022-alkathim|Alkathim, 2022]] Not stated in source.
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

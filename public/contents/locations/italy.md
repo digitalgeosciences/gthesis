@@ -2,8 +2,8 @@
 type: location
 title: "Italy"
 aliases:
-  - "Apulia Carbonate Platform (ACP)"
   - "Gargano Promontory"
+  - "Apulia Carbonate Platform"
 canonical: true
 region: "Apulia Region"
 country: "Italy"
@@ -13,38 +13,31 @@ tags:
   - location/italy
 sources:
   - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
-  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Italy
 
-**Summary**: The geographic location of the study area in Southern Italy.
+**Summary**: The geographic region where the study was conducted.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-alabyadh|Alabyadh, 2021]] studied carbonate rocks in italy.
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+- [[2021-alabyadh|Alabyadh, 2021]] studied carbonate rocks in Italy, specifically within the Gargano Promontory area.
 
 ## Geological and Structural Setting
 
-- [[2021-alabyadh|Alabyadh, 2021]] semi-isolated carbonate platform
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+- [[2021-alabyadh|Alabyadh, 2021]] western Tethys margin
 
 ## Formations Present
 
-- [[2021-alabyadh|Alabyadh, 2021]] Sannicandro Formation, Monte Spigo Formation, Monte Sacro Limestone
+- [[2021-alabyadh|Alabyadh, 2021]] Sannicandro Formation, Monte Spigno Formation, Monte Sacro Limestone
 
 ## Key Findings From This Location
 
-- The Gargano Promontory provides a clear transition from inner shelf to basin successions. ([[2021-alabyadh|Alabyadh, 2021, p. 20]])
-
-- Referenced in this thesis. ([[2024-hikmahtiar|Hikmahtiar, 2024]])
+- The site provides a clear transition from inner shelf to basin successions. ([[2021-alabyadh|Alabyadh, 2021, p. 20]])
 
 ## Research Coverage and Gaps
 

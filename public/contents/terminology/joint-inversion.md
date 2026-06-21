@@ -3,50 +3,57 @@ type: terminology
 title: "Joint Inversion"
 aliases: []
 canonical: true
-definition: "Simultaneous inversion of multiple geophysical datasets sharing common parameters."
+definition: "Simultaneous inversion of multiple geophysical datasets."
 units: "not applicable"
 related_techniques:
-  - "gravity-survey"
   - "ground-penetrating-radar"
+  - "gravity-survey"
 tags:
-  - theme/geophysics-general
+  - theme/near-surface-geophysics
 sources:
   - "raw/139215 - Joint Inversion of Gravity and Ground Penetrating Radar Data to Characterize Sub.pdf"
+  - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
   - "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Joint Inversion
 
-**Summary**: The simultaneous inversion of multiple geophysical datasets to reduce uncertainty and resolve ambiguous parameters.
+**Summary**: The simultaneous inversion of multiple geophysical datasets to reduce non-uniqueness.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-saeed|Saeed, 2014]] applied joint-inversion to solve for porosity and water saturation simultaneously from GPR and gravity data.
+- [[2014-saeed|Saeed, 2014]] used joint-inversion of GPR and gravity data to solve for petrophysical properties.
 
-- [[2023-edigbue|Edigbue, 2023]] applied joint inversion of DCR and SR data to improve the accuracy of subsurface imaging.
+- [[2016-ali|Ali, 2016]] used joint-inversion of acoustic velocity and impedance to characterize pore fluids in the Arab formation.
+
+- [[2023-edigbue|Edigbue, 2023]] applied joint inversion of DCR and SR data to improve resolution.
 
 ## Scientific Context
 
-- [[2014-saeed|Saeed, 2014]] Used to resolve the ambiguity between density and dielectric permittivity when characterizing cavity contents.
+- [[2014-saeed|Saeed, 2014]] Joint inversion reduces the non-uniqueness inherent in single-method inversions.
 
-- [[2023-edigbue|Edigbue, 2023]] applied joint inversion of DCR and SR data to improve the accuracy of subsurface imaging.
+- [[2016-ali|Ali, 2016]] used joint-inversion of acoustic velocity and impedance to characterize pore fluids in the Arab formation.
+
+- [[2023-edigbue|Edigbue, 2023]] applied joint inversion of DCR and SR data to improve resolution.
 
 ## Measurement and Characterization Methods
 
-- [[2014-saeed|Saeed, 2014]] Solving two model equations simultaneously for porosity and water saturation.
+- [[2014-saeed|Saeed, 2014]] Combined GPR and gravity data to solve for porosity and water saturation.
 
 ## Key Findings Across Sources
 
-- Joint inversion provides a more reliable approach to minimize uncertainty between observed data and the assumed model. ([[2014-saeed|Saeed, 2014, p. 22]])
+- Joint inversion was used to determine porosity and water saturation from both GPR and gravity measurements. ([[2014-saeed|Saeed, 2014, p. 75]])
 
-- The combined optimization approach is the most effective method for accurately characterizing the subsurface geology in joint inversion problems. ([[2023-edigbue|Edigbue, 2023, p. 18]])
+
+- Joint inversion provided evidence of two different pore fluids due to sudden changes in AI, bulk modulus, and rock density. ([[2016-ali|Ali, 2016, p. 86]])
+
+- Joint inversion provides a more comprehensive understanding of the subsurface structure and its properties. ([[2023-edigbue|Edigbue, 2023, p. 19]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

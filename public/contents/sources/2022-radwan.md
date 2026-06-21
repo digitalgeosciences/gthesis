@@ -13,157 +13,129 @@ committee_members:
   - "JACK DVORKIN"
 source_file: "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142086/"
-study_area: "Nafud, Dahna corridor, and the western part of AlRub'AlKhali deserts; Paleozoic and Mesozoic sandstones in northern and central Arabia."
+study_area: "Nafud, Dahna corridor, and western part of AlRub’AlKhali deserts; Paleozoic and Mesozoic sandstones in northern and central Arabia."
 keywords:
   - Arabian sands
   - quartz crystallinity index (QCI)
   - provenance
-  - mineralogy
   - thermal energy storage
   - solar absorber material
-  - Nafud desert
-  - Dahna corridor
-  - Rub'AlKhali desert
-  - quartz crystallinity
+  - mineralogy
   - thermo-physical properties
   - thermo-optical properties
-  - solar absorber
-  - high-temperature solar thermal technology
-  - thermal properties
-  - solar energy
-  - thermal storage
+  - quartz crystallinity
 techniques:
-  - qemscan
-  - dsc
   - xrd
   - sem-eds
-  - uv-vis
-  - sieve-analysis
+  - qemscan
+  - petrography
+  - microscopy
   - sem
-  - eds
+  - dsc
   - tga
   - heat-treatment
   - coating-removal
-  - photography
   - match-software
-  - stereomicroscopic-viewing
-  - acid-treatment
-  - petrography
+  - photomicrography
 tags:
   - degree/phd
   - formation/sarah-formation
   - formation/minjur-sandstone
-  - formation/qusaiba-member
   - formation/khuff-formation
   - formation/unayzah-formation
-  - formation/wasi-formation
-  - formation/saq-formation
+  - formation/marrat-formation
+  - formation/wajid-sandstone
   - location/saudi-arabia
   - location/rub-al-khali-basin
-  - location/central-saudi-arabia
+  - location/central-saudi-area
+  - location/arabian-peninsula
   - technique/xrd
   - technique/sem-eds
   - technique/qemscan
-  - technique/ftir
-  - technique/uv-vis
-  - technique/sieve-analysis
+  - technique/petrography
+  - technique/microscopy
+  - technique/sem
   - technique/dsc
   - technique/tga
-  - technique/coating-removal
-  - technique/sem
-  - technique/sem-ed
-  - technique/thin-section-petrography
   - theme/mineralogy
   - theme/sedimentology
-  - theme/environmental-geoscience
-  - theme/petroleum-geology-deposits
-  - theme/petrophysics
-  - theme/energy-geology
+  - theme/geophysics-general
+  - theme/geothermal-energy
   - terminology/quartz-crystallinity-index
   - terminology/thermal-energy-storage
-  - terminology/porosity
-  - terminology/provenance
+  - terminology/diagenesis
+  - terminology/petrology
+  - terminology/quartz-crystallinity
+  - terminology/sedimentology
 status: ingested
 ---
 
 # Evaluating properties of Arabian desert sands for geological and energy applications
 
-**Summary**: The thesis investigates the mineralogical, thermo-physical, and thermo-optical properties of Arabian desert sands (Nafud, Dahna, and AlRub’AlKhali) to identify suitable materials for thermal energy storage and solar absorption. It concludes that pure quartzose sands from the southwestern Nafud desert are the best candidates due to their high specific heat capacity and stability at high temperatures.
+**Summary**: The thesis investigates the quartz crystallinity index (QCI) and thermo-physical/optical properties of Arabian desert sands from Nafud, Dahna, and Rub'AlKhali to determine their suitability for thermal energy storage and solar absorption. It concludes that pure quartzose sands in the southwestern Nafud desert are the best candidates due to high specific heat capacity and resistance to agglomeration up to 1200°C.
 
 ---
 
 ## Research Problem
 
-The need to identify optimal sand types among various Arabian desert deposits (Nafud, Dahna, and AlRub’AlKhali) for use as thermal energy storage (TES) media and solar absorbers in high-temperature solar thermal technologies, which requires specific mineralogical purity and thermo-physical stability.
+The identification of suitable Arabian sand types for high-temperature solar thermal technologies, specifically addressing how mineralogical impurities (feldspar and carbonate) affect specific heat capacity, agglomeration temperature, and spectral absorbance.
 
 ## Objectives
 
-- Investigate quartz crystallinity of Arabian sands and sandstones to reveal new provenance aspects.
-- Investigate mineralogy, thermo-physical, and thermo-optical properties of Arabian sands.
-- Identify the best candidate of Arabian sands for use as a thermal energy storage medium and solar absorber material.
 - documenting temporal variations in QCI values of Arabian sandstones and spatial variations in QCI values of Arabian sands
-- proposing a new hypothesis on the roles of 1) marine-derived silica and silicification, and 2) eolian-derived silica in driving temporal QCI variations of ancient Arabian sandstones and spatial QCI variations of modern Arabian sands
-- documenting thermo-physical and thermo-optical properties of Arabian sands
+- proposing a new hypothesis on the roles of marine-derived silica/silicification and eolian-derived silica in driving QCI variations
+- Investigate mineralogy, thermo-physical, and thermo-optical properties of Arabian sands.
 - proposing the best candidate of Arabian sands to be employed as a thermal energy storage medium and solar absorber material for high-temperature solar thermal technologies
 - Investigate quartz crystallinity of Arabian sands and sandstones to reveal provenance aspects.
-- Identify the best candidate of Arabian sands to be employed as a termal energy storage medium and solar absorber material for high-temperature solar thermal technology.
-- Identify the best candidate of Arabian sands to be employed as a thermal energy storage medium and solar absorber material for high-temperature solar thermal technology.
-- Identify the best candidate of Arabian sands for use as a thermal energy storage medium.
-- Identify suitable Arabian sands as solar absorber material for high-temperature solar thermal technology.
 
 ## Methods
 
-Forty sandstone samples were collected from Paleozoic and Mesozoic outcrops in Madinah, AlJawf, and Qasim Provinces (Paleozoic) and Riyadh Province (Mesozoic). Thirty-two Quaternary sand samples were collected from Nafud, Dahna corridor, and the western part of AlRub'AlKhali deserts. Sandstone samples were ground to powder using a steel vibratory disc mill for 15 seconds; sand samples were ground with corundum in a McCrone micronizing mill for 3 minutes. Powders were sieved through a 75-μm sieve and packed into holders. X-ray diffractograms were recorded using a PANalytical Empyrean diffractometer (45 kV, 40 mA) with CuKα radiation. QCI was calculated based on the intensity of the (212) XRD peak relative to background.
+The study utilized QEMSCAN (SEM with EDS) to identify and quantify minerals in 40 sand samples. DSC/TGA was used to measure specific heat capacity across a temperature range of 25°C to 1000°C. Heat treatment was performed in an electrical furnace at temperatures of 400, 600, 800, 1000, and 1200°C for various durations. Chemical coating removal (hydrochloric acid) was used to isolate the effect of iron-oxide on color. XRD with Match software was used to monitor mineralogical changes after heating. UV-VIS spectrophotometry measured spectral absorbance in the 200-800 nm range.
 
 ## Data and Materials
 
-40 sand samples from three desert regions (Nafud, Dahna corridor, and southwestern AlRub’AlKhali), 10 samples for DSC/TGA analysis, and several samples for XRD and UV-VIS analysis. Samples were categorized into quartzose feldspar-bearing, quartzose carbonate-bearing, and pure quartzose sands.
+40 sand samples collected from three desert regions (Nafud, Dahna corridor, and southwestern AlRub’AlKhali) along nine transects; 3 samples used for XRD analysis; various heat treatment cycles at 400-1200°C.
 
 ## Key Findings
 
-- QCI values of sandstones were found to vary temporally and appear to be associated with geologic abundances of siliceous sponges and eolian depositional environments. ([[2022-radwan|Radwan, 2022, p. 15]])
-- QCI values of sands vary spatially and are more homogeneous after unidirectional or long-distance transportation in AlRub’AlKhali sands. ([[2022-radwan|Radwan, 2022, p. 15]])
-- The presence of chert is suggested to be responsible for the extreme values of QCI in Arabian sands and sandstones. ([[2022-radwan|Radwan, 2022, p. 15]])
-- Pure quartzose sands (≥99% quartz) possess the best thermo-physical and other properties, including higher specific heat capacity and better spectral absorbance after heating to 1200°C. ([[2022-radwan|Radwan, 2022, p. 15]])
-- The purest quartzose sands are located in the southwestern part of the Nafud desert. ([[2022-radwan|Radwan, 2022, p. 15]])
-- QCI values of Arabian sandstones range between 8.2 and 9.8 (mean 9.2, SD 0.4). ([[2022-radwan|Radwan, 2022, p. 39]])
-- QCI values of Arabian sands range between 7.4 and 9.5 (mean 8.7, SD 0.58). ([[2022-radwan|Radwan, 2022, p. 39]])
-- Nafud desert samples exhibit the widest QCI range (7.4 to 9.5) and the lowest mean (8.4). ([[2022-radwan|Radwan, 2022, p. 40]])
-- The western part of Rub'AlKhali desert displays the narrowest range (8.8 to 9.4) and the highest mean (9.1). ([[2022-radwan|Radwan, 2022, p. 40]])
-- QCI values of sand samples increase outward (away from the shield) in the three deserts. ([[2022-radwan|Radwan, 2022, p. 40]])
-- Mesozoic sandstone values are more negatively skewed (-0.6) relative to Paleozoic sandstone values (-0.36). ([[2022-radwan|Radwan, 2022, p. 40]])
-- Highest QCI values (>9.5) were recorded for sandstones of Ordovician, Devonian, Permian, Triassic, and Cretaceous age. ([[2022-radwan|Radwan, 2022, p. 41]])
-- Cambrian sandstones and Quaternary sands possess the lowest QCI values (<8.5). ([[2022-radwan|Radwan, 2022, p. 42]])
-- The presence of chert is proposed as the primary factor responsible for extreme QCI values in Arabian sands and sandstones. ([[2022-radwan|Radwan, 2022, p. 42]])
-- Pure quartzose sands (≥99% quartz) from the southwestern Nafud desert have the highest specific heat capacity (1.07 J/g°C between 200-1000°C). ([[2022-radwan|Radwan, 2022, p. 53]])
+- QCI values of Arabian sandstones range from 8.2 to 9.8 (mean 9.2), while QCI values of Arabian sands range from 7.4 to 9.5 (mean 8.7). ([[2022-radwan|Radwan, 2022, p. 39]])
+- QCI values of sandstones are highest in Ordovician, Devonian, Permian, Triassic, and Cretaceous units (>9.5), coinciding with lower abundances of siliceous sponges. ([[2022-radwan|Radwan, 2022, p. 47]])
+- The lowest QCI values (<8.5) were found in Cambrian sandstones and Quaternary sands, both associated with eolian environments where high-volume quartz dust facilitates chert formation. ([[2022-radwan|Radwan, 2022, p. 48]])
+- Rub'AlKhali desert sands show a very narrow QCI range (8.8 to 9.4), indicating intense homogenization from a single direction (Wajid Sandstone). ([[2022-radwan|Radwan, 2022, p. 44]])
+- Pure quartzose sands (≥99% quartz) possess the best thermo-physical and thermo-optical properties, including the highest specific heat capacity. ([[2022-radwan|Radwan, 2022, p. 52]])
+- Pure quartzose sands do not agglomerate up to 1200°C and exhibit the highest spectral absorbance after heating to 1200°C. ([[2022-radwan|Radwan, 2022, p. 52]])
+- The presence of chert was confirmed in samples with low QCI values (e.g., Cambrian Siq sandstones and southwestern Nafud sands) via polarized light microscopy. ([[2022-radwan|Radwan, 2022, p. 51]])
+- Quartz content in AlRub’AlKhali sands ranges from 84% to 93%, while Nafud and Dahna sands consistently exceed 90%, predominantly above 95%. ([[2022-radwan|Radwan, 2022, p. 60]])
+- The purest sand sample (#718-44, 99% quartz) has the highest specific heat capacity of 1.07 J/g°C between 200°C and 1000°C. ([[2022-radwan|Radwan, 2022, p. 64]])
+- Carbonate-rich sands (5%) have the lowest specific heat capacity, dropping to 0.51 J/g°C in the second heating cycle due to decarbonation. ([[2022-radwan|Radwan, 2022, p. 64]])
+- Feldspar-containing samples (9-13%) exhibit hard agglomeration at 1200°C due to the formation of glassy phases from K and Al content. ([[2022-radwan|Radwan, 2022, p. 73]])
+- Quartz-cristobalite transformation occurs after 1200°C heating, causing grain volume expansion and potential mechanical weakening. ([[2022-radwan|Radwan, 2022, p. 75]])
+- Iron-oxide coating removal results in all samples turning light beige, with the least change observed in sample #718-54. ([[2022-radwan|Radwan, 2022, p. 69]])
+- The purest sand sample (#718-44) has the highest spectral absorbance after 1200°C heating compared to other types. ([[2022-radwan|Radwan, 2022, p. 71]])
+- Quartz crystallinity (QCI) values in sandstones are associated with the abundance of siliceous sponges and eolian depositional environments. ([[2022-radwan|Radwan, 2022, p. 82]])
 
 ## Limitations
 
-A small portion of quartz transforms to cristobalite after 1200°C heating, which affects grain size distribution and weakens mechanical properties. Additionally, even the purest sand sample has overall low spectral absorbance despite being the best candidate.
+A small portion of quartz transforms to cristobalite after 1200°C heating, which affects grain size distribution and mechanical properties; also, even the best sand candidate has overall low spectral absorbance.
 
 ## Recommendations and Future Work
 
-Future studies should focus on enhancing the performance of sands from the southwestern Nafud desert by developing methods to delay quartz-cristobalite transformation and improving their solar absorbance.
+Future studies should focus on enhancing the performance of sands from the southwestern Nafud desert by delaying quartz-cristobalite transformation and improving solar absorbance. Future research should also consider the environmental impact of large-scale sand mining in Hail Province.
 
 ## Related Concepts
 
 - [[xrd]]
-- [[qemscan]]
+- [[sem-eds]]
 - [[quartz-crystallinity-index]]
 - [[thermal-energy-storage]]
-- [[saudi-arabia]]
-- [[quaternary-sediments]]
-- [[mineralogy]]
-- [[sedimentology]]
-- [[uv-vis]]
-- [[sem-eds]]
-- [[sieve-analysis]]
-- [[porosity]]
-- [[provenance]]
 - [[rub-al-khali-basin]]
-- [[sarah-formation]]
-- [[minjur-sandstone]]
-- [[qusaiba-member]]
-- [[khuff-formation]]
-- [[unayzah-formation]]
-- [[saq-formation]]
+- [[wajid-sandstone]]
+- [[mineralogy]]
+- [[diagenesis]]
+- [[saudi-arabia]]
+- [[petrology]]
+- [[qemscan]]
+- [[dsc]]
+- [[quartz-crystallinity]]
+- [[sedimentology]]
+- [[quaternary-sediments]]

@@ -16,127 +16,94 @@ study_area: "Tarout Island, Eastern Province, Saudi Arabia"
 keywords:
   - Groundwater quality
   - Tarout Island
-  - Eastern Province
-  - Saudi Arabia
+  - Environmental risk assessment
+  - Industrial waste
   - Hydrochemistry
-  - Urbanization
-  - Contamination
-  - environmental risk index (IER)
-  - industrial activities
-  - septic tanks
+  - Saudi Arabia
+  - contamination
   - heavy metals
-  - coliform
   - hydrocarbons
-  - nitrates
-  - phosphates
-  - contamination sources
-  - risk assessment
-  - Chemical analysis
-  - Biological analysis
-  - Sulfate
-  - Chloride
-  - Nitrate
-  - TDS
+  - nitrate
   - nitrite
-  - hydrocarbon analysis
-  - Environmental risk index
-  - Environmental assessment
+  - phosphate
+  - bromide
+  - risk assessment
 techniques:
-  - hydrochemical-analysis
-  - environmental-risk-assessment
-  - multi-function-measurement-electrodes
   - ion-chromatography
   - icp-ms
-  - presence-absence-p-a-procedure
-  - gis
   - gc-ms
-  - ph-meter
-  - tds-meter
-  - conductivity-meter
-  - cod-reactor
-  - bod-reactor
+  - gis
+  - hydrochemical-analysis
+  - multi-function-measurement-electrodes
+  - general-geochemistry
+  - environmental-risk-assessment
 tags:
   - degree/ms
-  - formation/dammam-formation
+  - formation/khobar-aquifer
+  - formation/al-at-aquifer
   - location/tarout-island
   - location/eastern-province
   - location/saudi-arabia
-  - technique/hydrochemical-analysis
-  - technique/environmental-risk-assessment
   - technique/icp-ms
-  - technique/ion-chromatography
-  - technique/gis
   - technique/gc-ms
+  - technique/gis
+  - technique/hydrochemical-analysis
+  - technique/general-geochemistry
+  - technique/environmental-risk-assessment
   - theme/groundwater-quality
+  - theme/environmental-risk-assessment
   - theme/environmental-geoscience
-  - terminology/groundwater-quality
-  - terminology/risk-assessment
-  - terminology/heavy-metals
-  - terminology/nitrate
-  - terminology/hard-water
-  - terminology/total-dissolved-solids
-  - terminology/sulfate
-  - terminology/chloride
+  - terminology/water-quality
+  - terminology/hydrogeochemistry
+  - terminology/environmental-pollution
+  - terminology/heavy-metals-pollution
 status: ingested
 ---
 
 # Environmental Assessment of Groundwater Condition in Tarout Island, Eastern Province of Saudi Arabia.
 
-**Summary**: The thesis evaluates the groundwater quality of Tarout Island in eastern Saudi Arabia by analyzing samples from surface water, shallow, and deep aquifers. It identifies municipal waste, agricultural activities, and industrial practices as primary contamination sources, concluding that the deep groundwater is unsuitable for drinking due to high concentrations of nitrates, nitrites, and other contaminants.
+**Summary**: The thesis evaluates the quality of groundwater in Tarout Island, Eastern Province, Saudi Arabia, by analyzing samples from surface water, shallow groundwater (3-5m depth), and deep groundwater. The study concludes that deep groundwater is unsuitable for drinking due to high concentrations of heavy metals, nitrates, nitrites, and other contaminants linked to agricultural, industrial, and municipal waste.
 
 ---
 
 ## Research Problem
 
-Rapid urbanization, industrial expansion, and inadequate waste management (e.g., septic tanks) in Tarout Island pose significant risks to the groundwater aquifers (Khobar and Alat), which are the primary water sources for the region.
+The rapid urbanization, industrial expansion (particularly in the Turkia area), and lack of adequate sewage infrastructure on Tarout Island have led to potential degradation of the primary groundwater resources (Khobar and Alat aquifers) through infiltration of nitrates, heavy metals, and hydrocarbons.
 
 ## Objectives
 
-- Investigate and evaluate the quality of groundwater in Tarout Island.
-- Analyze samples from surface water, shallow, and deep groundwater wells.
-- Identify sources and types of groundwater contamination (domestic, agricultural, industrial).
-- Develop individual risk maps for parameters exceeding standards and a comprehensive environmental risk map.
 - To study the effects of industrial activities, infiltration of municipal wastewater from septic tanks, and leachate from agricultural activities on the groundwater quality.
 - To calculate the environmental risk index (IER) for elements exceeding the allowable limits.
-- Analyze surface water samples to determine heavy metal and hydrocarbon content as indicators of industrial impact.
-- Assess shallow groundwater for nitrate and phosphate levels resulting from agricultural and domestic activities.
-- Perform a risk assessment using EPA standards to quantify environmental hazards.
-- Analyze samples from surface water, shallow groundwater, and deep groundwater to identify contaminants.
-- Determine the impact of human activities (agriculture, industry, residential) on groundwater chemistry.
-- Identify contamination sources affecting surface water and both shallow and deep groundwater.
-- Calculate the risk index of contaminants exceeding standard limits to assess environmental impact.
-- Investigate the quality of surface water samples.
-- Evaluate the concentration of heavy metals and hydrocarbons in shallow groundwater.
-- Assess the chemical composition of deep groundwater.
-- Calculate environmental risk indices for elements exceeding standard limits.
-- Investigate the quality of groundwater in Tarout Island
-- Evaluate the suitability of surface water, shallow groundwater, and deep groundwater for drinking purposes
+- Investigate and evaluate the quality of groundwater in Tarout Island.
+- Identify specific contaminants in surface water, shallow groundwater, and deep groundwater.
+- Determine the source of contamination for various chemical and biological parameters.
+- Assess the environmental risk associated with these contaminants using a risk index (IER).
 
 ## Methods
 
-The study involved a three-part sampling plan: surface water (SW), shallow groundwater (SGW), and deep groundwater (DGW). In-situ measurements of pH, temperature, electrical conductivity, and TDS were performed using multi-function measurement electrodes. Chemical analysis for anions (chloride, bromide, nitrate, nitrite) and cations (sulfate, phosphate, sodium, potassium) was conducted via Ion Chromatography (IC) at the SABIC Technology Center Laboratory. Heavy and trace metals were analyzed using Inductively Coupled Plasma Mass Spectrometry (ICP-MS). Bacteriological analysis for total coliform was performed using the Presence-Absence (P-A) procedure at The Royal Commission laboratory in Jubail.
+The study involved collecting samples from three distinct sources: surface water, shallow groundwater (3-m to 5-m depth), and deep groundwater. Chemical analysis was performed on these samples to measure heavy metals (e.g., Fe, Pb, Al, Mn, Cu, Be), nutrients (nitrates, nitrites, phosphates), and ions (chloride, bromide, sulfate, sodium, potassium). Biological parameters including Total Coliform (TC), Chemical Oxygen Demand (COD), and Biochemical Oxygen Demand (BOD) were analyzed for deep groundwater. An environmental risk assessment was conducted using the Index of Environmental Risk (IER) formula: IER = AC / RC, where AC is the analytical concentration and RC is the maximum allowable limit (MCL).
 
 ## Data and Materials
 
-Samples were collected from: 1) Surface water (3 samples from an industrial area basin), 2) Shallow groundwater (11 samples from depths of 3-5m), and 3) Deep groundwater. Analytical instruments included IC (Dionex model DX-500), ICP-MS, GC-MS, and standard meters for pH, TDS, and conductivity.
+11 samples from shallow groundwater; 17 samples from deep groundwater; various surface water samples. Parameters measured included heavy metals, hydrocarbons (BTEX, styrene, MTBE), nutrients, and biological indicators.
 
 ## Key Findings
 
-- Deep groundwater in Tarout Island is not suitable for drinking purposes due to elements exceeding maximum allowable limits. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
-- Majority of samples from shallow subsurface showed high concentrations of nitrate, nitrite, aromatic hydrocarbons, and heavy metals like lead. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
-- Leaks from industrial waste, domestic sewers, and underground septic tanks are common in the study area. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
-- Most parameters (iron, manganese, copper, nitrate, sulphate, and cyanide) were within permissible limits at most sampling stations. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
-- Average annual rainfall in the region is estimated at 25-152 mm, except for the southwest (508 mm). ([[2011-alsadeq|Alsadeq, 2011, p. 14]])
-- The Khobar aquifer (part of the Dammam formation) has transmissivity values ranging from 0.009 to 0.29 m2/s near Qatif and 5.7 x 10^-6 m2/s to 5 x 10^-4 m2/s in Al-Hassa. ([[2011-alsadeq|Alsadeq, 2011, p. 27]])
-- The Alat aquifer has transmissivity values ranging from 3.1 x 10^-4 m2/s to 2.6x10-4 m2/s and a storativity of 2.1 x 10^-5. ([[2011-alsadeq|Alsadeq, 2011, p. 28]])
-- Chloride concentration in Tarout Island was 1052 ppm, with sulfate at 475 ppm and TDS at approximately 2870 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 36]])
-- The average depth of the Khobar aquifer is 100m (max 241m) and the Alat aquifer is 25m (range 0-123m). ([[2011-alsadeq|Alsadeq, 2011, p. 27]])
-- Surface water samples showed high concentrations of heavy metals: Be (avg 0.21 ppm vs 0.004 ppm MCL), Al (up to 0.31 ppm vs 0.05 ppm MCL), Fe (0.6-1.2 ppm vs 0.3 ppm MCL), Cr (avg 0.49 ppm vs 0.1 ppm MCL), Cu (avg 1.49 ppm vs 1.3 ppm MCL), and Pb (0.04-0.09 ppm vs 0.015 ppm MCL). ([[2011-alsadeq|Alsadeq, 2011, p. 61]])
-- Arsenic (As) in surface water was found to be higher than the allowable limit by 50% (max 0.03 ppm vs 0.02 ppm MCL). ([[2011-alsadeq|Alsadeq, 2011, p. 70]])
-- Hydrocarbons in surface water exceeded limits: Toluene (up to 1.9 ppm vs 1.0 ppm), Benzene (up to 1.47 ppm vs 0.005 ppm), Ethylbenzene (up to 2.1 ppm vs 0.07 ppm), and Styrene (1.78 ppm vs 0.1 ppm). ([[2011-alsadeq|Alsadeq, 2011, p. 71]])
-- MTBE in surface water ranged from 0.08 ppm to 1.5 ppm, with high values potentially causing taste/odor issues and posing health risks. ([[2011-alsadeq|Alsadeq, 2011, p. 74]])
-- 90% of shallow groundwater samples contained nitrates; nine out of eleven samples exceeded the MCL of 10 ppm, with one sample reaching 5322 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 77]])
-- Nine samples of shallow groundwater were contaminated with nitrites (max 201 ppm) exceeding the MCL of 1 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 77]])
+- Deep groundwater in Tarout Island is not suitable for drinking purposes due to the existence of elements with concentration higher than the maximum allowable limit. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
+- The majority of samples collected from a shallow subsurface showed a high concentration of nitrate, nitrite, aromatic hydrocarbons, and some heavy metals such as lead. ([[2011-alsadeq|Alsadeq, 2011, p. 12]])
+- Beryllium (Be) in surface water was found at an average of 0.21 ppm, significantly exceeding the MCL of 0.004 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 61]])
+- Aluminum (Al) concentrations in surface water were detected between 0.05 and 0.37 ppm, exceeding the EPA limit of 0.05 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 63]])
+- Copper (Cu) concentrations in surface water ranged from 0.85 to 1.47 ppm, exceeding the limit of 1.3 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 67]])
+- Chromium (Cr) average concentration in surface water was 0.49 ppm, significantly higher than the MCL of 0.1 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 65]])
+- Lead (Pb2+) concentration in surface water ranged from 0.04 to 0.09 ppm, while the MCL is 0.015 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 68]])
+- Arsenic (As) average concentration was higher than the allowable limit by 50%, with a peak of 0.3 ppm against an MCL of 0.02 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 70]])
+- Ethyl benzene was detected between 0.45 and 2.1 ppm, exceeding the MCL of 0.07 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 73]])
+- Styrene concentration reached 1.78 ppm in a sampling point near an industrial dumping area, exceeding the MCL of 0.1 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 73]])
+- Deep groundwater is not suitable for drinking purposes due to concentrations of several elements exceeding the maximum allowable limit. ([[2011-alsadeq|Alsadeq, 2011, p. 100]])
+- Nitrate was detected in 90% of shallow groundwater samples, with one sample reaching 5322 ppm (well above the MCL of 10 ppm). ([[2011-alsadeq|Alsadeq, 2011, p. 76]])
+- Nitrite concentrations in nine out of eleven shallow groundwater samples exceeded the MCL of 1 ppm, with peaks up to 201 ppm. ([[2011-alsadeq|Alsadeq, 2011, p. 77]])
+- Phosphate levels in shallow groundwater were very high (up to 6030 ppm), attributed to fertilizer use and sewage leakage. ([[2011-alsadeq|Alsadeq, 2011, p. 80]])
+- Bromide concentrations in the study area ranged from 1.81 ppm to 29.57 ppm; levels above 0.01 ppm pose risks of bromate formation during ozonation. ([[2011-alsadeq|Alsadeq, 2011, p. 80]])
 
 ## Limitations
 
@@ -144,33 +111,27 @@ Not stated in source
 
 ## Recommendations and Future Work
 
-- Establish groundwater quality monitoring programs to track deep groundwater contamination.
-- Conduct full assessments and monitoring for waste disposal sites.
+- Establish groundwater quality monitoring programs for deep groundwater.
+- Assess and monitor sites for waste disposal.
 - Prohibit new housing projects without proper sewage systems.
-- Investigate bromide content and bromate formation during ozonation.
-- Perform in-depth studies of the geology of ground aquifers to understand contaminant transport.
-- Close unmonitored private wells to prevent contamination from poor construction.
-- Install monitoring wells across various areas to track both deep and shallow groundwater.
-- Consider alternative water sources for Tarout Island to conserve local resources.
-- Conduct modeling studies to predict water quality and quantity for the next 20 years.
-- Perform comprehensive hydrogeological investigations before starting new pumping projects.
+- Study bromide content and bromate formation during ozonation.
+- Conduct in-depth studies on the geology of aquifers to understand contamination pathways.
+- Close unmonitored private wells due to poor construction/misuse.
+- Install monitoring wells for both deep and shallow groundwater.
+- Explore alternative water sources for Tarout Island.
+- Perform modeling studies to predict water quality and quantity over 20 years.
+- Conduct comprehensive hydrogeological investigations before new pumping projects.
 
 ## Related Concepts
 
+- [[icp-ms]]
+- [[gc-ms]]
 - [[hydrochemical-analysis]]
-- [[risk-assessment]]
+- [[environmental-risk-assessment]]
+- [[water-quality]]
+- [[hydrogeochemistry]]
 - [[groundwater-quality]]
 - [[tarout-island]]
-- [[icp-ms]]
-- [[ion-chromatography]]
-- [[dammam-formation]]
-- [[environmental-geology]]
-- [[gis]]
-- [[gc-ms]]
-- [[heavy-metals]]
-- [[nitrate]]
-- [[hard-water]]
-- [[total-dissolved-solids]]
-- [[sulfate]]
-- [[chloride]]
-- [[environmental-geoscience]]
+- [[khobar-aquifer]]
+- [[environmental-pollution]]
+- [[heavy-metals-pollution]]

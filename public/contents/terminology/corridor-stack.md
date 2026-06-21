@@ -4,42 +4,43 @@ title: "Corridor Stack"
 aliases:
   - "CSTK"
 canonical: true
-definition: "A result of processing and stacking the upgoing reflections at the well location."
+definition: "a stack of upgoing reflections at the well location"
 units: "not applicable"
 related_techniques:
-  - "seismic-processing"
+  - "vsp"
 tags:
-  - theme/vsp
+  - terminology/corridor-stack
+  - theme/borehole-geophysics
 sources:
   - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Corridor Stack
 
-**Summary**: A processed and stacked upgoing reflection wavefield at the well location.
+**Summary**: A processed VSP data product consisting of upgoing reflections near the first breaks.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-almarzooq|Almarzooq, 2023]] used a corridor stack as the primary input for neural network inversion.
+- [[2023-almarzooq|Almarzooq, 2023]] used corridor stacks as the primary input for neural network inversion.
 
 ## Scientific Context
 
-- [[2023-almarzooq|Almarzooq, 2023]] It is used to extract velocity information without needing a full seismic survey.
+- [[2023-almarzooq|Almarzooq, 2023]] The primary data product for lookahead VSP inversion.
 
 ## Measurement and Characterization Methods
 
-- [[2023-almarzooq|Almarzooq, 2023]] stacking of upgoing wavefields.
+- [[2023-almarzooq|Almarzooq, 2023]] generated from ZVSP data after processing.
 
 ## Key Findings Across Sources
 
-- The corridor stack contains primarily first-arrival reflections with little to no multiples. ([[2023-almarzooq|Almarzooq, 2023, p. 23]])
+- The corridor stack is typically very clean and contains little to no multiples, making it ideal for lookahead analysis. ([[2023-almarzooq|Almarzooq, 2023, p. 30]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

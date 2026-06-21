@@ -2,67 +2,62 @@
 type: technique
 title: "High-Performance Liquid Chromatography"
 aliases:
-  - "High Performance Liquid Chromatography"
+  - "high performance liquid chromatography"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "quantified concentration of organic contaminants (phenol)"
+output: "chemical composition of oil fractions"
 tags:
   - technique/hplc
 sources:
+  - "raw/10038 - Experimental investigation of various physical factors affecting the stability o.pdf"
   - "raw/136123 - Fate of Bromate Formation in Water Treated by ozone-based Advanced Oxidation Pro.pdf"
-  - "raw/138483 - Quantitative Assessment of Disinfection By-products Formed by Chlorine, Chlorine.pdf"
-  - "raw/138784 - DEGRADATION OF METHYL TERTIARY BUTYL ETHER USING UVTITANIUM DIOXIDE AND CARBON N.pdf"
   - "raw/139615 - Sunlight and Organic dyes as A greener Approach to Photochemical Reactions and D.pdf"
-  - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
-  - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
-  - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
-  - "raw/141356 - GREEN REMEDIATION OF HYDROCARBON CONTAMINATED SOILS BY PHYTO-TECHNIQUES.pdf"
+  - "raw/140516 - Optimum Selection of VES Systems as EOR Fluid for Wafra Ratawi Field.pdf"
+  - "raw/141481 - SURFACE-ACTIVE-COMPONENT-BASED METHODOLOGY TO SCREEN FOR WETTABILITY ALTERATION .pdf"
+  - "raw/142364 - AN INVESTIGATION OF GEMINI SURFACTANT ADSORPTION ON CARBONATE ROCKS.pdf"
+  - "raw/142874 - Experimental Evaluation of Oil Recovery from Carbonate Rocks by Gemini Surfactan.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-18
 ---
 
 # High-Performance Liquid Chromatography
 
-**Summary**: A high-performance form of liquid chromatography used to separate, identify, and quantify components in a mixture.
+**Summary**: A technique used to separate, identify, and quantify components in a mixture.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2009-zubair|Zubair, 2009]] used HPLC to monitor phenol concentration during the 30-minute treatment period.
+- [[1995-al-jaziri|Al-Jaziri, 1995]] used HPLC for SARA analysis of oil samples from Well-B.
 
-- [[2011-ibrahim|Ibrahim, 2011]] used HPLC to monitor chemical components and disinfection by-products.
+- [[2009-zubair|Zubair, 2009]] used high-performance-liquid-chromatography to measure residual phenol concentrations.
 
-- [[2013-muhyedeen|Muhyedeen, 2013]] used HPLC to monitor the concentration of MTBE during the degradation process.
+- [[2015-hassan|Hassan, 2015]] used HPLC to monitor reaction products and phenol concentration.
 
-- [[2015-hassan|Hassan, 2015]] used HPLC to monitor phenol concentration during treatment.
+- [[2017-janjua|Janjua, 2017]] used HPLC for SARA analysis of the Wafra Ratawi crude oil.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used HPLC for the analysis of fatty acids (FAME) in microalgae.
+- [[2020-opoku|Opoku, 2020]] used HPLC to measure the release of surface-active model compounds (SAMC) from carbonate rock surfaces during flooding.
 
-- [[2018-amiruddin|Amiruddin, 2018]] used HPLC for chemical analysis of the oil samples.
+- [[2022-kalam|Kalam, 2022]] used HPLC with an ELSD detector to measure surfactant concentration in supernatants.
 
-- [[2019-alamran|AlAmran, 2019]] used HPLC to analyze heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
-
-- [[2019-alhaiqi|Alhaiqi, 2019]] used HPLC grade compounds for the preparation of stock solutions of Phenanthrene, Fluoranthene, and Pyrene.
+- [[2024-al-azani|Al-Azani, 2024]] employed HPLC to assess surfactant concentration in the produced effluent.
 
 ## Instruments and Software
 
 
 
-- [[2011-ibrahim|Ibrahim, 2011]] used HPLC to monitor chemical components and disinfection by-products.
+- [[2009-zubair|Zubair, 2009]] used high-performance-liquid-chromatography to measure residual phenol concentrations.
 
-- [[2013-muhyedeen|Muhyedeen, 2013]] used HPLC to monitor the concentration of MTBE during the degradation process.
+- [[2015-hassan|Hassan, 2015]] used HPLC to monitor reaction products and phenol concentration.
 
-- [[2015-hassan|Hassan, 2015]] used HPLC to monitor phenol concentration during treatment.
+- [[2017-janjua|Janjua, 2017]] used HPLC for SARA analysis of the Wafra Ratawi crude oil.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used HPLC for the analysis of fatty acids (FAME) in microalgae.
+- [[2020-opoku|Opoku, 2020]] used HPLC to measure the release of surface-active model compounds (SAMC) from carbonate rock surfaces during flooding.
 
-- [[2018-amiruddin|Amiruddin, 2018]] used HPLC for chemical analysis of the oil samples.
+- [[2022-kalam|Kalam, 2022]] used HPLC with an ELSD detector to measure surfactant concentration in supernatants.
 
-- [[2019-alamran|AlAmran, 2019]] used HPLC to analyze heavy metal concentrations (Cr, Cu, Ni, Hg, Zn) in mangrove tissues.
-
-- [[2019-alhaiqi|Alhaiqi, 2019]] used HPLC grade compounds for the preparation of stock solutions of Phenanthrene, Fluoranthene, and Pyrene.
+- [[2024-al-azani|Al-Azani, 2024]] employed HPLC to assess surfactant concentration in the produced effluent.
 
 ## Typical Workflow
 
@@ -70,21 +65,19 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Used to determine residual phenol concentrations at specific time intervals (0, 0.17, 5, 10, 20, and 30 minutes). ([[2009-zubair|Zubair, 2009, p. 28]])
+- SARA analysis was performed using the HPLC method to determine asphaltene content. ([[1995-al-jaziri|Al-Jaziri, 1995, p. 80]])
 
-- Not stated in source ([[2011-ibrahim|Ibrahim, 2011]])
+- Used to monitor the degradation of phenol over 30 minutes at specific intervals. ([[2009-zubair|Zubair, 2009, p. 28]])
 
-- Quantified the reduction of MTBE concentrations in aqueous solutions. ([[2013-muhyedeen|Muhyedeen, 2013]])
+- HPLC chromatograms were used to confirm phenol concentrations at various pH levels after treatment. ([[2015-hassan|Hassan, 2015, p. 14]])
 
-- HPLC chromatograms showed phenol concentrations before and after treatment at pH 3 and 11. ([[2015-hassan|Hassan, 2015, p. 132]])
+- HPLC was used to separate out the heavy oil sample into four chemical group classes: saturates, aromatics, resins, and asphaltenes. ([[2017-janjua|Janjua, 2017, p. 70]])
 
-- Not stated in source ([[2016-ibrahim|Ibrahim, 2016]])
+- The modified HPLC system successfully quantified the concentration of various SAMCs (Mandelic Acid, Stearic Acid, etc.) in the effluent after being released from the rock powder. ([[2020-opoku|Opoku, 2020, p. 38]])
 
-- Used to analyze individual chemical compounds from mixtures. ([[2018-amiruddin|Amiruddin, 2018, p. 30]])
+- Used to determine the remaining surfactant concentration after adsorption tests. ([[2022-kalam|Kalam, 2022, p. 55]])
 
-- Quantified heavy metal levels across different sites, showing high copper values in Gurmah Island. ([[2019-alamran|AlAmran, 2019, p. 92]])
-
-- The study utilized three specific PAH compounds (Fluoranthene, Phenanthrene, and Pyrene) provided in HPLC grade to ensure purity (>97-99%). ([[2019-alhaiqi|Alhaiqi, 2019, p. 26]])
+- Used to provide insight into dynamic retention of surfactants during coreflooding. ([[2024-al-azani|Al-Azani, 2024, p. 21]])
 
 ## Methodological Variations Across Sources
 

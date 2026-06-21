@@ -4,43 +4,42 @@ title: "Paleothermometry"
 aliases:
   - "paleothermometer"
 canonical: true
-definition: "The estimation of past sea surface or bottom water temperatures using chemical proxies in marine sediments or shells."
-units: "degrees Celsius (C)"
+definition: "The estimation of past temperatures using chemical proxies."
+units: "not applicable"
 related_techniques:
-  - "sem-edx"
-  - "icp-ms"
+  - "analytical-techniques"
 tags:
   - theme/paleoenvironmental-reconstruction
 sources:
   - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Paleothermometry
 
-**Summary**: The use of chemical or physical proxies to estimate past ocean temperatures.
+**Summary**: The use of chemical and isotopic signatures in minerals to estimate past ocean temperatures.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-alsadah|Alsadah, 2024]] evaluated the Mg/14 ratio as a paleothermometer in the Arabian Gulf.
+- [[2024-alsadah|Alsadah, 2024]] evaluated the Mg/Ca ratio as a paleothermometer for the Arabian Gulf.
 
 ## Scientific Context
 
-- [[2024-alsadah|Alsadah, 2024]] Essential for reconstructing paleoclimates and validating climate models.
+- [[2024-alsadah|Alsadah, 2024]] Essential for reconstructing climate history where direct measurements are unavailable.
 
 ## Measurement and Characterization Methods
 
-- [[2024-alsadah|Alsadah, 2024]] Analysis of the Mg/Ca ratio in foraminiferal calcite.
+- [[2024-alsadah|Alsadah, 2024]] Analysis of Mg/Ca ratios in foraminiferal shells.
 
 ## Key Findings Across Sources
 
-- The study found that high salinity (51.60-79.70 PSU) makes the Mg/Ca ratio unreliable for paleothermometry. ([[2024-alsadah|Alsadah, 2024, p. 14]])
+- Mg/Ca ratio did not fit calibration equations at high salinity (51.6–79.7 PSU), making it unreliable as a paleothermometer in this region. ([[2024-alsadah|Alsadah, 2024, p. 68]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

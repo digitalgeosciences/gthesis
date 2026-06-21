@@ -6,38 +6,37 @@ aliases:
 canonical: true
 region: "Italy"
 country: "Italy"
-coordinates: "Not stated in source"
+coordinates: "not stated in source"
 geology: "pelagic carbonate platform"
 tags:
   - location/western-tethys
-  - theme/stratigraphy
 sources:
   - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Western Tethys
 
-**Summary**: A large marine region of the ancient Tethys Ocean.
+**Summary**: A major marine basin during the Mesozoic and Cenozoic.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] investigated the Western Tethys to study the impact of global events on local biota.
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] investigated the Western Tethys to study K/Pg extinction patterns.
 
 ## Geological and Structural Setting
 
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] continental margin of the Apulia block
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Tethyan margin
 
 ## Formations Present
 
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] Scaglia Rossa Formation, Scaglia Variegata Formation
+- [[2024-hikmahtiar|Hikmahtiar, 2024]] Scaglia Rossa Formation
 
 ## Key Findings From This Location
 
-- The area provides a high-resolution record of the K/Pg boundary in the Scaglia Rossa Formation. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 26]])
+- The region provides a critical record of the transition from Cretaceous to Paleogene. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 17]])
 
 ## Research Coverage and Gaps
 

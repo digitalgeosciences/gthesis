@@ -2,39 +2,33 @@
 type: technique
 title: "Object-Based Modeling"
 aliases:
-  - "Object-based modeling"
-  - "Boolean simulation"
+  - "OM"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "3D geocellular models with discrete objects"
+output: "geometrically defined facies bodies"
 tags:
   - technique/object-based-modeling
   - theme/reservoir-modeling
 sources:
   - "raw/138942 - Identification of Discontinuous Oil Bearing Sandstone Bodies by Direct Modeling .pdf"
-  - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-14
 ---
 
 # Object-Based Modeling
 
-**Summary**: A modeling technique that populates a grid with discrete geometric objects (e.g., channels, bars) based on training images.
+**Summary**: A modeling technique where discrete objects (e.g., channels) are placed into a model based on predefined geometries.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-atig|atig, 2013]] used object-based modeling to simulate the distribution of sand bodies in the study area.
-
-- [[2015-jabir|Jabir, 2015]] used object-based-modeling to represent complex geometries like sinuous channels.
+- [[2013-atig|atig, 2013]] applied object-based modeling to represent discontinuous features like fluvial channels.
 
 ## Instruments and Software
 
 
-
-- [[2015-jabir|Jabir, 2015]] used object-based-modeling to represent complex geometries like sinuous channels.
 
 ## Typical Workflow
 
@@ -42,9 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Object-based models were found to have less realistic facies distributions compared to hybrid models in some instances. ([[2013-atig|atig, 2013, p. 65]])
-
-- Object-based modeling is used to reproduce curvilinear shapes that two-point geostatistics cannot capture. ([[2015-jabir|Jabir, 2015, p. 58]])
+- Object thickness and channel amplitude were the primary parameters influencing prediction success in OM. ([[2013-atig|atig, 2013, p. 74]])
 
 ## Methodological Variations Across Sources
 

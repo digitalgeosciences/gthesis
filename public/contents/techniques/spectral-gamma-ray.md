@@ -1,31 +1,30 @@
 ---
 type: technique
-title: "Spectral Gamma Ray"
+title: "Spectral Gamma-Ray"
 aliases:
-  - "SGR"
-  - "Spectral Gamma Ray"
+  - "gamma ray"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "mineralogy and lithology identification from gamma peaks"
+output: "gamma ray counts/patterns"
 tags:
   - technique/spectral-gamma-ray
   - theme/petrophysics
 sources:
-  - "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
+  - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
-# Spectral Gamma Ray
+# Spectral Gamma-Ray
 
-**Summary**: A logging technique that measures multiple gamma-ray peaks to identify mineralogy and lithology.
+**Summary**: A logging technique to measure natural radioactivity of rocks, often used for lithology identification.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-abdalla|Abdalla, 2013]] used Spectral Gamma Ray (SGR) logs to characterize the outcrop and determine element concentrations.
+- [[2016-babker|Babker, 2016]] used spectral gamma ray readings to identify the repetitive patterns in lithologic content across four outcrop sections.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- The log signature for K, U, and Th reflects local marine transgressive and regressive events. ([[2013-abdalla|Abdalla, 2013, p. 25]])
+- The repetitive pattern in gamma ray indicates identical lithologic content. ([[2016-babker|Babker, 2016, p. 101]])
 
 ## Methodological Variations Across Sources
 

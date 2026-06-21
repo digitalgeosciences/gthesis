@@ -1,40 +1,34 @@
 ---
 type: technique
-title: "Spme"
+title: "Solid Phase Microextraction"
 aliases:
+  - "Solid Phase Micro Extraction"
   - "SPME"
-  - "solid phase micro-extraction"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "concentrated extract of organic compounds on a fiber."
+output: "pre-concentrated sample analytes"
 tags:
   - technique/spme
-  - theme/environmental-geochemistry
 sources:
-  - "raw/139521 - ISOLATION AND CHARACTERIZATON OF MICROBIAL COMMUNITIES FOUND IN OIL-POLLUTED SIT.pdf"
   - "raw/139662 - INVESTIGATION OF VARIOUS BACTERIAL ISOLATES IN DEGRADATION OF SPECIFIC HYDROCARB.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
-# Spme
+# Solid Phase Microextraction
 
-**Summary**: A sample preparation technique for extracting and concentrating volatile or semi-volatile organic compounds from a variety of matrices.
+**Summary**: A solvent-free extraction technique used to prepare and pre-concentrate sample analytes for gas chromatography.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-oyehan|Oyehan, 2015]] applied SPME to extract hydrocarbons for analysis via GC-MS.
-
-- [[2015-malik|Malik, 2015]] used SPME for sample extraction of PAHs.
+- [[2015-malik|Malik, 2015]] used SPME to extract residual PAHs from the medium before GC/MS analysis.
 
 ## Instruments and Software
 
 
-
-- [[2015-malik|Malik, 2015]] used SPME for sample extraction of PAHs.
 
 ## Typical Workflow
 
@@ -42,9 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Used to assess hydrocarbon concentrations in culture media during degradation assays. ([[2015-oyehan|Oyehan, 2015, p. 53]])
-
-- Utilized with polydimethylsiloxane coated fiber for the extraction of naphthalene, phenanthrene, and pyrene. ([[2015-malik|Malik, 2015, p. 15]])
+- The SPME device was allowed to equilibrate in 30 and 45 minutes for LMW and HMW PAHs, respectively. ([[2015-malik|Malik, 2015, p. 42]])
 
 ## Methodological Variations Across Sources
 

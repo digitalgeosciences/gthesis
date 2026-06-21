@@ -12,147 +12,112 @@ committee_members:
   - "Theis Solling"
 source_file: "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/143342/"
-study_area: "Laboratory scale study for groundwater remediation using Colloidal Activated Carbon (CAC)."
+study_area: "Laboratory scale fixed-bed column setup for groundwater remediation."
 keywords:
-  - Colloidal Activated Carbon
+  - Colloidal Activated Carbon (CAC)
   - MTBE
   - BTEX
-  - Groundwater
-  - Adsorption
-  - Fixed-bed column
-  - Removal efficiency
-  - Colloidal Activated Carbon (CAC)
-  - adsorption kinetics
-  - breakthrough curves
-  - MTBE removal
-  - BTEX removal
-  - Groundwater remediation
+  - groundwater
+  - fixed-bed column
+  - adsorption
+  - Breakthrough curves
+  - Dose-Response model
 techniques:
   - sem
-  - eds
+  - sem-eds
   - xrd
   - ftir
-  - zeta-potential
+  - adsorption
   - bet
   - gc-ms
-  - sem-eds
   - laser-diffraction
-  - densitometer
-  - bet-analysis
-  - zeta-potential-analysis
-  - laser-diffraction-analysis
-  - adsorption-experiments
-  - gas-chromatography
+  - peristaltic-pump
+  - laser-diffraction-analyzer
+  - originpro
 tags:
   - degree/ms
   - location/saudi-arabia
   - technique/sem
-  - technique/sem-eds
   - technique/xrd
   - technique/ftir
-  - technique/adsorption-experimentss
-  - technique/gas-chromatography
   - technique/gc-ms
-  - technique/bet
-  - technique/zeta-potential
-  - technique/laser-diffraction
-  - technique/densitometer
+  - technique/adsorption-experiments
+  - technique/adsorption
+  - technique/sem-eds
+  - technique/mathematical-modeling
   - theme/water-treatment
   - theme/environmental-geoscience
-  - theme/groundwater-quality
+  - terminology/mtbe
+  - terminology/btex
   - terminology/adsorption
-  - terminology/groundwater-quality
-  - terminology/breakthrough-curves
-  - terminology/breakthrough
-  - terminology/zeta-potential
-  - terminology/pore-size-distribution
-  - terminology/breakthrough-curve
+  - terminology/water-quality
 status: ingested
 ---
 
 # OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING COLLOIDAL ACTIVATED CARBON
 
-**Summary**: The thesis investigates the use of Colloidal Activated Carbon (CAC) for removing organic contaminants, specifically MTBE and BTEX, from groundwater using a lab-scale fixed-bed column setup. It evaluates various operational parameters such as CAC dosage, initial concentration, conductivity, bed height, bed type, and flow rate to optimize adsorption performance.
+**Summary**: The thesis investigates the use of Colloidal Activated Carbon (CAC) for removing MTBE and BTEX from contaminated groundwater using a lab-scale fixed-bed column setup. It characterizes the CAC material and optimizes operational parameters such as dosage, flow rate, and bed type to determine the most effective conditions for contaminant removal.
 
 ---
 
 ## Research Problem
 
-Groundwater contamination by MTBE and BTEX from industrial activities poses significant environmental risks in Saudi Arabia. Existing treatment methods have limitations, and there is a need to optimize the use of Colloidal Activated Carbon (CAC) as an efficient adsorbent in fixed-bed systems.
+The high cost of various treatment technologies makes the remediation of groundwater contaminated with organic compounds like MT1BE and BTEX a challenge for water authorities. There is a need for efficient, potentially in-situ methods using materials like Colloidal Activated Carbon (CAC) to treat these specific contaminants.
 
 ## Objectives
 
-- Investigate the use of Colloidal Activated Carbon (CAC) for the removal of MT100, Benzene, Toluene, Ethylbenzene, and Xylene (BTEX) from contaminated groundwater.
-- Perform a full characterization of the CAC material using various analytical techniques.
-- Evaluate the effect of operational parameters (flowrate, CAC dosage, initial concentration, conductivity, bed height, and bed type) on removal efficiency.
-- Fit experimental data into mathematical models to determine adsorption kinetics.
 - Characterization of the CACs using different techniques such as: SEM/EDS, XRD, FTIR, BET, zeta potential, and laser diffraction.
 - Optimizing operational factors, including CAC dosage, initial concentration, water conductivity, bed height, and type, to achieve the best removal of MTBE and BTEX in fixed-bed columns.
 - Evaluate the kinetics of breakthrough curves, find the best fit models including Adams-Bohart model, Dose-Response, and Thomas model.
-- Characterize the physical and chemical properties of Colloidal Activated Carbon (CAC).
-- Investigate the effect of flow rate on the removal of MTBE.
-- Evaluate the impact of CAC dosage on MTBE removal.
-- Determine the influence of initial concentration on MTBE removal.
-- Assess the effect of conductivity on MTBE adsorption performance.
-- Compare the effectiveness of different bed types (sandstone vs. carbonate) for MTBE removal.
-- Optimize experimental conditions for the removal of MTBE and BTEX.
-- Characterize the CAC material using SEM-EDS, XRD, FTIR, and surface area analysis.
-- Evaluate the impact of various operational factors (dosage, initial concentration, conductivity, flow rate, bed type, and bed height) on adsorption performance.
-- Determine optimal experimental conditions for MTBE and BTEX removal.
-- Investigate the use of Colloidal Activated Carbon (CAC) for removing MTBE, Benzene, Toluene, Ethylbenzene, and Xylene (BTEX) from contaminated groundwater.
+- Investigate the use of Colloidal Activated Carbon (CAC) for removal of MTBE, Benzene, Toluene, Ethylbenzene, and Xylene (BTEX) from contaminated groundwater.
 - Perform a full characterization of the CAC material.
-- Evaluate the impact of various operational parameters (dosage, concentration, conductivity, bed height, bed type, flow rate) on adsorption performance.
+- Evaluate the impact of various operational factors (dosage, initial concentration, conductivity, flow rate, bed height, and bed type) on adsorption performance.
 
 ## Methods
 
-The study utilized a lab-scale fixed-bed column setup with acrylic/Teflon columns (1.05 cm diameter, 20 cm length) packed with Ottawa sand H-3825. CAC (AquaSorb HYDROSOL S23) was characterized using SEM/EDS for morphology and surface chemistry, XRD for mineralogy, FTIR for functional groups, BET for surface area and pore volume, zeta potential for surface charge, and laser diffraction for particle size distribution. MTBE and BTEX concentrations were measured via GC-MS with a headspace analyzer (EPA Method 8260). Experimental runs varied parameters like flow rate (0.5, 1, or 2 mL/min), initial concentration, water conductivity, bed height, and bed type (Sandstone vs. Carbonate). Breakthrough curves were analyzed using the Thomas model, Adams-Bohart model, and Dose-Response model to determine adsorption capacity and kinetics.
+The study utilized a lab-scale fixed-bed column setup with acrylic/Teflon columns (1.05 cm diameter, 20 cm length) packed with Ottawa sand H-3825. CAC (AquaSorb HYDROSOL S23) was characterized using SEM/EDS for morphology and surface chemistry, XRD for mineralogy, FTIR for functional groups, Zeta potential to determine surface charge, BET analysis for surface area and pore volume, and laser diffraction for particle size distribution. MTBE and BTEX concentrations were measured via GC/MS with a headspace analyzer. Experimental runs varied parameters like CAC dosage (0.5-2g), flow rates (0.5-2 mL/min), initial concentrations (2000-10000 μg/L), conductivity, and bed types (sandstone vs carbonate). Breakthrough curves were fitted to Adams-Bohart, Thomas, and Dose-Response models.
 
 ## Data and Materials
 
-The study used a commercial CAC (AquaSorb HYDROSOL S23) with a surface area of 1050 m2/g. Analytical samples included MTBE (1000 mg/L), benzene (500 mg/L), toluene (500 mg/L), xylene mixture (300 mg/L), and ethylbenzene (75 mg/L). Fixed-bed columns were packed with Ottawa sand H-3825. Experimental designs included 16 runs for MTBE optimization and 17 runs for BTEX optimization.
+The study used a specific brand of Colloidal Activated Carbon (AquaSorb HYDROSOL S23) characterized by a surface area of 1160 m²/g. Samples included MTBE, Benzene, Toluene, Ethylbenzene, and Xylene (BTEX). Experimental data were collected from multiple fixed-bed column runs with varying parameters: 15 trials for MTBE optimization and 17 trials for BTEX optimization.
 
 ## Key Findings
 
-- Zeta potential analysis showed that the CAC used has a surface that is negatively charged. ([[2025-almousa|Almousa, 2025, p. 13]])
-- BET analysis revealed a specific surface area of 1160 m2/g for the CAC. ([[2025-almousa|Almousa, 2025, p. 13]])
-- EDS results showed that 99.24% of the CAC composition is carbon and 0.76% is potassium. ([[2025-almousa|Almousa, 2025, p. 13]])
-- The size of CAC particles falls between 4.5 and 11 µm (Note: Abstract says 4.5-21 µm, Arabic summary says 4.5-21 µm). ([[2025-almousa|Almousa, 2025, p. 13]])
-- MTBE and BTEX adsorption is mostly affected by CAC dosage, initial contaminant concentrations, and flowrate; conductivity, bed type, and bed height effects were minor. ([[2025-almousa|Almousa, 2025, p. 13]])
-- Optimum conditions for MTBE removal: CAC dosage of 2 g, initial concentration of 5000 μg/L, flow rate of 1 mL/min, sandstone bed type, and bed height of 20 cm at a conductivity of 33850 μS/cm. ([[2025-almousa|Almousa, 2025, p. 13]])
-- Optimum conditions for BTEX removal: CAC dosage of 2 g, initial concentration of 6000 μg/L, flow rate of 2 mL/min, carbonate bed type, and bed height of 20 cm at a conductivity of 16400 μS/cm. ([[2025-almousa|Almousa, 2025, p. 13]])
-- The Dose-Response model gave the best fit for both MTBE and BTEX adsorption kinetics. ([[2025-almousa|Almousa, 2025, p. 13]])
-- The CAC used in the study (AquaSorb HYDROSOL S23) has a median diameter of 16.14 μm, an iodine index > 900 mg/g, and a surface area (BET) of 1050 m2/g. ([[2025-almousa|Almousa, 2025, p. 26]])
-- The initial concentration for MTBE was set at 5000 μg/L in the optimization trials, while BTEX concentrations were varied up to 20000 μg/L in specific tests. ([[2025-almousa|Almousa, 2025, p. 34]])
-- The fixed-bed column porosity was approximately estimated as 0.57. ([[2025-almousa|Almousa, 2025, p. 31]])
-- A preliminary study showed that while MTBE removal was detectable, BTEX was often below detection limits at lower concentrations, leading to a redesign of the BTEX experimental layout with higher initial concentrations (6000 μg/L) and flow rates (2 mL/min). ([[2025-almousa|Almousa, 2025, p. 33]])
-- SEM/EDS analysis revealed that CAC has a heterogeneous morphology with an amorphous porous surface (sponge-like) and a composition of 99.24% carbon and 0.76% potassium. ([[2025-almousa|Almousa, 2025, p. 39]])
-- BET analysis showed the CAC had a Type I isotherm, a surface area of 1160 m²/g, a total pore volume of 0.507 cc/g, and a mode pore width of 3 nm. ([[2025-almousa|Almousa, 2025, p. 41]])
-- Zeta potential analysis confirmed that the surface charge of the CAC is negative across all tested pH levels (2 to 10), increasing from -10 to -45 mV as pH increased. ([[2025-almousa|Almousa, 2025, p. 43]])
+- The CAC used had a surface that is negatively charged, with zeta potential values increasing from -10 to -45 mV as pH increased from 2 to 10. ([[2025-almousa|Almousa, 2025, p. 43]])
+- BET analysis revealed a specific surface area of 1160 m²/g and a total pore volume of 0.507 cc/g for the CAC. ([[2025-almousa|Almousa, 2025, p. 41]])
+- EDS results showed that 99.24% of the CAC composition is carbon and 0.76% is potassium. ([[2025-almousa|Almousa, 2025, p. 39]])
+- The size of CAC particles falls between 4.5 and 21 μm, with a median diameter of 16.14 μm. ([[2025-almousa|Almousa, 2025, p. 13]])
+- For MTBE, the optimum treatment conditions were: CAC dosage of 2 g, initial concentration of 5000 μg/L, flow rate of 1 mL/min, using sandstone bed type and a bed height of 20 cm at a conductivity of 33850 μS/cm. ([[2025-almousa|Almousa, 2025, p. 13]])
+- The Dose-Response model provided the best fit for the experimental data to determine breakthrough curves and maximum capacity. ([[2025-almousa|Almousa, 2025, p. 13]])
+- Higher flow rates (2 mL/min) resulted in shorter breakthrough times but lower removal efficiency for MTBE compared to 1 mL/min. ([[2025-almousa|Almousa, 2025, p. 47]])
+- Increasing the CAC dosage from 0.5g to 2g significantly increased both the breakthrough time (from 15 min to 100 min) and removal efficiency for MTBE. ([[2025-almousa|Almousa, 2025, p. 49]])
+- Higher initial concentrations of MTBE led to shorter breakthrough times due to a larger concentration gradient, but 5000 μg/L was identified as the optimal balance between removal efficiency and capacity. ([[2025-almousa|Almousa, 2025, p. 51]])
+- High conductivity (33850 μS/cm) showed a slight improvement in MTBE removal, potentially due to the salt-out effect. ([[2025-almousa|Almousa, 2025, p. 53]])
+- Carbonate beds were found to be superior to sandstone beds for MTBE removal, with longer saturation times and higher removal efficiencies. ([[2025-almousa|Almousa, 2025, p. 57]])
+- The CAC used in the study had a surface area of 1160 m2/g and was found to be 99.24% carbon by composition. ([[2025-almousa|Almousa, 2025, p. 86]])
+- CAC particle sizes were determined to be between 21 and 4.5 μm using a laser diffraction analyzer. ([[2025-almousa|Almousa, 2025, p. 86]])
+- For Benzene, the optimal flow rate was found to be 2 mL/min, providing the highest removal efficiency and adsorption capacity. ([[2025-almousa|Almousa, 2025, p. 61]])
+- The optimum CAC dosage for Benzene removal was 2 g, which increased breakthrough time from 15 min to 90 min compared to a 0.5 g dose. ([[2025-almousa|Almousa, 2025, p. 63]])
 
 ## Limitations
 
-Volatility of contaminants (potentially interfering with results), long duration of experiments (some > 6 hours), and shortage of peristaltic pumps leading to non-simultaneous flow rate testing.
+Volatility of contaminants may interfere with results; long duration of experiments (some over 6 hours); shortage of peristaltic pumps affecting reproducibility of flow rate tests.
 
 ## Recommendations and Future Work
 
-Future studies should investigate the effect of CAC molecular configuration on MTBE/BTEX adsorption, use CAC made from natural organic waste, and utilize real bed materials with online analysis.
+Future studies should investigate the effect of CAC molecular configuration on adsorption, utilize CAC made from natural organic waste, and use real bed materials with online analysis.
 
 ## Related Concepts
 
-- [[sem-eds]]
-- [[adsorption-experiments]]
-- [[adsorption]]
-- [[groundwater-quality]]
-- [[water-treatment]]
-- [[saudi-arabia]]
-- [[gc-ms]]
-- [[bet]]
-- [[breakthrough-curves]]
-- [[ftir]]
-- [[breakthrough]]
-- [[zeta-potential]]
-- [[pore-size-distribution]]
 - [[xrd]]
-- [[breakthrough-curve]]
+- [[sem]]
+- [[gc-ms]]
+- [[adsorption-experiments]]
+- [[mtbe]]
+- [[btex]]
+- [[adsorption]]
+- [[water-quality]]
+- [[water-treatment]]
 - [[environmental-geoscience]]
-- [[gas-chromatography]]
+- [[mathematical-modeling]]
+- [[saudi-arabia]]

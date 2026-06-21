@@ -2,45 +2,44 @@
 type: terminology
 title: "Harzburgite"
 aliases:
-  - "spl hrzbg"
+  - "spinel harzburgite"
 canonical: true
-definition: "An ultramafic rock with <5% clinopyroxene."
+definition: "A mantle peridotite with low clinopyroxene content."
 units: "not applicable"
 related_techniques:
-  - "xrd"
-  - "thin-section-petrography"
+  - "mineral-chemistry"
 tags:
-  - theme/mineralogy
+  - theme/igneous-metamorphic-petrology
 sources:
   - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Harzburgite
 
-**Summary**: An ultramafic rock dominated by olivine and orthopyroxene.
+**Summary**: A mantle peridotite with low clinopyroxene content.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-iskandar|Iskandar, 2023]] identified a subset of samples as harzburgites based on lower clinopyroxene content.
+- [[2023-iskandar|Iskandar, 2023]] identified several samples as spinel harzburgites.
 
 ## Scientific Context
 
-- [[2023-iskandar|Iskandar, 2023]] Used to characterize the degree of partial melting in the mantle.
+- [[2023-iskandar|Iskandar, 2023]] Used to identify depleted mantle components.
 
 ## Measurement and Characterization Methods
 
-- [[2023-iskandar|Iskandar, 2023]] determined via CIPW normative calculations.
+- [[2023-iskandar|Iskandar, 2023]] Based on mineral chemistry (Mg# and Cr#).
 
 ## Key Findings Across Sources
 
-- The majority of samples are in accordance to the general findings of peridotites located in western Arabian peridotites which are lherzolites (with some being harzburgites). ([[2023-iskandar|Iskandar, 2023, p. 63]])
+- Harzburgites were subjected to higher degrees of partial melting. ([[2023-iskandar|Iskandar, 2023, p. 90]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

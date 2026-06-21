@@ -2,18 +2,18 @@
 type: technique
 title: "Remote Sensing"
 aliases:
-  - "Remote Sensing"
-  - "satellite imagery"
+  - "remote sensing"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "multi-temporal satellite imagery"
+output: "satellite imagery for land use analysis"
 tags:
   - technique/remote-sensing
+  - theme/environmental-geoscience
 sources:
   - "raw/138589 - Quantitative Assessments of Land Reclamation along the East Coast of Saudi Arabi.pdf"
+  - "raw/139344 - Digital Outcrop Modeling of The Early Triassic Upper Khartam Member of Khuff For.pdf"
   - "raw/139862 - Mapping Environmental Sensitivity in the Western Arabian Gulf using Geographic I.pdf"
-  - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
   - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
   - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
@@ -22,78 +22,83 @@ sources:
   - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
   - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
   - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/142292 - Analysis of Syn- and Post-Depositional Controls on Facies Distribution, Depositi.pdf"
   - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
-  - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
-  - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
+  - "raw/142815 - Digital outcrop properties and facies modelling of the Lower Silurian Qusaiba Me.pdf"
+  - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-18
 ---
 
 # Remote Sensing
 
-**Summary**: The acquisition of information about Earth's surface from a distance to monitor environmental changes.
+**Summary**: The acquisition of information about an object or area from a distance using sensors.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2012-al-rowaished|Al-Rowaished, 2012]] utilized remote sensing technologies (Landsat, SPOT) to detect and quantify reclaimed land since 1973.
+- [[2012-al-rowaished|Al-Rowaished, 2012]] used remote-sensing to detect and quantify reclaimed land from Arabian Gulf since 1973 till 2007.
 
-- [[2016-sudibyo|Sudibyo, 2016]] used remote sensing data (Landsat 8 and Landsat 7) to identify shoreline types and marine habitats.
+- [[2014-sami|Sami, 2014]] used digital-outcrop-modeling to create high-resolution models of the Upper Khartam Member.
 
-- [[2017-benaafi|Benaafi, 2017]] used remote sensing to delineate lineament traces from Landsat, Spot, and SRTM DEM data.
+- [[2016-sudibyo|Sudibyo, 2016]] used remote sensing imagery (Landsat 7 and 8) to identify shoreline types and map biological resources.
 
-- [[2019-alotaibi|Alotaibi, 2019]] used remote-sensing to track long-term trends in particulate matter across the Arabian Peninsula.
+- [[2019-alotaibi|Alotaibi, 2019]] applied remote-sensing via MODIS and MISR to track AOD trends across the Arabian Peninsula.
 
-- [[2019-prasetyo|Prasetyo, 2019]] utilized remote sensing (GRACE and InSAR) to overcome the lack of ground data.
+- [[2019-prasetyo|Prasetyo, 2019]] utilized remote sensing (GRACE and InSAR) to monitor groundwater issues.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] applied remote sensing to identify dune types and geomorphological features in the Jafurah Sand Sea.
+- [[2022-al-alawi|Al-Alawi, 2022]] used remote sensing to identify dune types and monitor migration over time.
 
-- [[2022-karami|Karami, 2022]] utilized remote sensing to monitor groundwater storage changes.
+- [[2022-karami|Karami, 2022]] utilized remote sensing (InSAR and GRACE) to monitor groundwater storage changes.
 
-- [[2022-argadestya|Argadestya, 2022]] used remote sensing via COSI-Corr to detect bedform migration.
+- [[2022-argadestya|Argadestya, 2022]] used remote sensing via COSI-Corr to calculate bedform migration rates in the Opak Estuary.
 
-- [[2022-pambudi|Pambudi, 2022]] used remote sensing to develop thematic layers for the ASR study.
+- [[2022-pambudi|Pambudi, 2022]] utilized remote sensing data (ASTER DEM and Sentinel-2) to derive geomorphology, lineament, and land cover maps.
 
-- [[2022-al-sadah|Al-Sadah, 2022]] used ASTER satellite data and PCA to map carbonate outcrops in the Umm Lajj Basin.
+- [[2022-al-sadah|Al-Sadah, 2022]] applied remote-sensing using ASTER data to map the lateral distribution of Miocene carbonates.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] used remote sensing to map 62 open dumpsite locations in the Eastern Province.
+- [[2022-al-harbi|Al-Harbi, 2022]] used remote sensing to identify and map illegal dumpsites in Dammam and Hafer Al-Batin.
 
-- [[2023-rafiq|Rafiq, 2023]] used remote sensing (Landsat-8) for identifying surface lineaments and land surface temperature (LST).
+- [[2023-butt|Butt, 2023]] used digital-outcrop-modeling to construct high-resolution 3D models from 11,500 photos.
 
-- [[2023-arrofi|Arrofi, 2023]] used remote sensing data to extract lineaments and faults.
+- [[2023-rafiq|Rafiq, 2023]] used remote sensing and Landsat-8 imagery to extract surface lineaments and identify structural trends.
 
-- [[1995-hasan|Hasan, 1995]] used remote sensing via LANDSAT-TM images to produce a detailed 1:150,000 scale geological map of the Wadi Al-Miyah area.
+- [[2024-abdrabo|Abdrabo, 2024]] utilized digital outcrop modeling to capture complex bed geometries and lithological variations.
+
+- [[2024-ahmed|Ahmed, 2024]] used digital outcrop modeling (DOM) to map fractures in the Hofuf Formation and validate results against traditional field methods.
 
 ## Instruments and Software
 
 
 
-- [[2016-sudibyo|Sudibyo, 2016]] used remote sensing data (Landsat 8 and Landsat 7) to identify shoreline types and marine habitats.
+- [[2014-sami|Sami, 2014]] used digital-outcrop-modeling to create high-resolution models of the Upper Khartam Member.
 
-- [[2017-benaafi|Benaafi, 2017]] used remote sensing to delineate lineament traces from Landsat, Spot, and SRTM DEM data.
+- [[2016-sudibyo|Sudibyo, 2016]] used remote sensing imagery (Landsat 7 and 8) to identify shoreline types and map biological resources.
 
-- [[2019-alotaibi|Alotaibi, 2019]] used remote-sensing to track long-term trends in particulate matter across the Arabian Peninsula.
+- [[2019-alotaibi|Alotaibi, 2019]] applied remote-sensing via MODIS and MISR to track AOD trends across the Arabian Peninsula.
 
-- [[2019-prasetyo|Prasetyo, 2019]] utilized remote sensing (GRACE and InSAR) to overcome the lack of ground data.
+- [[2019-prasetyo|Prasetyo, 2019]] utilized remote sensing (GRACE and InSAR) to monitor groundwater issues.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] applied remote sensing to identify dune types and geomorphological features in the Jafurah Sand Sea.
+- [[2022-al-alawi|Al-Alawi, 2022]] used remote sensing to identify dune types and monitor migration over time.
 
-- [[2022-karami|Karami, 2022]] utilized remote sensing to monitor groundwater storage changes.
+- [[2022-karami|Karami, 2022]] utilized remote sensing (InSAR and GRACE) to monitor groundwater storage changes.
 
-- [[2022-argadestya|Argadestya, 2022]] used remote sensing via COSI-Corr to detect bedform migration.
+- [[2022-argadestya|Argadestya, 2022]] used remote sensing via COSI-Corr to calculate bedform migration rates in the Opak Estuary.
 
-- [[2022-pambudi|Pambudi, 2022]] used remote sensing to develop thematic layers for the ASR study.
+- [[2022-pambudi|Pambudi, 2022]] utilized remote sensing data (ASTER DEM and Sentinel-2) to derive geomorphology, lineament, and land cover maps.
 
-- [[2022-al-sadah|Al-Sadah, 2022]] used ASTER satellite data and PCA to map carbonate outcrops in the Umm Lajj Basin.
+- [[2022-al-sadah|Al-Sadah, 2022]] applied remote-sensing using ASTER data to map the lateral distribution of Miocene carbonates.
 
-- [[2022-al-harbi|Al-Harbi, 2022]] used remote sensing to map 62 open dumpsite locations in the Eastern Province.
+- [[2022-al-harbi|Al-Harbi, 2022]] used remote sensing to identify and map illegal dumpsites in Dammam and Hafer Al-Batin.
 
-- [[2023-rafiq|Rafiq, 2023]] used remote sensing (Landsat-8) for identifying surface lineaments and land surface temperature (LST).
+- [[2023-butt|Butt, 2023]] used digital-outcrop-modeling to construct high-resolution 3D models from 11,500 photos.
 
-- [[2023-arrofi|Arrofi, 2023]] used remote sensing data to extract lineaments and faults.
+- [[2023-rafiq|Rafiq, 2023]] used remote sensing and Landsat-8 imagery to extract surface lineaments and identify structural trends.
 
-- [[1995-hasan|Hasan, 1995]] used remote sensing via LANDSAT-TM images to produce a detailed 1:150,000 scale geological map of the Wadi Al-Miyah area.
+- [[2024-abdrabo|Abdrabo, 2024]] utilized digital outcrop modeling to capture complex bed geometries and lithological variations.
+
+- [[2024-ahmed|Ahmed, 2024]] used digital outcrop modeling (DOM) to map fractures in the Hofuf Formation and validate results against traditional field methods.
 
 ## Typical Workflow
 
@@ -101,33 +106,35 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- Enabled the identification of significant coastal changes over three decades using multi-temporal satellite data. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 21]])
+- Remote sensing tools such as Spot, TM, and MSS satellites were used to identify changes in the coastline. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 34]])
 
-- Remote sensing was used for land/water separation and identifying coastal features across the 452.209 km coastline. ([[2016-sudibyo|Sudibyo, 2016, p. 37]])
+- Digital modeling allowed accurate structural and statistical measurements of lithofacies and integrated with traditional field data. ([[2014-sami|Sami, 2014, p. 18]])
 
-- Identified northerly (N-S, NNW-SSE, NNE-SSW) and NW-SE trending lineaments in eastern outcrops and NE-SW trends in western outcrops. ([[2017-benaafi|Benaafi, 2017, p. 18]])
+- Landsat 8 Band 1 was used specifically to separate land and water for shoreline mapping. ([[2016-sudibyo|Sudibyo, 2016, p. 43]])
 
-- Satellite data from MODIS and CALIPSO were used to identify seasonal variations and regional differences in AOD values. ([[2019-alotaibi|Alotaibi, 2019, p. 43]])
+- AOD values from MODIS and MISR were used to identify regional differences in particulate matter concentration. ([[2019-alotaibi|Alotaibi, 2019, p. 44]])
 
-- InSAR provides a cost-effective framework for subsidence monitoring in data-scarce regions. ([[2019-prasetyo|Prasetyo, 2019, p. 31]])
+- Remote sensing provides a cost-effective way to monitor physical groundwater issues in regions where field data is scarce. ([[2019-prasetyo|Prasetyo, 2019, p. 71]])
 
-- Satellite imagery revealed a variety of dune types, primarily Barchanoid and stable parabolic dunes. ([[2022-al-alawi|Al-Alawi, 2022, p. 16]])
+- Satellite imagery revealed a variety of dune types, including Barchans and Parabolic dunes, and allowed for tracking dune movement over 15 years. ([[2022-al-alawi|Al-Alawi, 2022, p. 16]])
 
-- InSAR and GRACE were used as the primary remote sensing tools for monitoring. ([[2022-karami|Karami, 2022, p. 17]])
+- Integration of InSAR and GRACE allowed for the estimation of groundwater storage variations at a finer spatial resolution than GRACE alone provides. ([[2022-karami|Karami, 2022, p. 18]])
 
-- Quantified the rate and direction of bedform migration using Sentinel-2 imagery. ([[2022-argadestya|Argadestya, 2022, p. 53]])
+- Identified significant bedform migration in the Opak Estuary, with some features moving at 2 m/year. ([[2022-argadestya|Argadestya, 2022, p. 67]])
 
-- The integration of GIS, Remote Sensing, and MCDA - Weighted Overlay Analysis (WOA) methods is assumed powerful tool for delineating ASR potential sites in the semi-arid region. ([[2022-pambudi|Pambudi, 2022, p. 14]])
+- Remote sensing provided the basis for identifying large-scale features like soil texture and land use across the 350,000 km^2 study area. ([[2022-pambudi|Pambudi, 2022, p. 38]])
 
-- Analysis of ASTER imagery confirmed the presence of multiple carbonate outcrops across the study area. ([[2022-al-sadah|Al-Sadah, 2022, p. 15]])
+- PCA results in color showed the most beneficial representation of characteristics difference within the principal component axes PC1, PC2, and PC3. ([[2022-al-sadah|Al-Sadah, 2022, p. 78]])
 
-- Remote sensing allowed for the identification and mapping of 62 distinct waste sites across two cities. ([[2022-al-harbi|Al-Harbi, 2022, p. 11]])
+- Remote sensing successfully identified 64 dumpsites using supervised classification and change detection techniques. ([[2022-al-harbi|Al-Harbi, 2022, p. 41]])
 
-- Identified thermal distribution and structural features in the Al-Lith area. ([[2023-rafiq|Rafiq, 2023, p. 45]])
+- Constructed virtual 3D digital outcrop models to visualize lateral and vertical bed thickness variations. ([[2023-butt|Butt, 2023, p. 73]])
 
-- Remote sensing results were validated by field ground truthing observations. ([[2023-arrofi|Arrofi, 2023, p. 16]])
+- Surface lineament density analysis identified ten zones (A-J), with the highest density in the northern part (Zone A). ([[2023-rafiq|Rafiq, 2023, p. 16]])
 
-- Identified major rock types including Eolian Sand, Sabkhah deposits, and various formations (Dammam, Hadrukh) through visual interpretation of false color composite images. ([[1995-hasan|Hasan, 1995, p. 43]])
+- The DOM allowed the identification of distinct sedimentary structures and facilitated the creation of high-resolution static models. ([[2024-abdrabo|Abdrabo, 2024, p. 64]])
+
+- The DOM-derived fracture height distribution followed a power law, suggesting scale-independent geometry across various scales. ([[2024-ahmed|Ahmed, 2024, p. 53]])
 
 ## Methodological Variations Across Sources
 

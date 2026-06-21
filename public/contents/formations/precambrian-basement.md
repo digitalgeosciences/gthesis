@@ -2,53 +2,63 @@
 type: formation
 title: "Precambrian Basement"
 aliases:
-  - "basement complex"
-  - "basement reservoir"
+  - "Basement Complex"
+  - "granodioritic gneiss"
 canonical: true
-age: "Precambrian"
-basin: "Melut Basin"
-lithology: "Granite, Schist, Gneiss"
+age: "Precambrian (~540 Ma)"
+basin: "Melut basin"
+lithology: "granodioritic gneiss, schist, marble"
 reservoir_status: "potential"
 tags:
   - formation/precambrian-basement
 sources:
   - "raw/138706 - Characterization of Fractured Basement Reservoir, Melut basin, Southeast Sudan.pdf"
-  - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
+  - "raw/142980 - PETROGENESIS OF NORTHERN MIDYAN TERRANE GRANITOIDS, ARABIAN SHIELD CONSTRAINTS F.pdf"
+  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-20
 ---
 
 # Precambrian Basement
 
-**Summary**: A crystalline rock unit typically composed of igneous and metamorphic rocks.
+**Summary**: The crystalline basement rock underlying the sedimentary layers in the Melut basin.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-abdelgader|Abdelgader, 2012]] studied the basement complex in the Nuba Mountains and Ingessana Hills.
+- [[2012-abdelgader|Abdelgader, 2012]] characterized the precambrian-basement to identify fracture systems for hydrocarbon storage.
 
-- [[2020-abdallah-2|Abdallah, 2020]] targeted the determination of depth to the precambrian-basement.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] analyzed the precambrian-basement to identify mineral potential and tectonic history.
+
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] identified the host rock as Neoproterozoic metavolcanics and metasediments.
 
 ## Depositional Environment
 
+- [[2012-abdelgader|Abdelgader, 2012]] igneous and metamorphic basement
 
+- [[2024-al-hakimi|Al-Hakimi, 2024]] analyzed the precambrian-basement to identify mineral potential and tectonic history.
 
-- [[2020-abdallah-2|Abdallah, 2020]] targeted the determination of depth to the precambrian-basement.
+- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] identified the host rock as Neoproterozoic metavolcanics and metasediments.
 
 ## Reservoir Properties
 
-- [[2012-abdelgader|Abdelgader, 2012]] Porosity and permeability are controlled by fractures.
+
+
+## Diagenetic History
+
+- [[2012-abdelgader|Abdelgader, 2012]] not stated in source
 
 ## Key Findings Across Sources
 
-- The basement contains fractured granitic, quartzite, and Schist/Gneiss units where porosity is fracture-controlled. ([[2012-abdelgader|Abdelgader, 2012, p. 11]])
+- The basement is primarily composed of granodioritic gneiss with a K/Ar age of 551 Ma ± 21 Ma. ([[2012-abdelgader|Abdelgader, 2012, p. 30]])
 
-- Basement depth is a critical factor for understanding structural framework and hydrocarbon distribution. ([[2020-abdallah-2|Abdallah, 2020, p. 20]])
+- Basement rocks are mostly igneous intrusions, some associated with high metal concentrations. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 28]])
+
+- Metavolcanics are typically non-foliated greenschist facies consisting mostly of actinolite, chlorite, quartz, feldspar, sericite, calcite, and epidote. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 44]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2012-abdelgader|Abdelgader, 2012]] Fracturing and faulting during rifting.
 
 ## Open Questions and Research Gaps
 

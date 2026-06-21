@@ -1,17 +1,16 @@
 ---
 type: theme
 title: "Geophysics, Solid-Earth"
-aliases:
-  - "Solid Earth Sciences"
+aliases: []
 canonical: true
-description: "The study of physical properties and processes of the Earth's interior."
-key_challenges: "Non-uniqueness and non-linearity in seismic inversion."
+description: "Study of Earth's internal structures using seismic waves."
+key_challenges: "Non-uniqueness and resolution limits in deep crustal imaging."
 tags:
   - theme/solid-earth-geophysics
 sources:
   - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Geophysics, Solid-Earth
@@ -22,23 +21,23 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] applied solid-earth-geophysics to model subducting slabs.
+- [[2025-kesumastuti|Kesumastuti, 2025]] applied solid-earth-geophysics principles to map the lithosphere and upper mantle structure.
 
 ## Key Subtopics
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] ['seismic-tomography', 'travel-time analysis']
+- [[2025-kesumastuti|Kesumastuti, 2025]] ['tomography', 'lithospheric structure', 'mantle flow']
 
 ## Methods and Approaches Used
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] ['seismic-tomography', 'fast-march-method']
+- [[2025-kesumastuti|Kesumastuti, 2025]] ['teleseismic tomography', 'fast marching method']
 
 ## Key Findings Across Sources
 
-- Seismic tomography has evolved into a key component of Solid Earth Sciences over the last 40 years. ([[2025-kesumastuti|Kesumastuti, 2025, p. 27]])
+- Tomographic models revealed a large lithospheric structure not limited to the crust on the east side of the Palu Koro Fault. ([[2025-kesumastuti|Kesumastuti, 2025, p. 14]])
 
 ## Competing Approaches and Debates
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Non-uniqueness and non-linearity in seismic inversion.
+- [[2025-kesumastuti|Kesumastuti, 2025]] Non-uniqueness and resolution limits in deep crustal imaging.
 
 ## Open Questions and Research Gaps
 

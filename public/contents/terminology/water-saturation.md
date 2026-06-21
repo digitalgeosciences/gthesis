@@ -4,24 +4,35 @@ title: "Water Saturation"
 aliases:
   - "W.SAT."
 canonical: true
-definition: "The fraction of pore space filled by water rather than hydrocarbons."
-units: "fraction or percentage"
+definition: "The fraction of pore space filled by water."
+units: "fraction or percentage (%)"
 related_techniques:
   - "well-log-analysis"
   - "seismic-attribute-analysis"
 tags:
-  - theme/petrophysics
+  - terminology/water-saturation
+  - theme/reservoir-characterization
 sources:
   - "raw/10158 - Application of multi-seismic attributes in estimating reservoir properties..pdf"
+  - "raw/136090 - ANALYSIS OF ARCHIE’S PARAMETERS DETERMINATION TECHNIQUES.pdf"
+  - "raw/136109 - ANALYSIS OF ARCHIE’S PARAMETERS DETERMINATION TECHNIQUES.pdf"
+  - "raw/138433 - Prediction of Mobility Profile with Minimum Real Time Measurements using Artific.pdf"
+  - "raw/138928 - COMPARING HYDROCARBON VOLUME BETWEEN LSA (LAMINATED SAND ANALYSIS) AND STANDARD .pdf"
   - "raw/138941 - SEISMIC ATTRIBUTES AND PETROPHYSICAL MODELLING OF THE ARADEIBA-D MEMBER, MUGLAD .pdf"
   - "raw/139215 - Joint Inversion of Gravity and Ground Penetrating Radar Data to Characterize Sub.pdf"
+  - "raw/139420 - A MULTI-OBJECTIVE WELL PLACEMENT APPROACH WITH NPV AND REGIONAL PRESSURE BALANCE.pdf"
+  - "raw/139499 - An Artificial Intelligence Approach in Predicting Water Saturation in Carbonate .pdf"
+  - "raw/139687 - Integrated Petrophysical and Reservoir Characterization Workflow to Enhance Perm.pdf"
+  - "raw/139706 - HIGH-RESOLUTION 3D GEOCELLULAR FACIES AND PROPERTY MODELING OF BENTIU-1 RESERVOI.pdf"
+  - "raw/140847 - WATER CUT ESTIMATION IN HIGH GOR WELLS.pdf"
+  - "raw/141758 - IMPROVING HYDROCARBON SATURATION ASSESSMENT IN LOW RESISTIVITY BEDS USING HIGH-R.pdf"
   - "raw/142334 - PREDICTION OF WATER SATURATION FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TECH.pdf"
   - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
   - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
   - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
   - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Water Saturation
@@ -32,65 +43,125 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[1997-al-marhoun|Al-Marhoun, 1997]] estimated water saturation using a weighted combination of nine seismic attributes.
+- [[1997-al-marhoun|Al-Marhoun, 1997]] estimated water_saturation to determine the amount of mobile hydrocarbons.
 
-- [[2013-el-kheir|El-Kheir, 2013]] analyzed water saturation distribution for the Aradeiba-D zone.
+- [[2009-al-gathe|AL-GATHE, 2009]] calculated water saturation using three different techniques.
 
-- [[2014-saeed|Saeed, 2014]] quantified water saturation to characterize the contents of subsurface cavities.
+- [[2009-al-gathe-2|AL-GATHE, 2009]] calculated water saturation using three different techniques to evaluate accuracy.
 
-- [[2023-gad|Gad, 2023]] calculated water saturation using both traditional and AI methods.
+- [[2011-al-dhufairi|AL-DHUFAIRI, 2011]] used water saturation as a predictor variable in the AI models.
 
-- [[2023-alsahwan|AlSahwan, 2023]] calculated water saturation (SW) from measured P-wave velocities.
+- [[2013-abdullah|Abdullah, 2013]] calculated water saturation in both sand and shale components.
 
-- [[2024-tarchi|Tarchi, 2024]] investigated the determination of water saturation in sand dunes.
+- [[2013-el-kheir|El-Kheir, 2013]] calculated water saturation using the 'Indonesia' equation.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] calculated the water saturation (SW) using both seismic and GPR data.
+- [[2014-saeed|Saeed, 2014]] determined water saturation to characterize the contents of subsurface cavities.
 
-- [[2025-oyekan|Oyekan, 2025]] estimated water-saturation in sand dunes using source-receiver offset.
+- [[2014-al-ismael|AL-ISMAEL, 2014]] monitored water saturation across the grid for all cases.
+
+- [[2014-al-harbi|Al-Harbi, 2014]] measured water-saturation to determine hydrocarbon volumes in the reservoir.
+
+- [[2015-al-amri|Al-Amri, 2015]] modeled water saturation using Leverett J-functions for each lithofacies.
+
+- [[2015-jabir|Jabir, 2015]] calculated water-saturation using the modified Indonesian Equation.
+
+- [[2018-al-kadem|Al-Kadem, 2018]] estimated water cut (WC%) for wells with high GOR using various models.
+
+- [[2019-alqunais|Alqunais, 2019]] calculated water-saturation to determine the amount of hydrocarbon in place.
+
+- [[2023-gad|Gad, 2023]] evaluated water saturation as a key parameter for determining hydrocarbon volumes.
+
+- [[2023-alsahwan|AlSahwan, 2023]] investigated water-saturation in sand dunes using diving direct P-waves.
+
+- [[2024-tarchi|Tarchi, 2024]] measured and inverted water-saturation (SW) to characterize the moisture content in sand dunes.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] quantified water-saturation (SW) in the sand dune to determine environmental and engineering conditions.
+
+- [[2025-oyekan|Oyekan, 2025]] investigated water-saturation in sand dunes using seismic data.
 
 ## Scientific Context
 
-- [[1997-al-marhoun|Al-Marhoun, 1997]] Critical for determining the amount of mobile hydrocarbons in a reservoir.
+- [[1997-al-marhoun|Al-Marhoun, 1997]] Essential for determining the amount of producible hydrocarbons.
 
-- [[2013-el-kheir|El-Kheir, 2013]] analyzed water saturation distribution for the Aradeiba-D zone.
+- [[2009-al-gathe|AL-GATHE, 2009]] calculated water saturation using three different techniques.
 
-- [[2014-saeed|Saeed, 2014]] quantified water saturation to characterize the contents of subsurface cavities.
+- [[2009-al-gathe-2|AL-GATHE, 2009]] calculated water saturation using three different techniques to evaluate accuracy.
 
-- [[2023-gad|Gad, 2023]] calculated water saturation using both traditional and AI methods.
+- [[2011-al-dhufairi|AL-DHUFAIRI, 2011]] used water saturation as a predictor variable in the AI models.
 
-- [[2023-alsahwan|AlSahwan, 2023]] calculated water saturation (SW) from measured P-wave velocities.
+- [[2013-abdullah|Abdullah, 2013]] calculated water saturation in both sand and shale components.
 
-- [[2024-tarchi|Tarchi, 2024]] investigated the determination of water saturation in sand dunes.
+- [[2013-el-kheir|El-Kheir, 2013]] calculated water saturation using the 'Indonesia' equation.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] calculated the water saturation (SW) using both seismic and GPR data.
+- [[2014-saeed|Saeed, 2014]] determined water saturation to characterize the contents of subsurface cavities.
 
-- [[2025-oyekan|Oyekan, 2025]] estimated water-saturation in sand dunes using source-receiver offset.
+- [[2014-al-ismael|AL-ISMAEL, 2014]] monitored water saturation across the grid for all cases.
+
+- [[2014-al-harbi|Al-Harbi, 2014]] measured water-saturation to determine hydrocarbon volumes in the reservoir.
+
+- [[2015-al-amri|Al-Amri, 2015]] modeled water saturation using Leverett J-functions for each lithofacies.
+
+- [[2015-jabir|Jabir, 2015]] calculated water-saturation using the modified Indonesian Equation.
+
+- [[2018-al-kadem|Al-Kadem, 2018]] estimated water cut (WC%) for wells with high GOR using various models.
+
+- [[2019-alqunais|Alqunais, 2019]] calculated water-saturation to determine the amount of hydrocarbon in place.
+
+- [[2023-gad|Gad, 2023]] evaluated water saturation as a key parameter for determining hydrocarbon volumes.
+
+- [[2023-alsahwan|AlSahwan, 2023]] investigated water-saturation in sand dunes using diving direct P-waves.
+
+- [[2024-tarchi|Tarchi, 2024]] measured and inverted water-saturation (SW) to characterize the moisture content in sand dunes.
+
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] quantified water-saturation (SW) in the sand dune to determine environmental and engineering conditions.
+
+- [[2025-oyekan|Oyekan, 2025]] investigated water-saturation in sand dunes using seismic data.
 
 ## Measurement and Characterization Methods
 
-- [[1997-al-marhoun|Al-Marhoun, 1997]] calculated from well logs and predicted via multivariate regression.
+- [[1997-al-marhoun|Al-Marhoun, 1997]] Derived from well logs and predicted via multi-attribute regression.
 
 ## Key Findings Across Sources
 
-- Water saturation values across the study wells ranged from 0.53 to 0.99. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 47]])
+- Water saturation was successfully predicted using a multi-attribute approach, showing high correlation with well data. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 47]])
+- [[1997-al-marhoun|Al-Marhoun, 1997]] Values ranged across various wells (e.g., 0.53 to 0.99).
 
-- Water saturation is skewed to the right with a mean of 0.6793 and a maximum of 1.00. ([[2013-el-kheir|El-Kheir, 2013, p. 67]])
+- Water saturation values calculated using CAPE results showed better agreement with core-measured values. ([[2009-al-gathe|AL-GATHE, 2009, p. 33]])
 
-- The joint inversion method accurately retrieved water saturation values within 2.5% error. ([[2014-saeed|Saeed, 2014, p. 17]])
+- Water saturation profiles showed significant differences based on the method used for Archie's parameters. ([[2009-al-gathe-2|AL-GATHE, 2009, p. 13]])
 
-- Water saturation is essential for determining hydrocarbon saturation (Sh=1-Sw). ([[2023-gad|Gad, 2023, p. 14]])
+- Water saturation (SWE) was included to account for its impact on mobility. ([[2011-al-dhufairi|AL-DHUFAIRI, 2011, p. 43]])
 
-- Estimated SW values using the proposed method were accurate within 2% on synthetic data. ([[2023-alsahwan|AlSahwan, 2023, p. 11]])
+- LSA reduced the calculated water saturation from 0.89 to 0.68 in a thin-bedded zone. ([[2013-abdullah|Abdullah, 2013, p. 83]])
 
-- Inverted Sw values ranged from 0.04566 to 0.09945. ([[2024-tarchi|Tarchi, 2024, p. 14]])
+- Water saturation values in the Aradeiba-D sand range from 4.9% to 51.4%. ([[2013-el-kheir|El-Kheir, 2013, p. 52]])
 
-- The mean value for both measured and inverted SW was approximately 0.07. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 12]])
+- Water saturation was successfully estimated with a maximum error of 2.51% in the fully saturated sand model. ([[2014-saeed|Saeed, 2014, p. 46]])
 
-- Inverted water saturation values fell within the range of (0.0882 - 0.1514) and have a mean of 1035. ([[2025-oyekan|Oyekan, 2025, p. 12]])
+- Water saturation values ranged from 0.25 to 0.75 in the study area. ([[2014-al-ismael|AL-ISMAEL, 2014, p. 85]])
+
+- Water saturation is one of the most challenging petrophysical calculations, especially in carbonate rocks with complex pore systems. ([[2014-al-harbi|Al-Harbi, 2014, p. 8]])
+
+- J-function showed more initial water saturation than Archie in low quality lithofacies (diagenetic effect). ([[2015-al-amri|Al-Amri, 2015, p. 19]])
+
+- Determined Sw for the Bentiu-1 interval with a cementation index (m) of 1.9 and saturation exponent (n) of 1.77. ([[2015-jabir|Jabir, 2015, p. 98]])
+
+- The ANN model achieved an average absolute relative error (Ear%) of 8.13% and an average absolute error (Eaa%) of 2.93% in estimating water cut. ([[2018-al-kadem|Al-Kadem, 2018, p. 104]])
+
+- Average water saturation was reduced by 27% when using high-resolution data for thin bed identification. ([[2019-alqunais|Alqunais, 2019, p. 15]])
+
+- Water saturation was predicted using parameters including Vshale, porosity, permeability, and resistivity. ([[2023-gad|Gad, 2023, p. 32]])
+
+- Water saturation (SW) was estimated to be between 0 and 0.9 for the study's primary focus. ([[2023-alsahwan|AlSahwan, 2023, p. 11]])
+
+- Inverted SW values ranged from 0.0457 to 0.0994, while measured values were between 0.0139 and 0.1120. ([[2024-tarchi|Tarchi, 2024, p. 57]])
+
+- The average water saturation was found to be approximately 0.07, indicating a dry dune environment. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 12]])
+
+- Inverted values ranged from 0.0882 to 0.1514, indicating a dry dune. ([[2025-oyekan|Oyekan, 2025, p. 12]])
 
 ## Contrasting Values and Interpretations
 
-- [[1997-al-marhoun|Al-Marhoun, 1997]] Values < 0.7 were considered good.
 
 ## Open Questions and Research Gaps
 

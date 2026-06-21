@@ -2,38 +2,33 @@
 type: location
 title: "Southeast Texas"
 aliases:
-  - "Texas data set"
+  - "Southeast Texas"
 canonical: true
 region: "Texas, USA"
 country: "USA"
 coordinates: "Not stated in source"
-geology: "Not stated in source"
+geology: "Near-surface sedimentary layers"
 tags:
   - location/southeast-texas
 sources:
   - "raw/141782 - FIRST ARRIVAL PICKING USING TWO DIFFERENT METHODS MDPE AND DBSCAN.pdf"
-  - "raw/142484 - Velocity Estimation from Surface-Consistent Statics.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Southeast Texas
 
-**Summary**: A geographic region in the United States used for real seismic data testing.
+**Summary**: A geographic region in the United States used as a study area for real seismic data.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-almashhor|AlMashhor, 2021]] used southeast-texas data to validate the MDPE and DBSCAN methods.
-
-- [[2023-muhammad|Muhammad, 2023]] used southeast-texas data to validate the proposed velocity estimation method on a real dataset.
+- [[2021-almashhor|AlMashhor, 2021]] applied the MDPE method to a 2D land seismic dataset from southeast Texas.
 
 ## Geological and Structural Setting
 
-
-
-- [[2023-muhammad|Muhammad, 2023]] used southeast-texas data to validate the proposed velocity estimation method on a real dataset.
+- [[2021-almashhor|AlMashhor, 2021]] Land seismic survey area
 
 ## Formations Present
 
@@ -41,9 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- The MDPE method was applied on 58 traces from a real 2D land seismic data set from southeast Texas. ([[2021-almashhor|AlMashhor, 2021, p. 14]])
-
-- The method yielded an NMO velocity with only 0.6% error on this real dataset. ([[2023-muhammad|Muhammad, 2023, p. 16]])
+- The MDPE method showed higher accuracy than the P-phase picker on low SNR traces in this region. ([[2021-almashhor|AlMashhor, 2021, p. 60]])
 
 ## Research Coverage and Gaps
 

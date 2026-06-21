@@ -1,30 +1,31 @@
 ---
 type: technique
-title: "Spe"
+title: "SPE"
 aliases:
-  - "Solid-phase extraction"
+  - "Solid-phase Extraction"
   - "SPE"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "concentrated extract of target pesticides"
+output: "concentrated extract of target analytes"
 tags:
   - technique/spe
+  - theme/environmental-monitoring
 sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
-# Spe
+# SPE
 
-**Summary**: A sample preparation process used to separate and concentrate specific analytes from a liquid matrix.
+**Summary**: A pre-concentration technique used to extract and concentrate target analytes from complex liquid matrices.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-mohammed|Mohammed, 2013]] applied SPE to process liquid samples (sea water and groundwater) before GC-MS analysis.
+- [[2013-mohammed|Mohammed, 2013]] used SPE to process sea water samples for the extraction of OCPs and OPPs.
 
 ## Instruments and Software
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Not stated in source ([[2013-mohammed|Mohammed, 2013]])
+- The concentration of OCPs in Tarut Bay was calculated at 1.628 mg/L using this method. ([[2013-mohammed|Mohammed, 2013, p. 14]])
 
 ## Methodological Variations Across Sources
 

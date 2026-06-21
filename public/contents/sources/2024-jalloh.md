@@ -1,7 +1,7 @@
 ---
 type: source
 id: "143200"
-title: "FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.7, SAUDI ARABIA’S CENTRAL REGION MIDDLE JURASSIC: IMPLICATIONS FOR PALEOENVIRONMENTAL RECONSTRUCTION."
+title: "FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D7, SAUDI ARABIA’S CENTRAL REGION MIDDLE JURASSIC: IMPLICATIONS FOR PALEOENVIRONMENTAL RECONSTRUCTION."
 author: "Chernoh Jalloh"
 year: 2024
 department: "Geosciences"
@@ -12,145 +12,121 @@ committee_members:
   - "Frans Van Buchem"
 source_file: "raw/143200 - FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/143200/"
-study_area: "Dhruma Formation D7 unit (Atash and Hisyan Members), Darma Quadrangle near Haniya village, Central Saudi Arabia."
+study_area: "D7 Unit (Atash and Hisyan Members), Dhruma Formation, Darma Quadrangle near Haniya, Central Saudi Arabia."
 keywords:
   - Dhruma Formation
   - Foraminiferal assemblages
   - Maximum flooding surface
   - Paleobathymetry
   - Sequence stratigraphy
-  - paleoenvironmental reconstruction
   - Middle Jurassic
-  - Saudi Arabia
-  - Foraminifera
-  - Assemblages
+  - paleoenvironmental reconstruction
+  - atash member
+  - hisyan member
+  - biostratigraphy
 techniques:
   - acetic-acid-disaggregation
-  - microfacies-analysis
-  - morphogroup-analysis
-  - biodiversity-indices
-  - electrofacies-analysis
-  - microscopy
-  - thin-section-petrography
-  - biostratigraphy
   - soap-disaggregation
-  - acetic-acid-leaching
-  - sem-eds
-  - python
-  - matlab
-  - coreldraw
+  - microscopy
+  - sem-sem-analysis
+  - binocular-microscope
+  - nikon-1500-photomicroscope
+  - jsm-5900lv-scanning-electron-microscope
+  - electrofacies-analysis
+  - morphogroup-analysis
+  - biostratigraphy
+  - sequence-stratigraphy
+  - thin-section-petrography
 tags:
   - degree/ms
   - formation/dhruma-formation
+  - location/central-saudi-area
   - location/central-saudi-arabia
-  - location/saudi-arabia
-  - technique/thin-section-petrography
-  - technique/biostratigraphy
-  - technique/sem-eds
+  - technique/acetic-acid-disaggregation
+  - technique/sem
   - technique/microscopy
+  - technique/biostratigraphy
   - technique/electrofacies-analysis
-  - technique/microfacies-analysis
+  - technique/morphogroup-analysis
+  - technique/sequence-stratigraphy
+  - technique/thin-section-petrography
   - theme/paleoenvironmental-reconstruction
   - theme/sequence-stratigraphy
-  - theme/foraminifera
   - theme/biostratigraphy
-  - terminology/sequence-stratigraphy
-  - terminology/paleoenvironmental-reconstruction
-  - terminology/paleobathymetry
-  - terminology/foraminifera
   - terminology/maximum-flooding-surface
-  - terminology/mfs
-  - terminology/t-r-cycles
-  - terminology/biostratigraphy
+  - terminology/paleobathymetry
+  - terminology/microfacies-analysis
+  - terminology/sequence-stratigraphy
+  - terminology/foraminifera
 status: ingested
 ---
 
-# FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D.7, SAUDI ARABIA’S CENTRAL REGION MIDDLE JURASSIC: IMPLICATIONS FOR PALEOENVIRONMENTAL RECONSTRUCTION.
+# FORAMINIFERA ASSEMBLAGES AND SEQUENCE STRATIGRAPHY WITHIN THE DHRUMA FORMATION D7, SAUDI ARABIA’S CENTRAL REGION MIDDLE JURASSIC: IMPLICATIONS FOR PALEOENVIRONMENTAL RECONSTRUCTION.
 
-**Summary**: The thesis investigates the foraminiferal assemblages and sequence stratigraphy of the D7 unit (Atash and Hisyan Members) within the Dhruma Formation in Central Saudi Arabia. By analyzing benthic and planktic foraminifera from surface outcrops, it aims to refine biozones, identify maximum flooding surfaces (MFS), and develop a paleobathymetric model to understand Middle Jurassic depositional environments.
+**Summary**: The thesis investigates the foraminiferal assemblages and sequence stratigraphy of the D7 Unit (Atash and Hisyan Members) within the Dhruma Formation in Central Saudi Arabia. Using acetic acid disaggregation and morphogroup analysis, it identifies key stratigraphic markers like the Maximum Flooding Surface (MFS) to refine the regional high-resolution sequence stratigraphic framework.
 
 ---
 
 ## Research Problem
 
-There is a significant gap in data regarding foraminiferal assemblages from surface outcrops in the upper Dhruma Formation (Atash and Hisyan Members). Most existing studies rely on thin-section analysis of subsurface core samples, which may not fully capture the diversity and abundance of species available in lithified outcrops, hindering high-resolution sequence stratigraphy and paleoenvironmental reconstruction.
+There is a significant gap in data regarding foraminiferal assemblages from surface outcrops in the upper Dhruma Formation (Atash and Hisyan Members), which are critical for identifying maximum flooding surfaces (MFS) and refining regional biostratigraphic correlations.
 
 ## Objectives
 
-- Analyze foraminiferal assemblages of the D7 unit to enhance the taxonomic framework.
-- Refine sequence stratigraphic models within the Atash and Hisyan Members.
-- Identify new benthic taxa (Bulbobaculites n.sp. and Gerochammina n.sp.).
-- Develop a paleobathymetric model based on foraminiferal analysis.
 - To document foraminiferal assemblages (benthic and planktic) in the D7 Unit, focusing on identifying previously unreported agglutinated species to enhance the region's biostratigraphic framework.
 - To construct a high-resolution sequence stratigraphic framework for the D7 Unit by correlating vertical foraminiferal distribution patterns with sea-level variations, identifying shallowing and deepening sequences, and pinpointing the maximum flooding surface (MFS).
 - Develop a conceptual paleobathymetric model for the D7 Unit to define paleoenvironmental conditions and assess the relationship between foraminiferal morphogroups and inferred water depths.
-- Refine sequence stratigraphic models by identifying sea-level fluctuation patterns.
-- Construct a conceptual paleobathymetric model to infer water depth and interpret depositional sequences.
-- Identify key geological markers such as the J30 maximum flooding surface (MFS).
-- Analyze foraminiferal assemblages of the Dhruma Formation’s D7 unit (Atash and Hisyan Members).
-- Enhance the taxonomic framework of the formation's microfauna.
-- Refine sequence stratigraphic models using morphogroup analysis and biodiversity indices.
-- Identify key stratigraphic markers, such as Maximum Flooding Surfaces (MFS).
-- Analyze the foraminiferal assemblages of the formation's D7 unit (Atash and Hisyan Members).
-- Enhance the taxonomic framework of Jurassic foraminifera in the region.
-- Refine sequence stratigraphic models within the Dhruma Formation.
-- Provide paleoenvironmental reconstruction based on morphogroup analysis.
-- Analyze foraminiferal assemblages of the Dhruma Formation's D7 unit
-- Enhance the taxonomic framework of Middle Jurassic foraminifera
-- Refine sequence stratigraphic models for the Dhruma Formation
-- Reconstruct paleoenvironments of the Dhruma Formation D7 unit
+- Refine sequence stratigraphic models of the Dhruma Formation.
+- Identify paleoenvironmental trends and sea-level fluctuations using morphogroup analysis and biodiversity indices.
+- Determine the position of the Maximum Flooding Surface (MFS) in the region.
 
 ## Methods
 
-The study utilized 62 samples of indurated limestone and marl from the Atash and Hisyan Members. Two primary micropaleontological techniques were used: soap disaggregation for muddy/less-lithified samples (e.g., SH9, SH12) and acetic acid leaching (60% concentration) for well-lithified samples. Samples were sieved through a 63 µm mesh and dried at 100°C. Foraminifera were sorted into agglutinated, calcareous, and planktic groups. Statistical analysis included Fisher alpha-index for diversity, percentage dominance, Q-mode clustering (Bray-Curtis similarity), and morphogroup analysis (epifauna, shallow infauna, deep infauna). Data visualization was performed using Python (SciPy, NumPy) and MATLAB.
+The study utilized two primary disaggregation techniques: soap disaggregation (for muddy samples) and acetic acid leaching (60% concentration for 8-10 hours) to extract microfossils from lithified limestone and marl. Samples were processed into 63 µm sieve fractions, dried at 100°C, and analyzed under a binocular microscope. Identification was supported by SEM (JSM-5900LV) for taxonomic analysis. Statistical methods included benthic morphogroup analysis based on the Setoyama et al. (2012) framework to assess environmental conditions.
 
 ## Data and Materials
 
-62 lithified limestone and marl samples from the D7 unit of the Dhruma Formation; 40 samples from the lower Atash Member and 22 from the Hisyan Member. Reference points included 3 additional samples from the Riyadh Limestone (excluded due to lack of foraminifera).
+62 lithified limestone and marl samples from the D7 Unit (Atash and Hisyan Members) in the Darma Quadrangle, near Haniya, Central Saudi Arabia. Identification of 33 foraminiferal species belonging to 21 genera.
 
 ## Key Findings
 
-- Identified 33 foraminiferal species representing 19 genera, including two new benthic taxa: Bulbobaculites n.sp. and Gerochammina n.sp. ([[2024-jalloh|Jalloh, 2024, p. 15]])
-- Lower Atash member is dominated by calcareous epifauna (Nautiloculina, Quinqueloculina, Trocholina, Spirillina, Krunubia, and Miliolinella), indicating a shallow lagoonal to inner shelf environment. ([[2024-jalloh|Jalloh, 2024, p. 15]])
-- Upper Atash and basal Hisyan member show increased diversity and abundance of calcareous and agglutinated shallow and deep infauna (Frondicularia, Lenticulina, Nodosaria, Bulbobaculites, and Gerochammina), indicating a shift to deeper intra-shelf basin environments. ([[2024-jalloh|Jalloh, 2024, p. 15]])
-- The peak transgression is marked by the Maximum Flooding Surface (MFS) identified by planktic taxa (Globuligerina sp.) and deep-water indicators (Gerochammina n.sp. and Bulbobaculites n.sp.). ([[2024-jalloh|Jalloh, 2024, p. 16]])
-- The top of the Hisyan member is dominated by calcareous epifauna and shallow agglutinated infauna, indicating restricted marine conditions during the regressive phase. ([[2024-jalloh|Jalloh, 2024, p. 16]])
-- Morphogroup analysis revealed intricate transgressive-regressive (T-R) cycles characterized by deepening and shallowing upward sequences. ([[2024-jalloh|Jalloh, 2024, p. 15]])
-- The Dhruma Formation is the second oldest formation within the Jurassic Shaqra Group, transitioning from carbonate-rich deposits to evaporites. ([[2024-jalloh|Jalloh, 2024, p. 20]])
-- The D7 unit (Atash and Hisyan Members) has been assigned a middle Callovian age based on distinct ammonite faunas including Grossouvria, Erymnoceras, and Pachyerymoceras. ([[2024-jalloh|Jalloh, 2024, p. 22]])
-- The lower Atash member's age is supported by nannoflora such as Watznaueria manivitae and Stephanolithion bigoti, indicating the Stephanolithion bigoti Zone. ([[2024-jalloh|Jalloh, 2024, p. 22]])
-- The Dhruma Formation thickness varies from 300 meters in basinal areas of Iraq and Kuwait to approximately 20 meters over the southeastern paleo-high at Qatar Arch. ([[2024-jalloh|Jalloh, 2024, p. 37]])
-- The study identifies a gap where subsurface core samples (used in previous studies) may not capture the full diversity of foraminiferal assemblages available in surface outcrops. ([[2024-jalloh|Jalloh, 2024, p. 24]])
-- The lower section of the D7 Unit is dominated by calcareous benthic foraminifera (63.34%) and agglutinated species (36.66%), with no planktic forms. ([[2024-jalloh|Jalloh, 2024, p. 46]])
-- The middle section shows a distinct ecological shift with the appearance of planktic species Globuligerina terquemi (~4.54%) and an increase in agglutinated species (38.93%), including the newly reported Bulbobaculites n.sp. ([[2024-jalloh|Jalloh, 2024, p. 46]])
-- The upper portion shows a sharp return to calcareous dominance (62.36%) with planktic species nearly absent (~0.05%). ([[2024-jalloh|Jalloh, 2024, p. 46]])
-- Morphogroup analysis revealed that the middle section (AH24-AH53) shows an increase in both shallow and deep infaunal species, indicating greater substrate heterogeneity and variable oxygen levels during a peak transgression phase. ([[2024-jalloh|Jalloh, 2024, p. 46]])
+- Thirty-three foraminiferal species representing 19 genera were documented, including two previously unreported benthic taxa: Bulbobaculites n.sp. and Gerochammina n.sp. ([[2024-jalloh|Jalloh, 2024, p. 15]])
+- Calcareous epifauna (e.g., Nautiloculina, Quinqueloculina, Trocholina, Spirillina, Krunubia, and Miliolinella) dominate the lower part of the Atash member, indicating a shallow lagoonal to inner shelf environment. ([[2024-jalloh|Jalloh, 2024, p. 15]])
+- The upper Atash and overlying Hisyan member basal section show increased species diversity and abundance of calcareous and agglutinated shallow and deep infauna (e.g., Frondicularia, Lenticulina, Nodosaria, Bulbobaculites, and Gerochammina), indicating a shift to deeper intra-shelf basin environments. ([[2024-jalloh|Jalloh, 2024, p. 15]])
+- The planktic taxon (Globuligerina sp.) and deep-water indicators (Gerochammina n.sp. and Bulbobaculites n.sp.) serve as critical markers for recognizing the J40 Maximum Flooding Surface (MFS). ([[2024-jalloh|Jalloh, 2024, p. 16]])
+- The top of the Hisyan is dominated by calcareous epifauna and shallow agglutinated infauna, indicating restricted marine conditions during the regressive phase. ([[2024-jalloh|Jalloh, 2024, p. 16]])
+- The Dhruma Formation's upper section (D7) includes the Atash and Hisyan Members, which are approximately 111 meters thick in the upper section. ([[2024-jalloh|Jalloh, 2024, p. 21]])
+- The lower section of the D7 Unit is dominated by calcareous benthic foraminifera (63.34%) and agglutinated species (36.66%), indicating a well-oxygenated inner shelf environment. ([[2024-jalloh|Jalloh, 2024, p. 46]])
+- The middle section shows an increase in agglutinated species (38.93%) and the appearance of planktic species like Globuligerina terquemi (~4.54%), marking peak transgression and a Maximum Flooding Surface (MFS). ([[2024-jalloh|Jalloh, 2024, p. 46]])
+- The upper section shows a return to calcareous dominance (62.36%) with minimal planktic species, indicating a regressive phase toward restricted marine conditions. ([[2024-jalloh|Jalloh, 2024, p. 46]])
+- Morphogroup analysis revealed a transition from epifaunal dominance in the lower section (50%) to mixed morphogroups in the middle section, and back to epifaunal dominance in the upper section (60%). ([[2024-jalloh|Jalloh, 2024, p. 79]])
+- Biodiversity indices showed highest species richness in the middle section (Fisher's alpha ~5.47) and lowest in the lower section (Fisher's alpha ~2.0). ([[2024-jalloh|Jalloh, 2024, p. 80]])
+- Cluster analysis identified six distinct clusters, ranging from shallow lagoonal environments to deep marine/intra-shelf basin settings. ([[2024-jalloh|Jalloh, 2024, p. 67]])
+- The study identified two previously unreported species in the Dhruma Formation: Bulbobaculites n.sp. and Gerochammina n.sp. ([[2024-jalloh|Jalloh, 2024, p. 87]])
+- Globuligerina sp. was confirmed as a critical biostratigraphic marker for recognizing both the J30 and J40 Maximum Flooding Surfaces (MFS). ([[2024-jalloh|Jalloh, 2024, p. 109]])
+- Analysis of 33 identified species delineated a complete transgressive-regressive (T-R) cycle within the D7 Unit. ([[2024-jalloh|Jalloh, 2024, p. 112]])
 
 ## Limitations
 
-Some sections of the outcrop were difficult to access, leading to non-uniform sampling intervals. Reference samples from the Riyadh Limestone yielded no foraminifera and were excluded.
+Some sections of the outcrop were difficult to access or poorly exposed, leading to non-uniform sampling intervals. Additionally, isotopic methods were excluded due to poor microfossil preservation in this formation.
 
 ## Recommendations and Future Work
 
-- Conduct further foraminiferal studies in underexported surface outcrops and stratigraphic intervals such as the D3, D4, and the type locality of the Dhruma Formation.
-- Perform detailed micropaleontological investigations of the formation's siliciclastic deposits in northern central Arabia to enhance correlations with southern central Arabia.
-- Integrate micropaleontological, sedimentological, and high-resolution sequence stratigraphy studies including surface and subsurface data to evaluate the relationship between the D7 Unit and the lower Tuwaiq Mountain Formation.
-- Develop a comprehensive digital repository for taxonomic, stratigraphic, and paleoenvironmental data for Jurassic formations of Saudi Arabia.
+Further research is needed in underexplored surface outcrops (D3, D4) and siliciclastic deposits in northern central Arabia. A comprehensive digital repository for taxonomic, stratigraphic, and paleoenvironmental data for Jurassic formations of Saudi Arabia is recommended.
 
 ## Related Concepts
 
-- [[thin-section-petrography]]
-- [[biostratigraphy]]
+- [[acetic-acid-disaggregation]]
+- [[sem]]
+- [[maximum-flooding-surface]]
+- [[paleobathymetry]]
 - [[dhruma-formation]]
-- [[central-saudi-arabia]]
+- [[central-saudi-area]]
 - [[sequence-stratigraphy]]
 - [[paleoenvironmental-reconstruction]]
-- [[foraminifera]]
-- [[paleobathymetry]]
-- [[maximum-flooding-surface]]
-- [[sem-eds]]
-- [[acetic-acid-leaching]]
-- [[cluster-analysis]]
+- [[microfacies-analysis]]
 - [[morphogroup-analysis]]
-- [[mfs]]
-- [[t-r-cycles]]
+- [[electrofacies-analysis]]
+- [[foraminifera]]
+- [[thin-section-petrography]]
+- [[central-saudi-arabia]]

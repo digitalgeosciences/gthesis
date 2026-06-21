@@ -2,32 +2,44 @@
 type: technique
 title: "Sensitivity Analysis"
 aliases:
-  - "active and passive sensitivities"
+  - "sensitivity calculation"
+  - "sensitivity matrix"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "sensitivity coefficients."
+output: "sensitivity coefficients and a sensitivity matrix"
 tags:
-  - technique/circuit-simulation
+  - technique/sensitivity-analysis
+  - theme/reservoir-engineering
 sources:
-  - "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
+  - "raw/139084 - Sensitivity-Based Upscaling for Large-Scale Reservoir Model History Matching.pdf"
+  - "raw/139831 - STOCHASTIC OPTIMIZATION OF HYDRAULIC FRACTURE AND HORIZONTAL WELL PARAMETERS IN .pdf"
+  - "raw/9989 - A New dewpoint pressure correlation for gas-condensate systems.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Sensitivity Analysis
 
-**Summary**: A method to determine how variations in component values affect the performance parameters of a circuit.
+**Summary**: The determination of how changes in input parameters affect the output results.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] performed sensitivity analysis to ensure that the proposed filters had low active and passive sensitivities.
+- [[2013-mehmood|Mehmood, 2013]] used sensitivity analysis to determine which grid blocks should be merged during upscaling.
+
+- [[2015-rammay|RAMMAY, 2015]] applied sensitivity analysis to determine search spaces for fracture spacing and conductivity.
+
+- [[2001-humoud|Humoud, 2001]] performed sensitivity analysis to evaluate the influence of reservoir temperature, GOR, and pseudoreduced pressure on the dewpoint prediction.
 
 ## Instruments and Software
 
 
+
+- [[2015-rammay|RAMMAY, 2015]] applied sensitivity analysis to determine search spaces for fracture spacing and conductivity.
+
+- [[2001-humoud|Humoud, 2001]] performed sensitivity analysis to evaluate the influence of reservoir temperature, GOR, and pseudoreduced pressure on the dewpoint prediction.
 
 ## Typical Workflow
 
@@ -35,7 +47,11 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- The active and passive sensitivities for the proposed filter were found to be small (mostly 0.5 or less). ([[1997-al-gahtani|Al-Gahtani, 1997, p. 104]])
+- Sensitivity-based thresholding determines regions of homogeneous permeability distribution based on production data sensitivity. ([[2013-mehmood|Mehmood, 2013, p. 29]])
+
+- Identified optimal search ranges: 50-200 ft for spacing and 1-2000 md-ft for conductivity. ([[2015-rammay|RAMMAY, 2015, p. 84]])
+
+- The model was found to be highly sensitive to reservoir temperature, especially when other parameters were at minimum values. ([[2001-humoud|Humoud, 2001, p. 78]])
 
 ## Methodological Variations Across Sources
 

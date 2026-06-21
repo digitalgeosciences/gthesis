@@ -11,7 +11,7 @@ tags: []
 sources:
   - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Egypt

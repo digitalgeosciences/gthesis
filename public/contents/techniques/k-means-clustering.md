@@ -1,30 +1,30 @@
 ---
 type: technique
-title: "K Means Clustering"
+title: "K-Means Clustering"
 aliases:
-  - "K-means clustering"
+  - "KMC"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "distinct electrofacies groups"
+output: "discrete facies labels"
 tags:
   - technique/k-means-clustering
-  - theme/petrophysical-rock-typing
+  - theme/machine-learning-geoscience
 sources:
-  - "raw/139962 - INTEGRATION OF ELECTROFACIES AND GEOMECHANICAL CHARACTERISTICS OF SARAH FORMATIO.pdf"
+  - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
-# K Means Clustering
+# K-Means Clustering
 
-**Summary**: An unsupervised machine learning algorithm used to group data points into clusters based on similarity in multidimensional space.
+**Summary**: An unsupervised learning algorithm that groups data into K clusters based on similarity.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2016-ejaz|Ejaz, 2016]] used K-means clustering to categorize well log data into distinct electrofacies for the Sarah Formation.
+- [[2023-kusuma|Kusuma, 2023]] applied k-means clustering to identify distinct lithofacies from well log data.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The K-means clustering method, with 10 initial clusters, successfully identified and separated lithofacies based on their unique responses in various well logs. ([[2016-ejaz|Ejaz, 2016, p. 85]])
+- Sequent hierarchical KMC produced three stable facies labels: clean sand, shaly sand, and sandy shale. ([[2023-kusuma|Kusuma, 2023, p. 83]])
 
 ## Methodological Variations Across Sources
 

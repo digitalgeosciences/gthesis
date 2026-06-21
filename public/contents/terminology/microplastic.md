@@ -2,45 +2,45 @@
 type: terminology
 title: "Microplastic"
 aliases:
-  - "micro-plastic"
+  - "microplastics"
 canonical: true
-definition: "Plastic particles smaller than 5mm."
+definition: "synthetic polymer particle less than 5 mm in diameter"
 units: "count per kg or count per m2"
 related_techniques:
-  - "ftir"
-  - "density-separation"
+  - "atr-ftir"
+  - "microscope"
 tags:
   - theme/environmental-pollution
 sources:
   - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Microplastic
 
-**Summary**: Small plastic particles or fragments less than 5 mm in size resulting from the breakdown of larger plastic items.
+**Summary**: Synthetic polymer particles smaller than 5 mm in diameter.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination in coastal sediments.
+- [[2022-alshaikhali|Alshaikhali, 2022]] measured microplastic abundance and size across four coastal sites.
 
 ## Scientific Context
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] Microplastics are a significant environmental concern due to their persistence and potential for entering the food chain.
+- [[2022-alshaikhali|Alshaikhali, 2022]] Microplastics are a major environmental concern due to their persistence and potential for ingestion by marine life.
 
 ## Measurement and Characterization Methods
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] Extraction via density separation followed by identification via FTIR.
+- [[2022-alshaikhali|Alshaikhali, 2022]] Visual identification under microscopy followed by ATR-FTIR analysis.
 
 ## Key Findings Across Sources
 
-- Microplastics are categorized by shape (fiber, fragment, foam, pellet) and polymer type (PE, PP, etc.). ([[2022-alshaikhali|Alshaikhali, 2022, p. 35]])
+- A total of 586 particles were collected with an average size of 1.55 ± 0.94 SD mm. ([[2022-alshaikhali|Alshaikhali, 2022, p. 38]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

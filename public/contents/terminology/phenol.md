@@ -2,59 +2,53 @@
 type: terminology
 title: "Phenol"
 aliases:
-  - "phenol"
+  - "phenol degradation"
 canonical: true
-definition: "an organic compound often found in contaminated water sources"
-units: "mg/L"
+definition: "A common industrial pollutant and organic compound."
+units: "mg/l (ppm)"
 related_techniques:
   - "hplc"
+  - "lc-ms"
 tags:
   - theme/water-treatment
 sources:
-  - "raw/136123 - Fate of Bromate Formation in Water Treated by ozone-based Advanced Oxidation Pro.pdf"
   - "raw/139615 - Sunlight and Organic dyes as A greener Approach to Photochemical Reactions and D.pdf"
   - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Phenol
 
-**Summary**: An organic compound used as a target contaminant in this study for degradation via AOP.
+**Summary**: An organic compound used as a model for industrial pollutants.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2009-zubair|Zubair, 2009]] used phenol as the primary target contaminant to evaluate ozonation efficiency.
+- [[2015-hassan|Hassan, 2015]] studied the degradation of phenol in water.
 
-- [[2015-hassan|Hassan, 2015]] studied the degradation of phenol in contaminated water.
-
-- [[2019-salawudeen|Salawudeen, 2019]] studied the removal of phenol from contaminated water using GPDADMAC.
+- [[2019-salawudeen|Salawudeen, 2019]] studied the removal of phenol from contaminated water.
 
 ## Scientific Context
 
-- [[2009-zubair|Zubair, 2009]] Phenol is a common contaminant that requires removal from drinking water.
+- [[2015-hassan|Hassan, 2015]] Used as a model for evaluating the efficiency of photocatalytic degradation systems.
 
-- [[2015-hassan|Hassan, 2015]] studied the degradation of phenol in contaminated water.
-
-- [[2019-salawudeen|Salawudeen, 2019]] studied the removal of phenol from contaminated water using GPDADMAC.
+- [[2019-salawudeen|Salawudeen, 2019]] studied the removal of phenol from contaminated water.
 
 ## Measurement and Characterization Methods
 
-- [[2009-zubair|Zubair, 2009]] quantified using HPLC
+- [[2015-hassan|Hassan, 2015]] Quantified via HPLC and LC-MS.
 
 ## Key Findings Across Sources
 
-- Phenol can be completely degraded (100% removal) using continuous ozonation at specific rates. ([[2009-zubair|Zubair, 2009, p. 31]])
+- Maximum phenol removal of 86.6% was achieved from contaminated water. ([[2015-hassan|Hassan, 2015, p. 16]])
+- [[2015-hassan|Hassan, 2015]] Concentrations measured at various pH levels (3 and 11).
 
-- Maximum phenol removal from contaminated water reached 86.6%. ([[2015-hassan|Hassan, 2015, p. 16]])
-
-- GPDADMAC achieved 80% removal of 10 mg/l phenol under optimal conditions. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
+- GPDADMAC achieved 80% (1.7 mg/g) removal of 10 ppm phenol under optimal conditions. ([[2019-salawudeen|Salawudeen, 2019, p. 15]])
 
 ## Contrasting Values and Interpretations
 
-- [[2009-zubair|Zubair, 2009]] Used in concentrations of 25, 50, 75, and 100 mg/L.
 
 ## Open Questions and Research Gaps
 

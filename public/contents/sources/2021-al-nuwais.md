@@ -13,7 +13,7 @@ committee_members:
   - "Ammar Elhusseiny"
 source_file: "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/141781/"
-study_area: "Jurassic carbonate formations outcropping in Central Saudi Arabia"
+study_area: "Central Saudi Arabia (specifically the Riyadh area)"
 keywords:
   - Jurassic carbonates
   - porosity
@@ -23,146 +23,114 @@ keywords:
   - petrography
   - X-ray diffractometry
   - scanning electron microscopy
-  - Dykstra–Parsons coefficients
-  - Lorenz coefficients
   - statistical analysis
-  - petrophysics
-  - petrophysical properties
   - reservoir quality
-  - sedimentary lithofacies
+  - Dykstra-Parsons coefficient
+  - Lorenz curve
 techniques:
   - thin-section-petrography
   - sem
   - xrd
   - core-analysis
   - statistical-analysis
-  - helium-porosity
-  - geostatistics
-  - well-log-analysis
+  - petrography
+  - microfacies-analysis
 tags:
   - degree/ms
-  - formation/jubaila-formation
-  - formation/hanifa-formation
-  - formation/tuwaiq-mountain-formation
-  - formation/dhruma-formation
   - formation/marrat-formation
-  - formation/dhurma-formation
+  - formation/dhruma-formation
+  - formation/tuwaiq-mountain-formation
+  - formation/hanifa-formation
+  - formation/jubaila-formation
+  - location/central-saudi-area
   - location/central-saudi-arabia
-  - location/riyadh-area
-  - technique/xrd
-  - technique/sem
   - technique/thin-section-petrography
-  - technique/statistical-analysis
-  - technique/helium-porosity
+  - technique/sem
+  - technique/xrd
   - technique/core-analysis
-  - technique/geostatistics
-  - technique/well-log-analysis
+  - technique/statistical-analysis
+  - technique/petrography
+  - technique/microfacies-analysis
   - theme/carbonate-geology
   - theme/petrophysics
-  - theme/carbonate-reservoirs
   - terminology/porosity
   - terminology/permeability
-  - terminology/heterogeneity
-  - terminology/dykstra-parsons-coefficient
-  - terminology/lorenz-coefficient
-  - terminology/lithofacies
+  - terminology/facies-analysis
   - terminology/diagenesis
-  - terminology/reservoir-quality-index
+  - terminology/reservoir-quality
+  - terminology/petrophysics
 status: ingested
 ---
 
 # The Heterogeneity and statistical analysis of Porosity and Permeability in Jurassic Carbonates in Central of Saudi Arabia.
 
-**Summary**: The thesis investigates the heterogeneity and statistical distribution of porosity and permeability in five Jurassic carbonate formations (Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat) outcropping in Central Saudi Arabia. Using petrophysical measurements and geostatistical indices like the Dykstra-Parsons coefficient and Lorenz curve, the study concludes that these formations range from highly to extremely heterogeneous due to complex lithofacies and diagenetic processes.
+**Summary**: The thesis investigates the heterogeneity and statistical distribution of porosity and permeability in five Jurassic carbonate formations (Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat) outcropping in Central Saudi Arabia. Using petrophysical measurements, mineralogical analysis (XRD), and geostatistical tools like Dykstra-Parsons coefficients and Lorenz curves, the study concludes that all studied formations are highly heterogeneous due to complex lithofacies, varied depositional environments, and significant diagenetic modifications.
 
 ---
 
 ## Research Problem
 
-Carbonate reservoirs are often complex and heterogeneous due to intrinsic properties and sedimentological variability. This thesis addresses the need to quantify this heterogeneity in Jurassic carbonate formations (Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat) in Central Saudi Arabia using statistical analysis of porosity and permeability.
+Carbonate reservoirs are inherently complex and heterogeneous due to intrinsic properties and sedimentological variability. This study addresses the need to quantify this heterogeneity in Jurassic carbonate formations in Central Saudi Arabia to better understand reservoir quality and distribution of porosity/permeability across different scales.
 
 ## Objectives
 
-- Explore distributions of porosity and permeability in several Jurassic formations outcropping in Central Saudi Arabia
-- Describe sedimentary lithofacies and characterize textural properties
-- Identify types of porosity (intraparticle, moldic, dissolution, intercrystalline, fracture)
-- Quantify heterogeneity using statistical tools including Coefficient of Variation (CV), Dykstra-Parsons coefficients, and Lorenz coefficients
-- Evaluate Reservoir Quality Index (RQI) for the studied formations
 - Characterization of lithofacies types based on Dunham classification
 - Determination of porosity and permeability distributions
 - Determination of the degree of reservoir heterogeneity
 - Evaluation of the mechanisms controlling reservoir quality
-- Characterize lithofacies, mineralogy, and porosity types of Jurassic carbonates using thin-section petrography, SEM, and XRD.
-- Measure and analyze the distribution of porosity and permeability in selected samples from several formations.
-- Quantify reservoir heterogeneity using statistical tools such as Dykstra-Parsons coefficient, Lorenz coefficient, and Coefficient of Variation (CV).
-- Describe sedimentary lithofacies of the studied Jurassic formations.
-- Analyze porosity and permeability distributions using optical petrography and XRD.
-- Calculate Reservoir Quality Index (RQI) for each formation.
-- Quantify reservoir heterogeneity using Dykstra-Parsons coefficients and Lorenz curves.
-- Evaluate the distribution of porosity and permeability in several Jurassic formations outcropping in Central Saudi Arabia.
-- Perform statistical analysis (skewness, coefficient of variation, correlation coefficients) on petrophysical properties.
-- Quantify reservoir heterogeneity using geostatistical tools including Lorenz Curve Coefficients and Dykstra-Parsons coefficients.
-- Relate the observed heterogeneity to lithofacies, depositional environments, and diagenetic processes.
-- Explore the distribution of porosity and permeability in several Jurassic formations outcropping in Central Saudi Arabia
-- Describe sedimentary lithofacies using optical petrography
-- Perform statistical analysis on petrophysical properties to understand heterogeneity
+- Evaluate the distribution of porosity and permeability in five Jurassic formations (Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat).
+- Perform statistical analysis to characterize the heterogeneity of these carbonate reservoirs.
 
 ## Methods
 
-The study involved 209 samples collected from Jurassic outcrops. Samples were categorized into high, medium, and low porosity/permeability zones for detailed analysis. Thin-section petrography was used to identify facies and mineralogy; SEM (JEOL JSM-5900LV) with an Oxford EDS was used for high-resolution imaging of grains and pores; XRD (JEOL JDX-3530) determined mineral composition. Porosity was measured using a TPI-219 helium porosimeter, and permeability was measured using a TKA-209 gas-permeameter with Klinkenberg correction.
+The study utilized petrophysical measurements of porosity and permeability from outcropping samples. Mineralogical composition was determined using XRD analysis to identify minerals like quartz, sericite, and kaolinite. Statistical tools included the calculation of Coefficient of Variation (CV), Reservoir Quality Index (RQI), Dykstra-Parsons coefficient (Vdp), and Lorenz curves (Lc) to quantify heterogeneity. Microfacies analysis and petrography were used to correlate geological features with reservoir properties.
 
 ## Data and Materials
 
-Samples from five Jurassic formations: Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat. Data includes thin section counts (implied by Table 2), XRD results for all four main carbonate units, and petrophysical measurements of porosity and permeability across the studied formations.
+Data from five Jurassic formations: Jubaila, Hanifa, Tuwaiq Mountain, Dhurma, and Marrat. The study includes detailed tables of porosity (P) and permeability (K) measurements for each formation, along with corresponding RQI and Dykstra-Parsons calculations.
 
 ## Key Findings
 
-- The most common lithofacies included mudstones, wackestones, packstones, and grainstones; sandstone was interbedded in the Marrat Formation. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- Porosity types identified include intraparticle, moldic, dissolution, intercrystalline, and fracture. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- The coefficient of variation (CV) for porosity ranged between 0.261 and 0.590. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- The CV for permeability was significantly higher, ranging from 1.202 to 2.271. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- Correlation between porosity and permeability ranged from -0.154 to 0.507. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- Dykstra-Parsons coefficients (VDP) ranged from 0.650 to 0.990. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- Lorenz coefficients ranged between 0.292 and 0.628. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+- The coefficient of variation (CV) for porosity ranged between 0.261 and 0.590, while permeability CV values were significantly higher, ranging from 1.202 to 2.171. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+- The correlation coefficient between porosity and permeability ranged from -0.154 to 0.507. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
+- Dykstra-Parsons coefficients (Vdp) ranged from 0.650 to 0.990, and Lorenz coefficients (Lc) ranged between 0.292 and 0.628. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
 - The Reservoir Quality Index (RQI) was calculated between 0.011 and 1.208. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 13]])
-- XRD of Jubaila showed calcite as primary mineral with some quartz; Hanifa showed calcite, quartz, and minor minerals. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 74]])
-- SEM for Tuwaiq Mountain Formation showed micrite; Dhurma SEM showed iron oxide between pores. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 75]])
-- Porosity values ranged from 0.590 to 0.261 across the studied Jurassic carbonate formations. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 14]])
-- Permeability coefficient of variation (CV) ranged from 0.507 to 0.154. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 14]])
-- The correlation between porosity and permeability was between 2.271 and 1.202. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 14]])
-- The coefficient of variation for permeability ranged from 0.507 to 0.154 (Note: Arabic text indicates a range, likely referring to specific units or samples). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 14]])
-- The Lorenz curve values ranged from 0.990 to 0.650. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 14]])
+- Jubaila Formation wackestones showed moldic and fracture porosity, with some samples containing up to 15.9% quartz. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 71]])
+- Hanifa Formation contained between 19% and 27% quartz in its mineralogy. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 71]])
+- Dhurma Formation showed varying amounts of kaolinite (2.6% to 17.6%) and up to 10% quartz content. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 71]])
+- Marrat Formation contained dolomite with 82% quartz and a 100% quartz sandstone (quartz arenite). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 71]])
+- The Dhruma formation showed iron oxide between the grains in SEM analysis. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 76]])
+- The Jubaila Formation is very heterogeneous (CV = 1.2) with a low RQI of 0.027; its heterogeneity is attributed to moldic and fracture porosity in wackestone facies. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
+- The Hanifa Formation is extremely heterogeneous (CV = 2.2) with an RQI of 0.057, showing a significant impact from diagenesis (sericite and quartz). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
+- The Tuwaiq Mountain Formation is extremely heterogeneous (CV = 1.43) with an RQI of 0.070; it shows a moderate correlation between porosity and permeability (r = 0.47). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
+- The Dhurma Formation is extremely heterogeneous (CV = 2.27) with an RQI of 0.011; it has the highest Lorenz coefficient (Lc = 0.628). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
+- The Marrat Formation is extremely heterogeneous (CV = 1.98) and shows a bimodal distribution of porosity/permeability due to the presence of both carbonates and clastics. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
+- Dykstra-Parsons coefficients for the formations were: Jubaila (0.65), Hanifa (0.799), Tuwaiq Mountain (0.830), Dhurma (0.89), and Marrat (0.99). ([[2021-al-nuwais|Al-Nuwais, 2021, p. 90]])
 
 ## Limitations
 
-The dataset available for the Jubaila Formation was limited.
+The dataset for the Jubaila Formation was limited, which may affect the statistical representation of its heterogeneity.
 
 ## Recommendations and Future Work
 
-- A subsurface study using the same workflow is needed to compare surface outcrops with subsurface results.
-- Explore pore throat and grain size distributions across the Jurassic formations.
-- Investigate the distribution of fractures and their effect on porosity and permeability.
-- Determine specific diagenetic types that impact lithofacies and sequence stratigraphic architecture.
+A subsurface study using the same workflow is recommended to compare surface outcrops with subsurface results. Further investigation into pore throat/grain size distributions and the specific impact of fractures on porosity/permeability is suggested.
 
 ## Related Concepts
 
+- [[thin-section-petrography]]
 - [[xrd]]
 - [[sem]]
-- [[thin-section-petrography]]
+- [[statistical-analysis]]
 - [[porosity]]
 - [[permeability]]
-- [[heterogeneity]]
-- [[dykstra-parsons-coefficient]]
-- [[lorenz-coefficient]]
+- [[facies-analysis]]
+- [[diagenesis]]
+- [[reservoir-quality]]
 - [[carbonate-geology]]
-- [[reservoir-characterization]]
-- [[central-saudi-arabia]]
-- [[jubaila-formation]]
-- [[hanifa-formation]]
+- [[petrophysics]]
+- [[marrat-formation]]
 - [[tuwaiq-mountain-formation]]
 - [[dhruma-formation]]
-- [[marrat-formation]]
-- [[lithofacies]]
-- [[diagenesis]]
-- [[petrophysics]]
-- [[reservoir-quality-index]]
+- [[hanifa-formation]]
+- [[jubaila-formation]]
+- [[central-saudi-arabia]]

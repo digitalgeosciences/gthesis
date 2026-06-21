@@ -1,59 +1,64 @@
 ---
 type: technique
-title: "Pca"
+title: "PCA"
 aliases:
-  - "Principal Component Analysis"
+  - "principal component analysis"
+  - "R-Mode PCA"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "Principal components and ordination diagrams."
+output: "principal components representing major environmental gradients"
 tags:
   - technique/pca
-  - theme/marine-biology
 sources:
-  - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
-  - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
+  - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
+  - "raw/141371 - BASIC RESERVOIR HISTORY MATCHING BY REINFORCEMENT LEARNING FUNDAMENTALS.pdf"
+  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/141916 - EVALUATING POTENTIAL OF DATE-PALM BIOCHAR FOR ARSENIC REMOVAL FROM WATER, COUPLE.pdf"
   - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
-  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
-  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
-  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
+  - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
+  - "raw/142924 - INTEGRATIVE CHARACTERIZATION AND MODELING OF THE PERMO-TRIASSIC CARBONATES, SOUT.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
-# Pca
+# PCA
 
-**Summary**: A statistical technique that uses factor analysis to reduce dimensionality in data sets while preserving as much information as possible.
+**Summary**: Principal Component Analysis reduces the dimensionality of large datasets to identify primary drivers of variance.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-arslan|Arslan, 2015]] used PCA to interpret the influence of depth and seasonality on foraminiferal distribution.
+- [[2017-amao|Amao, 2017]] applied PCA to determine the main factors controlling foraminiferal distribution.
 
-- [[2020-gbiyanju|Gbiyanju, 2020]] applied PCA to analyze geochemical and mechanical variables for facies classification.
+- [[2019-alsamadony|Alsamadony, 2019]] used PCA to reduce the permeability field from 50 eigenvectors to 10 for the history matching problem.
 
-- [[2022-septriandi|Septriandi, 2022]] applied PCA to the normalized geochemical data-set to establish relationships among elemental variables.
+- [[2021-albensaad|Albensaad, 2021]] applied PCA to investigate relationships among HLD, log-based properties, XRD, and XRF data.
 
-- [[2022-stiawan|Stiawan, 2022]] applied PCA to determine the main mineralogical drivers of reservoir quality.
+- [[2021-siddiq|Siddiq, 2021]] applied PCA to differentiate the presence of biochar and the progress of arsenic adsorption from SIP signals.
 
-- [[2022-al-sadah|Al-Sadah, 2022]] used PCA on ASTER data to minimize the effects of topographic shading and albedo.
+- [[2022-septriandi|Septriandi, 2022]] applied PCA to interpret the relationship between nannofossils and geochemical variables.
 
-- [[2024-alenazi|Alenazi, 2024]] used PCA to determine concentration variations and potential sources from different environmental media.
+- [[2022-argadestya|Argadestya, 2022]] used PCA to determine that PC-1 accounted for 93.99% of the variance in mineralogical data.
+
+- [[2024-hassan|Hassan, 2024]] used PCA to analyze the relationship between various elements and minerals.
 
 ## Instruments and Software
 
 
 
-- [[2020-gbiyanju|Gbiyanju, 2020]] applied PCA to analyze geochemical and mechanical variables for facies classification.
+- [[2019-alsamadony|Alsamadony, 2019]] used PCA to reduce the permeability field from 50 eigenvectors to 10 for the history matching problem.
 
-- [[2022-septriandi|Septriandi, 2022]] applied PCA to the normalized geochemical data-set to establish relationships among elemental variables.
+- [[2021-albensaad|Albensaad, 2021]] applied PCA to investigate relationships among HLD, log-based properties, XRD, and XRF data.
 
-- [[2022-stiawan|Stiawan, 2022]] applied PCA to determine the main mineralogical drivers of reservoir quality.
+- [[2021-siddiq|Siddiq, 2021]] applied PCA to differentiate the presence of biochar and the progress of arsenic adsorption from SIP signals.
 
-- [[2022-al-sadah|Al-Sadah, 2022]] used PCA on ASTER data to minimize the effects of topographic shading and albedo.
+- [[2022-septriandi|Septriandi, 2022]] applied PCA to interpret the relationship between nannofossils and geochemical variables.
 
-- [[2024-alenazi|Alenazi, 2024]] used PCA to determine concentration variations and potential sources from different environmental media.
+- [[2022-argadestya|Argadestya, 2022]] used PCA to determine that PC-1 accounted for 93.99% of the variance in mineralogical data.
+
+- [[2024-hassan|Hassan, 2024]] used PCA to analyze the relationship between various elements and minerals.
 
 ## Typical Workflow
 
@@ -61,17 +66,19 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The first component was interpreted as a depth transect (foreshore-offshore gradient) and the second as related to seasonality. ([[2015-arslan|Arslan, 2015, p. 30]])
+- The first two principal components explained 52% of the data variance, with axis 1 reflecting feeding strategies and axis 2 reflecting sediment/oxygen conditions. ([[2017-amao|Amao, 2017, p. 143]])
 
-- Used to identify key variables and create factor maps for chemostratigraphy. ([[2020-gbiyanju|Gbiyanju, 2020, p. 67]])
+- 10 eigenvectors were sufficient to retain approximately 80% of the permeability field. ([[2019-alsamadony|Alsamadony, 2019, p. 48]])
 
-- The first two dimensions of analysis data expressed 79.61% of the total variability. ([[2022-septriandi|Septriandi, 2022, p. 58]])
+- Terrigenous minerals (illite, kaolinite) and elements (Al, Fe, Si, S) clustered together, while calcite was in the opposite quadrant. ([[2021-albensaad|Albensaad, 2021, p. 79]])
 
-- The first two dimensions in the PCA-biplot explained 59.84% of the total variation. ([[2022-stiawan|Stiawan, 2022, p. 107]])
+- PCA successfully differentiated the presence of biochar and the progress of arsenic adsorption based on SIP signals. ([[2021-siddiq|Siddiq, 2021, p. 54]])
 
-- The first three PCs (PC1, PC2, PC3) contained most of the correlatable data while noise dominated from PC9 onwards. ([[2022-al-sadah|Al-Sadah, 2022, p. 35]])
+- PC1 (63.1% variance) differentiated carbonate productivity, while PC2 (20.6%) indicated redox conditions. ([[2022-septriandi|Septriandi, 2022, p. 137]])
 
-- PCA is a suitable tool for determining the concentration variations and potential sources from different environmental media. ([[2024-alenazi|Alenazi, 2024, p. 28]])
+- PC-1 successfully separated three distinct clusters based on mineral content. ([[2022-argadestya|Argadestya, 2022, p. 92]])
+
+- PCA helped determine how much weight each original variable had in the principal components of mineralogy. ([[2024-hassan|Hassan, 2024, p. 145]])
 
 ## Methodological Variations Across Sources
 

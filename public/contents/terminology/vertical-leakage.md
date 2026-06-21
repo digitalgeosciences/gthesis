@@ -4,8 +4,8 @@ title: "Vertical Leakage"
 aliases:
   - "vertical leakage zones"
 canonical: true
-definition: "The upward or downward movement of water through a confining unit (aquitard)."
-units: "Not applicable"
+definition: "Vertical movement of groundwater between different aquifers through an intervening aquitard."
+units: "m/day"
 related_techniques:
   - "electrical-resistivity-tomography"
 tags:
@@ -14,12 +14,12 @@ tags:
 sources:
   - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Vertical Leakage
 
-**Summary**: The movement of water between different aquifers through confining layers.
+**Summary**: The vertical movement of groundwater between different aquifers through an intervening aquitard.
 
 ---
 
@@ -29,19 +29,19 @@ last_updated: 2026-06-11
 
 ## Scientific Context
 
-- [[1995-hasan|Hasan, 1995]] Critical for understanding the connectivity and recharge/discharge between different aquifer systems.
+- [[1995-hasan|Hasan, 1995]] Determines the connectivity and potential for cross-contamination or recharge between stacked aquifers.
 
 ## Measurement and Characterization Methods
 
-- [[1995-hasan|Hasan, 1995]] Estimated based on leakage rates among different aquifers.
+- [[1995-hasan|Hasan, 1995]] Estimated based on hydraulic head differences and aquitard properties.
 
 ## Key Findings Across Sources
 
-- High vertical leakage at certain locations confirmed the interconnection and lithologic control on groundwater flow. ([[1995-hasan|Hasan, 1995, p. 28]])
+- High vertical leakage at certain locations confirmed the interconnection and lithologic control on flow. ([[1995-hasan|Hasan, 1995, p. 28]])
+- [[1995-hasan|Hasan, 1995]] 5 to 6,000 m³/d for Khobar; 1 to 8,000 m³/d for Alat.
 
 ## Contrasting Values and Interpretations
 
-- [[1995-hasan|Hasan, 1995]] High leakage in Rus formation windows
 
 ## Open Questions and Research Gaps
 

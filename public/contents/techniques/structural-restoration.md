@@ -2,30 +2,30 @@
 type: technique
 title: "Structural Restoration"
 aliases:
-  - "2D structural restoration"
+  - "2D move restoration"
   - "backstripping"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "extension percentages and stretch factors"
+output: "extension percentage, stretch factors, fault timing"
 tags:
   - technique/structural-restoration
-  - theme/structure-geology
+  - theme/structural-geology
 sources:
   - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Structural Restoration
 
-**Summary**: The process of undoing deformation to understand the evolution of a basin's geometry.
+**Summary**: The process of undoing deformation to understand the original geometry and evolution of a basin.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2017-abdelgader|Abdelgader, 2017]] applied 2D structural restoration using Move software and an inclined shear algorithm to determine extension percentages.
+- [[2017-abdelgader|Abdelgader, 2017]] performed structural-restoration using Move software to determine extension rates and fault timing.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Restorations yielded total extensional percent at the top of the basement of about 38.3% in the west, 41.39-48.39% in the middle, and 42.6% in the east. ([[2017-abdelgader|Abdelgader, 2017, p. 72]])
+- Restoration showed that the first rift cycle accounted for 82-86% of total extension in some areas. ([[2017-abdelgader|Abdelgader, 2017, p. 82]])
 
 ## Methodological Variations Across Sources
 

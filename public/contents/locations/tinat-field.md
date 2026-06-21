@@ -2,34 +2,33 @@
 type: location
 title: "Tinat Field"
 aliases:
-  - "Tinat field"
+  - "TINT-A"
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
-coordinates: "Not stated in source"
+coordinates: "24.5°N - 25.0°N, 48.7°E - 49.1°E"
 geology: "sedimentary basin"
 tags:
   - location/tinat-field
-  - theme/petroleum-geology
 sources:
   - "raw/10363 - Reservoir quality of the Unayzah formation in Waqr, Tinat, and Haradh fields.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Tinat Field
 
-**Summary**: A petroleum production area in eastern Saudi Arabia.
+**Summary**: An oil field in eastern Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-siddiqui|Siddiqui, 2002]] evaluated the Unayzah Formation in the Tinat field.
+- [[2002-siddiqui|Siddiqui, 2002]] analyzed the unayzah-formation within the tinat-field.
 
 ## Geological and Structural Setting
 
-- [[2002-siddiqui|Siddiqui, 2002]] not stated in source
+- [[2002-siddiqui|Siddiqui, 2002]] Arabian Basin
 
 ## Formations Present
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-08
 
 ## Key Findings From This Location
 
-- Identified quartz arenite (12-20% porosity) and quartz wacke (2-5% porosity). ([[2002-siddiqui|Siddiqui, 2002, p. 27]])
+- The formation shows two distinct groups: quartz arenite and quartz wacke. ([[2002-siddiqui|Siddiqui, 2002, p. 50]])
 
 ## Research Coverage and Gaps
 

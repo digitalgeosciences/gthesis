@@ -1,7 +1,7 @@
 ---
 type: source
 id: "143145"
-title: "Assessment of submarine channels for COₒ storage in the deep Taranaki Basin, New Zealand."
+title: "Assessment of submarine channels for CO storage in the deep Taranaki Basin, New Zealand."
 author: "Maryam Maigana"
 year: 2024
 department: "Geosciences"
@@ -12,155 +12,126 @@ committee_members:
   - "Panteleimon Soupios"
 source_file: "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/143145/"
-study_area: "Tui-3D Field (PEP38460), Taranaki Basin, New Zealand"
+study_area: "Tui-3D Field, Taranaki Basin, New Zealand"
 keywords:
   - submarine channels
-  - COₙ storage
-  - Taranaki Basin
-  - carbon capture and storage (CCS)
-  - 3D seismic
-  - well logs
-  - petrophysical analysis
-  - seal integrity
   - CO2 storage
-  - deep Taranaki Basin
-  - seismic geomorphology
-  - seismic stratigraphy
-  - Moki formation
-  - petrophysical evaluation
-  - geobody extraction
-  - Upper Manganui Formation
-  - seismic interpretation
-  - facies modeling
-  - Moki sandstone formation
+  - Deep Taranaki Basin
+  - petrophysical analysis
+  - seismic attributes
   - geomechanical modeling
-  - reservoir characterization
-techniques:
-  - seismic-interpretation
-  - well-log-analysis
-  - checkshot
-  - formation-evaluation
-  - seismic-imaging
+  - Moki formation
+  - seal integrity
+  - CO storage
+  - Upper Manganui Formation
   - geomodeling
+  - fault stability
+techniques:
+  - well-log-analysis
+  - seismic-interpretation
+  - seismic-imaging
+  - petrophysics
+  - 3d-geological-modeling
+  - geomodeling
+  - geobody-extraction
   - volumetric-estimation
-  - 3d-seismic-geomorphology
-  - seismic-facies-analysis
-  - synthetic-seismogram
   - petrel
   - techlog
   - paleoscan
-  - 3d-auto-tracking
-  - 2d-auto-tracking
-  - 1d-auto-tracking
-  - rms
-  - chaos
+  - geostatistics
   - sequential-gaussian-simulation
-  - 3d-geological-modeling
-  - geomechanics
+  - object-based-modeling
+  - fault-stability-analysis
 tags:
   - degree/ms
   - formation/moki-formation
   - formation/upper-manganui-formation
-  - formation/moki-sandstone-formation
   - location/taranaki-basin
   - technique/well-log-analysis
   - technique/seismic-interpretation
   - technique/seismic-imaging
-  - technique/formation-evaluation
-  - technique/geomodeling
+  - technique/petrophysics
+  - technique/3d-geological-modeling
+  - technique/geobody-extraction
   - technique/volumetric-estimation
   - technique/petrel
-  - technique/geobody-extraction
-  - technique/reservoir-modeling
-  - technique/3d-geological-modeling
-  - technique/geomechanics
+  - technique/techlog
+  - technique/paleoscan
+  - technique/geostatistics
+  - technique/sequential-gaussian-simulation
+  - technique/object-based-modeling
+  - technique/fault-stability-analysis
   - theme/co2-sequestration
   - theme/petrophysics
-  - theme/sedimentology
   - terminology/co2-sequestration
-  - terminology/reservoir-characterization
-  - terminology/seal-integrity
+  - terminology/petrophysics
+  - terminology/fault-stability
 status: ingested
 ---
 
-# Assessment of submarine channels for COₒ storage in the deep Taranaki Basin, New Zealand.
+# Assessment of submarine channels for CO storage in the deep Taranaki Basin, New Zealand.
 
-**Summary**: The thesis evaluates the feasibility of using Miocene-age submarine channels in the Deep Taranaki Basin, New Zealand, as sites for COₒ storage. By integrating 3D seismic data with well logs and checkshot data, the study characterizes reservoir properties (porosity/permeability), seal integrity, and geomechanical stability.
+**Summary**: The thesis evaluates the feasibility of using Miocene submarine channels in the Moki Formation within the Taranaki Basin as a site for CO2 storage. By integrating 3D seismic data, well logs, and geomechanical modeling, it characterizes reservoir properties (porosity/permeability) and seal integrity to determine suitability for carbon capture and storage.
 
 ---
 
 ## Research Problem
 
-The need for secure carbon capture and storage (CCS) sites requires identifying high-quality reservoir rocks and robust caprocks; the study specifically investigates if submarine channel deposits in the Moki Formation can serve as a viable reservoir while the Upper Manganui Formation acts as an effective seal.
+The lack of specific research on submarine channels for Carbon Capture and Storage (CCS), the absence of detailed 3D facies and property modeling for these structures in the Taranaki Basin, and the need for robust seal characterization to ensure containment safety.
 
 ## Objectives
 
 - Carry out an integrated reservoir characterization of the Miocene channels using seismic and sound data.
 - Carry out an integrated seal characterization and potential analysis
 - Produce a 3D model of the Facies and Properties of the reservoir and the seal
-- Perform petrophysical evaluation of the Miocene submarine channels within the Moki formation.
-- Conduct seismic interpretation and attribute analysis to identify lithologies for gas storage and detect faults.
-- Evaluate seal integrity and geometry for CO2 containment.
-- Estimate the volumetric capacity for CO2 storage in stratigraphic traps.
-- Evaluate petrophysical properties of the Moki Formation (reservoir) and Upper Manganui Formation (seal).
-- Interpret seismic data to identify submarine channel systems and structural features.
-- Perform 3D modeling of facies and properties to assess storage potential.
-- Characterize the Moki sandstone formation as a potential reservoir for CO\u2092 storage.
-- Evaluate the integrity of the Upper Manganui Formation as a seal (caprock).
-- Perform geomechanical modeling to assess fault stability and risk of leakage.
-- Quantify the volumetric storage capacity of identified submarine channels.
-- Assess the potential of submarine channels as reservoirs for CO2 storage.
-- Characterize the Manganui Formation as a primary regional seal.
-- Evaluate the geomechanical stability of faults within the seal to ensure containment.
+- Characterize the reservoir properties of the submarine channels within the Moki Formation.
+- Evaluate the integrity and effectiveness of the Upper Manganui Formation as a caprock for CO storage.
+- Perform geomechanical modeling to assess fault stability and potential for leakage.
 
 ## Methods
 
-Petrophysical properties (porosity, permeability, water saturation) were calculated using Techlog and upscaled using arithmetic (for porosity/saturation) and geometric (for permeability) methods. Seismic-to-well ties were performed using sonic and density logs to create synthetic seismograms. Faults and horizons were interpreted using 1D, 2D, and 3D auto-tracking. Seismic attributes (RMS and Chaos) were used to identify sand bodies and channel geometries. Facies modeling was conducted in Petrel using object-based stochastic modeling for the reservoir (guided by RMS maps) and sequential indicator simulation (SIS) for the seal.
+The study utilized high-resolution 3D offshore seismic data (Tui-3D Field) and well log data from five wells. Petrophysical evaluation was performed using standard equations for Gamma Ray index, volume of shale, porosity (density/neutron), formation factor, water saturation, and permeability (Wyallice-Rose method). Seismic interpretation included synthetic seismograms for well-to-seismic ties, fault identification, and horizon picking. Seismic attribute analysis utilized RMS and Chaos attributes to identify lithologies and channel geometries. 3D geocellular modeling was performed in Petrel to visualize structural elements and property distribution. Geobody extraction via Paleoscan was used for volumetric estimation of storage capacity.
 
 ## Data and Materials
 
-3D seismic data from the Tui-3D field; 10 identified submarine channels (A through J) within the Moki Formation; reservoir property models including porosity, permeability, and water saturation; geomechanical fault stability analysis results.
+Data includes seismic data from the Tui-3D field, well logs (Gamma Ray, porosity, water saturation) from multiple wells in the Moki Formation and Upper Manganui Formation, and 3D geomodels of ten identified submarine channels (A through J).
 
 ## Key Findings
 
-- The reservoir (Moki Formation) shows an average effective porosity of 15% to 22% and average permeability between 30 mD and 195 mD. ([[2024-maigana|Maigana, 2024, p. 12]])
-- The seal (Upper Manganui formation) exhibits a lower average effective porosity of 3% to 5% and permeability ranging from 0.1 to 0.4 mD. ([[2024-maigana|Maigana, 2024, p. 12]])
-- Geomechanical modeling of faults shows a slip tendency of 0.11%, an average dilation tendency of 0.5%, and a distance to failure of approximately 2000 psi. ([[2024-maigana|Maigana, 2024, p. 12]])
-- The results indicate that the faults can tolerate COₒ injection pressures without risk of leakage due to high seal integrity and fault stability. ([[2024-maigana|Maigana, 2024, p. 12]])
-- RMS amplitude maps show a distribution of sandy intervals within channels, while Chaos attribute maps identify sedimentary textures around the channel boundaries. ([[2024-maigana|Maigana, 2024, p. 8]])
-- The Moki formation contains sandstones characterized by a coarsening upward sequence indicating channel progradation. ([[2024-maigana|Maigana, 2024, p. 29]])
-- Moki A sandstone is characterized by complex submarine channel complexes trending in the NW-SE. ([[2024-maigana|Maigana, 2024, p. 29]])
-- The Tui-3D survey covers approximately 352.195 square kilometers with an average water depth of 130 meters. ([[2024-maigana|Maigana, 2024, p. 32]])
-- Petrophysical analysis targets the Moki formation at depths between 2500 and 2800 meters. ([[2024-maigana|Maigana, 2024, p. 37]])
-- Seismic attributes like RMS and sweetness are used to identify anomalies linked to lithology variations or potential hydrocarbons. ([[2024-maigana|Maigana, 2024, p. 40]])
-- The Moki Formation reservoir exhibits average effective porosity of 15-22% and permeability ranging from 30 to 195 mD. ([[2024-maigana|Maigana, 2024, p. 42]])
-- Water saturation in the Moki Formation ranges from 79% to 93%, indicating a water-wet nature of the channel complexes. ([[2024-maigana|Maigana, 2024, p. 42]])
-- The Upper Manganui Formation (seal) has average effective porosity of 3-6%, permeability of 0.1-0.4 mD, and water saturation of 95-99%. ([[2024-maigana|Maigana, 2024, p. 43]])
-- Only five faults were identified in the Tui Field area, mostly showing minor displacements and a NW-SW trend. ([[2024-maigana|Maigana, 2024, p. 45]])
-- The Moki A and Moki B sandstones are characterized by high-energy depositional environments as evidenced by well-sorted sands and distinct blocky Gamma Ray patterns. ([[2024-maigana|Maigana, 2024, p. 48]])
+- The Moki Formation reservoir exhibits average effective porosity between 15% and 22% and permeability between 30 mD and 195 mD. ([[2024-maigana|Maigana, 2024, p. 42]])
+- The seal (Upper Manganui Formation) shows a range of 3-6% average effective porosity and very low permeability of 0.1 to 0.4 mD. ([[2024-maigana|Maigana, 2024, p. 43]])
+- Water saturation in the reservoir ranges from 79% to 93%, reflecting its water-wet nature. ([[2024-maigana|Maigana, 2024, p. 42]])
+- Geomechanical modeling of fault stability showed a slip tendency of 0.11%, an average dilation tendency of 0.5%, and a distance to failure of approximately 2000 psi. ([[2024-maigana|Maigana, 2024, p. 12]])
+- The study identified only five faults in the Tui Field, most with minor displacements, suggesting low risk for leakage near wellbores. ([[2024-maigana|Maigana, 2024, p. 45]])
+- RMS attribute maps showed high amplitude (blue/black) within channel intervals and overbank sand deposits. ([[2024-maigana|Maigana, 2024, p. 50]])
+- Chaos attributes identified non-consistent patterns to highlight discontinuities like faults and channels. ([[2024-maigana|Maigana, 2024, p. 50]])
+- Water saturation in the Moki Formation averages around 85%, indicating a largely water-wet system favorable for CO injectivity. ([[2024-maigana|Maigana, 2024, p. 70]])
+- The Upper Manganui Formation (seal) shows an average effective porosity of 4.4% and a permeability of 0.18 mD, confirming its role as an effective caprock. ([[2024-maigana|Maigana, 2024, p. 71]])
+- Water saturation in the seal is high (98%), typical of shaly formations with high clay content. ([[2024-maigana|Maigana, 2024, p. 71]])
+- Fault stability analysis showed a maximum slip tendency of 0.11%, indicating that faults are stable and unlikely to act as pathways for CO migration. ([[2024-maigana|Maigana, 2024, p. 71]])
+- The distance to failure for faults was calculated at approximately 220 bar (3190.84 psi), significantly higher than the expected injection pressures. ([[2024-maigana|Maigana, 2024, p. 71]])
+- Ten identified submarine channels were quantified, with total volumes reaching 1.63 billion m³ of rock. ([[2024-maigana|Maigana, 2024, p. 82]])
+- The theoretical storage capacity for the identified channels is estimated at 22,790,087 million tonnes (Mt) when applying a capacity coefficient of 1.4%. ([[2024-maigana|Maigana, 2024, p. 83]])
 
 ## Limitations
 
-The Upper Manganui Formation is poorly understood due to its occurrence primarily in the offshore portion of the Taranaki Basin; there is a lack of extensive research specifically where it overlies the Moki Formation.
+Lack of physical core samples for the seal, which limited the study's ability to perform laboratory experiments for seal capacity analysis; reliance on geomechanical modeling for fault stability instead of direct testing.
 
 ## Recommendations and Future Work
 
-The study suggests that submarine channels can complement existing formations to ensure permanent storage of COₒ gas and provide a basis for informed data-based interventions to mitigate climate change impacts.
+More logging within the channel intervals is recommended to better understand internal heterogeneity, along with more data integration and dynamic modeling of CO behavior during injection.
 
 ## Related Concepts
 
 - [[well-log-analysis]]
 - [[seismic-interpretation]]
-- [[seismic-attribute-analysis]]
-- [[geomodeling]]
-- [[co2-sequestration]]
-- [[reservoir-characterization]]
-- [[taranaki-basin]]
-- [[geobody-extraction]]
+- [[seismic-imaging]]
+- [[3d-geological-modeling]]
 - [[moki-formation]]
-- [[seal-integrity]]
-- [[upper-manganui-formation]]
+- [[taranaki-basin]]
+- [[co2-sequestration]]
+- [[petrophysics]]
 - [[petrel]]
-- [[reservoir-modeling]]
-- [[moki-sandstone-formation]]
-- [[geophysics-general]]
+- [[sequential-gaussian-simulation]]
+- [[fault-stability]]
+- [[upper-manganui-formation]]

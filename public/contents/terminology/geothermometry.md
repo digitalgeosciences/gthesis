@@ -3,45 +3,43 @@ type: terminology
 title: "Geothermometry"
 aliases:
   - "chemical geothermometers"
-  - "cation-based geothermometry"
-  - "silica-based geothermometry"
 canonical: true
-definition: "The use of chemical indicators (ions like Na, K, Mg or minerals like silica) to calculate temperature based on solubility and exchange reactions."
-units: "°C"
+definition: "temperature estimation via chemical indicators"
+units: "Not applicable"
 related_techniques:
   - "hydrochemical-analysis"
 tags:
-  - theme/hydrogeology
+  - theme/geothermal-energy
 sources:
   - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Geothermometry
 
-**Summary**: Estimation of subsurface reservoir temperatures based on the chemical composition of fluids.
+**Summary**: The estimation of reservoir temperatures using chemical indicators.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-rafiq|Rafiq, 2023]] employed various geothermometers to estimate the temperature of the Al-Lith geothermal system.
+- [[2023-rafiq|Rafiq, 2023]] applied geothermometry to estimate the temperature of the Al-Lith geothermal system.
 
 ## Scientific Context
 
-- [[2023-rafiq|Rafiq, 2023]] Crucial for determining the depth and viability of geothermal reservoirs.
+- [[2023-rafiq|Rafiq, 2023]] essential for determining the depth and heat of the reservoir.
 
 ## Measurement and Characterization Methods
 
-- [[2023-rafiq|Rafiq, 2023]] Calculation using K-Mg, Na-K-Ca, and quartz geothermometers.
+- [[2023-rafiq|Rafiq, 2023]] calculated from concentrations of Si, Na, K, Mg, and Ca.
 
 ## Key Findings Across Sources
 
-- Quartz-based geothermometry provided a more consistent estimation of 150 °C compared to cation-based methods. ([[2023-rafiq|Rafiq, 2023, p. 96]])
+- Quartz-based geothermometers provided a more consistent estimate of 150°C compared to cation-based methods. ([[2023-rafiq|Rafiq, 2023, p. 96]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

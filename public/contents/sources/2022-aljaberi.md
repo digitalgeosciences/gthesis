@@ -1,0 +1,155 @@
+---
+type: source
+id: "142282"
+title: "Development of Drilling Fluid Formulation for High Pressure Drilling Applications"
+author: "Muhammad Aliyu Suleiman; Jaber Al Jaberi"
+year: 2022
+department: "Petroleum Engineering"
+degree: "PhD"
+supervisor: "Prof. Salaheldin Elkatatny"
+committee_members: []
+source_file: "raw/142282 - Development of Drilling Fluid Formulation for High Pressure Drilling Application.pdf"
+url: "https://eprints.kfupm.edu.sa/142282"
+study_area: "Not stated in source"
+keywords:
+  - drilling fluid
+  - high pressure
+  - weighting material
+  - barite
+  - hematite
+  - Micromax
+  - rheology
+  - filtration
+  - filter cake
+  - Ilmenite
+  - Perlite
+  - High Pressure Drilling
+  - Sagging
+  - Manganese Tetroxide (Micromax)
+  - Formation Damage
+  - filtration properties
+  - barite-weighted
+  - solid invasion
+techniques:
+  - viscosity-measurement
+  - rheology-measurement
+  - sem-eds
+  - sieve-analysis
+  - xrf
+  - nmr
+  - hpht-filter-press
+  - xrd
+  - sem
+  - filtration-analysis
+  - particle-size-distribution
+  - analytical-measurement
+  - filtration-test
+  - psd
+  - core-analysis
+  - ct-scanning
+  - petrophysics
+tags:
+  - degree/phd
+  - technique/viscosity-measurement
+  - technique/rheology-measurement
+  - technique/sem-eds
+  - technique/sieve-analysis
+  - technique/xrf
+  - technique/nmr
+  - technique/xrd
+  - technique/sem
+  - technique/filtration-analysis
+  - technique/particle-size-distribution
+  - technique/filtration-test
+  - technique/petrophysics
+  - technique/core-analysis
+  - technique/ct-scanning
+  - theme/petroleum-engineering
+  - theme/drilling-engineering
+  - terminology/rheology
+  - terminology/filter-cake
+  - terminology/petroleum-engineering
+  - terminology/viscosity
+  - terminology/yield-point
+  - terminology/sagging
+  - terminology/sag-factor
+  - terminology/sag
+  - terminology/filtration-volume
+  - terminology/pore-structure
+status: ingested
+---
+
+# Development of Drilling Fluid Formulation for High Pressure Drilling Applications
+
+**Summary**: The thesis investigates the use of perlite as an additive in water-based drilling fluids (WBM) weighted with hematite and ilmenite to improve rheological properties, reduce sagging, and enhance filter cake quality. The study concludes that perlite effectively reduces filtration volume, improves yield point, and provides a stable formulation for high-pressure, high-temperature (HPHT) environments.
+
+---
+
+## Research Problem
+
+High-pressure, high-temperature (HPHT) wells require high-density drilling fluids, which often lead to issues with rheological stability, sagging of weighting materials, and poor filter cake formation. The study addresses the need for a stable formulation that maintains performance under extreme conditions while minimizing formation damage.
+
+## Objectives
+
+- Determine the effect of weighting material characteristics (type, concentration, particle size, and distribution) on drilling fluid properties (rheology and filtration).
+- Evaluate the formation damage caused by the weighting material through filter cake features (building mechanism, thickness, porosity, permeability, and solid invasion).
+- Optimize the existing formulation from rheology and filtration perspectives using alternative weighting materials or new solutions.
+- Evaluate the impact of hematite concentration on the properties of water-based drilling fluids (density, rheology, filtration).
+- Assess the addition of perlite to hematite-based mud to mitigate sagging and improve overall drilling properties.
+- Assess the performance of perlite as an anti-sagging agent in high-density muds.
+
+## Methods
+
+The study involved preparing three different water-based mud formulations with varying concentrations of hematite (250, 350, and 450 lb/bbl) and ilmenite (250, 350, and 450 gm). Characterization of materials included particle size distribution (PSD), XRF for chemical composition, XRD for mineralogy, and SEM for morphology. Rheological properties (AV, PV, YP, gel strength) were measured using a Grace viscometer before and after thermal aging at 250°F for 16 hours. Filtration tests were conducted to determine filtration volume, filter cake thickness, porosity, and permeability. Analytical models including Bingham, Power Law, and Herschel-Bulkley were used to characterize the non-Newtonian behavior of the fluids.
+
+## Data and Materials
+
+The study utilized two types of core samples (sandstone and carbonate), four weighting materials (Micromax, ilmenite, hematite, barite), and various drilling fluid additives including xanthan gum, bentonite, starch, and potassium hydroxide. Experimental data included filtration volumes at 5 and 30 minutes, filter cake thickness measurements, and NMR T2 distribution analysis.
+
+## Key Findings
+
+- Barite dosage of 250g, 350g, and 450g resulted in drilling mud densities of 13.9, 15.6, and 17.5 ppg, respectively. ([[2022-aljaberi|AlJaberi, 2022, p. 43]])
+- The pH value increased with barite concentration, reaching 11.35 and 11.41 for dosages of 350g and 450g. ([[2022-aljaberi|AlJaberi, 2022, p. 43]])
+- Filter cake thickness increased from 2.45 mm to 5.02 mm as barite dosage increased from 250g to 450g. ([[2022-aljaberi|AlJaberi, 2022, p. 44]])
+- Filter cake porosity showed an inverse relationship with barite dosage, decreasing from 0.53 to 0.21 for dosages of 250g, 350g, and 450g. ([[2022-aljaberi|AlJaberi, 2022, p. 44]])
+- Filter cake permeability followed an exponential relationship with barite dosage: kFc = 0.0078 * exp(0.0055 * Barite_dosage). ([[2022-aljaberi|AlJaberi, 2022, p. 44]])
+- The filtration volume was predicted by the correlation: Filtration Volume = 5.8699 * exp(0.0018 * Barite_dosage). ([[2022-aljaberi|AlJaberi, 2022, p. 45]])
+- Filter cake thickness was estimated using: Tfc = 0.9869 * exp(0.0035 * Barite_dosage). ([[2022-aljaberi|AlJaberi, 2022, p. 45]])
+- Plastic viscosity (PV) increased from 26.21 to 38.98 cP as barite dosage rose from 250g to 450g. ([[2022-aljaberi|AlJaberi, 2022, p. 46]])
+- Yield point (YP) increased linearly with barite dosage, reaching 30.4 lb/ft² at a dosage of 450g. ([[2022-aljaberi|AlJaberi, 2022, p. 46]])
+- The YP/PV ratio for 350g and 450g dosages were 0.95 and 0.75, respectively, both meeting the recommended minimum of 0.75. ([[2022-aljaberi|AlJaberi, 2022, p. 46]])
+- A 100 g/cm³ increase in barite dosage resulted in a density increase of approximately 1.7 ppg. ([[2022-aljaberi|AlJaberi, 2022, p. 51]])
+- Increasing hematite concentration by 100 lb/bbl resulted in an approximate 0.9 ppg increase in drilling fluid density (Sample-1: 14.5 ppg, Sample-2: 15.4 ppg, Sample-3: 16.3 ppg). ([[2022-aljaberi|AlJaberi, 2022, p. 58]])
+- The Herschel-Bulkley model exhibited the best ability to fit the mud formulations' rheology, showing the highest R2 and lowest RMSE for all samples. ([[2022-aljaberi|AlJaberi, 2022, p. 79]])
+- Filter cake thickness increased with hematite concentration: Sample-1 (1.83 mm), Sample-2 (4.55 mm), and Sample-3 (10.31 mm). ([[2022-aljaberi|AlJaberi, 2022, p. 84]])
+- Filter cake porosity decreased with the addition of ilmenite, likely due to denser packing of particles at higher concentrations. ([[2022-aljaberi|AlJaberi, 2022, p. 85]])
+
+## Limitations
+
+The study noted that the exact values for surface relaxivity (rho) used in NMR calculations are approximations from literature; precise values would be required for higher accuracy in filtration loss properties.
+
+## Recommendations and Future Work
+
+The research suggests that perlite is an effective and economical addition to both barite-weighted and Mic1romax-based drilling fluids, with 1-3 lb/bbl being the optimal range depending on specific fluid density requirements.
+
+## Related Concepts
+
+- [[viscosity-measurement]]
+- [[sem-eds]]
+- [[rheology]]
+- [[filter-cake]]
+- [[petroleum-engineering]]
+- [[drilling-engineering]]
+- [[xrd]]
+- [[sem]]
+- [[xrf]]
+- [[viscosity]]
+- [[yield-point]]
+- [[sagging]]
+- [[rheology-measurement]]
+- [[filtration-test]]
+- [[sag-factor]]
+- [[nmr]]
+- [[sag]]
+- [[filtration-volume]]
+- [[pore-structure]]

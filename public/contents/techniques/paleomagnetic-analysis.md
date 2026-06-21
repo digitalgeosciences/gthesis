@@ -2,19 +2,18 @@
 type: technique
 title: "Paleomagnetic Analysis"
 aliases:
-  - "paleomagnetics"
-  - "demagnetization"
+  - "paleomagnetism"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "inclination and declination values"
+output: "inclination, declination, and $\gamma_{95}$ values"
 tags:
   - technique/paleomagnetic-analysis
   - theme/paleomagnetism
 sources:
   - "raw/10050 - A paleomagnetic study of central Harrat Rahat, Western Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Paleomagnetic Analysis
@@ -25,7 +24,7 @@ last_updated: 2026-06-08
 
 ## How It Is Used in the Thesis Collection
 
-- [[1993-kaka|Kaka, 1993]] used paleomagnetic-analysis to determine mean direction of magnetization for 8 normal polarity sites.
+- [[1993-kaka|Kaka, 1993]] used paleomagnetic-analysis to determine mean direction and intensity of magnetization in Cenozoic basaltic flows.
 
 ## Instruments and Software
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Mean direction of magnetization has an inclination of 38.5 and declination of 353.2 with a 95% confidence level of 5.4. ([[1993-kaka|Kaka, 1993, p. 18]])
+- Mean direction of magnetization has an inclination of 38.5 and declination of 353.2 with a $\gamma_{95}$ of 5.4. ([[1993-kaka|Kaka, 1993, p. 18]])
 
 ## Methodological Variations Across Sources
 

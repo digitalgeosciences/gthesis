@@ -12,59 +12,51 @@ committee_members:
   - "Abdullatif Al-Shuhail"
 source_file: "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/141409/"
-study_area: "Well 15/9-19 A, North Sea (Note: The title mentions CO2 sequestration sites, but the provided text focuses on a specific well in the North Sea for ANN training.)"
+study_area: "Volve field, Norwegian continental shelf"
 keywords:
-  - CO2 Sequestration
-  - Big Data
+  - CO2 sequestration
+  - Big Data analytics
   - Artificial Intelligence
+  - well log data
+  - core data
+  - seismic data
+  - Big Data
   - Neural Networks
-  - Petrophysics
-  - Well log data
-  - Core data
-  - Seismic data
-  - Reservoir properties
   - Fuzzy Logic
-  - Seismic Analysis
-  - Artificial Neural Networks (ANN)
-  - Permeability prediction
-  - Big Data Analytics
-  - Artificial Neural Networks
   - Well Log Analysis
-  - Lithology Classification
+  - Permeability Prediction
+  - Artificial Neural Networks
+  - Lithology classification
+  - Artificial Neural Networks (ANN)
   - Porosity prediction
-  - Environmental Analysis
-  - Machine Learning
-  - Petroleum Engineering
 techniques:
   - neural-networks
-  - matlab
+  - fuzzy-logic
+  - petrophysics
   - well-log-analysis
   - core-analysis
-  - seismic-interpretation
+  - se-interpretation
   - machine-learning-geoscience
-  - fuzzy-logic
+  - matlab
   - statistical-analysis
 tags:
   - degree/ms
-  - location/saudi-arabia
+  - formation/hugin-formation
   - location/north-sea
-  - location/northsea-region
   - location/norwegian-continental-shelf
   - technique/neural-networks
-  - technique/matlab
+  - technique/fuzzy-logic
   - technique/well-log-analysis
   - technique/core-analysis
   - technique/seismic-interpretation
   - technique/machine-learning-geoscience
-  - technique/fuzzy-logic
+  - technique/matlab
   - technique/statistical-analysis
   - theme/co2-sequestration
   - theme/machine-learning-geoscience
-  - theme/environmental-geoscience
   - theme/petrophysics
-  - terminology/co2-sequestration
-  - terminology/permeability
   - terminology/porosity
+  - terminology/permeability
   - terminology/petrophysics
   - terminology/lithology
 status: ingested
@@ -72,103 +64,68 @@ status: ingested
 
 # LOCATING IDEAL CO2 SEQUESTRATION SITES: AN INTEGRATED ENVIRONMENTAL-BIG DATA ANALYTICS APPROACH
 
-**Summary**: The thesis investigates the use of Artificial Neural Networks (ANN) to predict core porosity and permeability from well log data (GR, RHOB, NPHI) to identify suitable CO2 sequestration sites. The study concludes that a single-layered ANN with 18 neurons and a log-sigmoidal transfer function effectively predicts these properties, providing a methodology for characterizing potential storage sites.
+**Summary**: The thesis explores the use of Big Data analytics and Artificial Intelligence (AI) techniques, specifically Artificial Neural Networks (ANN) and Fuzzy Logic, to identify potential CO2 sequestration sites. The study focuses on using well log, core, and seismic data to evaluate reservoir properties like porosity and permeability in a way analogous to hydrocarbon exploration.
 
 ---
 
 ## Research Problem
 
-The identification of suitable geological formations for long-term CO2 sequestration is complicated by the need for high permeability and reliable containment. The study addresses how to efficiently predict permeability from available well log data (GR, RHOB, NPHI) using ANN models to streamline site selection in the context of carbon capture and storage (CCS).
+Identifying suitable locations for CO2 sequestration requires accurate characterization of reservoir properties (permeability) and lithology, which can be challenging in areas with limited core data or where large-scale screening is required. The study addresses how to use machine learning to automate this process using available well log data.
 
 ## Objectives
 
-- Use Big Data analytics to identify high-quality lithologies for sequestration sites.
-- Predict formation permeability using Artificial Neural Networks (ANN).
-- Classify lithology types using ANN models.
-- Predict porosity values using ANN models.
-- Utilize Big Data analytics to identify potential CO2 sequestration reservoirs.
-- Predict formation permeability from core plugs using a single-layered ANN model.
-- Classify lithology using well log data and ANN models to determine suitability for CO2 movement.
-- Predict porosity values from well log data using ANN models to estimate storage capacity.
-- Identify potential CO2 sequestration reservoirs by utilizing available Big Data (well log data, core data, and seismic data) analytics and Artificial Intelligence techniques from the Upstream Oil & Gas Industry.
-- Develop a general workflow for locating suitable CO2 sequestration sites using existing industrial data.
-- Integrate artificial intelligence techniques (neural networks and fuzzy logic) to analyze large-scale datasets.
-- Utilize petrophysical, seismic, and core data to evaluate reservoir potential.
-- Evaluate various geological and geophysical factors influencing CO2 sequestration site selection.
-- Develop an Artificial Neural Network (ANN) model to predict permeability from well log data.
-- Compare the performance of different ANN architectures and training methods for permeability prediction.
-- Digitize well log images into usable data points.
-- Perform statistical analysis on log data to identify correlations with permeability.
-- Develop an Artificial Neural Network (ANN) model to predict permeability.
-- Evaluate the impact of different data transformations (e.g., logarithmic scaling) and network architectures on prediction accuracy.
-- Predict core formation permeability from well log data (GR, RHOB, NPHI) using a model-based approach.
-- Classify lithology into target categories (e.g., sandstone, carbonate) to evaluate reservoir suitability for CO2 storage.
-- Evaluate the performance of different ANN configurations and transfer functions in predicting permeability.
-- Classify lithology types using a two-layer feed-forward neural network based on GR, RHOB, and NPHI logs.
-- Predict porosity values in wellbores using an artificial neural network (ANN) trained on core data.
-- Evaluate the performance of ANN models using metrics such as cross-entropy error, correlation coefficient (CC), RMSE, and AAPE.
-- Develop a methodology to locate suitable CO2 sequestration sites using integrated environmental-big data analytics.
-- Predict formation permeability from core plugs in an exploratory well using a single-layered ANN model.
-- Classify lithology based on log data to characterize the reservoir environment.
-- Predict porosity values from well log data using a single layered Artificial Neural Network (ANN)
-- Classify lithology to determine suitable CO2 sequestration sites
-- Integrate environmental and big data analytics to identify ideal storage locations
-- Identify ideal sites for CO2 sequestration using an integrated approach.
-- Utilize big data analytics to process large-scale environmental datasets.
-- Develop and implement machine learning models (ANN) to evaluate potential sequestration sites.
+- Identify potential CO2 sequestration reservoirs using available Big Data analytics and Artificial Intelligence techniques.
+- Utilize well log data, core data, and seismic data to evaluate reservoir properties (lithology, permeability, extension, and net-to-gross ratio).
+- Develop a general workflow to locate suitable CO2 sequestration sites using big data from the oil and gas industry.
+- Utilize artificial intelligence techniques, specifically neural networks and fuzzy logic, for site characterization.
+- Predict formation permeability from well log data (GR, RHOB, NPHI) as a proxy for evaluating reservoir quality.
+- Predict core formation permeability from well log data using a single layered ANN model.
 
 ## Methods
 
-The study utilizes Artificial Neural Networks (ANN) to predict permeability and classify lithology. Data from 557 sample points were extracted from three well logs: Gamma Ray (GR), Bulk Density (RHOB), and Neutron Porosity (NPHI). The ANN models were implemented using the MATLAB Neural Network Toolbox. For permeability prediction, a single-layered ANN was used with an optimal configuration of 18 neurons in the hidden layer and a log-sigmoidal transfer function. For lithology classification, a two-layer feed-forward network was trained using the scaled conjugate back-propagation algorithm. Performance metrics included Confusion Matrices, Receiver Operating Characteristic (ROC) curves, Correlation Coefficients (CC), Root Mean Square Error (RMSE), and Average Absolute Percentage Error (AAPE).
+The study utilized a dataset of 557 samples from Well 15/9-19 A in the Volve field. Data preparation included checking for depth shifts, performing initial statistical analysis (mean, median, variance, etc.), and applying logarithmic transformations to GR, RHOB, and NPHI logs before training. Two separate ANN models were developed: a single-layer network using the Levenberg-Marquardt algorithm to predict permeability, and a two-layer feed-forward network with sigmoid hidden and softmax output neurons (using the 'patternnet' tool in MATLAB) to classify lithology. The results were evaluated using correlation coefficients (CC), Root Mean Squared Error (RMSE), Average Absolute Percentage Error (AAPE), Confusion Matrices, and Receiver Operating Characteristic (ROC) curves.
 
 ## Data and Materials
 
-The study utilizes large-scale environmental datasets and well log data (Gamma Ray, Density, Neutron Porosity) for training and testing in the ANN model. Specific MATLAB scripts were used to calculate statistical parameters like mean, standard deviation, skewness, and kurtosis for various logs.
+The thesis references several datasets: 1. A dataset of 557 points used for training an ANN model to predict permeability from GR, RHOB, and NPHI logs in the Volve field (Norway). 2. A dataset of 664 core plugs used to calibrate a neural network for porosity prediction. 3. General industry-standard data types including seismic volumes, well log curves, and lithology descriptions.
 
 ## Key Findings
 
-- The study identifies four key criteria for locating a reservoir: Good Quality Lithologies, Favorable Permeability, Reservoir Extension, and Net-to-Gross Ratio. ([[2020-abdallah|Abdallah, 2020, p. 14]])
-- The research establishes three main categories for site selection: Locating the Reservoir (lithology/permeability), Locating the Seal (low permeability/thickness), and Locating the Trap (structural/stratigraphic features). ([[2020-abdallah|Abdallah, 2020, p. 14]])
-- ANN models were used to predict permeability, with results evaluated using R-squared (R2), Average Absolute Percentage Error (AAPE), and Root Mean Squared Error (RMSE). ([[2020-abdallah|Abdallah, 2020, p. 34]])
-- Lithology classification was performed using a two-layer feed-forward network with sigmoid hidden and softmax output neurons. ([[2020-abdallah|Abdallah, 2020, p. 68]])
-- Porosity prediction was conducted via ANN to evaluate the performance of different scenarios (Case 32) for potential sequestration zones. ([[2020-abdallah|Abdallah, 2020, p. 89]])
-- A single-layered ANN model with 18 neurons and a log-sigmoidal transfer function was determined to be optimal for predicting permeability from GR, RHOB, and NPHI logs. ([[2020-abdallah|Abdallah, 2020, p. 15]])
-- The optimum number of randomly selected data points from the total of 557 data points for permeability prediction was found to be 225. ([[2020-abdallah|Abdallah, 2020, p. 15]])
-- A single-layered ANN model using a tan-sigmoid transfer function and 18 neurons achieved a correlation coefficient (CC) of 0.808, an RMSE of 0.055, and an AAPE of 5.94 for predicting porosity. ([[2020-abdallah|Abdallah, 2020, p. 17]])
-- Lithology plays a major role in rock properties such as permeability and porosity, making its classification via ANN critical for determining CO2 movement potential. ([[2020-abdallah|Abdallah, 2020, p. 15]])
-- The storage capacity of unmineable coal seams is relatively low (less than 2% of required storage) compared to other reservoir types. ([[2020-abdallah|Abdallah, 2020, p. 23]])
-- Saline water aquifers are estimated to have a potential storage capacity ranging from 400 to 10,000 Gt of CO2 (20% to 500% of the required amount). ([[2020-abdallah|Abdallah, 2020, p. 24]])
-- Artificial Neural Networks (ANN) can be used to improve estimations and predictions of reservoir properties such as porosity and permeability by using well log and seismic data. ([[2020-abdallah|Abdallah, 2020, p. 31]])
-- Fuzzy logic is capable of handling incomplete data and imprecise information that commonly characterizes the exploration of hydrocarbons. ([[2020-abdallah|Abdallah, 2020, p. 26]])
-- A hybrid system using type-2 fuzzy logic (type-2 FLS) showed better performance in modeling and predicting reservoir parameters like permeability compared to individual models. ([[2020-abdallah|Abdallah, 2020, p. 32]])
-- Combining seismic and log data shows better results in estimating reservoir permeability compared to using only one of these datasets. ([[2020-abdallah|Abdallah, 2020, p. 32]])
+- An ANN model with one hidden layer (18 neurons) and a log-sigmoidal transfer function was determined as optimal for predicting permeability from GR, RHOB, and NPHI logs in the Volve field. ([[2020-abdallah|Abdallah, 2020, p. 15]])
+- A neural network using three input logs (GR, RHOB, NPHI) achieved a correlation coefficient (CC) of 0.808, an RMSE of 0.055, and an AAPE of 5.94 for predicting porosity from core data. ([[2020-abdallah|Abdallah, 2020, p. 17]])
+- Fuzzy logic was identified as a superior method for estimating reservoir permeability compared to multilinear regression or direct correlation with effective porosity. ([[2020-abdallah|Abdallah, 2020, p. 32]])
+- Combining seismic and log data in an ANN framework resulted in better results for predicting reservoir permeability than using either dataset alone. ([[2020-abdallah|Abdallah, 2020, p. 32]])
+- The Volve field achieved a recovery rate of 54% and produced approximately 9.5 million barrels of oil beyond expectations. ([[2020-abdallah|Abdallah, 2020, p. 39]])
+- Well 15/9-19 A provided core samples from the Hugin formation at depths between 3838 m and 4017 m. ([[2020-abdallah|Abdallah, 2020, p. 56]])
+- The study utilized three specific well logs—gamma ray (GR), bulk density (RHOB), and neutron porosity (NPHI)—to predict permeability from 557 core plugs. ([[2020-abdallah|Abdallah, 2020, p. 54]])
+- A single-layered artificial neural network (ANN) was used to train 70% of the data points with a 30% hold-out for testing. ([[2020-abdallah|Abdallah, 2020, p. 48]])
+- The core analysis on Well 15/9-19 A included measurements for gas and liquid permeability, porosity, grain density, and formation resistivity factor. ([[2020-abdallah|Abdallah, 2020, p. 56]])
+- Logarithmic transformation of permeability values significantly improved correlation coefficients for all inputs, with a 1,626.8% increase in CC for neutron porosity. ([[2020-abdallah|Abdallah, 2020, p. 50]])
+- The optimal ANN configuration for permeability prediction included 18 neurons in the hidden layer and a log-sigmoidal transfer function. ([[2020-abdallah|Abdallah, 2020, p. 58]])
+- A core permeability cut-off of 10 mD was established as a standard for identifying suitable CO2 sequestration zones. ([[2020-abdallah|Abdallah, 2020, p. 58]])
+- The lithology classification model achieved an overall accuracy of 61.8% across five classes, with the highest performance in the dolomite class. ([[2020-abdallah|Abdallah, 2020, p. 65]])
+- A correlation coefficient (CC) of -0.3524 for bulk density was improved to -0.6585 after applying a logarithmic transformation. ([[2020-abdallah|Abdallah, 2020, p. 50]])
+- The ANN model for lithology classification achieved an overall classification accuracy of 61.8%, with a 38.2% misclassification rate. ([[2020-abdallah|Abdallah, 2020, p. 95]])
 
 ## Limitations
 
-The lithology classification accuracy was limited by an imbalanced dataset where sandstone dominated the samples, leading to over-prediction of that class. Additionally, the sample size for some lithologies (e.g., coal and siltstone) was too small for the network to generalize effectively.
+The lithology classification model showed poor performance in identifying coal and siltstone due to an imbalanced dataset where sandstone instances dominated the training data (325 out of 557 samples).
 
 ## Recommendations and Future Work
 
-To improve results, the author suggests using a larger and more balanced dataset for lithology classification to allow the neural network to better distinguish between less frequent rock types.
+Future work should focus on characterizing a full sequestration site by identifying seals and traps through seismic data and additional log/core analysis of thickness and structure.
 
 ## Related Concepts
 
-- [[ann]]
-- [[matlab]]
-- [[co2-sequestration]]
-- [[permeability]]
-- [[machine-learning-geoscience]]
-- [[saudi-arabia]]
-- [[well-log-analysis]]
-- [[porosity]]
-- [[environmental-geoscience]]
-- [[core-analysis]]
-- [[seismic-interpretation]]
-- [[machine-learning]]
 - [[neural-networks]]
 - [[fuzzy-logic]]
+- [[porosity]]
+- [[permeability]]
+- [[co2-sequestration]]
+- [[machine-learning-geoscience]]
+- [[norwegian-continental-shelf]]
+- [[well-log-analysis]]
+- [[hugin-formation]]
 - [[north-sea]]
 - [[petrophysics]]
 - [[lithology]]
-- [[northsea-region]]
-- [[norwegian-continental-shelf]]

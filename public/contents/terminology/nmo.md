@@ -1,6 +1,6 @@
 ---
 type: terminology
-title: "Nmo"
+title: "NMO"
 aliases:
   - "normal move out"
 canonical: true
@@ -8,45 +8,46 @@ definition: "The time difference between the travel time at zero offset and that
 units: "seconds (s)"
 related_techniques:
   - "velocity-analysis"
+  - "signal-processing"
 tags:
-  - theme/seismology
+  - theme/seismic-imaging
 sources:
   - "raw/141744 - LINEAR SEMBLANCE VELOCITY ANALYSIS IN THE T2–X2 DOMAIN CONCEPT AND APPLICATIONS .pdf"
   - "raw/142484 - Velocity Estimation from Surface-Consistent Statics.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
-# Nmo
+# NMO
 
-**Summary**: The difference in travel time between a reflection and the surface at different offsets.
+**Summary**: The difference in travel time between a reflection at zero offset and the same reflection at a non-zero offset.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2020-alzahrani|Alzahrani, 2020]] analyzed NMO to determine velocity for correction of seismic data.
+- [[2020-alzahrani|Alzahrani, 2020]] used nmo to correct for differences in arrival times across different offsets.
 
-- [[2023-muhammad|Muhammad, 2023]] analyzed NMO to correct for the timing differences caused by varying offset distances.
+- [[2023-muhammad|Muhammad, 2023]] analyzed nmo to correct for the travel-time differences caused by offset.
 
 ## Scientific Context
 
-- [[2020-alzahrani|Alzahrani, 2020]] Essential for correcting seismic data to align reflections from different offsets.
+- [[2020-alzahrani|Alzahrani, 2020]] Essential for aligning reflections in a common midpoint gather to create a coherent image.
 
-- [[2023-muhammad|Muhammad, 2023]] analyzed NMO to correct for the timing differences caused by varying offset distances.
+- [[2023-muhammad|Muhammad, 2023]] analyzed nmo to correct for the travel-time differences caused by offset.
 
 ## Measurement and Characterization Methods
 
-- [[2020-alzahrani|Alzahrani, 2020]] Determined by fitting a hyperbola or using the t2-x2 domain.
+- [[2020-alzahrani|Alzahrani, 2020]] Calculated by fitting a hyperbola or linear line to the data.
 
 ## Key Findings Across Sources
 
 - NMO correction and stacking velocities are usually considered equivalent, even though a different method is used to estimate each of them. ([[2020-alzahrani|Alzahrani, 2020, p. 20]])
 
-- The method successfully estimated the 'true' NMO velocity even when an incorrect initial velocity was used for correction. ([[2023-muhammad|Muhammad, 2023, p. 16]])
+
+- NMO correction is essential for aligning reflections before stacking. ([[2023-muhammad|Muhammad, 2023, p. 19]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -2,73 +2,73 @@
 type: technique
 title: "Sieve Analysis"
 aliases:
-  - "grain size analysis"
+  - "Sieve analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "grain size distribution curves and statistical parameters (mean, sorting, skewness)"
+output: "grain size distribution (percentage by weight per mesh size)"
 tags:
   - technique/sieve-analysis
-  - theme/sedimentology
+  - theme/petroleum-engineering
 sources:
-  - "raw/10363 - Reservoir quality of the Unayzah formation in Waqr, Tinat, and Haradh fields.pdf"
+  - "raw/10009 - Spontaneous ignition characteristics of a super-light oil..pdf"
   - "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
-  - "raw/139394 - Spatial Distribution of the Levels of Trace Metals in the Topsoil of Dammam Area.pdf"
-  - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
-  - "raw/141352 - Interaction between modern dune and interdune deposits in North of Al Jafurah Sa.pdf"
-  - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
-  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
-  - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
+  - "raw/139413 - Development of Stable Bentonite for Drilling Fluid Formulations Using Local Sour.pdf"
+  - "raw/139463 - DEVELOPMENT OF AN ENVIRONMENTALLY-FRIENDLY DRILLING FLUID USING DATE SEEDS AND G.pdf"
+  - "raw/139535 - DEVELOPMENT OF EMULSIFIED GELS FOR WATER CONTROL IN OIL AND GAS WELLS.pdf"
+  - "raw/140124 - FILTER CAKE REMOVAL OF BARITE WATER-BASED MUD.pdf"
+  - "raw/140204 - A Novel Approach to Formulation of Emulsified Acid Using Waste Oil.pdf"
+  - "raw/140227 - THE EVALUATION OF USING MICRONIZED BARITE AS A COMPLETION FLUID WEIGHTING MATERI.pdf"
   - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Sieve Analysis
 
-**Summary**: The measurement of grain sizes in a sample to determine distribution and sorting.
+**Summary**: A method to determine the grain size distribution of a porous medium.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2002-siddiqui|Siddiqui, 2002]] applied sieve-analysis to interpret the depositional environment based on grain size frequency curves.
+- [[1999-iddris|Iddris, 1999]] performed sieve analysis on field produced sand and white sand to characterize the media used in oxidation experiments.
 
-- [[2006-al-enezi|Al-Enezi, 2006]] used sieve-analysis to characterize grain sizes in both recent Arabian Gulf sediments and Dam Formation carbonates.
+- [[2006-al-enezi|Al-Enezi, 2006]] used sieve-analysis to determine grain sizes for both recent Arabian Gulf sediments and Dam Formation samples.
 
-- [[2014-adedapo|Adedapo, 2014]] performed sieve analysis to determine grain size distribution and classify soil types.
+- [[2014-elhag|ELHAG, 2014]] applied sieve analysis to determine the particle size distribution of processed bentonite.
 
-- [[2016-armoh|Armoh, 2016]] applied sieve-analysis to characterize the texture of sabkha soil.
+- [[2014-wajheeuddin|Wajheeuddin, 2014]] applied sieve analysis and laser particle sizing to evaluate the suitability of additives for filtration control.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] applied sieve-analysis to extract sedimentological properties from core samples.
+- [[2014-mohamed|MOHAMED, 2014]] used FRITSCH Laser particle size analyzer to determine how droplet size affects emulsion stability.
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] used sieve analysis to separate sediment and isolate microplastics.
+- [[2016-geri|GERI, 2016]] used particle size analysis to characterize industrial barite and filter cake solids.
 
-- [[2022-radwan|Radwan, 2022]] applied sieve-analysis to prepare samples for XRD by ensuring consistent particle size (75-μm).
+- [[2016-sidaoui|Sidaoui, 2016]] analyzed droplet size distribution to understand its correlation with viscosity and stability.
 
-- [[2026-fatima|Fatima, 2026]] used sieve analysis to characterize the physical properties of aquifer materials U, L, and D.
+- [[2017-mohamed|MOHAMED, 2017]] used sieve analysis to prepare different sizes of barite (106-75 μm, 75-40 μm, and <40μm).
 
-- [[2002-elhassan|ElHassan, 2002]] performed sieve analysis on 21 core samples to quantify grain size parameters.
+- [[2002-elhassan|ElHassan, 2002]] performed sieve-analysis on 21 core samples to calculate statistical parameters like median and sorting.
 
 ## Instruments and Software
 
 
 
-- [[2006-al-enezi|Al-Enezi, 2006]] used sieve-analysis to characterize grain sizes in both recent Arabian Gulf sediments and Dam Formation carbonates.
+- [[2006-al-enezi|Al-Enezi, 2006]] used sieve-analysis to determine grain sizes for both recent Arabian Gulf sediments and Dam Formation samples.
 
-- [[2014-adedapo|Adedapo, 2014]] performed sieve analysis to determine grain size distribution and classify soil types.
+- [[2014-elhag|ELHAG, 2014]] applied sieve analysis to determine the particle size distribution of processed bentonite.
 
-- [[2016-armoh|Armoh, 2016]] applied sieve-analysis to characterize the texture of sabkha soil.
+- [[2014-wajheeuddin|Wajheeuddin, 2014]] applied sieve analysis and laser particle sizing to evaluate the suitability of additives for filtration control.
 
-- [[2022-al-alawi|Al-Alawi, 2022]] applied sieve-analysis to extract sedimentological properties from core samples.
+- [[2014-mohamed|MOHAMED, 2014]] used FRITSCH Laser particle size analyzer to determine how droplet size affects emulsion stability.
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] used sieve analysis to separate sediment and isolate microplastics.
+- [[2016-geri|GERI, 2016]] used particle size analysis to characterize industrial barite and filter cake solids.
 
-- [[2022-radwan|Radwan, 2022]] applied sieve-analysis to prepare samples for XRD by ensuring consistent particle size (75-μm).
+- [[2016-sidaoui|Sidaoui, 2016]] analyzed droplet size distribution to understand its correlation with viscosity and stability.
 
-- [[2026-fatima|Fatima, 2026]] used sieve analysis to characterize the physical properties of aquifer materials U, L, and D.
+- [[2017-mohamed|MOHAMED, 2017]] used sieve analysis to prepare different sizes of barite (106-75 μm, 75-40 μm, and <40μm).
 
-- [[2002-elhassan|ElHassan, 2002]] performed sieve analysis on 21 core samples to quantify grain size parameters.
+- [[2002-elhassan|ElHassan, 2002]] performed sieve-analysis on 21 core samples to calculate statistical parameters like median and sorting.
 
 ## Typical Workflow
 
@@ -76,23 +76,23 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- 24 samples were sieved using screens with mesh sizes spaced 1/4 units apart. ([[2002-siddiqui|Siddiqui, 2002, p. 85]])
+- Both field-produced sand and white sand were found to be well sorted. ([[1999-iddris|Iddris, 1999, p. 31]])
 
-- Sieve analysis was used to sort samples into 30, 60, 100, and 200 µm mesh sizes for foraminiferal concentration. ([[2006-al-enezi|Al-Enezi, 2006, p. 48]])
+- Sieve analysis was used to categorize samples into categories such as mud, fine sand, medium sand, and coarse sand. ([[2006-al-enezi|Al-Enezi, 2006, p. 43]])
 
-- Used to classify soils into groups like poorly graded sand with silt (GP). ([[2014-adedapo|Adedapo, 2014, p. 48]])
+- Identified distinct peaks at 10 μm and 50-60 μm for different samples. ([[2014-elhag|ELHAG, 2014]])
 
-- Grain size analysis was used to assess how soil texture affects evaporation rates. ([[2016-armoh|Armoh, 2016, p. 36]])
+- The average particle size of the finer fraction of grass at 50% net weight was 35 microns. ([[2014-wajheeuddin|Wajheeuddin, 2014, p. 70]])
 
-- Used to characterize grain textures for integration with remote sensing data. ([[2022-al-alawi|Al-Alawi, 2022, p. 50]])
+- Droplet size decreased by 87% when mixing speed increased from 500 to 1500 rpm. ([[2014-mohamed|MOHAMED, 2014, p. 92]])
 
-- Samples were filtered through 5 mm and 0.5 mm mesh size stainless steel sieves. ([[2022-alshaikhali|Alshaikhali, 2022, p. 42]])
+- Determined that most barite particles were in the range of 30 to 45 µm. ([[2016-geri|GERI, 2016, p. 121]])
 
-- The resulting powder was screened using a 75-μm sieve before being packed into holders. ([[2022-radwan|Radwan, 2022, p. 36]])
+- Increasing emulsifier concentration from 0.1 to 1 vol% reduced average droplet sizes from 12.4 $\mu$m to 6.0 $\mu$m. ([[2016-sidaoui|Sidaoui, 2016, p. 42]])
 
-- Determined that Material U was poorly sorted (1.09) and platykurtic (0.84). ([[2026-fatima|Fatima, 2026, p. 70]])
+- Used to categorize barite into specific size ranges for comparison in solubility and rheology tests. ([[2017-mohamed|MOHAMED, 2017, p. 14]])
 
-- The study found that median and mean grain sizes showed varying degrees of correlation with Poisson's ratio but no significant correlation with Young's modulus. ([[2002-elhassan|ElHassan, 2002, p. 58]])
+- Grain size parameters (median, mean, sorting) showed no significant correlation with mechanical properties. ([[2002-elhassan|ElHassan, 2002, p. 58]])
 
 ## Methodological Variations Across Sources
 

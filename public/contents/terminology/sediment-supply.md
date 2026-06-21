@@ -2,25 +2,23 @@
 type: terminology
 title: "Sediment Supply"
 aliases:
-  - "sediment supply"
   - "clastic influx"
 canonical: true
-definition: "The volume of siliciclastic sediment delivered to the basin per unit time."
-units: "km3/My"
+definition: "Amount of clastic material delivered to a basin."
+units: "m3/year"
 related_techniques:
-  - "sfm"
-  - "rsm"
+  - "stratigraphic-forward-modeling"
 tags:
   - theme/sedimentology
 sources:
   - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Sediment Supply
 
-**Summary**: The amount of siliciclastic material delivered to the basin from external sources.
+**Summary**: The amount of sediment delivered to a basin by external sources.
 
 ---
 
@@ -30,18 +28,18 @@ last_updated: 2026-06-10
 
 ## Scientific Context
 
-- [[2024-fahmi|Fahmi, 2024]] Crucial for determining the ratio of carbonate vs. clastic facies in mixed systems.
+- [[2024-fahmi|Fahmi, 2024]] Used to determine the influence of allogenic factors.
 
 ## Measurement and Characterization Methods
 
-- [[2024-fahmi|Fahmi, 2024]] Quantified through SFM and validated against well/outcrop data.
+- [[2024-fahmi|Fahmi, 2024]] Modeled using DionisosFlow.
 
 ## Key Findings Across Sources
 
-- Sediment supply was identified as a primary control factor over sea level in determining lithology distribution. ([[2024-fahmi|Fahmi, 2024, p. 17]])
+- Sensitivity analysis showed that sediment supply and carbonate production were primary controls. ([[2024-fahmi|Fahmi, 2024, p. 17]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

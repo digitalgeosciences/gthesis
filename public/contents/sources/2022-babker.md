@@ -14,186 +14,128 @@ committee_members:
   - "Jonathan Payne"
 source_file: "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142239/"
-study_area: "Khuff Formation belt in central Saudi Arabia (including Buraydah, Al Faydah, Ad Dawadimi, Darma, Wadi Al Mulayh, and Wadi Tathlith quadrangles)"
+study_area: "Khuff Formation belt in central Saudi Arabia (Buraydah, Al Faydah, and Darma quadrangles)"
 keywords:
   - Upper Khartam Member
   - Khuff Formation
   - lithofacies
   - petrophysical properties
   - geostatistical modeling
-  - micropaleontology
-  - reservoir characterization
   - porosity
+  - permeability
+  - sedimentology
   - diagenesis
-  - Basin-scale investigation
+  - reservoir characterization
   - Saudi Arabia
   - Permian/Triassic boundary
-  - permeability
-  - Early Triassic
-  - reservoir modeling
-  - pore-scale
-  - basin-scale
+  - Lissodus
 techniques:
-  - xrd
   - qemscan
+  - xrd
   - thin-section-petrography
-  - well-log-analysis
-  - geostatistics
-  - petrel
-  - image-j
-  - kriging
-  - sequential-gaussian-simulation
-  - core-analysis
   - helium-porosity
-  - field-description
-  - 2d-cross-section-modeling
-  - depositional-modeling
+  - petrel
+  - sequential-gaussian-simulation
+  - lithofacies-analysis
   - sem-eds
   - xrf
-  - gps
-  - gas-permeameter
   - imagej
-  - stochastic-simulation
-  - petrography
-  - lidar
-  - variogram-analysis
-  - sedimentology
-  - stratigraphy
-  - sequence-stratigraphy
-  - microfacies-analysis
-  - reservoir-modeling
-  - lithostratigraphy
+  - core-analysis
+  - field-investigation
 tags:
   - degree/phd
   - formation/khuff-formation
   - location/central-saudi-arabia
+  - location/central-saudi-area
   - technique/xrd
   - technique/qemscan
   - technique/thin-section-petrography
-  - technique/geostatistics
-  - technique/petrel
-  - technique/well-log-analysis
-  - technique/kriging
-  - technique/sequential-gaussian-simulation
-  - technique/core-analysis
-  - technique/reservoir-modeling
-  - technique/sem-eds
   - technique/helium-porosity
-  - technique/gis
+  - technique/petrel
+  - technique/lithofacies-analysis
+  - technique/sem-eds
   - technique/xrf
-  - technique/image-log-analysis
-  - technique/petrography
-  - technique/lidar
-  - technique/variogram-analysis
-  - technique/sedimentology
-  - technique/stratigraphy
-  - technique/sequence-stratigraphy
-  - technique/microfacies-analysis
-  - technique/lithostratigraphy
+  - technique/core-analysis
+  - technique/field-investigation
   - theme/petrophysics
   - theme/sedimentology
-  - theme/biostratigraphy
   - theme/stratigraphy
-  - theme/lithostratigraphy
-  - theme/petroleum-geology-deposits
-  - theme/basin-modeling
-  - terminology/lithofacies
+  - terminology/diagenesis
+  - terminology/facies-analysis
+  - terminology/petrophysics
   - terminology/porosity
   - terminology/permeability
-  - terminology/sequence-stratigraphy
-  - terminology/diagenesis
-  - terminology/reservoir-characterization
+  - terminology/sedimentology
+  - terminology/stratigraphy
 status: ingested
 ---
 
 # RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KHARTAM MEMBER, KHUFF FORMATION: A PORE- TO BASIN-SCALE INVESTIGATION
 
-**Summary**: The thesis investigates the Upper Khartam Member of the Khuff Formation in central Saudi Arabia, focusing on its lithofacies distribution and petrophysical properties. By integrating outcrop data from three distinct quadrangles (Buraydah, Al Faydah, and Darma), the study constructs 3D lithofacies and petrophysical models to evaluate reservoir quality across a 300 km belt.
+**Summary**: The thesis investigates the Upper Khartam Member of the Khuff Formation in central Saudi Arabia, focusing on lithofacies distribution and petrophysical properties. It utilizes a combination of field observations, mineralogical analysis (XRD, QEMSCAN), and 3D modeling to characterize reservoir quality and identify potential indicators for the Permian/Triassic boundary.
 
 ---
 
 ## Research Problem
 
-The large inter-well spacings in the Khuff Formation lead to a poor understanding of lateral and vertical heterogeneities (lithofacies and petrophysical properties) in the subsurface. This study addresses this by using high-resolution outcrop analogs from the central Saudi Arabia belt to model these complexities.
+The substantial gas reserves in the Upper Khartam Member are complicated by significant lateral and vertical heterogeneities that are poorly understood due to large inter-well spacings in the subsurface. This study uses outcrop analogs to characterize these complexities at a pore, core, and basin scale.
 
 ## Objectives
 
 - Characterize lithofacies stacking patterns and spatial heterogeneity within the Upper Khartam Member at the basinal scale.
-- Investigate the micropaleontology of the Upper Khartam Member to better understand the paleoenvironment.
-- Determine the boundary between the Lower and Upper Khartam Members.
-- Construct 3D geostatistical models of lithofacies and petrophysical properties (porosity, permeability) to evaluate reservoir quality.
-- Characterize architectural and petrophysical elements of the Khuff Formation from outcrop studies in central Saudi Arabia.
-- Understand the spatial heterogeneity and stacking pattern of the lithofacies of the Upper Khartam Member at the basin scale.
-- Utilize geostatistical modeling to extrapolate observed outcrop variability to expected subsurface reservoir behavior.
-- Characterize lithofacies at multiple scales (micro, macro, meso, and basin scale) along the Khuff Formation belt.
-- Determine the spatial distribution of reservoir units within the Upper Khartam Member.
-- Identify the primary controls on the lateral heterogeneity of facies in the Khuff belt.
-- Develop a regional depositional model to predict lithofacies distribution in undrilled areas.
-- Refine the placement of the Permian/Triassic (P/T) boundary in Saudi Arabia using new biostratigraphic data.
-- Characterize the lithofacies and their spatial heterogeneity within the Upper Khartam Member at a basin scale.
-- Construct 3D lithofacies models to understand stacking patterns and distribution of reservoir-quality units.
-- Quantify petrophysical properties (porosity and permeability) across different lithofacies to evaluate reservoir quality.
-- Identify and characterize lithofacies within the Upper Khartam Member using mineralogical and petrographic data.
-- Construct 3D lithofacies models for different quadrangles to understand spatial heterogeneity.
-- Develop petrophysical models (porosity and permeability) guided by lithofacies models.
-- Evaluate the impact of lithofacies distribution on reservoir quality across a regional scale.
-- Document lithofacies stacking patterns within the Upper Khartam Member
-- Analyze spatial heterogeneity of lithofacies at the basinal scale
-- Integrate multi-scale data (pore to basin) for reservoir characterization
-- Develop a representative reservoir model for the Upper Khartam Member
+- Investigate the petrophysical properties (porosity) of different lithofacies to determine reservoir quality.
+- Identify and characterize ten major lithofacies using field investigation, thin sections, QEMSCAN, and XRD.
+- Construct 3D geostatistical models of lithofacies and porosity to evaluate lateral heterogeneity across the Khuff Formation belt.
+- Identify and map lithofacies within the Upper Khartam Member to understand spatial distribution.
+- Construct 3D lithofacies and petrophysical models to evaluate reservoir quality at a regional scale.
 
 ## Methods
 
-The study utilized field observations from three outcrop locations (Buraydah, Al Faydah, and Darma quadrangles). Analytical techniques included XRD for mineralogy/apatite identification, QEMSCAN for quantitative mineral mapping, μ-XRF for phosphorus detection, and SEM for microfossil imaging. Petrographic analysis was performed on thin sections. Porosity was measured using a helium porosimeter, and permeability was determined via a gas permeameter. For clastic mudstones where physical measurement was difficult, ImageJ was used to calculate visual porosity from SEM images. Geostatistical modeling included sequential indicator simulation (SIS) in Petrel to construct 3D lithofacies models based on outcrop data.
+The study utilized field investigations across three quadrangles (Buraydah, Al Faydah, and Darma) with 13 measured sections. Petrographic characterization was performed via thin-section petrography. Mineralogical analysis included XRD (D8-ADVANCE), QEMSCAN, and XRF to identify minerals like apatite. Porosity was determined using a helium porosimeter, while permeability was measured using a gas permeameter. For clastic mudstones where plugging was difficult, ImageJ software was used for visual porosity from SEM images. 3D lithofacies models were constructed in Petrel using sequential indicator simulation (SIS) guided by semivariograms.
 
 ## Data and Materials
 
-Data collected from thirteen outcrops along a 1000 km stretch of the Khuff Formation belt in central Saudi Arabia. Analysis included measurements for eight specific lithofacies and data from five distinct quadrangles (Al Faydah, Darma, Wadi Ar Rayn, Wadi Al Mulayh, and Buraydah).
+Data from 13 outcrops across 6 quadrangles (Buraydah, Al Faydah, Ad Dawadimi, Darma, Wadi Al Mulayh, and Wadi Tathlith) along a 1000 km belt. Porosity measurements were taken for 80 selected core samples (10 per lithofacies).
 
 ## Key Findings
 
-- Ten major lithofacies were identified: grain-dominated (LFA-1, -2, -3), mud-dominated (LFA-4, -5, -6), and others including silty dolomite (LFA-5), gypsum (LFA-7), dolostone (LFA-8), and microbialite (LFA-10). ([[2022-babker|Babker, 2022, p. 14]])
-- A general trend of better reservoir properties was found to prevail northward along the Khuff Formation belt, while mud-dominated facies, evaporites, and dolomite dominated the southern sections. ([[2022-babker|Babker, 2022, p. 15]])
-- The first discovery of a shark fossil (genus Lissodus) at the boundary between the Lower and Upper Khartam Members. ([[2022-babker|Babker, 2022, p. 14]])
-- Grain-dominated facies (LFA-1, LFA-2, and LFA-3) exhibited better petrophysical properties compared to mud-dominated facies (LFA-4, LFA-5). ([[2022-babker|Babker, 2022, p. 84]])
-- The boundary between the Upper Khartam Member and the overlying Sudair formation is defined by a transition from carbonate facies to evaporites and clayey facies. ([[2022-babker|Babker, 2022, p. 14]])
-- Ten major lithofacies were identified and characterized, showing significant lateral and vertical heterogeneity at both local and regional scales. ([[2022-babker|Babker, 2022, p. 36]])
-- Porosity measurements for eight lithofacies showed a higher average porosity (24%) for grain-dominated lithofacies compared to lime mudstone lithofacies (3%). ([[2022-babker|Babker, 2022, p. 37]])
-- average thickness of the expected reservoir units (grain-dominated limestone) increases northward, indicating better reservoir prospects on the northern side of the Arabian Platform. ([[2022-babker|Babker, 2022]])
-- page_number_placeholder_logic_applied_to_text_block_on_page_37 ([[2022-babker|Babker, 2022]])
-- Three lithofacies were identified as having the best reservoir properties (porosity): massive coarse grain oolitic grainstone, rippled oolitic grainstone, and channel amalgamated coarse grain oolitic grainstone. ([[2022-babker|Babker, 2022, p. 65]])
-- Lithofacies LF-1 (massive coarse grain oolitic grainstone) showed porosity values ranging from 16% to 33%. ([[2022-babker|Babker, 2022, p. 45]])
-- Lithofacies LF-3 (rippled sand oolitic grainstone) had measured porosity values ranging from 13% to 22%, with an average of 18%. ([[2022-babker|Babker, 2022, p. 47]])
-- Lithofacies LF-4 (Wackestone/packstone) showed porosity between 3% and 17% with an average of porosity of 5%. ([[2022-babker|Babker, 2022, p. 47]])
-- QEMSCAN and XRD analysis of LF-1 showed a composition primarily of calcite (over 90%) with traces of quartz and clay minerals (0.5%). ([[2022-babker|Babker, 2022, p. 45]])
-- Lithofacies LF-8 (Dolomitized wackestone) showed dolomite (approx. 85%), calcite (approx. 10%), and scattered quartz (approx. 4%) as dominant minerals. ([[2022-babker|Babker, 2022, p. 51]])
+- Ten major lithofacies were identified; grain-dominated facies (LFA-1, LFA-2, LFA-3) showed higher average porosity (24%) compared to mud-dominated facies (LFA-4, LFA-5, LFA-6), which had an average of 3% or lower. ([[2022-babker|Babker, 2022, p. 37]])
+- Ten lithofacies were identified; three (LF-1, LF-2, and LF-3) showed the best reservoir properties (porosity and permeability), with LF-1 (massive coarse grain oolitic grainstone) showing the highest values. ([[2022-babker|Babker, 2022, p. 49]])
+- LFA-2 (Channelized coarse grain oolitic grainstone) exhibited a distinct morphology of 3 to 5 meters long and 20 to 50 cm thick. ([[2022-babker|Babker, 2022, p. 46]])
+- LFA-3 (Rippled sand oolitic grainstone) showed porosity values ranging from 13% to 22%, with an average of 18%. ([[2022-babker|Babker, 2022, p. 47]])
+- LFA-4 (Wackestone/packstone) had a porosity range of 3% to 17% with an average of 5%. ([[2022-babker|Babker, 2022, p. 48]])
+- LFA-8 (Dolomitized wackestone) showed over 80% dolomite and was identified as having undergone dedolomitization. ([[2022-babker|Babker, 2022, p. 51]])
+- LFA-9 (Calcareous sandstone/siltstone) indicated higher clastic input in the southern quadrangles with thicknesses of 15 to 20 cm compared to thinner sheets in the north. ([[2022-babker|Babker, 2022, p. 53]])
+- The average thickness of expected reservoir units (grain-dominated limestone) increases northward, indicating better reservoir prospects on the northern side of the Arabian Platform. ([[2022-babker|Babker, 2022, p. 37]])
+- A fossil of the shark genus Lissodus was discovered for the first time at the boundary between the Lower and Upper Khartam Members. ([[2022-babker|Babker, 2022, p. 14]])
+- The transition from carbonate facies to evaporites and clayey facies marks the boundary between the Upper Khartam Member and the overlying Sudair Formation. ([[2022-babker|Babker, 2022, p. 14]])
+- Porosity for LF-1 ranged from 19.4% to 27.3%, while permeability reached up to 87.92 mD. ([[2022-babker|Babker, 2022, p. 102]])
+- Lithofacies distribution is primarily controlled by basin topography, with grain-dominated facies appearing in higher areas and mud-dominated facies in grabens. ([[2022-babker|Babker, 2022, p. 44]])
+- The study identified a significant increase in clastic input (mudstone) toward the south of the Khuff belt. ([[2022-babker|Babker, 2022]])
+- page_number_not_specified ([[2022-babker|Babker, 2022]])
 
 ## Limitations
 
-The absence of the conodont index fossil Hindeodus parvus in the Upper Khartam Member forces reliance on other stratigraphic markers, leading to uncertainty in P/T boundary placement.
+Exposure limitations, diagenesis, and clastic input create uncertainty in correlating outcrops at the southern part of the Khuff Formation belt.
 
 ## Recommendations and Future Work
 
-The results can be used to predict the distribution of Upper Khartam lithofacies in undrilled areas, helping to overcome production problems and increase recovery from reservoir units.
+The results can be used to predict the distribution of Upper Khartam lithofacies in undrilled areas and help overcome production problems by improving understanding of reservoir units in the subsurface.
 
 ## Related Concepts
 
 - [[xrd]]
 - [[qemscan]]
 - [[thin-section-petrography]]
+- [[helium-porosity]]
 - [[khuff-formation]]
 - [[central-saudi-arabia]]
-- [[lithofacies]]
-- [[reservoir-characterization]]
+- [[diagenesis]]
+- [[facies-analysis]]
+- [[petrophysics]]
+- [[petrel]]
+- [[central-saudi-area]]
 - [[porosity]]
 - [[permeability]]
-- [[petrel]]
-- [[sequence-stratigraphy]]
-- [[diagenesis]]
-- [[petrography]]
-- [[lidar]]
-- [[geostatistics]]
-- [[variogram-analysis]]
 - [[sedimentology]]
-- [[basin-analysis]]
-- [[petroleum-geology]]
+- [[stratigraphy]]

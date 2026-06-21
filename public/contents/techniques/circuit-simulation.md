@@ -3,28 +3,27 @@ type: technique
 title: "Circuit Simulation"
 aliases:
   - "Pspice"
-  - "simulated results"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "time-domain waveforms and frequency response plots."
+output: "time-domain and frequency-domain circuit responses"
 tags:
   - technique/circuit-simulation
 sources:
   - "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Circuit Simulation
 
-**Summary**: The use of software tools like Pspice to model and analyze the behavior of electronic circuits.
+**Summary**: Using software tools like Pspice to model and analyze the behavior of electronic circuits.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] used Pspice simulation to evaluate the performance of MPSO and universal filter designs against theoretical models.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] used Pspice circuit simulation to evaluate the performance of three-phase and six-phase oscillators.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- Simulation results for the MPSO using the Bruun-model deviated from theoretical results by less than 2%. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 78]])
+- Simulation results for frequency of oscillation at different values of R deviated from theoretical results by less than 6%. ([[1997-al-gahtani-2|Al-Gahtani, 1997, p. 62]])
 
 ## Methodological Variations Across Sources
 

@@ -2,41 +2,41 @@
 type: location
 title: "Norwegian Continental Shelf"
 aliases:
-  - "Volve field"
+  - "North Sea"
 canonical: true
 region: "North Sea"
 country: "Norway"
 coordinates: "Not stated in source"
-geology: "Marine sedimentary basin"
+geology: "Sedimentary basin with sand and shale sequences."
 tags:
   - location/norwegian-continental-shelf
 sources:
   - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Norwegian Continental Shelf
 
-**Summary**: A region in the offshore area of Norway used for oil and gas production.
+**Summary**: The offshore region of Norway, used as a reference for CO2 storage studies.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2020-abdallah|Abdallah, 2020]] used data from the Volve field to validate porosity prediction models.
+- [[2020-abdallah|Abdallah, 2020]] used data from the Volve field in the Norwegian continental shelf to train and validate ANN models.
 
 ## Geological and Structural Setting
 
-- [[2020-abdallah|Abdallah, 2020]] Continental shelf
+- [[2020-abdallah|Abdallah, 2020]] Continental shelf margin.
 
 ## Formations Present
 
-
+- [[2020-abdallah|Abdallah, 2020]] Utsira formation
 
 ## Key Findings From This Location
 
-- Data from this field provided 664 core plugs for training and testing the ANN. ([[2020-abdallah|Abdallah, 2020, p. 81]])
+- Nearly 8 million tonnes of CO2 have been injected into the Utsira formation in this region since 1996. ([[2020-abdallah|Abdallah, 2020, p. 24]])
 
 ## Research Coverage and Gaps
 

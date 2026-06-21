@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "suitability maps categorized into Good, Moderate, Low, and Very low"
+output: "a final suitability map categorized into Good, Moderate, Low, and Very low."
 tags:
   - technique/weighted-overlay-analysis
-  - theme/hydrogeology
+  - theme/water-resources-management
 sources:
   - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Weighted Overlay Analysis
 
-**Summary**: Weighted overlay analysis combines multiple thematic layers into a single suitability map.
+**Summary**: A GIS technique that combines multiple layers by multiplying each layer's value by a weight to produce a final suitability map.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-pambudi|Pambudi, 2022]] used weighted sum overlay analysis to integrate the thematic maps.
+- [[2022-pambudi|Pambudi, 2022]] applied weighted overlay analysis (WOA) in ArcGIS 10.3 to integrate the ten thematic maps into a single ASR potential map.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The integration of GIS, Remote Sensing, and MCDA - Weighted Overlay Analysis (WOA) methods is assumed powerful tool for delineating ASR potential sites in the semi-arid region. ([[2022-pambudi|Pambudi, 2022, p. 14]])
+- The WOA formula combined weights for aquifer system, geomorphology, slope, soil texture, lineaments, land use, thickness, depth, transmissivity, and salinity. ([[2022-pambudi|Pambudi, 2022, p. 41]])
 
 ## Methodological Variations Across Sources
 

@@ -2,29 +2,28 @@
 type: technique
 title: "Nmo Correction"
 aliases:
-  - "NMO"
+  - "Normal Moveout"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "flattened CDP gathers"
+output: "flattened CDP gathers."
 tags:
-  - technique/seismic-processing
-  - theme/applied-geophysics
+  - technique/nmo-correction
 sources:
   - "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Nmo Correction
 
-**Summary**: A processing step to flatten the events in a CDP gathers by correcting for moveout.
+**Summary**: A processing step to flatten events in a CDP gather by correcting for moveout due to offset.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-jahlan|Jahlan, 2024]] used NMO correction to flatten seismic events before applying parallax methods.
+- [[2024-jahlan|Jahlan, 2024]] used NMO correction with T0=1s and Vnmo=3000m/s to align the primary reflections.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- NMO correction flattened events away from the sand dune, but the effect of the dune remained visible. ([[2024-jahlan|Jahlan, 2024, p. 43]])
+- NMO successfully flattened the P-wave reflection at 1s but did not correct for dune-induced time delays (Page 57). ([[2024-jahlan|Jahlan, 2024, p. 57]])
 
 ## Methodological Variations Across Sources
 

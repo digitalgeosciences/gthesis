@@ -1,34 +1,39 @@
 ---
 type: technique
-title: "Xps"
+title: "XPS"
 aliases:
   - "X-ray photoelectron spectroscopy"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "elemental and chemical state information from surface layers"
+output: "elemental composition data"
 tags:
   - technique/xps
-  - theme/carbonate-geology
+  - theme/mineralogy
 sources:
   - "raw/142046 - IMPROVING WEAK CARBONATE ROCKS’ HARDNESS THROUGH CHEMICAL ADDITIVES APPLICATION .pdf"
+  - "raw/142752 - COATING AND LINER FOR HYDROGEN AND NATURAL GAS (H2-NG) BLENDED GAS NETWORK.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
-# Xps
+# XPS
 
-**Summary**: A surface-sensitive spectroscopic technique used to analyze elemental composition and chemical state.
+**Summary**: A surface-sensitive quantitative chemical analysis method.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-samarkin|Samarkin, 2022]] used XPS to investigate mineralogical changes on the rock surfaces.
+- [[2022-samarkin|Samarkin, 2022]] used XPS to determine the elemental content of carbonate rocks.
+
+- [[2023-khalid|Khalid, 2023]] used XPS to assess the coating for UV-degradation.
 
 ## Instruments and Software
 
 
+
+- [[2023-khalid|Khalid, 2023]] used XPS to assess the coating for UV-degradation.
 
 ## Typical Workflow
 
@@ -36,7 +41,9 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Used to characterize the chemistry of the treated carbonate surfaces. ([[2022-samarkin|Samarkin, 2022, p. 12]])
+- XPS was used alongside SEM and XRD to characterize the mineralogy and chemistry of the samples. ([[2022-samarkin|Samarkin, 2022, p. 39]])
+
+- The intensity of the CO group was only slightly higher in exposed coatings, indicating that degradation was not intense enough to damage the coating at a risky level. ([[2023-khalid|Khalid, 2023, p. 92]])
 
 ## Methodological Variations Across Sources
 

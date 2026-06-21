@@ -1,9 +1,9 @@
 ---
 type: technique
-title: "Pixe"
+title: "Proton-Induced X-ray Emission (PIXE)"
 aliases:
   - "PIXE"
-  - "Proton Induced X-ray Emission"
+  - "proton induced x-ray emission"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
@@ -14,18 +14,18 @@ tags:
 sources:
   - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
-# Pixe
+# Proton-Induced X-ray Emission (PIXE)
 
-**Summary**: A non-destructive analytical technique for determining elemental composition of materials.
+**Summary**: A non-destructive analytical technique for determining the elemental composition of materials.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1996-matter|Matter, 1996]] utilized PIXE analysis to determine the concentration of major and trace elements in phosphorite samples.
+- [[1996-matter|Matter, 1996]] applied pixe to determine chemical compositions and trace elements in phosphorite samples.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Used to assess the economic importance based on trace element content. ([[1996-matter|Matter, 1996, p. 63]])
+- Used to analyze several samples including those from Thaniyat Turayf and Arqah areas. ([[1996-matter|Matter, 1996, p. 24]])
 
 ## Methodological Variations Across Sources
 

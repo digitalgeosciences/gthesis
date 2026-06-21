@@ -14,29 +14,28 @@ committee_members:
   - "Mahbub Hussain"
 source_file: "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/10564/"
-study_area: "Jabal Midra Al-Janubi (Dammam Dome) and Arabian Gulf coastal areas, Eastern Province, Saudi Arabia"
+study_area: "Jabal Midra Al-Janubi, Dammam Dome, Eastern Province, Saudi Arabia; and various locations in the Arabian Gulf (Abu Ali Island, Saffwa Bay, Half Moon Bay, Jubail, Tarut Bay, Ras Tanura, etc.)"
 keywords:
   - foraminifera
   - Middle Miocene
   - Dam Formation
-  - petroleum geology
-  - paleoenvironmental reconstruction
-  - Saudi Arabia
   - Arabian Gulf
-  - micropaleontology
-  - palaeoenvironment
   - biostratigraphy
-  - paleoecology
-  - microfauna
+  - paleoenvironmental reconstruction
+  - micropaleontology
   - paleoenvironment
   - Recent foraminifera
-  - foraminiferal biocomponents
+  - Miocene foraminifera
+  - paleoenvironmental interpretation
 techniques:
+  - biostratigraphy
   - thin-section-petrography
   - xrd
   - sieve-analysis
   - microscopy
-  - biostratigraphy
+  - petrography
+  - lithostratigraphy
+  - micropaleontological-techniques
 tags:
   - degree/ms
   - formation/dam-formation
@@ -44,104 +43,86 @@ tags:
   - location/arabian-gulf
   - location/dammam-area
   - location/saudi-arabia
+  - technique/biostratigraphy
   - technique/thin-section-petrography
   - technique/xrd
   - technique/sieve-analysis
-  - technique/biostratigraphy
+  - technique/microscopy
   - theme/paleoenvironmental-reconstruction
   - theme/biostratigraphy
   - theme/invertebrate-paleontology
-  - theme/sedimentology
-  - terminology/biostratigraphy
   - terminology/foraminifera
-  - terminology/diagenesis
-  - terminology/paleoenvironmental-reconstruction
-  - terminology/biofacies
+  - terminology/biostratigraphy
+  - terminology/microfacies
+  - terminology/stratigraphy
+  - terminology/facies-analysis
 status: ingested
 ---
 
 # Comparison of recent and miocene foraminifera from Eastern Saudi Arabia
 
-**Summary**: The thesis compares recent foraminiferal assemblages from the Arabian Gulf with Miocene foraminifera from the Dam Formation at Jabal Midra Al-Janubi to interpret paleoenvironments. It identifies a variety of biofacies and concludes that the formation was deposited in warm, clear water conditions ranging from intertidal hypersaline environments to moderately deep lagoons.
+**Summary**: The thesis compares recent benthonic foraminiferal assemblages from the Arabian Gulf with those of the Middle Miocene Dam Formation at Jabal Midra Al-Janubi. By establishing a correlation between modern and fossil species, the study reconstructs paleoenvironmental conditions such as depth and salinity for the Dam Formation.
 
 ---
 
 ## Research Problem
 
-The need to improve understanding and interpretation of the Middle Miocene foraminifera in the Dam Formation (Eastern Saudi Arabia) by comparing them with modern faunal analogs from the Arabian Gulf.
+The need to better understand and interpret the paleoenvironmental conditions of the Middle Miocene foraminifera within the Dam Formation carbonates in Eastern Saudi Arabia by comparing them with modern analogs from the Arabian Gulf.
 
 ## Objectives
 
 - Provide a refined paleoenvironmental interpretation of the Middle Miocene Dam Formation
-- Compare recent foraminiferal biofacies from the Arabian Gulf with fossil foraminifera from the Dam Formation
+- Compare recent foraminifera from the Arabian Gulf with similar biocomponents in the Dam Formation
 - Establish a link between academic research and industrial application in reservoir characterization
 - Catalogue semi-quantitatively the distribution of foraminifera in recent shallow marine sediments of the Arabian Gulf.
 - Catalogue semi-quantitatively the distribution of foraminifera in Miocene carbonate sediments of the Dam Formation in the eastern part of Saudi Arabia.
-- Compare and contrast the Recent Foraminifera assemblages with those of the Miocene carbonates and use this information to interpret the palaeoenvironment of the Miocene succession.
-- Compare recent foraminiferal assemblages from the Arabian Gulf with those found in the Dam Formation.
-- Identify and characterize the biocomponents of both modern and fossiliferous samples.
-- Determine environmental variations at different sites based on foraminiferal biofacies.
-- Compare recent foraminiferal samples from the Arabian Gulf with similar biocomponents in the Dam Formation.
-- Identify and characterize foraminiferal biofacies within the Dam Formation.
-- Interpret paleoenvironmental conditions (depth, salinity, temperature) based on micropaleontological data.
-- Compare recent foraminifera from the Arabian Gulf with those in the Dam Formation
-- Identify foraminiferal species to determine palaeoenvironmental parameters like salinity and depth
-- Confirm the geological age of the Dam Formation based on foraminiferal content
-- Examine samples of Recent foraminifera from the near shore Arabian Gulf
-- Compare these with similar foraminiferal biocomponents of the Dam Formation carbonates at Jabal Midra Al-Janubi
-- Identify and analyze foraminiferal species using standard micropaleontological techniques
+- Compare and contrast the Recent Foraminifera assemblages with those of the Miocene carbonates to interpret the palaeoenvironment of the Miocene succession.
 
 ## Methods
 
-The study employed a three-step methodology: 1) Semi-quantitative cataloging of foraminiferal distribution in recent Arabian Gulf sediments. 2) Semi-quantitatively cataloguing foraminifera in Dam Formation carbonates. 3) Comparative analysis of the two assemblages to interpret paleoenvironments. For modern samples, sieve analysis was used to sort by grain size (30, 60, 100, and 200 µm), followed by flotation in carbon tetrachloride (CCl4). For Dam Formation samples, 60 carbonate rocks were collected from Jabal Midra Al-Janubi; 77 thin sections were prepared and analyzed using polarized microscopy and standard staining (10% HCl and alizarin) for mineralogy.
+The study utilized standard micropaleontological techniques including sieve analysis for grain size determination, microscopy (binocular and polarized) for identification, and thin-section petrography for carbonate samples. Samples from the Arabian Gulf were processed via a flotation technique using carbon tetrachloride (CCl4) to concentrate foraminifera. Dam Formation samples were prepared as thin sections and analyzed under a microscope with standard staining (10% HCl and alizarin).
 
 ## Data and Materials
 
-11 recent marine sediment samples from various locations in the Arabian Gulf (including Abu Ali Island, Saffwa Bay, Half Moon Bay, Jubail, Tarut Bay, Ras Tanura, and others); 60 carbonate rock samples from the Dam Formation at Jabal Midra Al-Janubi; 77 thin sections prepared for analysis.
+The study included 11 sites of recent marine sediments from the Arabian Gulf and 60 samples from the Dam Formation at Jabal Midra Al-Janubi. A total of 47 species were identified in the Gulf samples.
 
 ## Key Findings
 
 - A total of 47 species from the Gulf were identified to be Recent origin, consisting of 2 agglutinated, 21 miliolid and 24 rotalid species. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
 - The Dam Formation had 51 species, consisting of 3 agglutinated, 37 miliolid and 11 rotalids. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
-- The presence of species Borelis melo in the Dam Formation confirms its Middle Miocene age. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
-- Foraminiferal diversity in the Arabian Gulf tends to increase with depth but decrease with salinity. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
-- The Dam Formation's deposition began following a slight marine transgression over an eroded Palaeogene surface during the Middle Miocene under highly adverse, hypersaline conditions. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
+- The Dam Formation is confirmed as Middle Miocene in age based on the presence of the complex-walled miliolid foraminiferal species Borelis melo melo. ([[2006-al-enezi|Al-Enezi, 2006, p. 85]])
+- Foraminiferal diversity in the Arabian Gulf tends to increase with depth but decrease with salinity. ([[2006-al-enezi|Al-Enezi, 2006, p. 14]])
+- The Dam Formation began deposition following a slight marine transgression over an eroded Palaeogene surface during the Middle Miocene under highly adverse, hypersaline conditions. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
 - Successive small-scale marine transgressions led to foraminiferal colonization and accumulation of wackestones, packstones, and grainstones. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
-- Minor fluctuations led to the development of shoaling-upward cycles where foraminifera and grain sizes responded to increasing energy conditions and slight elevations in salinity. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
-- A total of 47 species of foraminifera were identified in the Arabian Gulf samples. ([[2006-al-enezi|Al-Enezi, 2006, p. 1]])
-- The Dam Formation at Jabal Midra Al-Janubi is over 56m (168 feet) thick and unconformably overlies the Midra Shale Member of the Dammam Formation. ([[2006-al-enezi|Al-Enezi, 2006, p. 50]])
-- The Dam Formation was deposited during a major Neogene transgression and dominated by shallow marine, warm-water macrofossils such as stromatolites, corals, and benthonic foraminifera. ([[2006-al-enezi|Al-Enezi, 2006, p. 31]])
-- Stromatolites in the Dam Formation indicate highly adverse depositional conditions, probably related to hypersalinity. ([[2006-al-enezi|Al-Enezi, 2006, p. 31]])
-- The study utilized 60 samples from the Dam Formation and 77 thin sections for detailed micropaleontological analysis. ([[2006-al-enezi|Al-Enezi, 2006, p. 50]])
-- The Dam Formation at Jabal Midra Al-Janubi is approximately 90 meters thick and consists of carbonates deposited during a major Neogene transgression. ([[2006-al-enezi|Al-Enezi, 2006, p. 65]])
-- A Middle Miocene age is assigned to the Dam Formation based on the presence of Borelis melo melo. ([[2006-al-enezi|Al-Enezi, 2006, p. 65]])
-- The Dam Formation at Jabal Midra Al-Janubi is equivalent to the Al-Nakhash Member in Qatar, characterized by consistent Borelis melo melo and stromatolitic limestone. ([[2006-al-enezi|Al-Enezi, 2006, p. 69]])
+- Shoaling-upward cycles were evidenced by the concentration of hypersaline-tolerant miliolid foraminifera and increasing grain sizes. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
+- The Dam Formation is over 56m (168 feet) thick and contains a variety of carbonate lithofacies, including stromatolitic limestone and clastic limestone. ([[2006-al-enezi|Al-Enezi, 2006, p. 50]])
+- A total of 47 species of foraminifera were identified in the Arabian Gulf samples. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
+- Foraminiferal diversity in the sublittoral-nearshore zone is higher than in the intertidal zone, consisting mostly of rotalids and miliolids. ([[2006-al-enezi|Al-Enezi, 2006, p. 59]])
+- The presence of stromatolites at the base of the Dam Formation suggests a shallow subtidal to lower intertidal, hypersaline tidal flat environment. ([[2006-al-enezi|Al-Enezi, 2006, p. 68]])
+- Foraminifera in the Arabian Gulf are dominated by warm water faunas of the West African-Indian Ocean foraminiferal province. ([[2006-al-enezi|Al-Enezi, 2006, p. 58]])
+- Foraminiferal diversity shows an inverse relationship with salinity and a positive relationship with depth; samples at 18m showed the highest diversity (over 55 species). ([[2006-al-enezi|Al-Enezi, 2006, p. 83]])
+- Eleven deepening pulses (depths >17m) are recorded in the Dam Formation, identified by the presence of Operculina spp. and Rotalia spp. ([[2006-al-enezi|Al-Enezi, 2006, p. 96]])
+- The study identified 51 species of foraminifera within the Dam Formation, including 37 miliolids and 11 rotalids. ([[2006-al-enezi|Al-Enezi, 2006, p. 85]])
 
 ## Limitations
 
-The study notes that species assignment is easier when entire specimens from the Recent are available compared to random thin sections from the Dam Formation.
+Interpretation of the Dam Formation is based on morphological similarity between recent and Miocene species rather than published data due to the lack of whole specimens in thin sections.
 
 ## Recommendations and Future Work
 
-- Sample more diverse environmental locations within the Arabian Gulf, from very shallow to deep parts.
-- Sample more exposures of the Dam Formation to capture a wider range of palaeoenvironments.
-- Extend study to include Palaeogene carbonates in the Eastern Province.
-- Extend study to Mesozoic carbonates to test if morphotypes are environmentally controlled regardless of age.
+Future studies should sample more diverse environmental locations within the Arabian Gulf (from shallow to deep), sample more exposures of the Dam Formation, include Palaeogene carbonates from the Eastern Province, and extend study to Mesozoic carbonates to test if morphotypes are environmentally controlled regardless of age.
 
 ## Related Concepts
 
+- [[biostratigraphy]]
 - [[thin-section-petrography]]
-- [[xrd]]
 - [[dam-formation]]
 - [[arabian-gulf]]
-- [[biostratigraphy]]
+- [[foraminifera]]
 - [[paleoenvironmental-reconstruction]]
 - [[sieve-analysis]]
-- [[foraminifera]]
-- [[diagenesis]]
-- [[dammam-area]]
-- [[sedimentology]]
+- [[microscopy]]
+- [[microfacies]]
 - [[eastern-province]]
-- [[paleontology]]
-- [[micropaleontology]]
-- [[biofacies]]
+- [[stratigraphy]]
+- [[facies-analysis]]

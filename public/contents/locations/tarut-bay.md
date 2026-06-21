@@ -15,30 +15,30 @@ sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
   - "raw/140665 - ECOTOXICITY OF ARABIAN LIGHT CRUDE OIL AND OIL BASED DRILLING MUD ON THE LOCAL A.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Tarut Bay
 
-**Summary**: A bay in the Eastern Province of Saudi Arabia, known for its rich marine life and mangrove habitats.
+**Summary**: A bay in the Eastern Province of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-al-rowaished|Al-Rowaished, 2012]] focused the study on Tarut Bay as it had the most significant reclamation activity.
+- [[2012-al-rowaished|Al-Rowaished, 2012]] focused on tarut-bay to quantify land reclamation and its environmental impact.
 
-- [[2013-mohammed|Mohammed, 2013]] included Tarut Bay as one of the four primary sampling locations for pesticide monitoring.
+- [[2013-mohammed|Mohammed, 2013]] analyzed pesticide levels in Tarut Bay samples.
 
-- [[2018-amiruddin|Amiruddin, 2018]] collected Arabian Killifish from Tarut Bay.
+- [[2018-amiruddin|Amiruddin, 2018]] collected Arabian Killifish from Tarut Bay for toxicity testing.
 
 ## Geological and Structural Setting
 
-- [[2012-al-rowaished|Al-Rowaished, 2012]] Arabian Gulf coastline
+- [[2012-al-rowaished|Al-Rowaished, 2012]] Arabian Gulf coast
 
-- [[2013-mohammed|Mohammed, 2013]] included Tarut Bay as one of the four primary sampling locations for pesticide monitoring.
+- [[2013-mohammed|Mohammed, 2013]] analyzed pesticide levels in Tarut Bay samples.
 
-- [[2018-amiruddin|Amiruddin, 2018]] collected Arabian Killifish from Tarut Bay.
+- [[2018-amiruddin|Amiruddin, 2018]] collected Arabian Killifish from Tarut Bay for toxicity testing.
 
 ## Formations Present
 
@@ -46,11 +46,11 @@ last_updated: 2026-06-09
 
 ## Key Findings From This Location
 
-- 84.42 km² was reclaimed within this specific area between 1973 and 2007. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 10]])
+- The study was limited to Tarut Bay due to the availability of a specific environmental biotype map. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 23]])
 
-- Not stated in source ([[2013-mohammed|Mohammed, 2013, p. 33]])
+- The highest concentration of OCPs was found in the Tarut Bay samples (1.62797 mg/l). ([[2013-mohammed|Mohammed, 2013, p. 88]])
 
-- Source of local fish samples for toxicity testing. ([[2018-amiruddin|Amiruddin, 2018, p. 8]])
+- The site provided a source of local fish (Aphanius dispar) for study. ([[2018-amiruddin|Amiruddin, 2018, p. 34]])
 
 ## Research Coverage and Gaps
 

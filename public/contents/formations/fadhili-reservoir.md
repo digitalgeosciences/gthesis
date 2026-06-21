@@ -3,18 +3,17 @@ type: formation
 title: "Fadhili Reservoir"
 aliases:
   - "Lower Fadhili"
-  - "Lower Fadhili Carbonate Member"
 canonical: true
 age: "Late Bathonian"
 basin: "Arabian Basin"
 lithology: "carbonate rock"
-reservoir_status: "not produced"
+reservoir_status: "potential"
 tags:
   - formation/fadhili-reservoir
 sources:
   - "raw/136410 - High-Resolution Sequence Stratigraphy of the Middle Jurasic Lower Fadhili Reserv.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Fadhili Reservoir
@@ -25,7 +24,7 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[2010-al-mojel|Al-Mojel, 2010]] analyzed the fadhili-reservoir to determine its stratigraphic framework and facies distribution.
+- [[2010-al-mojel|Al-Mojel, 2010]] characterized the fadhili-reservoir to determine its potential.
 
 ## Depositional Environment
 
@@ -33,15 +32,18 @@ last_updated: 2026-06-08
 
 ## Reservoir Properties
 
-- [[2010-al-mojel|Al-Mojel, 2010]] thickness 48m; porosity is primarily microporosity except for interparticle porosity in coated-grain facies.
+
+
+## Diagenetic History
+
+- [[2010-al-mojel|Al-Mojel, 2010]] karstification, meteoric cementation, and early ferroan calcite cementation
 
 ## Key Findings Across Sources
 
-- The reservoir is approximately 48 meters thick and contains two composite sequences (LFC1 and LFC2). ([[2010-al-mojel|Al-Mojel, 2010, p. 13]])
+- The Lower Fadhili is approximately 48 meters thick and contains two composite sequences (LFC1 and LFC2). ([[2010-al-mojel|Al-Mojel, 2010, p. 23]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2010-al-mojel|Al-Mojel, 2010]] early ferroan calcite cement, non-ferroan calcite cement, saddle dolomite cement
 
 ## Open Questions and Research Gaps
 

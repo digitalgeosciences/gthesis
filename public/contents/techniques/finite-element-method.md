@@ -6,25 +6,24 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "calculated apparent resistivity values for a given structure"
+output: "numerical solution to the forward problem"
 tags:
   - technique/finite-element-method
-  - theme/near-surface-geophysics
 sources:
   - "raw/140547 - DETECTION OF SHALLOW SUBSURFACE CAVITIES USING 2D &amp; 3D ELECTRICAL RESISTIVIT.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Finite Element Method
 
-**Summary**: A numerical technique for finding approximate solutions to problems by discretizing the domain into smaller elements.
+**Summary**: A numerical technique for finding approximate solutions to problems by discretizing a continuous domain into smaller elements.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2017-tayyab|Tayyab, 2017]] applied finite element method (FEM) based algorithms in ERTLab software to model the subsurface and integrate topography.
+- [[2017-tayyab|Tayyab, 2017]] applied finite-element-method (FEM) based inversion algorithms to model the subsurface and integrate topography.
 
 ## Instruments and Software
 
@@ -36,7 +35,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Forward resistivity calculations involved a Finite Element Method (FEM)-based iterative algorithm which models the subsurface by implementing network of hexahedrons. ([[2017-tayyab|Tayyab, 2017, p. 54]])
+- The FEM-based iterative algorithm allowed for accurate integration of terrain topography in the 3D models. ([[2017-tayyab|Tayyab, 2017, p. 54]])
 
 ## Methodological Variations Across Sources
 

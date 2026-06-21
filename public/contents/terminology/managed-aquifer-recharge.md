@@ -4,7 +4,7 @@ title: "Managed Aquifer Recharge"
 aliases:
   - "MAR"
 canonical: true
-definition: "The intentional injection or infiltration of water into aquifer systems."
+definition: "A technique to replenish groundwater and mitigate salinity intrusion."
 units: "not applicable"
 related_techniques:
   - "electrical-resistivity-tomography"
@@ -13,33 +13,33 @@ tags:
 sources:
   - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Managed Aquifer Recharge
 
-**Summary**: The intentional injection or infiltration of water into an aquifer for water supply or storage.
+**Summary**: The intentional injection of water into an aquifer to improve its quality or quantity.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2026-fatima|Fatima, 2026]] evaluated the potential of TWW for managed aquifer recharge (MAR).
+- [[2026-fatima|Fatima, 2026]] evaluated the potential of TWW for sustainable managed aquifer recharge (MAR) in the eastern coastal region.
 
 ## Scientific Context
 
-- [[2026-fatima|Fatima, 2026]] A key strategy for sustainable groundwater management in arid regions like Saudi Arabia.
+- [[2026-fatima|Fatima, 2026]] MAR is a key strategy for water security in arid regions like Saudi Arabia.
 
 ## Measurement and Characterization Methods
 
-- [[2026-fatima|Fatima, 2026]] Evaluated through lab-scale column and sandbox experiments.
+- [[2026-fatima|Fatima, 2026]] Assessed via column experiments and sandbox modeling.
 
 ## Key Findings Across Sources
 
-- Assessed as a viable method to address groundwater depletion in arid regions. ([[2026-fatima|Fatima, 2026, p. 9]])
+- MAR can be used as a method for saline aquifer dilution and is essential for sustainability in arid regions. ([[2026-fatima|Fatima, 2026, p. 17]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -2,51 +2,45 @@
 type: terminology
 title: "Thermobarometry"
 aliases:
-  - "thermobarometry"
+  - "geothermometry"
 canonical: true
-definition: "The calculation of P-T conditions for a mineral assemblage."
-units: "GPa and °C"
+definition: "Estimation of P and T conditions using mineral chemistry."
+units: "GPa for pressure, °C for temperature"
 related_techniques:
-  - "sem-eds"
+  - "epma"
+  - "icp-ms"
 tags:
-  - theme/igneous-metamorphic-petrology
+  - theme/igneous-petrology
 sources:
   - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
-  - "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Thermobarometry
 
-**Summary**: The determination of temperature and pressure conditions under which a mineral assemblage equilibrated.
+**Summary**: The estimation of temperature and pressure conditions during the formation or equilibration of a rock.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-iskandar|Iskandar, 2023]] performed thermobarometry to estimate the depth and temperature of the mantle source.
-
-- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] used thermobarometry to determine the crystallization depth and temperature of the granites.
+- [[2023-iskandar|Iskandar, 2023]] applied thermobarometry to determine depth and temperature of xenoliths.
 
 ## Scientific Context
 
-- [[2023-iskandar|Iskandar, 2023]] Determines the depth and temperature of the mantle source.
-
-- [[2024-sulistyohariyanto|Sulistyohariyanto, 2024]] used thermobarometry to determine the crystallization depth and temperature of the granites.
+- [[2023-iskandar|Iskandar, 2023]] Used to determine the depth and thermal state of the lithospheric mantle.
 
 ## Measurement and Characterization Methods
 
-- [[2023-iskandar|Iskandar, 2023]] Calculated based on coexisting olivine and clinopyroxene.
+- [[2023-iskandar|Iskandar, 2023]] Calculated from olivine-clinopyroxene and orthopyroxene-clinopyroxene pairs.
 
 ## Key Findings Across Sources
 
-- Equilibrated at ~1.72 – 3.76 GPa at temperatures of ~1090°C – 1135°C. ([[2023-iskandar|Iskandar, 2023, p. 22]])
+- Estimated temperatures of 1090–1135°C and pressures of 1.72–3.76 GPa (depths of 50–105 km). ([[2023-iskandar|Iskandar, 2023, p. 22]])
 
-- Average TZr values were between 803°C and 880°C, while pressures ranged from 1.6 to 4.4 Kbar. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 72]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

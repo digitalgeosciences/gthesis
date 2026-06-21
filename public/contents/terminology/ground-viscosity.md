@@ -2,46 +2,45 @@
 type: terminology
 title: "Ground Viscosity"
 aliases:
-  - "Dg"
-  - "damping coefficient"
+  - "D_g"
 canonical: true
-definition: "A factor used in dynamic systems to represent energy dissipation."
+definition: "A measure of energy dissipation in the ground material."
 units: "N.s/m"
 related_techniques:
-  - "well-log-analysis"
+  - "signal-processing"
 tags:
-  - theme/rock-physics
+  - theme/near-surface-geophysics
 sources:
   - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Ground Viscosity
 
-**Summary**: A measure of energy dissipation in the ground, modeled as a dashpot in mechanical systems.
+**Summary**: A measure of the energy dissipation in the ground, used to characterize soil properties.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-al-ali|Al-Ali, 2002]] derived ground viscosity from vibrator performance data to correlate with $V_p$.
+- [[2002-al-ali|Al-Ali, 2002]] derived ground viscosity from vibrator performance data using the Sallas model.
 
 ## Scientific Context
 
-- [[2002-al-ali|Al-Ali, 2002]] Represents the damping effect of the ground material during vibration.
+- [[2002-al-ali|Al-Ali, 2002]] Used to characterize soil properties and their impact on seismic signal.
 
 ## Measurement and Characterization Methods
 
-- [[2002-al-ali|Al-Ali, 2002]] Calculated from baseplate and reaction mass accelerations.
+- [[2002-al-ali|Al-Ali, 2002]] Calculated from vibrator control system feedback.
 
 ## Key Findings Across Sources
 
-- Ground viscosity ($\eta_g$) is used alongside stiffness to eliminate dependence on density and Poisson's ratio. ([[2002-al-ali|Al-Ali, 2002, p. 41]])
+- Ground viscosity (Dg) was found to correlate with P-wave velocity when integrated into the calculation. ([[2002-al-ali|Al-Ali, 2002, p. 33]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2002-al-ali|Al-Ali, 2002]] Negative correlation with uphole velocity.
 
 ## Open Questions and Research Gaps
 

@@ -1,50 +1,44 @@
 ---
 type: technique
-title: "Gc Fid"
+title: "GC-FID"
 aliases:
   - "GC/FID"
-  - "Gas Chromatograph / Flame Ionization Detector"
+  - "gas chromatography flame ionization detector"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "quantification of hydrocarbon compounds"
+output: "hydrocarbon concentration values"
 tags:
   - technique/gc-fid
-  - theme/environmental-microbiology
 sources:
-  - "raw/139073 - APPLICATION OF ENZYME TO BIOREMEDIATE WATER FROM ETHYLENE DICHLORIDE AND OIL.pdf"
   - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
-# Gc Fid
+# GC-FID
 
-**Summary**: A gas chromatography technique using a flame ionization detector to identify and quantify hydrocarbons.
+**Summary**: A method for separating and identifying components in a mixture.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2014-abdallah|Abdallah, 2014]] used GC/FID to measure the peak areas of EDC and HC in the 82 samples.
+- [[2015-arslan|Arslan, 2015]] used GC/FID to quantify total hydrocarbon content (THC).
 
-- [[2015-arslan|Arslan, 2015]] used GC/FID to quantify total hydrocarbon content (THC) from sediment extracts.
+- [[2016-ibrahim|Ibrahim, 2016]] used GC-FID to determine the concentration of palmitic acid and other fatty acids in isolated strains.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used GC-FID to quantify lipid content and determine the fatty acid profiles of three microalgae strains.
-
-- [[2019-alamran|AlAmran, 2019]] used GC-FID to analyze aliphatic hydrocarbons (TPH) in sediment and plant tissues.
+- [[2019-alamran|AlAmran, 2019]] used GC-FID for analyzing aliphatic hydrocarbons (TPH) in sediment and plant tissues.
 
 ## Instruments and Software
 
 
 
-- [[2015-arslan|Arslan, 2015]] used GC/FID to quantify total hydrocarbon content (THC) from sediment extracts.
+- [[2016-ibrahim|Ibrahim, 2016]] used GC-FID to determine the concentration of palmitic acid and other fatty acids in isolated strains.
 
-- [[2016-ibrahim|Ibrahim, 2016]] used GC-FID to quantify lipid content and determine the fatty acid profiles of three microalgae strains.
-
-- [[2019-alamran|AlAmran, 2019]] used GC-FID to analyze aliphatic hydrocarbons (TPH) in sediment and plant tissues.
+- [[2019-alamran|AlAmran, 2019]] used GC-FID for analyzing aliphatic hydrocarbons (TPH) in sediment and plant tissues.
 
 ## Typical Workflow
 
@@ -52,13 +46,11 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The average reduction rate of EDC and oil was approximately 4% as measured by GC/FID. ([[2014-abdallah|Abdallah, 2014, p. 70]])
+- Quantified THC using a hydrocarbon window of C10 to C36. ([[2015-arslan|Arslan, 2015, p. 104]])
 
-- No hydrocarbon contamination was detected in the water or sediment samples. ([[2015-arslan|Arslan, 2015, p. 95]])
+- GC-FID showed 18%, 22% and 16% concentration of palmitic acid in S1, S2, and S3 respectively. ([[2016-ibrahim|Ibrahim, 2016, p. 12]])
 
-- S2 strain showed a high concentration of palmitic and stearic acids, making it promising for biofuel production. ([[2016-ibrahim|Ibrahim, 2016, p. 68]])
-
-- Used for the quantification of total petroleum hydrocarbons (TPH). ([[2019-alamran|AlAmran, 2019, p. 15]])
+- Determined TPH concentrations following the order: sediment > bark > leaf > root. ([[2019-alamran|AlAmran, 2019, p. 15]])
 
 ## Methodological Variations Across Sources
 

@@ -2,39 +2,42 @@
 type: technique
 title: "Risk Analysis"
 aliases:
-  - "@RISK"
   - "Risk Analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "probabilistic distribution of volumes"
+output: "Not stated in source"
 tags:
-  - technique/risk-analysis
-  - theme/uncertainty-quantification
+  - theme/risk-analysis
 sources:
-  - "raw/10389 - Integrated deterministicprobabilistic petroleum volume evaluation for a carbonat.pdf"
   - "raw/138942 - Identification of Discontinuous Oil Bearing Sandstone Bodies by Direct Modeling .pdf"
+  - "raw/140288 - RISK BASED APPROACH TO PREDICT CASING LEAKS USING ELECTROMAGNETIC CORROSION LOGS.pdf"
+  - "raw/143308 - HUMAN HEALTH RISK ASSESSMENT OF INDUSTRIAL AIR POLLUTANT EMISSIONS UNDER DIFFERE.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-20
 ---
 
 # Risk Analysis
 
-**Summary**: The use of software tools to perform probabilistic modeling and risk assessment in engineering and geoscience.
+**Summary**: The process of identifying and quantifying uncertainties in geological models to inform drilling decisions.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2003-al-shridi|Al-Shridi, 2003]] employed the @RISK tool for performing Monte Carlo simulations on reservoir data.
-
 - [[2013-atig|atig, 2013]] performed risk analysis for well planning in the stringer zones.
+
+- [[2017-al-ajmi|Al-Ajmi, 2017]] used risk analysis to determine the optimal ARBRc value.
+
+- [[2025-al-afif|Al-Afif, 2025]] applied risk-analysis to determine Hazard Indices (HI) and Hazard Quotients (HQ).
 
 ## Instruments and Software
 
 
 
-- [[2013-atig|atig, 2013]] performed risk analysis for well planning in the stringer zones.
+- [[2017-al-ajmi|Al-Ajmi, 2017]] used risk analysis to determine the optimal ARBRc value.
+
+- [[2025-al-afif|Al-Afif, 2025]] applied risk-analysis to determine Hazard Indices (HI) and Hazard Quotients (HQ).
 
 ## Typical Workflow
 
@@ -42,9 +45,11 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- The @RISK software was used as a primary tool for integrating deterministic and probabilistic data. ([[2003-al-shridi|Al-Shridi, 2003, p. 105]])
+- The hybrid model provided a balance between high prediction success (70.3%) and geologically acceptable facies distribution. ([[2013-atig|atig, 2013, p. 83]])
 
-- The study aims to contribute to the endeavor of mitigating risk while drilling by producing a probabilistic analysis of the occurrence of sand bodies. ([[2013-atig|atig, 2013, p. 70]])
+- Optimal ARBRc was found at 0.58, minimizing the Casing Integrity Management Cost (CIMC). ([[2017-al-ajmi|Al-Ajmi, 2017, p. 69]])
+
+- The HI dropped by 72.4% under the fuel-shifting scenario, significantly reducing human health risks. ([[2025-al-afif|Al-Afif, 2025, p. 58]])
 
 ## Methodological Variations Across Sources
 

@@ -12,142 +12,111 @@ committee_members:
   - "John Humphrey"
 source_file: "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142649/"
-study_area: "Northern Konawe Regency, Indonesia and Jizan, Saudi Arabia"
+study_area: "Northern Konawe (Indonesia) and Jizan (Saudi Arabia)"
 keywords:
-  - Lineament analysis
-  - Fault density
-  - Non-volcanic geothermal systems
-  - Permeable zones
-  - Remote sensing
-  - Fracture observation
-  - lineament density analysis
-  - fault and fracture
-  - hydrochemical analysis
-  - High permeable zones
+  - Lineament Density Analysis
+  - Non-Volcanic Geothermal Systems
+  - Remote Sensing
   - Faults
   - Fractures
-  - geothermal fields
-  - fracture measurement
-  - hydrothermal fluid flow
-  - Fault fracture density (FFD)
-  - Geothermal exploration
+  - Permeable Zones
+  - High permeable zones
+  - Fracture characterization
+  - Hydrochemical analysis
 techniques:
   - gis
-  - dem
-  - remote-sensing
-  - hydrochemical-analysis
-  - dem-processing
   - pci-geomatica
-  - manual-tracing
-  - kernel-density-tool
-  - fuzzy-and-overlay
-  - scanline-sampling
-  - ion-chromatography
-  - icp-ms
-  - fuzzy-logic
-  - isotope-geochemistry
-  - tritium-analysis
+  - remote-sensing
   - lineament-analysis
+  - hydrochemical-analysis
+  - icp-ms
+  - ion-chromatography
+  - scanline-sampling
+  - statistical-analysis
+  - fuzzy-logic
 tags:
   - degree/ms
   - formation/wajid-sandstone
-  - location/saudi-arabia
   - location/indonesia
+  - location/saudi-arabia
   - technique/gis
-  - technique/hydrochemical-analysis
   - technique/remote-sensing
   - technique/lineament-analysis
+  - technique/hydrochemical-analysis
+  - technique/statistical-analysis
+  - technique/fuzzy-logic
   - theme/geothermal-energy
-  - theme/structural-geology
   - theme/fracture-characterization
-  - terminology/permeability
-  - terminology/geothermal-energy
-  - terminology/lineament-analysis
+  - theme/geothermal-exploration
   - terminology/fracture-characterization
+  - terminology/geothermal-energy
+  - terminology/permeability
 status: ingested
 ---
 
 # LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANIC GEOTHERMAL SYSTEMS: CASE STUDIES FROM SAUDI AND INDONESIAN NON-VOLCANIC GEOTHERMAL FIELDS
 
-**Summary**: The thesis investigates high permeable zones in two non-volcanic geothermal fields, Northern Konawe (Indonesia) and Jizan (Saudi Arabia), using lineament density analysis from remote sensing data. It concludes that while remote sensing identifies highly fractured areas, ground-truthing is essential to distinguish between mineralized fractures and open fractures for accurate permeability assessment.
+**Summary**: The thesis investigates high permeable zones in non-volcanic geothermal systems in Northern Konawe, Indonesia, and Jizan, Saudi Arabia. It utilizes integrated manual and automated remote sensing lineament analysis combined with field ground truthing to identify areas of high fracture density as indicators for potential geothermal development.
 
 ---
 
 ## Research Problem
 
-The identification of high permeable zones within non-volcanic geothermal reservoirs is critical but challenging due to limited exploration in these systems compared to volcanic ones. Specifically, the study addresses the need for more accurate methods to delineate permeability using remote sensing and ground truthing in both Indonesia and Saudi Arabia.
+The identification of high permeable zones within non-volcanic geothermal reservoirs is critical but challenging due to the lack of extensive exploration in these specific systems, particularly in Saudi Arabia. There is also uncertainty regarding the accuracy of automated vs. manual lineament extraction methods.
 
 ## Objectives
 
-- Analyze lineament density to identify potential high permeability zones.
-- Validate remote sensing data using field ground truthing and fracture measurements.
-- Perform hydrochemical analysis of hot springs to characterize the geothermal system.
-- Compare non-volcanic geothermal systems in Indonesia and Saudi Arabia.
-- Examine high permeable zones in Northern Konawe (Indonesia) and Jizan (Saudi Arabia) using integrated remote sensing lineament density analysis and field investigation.
-- Determine the surface spatial distribution and orientation of structural features based on comprehensive lineament analysis.
-- Compare remote sensing lineament data with field-mapped fractures and faults.
-- Determine the relative age of fractures and faults through cross-cutting relationships.
+- Examine the surface spatial distribution and orientation of structural features using integrated remote sensing lineament analysis (manual and automatic).
+- Compare the density and orientation of remotely sensed lineaments with field-mapped fractures and faults.
+- Determine the relative age of fractures and faults based on cross-cutting relationships.
 - Identify high permeable zones in both case studies based on fault and fracture density.
-- Evaluate the reliability of integrating automated/manual lineament analysis with interpreted faults to delineate permeable zones.
-- Analyze lineament and fault density in Northern Konawe and Jizan using automated and manual extraction methods.
-- Identify high permeable zones based on fuzzy 'AND' overlay of lineaments and faults.
-- Validate remote sensing data through ground-truthing observations of fracture types (mineralized vs. open) and hydrochemical analysis.
-- Identify promising geothermal areas in Northern Konawe and Jizan using remote sensing and outcrop observation.
-- Analyze lineament density and orientation to gain insights into hydrothermal fluid flow direction and potential source zones.
-- Validate remote sensing data (lineaments/faults) with ground-truthing fracture measurements.
-- Determine the most prospective areas for geothermal reservoir development in both study sites.
-- Analyze lineament density and fault fracture density (FFD) to identify high permeability zones.
-- Evaluate the potential of non-volcanic geothermal fields in Indonesia and Saudi Arabia.
-- Develop a conceptual model for hydrochemical exploration in southwestern Saudi Arabia.
+- Evaluate the reliability of integrating lineament analysis (both automated and manual) with interpreted faults to delineate high permeable zones.
+- Identify high permeable zones in the Northern Konawe and Jizan geothermal fields using lineament density analysis.
 
 ## Methods
 
-The study used Digital Elevation Models (DEM) from SRTM processed via Geomatica 2017 and ArcMap 10.8. Lineaments were extracted using both manual tracing and the LINE module in PCI Geomatica with specific parameters (filter radius, edge gradient, etc.). Statistical analysis included power-law distribution checks and rose diagrams. Kernel density tools were used to create Fault Fracture Density (FFD) maps. These maps were overlaid using a Fuzzy 'AND' technique to identify permeable zones. Ground truthing involved scanline sampling of fractures in 8 locations in Konawe and specific areas in Jizan. Hydrochemical analysis of hot springs in Jizan included measurement of temperature, TDS, EC, Ion Chromatography for major ions, and ICP-MS for trace elements.
+The study used Digital Elevation Models (DEM) from SRTM. Lineaments were extracted using PCI Geomatica (LINE module) with specific parameters (filter radius 20, edge gradient 200, etc.) and manually via ArcMap. Statistical analysis included power-law distribution checks and rose diagrams for orientation. Kernel density tools in ArcMap generated lineament and fault density maps. A Fuzzy 'AND' overlay technique was used to identify high permeability zones. Ground truthing involved outcrop mapping of fracture types (carbonate veins, silica veins, open fractures, shear fractures) and scanline sampling for intensity. Hydrochemical analysis included Ion Chromatography and ICP-MS for hot spring water in Jizan.
 
 ## Data and Materials
 
-Two study areas: Northern Konawe (Indonesia) and Jizan (Saudi Arabia). Data includes SRTM DEMs, 392 automatically extracted lineaments, 1522 manually extracted lineaments, 11 digitized faults from Rusmana et al. (1993), and hydrochemical data from three hot springs in the Al Ardah Area.
+Two study areas: Northern Konawe (Indonesia) and Jizan (Saudi Arabia). Data includes SRTM DEMs, 392 automatically extracted lineaments (Konawe), 1522 manually extracted lineaments (Konawe), 4874 automatically extracted lineaments (Jizan), 2020 manually extracted lineaments (Jizan), and 44 mapped faults in Jizan. Field data includes 8 ground-truthing locations in Konawe and 7 in Jizan.
 
 ## Key Findings
 
-- Identified three permeable zones in the Northern Konawe Geothermal Field: Zone A near Lasolo, Zone B between Meluhu and Lembo, and Zone C around Amonggedo. ([[2023-arrofi|Arrofi, 2023, p. 16]])
-- Identified three permeable zones in the Jizan Geothermal Field: Zone A in the northwestern part of Bani Malik, Zone B in the eastern area of Al Ardah, and Zone C between Al Ardah and Al Khouba. ([[2023-arrofi|Arrofi, 2023, p. 17]])
-- Zone B was identified as the most promising geothermal area for development in both Northern Konawe and Jizan fields. ([[2023-arrofi|Arrofi, 2023, p. 17]])
-- The fuzzy 'AND' overlaying method proved to be a powerful tool for preliminary exploration by identifying high surface fracture density areas. ([[2023-arrofi|Arrofi, 2023, p. 16]])
-- The study identified 392 automatically-extracted lineaments and 1522 manually-extracted lineaments in the Northern Konawe area. ([[2023-arrofi|Arrofi, 2023, p. 46]])
-- Automatically-extracted lineaments significantly follow a power law distribution (R-squared value not fully shown on page 46). ([[2023-arrofi|Arrofi, 2023, p. 46]])
-- Hot spring temperatures in Northern Konawe range from 30.2 to 65.5°C. ([[2023-arrofi|Arrofi, 2023, p. 32]])
-- Reservoir temperature in Jizan is estimated at 151.4°C (silica geothermometer) and 180-200°C (Na-K geothermometer). ([[2023-arrofi|Arrofi, 2023, p. 38]])
-- Jizan area features high heat production (HP: 2.19 – 8.04 µWm-3) and high heat generation unit (0.76 – 19.07 HGU). ([[2023-arrofi|Arrofi, 2023, p. 37]])
-- Four dominant fracture sets were identified in Jizan Basalts Group: (1) N 25°W/60°, (2) N 30°E/70°, (3) N-S/80°, and (4) N 60°W/60°. ([[2023-arrofi|Arrofi, 2023, p. 34]])
-- In Northern Konawe, automatically-extracted lineaments showed high density (1.19 to 1.97 Km/Km2) in areas like Lasolo and Wawolesea, while hot springs were located in low density areas (0 to 0.4 Km/Km2). ([[2023-arrofi|Arrofi, 2023, p. 51]])
-- In Jizan, faults showed a higher mean length (8.484 km) and standard deviation (7.752 km) compared to both automatically-extracted lineaments (2.563 km) and manually-extracted lineaments (0.949 km). ([[2023-arrofi|Arrofi, 2023, p. 63]])
-- Ground-truthing in Northern Konawe revealed that the Meluhu Formation had the highest fracture density, while no fractures were observed in the Tokala Formation. ([[2023-arrofi|Arrofi, 2023, p. 54]])
-- In Jizan, carbonate veins (CV) were not specifically differentiated from silica veins (SV) in the summary table but were identified as having a mean aperture of 2.59 mm in Northern Konawe (specifically at GT-2). ([[2023-arrofi|Arrofi, 2023, p. 55]])
-- Silica veins in Northern Konawe showed a larger average aperture size (17.27 mm) compared to carbonate veins. ([[2023-arrofi|Arrofi, 2023, p. 55]])
+- In Northern Konawe, automatically-extracted lineaments followed a power law distribution with an R-squared value of 0.9615. ([[2023-arrofi|Arrofi, 2023, p. 29]])
+- Faults in Northern Konawe had the highest mean length (9.82 km) and range (17.697 km) compared to automatically (1.704 km) and manually (0.756 km) extracted lineaments. ([[2023-arrofi|Arrofi, 2023, p. 30]])
+- In Northern Konawe, carbonate veins were exclusively observed in the phyllite and marble of the Meluhu Formation, while silica veins were primarily in the sandstone of the same formation. ([[2023-arrofi|Arrofi, 2023, p. 37]])
+- The average aperture size of carbonate veins was 2.59 mm, while silica veins had a larger average aperture size of 17.27 mm. ([[2023-arrofi|Arrofi, 2023, p. 38]])
+- In Jizan, automatically-extracted lineaments showed high R-squared values (0.9096) for power law distribution, while fault length distribution had a low R-squared value (0.4771). ([[2023-arrofi|Arrofi, 2023, p. 43]])
+- In Jizan, the average mean length of faults was 8.484 km, significantly higher than automatically (2.563 km) and manually (0.949 km) extracted lineaments. ([[2023-arrofi|Arrofi, 2023, p. 43]])
+- Hot springs in Northern Konawe were located in areas of very low lineament density for both automated and manual extractions, suggesting a need for ground-truthing to validate remote sensing results. ([[2023-arrofi|Arrofi, 2023, p. 53]])
+- In Jizan, the majority of lineaments are found distributed in northeastern Jizan, particularly around Al Ardah and Al Khouba. ([[2023-arrofi|Arrofi, 2023, p. 47]])
+- In Northern Konawe, three permeable zones (A, B, C) were identified; Zone B was determined to be the most prospective due to its size and alignment with hydro-thermal flow indicators. ([[2023-arrofi|Arrofi, 2023, p. 76]])
+- In Jizan, three permeable zones (A, B, C) were delineated; Zone B (195.89 km²) was identified as the most prospective area for geothermal development. ([[2023-arrofi|Arrofi, 2023, p. 82]])
+- Ground-truthing in Jizan revealed that while lineament density identifies high fracture counts, only 'open' fractures (OF) contribute to fluid flow; many observed features were mineralized veins. ([[2023-arrofi|Arrofi, 2023, p. 83]])
+- Hydrochemical analysis of Jizan hot springs showed temperatures between 180°C and 200°C, indicating a medium enthalpy system with a non-volcanic heat source. ([[2023-arrofi|Arrofi, 2023, p. 87]])
+- Isotopic analysis ($\delta^{18}O$ of -3.09 to -2.93 \u0011 and $\delta^2H$ of -12.1 to -10.9 \u0011) indicated that the recharge of hydrothermal fluids is predominantly influenced by precipitation. ([[2023-arrofi|Arrofi, 2023, p. 87]])
+- The fuzzy 'AND' overlay of lineaments and faults showed the highest consistency with ground-truthing results compared to individual lineament or fault density maps. ([[2023-arrofi|Arrofi, 2023, p. 92]])
 
 ## Limitations
 
-Remote sensing analysis has resolution limitations that prevent the detection of secondary orientations; furthermore, lineament density does not directly indicate permeability as it cannot distinguish between open and mineralized fractures.
+Remote sensing analysis has resolution limits that prevent the identification of specific fracture types (e.g., distinguishing between open fractures and mineralized veins).
 
 ## Recommendations and Future Work
 
-- Integrate geophysical data (seismic or ERT) with remote sensing to better understand subsurface structure.
-- Use machine learning algorithms to predict high permeable zones from multi-source data.
-- Conduct core sampling to determine porosity, permeability, and fluid saturation.
-- Perform well-logging surveys for detailed lithology and fluid property mapping.
-- Utilize radiometric dating of granitic rocks to understand the heat source and thermal history.
+- Integrate geophysical data (seismic, electrical resistivity tomography) with remote sensing.
+- Use machine learning to predict high permeable zones from multi-source data.
+- Conduct core analysis for porosity, permeability, and fluid saturation.
+- Perform well-logging surveys for detailed subsurface stratigraphy.
+- Utilize radiometric dating of granitic rocks to determine heat source and thermal history.
 
 ## Related Concepts
 
-- [[gis]]
-- [[hydrochemical-analysis]]
-- [[permeability]]
-- [[geothermal-energy]]
-- [[saudi-arabia]]
-- [[remote-sensing]]
-- [[indonesia]]
-- [[structural-geology]]
 - [[lineament-analysis]]
-- [[wajid-sandstone]]
+- [[hydrochemical-analysis]]
 - [[fracture-characterization]]
+- [[geothermal-energy]]
+- [[indonesia]]
+- [[saudi-arabia]]
+- [[permeability]]
+- [[wajid-sandstone]]

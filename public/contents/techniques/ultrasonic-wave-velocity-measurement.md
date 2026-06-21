@@ -2,34 +2,38 @@
 type: technique
 title: "Ultrasonic Wave Velocity Measurement"
 aliases:
-  - "ultrasonic wave velocities"
-  - "Vp, Vs"
+  - "P-wave measurement"
+  - "S-wave measurement"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "Vp and Vs velocities in m/sec"
+output: "P-wave and S-wave velocities (m/s)"
 tags:
   - technique/ultrasonic-wave-velocity-measurement
-  - theme/petrophysics
 sources:
-  - "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
+  - "raw/138834 - Effect of Saturation on Acoustic of Carbonate Rock.pdf"
+  - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Ultrasonic Wave Velocity Measurement
 
-**Summary**: Measurement of the speed of ultrasonic waves through a rock sample to determine elastic properties.
+**Summary**: Measurement of the speed at which longitudinal and transverse waves travel through a medium.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2021-albensaad|Albensaad, 2021]] used ultrasonic wave velocity measurements to calculate core-based Young's modulus and Poisson's ratio.
+- [[2012-elhaj|Elhaj, 2012]] performed ultrasonic-wave-velocity-measurement to determine P-wave and S-wave velocities under varying pressures.
+
+- [[2015-abdlmutalib|Abdlmutalib, 2015]] used ultrasonic-wave-velocity-measurement to calculate dynamic elastic moduli like Young's modulus and Poisson's ratio.
 
 ## Instruments and Software
 
 
+
+- [[2015-abdlmutalib|Abdlmutalib, 2015]] used ultrasonic-wave-velocity-measurement to calculate dynamic elastic moduli like Young's modulus and Poisson's ratio.
 
 ## Typical Workflow
 
@@ -37,7 +41,9 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Primary wave velocities (Vp) showed a stronger correlation with Leeb hardness than shear waves (Vs). ([[2021-albensaad|Albensaad, 2021, p. 52]])
+- P-wave and S-wave velocities increased with confining pressure in dry samples, while only P-wave increased in saturated samples. ([[2012-elhaj|Elhaj, 2012, p. 98]])
+
+- Unit-1 is characterized by large variability in wave velocity due to strong stratigraphic cyclicity. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 81]])
 
 ## Methodological Variations Across Sources
 

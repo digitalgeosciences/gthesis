@@ -1,33 +1,31 @@
 ---
 type: technique
-title: "Insar"
+title: "InSAR"
 aliases:
   - "InSAR"
-  - "DInSAR"
-  - "SBAS"
-  - "PSI"
+  - "Interferometry of Synthetic Aperture Radar"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "interferograms and displacement maps"
+output: "displacement maps (cm)"
 tags:
   - technique/insar
   - theme/land-subsidence
 sources:
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
-# Insar
+# InSAR
 
-**Summary**: A radar imaging technique used to measure ground deformation by comparing the phase of two satellite signals.
+**Summary**: A radar technique used to measure ground deformation by comparing the phase difference between two SAR images.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2019-prasetyo|Prasetyo, 2019]] applied InSAR processing via SNAP and Snaphu to map land subsidence.
+- [[2019-prasetyo|Prasetyo, 2019]] applied InSAR to monitor local land subsidence in agricultural and urban zones.
 
 ## Instruments and Software
 
@@ -39,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Sentinel-1A data provided a spatial resolution of 5m x 20m for monitoring subsidence. ([[2019-prasetyo|Prasetyo, 2019, p. 36]])
+- Identified cumulative subsidence of -8 cm to -13 cm in Dammam-Qatif agriculture areas. ([[2019-prasetyo|Prasetyo, 2019, p. 56]])
 
 ## Methodological Variations Across Sources
 

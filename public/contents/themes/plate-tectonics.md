@@ -1,44 +1,42 @@
 ---
 type: theme
 title: "Plate Tectonics"
-aliases:
-  - "tectonic-analysis"
+aliases: []
 canonical: true
-description: "Study of the large-scale movements and interactions of lithospheric plates."
-key_challenges: "Determining the exact number and geometry of slabs in complex multi-plate collision zones."
-tags:
-  - theme/plate-tectonics
+description: "Not stated in source"
+key_challenges: "Not stated in source"
+tags: []
 sources:
   - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Plate Tectonics
 
-**Summary**: The theory that Earth's lithosphere is divided into plates that move and interact.
+**Summary**: Broad research theme addressed in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] analyzed the plate-tectonics of the Sulawesi region to understand slab interactions.
+- [[2025-kesumastuti|Kesumastuti, 2025]] contributed to the theme of Plate Tectonics
 
 ## Key Subtopics
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] ['slab interaction', 'mantle flow', 'subduction zone dynamics']
+
 
 ## Methods and Approaches Used
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] ['tomography', 'shear-wave splitting']
+
 
 ## Key Findings Across Sources
 
-- The configuration of H1, H2, and H3 corroborates several studies highlighting tectonic activity from multiple converging plates. ([[2025-kesumastuti|Kesumastuti, 2025, p. 80]])
+- contributed to the theme of Plate Tectonics ([[2025-kesumastuti|Kesumastuti, 2025]])
 
 ## Competing Approaches and Debates
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Determining the exact number and geometry of slabs in complex multi-plate collision zones.
+
 
 ## Open Questions and Research Gaps
 

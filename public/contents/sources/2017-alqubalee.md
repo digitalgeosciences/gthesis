@@ -12,39 +12,43 @@ committee_members:
   - "Mohammed Makkawi"
 source_file: "raw/140296 - LITHOFACIES AND PETROPHYSICAL CHARACTERIZATION OF THE LATE ORDOVICIAN SARAH FORM.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140296/"
-study_area: "Sarah Formation, Rub’ Al-Khali Basin, Saudi Arabia"
+study_area: "Rub’ Al-Khali Basin, Saudi Arabia"
 keywords:
+  - Lithofacies
+  - Petrophysical characterization
   - Late Ordovician
   - Sarah Formation
-  - lithofacies
-  - petrophysical characterization
-  - tight gas sand reservoir
-  - geochemical characterization
-  - sedimentology
-  - Rub' Al-Khali Basin
-  - Glacial environment
-  - Sandstone
-  - glaciogenic
-  - Saudi Arabia
+  - Tight gas sand reservoir
   - Rub’ Al-Khali Basin
-  - Geochemical analysis
-  - Sandstone classification
-  - Mineralogical maturity
+  - Rub' Al-Khali Basin
+  - sedimentary structures
+  - geochemistry
+  - petrography
+  - glaciogenic
   - porosity
   - permeability
   - diagenesis
+  - reservoir quality
 techniques:
-  - sgr
   - xrd
-  - xrf
   - sem-eds
+  - xrf
   - thin-section-petrography
-  - well-log-analysis
   - core-analysis
-  - spectral-core-gamma
+  - sgr
   - sem
-  - geochemistry
+  - edx
+  - petrophysics
+  - well-log-analysis
+  - gravity-surveys
+  - spectral-core-gamma
   - gamma-ray-spectrometry
+  - petrography
+  - microfacies-analysis
+  - lithofacies-analysis
+  - mineralogy
+  - general-geochemistry
+  - microscopy
 tags:
   - degree/ms
   - formation/sarah-formation
@@ -54,96 +58,81 @@ tags:
   - technique/sem-eds
   - technique/xrf
   - technique/thin-section-petrography
-  - technique/well-log-analysis
+  - technique/porosity
   - technique/core-analysis
   - technique/sem
-  - technique/geochemistry
+  - technique/well-log-analysis
+  - technique/petrophysics
+  - technique/gravity-surveys
+  - technique/sem-ed
   - technique/gamma-ray-spectrometry
+  - technique/petrography
+  - technique/microfacies-analysis
+  - technique/lithofacies-analysis
+  - technique/microscopy
   - theme/petrophysics
   - theme/tight-gas-reservoirs
   - theme/sedimentology
-  - theme/paleoenvironmental-reconstruction
-  - terminology/lithofacies
-  - terminology/reservoir-quality
-  - terminology/tight-gas-reservoirs
-  - terminology/diagenesis
-  - terminology/depositional-environments
-  - terminology/petrophysics
-  - terminology/mineralogical-maturity
-  - terminology/sand-class-system
+  - theme/lithostratigraphy
+  - terminology/facies-analysis
   - terminology/porosity
   - terminology/permeability
+  - terminology/diagenesis
+  - terminology/mineralogical-maturity
+  - terminology/petrophysics
+  - terminology/sedimentology
+  - terminology/tight-gas-reservoirs
 status: ingested
 ---
 
 # LITHOFACIES AND PETROPHYSICAL CHARACTERIZATION OF THE LATE ORDOVICIAN SARAH FORMATION, RUB’ AL-KHALI BASIN, SAUDI ARABIA
 
-**Summary**: The thesis investigates the lithofacies, petrographical, geochemical, and petrophysical characteristics of the Late Ordovician Sarah Formation in the Rub’ Al-Khali Basin. It identifies four distinct lithofacies associations (FA1-FA4) corresponding to nearshore, glaciolacustrine delta, subglacial, and glaciofluvial environments, concluding that reservoir quality varies significantly across these settings.
+**Summary**: The thesis investigates the lithofacies, petrophysical properties, and depositional environments of the Late Ordovician Sarah Formation in the Rub’ Al-Khali Basin. By analyzing core samples from six wells, it identifies four lithofacies associations (FA1-FA4) corresponding to distinct environments (nearshore, glaciolacustrine delta, subglacial, and glaciofluvial), concluding that reservoir quality is primarily controlled by mineralogical dissolution, fracturing, and cementation.
 
 ---
 
 ## Research Problem
 
-The Sarah Formation is a potential tight gas sand reservoir, but its evaluation is complicated by significant heterogeneity in lithofacies, paleoenvironmental, and paleogeographic settings.
+The Sarah Formation is a potential tight gas sand reservoir in the Rub’ Al-Khali Basin, but its exploration faces challenges due to significant lithofacies, paleoenvironmental, and paleogeographic heterogeneity.
 
 ## Objectives
 
-- Investigate lithofacies of the Sarah Formation
-- Perform petrographical characterization (mineralogy and texture)
-- Conduct geochemical analysis to determine mineralogical maturity and provenance
-- Evaluate petrophysical properties (porosity and permeability) to assess reservoir quality
 - Determine the lithofacies and their depositional environment.
 - Characterize the identified lithofacies in terms of their petrographical, petrophysical and geochemical characteristics.
 - Identify reservoir heterogeneity and quality, and define sweet spots.
-- Identify and classify lithofacies within the Sarah Formation
-- Perform petrographic analysis of core samples to determine mineralogy and texture
-- Conduct geochemical and petrophysical characterization (porosity, permeability)
-- Interpret depositional environments for identified lithofacies associations
-- Perform petrographical characterization of core samples
-- Conduct geochemical and petrophysical analysis to understand reservoir potential
-- Perform petrographical analysis to determine mineralogical maturity
-- Conduct geochemical analysis using XRF and Spectral Gamma Ray to identify minerals and cement types
-- Characterize petrophysical properties (porosity, permeability) in relation to lithofacies and diagenesis
-- Perform petrographical, geochemical, and petrophysical characterization
-- Analyze porosity and permeability data to evaluate reservoir heterogeneity
-- Identify factors controlling the development of sweet spots (fractures, dissolution, etc.)
-- Investigate lithofacies of the Sarah Formation from core samples retrieved from six wells (Well-A to Well-F).
-- Perform petrographical, geochemical, and petrophysical characterizations of the formation.
-- Classify core intervals into lithofacies associations based on lithology, grain size, sorting, and bioturbation.
-- Interpret depositional environments for each lithofacies association.
-- Perform petrographical analysis of core samples
-- Conduct geochemical characterization of the formation
-- Evaluate petrophysical properties to characterize the reservoir
+- Investigate lithofacies of the Sarah Formation from core samples.
+- Conduct petrographic analysis of thin sections to determine mineralogy and texture
+- Perform geochemical analysis (XRF) to determine elemental composition
 
 ## Methods
 
-The study employs a multi-scale approach: 1. Petrography: Thin-section analysis and XRD were used to identify mineralogy and cement types (e.g., anhydrite, barite, siderite). 2. Geochemistry: XRF was used to determine major elements (Si, Al, Fe, K, S, Ca, Ti, Mn, P, Mg) and trace elements (Cr, Sr, V, Zn, Zr, Ni, Ba), while Spectral Core Gamma (SGR) provided Th, K, and U data. 3. Petrophysics: Well logs (Gamma Ray, Porosity, Permeability) were integrated with core data to evaluate reservoir quality across different depositional environments.
+The study utilizes core analysis and thin-section petrography to identify lithofacies and diagenetic features. Petrophysical data (porosity and permeability) were collected from six wells (A-F) representing various depositional environments (nearshore, glaciolacustrine delta, glaciofluvial, and subglacial). Statistical analysis, including the coefficient of variation (CV), was used to quantify heterogeneity. Outlier detection using box plots (IQR method) was performed to isolate the impact of natural fractures on permeability. Correlation analyses were conducted between porosity and permeability across different lithofacies.
 
 ## Data and Materials
 
-The study analyzed 49 samples for geochemical analysis from six wells (Well-A through Well-F). Data included XRD results for cement identification, XRF elemental concentrations, and Spectral Gamma Ray readings (Th, K, U) for clay mineralogy characterization.
+Core samples from 6 wells (Well-A, Well-B, Well-C, Well-D, Well-E, and Well-F) in the Rub’ Al-Khali Basin; XRD data for multiple samples; thin section photomicrographs; petrophysical measurements of porosity (%) and permeability (mD).
 
 ## Key Findings
 
-- The Sarah Formation is identified as a potential tight gas sand reservoir in the Rub’ Al-Khali Basin. ([[2017-alqubalee|Alqubalee, 2017, p. 17]])
-- Four main lithofacies were identified: FA1 (Bioturbated Massive Sandstone), FA2 (Grayish Massive Sandstone), FA3 (Diamictites), and FA4 (Partially Deformed Graded to Massive Sandstone). ([[2017-alqubalee|Alqubalee, 2017, p. 9]])
-- XRD analysis was used to determine the mineralogical composition of core samples across all wells. ([[2017-alqubalee|Alqubalee, 2017, p. 14]])
-- SEM-EDS analysis identified pore-filling minerals and helped characterize the petrographical features of the formation. ([[2017-alqubalee|Alqubalee, 2017, p. 14]])
-- Geochemical analysis using XRF revealed a distinction between biogenic quartz (nearshore) and terrestrial input (subglacial environment). ([[2017-alqubalee|Alqubalee, 2017, p. 15]])
-- The study identified high reservoir quality zones with porosity values of 9-14% and permeability greater than 1 mD. ([[2017-alqubalee|Alqubalee, 2017, p. 16]])
-- Moderate reservoir quality was defined by porosity between 1-12% and permeability between 0.1-1 mD. ([[2017-alqubalee|Alqubalee, 2017, p. 17]])
-- Poor reservoir quality was characterized by porosity of 0-11% and permeability less than 0.1 mD. ([[2017-alqubalee|Alqubalee, 2017, p. 17]])
 - The nearshore environment is characterized by subarkoze sandstone with porosity ranging from 4.5% to 13.5% and permeability ranging from 0.04 mD to 17.46 mD, showing high reservoir quality enhanced by fractures and feldspar dissolutions. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
 - The glaciofluvial environment is characterized by sublitharenite sandstone with porosity ranging from 0.7% to 6.4% and permeability ranging from 0.03 mD to 4.21mD, exhibiting moderate reservoir quality controlled by grain compaction, poor sorting, and silica overgrowth. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
 - The glaciolacustrine and subglacial environments are quartzarenite to sublitharenite sandstones with permeability less than 0.1 mD and variable porosity. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
-- Lithofacies were grouped into four associations: massive bioturbated sandstone, grayish massive sandstone, diamictites, and partially deformed, graded to massive sandstone. ([[2017-alqubalee|Alqubalee, 2017, p. 19]])
-- Four depositional environments were identified: nearshore lake, glaciolacustrine delta, subglacial tillite, and glaciofluvial outwash. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
-- The Sarah Formation is a heterogeneous reservoir where lithofacies heterogeneity impacts reservoir quality and architecture. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
-- Four distinct lithofacies associations were identified: FA1 (nearshore), FA2 (glaciolacustrine delta), FA3 (subglacial tillite), and FA4 (glaciofluvial). ([[2017-alqubalee|Alqubalee, 2017, p. 65]])
+- Natural fractures and feldspar dissolutions enhanced the reservoir quality of glaciolacustrine and subglacial environments, while matrix content, compaction, and cementation diminished the quality of diamictite lithofacies. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
+- The glaciolacustrine and subglacial environments exhibit significant variation in their geochemical characteristics due to variations in mineralogical composition. ([[2017-alqubalee|Alqubalee, 2017, p. 20]])
+- The Sarah Formation is characterized by low porosity and low permeability, qualifying it as a tight gas sand reservoir. ([[2017-alqubalee|Alqubalee, 2017, p. 24]])
+- The study identified four lithofacies associations: FA1 (nearshore), FA2 (glaciolacustrine delta), FA3 (subglacial tillite), and FA4 (glaciofluvial). ([[2017-alqubalee|Alqubalee, 2017, p. 65]])
+- Well-A contains a coarsening upward sequence from claystone to sandstone, indicating a progradational sequence during regression. ([[2017-alqubalee|Alqubalee, 2017, p. 65]])
+- Biogenic silica zones were identified in FA1 through geochemical analysis and thin section study. ([[2017-alqubalee|Alqubalee, 2017, p. 65]])
+- Well-B contains complex deformation features including folded laminae, tension veins, and mud-filled fractures. ([[2017-alqubalee|Alqubalee, 2017, p. 53]])
+- Well-D is characterized by two main lithofacies: a matrix-supported diamictite (F1) and an argillaceous sandstone (F2). ([[2017-alqubalee|Alqubalee, 2017, p. 58]])
+- Well-E shows complex sedimentary structures including cross-stratification, inverse grading, and convoluted structures. ([[2017-alqubalee|Alqubalee, 2017, p. 60]])
+- Well-F contains a transition zone between the Sarah and Qusaiba Formations in its F2 and F3 lithofacies. ([[2017-alqubalee|Alqubalee, 2017, p. 64]])
+- The Sarah Formation is characterized by diverse facies ranging from periglacial to proglacial (glaciofluvial and glaciomarine). ([[2017-alqubalee|Alqubalee, 2017, p. 53]])
+- Well-A core interval is characterized as a nearshore environment with Q93F6.6L0.4 composition. ([[2017-alqubalee|Alqubalee, 2017, p. 55]])
 
 ## Limitations
 
-The core samples do not represent the entire Sarah Formation; specifically, only a portion of the formation was sampled from each well.
+The core samples do not represent the entire Sarah Formation; Well-A was from the middle part while others were from the upper part.
 
 ## Recommendations and Future Work
 
@@ -154,19 +143,17 @@ Not stated in source
 - [[xrd]]
 - [[sem-eds]]
 - [[thin-section-petrography]]
+- [[xrf]]
 - [[sarah-formation]]
 - [[rub-al-khali-basin]]
-- [[lithofacies]]
-- [[reservoir-quality]]
-- [[tight-gas-reservoirs]]
-- [[reservoir-characterization]]
-- [[diagenesis]]
-- [[depositional-environments]]
-- [[petrophysics]]
-- [[sedimentology]]
-- [[paleoenvironmental-reconstruction]]
-- [[xrf]]
-- [[mineralogical-maturity]]
-- [[sand-class-system]]
+- [[facies-analysis]]
 - [[porosity]]
 - [[permeability]]
+- [[petrophysics]]
+- [[tight-gas-reservoirs]]
+- [[sem]]
+- [[diagenesis]]
+- [[sem-ed]]
+- [[well-log-analysis]]
+- [[mineralogical-maturity]]
+- [[sedimentology]]

@@ -1,43 +1,48 @@
 ---
 type: formation
 title: "Jabal Kibrit Formation"
-aliases: []
+aliases:
+  - "Wadi Waqb Member"
 canonical: true
-age: "Not stated in source"
-basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "Not stated in source"
-tags: []
+age: "Early Miocene"
+basin: "Midyan Basin"
+lithology: "carbonate"
+reservoir_status: "producer"
+tags:
+  - formation/jabal-kibrit-formation
 sources:
-  - "raw/142224 - REVISITING THE MIOCENE CARBONATE SEQUENCE OF UMM LAJJ QUADRANGLE, NW SAUDI ARABI.pdf"
+  - "raw/139623 - Stratigraphic Architecture and Diagenetic Evolution of Early Miocene Syn-rift Ca.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
 # Jabal Kibrit Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A carbonate formation in the Midyan Peninsula.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-al-sadah|Al-Sadah, 2022]] studied the Jabal Kibrit Formation
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] analyzed the jabal-kibrit-formation to determine its reservoir quality.
 
 ## Depositional Environment
 
-
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] fault-bounded, carbonate-rimmed platforms
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] compuraction, cementation, microbial micritization, dissolution, neomorphism, and dolomitization
+
 ## Key Findings Across Sources
 
-- studied the Jabal Kibrit Formation ([[2022-al-sadah|Al-Sadah, 2022]])
+- The Wadi Waqb Member is interpreted as having been developed on fault-bounded, carbonate-rimmed platforms. ([[2015-koeshidayatullah|Koeshidayatullah, 2015, p. 122]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

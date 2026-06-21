@@ -1,45 +1,45 @@
 ---
 type: terminology
 title: "Eikonal Equation"
-aliases: []
+aliases:
+  - "eikonal"
 canonical: true
-definition: "A PDE that defines the travel time T(x) needed for a wave to arrive at a specific point x from a point source."
+definition: "a first-order PDE describing how waves behave in a medium"
 units: "not applicable"
 related_techniques:
   - "machine-learning"
 tags:
-  - terminology
-  - theme/geophysics-general
+  - theme/earthquake-seismology
 sources:
   - "raw/142407 - SCIENTIFIC MACHINE LEARNING FOR MICROSEISMIC HYPOCENTER LOCALIZATION.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Eikonal Equation
 
-**Summary**: A first-order partial differential equation used to describe the propagation of waves in a medium.
+**Summary**: A non-linear partial differential equation that describes the evolution of a wave's phase as it propagates through a medium.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-suleymanli|Suleymanli, 2023]] used the eikonal equation as the basis for the FNO model's training.
+- [[2023-suleymanli|Suleymanli, 2023]] used the eikonal equation to determine the travel time field for hypocenter localization.
 
 ## Scientific Context
 
-- [[2023-suleymanli|Suleymanli, 2023]] It is crucial for determining the path that waves follow as they travel through a medium.
+- [[2023-suleymanli|Suleymanli, 2023]] The eikonal equation is the standard physical basis for calculating travel times from source points.
 
 ## Measurement and Characterization Methods
 
-- [[2023-suleymanli|Suleymanli, 2023]] Solved using Fourier Neural Operators in a data-driven manner.
+- [[2023-suleymanli|Suleymanli, 2023]] solved using Fourier Neural Operators (FNO).
 
 ## Key Findings Across Sources
 
-- The 2D FNO model was trained to solve the eikonal equation to obtain a travel time field. ([[2023-suleymanli|Suleymanli, 2023, p. 23]])
+- The FNO model was trained to solve the 2D eikonal equation, providing a robust way to map travel times across the domain. ([[2023-suleymanli|Suleymanli, 2023, p. 24]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

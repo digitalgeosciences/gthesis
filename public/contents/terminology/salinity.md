@@ -3,108 +3,106 @@ type: terminology
 title: "Salinity"
 aliases:
   - "TDS"
-  - "chloride concentration"
 canonical: true
-definition: "The concentration of dissolved salts in water."
-units: "mg/L"
+definition: "The concentration of dissolved salts in a fluid."
+units: "mg/l or ppm"
 related_techniques:
-  - "hydrochemical-analysis"
+  - "core-flooding"
 tags:
-  - theme/hydrogeology
-  - theme/groundwater-quality
+  - theme/petrophysics
 sources:
+  - "raw/10205 - The Effect of injected water salinity on oil recovery.pdf"
   - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
-  - "raw/139621 - INVESTIGATING THE PHYTOREMEDIATION POTENTIAL OF SELECTED SAUDI PLANTS IN REMOVIN.pdf"
+  - "raw/139318 - Performance of Fluoro-Surfactant with Supercritical CO2 Flooding in High Salinit.pdf"
   - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
-  - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
+  - "raw/140114 - INVESTIGATING THE POTENTIAL FOR TREATING WATER CONTAMINATED WITH TOLUENE USING U.pdf"
+  - "raw/140141 - EVALUATION OF NANOPARTICLES FOR ENHANCED OIL RECOVERY IN HIGH SALINITY AND HIGH .pdf"
+  - "raw/141003 - MODELING OF HYDRATE PHASE TRANSITION USING THE MEAN SPHERICAL APPROXIMATION (MSA.pdf"
   - "raw/141613 - FENTON-BASED ELECTROCHEMICAL REMOVAL OF AMMONIA FROM HIGHLY SALINE WATER.pdf"
-  - "raw/141649 - Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, N.pdf"
-  - "raw/142317 - Assessment of the environmental quality status and defining reference conditions.pdf"
+  - "raw/142443 - IMPACT OF SALINITY AND TEMPERATURE ON WORMHOLE GENERATION AND MECHANICAL PROPERT.pdf"
   - "raw/142654 - Effects of Physio-chemical Variations on Modern Intertidal and Lagoonal Benthic .pdf"
-  - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
-  - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-17
 ---
 
 # Salinity
 
-**Summary**: The concentration of dissolved salts in water, often measured as Total Dissolved Solids (TDS).
+**Summary**: The concentration of dissolved salts in water.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-iwalewa|Iwalewa, 2012]] monitored salinity to assess the impact of over-extraction on the UER aquifer.
+- [[1990-al-mumen|Al-Mumen, 1990]] investigated the impact of salinity on oil recovery and fluid properties.
 
-- [[2015-bello|Bello, 2015]] assessed the effect of salinity on the remediation of cadmium, lead, and nickel.
+- [[2012-iwalewa|Iwalewa, 2012]] monitored salinity as the primary concern for groundwater quality.
 
-- [[2016-armoh|Armoh, 2016]] assessed the impact of salinity on evaporation rates.
+- [[2014-jangda|Jangda, 2014]] investigated the impact of high salinity on surfactant performance and foam stability.
 
-- [[2017-budiyanto|Budiyanto, 2017]] evaluated the effect of salinity on growth and degradation.
+- [[2016-armoh|Armoh, 2016]] analyzed salinity to determine its effect on the evaporation rate.
 
-- [[2020-ghazwani|Ghazwani, 2020]] evaluated the impact of salinity (conductivity) on the efficiency of ammonia removal.
+- [[2016-sameh|Sameh, 2016]] evaluated the impact of salinity on the efficiency of the UV/H2O2 process.
 
-- [[2020-mansouri|Mansouri, 2020]] analyzed salinity to determine the impact on irrigation and drinking quality.
+- [[2016-alhamad|AlHamad, 2016]] investigated the effect of salinity on nanoparticle stability.
 
-- [[2023-nasir|Nasir, 2023]] analyzed the impact of a salinity gradient on foraminiferal assemblages.
+- [[2019-suleiman-2|Suleiman, 2019]] investigated the effect of salt concentration on methane and CO2 solubility.
 
-- [[2023-prayudi|Prayudi, 2023]] measured salinity levels to determine the impact on foraminiferal morphology.
+- [[2020-ghazwani|Ghazwani, 2020]] evaluated the impact of salinity on ammonia removal efficiency.
 
-- [[2024-alsadah|Alsadah, 2024]] investigated the impact of a salinity gradient on the ability to use Mg/Ca as a paleothermometer.
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] studied the impact of salinity on wormhole generation.
 
-- [[1995-hasan|Hasan, 1995]] monitored salinity to track salt-water intrusion.
+- [[2023-prayudi|Prayudi, 2023]] evaluated salinity as a primary driver for morphological deformities.
 
 ## Scientific Context
 
-- [[2012-iwalewa|Iwalewa, 2012]] Salinity is the primary concern for groundwater sustainability in this study area.
+- [[1990-al-mumen|Al-Mumen, 1990]] Salinity affects the chemical and physical properties of both oil and water phases.
 
-- [[2015-bello|Bello, 2015]] assessed the effect of salinity on the remediation of cadmium, lead, and nickel.
+- [[2012-iwalewa|Iwalewa, 2012]] monitored salinity as the primary concern for groundwater quality.
 
-- [[2016-armoh|Armoh, 2016]] assessed the impact of salinity on evaporation rates.
+- [[2014-jangda|Jangda, 2014]] investigated the impact of high salinity on surfactant performance and foam stability.
 
-- [[2017-budiyanto|Budiyanto, 2017]] evaluated the effect of salinity on growth and degradation.
+- [[2016-armoh|Armoh, 2016]] analyzed salinity to determine its effect on the evaporation rate.
 
-- [[2020-ghazwani|Ghazwani, 2020]] evaluated the impact of salinity (conductivity) on the efficiency of ammonia removal.
+- [[2016-sameh|Sameh, 2016]] evaluated the impact of salinity on the efficiency of the UV/H2O2 process.
 
-- [[2020-mansouri|Mansouri, 2020]] analyzed salinity to determine the impact on irrigation and drinking quality.
+- [[2016-alhamad|AlHamad, 2016]] investigated the effect of salinity on nanoparticle stability.
 
-- [[2023-nasir|Nasir, 2023]] analyzed the impact of a salinity gradient on foraminiferal assemblages.
+- [[2019-suleiman-2|Suleiman, 2019]] investigated the effect of salt concentration on methane and CO2 solubility.
 
-- [[2023-prayudi|Prayudi, 2023]] measured salinity levels to determine the impact on foraminiferal morphology.
+- [[2020-ghazwani|Ghazwani, 2020]] evaluated the impact of salinity on ammonia removal efficiency.
 
-- [[2024-alsadah|Alsadah, 2024]] investigated the impact of a salinity gradient on the ability to use Mg/Ca as a paleothermometer.
+- [[2023-aldhafeeri|Aldhafeeri, 2023]] studied the impact of salinity on wormhole generation.
 
-- [[1995-hasan|Hasan, 1995]] monitored salinity to track salt-water intrusion.
+- [[2023-prayudi|Prayudi, 2023]] evaluated salinity as a primary driver for morphological deformities.
 
 ## Measurement and Characterization Methods
 
-- [[2012-iwalewa|Iwalewa, 2012]] Measurement of chloride and other ions to calculate TDS.
+- [[1990-al-mumen|Al-Mumen, 1990]] Measured as TDS (Total Dissolved Solids).
 
 ## Key Findings Across Sources
 
-- Average TDS increased from 2,800 mg/L in 1967 to 4,200 mg/L in 2010 due to excessive pumping. ([[2012-iwalewa|Iwalewa, 2012, p. 178]])
+- Oil recovery increased as the injected water salinity increased up to 10% for NaCl brine runs. ([[1990-al-mumen|Al-Mumen, 1990, p. 152]])
 
-- Salinity did not improve the performance of the two plants; distilled water samples performed better than groundwater samples. ([[2015-bello|Bello, 2015, p. 103]])
 
-- Soil characteristics and salinity contribute to reduction of evaporation rate relative to pan evaporation. ([[2016-armoh|Armoh, 2016, p. 11]])
+- Salinity is the principal concern, with results showing a need for sustainable management to protect water quality. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
 
-- Optimal salinity for the three strains was 5%, 10%, and 15% respectively. ([[2017-budiyanto|Budiyanto, 2017, p. 18]])
+- High salinity, temperature, and oil presence were identified as factors hindering foam generation for some surfactants. ([[2014-jangda|Jangda, 2014, p. 83]])
 
-- High conductivity (>20700 μS/cm) significantly improved ammonia removal compared to low conductivity samples. ([[2020-ghazwani|Ghazwani, 2020, p. 55]])
+- High salt concentrations (up to 414,515 ppm) were found at the surface, which reduces evaporation due to reduced chemical potential. ([[2016-armoh|Armoh, 2016, p. 54]])
 
-- Main causes are NaCl, CaCl2, MgSO4, MgCl2, and Na2SO4. ([[2020-mansouri|Mansouri, 2020, p. 135]])
+- Removal efficiency decreased from 89% to 67% as TDS increased from 1250 to 5000 ppm. ([[2016-sameh|Sameh, 2016, p. 87]])
 
-- Salinity in the coastal lagoons reached more than 70‰, creating a naturally stressed environment. ([[2023-nasir|Nasir, 2023, p. 10]])
+- Precipitation occurred in less than 1 hour when synthetic seawater was used as a dispersant fluid. ([[2016-alhamad|AlHamad, 2016, p. 86]])
 
-- Morphological deformities increased significantly above 40 PSU. ([[2023-prayudi|Prayudi, 2023, p. 57]])
+- Methane solubility decreases as salt concentration increases, a phenomenon known as salting out. ([[2019-suleiman-2|Suleiman, 2019, p. 150]])
 
-- High salinity levels (51.60-79.70 PSU) were found to interfere with Mg/Ca calculations, leading to low R^2 values. ([[2024-alsadah|Alsadah, 2024, p. 14]])
+- High conductivity (23,000 ϊ/cm) significantly improved ammonia removal compared to lower conductivities. ([[2020-ghazwani|Ghazwani, 2020, p. 59]])
 
-- High chloride concentrations up to 10,000 ppm were found in the Khobar and Alat aquifers near the coast. ([[1995-hasan|Hasan, 1995, p. 103]])
+- There is an inverse relationship between salinity and CO2 solubility in water. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 23]])
+
+- Deformity rates increased significantly at salinities exceeding 40 PSU. ([[2023-prayudi|Prayudi, 2023, p. 57]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -19,143 +19,125 @@ keywords:
   - glacio-fluvial
   - petrophysical properties
   - reservoir quality
-  - paleovalleys
+  - heterogeneity
+  - paleochannels
   - sedimentology
   - petrophysics
-  - tight gas
-  - heterogeneity
+  - sedimentological heterogeneity
 techniques:
   - thin-section-petrography
-  - sem
   - xrd
-  - mercury-injection-capillary-pressure
-  - core-analysis
-  - well-log-analysis
+  - sem
+  - micromeritics-auto-pore-iv-9500
+  - tpi-219-helium-porosimeter
+  - tka-209-gas-permeameter
+  - field-investigation
   - sem-eds
-  - helium-porosity
-  - modal-analysis
+  - microporosity
+  - mercury-injection-capillary-pressure
+  - porosity
+  - core-analysis
   - qfl-analysis
+  - capillary-pressure
   - poro-perm-analysis
-  - geostatistics
-  - statistical-analysis
+  - coefficient-of-variation
+  - dykstra-parsons-coefficient
+  - lorenz-coefficient
 tags:
   - degree/ms
   - formation/sarah-formation
   - location/al-qaseem-area
-  - location/saudi-arabia
-  - location/central-saudi-arabia
+  - location/central-saudi-area
   - technique/thin-section-petrography
-  - technique/sem
   - technique/xrd
-  - technique/mercury-injection-capillary-pressure
+  - technique/sem
+  - technique/microporosity
   - technique/core-analysis
-  - technique/sem-eds
-  - technique/helium-porosity
-  - technique/well-log-analysis
-  - technique/geostatistics
-  - technique/statistical-analysis
+  - technique/sem-ed
+  - technique/mercury-injection-capillary-pressure
+  - technique/porosity
+  - technique/capillary-pressure
+  - technique/petrophysics
+  - technique/lithofacies-analysis
   - theme/sedimentology
   - theme/petrophysics
-  - theme/reservoir-quality
-  - theme/tight-gas-reservoirs
   - terminology/porosity
   - terminology/permeability
-  - terminology/heterogeneity
-  - terminology/petrophysics
-  - terminology/lithofacies
-  - terminology/architectural-element
   - terminology/diagenesis
-  - terminology/reservoir-quality
+  - terminology/facies-analysis
+  - terminology/heterogeneity
+  - terminology/lithofacies-analysis
+  - terminology/sedimentology
 status: ingested
 ---
 
 # Sedimentological Heterogeneity of the Late Ordovician Glacio-Fluvial Sarah Formation, Al-Qaseem Area, Saudi Arabia: Impact on Petrophysical Properties and Reservoir Quality.
 
-**Summary**: The thesis investigates the sedimentological and petrophysical heterogeneity of the Late Ordovician Sarah Formation in the Al-Qaseem area, Saudi Arabia. It utilizes field observations from five paleovalleys and laboratory analyses (petrography, SEM-EDS, XRD, porosity/permeability measurements) to evaluate how depositional and diagenetic factors impact reservoir quality for tight gas exploration.
+**Summary**: The thesis investigates the sedimentary and post-depositional heterogeneity of the Late Ordovician glacio-fluvial Sarah Formation in central Saudi Arabia. It utilizes field investigations across five paleovalleys and laboratory analyses (thin section, XRD, SEM, MICP) to evaluate how these heterogeneities impact petrophysical properties like porosity and permeability.
 
 ---
 
 ## Research Problem
 
-The study addresses the challenge of understanding and predicting reservoir quality in the glacio-fluvial Sarah Formation, which is a significant tight gas target. Specifically, it aims to characterize sedimentological heterogeneity at multiple scales (micro to macro) caused by both depositional processes (ice advance/retreat) and post-depositional diagenesis.
+The complexity of facies, environments, and paleogeography in the glacio-fluvial Sarah Formation makes predicting reservoir quality difficult in the subsurface. This study uses outcrop analogs to resolve multi-scale heterogeneity (micro to macro) that is often obscured by limited borehole data.
 
 ## Objectives
 
-- Characterize and compare different scales of depositional and post-depositional heterogeneity of the Late Ordovician glacio-fluvial paleochannels.
-- Evaluate the impact of sedimentological features on petrophysical properties (porosity, permeability) and reservoir quality.
-- Identify geological controls such as ice advance/retreat cycles, tectonics, sea level, and sediment supply on facies types and distribution.
-- Quantify reservoir heterogeneity using statistical measures including Coefficient of Variation, Dykstra-Parsons coefficient, and Lorenz coefficient.
-- Describe, understand, and determine the depositional and post-depositional heterogeneity of the Sarah Formation.
-- Investigate the impact of these heterogeneities on reservoir quality and petrophysical parameters (porosity and permeability) in the Sarah Formation.
 - Characterize and compare different scales of depositional and post-depositional heterogeneity in the Sarah Formation.
-- Identify lithofacies and architectural elements within various paleovalleys.
-- Evaluate the impact of sedimentological features on reservoir quality and petrophysical properties.
-- Characterize and compare different scales of depositional and post--depositional heterogeneity in the Sarah Formation.
-- Determine the relationship between depositional texture, mineral composition, and diagenesis on porosity and permeability.
-- Evaluate the impact of specific minerals (kaolinite, quartz overgrowth) on reservoir quality.
-- Evaluate the impact of grain size, sorting, and diagenesis on porosity and permeability.
-- Quantify reservoir heterogeneity using Coefficient of Variation (CV), Dykstra-Parsons coefficient (VDP), and Lorenz coefficient (Lc).
-- Evaluate the impact of mineralogy (specifically kaolinite) on permeability reduction.
-- Quantify petrophysical properties (porosity and permeability) across various paleovalleys.
-- Assess reservoir heterogeneity using statistical measures like the coefficient of variation, Dykstra-Parsons, and Lorenz coefficients.
-- Characterize different scales of depositional and post-depositional heterogeneity in the Sarah Formation.
-- Compare petrophysical properties across various scales to understand their impact on reservoir quality.
-- Evaluate the Sarah Formation as a potential tight gas reservoir using an outcrop analog approach.
+- Investigate the impact of these heterogeneities on reservoir quality and petrophysical parameters (porosity and permeability).
+- Evaluate different scales of heterogeneity: micro-scale (texture, composition, diagenesis), meso-scale (lithofacies), and macro-scale (architectural elements).
+- Evaluate the impact of mineralogy, texture, and diagenesis on porosity and permeability.
+- Quantify reservoir heterogeneity using statistical measures like coefficient of variation, Dykstra-Parsons, and Lorenz coefficients.
 
 ## Methods
 
-The study employed a multi-scale approach: 1) Field investigation of five paleovalleys (Bukayriyah, Rawd Al-Jawa, Hanadir, Sarah, and Khanasir Sarah) to map facies, geometry, and architectural elements. 2) Laboratory petrological analysis including thin-section petrography for mineralogy and texture, XRD for mineral quantification, and SEM/EDS for micro-scale observations. 3) Petrophysical measurements using core plugs to determine porosity (via helium porosity meter TPI-219) and permeability (via gas permeameter TKA-209 with Klinkenberg correction). 4) Mercury Injection Capillary Pressure (MICP) analysis using a Micromeritics AutoPore IV 9500 to characterize pore throat size distribution. 5) Statistical heterogeneity analysis using Coefficient of Variation, Dykstra-Parsons coefficient, and Lorenz coefficients.
+The study employed a multi-scale approach including field sedimentological investigations across five paleovalleys (Bukayriyah, Rawd Al-Jawa, Hanadir, Sarah, and Khanasir Sarah) to map facies and architectural elements. Laboratory analysis included thin section petrography for mineralogy/texture, XRD for clay identification, SEM with EDS for microstructures and elemental composition, and core plug measurements using TPI-219 helium-porosimeter and TKA-209 gas-permeameter for porosity and permeability. MICP was used to determine pore throat size distribution.
 
 ## Data and Materials
 
-The study analyzed samples from three distinct paleovalleys: Bukayriyah, Hanadir, and Sarah. Data included thin sections for mineralogical analysis, XRD patterns (e.g., Samples S1H1 to SR-9-V1), and petrophysical measurements of porosity (ranging 17% to 56.7%) and permeability (0.1 md to 2.27 Darcy).
+Data includes 9 samples from 5 distinct paleovalleys, 100 total field samples, 78 thin sections prepared, 15 SEM analyses, 20 XRD analyses, and 290 core plugs for petrophysical measurements (porosity/permeability).
 
 ## Key Findings
 
-- The Sarah Formation is characterized as a glacio-fluvial system with facies ranging from brownish to reddish, silty, fine to coarse grained quartz arenites with clay content not exceeding 5%. ([[2014-el-deek|El-Deek, 2014, p. 16]])
-- Authigenic kaolinite coating on quartz grains prevented quartz overgrowth, thereby preserving initial porosity and permeability. ([[2014-el-deek|El-Deek, 2014, p. 16]])
-- The study identified five specific paleovalleys: Bukayriyah, Rawd Al-Jawa, Hanadir, Sarah, and Khanasir Sarah. ([[2014-el-deek|El-Deek, 2014, p. 15]])
-- Petrophysical properties (porosity and permeability) showed significant variation among the investigated paleovalleys at both micro- and macro-scales. ([[2014-el-deek|El-Deek, 2014, p. 16]])
-- Note: Specific numerical values for porosity/permeability ranges were not provided in the abstract but are detailed in tables on pages 8-9. ([[2014-el-deek|El-Deek, 2014]])
-- The reservoir is classified as heterogeneous to very heterogeneous based on three static measures: coefficient of variation, Dykstra-Parsons coefficient, and Lorenz coefficient. ([[2014-el-deek|El-Deek, 2014, p. 16]])
-- The Sarah Formation is characterized by fine to medium-grained sandstone (90-300m thick) with a tillite facies of glacial to marine origin. ([[2014-el-deek|El-Deek, 2014, p. 18]])
-- Clay minerals, primarily kaolinite, accounted for over 5% of the mineral content and acted as pore-filling agents that prevented quartz cementation, helping maintain porosity and permeability. ([[2014-el-deek|El-Deek, 2014, p. 17]])
-- The formation is described as a highly heterogeneous reservoir with high heterogeneity on both macro and micro scales. ([[2014-el-deek|El-Deek, 2014, p. 17]])
-- The study identified five distinct paleovalleys: Bukayriyah, Hanadir, Sarah, Rawd Al-Jawa, and Khanasir Sarah. ([[2014-el-deek|El-Deek, 2014, p. 29]])
-- Outcrop section No. 4 in the Rawd Al-Jawa paleovalley shows a coarsening and thickening upward sequence starting with well-sorted siltstone. ([[2014-el-deek|El-Deek, 2014, p. 45]])
-- The Sarah Formation is characterized by 11 lithofacies including Sh (horizontally bedded), St (trough cross-bedded), Sm (massive), Sl (low-angle cross-bedded), Ss (scour fills), Sp (planar cross-bedded), and Sb (bioturbated). ([[2014-el-deek|El-Deek, 2014, p. 76]])
-- The formation contains evidence of glacial origin including striated surfaces, large shallow depressions excavated by ice flow, and matrix-rich diamictites. ([[2014-el-deek|El-Deek, 2014, p. 80]])
-- Sandstones are predominantly fine to medium-grained, moderately to well-sorted quartz arenites with inter-granular porosity of approximately 20%. ([[2014-el-deek|El-Deek, 2014, p. 90]])
-- quotz grains are generally mono-crystalline; mica content ranges from 0-5%. ([[2014-el-deek|El-Deek, 2014]])
+- The Sarah Formation is characterized by sedimentary heterogeneity across multiple scales: micro-scale (texture, composition, diagenesis), meso-scale (lithofacies types), and macro-scale (architectural elements). ([[2014-el-deek|El-Deek, 2014, p. 15]])
+- Lithofacies range from brownish to reddish, silty, fine to coarse grained quartz arenites with clay content not exceeding 5%. ([[2014-el-deek|El-Deek, 2014, p. 16]])
+- The coating of quartz grains by authigenic kaolinites prevented quartz overgrowth, thereby preserving initial porosity and permeability. ([[2014-el-deek|El-Deek, 2014, p. 16]])
+- Petrophysical properties (porosity and permeability) show significant variation among the investigated paleovalleys from micro- to macro-scales. ([[2014-el-deek|El-Deek, 2014, p. 16]])
+- The Sarah Formation is classified as a heterogeneous to very heterogeneous reservoir based on three static measures: coefficient of variation, Dykstra-parsons coefficient, and Lorenz coefficient. ([[2014-el-deek|El-Deek, 2014, p. 16]])
+- Evidence for glacial origin includes striated surfaces, large shallow depressions (ice-scour), and the presence of matrix-rich diamictites at the base of the formation. ([[2014-el-deek|El-Deek, 2014, p. 80]])
+- The study identified 11 distinct lithofacies and 7 architectural elements within the Sarah Formation. ([[2014-el-deek|El-Deek, 2014, p. 76]])
+- The sandstones are classified as quartz arenites with 90-100% quartz, 0-10% feldspar, and 0-5% lithic fragments. ([[2014-el-deek|El-Deek, 2014, p. 100]])
+- Kaolinite is the dominant cementing material, often appearing as blocky crystals or coatings on quartz grains. ([[2014-el-deek|El-Deek, 2014, p. 109]])
+- Measured porosity values range from 17% to 56.7% with an average value of 28%. ([[2014-el-deek|El-Deek, 2014, p. 115]])
+- Permeability values show a wide range from 0.1 md to 2.27 Darcy (average 0.25 Darcy). ([[2014-el-deek|El-Deek, 2014, p. 115]])
+- The Bukayriyah paleovalley shows a coefficient of variation (CV) of 0.63, indicating a heterogeneous distribution. ([[2014-el-deek|El-Deek, 2014, p. 138]])
+- Dykstra-Parsons coefficients for the four paleovalleys are 0.56, 0.88, 0.72, and 0.78, indicating very to extremely heterogeneous reservoirs. ([[2014-el-deek|El-Deek, 2014, p. 140]])
+- Lorenz coefficients (Lc) for the studied paleovalleys are 0.30, 0.59, 0.58, and 0.54 respectively. ([[2014-el-deek|El-Deek, 2014, p. 159]])
+- Grain size variation, compaction, cementation, dissolution, mineral replacement, quartz overgrowth, and pore size distribution are the primary controls on porosity and permeability. ([[2014-el-deek|El-Deek, 2014, p. 164]])
 
 ## Limitations
 
-The study notes that the complexity of facies, environments, and paleogeography in the subsurface makes prediction of reservoir quality difficult, which justifies the use of surface outcrop analogs to overcome limitations in subsurface data.
+The prediction of reservoir quality in the subsurface is complicated by the limited resolution of borehole data to capture multi-scale heterogeneity, necessitating the use of outcrop analogs.
 
 ## Recommendations and Future Work
 
-- Conduct extensive sedimentological studies including other paleovalleys of the Sarah Formation to improve correlation and characterization of heterogeneity.
-- Integrate outcrop studies with subsurface data from the Arabian basin to predict reservoir quality in the subsurface.
-- Perform detailed geostatistical modeling to characterize spatial relationships among Sarah paleovalleys.
+1. Conduct extensive sedimentological studies of other paleovalleys within the Sarah Formation for better correlation. 2. Integrate outcrop data with subsurface data from the Arabian basin to predict reservoir quality. 3. Perform detailed geostatistical modeling to characterize spatial relationships between Sarah paleovalleys.
 
 ## Related Concepts
 
 - [[thin-section-petrography]]
 - [[xrd]]
-- [[mercury-injection-capillary-pressure]]
-- [[sarah-formation]]
-- [[al-qaseem-area]]
+- [[sem]]
+- [[microporosity]]
 - [[porosity]]
 - [[permeability]]
-- [[sedimentology]]
-- [[heterogeneity]]
-- [[sem-eds]]
-- [[petrophysics]]
-- [[reservoir-quality]]
-- [[tight-gas-reservoirs]]
-- [[lithofacies]]
-- [[architectural-element]]
-- [[reservoir-characterization]]
 - [[diagenesis]]
-- [[micp]]
-- [[sem]]
+- [[facies-analysis]]
+- [[heterogeneity]]
+- [[sarah-formation]]
+- [[al-qaseem-area]]
+- [[petrophysics]]
+- [[mercury-injection-capillary-pressure]]
+- [[capillary-pressure]]
+- [[lithofacies-analysis]]
+- [[sedimentology]]

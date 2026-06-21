@@ -1,141 +1,88 @@
 ---
 type: source
-id: "9903"
-title: "Current Conveyor-based Universal Filter and Oscillator"
-author: "Mohammed Ali Mohammed. Al-Gahtani"
+id: "9902"
+title: "Optimization of horizontal well completion (position, length and perforation sce."
+author: "Abdallah M. Al-Gahtani"
 year: 1997
-department: "Geosciences"
+department: "Petroleum Engineering"
 degree: "MS"
-supervisor: "Muhammad Taher Abuelma'atti"
-committee_members:
-  - "Abdul Rahman K. Al-Ali"
-  - "Yahya Chedly"
-  - "Zeini J. Al-Satti"
-source_file: "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
-url: "https://eprints.kfupm.edu.sa/id/eprint/9903/"
+supervisor: "Dr. Habib Menouar"
+committee_members: []
+source_file: "raw/9902 - Optimization of horizontal well completion (position, length and perforation sce.pdf"
+url: "https://eprints.kfupm.edu.sa/9902"
 study_area: "Not stated in source"
 keywords:
-  - Current conveyor
-  - CCII
-  - multiphase sinusoidal oscillators
-  - universal filter
-  - unity gain cell
-  - current-mode
-  - active-C
-  - MPSOs
-  - active-RC
-  - programmable
-  - multiphase sinusoidal oscillator
-  - MPSO
-  - high frequency operation
-  - multiplier
-  - divider
-  - Oscillator
+  - horizontal well
+  - well completion
+  - perforation
+  - frictional losses
+  - production rate
+  - reservoir permeability
+  - wellbore hydraulics
 techniques:
-  - simulation
-  - circuit-analysis
-  - pspice
-  - circuit-simulation
-  - icaps
-  - icaps-circuit-simulation
-  - experimental-measurement
+  - mathematical-modeling
+  - linear-regression
+  - petroleum-engineering
 tags:
   - degree/ms
-  - technique/simulation
-  - technique/pice
-  - technique/circuit-simulation
-  - technique/experimental-measurement
-  - theme/electrical-engineering
-  - theme/electronics
-  - theme/petroleum-engineering
-  - terminology/current-conveyor
-  - terminology/multiphase-sinusoidal-oscillators
-  - terminology/multiphase-sinusoidal-oscillator
-  - terminology/universal-filter
+  - technique/mathematical-modeling
+  - technique/linear-regression
+  - technique/petroleum-engineering
+  - theme/well-completion
+  - theme/reservoir-engineering
+  - terminology/petrophysics
+  - terminology/petrophysics
 status: ingested
 ---
 
-# Current Conveyor-based Universal Filter and Oscillator
+# Optimization of horizontal well completion (position, length and perforation sce.
 
-**Summary**: The thesis explores the application of second-generation current conveyors (CCII) to develop new active-RC, active-C multiphase sinusoidal oscillators (MPSOs), universal filters, and a current-mode multiplier/divider. The research demonstrates that CCII-based circuits offer advantages in terms of simplicity, performance at high frequencies, and lower power consumption compared to traditional OTA-based designs.
+**Summary**: The thesis investigates the impact of horizontal well completion parameters, specifically perforation length, distribution, and total well length, on production rates in both high and low permeability reservoirs. It develops a computer program and correlation models to determine optimal well lengths and evaluate how frictional losses in long horizontal sections affect overall performance.
 
 ---
 
 ## Research Problem
 
-The need for compact, versatile, and high-frequency capable filters and oscillators in integrated circuits. Traditional active-RC or active-C filters often require many components to switch between different filter types; the thesis addresses this by using CCIIs to create 'universal' designs that can perform multiple functions with minimal hardware changes.
+The study addresses the uncertainty of whether increasing horizontal well length consistently leads to higher production due to potential friction-induced pressure drops, particularly in high permeability reservoirs where these losses may offset gains from increased reservoir contact.
 
 ## Objectives
 
-- Realize new active-RC, active-R, and active-C multiphase sinusoidal oscillators (MPSOs) using CCII.
-- Develop unity gain cell-based universal filters.
-- Design a programmable active-C current-mode universal filter utilizing parasitic resistance Rx at the port X of the CCII.
-- Investigate the extension of current conveyor use to nonlinear applications, specifically a current-mode analog multiplier/divider.
-- Evaluate the feasibility of developing multiphase sinusoidal oscillators (MPSOs) using second-generation current conveyors (CCIIs).
-- Develop universal filters based on current and voltage followers derived from CCIIs.
-- Utilize parasitic resistance Rx at port X of the CCII to develop new programmable active-C current-mode universal filters.
-- Investigate the feasibility of extending current conveyor use to nonlinear applications like multipliers and dividers.
-- Realize new active-RC, active-C multiphase sinusoidal oscillators (MPSOs) using CCII.
-- Develop a programmable active-C current-mode universal filter using the parasitic resistance of the CCII.
-- Design a universal filter that can realize lowpass, highpass, bandpass, notch, and allpass responses without changing circuit topology.
-- Evaluate the impact of non-idealities (parasitic resistance, tracking errors) on the performance of these circuits.
-- Realize new active-RC and active-C multiphase sinusoidal oscillators (MPSOs) using second-generation current conveyors (CCII).
-- Develop a unity gain cell-based universal filter.
-- Design a programmable active-C current-mode universal filter utilizing parasitic resistance Rx.
-- Propose a voltage-mode bandpass/lowpass filter with single input and two outputs.
-- Develop a universal voltage-mode filter with single input and three outputs.
-- Realize new active-RC, active-C, and active-R multiphase sinusoidal oscillators (MPSOs) using CCII.
-- Develop universal filters based on current and voltage followers derived from CCII.
-- Design a programmable active-C current-mode universal filter utilizing the parasitic resistance of the CCII.
-- Implement a current-mode analog multiplier/divider circuit using only two CCII units without resistors, capacitors, or MOS transistors.
-- Realize new active-RC and active-C multiphase sinusoidal oscillators (MPSOs) using CCII.
-- Design a programmable active-C current-mode universal filter utilizing the parasitic resistance Rx of the CCII.
+- Evaluate the effect of horizontal well length and diameter on production rates.
+- Analyze the impact of perforation length and distribution on well performance.
+- Determine the influence of reservoir permeability and fluid properties (viscosity, GOR) on wellbore hydraulics.
+- Develop a computer program to couple inflow performance with wellbore flow calculations.
+- Establish correlation models to predict production rates and identify optimum well lengths.
 
 ## Methods
 
-The thesis utilizes theoretical analysis of current conveyor models (Svoboda model and Bruun model) to derive transfer functions for oscillators and filters. Circuit designs are evaluated using sensitivity analysis to determine the impact of component variations. Simulations are performed using Pspice software to compare theoretical results with simulated outcomes. Experimental validation is conducted using the AD844 integrated circuit to verify filter performance across various modes.
+The study utilizes a semi-analytical approach combining the analytical solution for inflow performance (Goode & Wilkinson) with empirical multi-phase flow correlations for wellbore hydraulics. A computer program was developed to iterate between these two components, calculating pressure distribution and production rates across various scenarios including different perforation lengths, distributions, and reservoir conditions. Linear regression analysis was used to derive correlation coefficients for predicting completion efficiency and optimum well length.
 
 ## Data and Materials
 
-The study utilizes theoretical circuit models for second-generation current conveyors (CCII), including non-ideal models that account for parasitic resistances (Rx, Ry) and capacitances (Cz). Simulation data includes three-phase and six-phase oscillator outputs with specific component values (R=1kOhm, C=1nF, C2=2.1nF).
+The study utilizes a series of computational runs (hundreds of cases) varying parameters such as horizontal section length (1000, 2000, 3000 ft), tubing diameter (0.3 ft, 0.6 ft), reservoir permeability (1 to 7 darcies), and perforation percentages (20% to 80%). It also incorporates four actual field cases for validation.
 
 ## Key Findings
 
-- The current conveyor is a three-terminal device with terminals X, Y, and Z, where the second-generation (CCII) provides a more robust platform for high-speed applications than first-generation models. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 25]])
-- A translinear mixed loop consisting of two PNP and two NPN transistors is identified as an excellent input stage for current conveyors due to its ability to provide a virtual ground without feedback. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 30]])
-- The parasitic resistance Rx at port X of the CCII, which typically has a value around 50 Ohms in the AD844, can be utilized for designing programmable active-C current-mode universal filters. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 40]])
-- Current followers (CF) can be obtained by grounding the Y terminal of a current conveyor, providing unity current gain and high output impedance. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 40]])
-- The study demonstrates that CCII-based designs for multiphase oscillators provide independent control over critical parameters while maintaining low active and passive sensitivities. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 22]])
-- For the same value of I, the transconductance of the bipolar OTA will be four times less than that of the CCCII, resulting in approximately three times higher power consumption for the OTA. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 43]])
-- The proposed active-RC MPSO allows independent control of frequency (via grounded resistor R) and condition of oscillation (via grounded capacitor C). ([[1997-al-gahtani|Al-Gahtani, 1997, p. 56]])
-- The proposed active-C MPSO utilizes the parasitic resistance Rx to allow for programmable filter functions. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 47]])
-- Simulation results using a non-ideal CCII model (including Ry and Rz) deviated from theoretical calculations by less than 6%. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 62]])
-- The proposed MPSO designs require fewer active devices and grounded passive elements compared to previous implementations, such as those reported in 1995. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 64]])
-- The proposed MPSO circuits can produce both even and odd numbers of phases (e.g., 3-phase and 6-phase) using fewer active and passive elements than previously reported designs. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 80]])
-- The frequency of oscillation in the CCII-based oscillators can be adjusted by tuning the grounded resistor or capacitor without disturbing the condition of oscillation. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 73]])
-- The proposed universal filter can realize lowpass, bandpass, highpass, notch, and allpass responses without changing the circuit topology. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 100]])
-- Simulation results for the MPSO using the Bruun-model deviated from theoretical results by less than 2%. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 78]])
-- The lowpass gain of the proposed universal filter showed a deviation of less than 1% between theory, simulation, and experiment. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 106]])
+- Perforation location significantly impacts production; a 20% length perforated at the heel yields over twice the production of the same fraction at the toe (e.g., 25,000 STBPD vs 12,000 STBPD in specific conditions). ([[1997-al-gahtani|Al-Gahtani, 1997, p. 41]])
+- Uniformly distributed perforations over 20% of the length yield 3 to 4 times more production than a single 20% block at the toe. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 51]])
+- For small tubing diameters (e.g., 0.3 ft), increasing perforated sections beyond 40% does not significantly increase production rates due to high friction losses. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 42]])
+- In a 3000-ft well with 1 Darcy permeability and 0.3 ft tubing, the performance is similar to a 1000-ft well; however, in 7 Darcy reservoirs, the 3000-ft well performs worse than the 1000-ft well due to excessive friction. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 44]])
+- Higher solution GOR reduces oil viscosity and consequently lowers frictional losses, improving production rates in longer wells. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 45]])
+- For homogeneous reservoirs studied, a horizontal section of 2000 ft was identified as the optimum well length for maximizing production. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 51]])
+- A correlation (Model 1) with R = 0.9236 achieved high accuracy in predicting the performance of partially perforated wells compared to open-hole cases. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 49]])
 
 ## Limitations
 
-Deviations in high-frequency results are attributed to the nonidealities of active devices, specifically parasitic resistance at port X of the CCII and the finite pole of the current conveyor. These can be mitigated by using transistors with higher cutoff frequencies.
+The study notes that some models used for wellbore hydraulics may not perfectly mimic actual flow because they assume constant flow rates through each perforation and do not account for the interaction between wellbore and reservoir in all scenarios.
 
 ## Recommendations and Future Work
 
-To reduce deviations caused by transistor beta variations at high current levels, transistors with higher beta values should be used in realizing the CCII. Designing filters in integrated form is recommended to improve accuracy by reducing stray capacitance effects.
+Further investigation into the effect of vertical permeability on the performance of horizontal wells is recommended.
 
 ## Related Concepts
 
-- [[simulation]]
-- [[current-conveyor]]
-- [[electrical-engineering]]
-- [[pice]]
-- [[multiphase-sinusoidal-oscillators]]
-- [[electronics]]
-- [[circuit-simulation]]
-- [[multiphase-sinusoidal-oscillator]]
-- [[universal-filter]]
-- [[sensitivity-analysis]]
-- [[petroleum-engineering]]
-- [[experimental-measurement]]
+- [[mathematical-modeling]]
+- [[linear-regression]]
+- [[petrophysics]]
+- [[reservoir-engineering]]
+- [[well-completion]]

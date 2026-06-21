@@ -1,30 +1,31 @@
 ---
 type: technique
-title: "Gui Development"
+title: "GUI Development"
 aliases:
-  - "GUI"
-  - "Graphical User Interface"
+  - "user-friendly interface"
+  - "application"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "automated data analysis and visual reporting"
+output: "User interface for real-time monitoring."
 tags:
   - technique/gui-development
+  - theme/petroleum-engineering
 sources:
   - "raw/141979 - Real-Time Advisory Hole-Cleaning Model.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
-# Gui Development
+# GUI Development
 
-**Summary**: The creation of a visual interface to interact with software and automate data processing.
+**Summary**: The creation of a graphical user interface to automate data collection and display results.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2021-al-malki|Al-Malki, 2021]] developed a GUI to be used in cyber chair on the rig site
+- [[2021-al-malki|Al-Malki, 2021]] developed a GUI to automate the process, collect real-time data, and report dominant parameters.
 
 ## Instruments and Software
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- A user-friendly interface developed to automate the process, collect the real-time data, analyze the data, display charts of the results, and report the most dominating parameters values. ([[2021-al-malki|Al-Malki, 2021, p. 13]])
+- The application provided a clear visual representation of hole conditions (problem, critical, clean). ([[2021-al-malki|Al-Malki, 2021, p. 13]])
 
 ## Methodological Variations Across Sources
 

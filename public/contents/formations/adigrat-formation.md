@@ -9,9 +9,9 @@ lithology: "Not stated in source"
 reservoir_status: "Not stated in source"
 tags: []
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
+  - "raw/10171 - Management of groundwater resources in Somalia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Adigrat Formation
@@ -22,7 +22,7 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Adigrat Formation
+- [[1993-moallim|Moallim, 1993]] studied the Adigrat Formation
 
 ## Depositional Environment
 
@@ -32,12 +32,15 @@ last_updated: 2026-06-08
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- studied the Adigrat Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+- studied the Adigrat Formation ([[1993-moallim|Moallim, 1993]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

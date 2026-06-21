@@ -3,43 +3,44 @@ type: terminology
 title: "Reverberation"
 aliases:
   - "multiples"
+  - "near-surface multiples"
 canonical: true
-definition: "Repeated reflections between high-contrast boundaries."
+definition: "Repeated reflections between two high-contrast boundaries in a near-surface environment."
 units: "ms"
 related_techniques:
-  - "autocorrelation"
+  - "signal-processing"
 tags:
-  - theme/seismic-processing
+  - theme/geophysics-general
 sources:
   - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Reverberation
 
-**Summary**: The repeated reflection of a seismic wave between two high-contrast boundaries.
+**Summary**: Repeated reflections of seismic waves between two high-contrast boundaries, such as the air-sand and sand-sabkha interfaces.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-aljishi|AlJishi, 2022]] analyzed reverberations to determine the thickness of sand layers.
+- [[2022-aljishi|AlJishi, 2022]] utilized reverberations to identify the true time-in-sand for accurate static correction.
 
 ## Scientific Context
 
-- [[2022-aljishi|AlJishi, 2022]] Used to determine the thickness of the sand layer in dune environments.
+- [[2022-aljishi|AlJishi, 2022]] These are typically considered noise but contain critical information about the sand thickness.
 
 ## Measurement and Characterization Methods
 
-- [[2022-aljishi|AlJishi, 2022]] Identified via autocorrelation and stacking.
+- [[2022-aljishi|AlJishi, 2022]] Identified via autocorrelation and stacking of common gathers.
 
 ## Key Findings Across Sources
 
-- The vertex of the first reverberation occurs at an additional time equal to twice the first layer reflection time (e.g., 400ms + 176ms = 576ms). ([[2022-aljishi|AlJishi, 2022, p. 53]])
+- The first-order reverberation occurs at twice the travel time of the primary reflection. ([[2022-aljishi|AlJishi, 2022, p. 51]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

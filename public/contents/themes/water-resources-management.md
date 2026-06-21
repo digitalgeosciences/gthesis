@@ -1,93 +1,85 @@
 ---
 type: theme
 title: "Water Resources Management"
-aliases:
-  - "water management"
+aliases: []
 canonical: true
-description: "The management of water resources for sustainable use."
-key_challenges: "Balancing demand from multiple sectors in arid environments."
+description: "The management of water supply for domestic, livestock, and agricultural use."
+key_challenges: "High evaporation rates and limited rainfall in an arid climate."
 tags:
   - theme/water-resources-management
 sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
   - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
+  - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
-  - "raw/141933 - TOWARDS WATER SUSTAINABILITY UTILIZING OILFIELD PRODUCED WATER IN FORMULATING OI.pdf"
-  - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
+  - "raw/141649 - Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, N.pdf"
   - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
-  - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
   - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Water Resources Management
 
-**Summary**: The planning, development, and distribution of water resources for human use.
+**Summary**: The planning and management of water resources to meet demand while ensuring sustainability.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1993-moallim|Moallim, 1993]] developed a plan for the future development and distribution of water resources in Somalia.
+- [[1993-moallim|Moallim, 1993]] proposed a comprehensive plan for groundwater development in Somalia.
 
-- [[2012-iwalewa|Iwalewa, 2012]] proposed three alternative development schemes for the sustainable management of groundwater at KFUPM.
+- [[2012-iwalewa|Iwalewa, 2012]] evaluated water-resources-management strategies through three pumping alternatives.
 
-- [[2019-prasetyo|Prasetyo, 2019]] highlighted the need for better monitoring and conservation in the Eastern Province.
+- [[2016-armoh|Armoh, 2016]] addressed water-resources-management by quantifying evaporation in sabkhas.
 
-- [[2021-alkhowaildi|Alkhowaildi, 2021]] addressed the challenge of water scarcity by proposing the use of produced water in stimulation fluids.
+- [[2019-prasetyo|Prasetyo, 2019]] addressed the need for better monitoring to assist decision-makers in water conservation.
 
-- [[2022-karami|Karami, 2022]] addressed water-resources-management by proposing remote sensing tools for monitoring.
+- [[2020-mansouri|Mansouri, 2020]] addressed water-resources-management for the local aquifer.
 
-- [[2022-pambudi|Pambudi, 2022]] addressed water resource management through ASR implementation.
+- [[2022-pambudi|Pambudi, 2022]] focused on water resources management by identifying suitable sites for Aquifer Storage & Recovery (ASR).
 
-- [[2024-prasetyo|Prasetyo, 2024]] applied water-resources-management principles to optimize irrigation for lemon trees in arid regions.
-
-- [[2026-fatima|Fatima, 2026]] investigated managed aquifer recharge for sustainable groundwater management.
+- [[2026-fatima|Fatima, 2026]] addressed the challenge of water scarcity in arid environments through MAR strategies.
 
 ## Key Subtopics
 
-- [[1993-moallim|Moallim, 1993]] ['demand forecasting', 'conjunctive use', 'distribution planning']
+- [[1993-moallim|Moallim, 1993]] ['aquifer development', 'water quality assessment', 'demand forecasting']
 
-- [[2012-iwalewa|Iwalewa, 2012]] proposed three alternative development schemes for the sustainable management of groundwater at KFUPM.
+- [[2012-iwalewa|Iwalewa, 2012]] evaluated water-resources-management strategies through three pumping alternatives.
 
-- [[2019-prasetyo|Prasetyo, 2019]] highlighted the need for better monitoring and conservation in the Eastern Province.
+- [[2016-armoh|Armoh, 2016]] addressed water-resources-management by quantifying evaporation in sabkhas.
 
-- [[2021-alkhowaildi|Alkhowaildi, 2021]] addressed the challenge of water scarcity by proposing the use of produced water in stimulation fluids.
+- [[2019-prasetyo|Prasetyo, 2019]] addressed the need for better monitoring to assist decision-makers in water conservation.
 
-- [[2022-karami|Karami, 2022]] addressed water-resources-management by proposing remote sensing tools for monitoring.
+- [[2020-mansouri|Mansouri, 2020]] addressed water-resources-management for the local aquifer.
 
-- [[2022-pambudi|Pambudi, 2022]] addressed water resource management through ASR implementation.
+- [[2022-pambudi|Pambudi, 2022]] focused on water resources management by identifying suitable sites for Aquifer Storage & Recovery (ASR).
 
-- [[2024-prasetyo|Prasetyo, 2024]] applied water-resources-management principles to optimize irrigation for lemon trees in arid regions.
-
-- [[2026-fatima|Fatima, 2026]] investigated managed aquifer recharge for sustainable groundwater management.
+- [[2026-fatima|Fatima, 2026]] addressed the challenge of water scarcity in arid environments through MAR strategies.
 
 ## Methods and Approaches Used
 
-- [[1993-moallim|Moallim, 1993]] ['data synthesis', 'projections']
+- [[1993-moallim|Moallim, 1993]] ['pumping tests', 'hydrochemical analysis']
 
 ## Key Findings Across Sources
 
-- A comprehensive plan was developed to address growing demand across domestic, livestock, industrial, and agricultural sectors. ([[1993-moallim|Moallim, 1993, p. 147]])
+- Identified that long-term growth will exceed available groundwater if not managed with surface water. ([[1993-moallim|Moallim, 1993, p. 22]])
 
-- Alternative Scheme II, which assumed conservative measures, was determined as the best option for long-term sustainability. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
+- Alternative Scheme II, assuming conservative measures, is the best for long-term sustainability. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
 
-- Remote sensing offers a cost-effective method for assessing limited fossil water variations. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
+- Determining evaporation rates is critical for predicting water yields and designing irrigation projects. ([[2016-armoh|Armoh, 2016, p. 16]])
 
-- Utilizing produced water can save millions of freshwater gallons per single well treatment. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 20]])
+- Highlighted cost-effective remote sensing as a tool for managing limited fossil water. ([[2019-prasetyo|Prasetyo, 2019, p. 18]])
 
-- Remote sensing provides a scalable solution for sustainable groundwater management in arid regions. ([[2022-karami|Karami, 2022]])
+- Over-pumping has led to significant depletion of groundwater in western and northern parts. ([[2020-mansouri|Mansouri, 2020, p. 134]])
 
-- The integration of GIS, Remote Sensing, and MCDA - Weighted Overlay Analysis (WOA) methods is assumed powerful tool for delineating ASR potential sites in the semi-arid region. ([[2022-pambudi|Pambudi, 2022, p. 14]])
+- The integration of GIS, RS, and MCDA-WOA was identified as a powerful tool for delineating ASR zones in semi-arid regions. ([[2022-pambudi|Pambudi, 2022, p. 37]])
 
-- Optimizing the irrigation interval reduced water stress from 87.52 mm (I1) to 10.8 mm (I15). ([[2024-prasetyo|Prasetyo, 2024, p. 67]])
-
-- Identified TWW as a potential source for replenishing aquifers in arid regions. ([[2026-fatima|Fatima, 2026, p. 1]])
+- TWW can be a potential source for artificial groundwater recharge to improve water security. ([[2026-fatima|Fatima, 2026, p. 17]])
 
 ## Competing Approaches and Debates
 
-- [[1993-moallim|Moallim, 1993]] Balancing demand from multiple sectors in arid environments.
+- [[1993-moallim|Moallim, 1993]] High evaporation rates and limited rainfall in an arid climate.
 
 ## Open Questions and Research Gaps
 

@@ -1,28 +1,30 @@
 ---
 type: technique
 title: "Simclr"
-aliases: []
+aliases:
+  - "SimCLR"
+  - "Simple Framework for Contrastive Learning"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "image embeddings"
+output: "feature representations (embeddings)"
 tags:
-  - technique/machine-learning
+  - technique/simclr
 sources:
   - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Simclr
 
-**Summary**: A contrastive learning framework for visual representation learning.
+**Summary**: A framework for contrastive learning of visual representations by maximizing agreement between different augmented views of the same image.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2025-ferreira|Ferreira, 2025]] used SimCLR to cluster carbonate thin section images.
+- [[2025-ferreira|Ferreira, 2025]] used SimCLR to learn meaningful visual representations from unlabeled data before applying them to downstream tasks like classification and segmentation.
 
 ## Instruments and Software
 
@@ -34,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- SimCLR successfully clustered structures corresponding to the same microfossils. ([[2025-ferreira|Ferreira, 2025, p. 62]])
+- SimCLR is used as a strategy to improve weights of a model before it's applied to specific computer vision tasks by ensuring representation invariance to input distortions. ([[2025-ferreira|Ferreira, 2025, p. 52]])
 
 ## Methodological Variations Across Sources
 

@@ -7,23 +7,22 @@ canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Carbonate platform"
+geology: "carbonate platform"
 tags:
   - location/ghawar-field
   - theme/petroleum-geology
 sources:
   - "raw/10010 - An integrated geological modeling of the Arab-D reservoir, Uthmaniyah area Ghawa.pdf"
-  - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
+  - "raw/10396 - Compositional gradient calculations for a Saudi Arabian gas condensate reservoir.pdf"
   - "raw/140062 - Characterizing fluid contacts from seismic data by joint inversion of Acoustic v.pdf"
-  - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
+  - "raw/140436 - Numerical modeling of the geomechanical behavior of a carbonate petroleum reserv.pdf"
   - "raw/140641 - RELATION BETWEEN OFFSET AND VELOCITY DETERMINATION - APPLICATION ON A SYNTHETIC .pdf"
   - "raw/141723 - DEVELOPMENT OF CHEMOSTRATIGRAPHY AND CHEMO-MECHANICAL FACIES FRAMEWORK IN KHUFF,.pdf"
-  - "raw/142951 - 3D Subsurface Geological Modeling of a Structurally Complex Area A Case Study fr.pdf"
   - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
   - "raw/9566 - Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghaw.pdf"
   - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Ghawar Field
@@ -34,73 +33,67 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[2002-ibrahim|Ibrahim, 2002]] focused on the Ghawar Field, specifically the Uthmaniyah area.
+- [[2002-ibrahim|Ibrahim, 2002]] focused on the ghawar-field to model the Arab-D reservoir.
 
-- [[2016-hassan|Hassan, 2016]] studied a small field at the SE corner of the Ghuraw field containing Unayzah-C and Unayzah-A reservoirs.
+- [[2001-al-subai|Al-Subai, 2001]] analyzed data from the Ghawar field to determine reservoir connectivity.
 
-- [[2016-ali|Ali, 2016]] Referenced in this thesis.
+- [[2016-ali|Ali, 2016]] used data from the Ghawar field to validate the method on the Arab formation.
 
-- [[2017-mohammed|Mohammed, 2017]] located east of the Ghawar field to evaluate the Jafurah Sub-Basin.
+- [[2017-khan|Khan, 2017]] modeled the geomechanical behavior of the Ghawar reservoir during CO2 injection.
 
-- [[2018-abdulrahman|Abdulrahman, 2018]] focused on a specific area of the Ghawar Field between Ain Dar and Shudgam.
+- [[2018-abdulrahman|Abdulrahman, 2018]] focused on a study area within the Northern Ghawar Field.
 
-- [[2020-gbiyanju|Gbiyanju, 2020]] focused on the Ghawar area to study pre-Khuff sedimentary sequences.
+- [[2020-gbiyanju|Gbiyanju, 2020]] used data from the Ghawar field to characterize pre-Khuff sedimentary sequences.
 
-- [[2024-ahmed|Ahmed, 2024]] noted as a nearby major hydrocarbon system influencing regional geology.
+- [[2024-felemban|Felemban, 2024]] used a synthetic model based on the Ghawar field to test offset effects.
 
-- [[2024-felemban|Felemban, 2024]] used a model of the Ghawar field to test time-to-depth conversion methods.
+- [[1992-abdulghani|Abdulghani, 1992]] studied the carbonate units within the ghawar-field to characterize the Arab-D member.
 
-- [[1992-abdulghani|Abdulghani, 1992]] focused on the Uthmaniyah area within the Ghawar Field to study the Arab-D member.
-
-- [[2002-al-ali|Al-Ali, 2002]] analyzed data from an area west of ghawar-field.
+- [[2002-al-ali|Al-Ali, 2002]] Referenced in this thesis.
 
 ## Geological and Structural Setting
 
-- [[2002-ibrahim|Ibrahim, 2002]] North-south trending anticline
+- [[2002-ibrahim|Ibrahim, 2002]] anticline
 
-- [[2016-hassan|Hassan, 2016]] studied a small field at the SE corner of the Ghuraw field containing Unayzah-C and Unayzah-A reservoirs.
+- [[2001-al-subai|Al-Subai, 2001]] analyzed data from the Ghawar field to determine reservoir connectivity.
 
-- [[2016-ali|Ali, 2016]] Referenced in this thesis.
+- [[2016-ali|Ali, 2016]] used data from the Ghawar field to validate the method on the Arab formation.
 
-- [[2017-mohammed|Mohammed, 2017]] located east of the Ghawar field to evaluate the Jafurah Sub-Basin.
+- [[2017-khan|Khan, 2017]] modeled the geomechanical behavior of the Ghawar reservoir during CO2 injection.
 
-- [[2018-abdulrahman|Abdulrahman, 2018]] focused on a specific area of the Ghawar Field between Ain Dar and Shudgam.
+- [[2018-abdulrahman|Abdulrahman, 2018]] focused on a study area within the Northern Ghawar Field.
 
-- [[2020-gbiyanju|Gbiyanju, 2020]] focused on the Ghawar area to study pre-Khuff sedimentary sequences.
+- [[2020-gbiyanju|Gbiyanju, 2020]] used data from the Ghawar field to characterize pre-Khuff sedimentary sequences.
 
-- [[2024-ahmed|Ahmed, 2024]] noted as a nearby major hydrocarbon system influencing regional geology.
+- [[2024-felemban|Felemban, 2024]] used a synthetic model based on the Ghawar field to test offset effects.
 
-- [[2024-felemban|Felemban, 2024]] used a model of the Ghawar field to test time-to-depth conversion methods.
+- [[1992-abdulghani|Abdulghani, 1992]] studied the carbonate units within the ghawar-field to characterize the Arab-D member.
 
-- [[1992-abdulghani|Abdulghani, 1992]] focused on the Uthmaniyah area within the Ghawar Field to study the Arab-D member.
-
-- [[2002-al-ali|Al-Ali, 2002]] analyzed data from an area west of ghawar-field.
+- [[2002-al-ali|Al-Ali, 2002]] Referenced in this thesis.
 
 ## Formations Present
 
-- [[2002-ibrahim|Ibrahim, 2002]] Arab-D reservoir
+- [[2002-ibrahim|Ibrahim, 2002]] arab-d-reservoir, hith-anhydrite
 
 ## Key Findings From This Location
 
-- The Arab-D reservoir within this field is one of the most prolific oil-producing intervals globally. ([[2002-ibrahim|Ibrahim, 2002, p. 16]])
+- The Ghawar structure is a giant north-south trending anticline covering approximately 2530 square kilometers. ([[2002-ibrahim|Ibrahim, 2002, p. 16]])
 
-- The study area is a small field at the SE corner of the giant Ghawar field. ([[2016-hassan|Hassan, 2016, p. 34]])
+- The study confirmed that Well-B is isolated from other wells by a fault block. ([[2001-al-subai|Al-Subai, 2001, p. 75]])
 
-- Referenced in this thesis. ([[2016-ali|Ali, 2016]])
+- The field contains an anticline structure with approximately 200 km length and 16 km width. ([[2016-ali|Ali, 2016, p. 71]])
 
-- The Jafurah Sub-Basin is located immediately east of the Ghawar Oil Field. ([[2017-mohammed|Mohammed, 2017, p. 16]])
+- The study determined that adding a production well to the Ghawar site reduces overall pore pressure. ([[2017-khan|Khan, 2017, p. 21]])
 
-- The study confirmed that local geological conditions allowed for high accuracy even with larger offsets. ([[2018-abdulrahman|Abdulrahman, 2018, p. 18]])
+- The Biyadh formation was identified as a key target for velocity analysis in this field. ([[2018-abdulrahman|Abdulrahman, 2018, p. 18]])
 
-- The pre-Khuff sediments comprise a terrestrial to shallow marine thick sequence of siliciclastic sediments. ([[2020-gbiyanju|Gbiyanju, 2020, p. 36]])
+- The Ghawar area contains a thick sequence of siliciclastic sediments with significant heterogeneity. ([[2020-gbiyanju|Gbiyanju, 2020, p. 36]])
 
-- Al-Hassa is located near the renowned Ghawar oil field, the largest conventional oil field globally. ([[2024-ahmed|Ahmed, 2024, p. 44]])
+- The study focused on three key formations within the Ghawar structure: Shuaiba, Arab, and Qusaiba. ([[2024-felemban|Felemban, 2024, p. 27]])
 
-- The study utilized 2D synthetic data from the northern Ghawar field to evaluate offset effects. ([[2024-felemban|Felemban, 2024, p. 7]])
+- The Ghawar Field is a north-northeast trending, north-plunging complex anticline and is the largest onshore oil field in the world. ([[1992-abdulghani|Abdulghani, 1992, p. 19]])
 
-- The field is a north-northeast trending, north-plunging complex anticline with extensive production from the Arab-D and Jubaila formations. ([[1992-abdulghani|Abdulghani, 1992, p. 21]])
-
-- The study area was located approximately 2,450 km² west of the Ghawar field. ([[2002-al-ali|Al-Ali, 2002, p. 23]])
+- Referenced in this thesis. ([[2002-al-ali|Al-Ali, 2002]])
 
 ## Research Coverage and Gaps
 

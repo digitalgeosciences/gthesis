@@ -1,50 +1,48 @@
 ---
 type: formation
 title: "Jua Formation"
-aliases: []
+aliases:
+  - "Jabal Kibrit Formation"
 canonical: true
-age: "Not stated in source"
-basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "Not stated in source"
-tags: []
+age: "Early Miocene (~17.2 Ma)"
+basin: "Midyan Basin"
+lithology: "carbonate"
+reservoir_status: "producer"
+tags:
+  - formation/jua-formation
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
-  - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
+  - "raw/139623 - Stratigraphic Architecture and Diagenetic Evolution of Early Miocene Syn-rift Ca.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
 # Jua Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A carbonate formation containing the Wadi Waqb member.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Jua Formation
-
-- [[2024-malik|Malik, 2024]] studied the Jibalah Group sediments in the Dhaiqa Basin.
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] analyzed the jua-formation to evaluate its role as a local hydrocarbon reservoir.
 
 ## Depositional Environment
 
-
-
-- [[2024-malik|Malik, 2024]] studied the Jibalah Group sediments in the Dhaiqa Basin.
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] marine carbonate platform
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] not specified
+
 ## Key Findings Across Sources
 
-- studied the Jua Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
-
-- Found to be a mixed clastic-carbonate system rather than a continuous carbonate succession. ([[2024-malik|Malik, 2024, p. 14]])
+- The Wadi Waqb member is an important target for understanding syn-rift carbonate systems. ([[2015-koeshidayatullah|Koeshidayatullah, 2015, p. 26]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

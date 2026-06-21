@@ -1,45 +1,44 @@
 ---
 type: terminology
 title: "Critical Angle"
-aliases:
-  - "critical angle"
+aliases: []
 canonical: true
-definition: "The angle at which a wave's phase or polarity changes due to reflection from an underlying layer."
+definition: "The maximum angle of incidence for a wave traveling between two media with different seismic velocities."
 units: "degrees"
 related_techniques:
-  - "velocity-analysis"
+  - "ray-tracing"
 tags:
   - theme/geophysics-general
 sources:
   - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Critical Angle
 
-**Summary**: The angle at which seismic waves undergo a phase change or transition between modes.
+**Summary**: The angle at which seismic waves undergo a phase change when crossing a boundary between two layers with different velocities.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-felemban|Felemban, 2024]] analyzed the critical angle to determine the appropriate maximum offset for velocity analysis.
+- [[2024-felemban|Felemban, 2024]] used the critical angle to determine the maximum offset allowed before signal degradation occurs.
 
 ## Scientific Context
 
-- [[2024-felemban|Felemban, 2024]] Critical angles define the limit for reliable seismic data usage in velocity analysis.
+- [[2024-felemban|Felemban, 2024]] Determines the limit at which signal polarity may flip, complicating velocity analysis.
 
 ## Measurement and Characterization Methods
 
-- [[2024-felemban|Felemban, 2024]] Identified by observing semblance energy degradation in velocity spectra.
+- [[2024-felemban|Felemban, 2024]] Calculated using the sine of the ratio of the two layer velocities.
 
 ## Key Findings Across Sources
 
-- Phase changes occurring beyond the critical angle weaken semblance energy, leading to higher errors in depth estimation. ([[2024-felemban|Felemban, 2024, p. 11]])
+- Phase changes beyond the critical angle weaken semblance energy, making it difficult to pick correct velocities. ([[2024-felemban|Felemban, 2024, p. 54]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

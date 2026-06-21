@@ -2,29 +2,29 @@
 type: technique
 title: "Traveltime Tomography"
 aliases:
-  - "Traveltime Tomography"
+  - "seismic tomography"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "P-wave velocity model"
+output: "velocity distribution map"
 tags:
   - technique/traveltime-tomography
-  - theme/geophysics-general
+  - theme/near-surface-geophysics
 sources:
   - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Traveltime Tomography
 
-**Summary**: A method to reconstruct 3D/2D velocity models from first-arrival traveltimes.
+**Summary**: A method to reconstruct 3D or 2D velocity distributions from first-arrival traveltimes.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-alshaibani|AlShaibani, 2023]] used traveltime tomography to generate a P-wave velocity model of the study area.
+- [[2023-alshaibani|AlShaibani, 2023]] used traveltime tomography to generate a P-wave velocity model of the subsurface.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The tomogram showed a low-velocity anomaly below the deformation zone. ([[2023-alshaibani|AlShaibani, 2023, p. 43]])
+- The 2D tomogram showed high velocity values (1210-1665 m/s) in the top 20m coinciding with the deformation zone. ([[2023-alshaibani|AlShaibani, 2023, p. 53]])
 
 ## Methodological Variations Across Sources
 

@@ -2,38 +2,38 @@
 type: location
 title: "Al-Qaseem Area"
 aliases:
-  - "Al-Qaseem district"
+  - "Al-Qaseem area"
 canonical: true
-region: "Central Saudi Arabia"
+region: "Central Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Paleozoic strata"
+geology: "Paleozoic sedimentary rocks"
 tags:
   - location/al-qaseem-area
 sources:
   - "raw/139160 - Sedimentological Heterogeneity of the Late Ordovician Glacio-Fluvial Sarah Forma.pdf"
   - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Al-Qaseem Area
 
-**Summary**: The geographic region in central Saudi Arabia where the study was conducted.
+**Summary**: A region in central Saudi Arabia where the Sarah Formation is well exposed.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-el-deek|El-Deek, 2014]] focused on the Al-Qaseem area to map and analyze Sarah Formation paleovalleys.
+- [[2014-el-deek|El-Deek, 2014]] conducted field studies in the Al-Qaseem area to characterize the Sarah Formation.
 
-- [[2017-mahgoub|Mahgoub, 2017]] located the study site within the Al-Qaseem area.
+- [[2017-mahgoub|Mahgoub, 2017]] located the study within the Al-Qasim area to analyze outcrop samples.
 
 ## Geological and Structural Setting
 
-- [[2014-el-deek|El-Deek, 2014]] bordering the Arabian Shield
+- [[2014-el-deek|El-Deek, 2014]] Arabian Plate
 
-- [[2017-mahgoub|Mahgoub, 2017]] located the study site within the Al-Qaseem area.
+- [[2017-mahgoub|Mahgoub, 2017]] located the study within the Al-Qasim area to analyze outcrop samples.
 
 ## Formations Present
 
@@ -41,9 +41,9 @@ last_updated: 2026-06-09
 
 ## Key Findings From This Location
 
-- Contains five distinct paleovalleys: Bukayriyah, Rawd Al-Jawa, Hanadir, Sarah, and Khanasir Sarah. ([[2014-el-deek|El-Deek, 2014, p. 15]])
+- The study area is located in Al-Qaseem area, central Saudi Arabia where Sarah Formation is well exposed. ([[2014-el-deek|El-Deek, 2014, p. 22]])
 
-- Two outcrops were identified for detailed lithological and fracture analysis. ([[2017-mahgoub|Mahgoub, 2017, p. 44]])
+- The study area near Qusayba village has a measured thickness of approximately 41 meters for the Qusaiba member. ([[2017-mahgoub|Mahgoub, 2017, p. 28]])
 
 ## Research Coverage and Gaps
 

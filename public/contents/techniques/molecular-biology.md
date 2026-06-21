@@ -2,30 +2,30 @@
 type: technique
 title: "Molecular Biology"
 aliases:
-  - "DNA analysis"
+  - "DNA isolation"
   - "PCR"
-  - "BLAST"
+  - "DGG"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "DNA sequences and phylogenetic relationships"
+output: "DNA sequences and phylogenetic trees"
 tags:
   - technique/molecular-biology
 sources:
-  - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
+  - "raw/138616 - CULTURING, ISOLATION AND GENETIC IDENTIFICATION OF ENDOLITHIC CYANOBACTERIA FOUN.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-14
 ---
 
 # Molecular Biology
 
-**Summary**: Molecular techniques use genetic sequencing to identify and differentiate species.
+**Summary**: Techniques used to extract and analyze DNA for genetic identification of organisms.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-arslan|Arslan, 2015]] applied molecular characterization using SSU rRNA gene amplification to identify foraminiferal groups.
+- [[2012-amao|Amao, 2012]] applied molecular techniques including PCR and DGG to establish a genetic basis for identifying endolithic cyanobacteria.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Blast analysis showed monophyletic clustering for Ammonia, Murrayinella, Glabratellina, and Elphidium. ([[2015-arslan|Arslan, 2015, p. 46]])
+- Not stated in source ([[2012-amao|Amao, 2012]])
 
 ## Methodological Variations Across Sources
 

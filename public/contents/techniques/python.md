@@ -1,29 +1,29 @@
 ---
 type: technique
-title: "Python"
+title: "Python Programming"
 aliases:
   - "Python"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "data processing and visualization"
+output: "automated prediction scripts"
 tags:
   - technique/python
 sources:
-  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
+  - "raw/142766 - Real Time Wellbore Cleaning Evaluation and Advisory System.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
-# Python
+# Python Programming
 
-**Summary**: A high-level programming language used for scientific computing and data analysis.
+**Summary**: A high-level programming language used for data analysis and machine learning.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-makki|Makki, 2024]] used Python to perform data analysis and visualization of seismic results.
+- [[2023-murif|Murif, 2023]] used Python with Sklearn and TensorFlow libraries to implement the prediction models.
 
 ## Instruments and Software
 
@@ -35,7 +35,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Not stated in source ([[2024-makki|Makki, 2024]])
+- The Sklearn library was used for decision tree regression, while TensorFlow was used for ANN implementation. ([[2023-murif|Murif, 2023, p. 143]])
 
 ## Methodological Variations Across Sources
 

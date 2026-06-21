@@ -12,151 +12,106 @@ committee_members:
   - "Al- Arfaj Abdulrahman"
 source_file: "raw/139615 - Sunlight and Organic dyes as A greener Approach to Photochemical Reactions and D.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139615/"
-study_area: "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+study_area: "Saudi Arabia"
 keywords:
   - Sunlight
   - Organic dyes
   - Photochemical Reactions
   - Degradation of Phenol
   - Flow microreactor
-  - Graphene Oxide
-  - α-Functionalization
-  - α-Oxyamination
   - Phenol degradation
+  - Graphene oxide
 techniques:
-  - ftir
-  - xrd
-  - nmr
   - hplc
   - lcms
-  - hummers-method
-  - gc-ms
-  - microreactors
-  - flow-microreactor
-  - esi-ms
-  - uv-vis-spectroscopy
-  - lc-ms
+  - microfluidic
+  - nmr
+  - ftir
+  - xrd
   - minitab
   - anova
 tags:
   - degree/ms
-  - location/dhahran-area
   - location/saudi-arabia
-  - technique/ftir
-  - technique/xrd
-  - technique/nmr
   - technique/hplc
   - technique/lcms
-  - technique/uv-photocatalysis
-  - technique/gc-ms
-  - technique/flow-microrheology
-  - technique/evidencedbyms
-  - technique/uv-vis-spectroscopy
-  - technique/lc-ms
+  - technique/microfluidic
+  - technique/nmr
+  - technique/ftir
+  - technique/xrd
   - theme/environmental-geoscience
   - theme/water-treatment
   - terminology/phenol
-  - terminology/graphene-oxide
-  - terminology/photocatalysis
-  - terminology/phenol-degradation
-  - terminology/flow-reactor
+  - terminology/water-treatment
 status: ingested
 ---
 
 # Sunlight and Organic dyes as A greener Approach to Photochemical Reactions and Degradation of Phenol in Water
 
-**Summary**: The thesis investigates the use of sunlight and organic dyes as a greener alternative for photochemical reactions and phenol degradation in water using a flow microreactor. It evaluates three specific chemical processes: α-functionalization of tertiary amines, α-oxyamination of 1,3-dicarbonyl compounds, and the removal of phenol from aqueous solutions.
+**Summary**: The thesis investigated the use of natural sunlight and organic dyes as a green approach for both photochemical synthesis (alpha-functionalization of tertiary amines and alpha-oxyamination of 1,3-dicarbonyl compounds) and the degradation of phenol in water using a flow microreactor. The study concluded that Rose Bengal dye achieved high phenol removal efficiency (86.6%) at pH 11, while the addition of graphene oxide actually hindered the performance.
 
 ---
 
 ## Research Problem
 
-Traditional organic synthesis often relies on hazardous solvents and expensive catalysts. There is a need for greener methods to perform photochemical reactions and treat water contaminated with phenolic pollutants like phenol, which are regulated by various environmental agencies (e.g., EPA, WHO).
+Traditional photochemistry often relies on expensive, toxic, or scarce metal-based catalysts (like Ruthenium or Iridium complexes) and high-intensity UV light sources. There is a need for 'greener' alternatives that utilize abundant sunlight and environmentally friendly organic dyes in systems that offer better scalability and safety, such as flow microreactors.
 
 ## Objectives
 
-- Design and develop new reactions utilizing sunlight with organic dyes as photocatalysts via a flow microreactor.
-- Synthesize several organic compounds in a flow capillary reactor.
-- Degrade phenol in water using graphene oxide and organic dye.
-- Develop and optimize the reaction conditions for these processes.
 - To develop and test flow capillary reactor for various photo organic chemistry reactions
-- To develop and optimize the reaction conditions with different organic dyes in sun light radiation.
-- Optimize the reaction conditions to achieve higher yield.
-- To demonstrate degradation of Phenol from contaminated water using graphene oxide and organic dyes under bench-scale condition.
-- Design and develop a new reaction utilizing sunlight in the presence of organic dyes as photocatalysts via flow microreactor.
-- Synthesize several organic compounds (e.g., tertiary amines, 1,3-dicarbonyl compounds) using organic dye photocatalyzed reactions.
-- Degrade phenol in water using an organic dye photocatalytic system.
-- Develop and optimize reaction conditions using sunlight and organic dyes as photocatalysts.
-- Evaluate the efficiency of a flow microreactor for continuous synthesis of organic compounds.
-- Assess the degradation performance of graphene oxide and organic dyes in removing phenol from water.
-- Design and develop a new reaction utilizing sunlight in the presence of organic dyes as a photocatalyst via flow microreactor.
-- Synthesize several organic compounds (e.g., α-functionalization of tertiary amines) in a flow capillary reactor.
-- Degrade phenol in water using graphene oxide and organic dyes.
-- Optimize reaction conditions for both synthesis and degradation processes.
-- Assess the ability of natural sunlight and environmentally friendly organic dyes in organic synthesis.
-- Evaluate the degradation of phenol in water using these materials.
-- Understand how various experimental variables (pH, concentration) and a flow reactor influence reaction outcomes.
-- Determine optimal conditions for maximum yield and removal efficiency.
-- Degrade phenol in water using organic dye photocatalysis.
+- To develop and optimize the reaction conditions with different organic dyes in sun light radiation
+- Optimize the reaction conditions to achieve higher yield
+- To demonstrate degradation of Phenol from contaminated water using graphene oxide and organic dyes under bench-scale condition
+- Develop and optimize reaction conditions for organic synthesis using organic dyes as photocatalysts in a flow microreactor.
+- Compare the performance of continuous flow reactors against batch systems for both chemical synthesis and pollutant removal.
 
 ## Methods
 
-The study utilizes a quartz flow reactor (0.4 mm internal diameter, 1.5 m length) with a mirror to maximize sunlight intensity. Organic dyes (Rose Bengal, Eosin Y, Fluorescein) were used as photocatalysts. Graphene oxide was synthesized via the modified Hummers method and characterized using XRD and FTIR. Analytical techniques included HPLC for quantification of products/phenol concentration, LC-MS for confirmation, and NMR for structural verification. Minitab 16 software was used for experimental design (DoE) to optimize phenol degradation parameters including pH, concentration, dosage, and time.
+The study utilized a custom-designed quartz flow reactor with a 0.4 mm internal diameter and 1.5 m length, equipped with a mirror to maximize sunlight intensity. Synthesis was performed using organic dyes (Rose Bengal, Eosin Y, Fluorescein) as photocatalysts. Phenol degradation was tested using graphene oxide (synthesized via the Hummers method) and various organic dye concentrations at different pH levels (3 and 11). Analytical techniques included HPLC for quantification, LCMS for confirmation of products, NMR (1H and 13C) for structural characterization, FTIR to identify functional groups on graphene oxide, and XRD to determine mineral phases/crystallinity. Minitab was used for experimental design and data analysis.
 
 ## Data and Materials
 
-Materials included Rose Bengal (≥90%), TEMPO (98%), Dichloromethane (≥99.8%), Ethylbenzoylacetate (95%), Acetonitrile (99.9%), Phenol (≥96%), and Fluorescein dye. Graphene oxide was synthesized from graphite powder. Experimental parameters for phenol degradation included concentrations of 50 mg/L and 200 mg/L, pH levels of 3 and 11, and various dosages of GO and organic dyes.
+The study utilized various organic compounds for synthesis (e.g., tertiary amines, 1,3-dicarbonyl compounds) and phenol as a model pollutant in water. Several organic dyes were tested: Rose Bengal, Rhodamine B, Methylene Blue, Fluorescein, Eosin Y, and Tetraphenylporphyrin. Graphene oxide was also utilized as an additive/catalyst.
 
 ## Key Findings
 
-- The flow reactor yielded results higher than 64% for the synthesized organic compounds. ([[2015-hassan|Hassan, 2015, p. 16]])
-- Maximum phenol removal from contaminated water reached 86.6%. ([[2015-hassan|Hassan, 2015, p. 16]])
-- Arabic abstract reports a maximum phenol removal of up to 84% in similar conditions. ([[2015-hassan|Hassan, 2015, p. 17]])
-- FTIR and XRD were used to characterize the synthesized graphene oxide. ([[2015-hassan|Hassan, 2015, p. 104]])
-- HPLC was used to monitor phenol concentration before and after treatment at various pH levels (3 and 11). ([[2015-hassan|Hassan, 2015, p. 132]])
-- Solar radiation on the Arabian Peninsula averages approximately 2200 kWh/m2, with high solar radiation values (>5 kW/m2/h) experienced in most parts of Saudi Arabia. ([[2015-hassan|Hassan, 2015, p. 20]])
-- Microreactors offer enhanced heat and mass-transfer characteristics, improved safety for exothermic reactions, and precise control over residence time compared to traditional batch reactors. ([[2015-hassan|Hassan, 2015, p. 22]])
-- Organic dyes are identified as a viable, cost-effective, and environmentally friendly alternative to metal-based photocatalysts in both organic synthesis and pollutant degradation. ([[2015-hassan|Hassan, 2015, p. 28]])
-- Rose Bengal was found to be a promising photocatalyst in wastewater treatment due to its water solubility, absorption in the visible region, and high quantum yield of singlet oxygen. ([[2015-hassan|Hassan, 2015, p. 41]])
-- Methylene Blue degradation efficiency was observed to be reduced in dye concentration above 3.2 ppm; optimal conditions were found at 0.32 ppm. ([[2015-hassan|Hassan, 2015, p. 44]])
-- A composite of graphene oxide (GO)/BiOBr using Rhodamine-B and methylene blue showed efficiencies of 98% and 95% respectively, compared to 40% and 50% for pure BiOBr. ([[2015-hassan|Hassan, 2015, p. 44]])
-- Cr-Tetraphenylporphyrin (Cr-TPP) was shown to have a yield of 280.4 μmol gcat-1h-1 in H2 formation under a Xenon lamp. ([[2015-hassan|Hassan, 2015, p. 45]])
-- Eosin Y was identified as the most effective photocatalyst dye for the functionalization of heteroarenes in continuous flow, with reactions occurring in 30 minutes. ([[2015-hassan|Hassan, 2015, p. 47]])
-- The use of TEMPO/Oxone systems allowed for the oxidation of alcohols to aldehydes and ketones without over-oxidation. ([[2015-hassan|Hassan, 2015, p. 50]])
-- A yield of 95% was achieved for the synthesis of quaternary fluorinated compounds using Rose Bengal as a photocatalyst in water. ([[2015-hassan|Hassan, 2015, p. 59]])
+- The flow reactor yielded results higher than 64% in various organic synthesis experiments. ([[2015-hassan|Hassan, 2015, p. 16]])
+- Maximum phenol removal of 86.6% was achieved from contaminated water using the developed system. ([[2015-hassan|Hassan, 2015, p. 16]])
+- HPLC chromatograms confirmed phenol concentration at various pH levels (3 and 11) after treatment with graphene oxide and organic dyes. ([[2015-hassan|Hassan, 2015, p. 14]])
+- Eosin Y was identified as the most effective photocatalyst dye for the functionalization of heteroarenes in continuous flow. ([[2015-hassan|Hassan, 2015, p. 47]])
+- Graphene oxide (GO) showed a yield six times higher than pure TiO2 when used in the photodegradation of CO2 to hydrocarbons. ([[2015-hassan|Hassan, 2015, p. 49]])
+- The use of a flow reactor improved the yield of ő-oxyamination in dichloromethane from 33.5% to approximately 80% (a 50% improvement). ([[2015-hassan|Hassan, 2015, p. 92]])
+- In water, the use of a flow reactor improved the yield of ő-oxyamination by 27.4% compared to non-flow systems. ([[2015-hassan|Hassan, 2015, p. 93]])
+- The synthesis of 2-(4-Methoxy-phenyl)-1,2,3,4-tetrahydro-isoquinoline using Rose Bengal and a flow reactor achieved a yield of 93.6% in 20 hours. ([[2015-hassan|Hassan, 2015, p. 112]])
+- Phenol removal was significantly higher at pH 11 compared to pH 3, with the latter showing only ~1-15% removal for graphene oxide and organic dyes alone. ([[2015-hassan|Hassan, 2015, p. 127]])
+- The flow reactor improved phenol treatment by 39% at pH 3/200 mg/L, 22.1% at pH 3/50 mg/L, and 11.7% at pH 11/200 mg/L. ([[2015-hassan|Hassan, 2015, p. 132]])
+- The average improvement in phenol degradation across all tested conditions using the flow reactor was 20.6%. ([[2015-hassan|Hassan, 2015, p. 132]])
+- Water was found to be a greener alternative for alpha-oxyamination reactions, yielding 93% compared to 84% in acetonitrile and 33.5% in dichloromethane. ([[2015-hassan|Hassan, 2015, p. 153]])
+- Rose Bengal organic dye showed higher yields in photochemical synthesis compared to fluorescein and eosin Y. ([[2015-hassan|Hassan, 2015, p. 153]])
+- The use of a continuous flow reactor improved alpha-oxyamination yield by 26.4% and alpha-functionalization of tertiary amines by 60.8%. ([[2015-hassan|Hassan, 2015, p. 153]])
+- Graphene oxide alone showed poor phenol removal (4.8%), but at pH 11, it achieved 42% reduction. ([[2015-hassan|Hassan, 2015, p. 154]])
 
 ## Limitations
 
-The study was limited by the minimum capacity of the pump used for the flow reactor, which affected the ability to manipulate flow rate and residence time further.
+The study was limited by the minimum capacity of the pump used, which affected the ability to manipulate flow rate and residence time for maximum conversion.
 
 ## Recommendations and Future Work
 
-- Optimize the recovery, reuse, and recycling of organic dyes in photocatalyzed reactions.
-- Improve and scale up the continuous flow reactor with a wavelength adjustment knob to suit specific sensitizer absorption regions.
-- Investigate more organic dyes for removing phenol and other pollutants.
-- Combine different organic dyes to study removal efficiency.
+- Optimize recovery, reuse, and recycling of organic dyes in photocatalyzed reactions.
+- Improve and scale up the continuous flow reactor with a wavelength adjustment knob.
+- Investigate more organic dyes and combinations of different organic dyes to remove phenol and other pollutants.
 - Combine organic dyes with other adsorbents like reduced graphene oxide and silver nanoparticles.
-- Extend the application of flow reactors, organic dyes, and natural sunlight to treat other environmental pollutants.
-- Conduct further research on kinetics to better understand the treatment of phenol using organic dyes.
+- Conduct kinetic studies to better understand the treatment of phenol using organic dyes in the presence of sunlight through a flow reactor.
 
 ## Related Concepts
 
-- [[ftir]]
-- [[xrd]]
 - [[hplc]]
+- [[lcms]]
+- [[microfluidic]]
 - [[phenol]]
-- [[graphene-oxide]]
 - [[water-treatment]]
-- [[dhahran-area]]
-- [[uv-photocatalysis]]
-- [[gc-ms]]
-- [[photocatalysis]]
 - [[saudi-arabia]]
 - [[environmental-geoscience]]
-- [[flow-microreactor]]
-- [[uv-vis-spectroscopy]]
-- [[phenol-degradation]]
-- [[lc-ms]]
 - [[nmr]]
-- [[lcms]]
-- [[flow-reactor]]
+- [[ftir]]
+- [[xrd]]

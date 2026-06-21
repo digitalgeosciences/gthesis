@@ -7,25 +7,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "instantaneous evaporation rates (mm/day)"
+output: "instantaneous and daily evaporation rates in mm."
 tags:
   - technique/portable-chamber
-  - theme/evaporation-rate
+  - theme/water-resources-management
 sources:
   - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Portable Chamber
 
-**Summary**: A direct measurement technique using a small enclosure to measure water flux from soil or vegetation.
+**Summary**: A direct measurement technique for evaporation and evapotranspiration using a small enclosure to isolate the soil surface.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2016-armoh|Armoh, 2016]] used portable chamber to determine evaporation rates in Sabkha Jayb Uwayyid.
+- [[2016-armoh|Armoh, 2016]] used portable chamber to measure direct evaporation rates in Sabkha Jayb Uwayyid.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The method provided an average annual evaporation rate of 145 mm, significantly lower than pan evaporation. ([[2016-armoh|Armoh, 2016, p. 11]])
+- The chamber yielded an average annual evaporation rate of 145 mm, significantly lower than pan evaporation (3590 mm/year). ([[2016-armoh|Armoh, 2016, p. 11]])
 
 ## Methodological Variations Across Sources
 

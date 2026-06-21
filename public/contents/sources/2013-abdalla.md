@@ -13,221 +13,156 @@ committee_members:
   - "Kaminski Michael"
 source_file: "raw/138943 - HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENT.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/138943/"
-study_area: "Outcrop area in Central Saudi Arabia (Wadi Nisah exposure)"
+study_area: "Arab-D outcrop analog, Central Saudi Arabia"
 keywords:
+  - Outcrop analogs
   - Arab-D reservoir
-  - Outcrop analog
-  - SGR logging
-  - Geochemical analysis
-  - 3-D modeling
-  - Microporosity
-  - Lithofacies
-  - Petrophysical properties
+  - lithofacies
   - geostatistical modeling
   - spectral gamma ray
   - geochemistry
-  - micropaleontology
+  - microporosity
   - petrophysics
-  - Petrophysical analysis
-  - Porosity
-  - Permeability
-  - Outcrop analogs
-  - Arab-D Member
-  - Upper Jubaila Member
-  - stratigraphy
-  - SGR logs
-  - Artificial Neural Network
-  - Fischer Plot
-  - diagenesis
+  - outcrop analog
   - sequence stratigraphy
-  - stable isotopes
-  - carbonate sedimentology
-  - high resolution
-  - stratigraphic sections
+  - diagenesis
+  - porosity
+  - permeability
+  - high resolution modeling
+  - lithofacies modeling
+  - SGR logging
+  - geochemical analysis
+  - petrophysical properties
+  - Arab-D Member
   - SGR log
   - ICP-MS
-  - detrital material
-  - petrography
-  - microfacies
-  - facies architecture
-  - heterogeneity
-  - high resolution characterization
-  - modeling
+  - reservoir zonation
 techniques:
-  - sem
-  - icp-ms
   - sgr
-  - thin-section-petrography
-  - geostatistics
-  - petrel
-  - core-analysis
-  - well-log-analysis
-  - spectral-gamma-ray
-  - general-geochemistry
-  - petrography
-  - biostratigraphy
-  - xrd
+  - icp-ms
   - sem-eds
+  - xrd
+  - thin-section-petrography
+  - petrel
   - neural-networks
   - fischer-plot
+  - microscopy
+  - sem
+  - artificial-neural-network
+  - geostatistics
   - variogram-analysis
-  - tritium-analysis
-  - sgr-logging
+  - core-analysis
+  - well-log-analysis
   - sequential-gaussian-simulation
-  - jmicrovision-software
-  - ct-scanning
-  - remote-sensing
-  - lithostratigraphy
-  - gamma-ray-spectrometry
-  - sedimentology
+  - petrography
+  - image-analysis
+  - petrology
+  - biostratigraphy
 tags:
   - degree/phd
   - formation/arab-d-reservoir
-  - formation/jubaila-formation
-  - formation/arab-formation
-  - location/central-saudi-arabia
-  - technique/sem
+  - location/central-saudi-area
   - technique/xrd
-  - technique/thin-section-petrography
+  - technique/sem-eds
+  - technique/petrel
   - technique/well-log-analysis
   - technique/geostatistics
-  - technique/petrel
-  - technique/spectral-gamma-ray
-  - technique/general-geochemistry
+  - technique/micromorphology-analysis
+  - technique/microscopy
   - technique/petrography
-  - technique/biostratigraphy
-  - technique/sem-eds
+  - technique/spectral-gamma-ray-analysis
+  - technique/thin-section-petrography
+  - technique/sem
   - technique/sgr
-  - technique/icp-ms
-  - technique/neural-networks
-  - technique/fisher-plot
-  - technique/tritium-analysis
   - technique/variogram-analysis
+  - technique/sem-ed
+  - technique/icp-ms
   - technique/sequential-gaussian-simulation
+  - technique/image-analysis
   - technique/core-analysis
-  - technique/ct-scanning
-  - technique/remote-sensing
-  - technique/gamma-ray-spectrometry
   - theme/petrophysics
-  - theme/carbonate-geology
   - theme/sedimentology
+  - theme/carbonate-geology
   - theme/sequence-stratigraphy
-  - theme/stratigraphy
-  - theme/carbonate-sedimentology
   - terminology/microporosity
+  - terminology/facies-analysis
   - terminology/diagenesis
-  - terminology/lithofacies
   - terminology/sequence-stratigraphy
-  - terminology/porosity
+  - terminology/th-u-ratio
 status: ingested
 ---
 
 # HIGH RESOLUTION CHARACTERIZATION AND MODELLING OF AN ARAB-D OUTCROP ANALOG, CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the Arab-D reservoir using a high-resolution outcrop analog in central Saudi Arabia to overcome limitations of large inter-well spacing. By integrating subsurface petrophysical data with 3D lithofacies models derived from the outcrop, it provides a detailed understanding of porosity and permeability distribution at scales smaller than standard well spacing.
+**Summary**: The thesis investigates the Arab-D reservoir using a high-resolution outcrop analog at Wadi Nisah to characterize lithofacies, microporosity, and petrophysical properties. It integrates 3D stochastic modeling of facies and SGR logs with geochemical analysis (ICP-MS) to improve understanding of reservoir heterogeneity and distinguish between the Upper Jubaila Member and Arab-D Member.
 
 ---
 
 ## Research Problem
 
-The primary problem is the lack of high-resolution stratigraphic models and correlation for the Arab-D reservoir due to large inter-well spacing in subsurface fields, which masks small-scale facies changes. This study uses an outcrop analog in Wadi Nisah to overcome these limitations by providing a higher resolution of lithofacies distribution and petrophysical properties.
+The primary challenge is the limited resolution of subsurface well logs in the Arab-D reservoir, which masks small-scale heterogeneities like tidal channels and complex microporosity systems. An outcrop analog provides a high-resolution window to better understand these features and their impact on petrophysical properties.
 
 ## Objectives
 
-- Characterize and model the lithofacies and petrophysical properties of the Arab-D outcrop analog.
-- Integrate SGR logging and geochemical analysis to improve reservoir characterization.
-- Establish a 3-D lithofacies and petrophysical model for the Arab-D reservoir.
-- Evaluate the relationship between microporosity and permeability in different lithofacies.
 - Develop high-resolution, 3-D sedimentological and stratigraphical models.
-- Establish the paleoenvironment zones by studying macro- and microbiofacies of the outcrop succession.
-- Distribute the subsurface porosity and permeability data (extracted from literature) into the high-resolution lithofacies model.
+- Establish paleoenvironment zones by studying macro- and microbiofacies of the outcrop succession.
+- Distribute subsurface porosity and permeability data into the high-resolution lithofacies model.
 - Describe qualitatively and quantitatively the microporosity and its distribution in the 3-D facies model.
 - Characterize the outcrop using Spectral Gamma Ray (SGR) logs and distribute them within the 3-D facies model.
 - Analyze the outcrop succession using geochemical analysis.
-- Characterize and model an outcrop analog of the Arab-D reservoir.
-- Integrate SGR logging with geochemical data for lithofacies correlation.
-- Perform petrophysical analysis (porosity, permeability) on both outcrop and subsurface samples.
-- Develop a 3D geostatistical model to represent the high-resolution distribution of properties.
-- Characterize and model a high-resolution outcrop analog for the Arab-D member
-- Identify lithofacies and their corresponding depositional environments
-- Quantify stratigraphic cycles using SGR logs and ANN processing
-- Compare outcrop stratigraphy with subsurface data from the Ghawar field
-- Identify diagenetic features (micritization, cementation, dissolution, dolomitization) and their impact on porosity.
-- Establish a link between porosity evolution, diagenetic alteration, and sequence stratigraphy.
-- Compare outcrop lithofacies, biocomponents, and isotope data with subsurface core data.
-- Characterize and model a high-resolution outcrop analog of the Arab-D reservoir.
-- Integrate subsurface petrophysical data (porosity and permeability) into the 3D outcrop facies model.
-- Evaluate the impact of lithofacies on porosity and permeability distribution at scales smaller than well spacing.
-- Validate the 3D lithofacies model against present-day topography and stratigraphic observations.
-- Characterize and model the Arab-D outcrop analog at a high resolution to understand reservoir heterogeneity and stratigraphic patterns.
-- Quantify and characterize microporosity in different carbonate grain types (sparry calcite, micrite, dolomite).
-- Establish the relationship between microporosity and permeability across various lithofacies.
-- Integrate Spectral Gamma Ray (SGR) logging with geochemical analysis to correlate outcrop lithofacies with elemental content.
-- Characterize and model an outcrop analog for the Arab-D reservoir
-- Identify distinct SGR log motifs for Upper Jubaila and Arab-D members
-- Correlate geochemical signatures (ICP-MS) with SGR logs to identify detrital material influence
-- Develop 3-D models of SGR logs using geostatistical methods
-- Characterize and model an outcrop analog of the Arab-D reservoir to improve understanding of lithofacies architecture.
-- Integrate SGR logs and geochemical analysis (ICP-MS) to differentiate between reservoir and non-reservoir facies.
-- Establish a high-resolution 3-D geostatistical model for the outcrop to capture small-scale heterogeneities.
-- Compare outcrop results with published subsurface data from Ghawar Field and UAE fields.
-- Characterize an outcrop analog of the Arab-D reservoir
-- Model the high-resolution stratigraphy and facies architecture of the outcrop
-- Integrate outcrop data with well log data to improve subsurface characterization
 
 ## Methods
 
-The study utilized a multi-step modeling workflow: (1) Construction of a 3D grid based on four correlated stratigraphic surfaces from the outcrop. (2) Generation of indicator semivariograms for seven distinct lithofacies to determine spatial continuity in N-S, E-W, and vertical directions. (3) Creation of a 3D lithofacies model using stochastic Sequential Indicator Simulation (SIS). (4) Population of petrophysical properties into the model using two methods: direct assignment of average values from core/well logs based on facies matching, and generation of porosity logs via Sequential Gaussian Simulation (SGS) integrated with field-specific data.
+The study utilized a 3-D gridding system based on four stratigraphic surfaces (Tidal Flat, Skeletal Bank, Stromatoporoid, and Upper Jubalaya). Lithofacies were modeled using Sequential Indicator Simulation (SIS) based on 14 stratigraphic sections. Petrophysical properties (porosity/permeability) were populated into the model by assigning values from core-plug data of equivalent subsurface facies. Microporosity was quantified as the difference between core-plug porosity and point-count thin section porosity, then analyzed via SEM image analysis for morphology. SGR logging (U, K, Th, TC) was performed on outcrop sections to create 3D models using Sequential Gaussian Simulation (SGS). Geochemical analysis was conducted via ICP-MS to identify element groups associated with specific lithofacies.
 
 ## Data and Materials
 
-The study utilized an outcrop analog of the Arab-D reservoir in Central Saudi Arabia, including 65 core plug samples for microporosity and permeability measurements using water saturation methods. Data included SGR counts per second (CPS), elemental concentrations from ICP-MS, and high-resolution SEM images.
+14 stratigraphic sections from the Wadi Nisah outcrop; 65 core plug samples for microporosity and petrophysical analysis; SGR logs of U, K, Th, and Total Count (TC) across multiple sections; ICP-MS geochemical data for various elements including SiO2, Al2O3, Fe2O3, K2O, TiO2, Zr, Zn, CaO, Sr, and MgO.
 
 ## Key Findings
 
-- Identified three main lithofacies associations: Stromatoporoid (Dolomitic Mudstones/Wackestones, Stromatoporoid Wackestones/Packstones), Skeletal Bank (Burrowed Fossiliferous Wackestones, Fossiliferous Peloidal Grainstones), and Tidal Flat (Laminated Mudstones, Wavy Rippled Sandy Grainstones). ([[2013-abdalla|Abdalla, 2013, p. 47]])
-- Quantified microporosity in three main types: sparry calcite cement, micrite, and dolomite. ([[2013-abdalla|Abdalla, 2013, p. 132]])
-- Established a correlation between microporosity and permeability across different lithofacies groups. ([[2013-abdalla|Abdalla, 2013, p. 148]])
-- SGR logs showed distinct responses to different lithofacies, allowing for the identification of reservoir zonation. ([[2013-abdalla|Abdalla, 2013, p. 171]])
-- Geochemical analysis (ICP-MS) successfully correlated trace elements with SGR log data (K, Th, U). ([[2013-abdalla|Abdalla, 2013, p. 173]])
-- The study identified a total of 44 cycles in the outcrop, with cycle thicknesses ranging from 15.2 cm to 255 cm. ([[2013-abdalla|Abdalla, 2013, p. 18]])
-- These 44 cycles comprise nine high-frequency sequences. ([[2013-abdalla|Abdalla, 2013, p. 18]])
-- Microporosity and associated permeability in the analyzed samples range from 0.4% to 6.4% and 0.02 to 1.2 mD, respectively. ([[2013-abdalla|Abdalla, 2013, p. 18]])
-- Geochemical results show a strong correlation between major/trace elements and reservoir facies, following the same general upwards shoaling pattern as spectral gamma ray logs. ([[2013-abdalla|Abdalla, 2013, p. 18]])
-- The outcrop study area is approximately 90 km long and 2 to 3.7 km wide in Wadi Nisah, central Saudi Arabia. ([[2013-abdalla|Abdalla, 2013, p. 27]])
-- The Arab-D reservoir in Ghawar field has an average thickness of 60 m, an average porosity of 15%, and permeability of several darcys. ([[2013-abdalla|Abdalla, 2013, p. 20]])
-- The 60-second sampling window was identified as the optimal duration for SGR measurements to ensure low variability while maintaining practical efficiency in the field. ([[2013-abdalla|Abdalla, 2013, p. 32]])
-- SGR logs (K, U, Th) provide a high resolution of lithofacies and are effective for identifying stratigraphic boundaries and cycle thickness. ([[2013-abdalla|Abdalla, 2013, p. 34]])
-- Th/U ratios were used as indicators of water chemistry; high Th indicates detrital input in shallow environments, while high U suggests deep-water conditions. ([[2013-abdalla|Abdalla, 2013, p. 26]])
-- The study successfully integrated SGR data with geochemical analysis to improve reservoir rock mapping and correlation. ([[2013-abdalla|Abdalla, 2013, p. 25]])
+- The study identified a total of 44 cycles in the outcrop, with thicknesses ranging from 15.2 cm to 255 cm. ([[2013-abdalla|Abdalla, 2013, p. 18]])
+- SGR log analysis identified 44 cycles with thicknesses ranging from 15.2 cm to 255 cm across nine high-frequency sequences. ([[2013-abdalla|Abdalla, 2013, p. 198]])
+- Microporosity in the analyzed samples ranged from 0.4% to 6.4%, and associated permeability ranged from 0.02 to 1.2 mD. ([[2013-abdalla|Abdalla, 2013, p. 18]])
+- Geochemical results showed a strong correlation between major/trace elements and reservoir facies, following a general upward shoaling pattern. ([[2013-abdalla|Abdalla, 2013, p. 18]])
+- The SGR tool's optimal integration time was determined to be 60 seconds to ensure low variability in K, U, and Th measurements. ([[2013-abdalla|Abdalla, 2013, p. 32]])
+- A correlation between lithofacies, SGR log signatures (K, U, Th), and elemental content was established. ([[2013-abdalla|Abdalla, 2013, p. 25]])
+- The outcrop study area is approximately 90 km long and 2 to 3.7 km wide in the Wadi Nisah graben. ([[2013-abdalla|Abdalla, 2013, p. 27]])
+- The Arab-D member at Wadi Nisah is characterized by three lithofacies associations: Stromatoporoid, Skeletal Bank, and Tidal Flat. ([[2013-abdalla|Abdalla, 2013, p. 65]])
+- Porosity in the Arab-D reservoir varies significantly based on facies; for example, Peloidal Fossiliferous Grainstones show average porosity of 25.9% (range 19.3-32.5%). ([[2013-abdalla|Abdalla, 2013, p. 118]])
+- The study identified 44 cycles in the Arab-D succession using Fischer Plot analysis from SGR logs. ([[2013-abdalla|Abdalla, 2013, p. 80]])
+- Diagenetic processes include micritization, marine cementation, dissolution, early/late dolomitization, and meteoric cementation. ([[2013-abdalla|Abdalla, 2013, p. 87]])
+- Micritization served a dual role: reducing primary porosity in skeletal grains but preserving their shape during subsequent dissolution to form moldic porosity. ([[2013-abdalla|Abdalla, 2013, p. 106]])
+- The average porosity for Dolomitic Wackestone (an outcrop facies) was 16.3% with a maximum of 28.7%. ([[2013-abdalla|Abdalla, 2013, p. 118]])
+- SGR analysis showed two major units: Upper Jubaila Member and Arab-D Member, with the latter showing 5 to 4 SGR peaks. ([[2013-abdalla|Abdalla, 2013, p. 80]])
+- The δ13C values for the outcrop range from -6.47 to 1.26; lower (more negative) values are associated with the Upper Jubaila Member. ([[2013-abdalla|Abdalla, 2013, p. 95]])
 
 ## Limitations
 
-Outcrop samples were heavily impacted by meteoric diagenesis, which obliterated microporosity between grains and altered isotopic signatures. The lack of sufficient porosity/permeability data from outcrop samples limited the understanding of pore system connectivity. Limited dip direction exposure hampered 3D geostatistical modeling.
+Meteoric cementation in the outcrop obscured some petrophysical characteristics; specifically, microporosity between marine cements and grains was obliterated. The lack of sufficient porosity/permeability data from outcrop samples limited the understanding of pore system connectivity. Additionally, the outcrop had less biocomponent diversity than the subsurface reservoir.
 
 ## Recommendations and Future Work
 
-Implement a moderate depth drilling and coring program behind the outcrop cliff toward the dip direction; perform CT scanning on core data; apply the integrated SGR and elemental analysis methodology to other Jurassic formations (Shuqra Group).
+Implement a moderate depth drilling and coring program behind the outcrop cliff to provide more core for XRD, SEM-EDS, and CT scanning; apply the SGR and ICP-MS integration methodology to other Jurassic formations (Shuqra Group) to refine formation tops and sequence stratigraphy.
 
 ## Related Concepts
 
-- [[sem]]
-- [[thin-section-petrography]]
-- [[well-log-analysis]]
-- [[arab-d-reservoir]]
-- [[central-saudi-arabia]]
-- [[microporosity]]
-- [[reservoir-characterization]]
-- [[diagenesis]]
-- [[geostatistical-modeling]]
-- [[spectral-gamma-ray]]
-- [[geochemistry]]
-- [[lithofacies]]
-- [[sequence-stratigraphy]]
-- [[sgr]]
+- [[xrd]]
+- [[sem-eds]]
 - [[petrel]]
+- [[spectral-gamma-ray-analysis]]
+- [[arab-d-reservoir]]
+- [[central-saudi-area]]
+- [[microporosity]]
+- [[facies-analysis]]
+- [[petrophysics]]
+- [[carbonate-geology]]
+- [[thin-section-petrography]]
+- [[sem]]
+- [[sgr]]
+- [[geostatistics]]
+- [[diagenesis]]
+- [[sequence-stratigraphy]]
 - [[icp-ms]]
-- [[porosity]]
-- [[ann]]
-- [[fisher-plot]]
-- [[jubaila-formation]]
+- [[well-log-analysis]]
+- [[th-u-ratio]]

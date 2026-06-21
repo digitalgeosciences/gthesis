@@ -1,43 +1,41 @@
 ---
 type: location
 title: "Northern Offshore Area"
-aliases:
-  - "Northern offshore area"
+aliases: []
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Deltaic system"
+geology: "deltaic deposits"
 tags:
   - location/northern-offshore-area
-  - theme/sedimentology
 sources:
   - "raw/138942 - Identification of Discontinuous Oil Bearing Sandstone Bodies by Direct Modeling .pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Northern Offshore Area
 
-**Summary**: A major oil production region in the northern part of Saudi Arabia's offshore fields.
+**Summary**: A specific offshore region in Saudi Arabia containing the Safaniya and Khafji members.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-atig|atig, 2013]] focused on the northern offshore area to study Safaniya and Khafji members.
+- [[2013-atig|atig, 2013]] conducted a study on the northern-offshore-area to evaluate sand body predictability.
 
 ## Geological and Structural Setting
 
-- [[2013-atig|atig, 2013]] Offshore shelf
+- [[2013-atig|atig, 2013]] marine shelf
 
 ## Formations Present
 
-- [[2013-atig|atig, 2013]] Safaniya member, Khafji member, Wasia formation
+- [[2013-atig|atig, 2013]] Safaniya member, Khafji member
 
 ## Key Findings From This Location
 
-- The northern offshore area was dominated by marginal marine, coastal and deltaic deposits during the Late Early Cretaceous. ([[2013-atig|atig, 2013, p. 12]])
+- The area is characterized by complex deltaic systems with high heterogeneity. ([[2013-atig|atig, 2013, p. 25]])
 
 ## Research Coverage and Gaps
 

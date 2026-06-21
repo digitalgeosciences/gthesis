@@ -4,42 +4,42 @@ title: "Trace Energy"
 aliases:
   - "trace energy"
 canonical: true
-definition: "The total energy of a seismic signal over a specific time window."
+definition: "Sum of squared amplitudes of the array response."
 units: "decibels (dB)"
 related_techniques:
-  - "seismic-processing"
+  - "signal-processing"
 tags:
-  - theme/applied-geophysics
+  - theme/seismic-acquisition
 sources:
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Trace Energy
 
-**Summary**: A measure of the energy content within a specific seismic trace.
+**Summary**: The sum of the squared amplitudes of a signal over a specific time window.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2018-putra|Putra, 2018]] used trace-energy to compare ideal and perturbed array responses.
+- [[2018-putra|Putra, 2018]] used trace-energy to quantify the degradation of array response due to errors.
 
 ## Scientific Context
 
-- [[2018-putra|Putra, 2018]] Used to quantify the degradation caused by array geometry errors.
+- [[2018-putra|Putra, 2018]] Used as a metric to measure how much signal is lost due to non-ideal geometry.
 
 ## Measurement and Characterization Methods
 
-- [[2018-putra|Putra, 2018]] Calculated from the sum of squared amplitudes.
+- [[2018-putra|Putra, 2018]] Summing squared amplitudes over a window of ±0.005 seconds.
 
 ## Key Findings Across Sources
 
-- At 45° incidence, 10% combined errors degraded minimum response by 17%, while 20% errors caused 30% degradation. ([[2018-putra|Putra, 2018, p. 17]])
+- Ideal responses were compared against perturbed ones using normalized trace energy in dB scale. ([[2018-putra|Putra, 2018, p. 33]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -15,124 +15,90 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/136092/"
 study_area: "Not stated in source"
 keywords:
   - near-surface diffractors
-  - land seismic exploration
   - surface waves
-  - shot gathers
-  - diffraction mapping
-  - attenuation
-  - surface wave energy
   - seismic shot gathers
   - mapping algorithm
   - attenuation algorithm
+  - semblance measurement
+  - Ricker wavelet
   - least mean square estimation
 techniques:
-  - seismic-attribute-analysis
-  - ricker-wavelet
   - matlab
-  - least-squares-fitting
+  - semblance-measurement
+  - signal-processing
+  - mathematical-modeling
   - least-mean-square-estimation
 tags:
   - degree/ms
-  - technique/semmeasurement
-  - technique/well-log-analysis
-  - technique/seismic-processing
   - technique/matlab
-  - technique/least-squares-fitting
-  - technique/seismic-attribute-analysis
+  - technique/semblance-measurement
+  - technique/signal-processing
+  - technique/mathematical-modeling
   - technique/least-mean-square-estimation
   - theme/geophysics-general
-  - theme/applied-geophysics
-  - theme/seismology
-  - theme/seismic-processing
   - theme/seismic-imaging
-  - theme/land-seismic
-  - terminology/porosity
-  - terminology/signal-to-noise-ratio
-  - terminology/diffraction
-  - terminology/shot-gather
-  - terminology/surface-wave
-  - terminology/ricker-wavelet
-  - terminology/semblance
-  - terminology/near-surface-diffraction
+  - theme/near-surface-geophysics
   - terminology/near-surface-diffractors
-  - terminology/surface-waves
+  - terminology/surface-wave
+  - terminology/near-surface-diffractors
+  - terminology/signal-processing
 status: ingested
 ---
 
 # DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS
 
-**Summary**: The thesis presents data-driven processing algorithms to map and attenuate near-surface diffractor energy in seismic shot gathers. The mapping algorithm uses the time-offset (T-X) relation of side-scattered surface waves and semblance measurements, while the attenuation method employs least mean square estimation.
+**Summary**: The thesis develops and evaluates two processing algorithms to address the problem of near-surface diffractions in land seismic exploration. The mapping algorithm uses semblance measurements to locate diffractors, while the attenuation algorithm employs a least-squares fit of Ricker wavelets to remove their energy from seismic shot gathers.
 
 ---
 
 ## Research Problem
 
-Near-surface diffractors scatter surface wave energy, creating strong hyperbolic events (diffractions) on seismic shot gathers that mask the weak reflected body waves from deeper targets. Existing methods like dip filtering or geophone arrays have limitations in handling these side-scattered signals.
+Near-surface diffractors are a significant problem in land seismic exploration as they scatter surface wave energy and mask weak reflected body waves. These diffractions complicate standard surface wave suppression schemes due to their complex geometry on shot gathers.
 
 ## Objectives
 
-- Build a data driven processing algorithm to map near-surface diffractors of surface waves (in the x-y plane)
-- Attenuate their diffracted energy in seismic shot gathers
-- Develop a Mapping Code to identify near-surface diffractor locations and associated surface-wave velocities from seismic shot gathers.
-- Develop an Attenuation Code to remove (attenuate) these diffractions from the seismic data.
-- Evaluate the performance of both codes using synthetic models with varying complexity.
-- Develop a mapping algorithm based on T-X relations and semblance measurements to identify near-surface diffractor locations.
-- Develop an attenuation algorithm using least mean square estimation to remove diffracted energy from seismic data.
+- Develop a data-driven mapping algorithm to locate near-surface diffractors of surface waves in the x-y plane.
+- Develop an attenuation algorithm using least mean square estimation to remove diffracted energy from seismic shot gathers.
+- Develop a data-driven mapping algorithm based on the T-X relation of side-scattered surface waves and semblance measurements.
+- Evaluate the performance of these algorithms using synthetic models (Model A and Model B) with varying diffractor spacing and source locations.
 
 ## Methods
 
-The methodology consists of two main steps: 1) Mapping: Identifying the location of near-surface diffractors on the x-y plane using a semblance measurement and time-offset relation. 2) Attenuation: Removing the diffracted energy by modeling it as a best-fit Ricker wavelet based on the shot gather data and subtracting it from the original signal. The algorithms were tested on synthetic data from two models (Model A with three diffractors; Model B with three clusters of three diffractors).
+The study utilizes two primary algorithms. The Mapping Code, implemented in MATLAB, identifies diffractor locations by calculating a grid of potential coordinates and evaluating them using semblance measurements within a window sized by the surface wave's dominant period across a range of trial velocities. The Attenuation Code removes these features by identifying the specific hyperbola corresponding to each located diffractor and performing a least-squares fit of Ricker wavelets to estimate and subtract the diffracted signal from the original shot gather.
 
 ## Data and Materials
 
-The study utilized two synthetic models: Model A (a simple homogeneous/isotropic half space with three isolated diffractors) and Model B (a five-layer earth model with three clusters of three diffractors). Synthetic shot gathers were generated for both models using specific receiver counts (101 for Model A, 201 for Model B) and sampling rates.
+The study utilized synthetic seismic data generated from two distinct earth models (Model A and Model B). Data included multiple shot gathers (Line-1 and Line-2) for each model, tested against various surface wave velocities (e.g., 900 m/s, 950 m/s, 850 m/s) and frequencies (15 Hz).
 
 ## Key Findings
 
-- The mapping algorithm based on semblance measurement and time-offset relation successfully identified diffractor locations in both models. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 10]])
-- The attenuation algorithm using a best-fit Ricker wavelet was effective at removing diffracted energy from the shot gathers. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 10]])
-- Both mapping and attenuation algorithms performed well in most cases, except when the separation between individual diffractors was less than the expected wavelength of the surface wave. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 10]])
-- Model A included three near-surface diffractors to test the basic mapping and attenuation capabilities. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 10]])
-- Model B included three clusters of three diffractors, with varying distances between them, to test performance in complex scenarios. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 10]])
-- The Mapping Code successfully identified all three diffractor locations in Model A with high semblance values when the correct surface wave velocity (V=1000 m/s) was used. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 40]])
-- In Model A, Line-1 produced a mirror image of diffractors because the source was located on the receiver line, creating ambiguity in the x-y plane. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 46]])
-- The Mapping Code successfully identified all three diffractor clusters in Model B using the correct surface wave velocity (V=900 m/s). ([[2009-al-lehyani|Al-Lehyani, 2009, p. 50]])
-- The resolution of the Mapping Code is dependent on the distance between diffractors relative to the surface wave wavelength; for cluster (a) in Model B, where distances were <60m, individual diffractors could not be resolved. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 57]])
-- The Attenuation Code successfully removed diffraction events from both Model A and Model B shot gathers, even when diffractions had minor overlap. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 64]])
-- The mapping algorithm successfully identified clusters of diffractors in both Model A and Model B. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 73]])
-- The attenuation algorithm performed well for clusters (b & c) where the separation between diffractors was sufficient. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 74]])
-- Careful picking of diffraction locations from semblance maps is critical; using true modeled locations improved the attenuation of cluster (a) diffractors and others. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 74]])
-- The mapping algorithm successfully identified three clusters of diffractors in Model B. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 76]])
-- The attenuation algorithm was applied to synthetic data from two different models, demonstrating the robustness of the algorithms. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 83]])
+- The Mapping Code successfully identified the correct surface wave velocity for both models; for Model A, the highest semblance values were achieved at the true velocity of 1000 m/s (Max = 0.57154). ([[2009-al-lehyani|Al-Lehyani, 2009, p. 40]])
+- Model B was designed to test spatial resolution; it included three clusters where some diffractors were separated by as little as 10m and 20m. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 34]])
+- The attenuation algorithm uses a least-squares fit of Ricker wavelets to minimize the error between the raw signal and the estimated diffracted signal. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 24]])
+- The mapping process involves iterating through a range of velocities [Vmin - Vmax] with an increment dV to find the best-fit semblance map. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 21]])
+- The mapping algorithm successfully identified the correct locations of diffractors in Model A for both Line-1 and Line-2. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 47]])
+- In Line-1 (Model A), where the source was in the line of receivers, a mirror image ambiguity occurred because the T-X curve was identical for diffractors on either side of the axis; this was resolved by using data from Line-2. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 46]])
+- The mapping algorithm successfully identified three clusters of diffractors in Model B, with resolution success depending on the distance between diffractors relative to the surface wave wavelength (e.g., cluster c was easily resolved as distances were 111-206 m, while cluster a was not resolved due to small spacing of 10-22 m). ([[2009-al-lehyani|Al-Lehyani, 2009, p. 57]])
+- The attenuation algorithm successfully removed diffracted energy from shot gathers in Model A even when diffractors had minor overlap. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 64]])
+- For Model B, the attenuation of cluster (a) was significantly improved by using true modeled locations instead of the single-point location identified on semblance maps. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 74]])
 
 ## Limitations
 
-Ambiguity in mapping occurs when the seismic source is located directly on the line of receivers (as seen in Line-1), resulting in mirror images of diffractors across the receiver axis. Additionally, the resolution of the Mapping Code is limited by the surface wave wavelength; diffactors separated by less than one wavelength cannot be resolved as individual points.
+The study notes that while algorithms were robust on synthetic data, real-world data is required to confirm performance. Additionally, the ambiguity of mirror images occurs when the source is located directly in the line of receivers.
 
 ## Recommendations and Future Work
 
-- Investigate better estimation methods (e.g., simultaneous estimation) for closely spaced diffractors with overlapping energy.
-- Carefully estimate the frequency of the diffracted surface wave as it is a critical parameter in attenuation.
-- Avoid shot gathers with seismic sources located within the line of receivers to minimize mirror image map ambiguity.
+- Investigate better estimation methods for closely spaced diffractors, such as simultaneous estimation of interfering diffractions.
+- Carefully estimate the frequency of the diffracted surface wave, as it is a critical parameter in the attenuation algorithm.
+- Avoid using shot gathers with the seismic source located within the line of receivers to minimize mirror image ambiguity.
 
 ## Related Concepts
 
-- [[semmeasurement]]
-- [[seismic-processing]]
-- [[porosity]]
-- [[signal-to-noise-ratio]]
-- [[seismic-imaging]]
-- [[applied-geophysics]]
-- [[saudi-arabia]]
-- [[diffraction]]
-- [[shot-gather]]
-- [[surface-wave]]
-- [[ricker-wavelet]]
 - [[matlab]]
-- [[least-squares-fitting]]
-- [[semblance]]
-- [[near-surface-diffraction]]
-- [[seismic-attribute-analysis]]
-- [[least-mean-square-estimation]]
+- [[semblance-measurement]]
+- [[signal-processing]]
 - [[near-surface-diffractors]]
-- [[surface-waves]]
+- [[surface-wave]]
+- [[seismic-imaging]]
+- [[least-mean-square-estimation]]
+- [[near-surface-geophysics]]

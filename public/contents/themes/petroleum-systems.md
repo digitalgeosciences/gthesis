@@ -1,58 +1,42 @@
 ---
 type: theme
 title: "Petroleum Systems"
-aliases:
-  - "source rock potential"
+aliases: []
 canonical: true
-description: "Analysis of source rock potential and maturity."
-key_challenges: "Determining kerogen type in mature rocks."
-tags:
-  - theme/petroleum-systems
+description: "Not stated in source"
+key_challenges: "Not stated in source"
+tags: []
 sources:
-  - "raw/138787 - Investigation of Source Rock Potential and Micropaleontology of the Middle Ordov.pdf"
-  - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
-  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
+  - "raw/140515 - STRUCTURAL, STRATIGRAPHIC EVOLUTION AND RESERVOIR CHARACTERISTICS OF ABU-SUFYAN .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Petroleum Systems
 
-**Summary**: The study of the elements required to generate, migrate, and trap hydrocarbons.
+**Summary**: Broad research theme addressed in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-ghazwani|Ghazwani, 2012]] analyzed petroleum-systems by evaluating source rocks in the Hanadir member.
-
-- [[2017-mahgoub|Mahgoub, 2017]] evaluated the qusaiba-member within its role in the petroleum-systems of Saudi Arabia.
-
-- [[2020-usman|Usman, 2020]] evaluated the petroleum systems within the Jafurah sub-basin.
+- [[2017-abdelgader|Abdelgader, 2017]] contributed to the theme of Petroleum Systems
 
 ## Key Subtopics
 
-- [[2012-ghazwani|Ghazwani, 2012]] ['source-rock-evaluation', 'thermal-maturity']
 
-- [[2017-mahgoub|Mahgoub, 2017]] evaluated the qusaiba-member within its role in the petroleum-systems of Saudi Arabia.
-
-- [[2020-usman|Usman, 2020]] evaluated the petroleum systems within the Jafurah sub-basin.
 
 ## Methods and Approaches Used
 
-- [[2012-ghazwani|Ghazwani, 2012]] ['Rock-Eval pyrolysis', 'micropaleontology']
+
 
 ## Key Findings Across Sources
 
-- The Hanadir member is a candidate for gas production in northwestern Saudi Arabia. ([[2012-ghazwani|Ghazwani, 2012, p. 52]])
-
-- The Qusaiba shale is a significant source rock due to high organic matter content and favorable depositional conditions. ([[2017-mahgoub|Mahgoub, 2017, p. 82]])
-
-- The target interval is a promising source rock for the Ghawar field. ([[2020-usman|Usman, 2020, p. 27]])
+- contributed to the theme of Petroleum Systems ([[2017-abdelgader|Abdelgader, 2017]])
 
 ## Competing Approaches and Debates
 
-- [[2012-ghazwani|Ghazwani, 2012]] Determining kerogen type in mature rocks.
+
 
 ## Open Questions and Research Gaps
 

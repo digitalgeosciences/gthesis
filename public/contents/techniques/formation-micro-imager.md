@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "high-resolution borehole images of the wellbore wall"
+output: "high-resolution borehole images of rock faces"
 tags:
   - technique/formation-micro-imager
-  - theme/stratigraphy
+  - theme/sedimentology
 sources:
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Formation Micro Imager
 
-**Summary**: A borehole imaging tool used to visualize wellbore walls for geological interpretation.
+**Summary**: High-resolution borehole imaging to identify sedimentary structures.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2016-awad|Awad, 2016]] applied FMI data integrated with well logs to recognize sedimentary structures and lithofacies.
+- [[2016-awad|Awad, 2016]] applied formation-micro-imager (FMI) to identify sedimentary structures and confirm lithofacies in the Samma, Yabus, and Adar formations.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- FMI data helped identify nine lithofacies associations in the Samma, Yabus, and Adar formations. ([[2016-awad|Awad, 2016, p. 17]])
+- Used FMI data to distinguish between conductive and nonconductive formations and identify specific facies like fluvial and deltaic systems. ([[2016-awad|Awad, 2016, p. 43]])
 
 ## Methodological Variations Across Sources
 

@@ -2,57 +2,44 @@
 type: terminology
 title: "Morphogroups"
 aliases:
-  - "morphotypes"
+  - "morphology-analysis"
 canonical: true
-definition: "groups of forms having similar test morphologies rather than taxonomic similarity."
+definition: "Groups based on shared morphological characteristics."
 units: "not applicable"
-related_techniques: []
+related_techniques:
+  - "morphology-analysis"
 tags:
   - theme/paleontology
 sources:
-  - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
   - "raw/142005 - TAXONOMY, BIOSTRATIGRAPHY AND MORPHOGROUPS OF BENTHIC FORAMINIFERA IN THE D1–D2 .pdf"
-  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Morphogroups
 
-**Summary**: Groups of foraminifera with similar test morphologies rather than taxonomic similarity.
+**Summary**: Groups of fossils based on shared morphological characteristics rather than taxonomic relationships.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-septriandi|Septriandi, 2016]] used morphogroups to interpret paleoenvironmental changes from the foraminiferal assemblages.
-
-- [[2022-khamsin|Khamsin, 2022]] categorized foraminifera into morphogroups to study diversity.
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] used morphogroup analysis to interpret carbon flux and bathymetry.
+- [[2022-khamsin|Khamsin, 2022]] analyzed morphogroups to understand the diversity and abundance of foraminiferal taxa.
 
 ## Scientific Context
 
-- [[2016-septriandi|Septriandi, 2016]] Morphogroups are used to infer the 'form' and 'function' of foraminiferal tests in relation to their habitat.
-
-- [[2022-khamsin|Khamsin, 2022]] categorized foraminifera into morphogroups to study diversity.
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] used morphogroup analysis to interpret carbon flux and bathymetry.
+- [[2022-khamsin|Khamsin, 2022]] Used to assess the diversity of foraminiferal forms in a specific environment.
 
 ## Measurement and Characterization Methods
 
-- [[2016-septriandi|Septriandi, 2016]] categorized based on test morphology including chamber arrangement and general outline.
+- [[2022-khamsin|Khamsin, 2022]] categorized by shape and size variations.
 
 ## Key Findings Across Sources
 
-- Three main morphogroups (C1, A2, and A1) accounted for 80% of the total assemblage. ([[2016-septriandi|Septriandi, 2016, p. 67]])
+- The result of morphogroup analysis suggested a normal marine setting with suitable nutrient levels and oxygen. ([[2022-khamsin|Khamsin, 2022, p. 190]])
 
-- Agglutinated and calcareous morphogroups were analyzed based on specific criteria. ([[2022-khamsin|Khamsin, 2022, p. 66]])
-
-- Morphotypes M1 and M2a are associated with planktonic input, while others represent various feeding strategies. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 47]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

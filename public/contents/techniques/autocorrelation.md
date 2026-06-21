@@ -2,30 +2,30 @@
 type: technique
 title: "Autocorrelation"
 aliases:
+  - "correlation"
   - "auto-correlation"
-  - "autocorrelation analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "autocorrelation plots showing signal periodicity"
+output: "correlation coefficients at various time lags."
 tags:
   - technique/autocorrelation
-  - theme/seismic-processing
+  - theme/signal-processing
 sources:
   - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Autocorrelation
 
-**Summary**: A mathematical operation used to find repeating patterns or correlations within a signal.
+**Summary**: A mathematical operation used to identify periodic patterns and signal energy within a time-series by comparing it with itself at various lags.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-aljishi|AlJishi, 2022]] applied autocorrelation to identify the dune reverberation signature in seismic data.
+- [[2022-aljishi|AlJishi, 2022]] used autocorrelation to extract reverberation signatures from noisy seismic data in sand dune environments.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Autocorrelations along a receiver cable show distinct correlation between the sand dune signature curve and sand dune elevation. ([[2022-aljishi|AlJishi, 2022, p. 12]])
+- Autocorrelation successfully isolated the periodicity of sand-related reflections even when the original trace was obscured by 80% Gaussian noise. ([[2022-aljishi|AlJishi, 2022, p. 34]])
 
 ## Methodological Variations Across Sources
 

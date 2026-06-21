@@ -15,162 +15,120 @@ source_file: "raw/140031 - Geological and Geomechanical Characterization of a Pe
 url: "https://eprints.kfupm.edu.sa/id/eprint/140031/"
 study_area: "Khuff Formation, Eastern Province, Saudi Arabia"
 keywords:
-  - Permo-Triassic
-  - Carbonate Reservoir
   - Khuff Formation
-  - Geomechanical properties
-  - Young's Modulus
-  - Poisson's Ratio
-  - Unconfined compressive strength
-  - Tensile Strength
-  - Friction Angle
-  - Cohesion
+  - geomechanical properties
   - in-situ stress
   - natural fractures
-  - lithology
   - porosity
   - mineralogy
-  - triaxial testing
-  - mechanical earth model
-  - wellbore stability
-  - Geomechanics
-  - Saudi Arabia
-  - Tensile fractures
+  - lithology
+  - Permo-Triassic
+  - Carbonate Reservoir
   - Stylolites
-  - Hydrothermal dolomite
-  - Brittleness
+  - Hydrothermal Dolomite
+  - Geomechanics
 techniques:
   - xrd
-  - triaxial-mechanical-test
-  - well-log-analysis
-  - core-analysis
   - thin-section-petrography
-  - triaxial-testing
-  - techlog
+  - well-log-analysis
+  - triaxial-test
+  - core-analysis
+  - borehole-image-analysis
+  - ultrasonic-image-analysis
+  - petrophysics
+  - borehole-resistivity-imaging
   - triaxial-mechanical-testing
-  - triaxial-lab-tests
-  - ultrasonic-images
-  - caliper-logs
-  - borehole-resistivity-images
-  - image-log-analysis
+  - micro-ct-scan
+  - gamma-ray-logging
 tags:
   - degree/ms
   - formation/khuff-formation
   - location/eastern-province
-  - location/saudi-arabia
   - technique/xrd
-  - technique/triaxial-mechanical-test
-  - technique/well-log-analysis
-  - technique/core-analysis
   - technique/thin-section-petrography
+  - technique/well-log-analysis
+  - technique/triaxial-test
+  - technique/core-analysis
+  - technique/borehole-image-analysis
+  - technique/ultrasonic-image-analysis
+  - technique/petrophysics
+  - technique/borehole-imaging
   - technique/triaxial-testing
-  - technique/triaxial-mechanical-testing
-  - technique/triaxial-lab-tests
-  - technique/ultrasonic-imaging
-  - technique/image-log-analysis
+  - technique/micro-ct-scan
+  - technique/gamma-ray-log
   - theme/carbonate-reservoirs
   - theme/geomechanics
   - terminology/geomechanics
-  - terminology/in-situ-stress
-  - terminology/fracture-characterization
-  - terminology/porosity
-  - terminology/diagenesis
-  - terminology/brittleness
+  - terminology/mechanical-stratigraphy
+  - terminology/stylolites
 status: ingested
 ---
 
 # Geological and Geomechanical Characterization of a Permo-Triassic Carbonate Reservoir in Eastern Saudi Arabia
 
-**Summary**: The thesis investigates the geomechanical properties and in-situ stress conditions of the Khuff Formation, a major Permo-Triassic carbonate reservoir in eastern Saudi Arabia. It utilizes a combination of core analysis (triaxial testing, XRD, thin sections), well log data, and borehole image logs to develop 1D mechanical earth models (MEM) and characterize natural fractures.
+**Summary**: The thesis investigates the geological and geomechanical properties of the Khuff Formation in Eastern Saudi Arabia, specifically focusing on three units (Khuff A, B, and C). It characterizes natural fractures, stylolites, and hydrothermal dolomite while evaluating mechanical properties like Young's modulus, Poisson's ratio, and in-situ stress conditions.
 
 ---
 
 ## Research Problem
 
-The geomechanical properties of the Khuff Formation have not been extensively studied in this specific area, leading to a lack of calibrated 1D mechanical earth models (MEM) to predict in-situ stress conditions and evaluate the stability of natural fractures.
+The geomechanical properties of the Khuff Formation were not previously studied in this specific area, and limited data exists for characterizing natural fractures and predicting in-situ stress conditions in these carbonate reservoirs.
 
 ## Objectives
 
-- Establish correlation between wells
-- Characterize lithology and mineralogy of Khuff units (A, B, C, D)
-- Quantify natural fractures and stylolites
-- Determine dynamic elastic moduli and calibrate them using lab measurements
-- Predict rock strength properties (UCS, Tensile Strength, Friction Angle, Cohesion) from log data
-- Determine the magnitude and direction of in-situ stresses
-- Provide better understanding of the relationships between geological and geomechanical parameters of rock units of Khuff Formation to be able to enhance capabilities to model these parameters.
+- Provide a better understanding of the relationships between geological and geomechanical parameters of rock units of Kh_uff Formation to enhance modeling capabilities.
 - Study and characterize natural fractures within the Khuff rock units to understand their potential impact on production and reservoir development.
-- Generate 1D geomechanical models based on data from three wells.
-- Establish lithostratigraphic correlation across wells using well-log analysis and core data.
-- Characterize the mineralogy and porosity of Khuff A, B, and C units using XRD and core analysis.
-- Identify and characterize natural fracture attributes (attitude, height, width, density, and mineralization) within the reservoir.
-- Characterize the types and distribution of natural fractures (tensile and shear) within the Khuff A, B, and C units.
-- Analyze stylolite morphology and their relationship with core gamma ray readings.
-- Determine geomechanical properties (Young's modulus, Poisson's ratio, UCS) through triaxial testing.
-- Calibrate log-derived mechanical properties using laboratory data.
-- Characterize the mechanical properties (tensile strength, friction angle, cohesion) of Khuff A, B, and C units.
-- Establish a relationship between rock properties and porosity/mineralogy.
-- Determine the in-situ stress magnitude and direction within the Khuff Formation.
-- Develop a brittleness-based mechanical layering scheme for the reservoir.
-- Characterize the lithology and mineralogy of Khuff A, B, and C.
-- Evaluate porosity distribution and its relationship with mineral content (dolomite/anhydrite).
-- Identify and characterize structural features like stylolites and natural fractures.
-- Determine in-situ stress conditions and mechanical properties using well logs and core data.
-- Develop a mechanical layering scheme for the Khuff Formation.
+- Generate 1D geomechanical models based on data from three wells for future field development including fracture impact assessment, well stimulation, and completion design.
+- Characterize natural fracture attributes (type, orientation, density) and stylolite geometry within the Khuff units.
+- Evaluate the impact of mineralogy (dolomite content) and porosity on mechanical properties like Young's modulus and Poisson's ratio.
+- Determine in-situ stress magnitudes and directions using borehole breakout analysis.
 
 ## Methods
 
-The study utilized a multi-step workflow: (1) Geologic characterization of 92 core samples including porosity measurement, thin-section petrography to determine mineralogy/texture, and XRD analysis. (2) Calculation of dynamic elastic properties (G_dynamic, K_dynamic, E_dynamic, v_dynamic) from wireline logs using Techlog software. (3) Calibration of dynamic properties to static values using triaxial test results via regression analysis. (4) Prediction of strength properties (UCS, friction angle, cohesion) based on porosity and other parameters. (5) Estimation of in-situ stress magnitudes (sigma_Hmax, sigma_hmin, sigma_V) using the Wellbore Stability Module in Techlog, incorporating pore pressure and Biot's coefficient.
+The study utilized a multi-step workflow: (1) Geologic characterization involving core depth shifting to log depth, establishing correlations across Khuff A, B, and C units, measuring porosity of 92 plug samples, analyzing 92 thin sections for mineralogy/texture, and performing 48 XRD analyses. (2) Dynamic elastic property derivation from wireline logs (gamma ray, bulk density, compressional/shear slowness) using Techlog software to calculate G_dynamic, K_dynamic, E_dynamic, and v_dynamic. (3) Calibration of dynamic properties with triaxial test results (69 samples) to derive static Young's modulus and Poisson's ratio via regression analysis. (4) Prediction of strength properties (UCS, friction angle, cohesion) using regression against porosity logs. (5) In-situ stress estimation using borehole image logs for orientation and the Wellbore Stability Module in Techlog for magnitude calculation.
 
 ## Data and Materials
 
-Data included core samples from four wells (Well-A, Well-B, Well-C, Well-D) in the Khuff Formation; XRD analysis of mineral content; triaxial mechanical tests on plug samples; and well log data including gamma ray and borehole image logs.
+Core samples from three wells (Well-A, Well-B, and Well-C) covering Khuff A, B, and C; 55 triaxial test samples for Khuff B; XRD analysis of core plugs; ultrasonic borehole images for stress analysis.
 
 ## Key Findings
 
-- The Khuff Formation thickness ranges between 1600 and 2200 ft, consisting primarily of limestone and dolostone. ([[2016-saleh|Saleh, 2016, p. 1]])
-- XRD analysis identified anhydrite as a significant component in some samples (e.g., 7.1% in Sample C30). ([[2016-saleh|Saleh, 2016, p. 10]])
-- A strong correlation exists between high stylolite density and high gamma ray readings in Khuff A and Khuff B, but not in Khuff C. ([[2016-saleh|Saleh, 2016, p. 11]])
-- page_number_not_applicable_for_this_finding_as_it_is_a_summary_of_the_relationship_between_stylolite_density_and_gamma_ray_readings_in_different_khuff_units ([[2016-saleh|Saleh, 2016]])
-- page_number_placeholder_used_since_no_single_page_was_provided_for_this_finding_as_it_is_a_summary_of_the_relationship_between_stylolite_density_and_gamma_ray_readings_in_different_khuff_units ([[2016-saleh|Saleh, 2016]])
-- Porosity values in the Khuff Formation ranged from 0.6% to 29.1%. ([[2016-saleh|Saleh, 2016, p. 19]])
+- Porosity in the Khuff Formation ranges from 0.6% to 29.1%. ([[2016-saleh|Saleh, 2016, p. 18]])
 - Porosity was found to increase exponentially with increasing dolomite content when anhydrite is not present. ([[2016-saleh|Saleh, 2016, p. 19]])
-- Lithology is the main control on brittleness in the Khuff Formation. ([[2016-saleh|Saleh, 2016, p. 19]])
-- In-situ stress gradients were calculated as 1.31 psi/ft for sigma_Hmax, 1.085 psi/ft for sigma_hmin, and 0.89 psi/ft for sigma_V. ([[2016-saleh|Saleh, 2016, p. 19]])
-- No natural fractures are under critically-stressed state in the Khuff Formation based on predicted in-situ stress conditions. ([[2016-saleh|Saleh, 2016, p. 19]])
-- The majority of natural fractures observed in cores are mineralized Mode-I fractures associated with bedding-parallel stylolites. ([[2016-saleh|Saleh, 2016, p. 19]])
-- Shear natural fractures were limited to hydrothermal dolomite beds present in the Khuff C of Well-A. ([[2016-saleh|Saleh, 2016, p. 19]])
-- Core samples from Khuff B yielded the highest count (73) out of 92 total samples analyzed. ([[2016-saleh|Saleh, 2016, p. 29]])
-- The Khuff Formation thickness ranges between 1600 and 2200 ft in the study area, consisting primarily of limestone and dolostone. ([[2016-saleh|Saleh, 2016, p. 35]])
-- Khuff A unit contains dolostones with dolomite content exceeding 91% and porosity reaching up to 29.1%. ([[2016-saleh|Saleh, 2016, p. 51]])
+- Bedding-parallel stylolites are more common in limestone and dolomitic limestone, formed during burial and diagenesis. ([[2016-saleh|Saleh, 2016, p. 123]])
+- Core intervals with high stylolite density are associated with elevated gamma ray readings in both Khuff A and Khuff B, but not in Khuff C. ([[2016-saleh|Saleh, 2016]])
+- page_num_ref": 19 (Note: This finding is also supported by Figure 4.6 on page 49) ([[2016-saleh|Saleh, 2016]])
+- Tensile fractures (Mode I) are the dominant fracture type in the Khuff Formation, accounting for 94% of natural fractures outside hydrothermal dolomite beds. ([[2016-saleh|Saleh, 2016, p. 60]])
+- Fracture density varies from 0.077 to 0.263 fracture/ft across Khuff A, B, and C; Khuff B shows a higher average density (0.16) than the regional average (0.13). ([[2016-saleh|Saleh, 2016, p. 63]])
+- Stylolites are more common in limestone and dolomitic limestone beds than in dolostone beds, with an average amplitude of 2.3 cm in Khuff B and 1.9 cm in Khuff C. ([[2016-saleh|Saleh, 2016, p. 64]])
+- Hydrothermal dolomite (HTD) is associated with fault-related fluids; some HTD beds show evidence of being cut by later bedding-parallel stylolites, while others are cut by tectonic stylolites. ([[2016-saleh|Saleh, 2016, p. 71]])
+- Static Young's modulus for Khuff B ranges from 1,276 kpsi to 5,817 kpsi (average 3,547 kpsi), while Khuff C averages 4,359 kpsi. ([[2016-saleh|Saleh, 2016, p. 77]])
+- Static Poisson's ratio for the study area averages 0.24; it was found to decrease as a function of dolomite content (e.g., 0.17 for low-porosity dolostone vs. 0.23 for low-porosity limestone). ([[2016-saleh|Saleh, 2016, p. 85]])
+- Unconfined compressive strength (UCS) averages 8.66 kpsi for Khuff B and 13.53 kpsi for Khuff C. ([[2016-saleh|Saleh, 2016, p. 90]])
+- The average friction angle for Khuff A, B, and C are 44.6°, 44.6°, and 44.1° respectively. ([[2016-saleh|Saleh, 2016, p. 97]])
+- A strike-slip stress regime was identified where σHmax > σv > σhmin; the average σHmax gradient is 1.25 psi/ft in Khuff A and B, and 1.36 psi/ft in Khuff C. ([[2016-saleh|Saleh, 2016, p. 119]])
+- The minimum required increase in pore pressure for natural fractures to become critically stressed is ~1800 psi for Khuff A and B, and only 700 psi for Khuff C. ([[2016-saleh|Saleh, 2016, p. 121]])
 
 ## Limitations
 
-The study noted that the correlation between cohesion and mineralogy was less clear in Khuff A and B due to the presence of anhydrite, unlike Khuff C where it correlated with dolomite content.
+Core orientation could not be restored as samples were not oriented; some fractures are below the resolution of borehole image logs due to mineralization.
 
 ## Recommendations and Future Work
 
-- Generate a calibrated 3-D mechanical earth model.
-- Acquire extended leak-off tests (XLOTs) and mini-frac to better constrain $\sigma_{hmin}$.
-- Acquire more cores in the upper part of Khuff C for triaxial mechanical testing.
-- Conduct micro-CT scans on all testing plugs to identify microfractures and stylolites.
-- Drill highly-deviated wells to intercept fractures.
+Recommendations include: generating a calibrated 3-D mechanical earth model; acquiring XLOTs and mini-fracs to better constrain Shmin; obtaining more cores from upper Khuff C for triaxial testing; performing micro-CT scans on all plugs; and drilling highly-deviated wells.
 
 ## Related Concepts
 
 - [[xrd]]
-- [[thin-section-petrography]]
+- [[triaxial-test]]
 - [[well-log-analysis]]
-- [[triaxial-testing]]
+- [[ultrasonic-image-analysis]]
 - [[khuff-formation]]
 - [[eastern-province]]
 - [[geomechanics]]
+- [[mechanical-stratigraphy]]
 - [[carbonate-reservoirs]]
-- [[in-situ-stress]]
-- [[fracture-characterization]]
-- [[core-analysis]]
-- [[porosity]]
-- [[diagenesis]]
-- [[triaxial-mechanical-testing]]
-- [[triaxial-lab-tests]]
-- [[brittleness]]
-- [[image-log-analysis]]
+- [[borehole-imaging]]
+- [[triaxial-testing]]
+- [[micro-ct-scan]]
+- [[stylolites]]

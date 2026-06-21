@@ -22,124 +22,103 @@ keywords:
   - Saudi Arabia
   - portable chamber
   - soil moisture
-  - soil salinity
+  - salinity
   - water resources
-  - grain size analysis
+  - soil salinity
   - weather data
-  - weather parameters
 techniques:
   - portable-chamber
-  - sieve-analysis
   - data-logger
-  - gps
-  - dielectric-aqua-meter-sensor
-  - piezometer
-  - eutech-pcd650-meter
-  - spss-statistics-20
-  - minitab-16
+  - dielectric-aqua-meter
+  - sieve-analysis
+  - multi-regression
+  - petrophysics
+  - weather-station
   - regression-analysis
-  - statistical-analysis
+  - correlation-analysis
 tags:
   - degree/ms
   - location/eastern-province
   - location/saudi-arabia
   - technique/portable-chamber
-  - technique/sieve-analysis
-  - technique/data-logger
-  - technique/gps
-  - technique/spss-statistics
-  - technique/minitab
+  - technique/sieving-analysis
+  - technique/multivariate-analysis
+  - technique/petrophysics
+  - technique/port-chamber
+  - technique/weather-station
   - technique/regression-analysis
-  - technique/statistical-analysis
+  - technique/correlation-analysis
   - theme/hydrogeology
-  - theme/evaporation-rate
-  - theme/evaboration-rate
   - theme/sabkha-sedimentology
-  - theme/environmental-geoscience
+  - theme/water-resources-management
+  - terminology/sabkha-sedimentology
   - terminology/evaporation-rate
   - terminology/salinity
-  - terminology/evaporation
+  - terminology/vadose-zone-hydrology
 status: ingested
 ---
 
 # DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARABIA.
 
-**Summary**: The thesis investigates the direct measurement of evaporation rates in Sabkha Jayb Uwayyid in the Eastern Province of Saudi Arabia using a custom-built portable chamber. It concludes that soil characteristics and brine salinity significantly reduce evaporation compared to standard pan methods, with seasonal rates ranging from 0.25 to 0.50 mm/day.
+**Summary**: The thesis investigated the evaporation rate of Sabkha Jayb Uwayyid in the Eastern Province of Saudi Arabia using a custom-built portable chamber and weather station. It concluded that while temperature, gust speed, and RH significantly influence evaporation rates, soil salinity acts as a physical barrier to vaporization.
 
 ---
 
 ## Research Problem
 
-Accurate estimation of evaporation rates from sabkhas is critical for managing water resources in Saudi Arabia's landscape, but these rates are influenced by complex interactions between local climate (temperature, RH, wind) and unique soil characteristics such as high salinity and specific textures.
+Lack of data on evaporation rates in sabkhas within Saudi Arabia, which is critical for managing water resources, predicting yields, and assessing the economic viability of using brine for salt production.
 
 ## Objectives
 
 - To design and fabricate a purpose-built portable chamber
-- To determine the evaporation rate
 - To assess the effect of soil and brine salinity, soil moisture and texture on evaporation rate
 - To compare seasonal variation of evaporation rate
 - To correlate the evaporation rate with weather data
-- Measure direct evaporation rates at Sabkha Jayb Uwayyid using a portable chamber.
-- Determine soil salinity and grain size distribution to assess their impact on evaporation.
-- Correlate evaporation rates with meteorological data (temperature, relative humidity, wind speed).
-- Evaluate the seasonal variation of evaporation rates in the study area.
-- Measure the direct evaporation rate of Sabkha Jayb Uyyd across different seasons.
-- Analyze the impact of soil moisture content on evaporation rates.
-- Evaluate the effect of soil salinity on evaporation processes.
-- Determine the correlation between measured evaporation rates and local weather data (temperature, RH, wind speed, gust speed).
-- Measure direct evaporation rates at Sabkha Jayb Uwayyid.
-- Correlate measured evaporation rates with weather parameters (wind speed, gust speed, temperature, and relative humidity).
-- Assess the impact of soil salinity on evaporation rates.
+- Measure direct evaporation rates at Sabkha Jayb Uwayyid across different seasons.
+- Determine the correlation between evaporation rates and weather parameters (temperature, RH, wind speed, gust speed).
 
 ## Methods
 
-The study used a portable chamber constructed from Plexiglas to measure vapor density changes. Calibration was performed using a known water loss rate. Field measurements were taken at two locations across three seasons (winter, spring, summer). Soil salinity was determined via electrical conductivity (EC) of 1:5 soil-water mixtures. Grain size analysis followed ASTM D 422 standards using sieve analysis. Statistical analysis including Pearson correlation and multiple regression was performed using SPSS and Minitab to relate evaporation rates to weather parameters.
+A custom-built 0.75m x 0.75m Plexiglas chamber was constructed for direct measurement of evaporation rates. Calibration was performed using a heated coil and a water beaker to establish a calibration factor (1.91). Field measurements were conducted at two locations in Sabkha Jayb Uwayyid, with data logged every 2 seconds for 2 minutes. Soil moisture was measured via a dielectric aqua-meter sensor. Grain size analysis was performed using sieve analysis (ASTM D 422) and an electronic sieve shaker. Salinity was determined by measuring electrical conductivity (EC) of soil samples at depths of 0.1m and 0.5m, converted to Total Dissolved Solids (TDS). Correlation between evaporation rates and weather parameters (temperature, RH, wind speed, gust speed) was analyzed using Pearson correlation coefficients and multiple regression in SPSS and Minitab.
 
 ## Data and Materials
 
-Measurements were taken at two locations within a 400x400m area of Sabkha Jayb Uwayyid. Soil samples were collected from four strata. Groundwater was sampled from five piezometers. Data were recorded over three seasons (winter, spring, summer) in 2015.
+Data collected from Sabkha Jayb Uwayyid (26.15°N to 26.20°N; 49.49°E to 49.55°E). Samples included soil samples at two depths (0.1m and 0.5m) across four strata, groundwater from five piezometers (PW-01 to PW-05), and continuous weather data for three seasons (winter, spring, summer).
 
 ## Key Findings
 
-- Seasonal evaporation rates were measured at 0.25 mm/day (winter), 0.47 mm/day (spring), and 0.50 mm/day (summer). ([[2016-armoh|Armoh, 2016, p. 11]])
-- The mean daily evaporation rate of 0.40 mm/day yields an average annual evaporation rate of about 145 mm. ([[2016-armoh|Armoh, 2016, p. 11]])
-- Soil characteristics and salinity of the water in the sabkha aquifer contribute to reduction of evaporation rate relative to pan evaporation of 3590 mm/year. ([[2016-armoh|Armoh, 2016, p. 11]])
-- Relative humidity, gust speed, and temperature are found to be more significant in the determination of evaporation rate compared to wind speed. ([[2016-armoh|Armoh, 2016, p. 12]])
-- The region has a hyper-arid climate with an average annual rainfall of 90 mm and potential evaporation of about 3,590 mm/year. ([[2016-armoh|Armoh, 2016, p. 20]])
-- The average daily evaporation rate for the winter season was 0.25 mm. ([[2016-armoh|Armoh, 2016, p. 39]])
-- The average daily evaporation rate for the spring season was 0.47 mm/day (0.37 mm/day on April 17 and 0.56 mm/day on April 28). ([[2016-armoh|Armoh, 2016, p. 41]])
-- The average daily evaporation rate for the summer season was 0.50 mm/day. ([[2016-armoh|Armoh, 2016, p. 43]])
-- The overall mean evaporation rate for Sabkha Jayb Uwayyid across all seasons was 0.41 mm/day. ([[2016-armoh|Armoh, 2016, p. 45]])
-- The highest hourly evaporation rate recorded in winter was 1.47 mm, and the lowest was 0.01 mm. ([[2016-armoh|Armoh, 2016, p. 39]])
-- The highest hourly evaporation rate in spring was 2.00 mm/day, and the lowest was 0.03 mm/day. ([[2016-armoh|Armoh, 2016, p. 42]])
-- The highest hourly evaporation rate in summer was 3.55 mm/day, and the lowest was 0.10 mm/day. ([[2016-armoh|Armoh, 2016, p. 44]])
-- Evaporation rates at location 2 were consistently lower than location 1 (15% lower in winter, 4.61% lower in spring, and 4.84% lower in summer). ([[2016-armoh|Armoh, 2016, p. 39]])
-- The mean annual evaporation rate for Sabkha Jayb Uwayyid was approximately 145 mm. ([[2016-armoh|Armoh, 2016, p. 47]])
-- Evaporation rates were measured at 0.25 mm/day in winter, 0.466 mm/day in spring, and 0.499 mm/day in summer. ([[2016-armoh|Armoh, 2016, p. 58]])
+- Evaporation rates were measured at 0.25 mm/day (winter), 0.47 mm/day (spring), and 0.50 mm/day (summer), resulting in a mean annual rate of approximately 145 mm. ([[2016-armoh|Armoh, 2016, p. 66]])
+- The mean daily evaporation rate of 0.40 mm/day yields an average annual evaporation rate of approximately 145 mm. ([[2016-armoh|Armoh, 2016, p. 11]])
+- Evaporation rates were found to be significantly lower than the pan evaporation rate of 3590 mm/year due to soil characteristics and water salinity. ([[2016-armoh|Armoh, 2016, p. 11]])
+- Relative humidity, gust speed, and temperature were determined to be more significant in determining evaporation rates compared to wind speed. ([[2016-armoh|Armoh, 2016, p. 11]])
+- The sabkha soil was identified as primarily sand with a mean phi value of 1.77 (medium grained) and a standard deviation of 1.1 (poorly sorted). ([[2016-armoh|Armoh, 2016, p. 51]])
+- Soil moisture content ranged from 28% to 32.8% at 0.1m depth and 30.3% to 37.7% at 0.5m, indicating a partially to nearly saturated state. ([[2016-armoh|Armoh, 2016, p. 53]])
+- Soil salinity (TDS) was highest at the surface (e.g., 414,515 ppm in summer at 0.1m depth) and decreased with depth. ([[2016-armoh|Armoh, 2016, p. 56]])
+- The difference in evaporation rates between spring and summer despite similar conditions was attributed to the formation of salt crusts on the surface which restricts water movement. ([[2016-armoh|Armoh, 2016, p. 47]])
+- Soil salinity levels were recorded at 112,235 ppm (winter), 140,640 ppm (spring), and 113,650 ppm (summer) for the top 0.1m layer. ([[2016-armoh|Armoh, 2016, p. 58]])
+- RH showed a consistent negative correlation with evaporation rate across all seasons. ([[2016-armoh|Armoh, 2016, p. 63]])
+- Weather parameters accounted for up to 79.5% of the variance in evaporation rate during the spring season. ([[2016-armoh|Armoh, 2016, p. 64]])
 
 ## Limitations
 
-The study was limited by time constraints and only included a two-day measurement for each season; the autumn season was not included in the research.
+The study was limited by time constraints and only included two days of measurement per season, excluding the autumn season.
 
 ## Recommendations and Future Work
 
-- Use other indirect methods like water budget or aerodynamic/energy budget (combination method) for evaporation estimation.
-- Repeat the study on a coastal sabkha to compare with inland sabkhas like Jayb Uwayyid.
-- Conduct studies in areas with high agricultural activity (e.g., Al-Hasa) to estimate evapotranspiration from plants.
-- Extend measurement periods to include the autumn season and measure soil moisture profiles from surface to 100% saturation.
+- Use indirect methods like water budget or aerodynamic/energy balance models for evaporation estimation.
+- Repeat studies on coastal sabkhas to compare with inland sabkhas (Jayb Uwayyid).
+- Conduct studies in Al-Hasa to assess evapotranspiration and inform irrigation policies.
+- Extend study duration to include the autumn season and measure deeper soil moisture profiles.
 
 ## Related Concepts
 
 - [[portable-chamber]]
-- [[sieve-analysis]]
-- [[evaporation-rate]]
-- [[salinity]]
-- [[eastern-province]]
-- [[hydrogeology]]
+- [[sieving-analysis]]
 - [[sabkha-sedimentology]]
-- [[quaternary-sediments]]
+- [[evaporation-rate]]
+- [[eastern-province]]
+- [[water-resources-management]]
+- [[salinity]]
+- [[vadose-zone-hydrology]]
+- [[port-chamber]]
 - [[regression-analysis]]
-- [[statistical-analysis]]
-- [[evaporation]]
-- [[saudi-arabia]]
-- [[environmental-geoscience]]

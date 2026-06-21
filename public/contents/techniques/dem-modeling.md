@@ -1,40 +1,34 @@
 ---
 type: technique
-title: "Dem Modeling"
+title: "Digital Elevation Modeling"
 aliases:
-  - "DEM modeling"
-  - "Differential Evolution Modeling"
+  - "Differential Effective Medium modeling"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "velocity-porosity trajectories"
+output: "elastic property predictions and differentiation parameters"
 tags:
   - technique/dem-modeling
   - theme/rock-physics
 sources:
-  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
   - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
-# Dem Modeling
+# Digital Elevation Modeling
 
-**Summary**: A mathematical approach to model the impact of pore geometry on elastic properties.
+**Summary**: A mathematical model used to predict elastic properties based on mineralogy and pore geometry.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-salih|Salih, 2022]] applied DEM modeling to investigate the impact of pore types on velocity via EPAR values.
-
-- [[2024-allehyani|allehyani, 2024]] applied DEM modeling to determine the effective pore aspect ratio (EPAR) for different bioturbation styles.
+- [[2024-allehyani|allehyani, 2024]] applied DEM modeling to determine the EPAR value for differentiating bioturbation styles.
 
 ## Instruments and Software
 
 
-
-- [[2024-allehyani|allehyani, 2024]] applied DEM modeling to determine the effective pore aspect ratio (EPAR) for different bioturbation styles.
 
 ## Typical Workflow
 
@@ -42,9 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Demonstrated that varying the Equivalent Pore Aspect Ratio (EPAR) can explain the variance in sonic velocity for different pore shapes. ([[2022-salih|Salih, 2022, p. 43]])
-
-- An EPAR value of 0.155 was identified as a potential cutoff between BN and BR styles. ([[2024-allehyani|allehyani, 2024, p. 63]])
+- An EPAR value of 0.155 effectively differentiated the two bioturbation style groups. ([[2024-allehyani|allehyani, 2024, p. 64]])
 
 ## Methodological Variations Across Sources
 

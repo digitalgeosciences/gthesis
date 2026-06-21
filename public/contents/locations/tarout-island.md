@@ -2,42 +2,41 @@
 type: location
 title: "Tarout Island"
 aliases:
-  - "Tarut Island"
-  - "Tarout"
+  - "Tarout Island"
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
-coordinates: "26.35N, 50.3E"
-geology: "Coastal sedimentary deposits"
+coordinates: "Not stated in source"
+geology: "Dammam and Rus aquifers are present."
 tags:
   - location/tarout-island
 sources:
   - "raw/138528 - Environmental Assessment of Groundwater Condition in Tarout Island, Eastern Prov.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Tarout Island
 
-**Summary**: An island located on the west coast of the Arabian Gulf, east of Qatif and north of Dammam.
+**Summary**: An island in the Eastern Province of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2011-alsadeq|Alsadeq, 2011]] studied Tarout Island to assess groundwater impact from urbanization.
+- [[2011-alsadeq|Alsadeq, 2011]] studied tarout-island to assess groundwater contamination from local activities.
 
 ## Geological and Structural Setting
 
-- [[2011-alsadeq|Alsadeq, 2011]] Flat stretch of coast on Tarout Bay
+- [[2011-alsadeq|Alsadeq, 2011]] Coastal area with agricultural and industrial zones.
 
 ## Formations Present
 
-- [[2011-alsadeq|Alsadeq, 2011]] Dammam Formation, Khobar Member, Alat Member
+- [[2011-alsadeq|Alsadeq, 2011]] khobar-aquifer, rus-formation
 
 ## Key Findings From This Location
 
-- The area covers approximately 30 km2 and faces significant water issues due to limited rainfall (25-152 mm). ([[2011-alsadeq|Alsadeq, 2011, p. 15]])
+- The study area is characterized by high levels of nitrate and phosphate due to agricultural activity. ([[2011-alsadeq|Alsadeq, 2011, p. 76]])
 
 ## Research Coverage and Gaps
 

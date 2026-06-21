@@ -3,51 +3,53 @@ type: formation
 title: "Saq Formation"
 aliases:
   - "Saq Sandstone"
-  - "Saq Formation"
 canonical: true
-age: "Cambrian"
-basin: "Tabuk and Widyan Basins"
-lithology: "sandstone"
-reservoir_status: "not stated"
+age: "Cambro-Ordovician"
+basin: "Northwest Arabian Basin"
+lithology: "Sandstone"
+reservoir_status: "Not stated in source"
 tags:
-  - formation/saq-formation
+  - formation/saq_formation
 sources:
   - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
-  - "raw/142086 - Evaluating properties of Arabian desert sands for geological and energy applicat.pdf"
+  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Saq Formation
 
-**Summary**: A major Cambrian sandstone unit in the Arabian Peninsula.
+**Summary**: A Cambrian-Ordovician sandstone unit.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] analyzed the saq-formation to determine its depositional environment.
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] analyzed the saq_formation in both Al Ula and Tabuk areas.
 
-- [[2022-radwan|Radwan, 2022]] analyzed samples from the Saq Formation to determine QCI values.
+- [[2022-pambudi|Pambudi, 2022]] evaluated the Saq formation as a primary aquifer for potential recharge.
 
 ## Depositional Environment
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] epicontinental marine to fluviatile
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] Continental to marine
 
-- [[2022-radwan|Radwan, 2022]] analyzed samples from the Saq Formation to determine QCI values.
+- [[2022-pambudi|Pambudi, 2022]] evaluated the Saq formation as a primary aquifer for potential recharge.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- The Saq Sandstone is interpreted as an epicontinental, not fluviatile, marine environment. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 56]])
+- The Saq Sandstone is divided into Risha and Sajir members. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 42]])
 
-- Sample 1018-20 showed a QCI of 8.20. ([[2022-radwan|Radwan, 2022, p. 43]])
+- The Saq Aquifer is characterized by high permeability and effective porosity of 12% to 30%. ([[2022-pambudi|Pambudi, 2022, p. 67]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

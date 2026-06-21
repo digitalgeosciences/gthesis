@@ -12,120 +12,97 @@ committee_members:
   - "Husam Baalousha"
 source_file: "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142870/"
-study_area: "Selected buildings in residential, suburban, and industrial areas in the Eastern (Jubail, Dammam) and Western (Jeddah) regions of Saudi Arabia."
+study_area: "Selected buildings in Jubail (Eastern Province), Dammam and Khobar (Eastern Province), and Jeddah (Western Province) of Saudi Arabia."
 keywords:
   - Heavy Metals (HMs)
-  - Particulate Matters (PMs)
+  - Particulate Matter (PMs)
   - Air Quality
-  - Environmental Risk Assessment
   - Saudi Arabia
-  - Dust Samples
-  - Environmental Pollution
+  - Risk Assessment
+  - AC filters
   - Heavy Metals
   - Particulate Matter
-  - AC Filters
-  - Risk Assessment
-  - Air Quality Index (AQI)
-  - Health Risk Assessment
-  - Indoor Air Pollution
-  - Outdoor Air Pollution
+  - Environmental Risk Assessment
+  - Air Quality Index
+  - Particulate Matters (PMs)
+  - Air pollution
+  - Environmental hazards
 techniques:
   - icp-oes
   - thermo-scientific-personal-data-ram-pdr-1500
-  - pca
-  - electrofacies-analysis
-  - usepa-3050-b
-  - portable-pm-device
-  - general-geochemistry
   - statistical-analysis
+  - general-geochemistry
+  - environmental-risk-assessment
+  - data-analysis
   - pdr-1500
-  - acid-digestion
-  - gis
-  - edxrf
+  - icp-ms
 tags:
   - degree/ms
   - location/eastern-province
   - location/western-saudi-arabia
   - location/saudi-arabia
   - technique/icp-oes
-  - technique/pca
-  - technique/electrofacies-analysis
-  - technique/general-geochemistry
   - technique/statistical-analysis
-  - technique/none
-  - technique/gis
-  - technique/xrf
-  - theme/environmental-pollution
+  - technique/general-geochemistry
+  - technique/environmental-risk-assessment
+  - technique/data-analysis
+  - technique/icp-ms
   - theme/environmental-risk-assessment
-  - theme/water-quality
-  - theme/heavy-metals-pollution
-  - theme/environmental-geoscience
-  - terminology/heavy-metals
+  - theme/environmental-pollution
   - terminology/particulate-matter
+  - terminology/heavy-metals-pollution
+  - terminology/pollution-load-index
+  - terminology/enrichment-factor
+  - terminology/geo-accumulation-index
   - terminology/environmental-risk-assessment
+  - terminology/environmental-monitoring
 status: ingested
 ---
 
 # Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Buildings in Eastern and Western Regions of Saudi Arabia
 
-**Summary**: The thesis assesses the concentration and types of heavy metals (HMs) and particulate matter (PMs) in dust samples collected from air conditioning (AC) filters in buildings across residential, suburban, and industrial zones in Eastern and Western Saudi Arabia. It evaluates potential environmental risks and identifies sources of contamination to address public health concerns related to air quality.
+**Summary**: The thesis assesses the concentration and risk of heavy metals (HMs) and particulate matter (PMs) in air conditioning (AC) filters from buildings in Jubail, Dammam, Khobar, and Jeddah. It utilizes indices like Geo-accumulation Index (Igeo), Pollution Load Index (PLI), and Enrichment Factor (EF) to determine the impact of anthropogenic activities on local air quality.
 
 ---
 
 ## Research Problem
 
-The accumulation of heavy metals (HMs) and particulate matter (PMs) in indoor environments poses significant health risks due to their persistence, toxicity, and ability to cause respiratory and cardiovascular issues. There is a lack of comprehensive studies evaluating both HMs and PMs simultaneously in the specific urban contexts of Eastern and Western Saudi Arabia.
+The study addresses the environmental and health risks posed by heavy metal (HM) and particulate matter (PM) contamination in indoor and outdoor environments, specifically focusing on how these pollutants accumulate in AC filters within residential, industrial, and suburban areas in Saudi Arabia.
 
 ## Objectives
 
-- Assess the concentration levels of heavy metals (HMs) and particulate matter (PMs) in selected buildings in Eastern and Western regions of Saudi Arabia.
-- Evaluate the effectiveness of air conditioning (AC) systems in filtering out particulate matter and heavy metals.
-- Perform risk assessments for human health (non-carcinogenic and carcinogenic) and ecological risks associated with these pollutants.
 - To identify the types and levels of HMs in dust samples collected from specific buildings in residential, suburban, and industrial areas.
 - To investigate the correlation between the types and levels of HMs and their potential sources.
-- To measure the concentration levels of PMs (PM10 and PM2.5) in the indoors of these selected buildings.
-- Measure the concentration of heavy metals (HMs) in AC filters from selected buildings.
-- Quantify particulate matter (PM10 and PM2.5) using portable devices.
-- Assess the environmental risk and potential health risks associated with these pollutants.
-- Assess the concentration of heavy metals (HMs) and particulate matters (PMs) in AC filters from selected buildings.
-- Evaluate the extent of contamination using indices such as Contamination Factor (Cf), Pollution Load Index (PLI), Enrichment Factor (EF), and Geo-accumulation Index (Igeo).
-- Perform an ecological risk assessment (ER) and potential toxicity risk index (ERI) for the identified heavy metals.
-- Assess the average daily dose (ADD) of non-carcinogenic elements to evaluate human health risks.
-- Measure concentrations of heavy metals (HMs) in AC filters across four cities.
-- Assess non-carcinogenic risks for adults and children from HM exposure via ingestion, inhalation, and dermal routes.
-- Evaluate carcinogenic risks associated with specific heavy metals.
-- Monitor particulate matter (PM2.5 and PM10) to determine Air Quality Index (AQI) in various urban zones.
-- Assess the concentration of heavy metals (HMs) and particulate matters (PMs) in selected buildings.
-- Evaluate the Air Quality Index (AQI) for both indoor and outdoor environments.
-- Conduct a health risk assessment related to exposure to these pollutants.
-- Evaluate the distribution of these pollutants across different geographic regions.
-- Perform risk assessments regarding human exposure to these contaminants.
+- To measure the concentration levels of PMs (PM10 and PM2.5) in the indoors of selected buildings.
+- Determine the concentration of heavy metals (HMs) in AC filters across different regions.
+- Evaluate the pollution load and enrichment factors for various HMs to identify anthropogenic influences.
+- Assess the ecological risk (ER) and potential toxicity risk index (ERI) posed by these metals.
 
 ## Methods
 
-Heavy metal analysis was conducted using ICP-OES (Perkin Elmer DV 8000 Dual View) following USEPA method 6010, with samples prepared in nitric acid. PM measurements were performed using a portable device (Thermo Scientific™ Personal Data RAM pDR-1500) over 10-minute periods. Several indices were used to characterize contamination: Enrichment Factor (EF), Geo-accumulation Index (Igeo), Contamination Factor (Cf), Contamination Degree (Cd), Pollution Load Index (PLI), and Ecological Risk (ER). Health risk assessments included calculation of Average Daily Dose (ADD) for inhalation, ingestion, and dermal routes, followed by Hazard Quotient (HQ) and Carcinogenic Risk (CR) calculations.
+The study involved collecting AC filters from residential, industrial, and suburban areas in Jubail, Dammam, Khobar, and Jeddah. Chemical analysis was performed to determine HM concentrations. Data were processed using several indices: Geo-accumulation Index (Igeo) for contamination levels; Pollution Load Index (PLI) to evaluate cumulative pollution load; Enrichment Factor (EF) to identify anthropogenic sources; and Ecological Risk (ER) / Potential Toxicity Risk Index (ERI) for environmental impact. Human health risk was assessed using Average Daily Dose (ADD), Hazard Quotient (HQ), and Hazard Index (HI) for non-carcinogenic risks, and Lifetime Cancer Risk (LCR/CR) for carcinogenic risks.
 
 ## Data and Materials
 
-Samples of AC filters collected from buildings in four cities: Jeddah, Dammam, Khobar, and Jubail. Data includes concentration values for 13 heavy metals, calculation results for various pollution indices (Cf, PLI, EF, Igeo, ER, ERI), and ADD calculations for children and adults.
+Samples were collected from AC filters in three cities: Jubail, Dammam/Khobar, and Jeddah. Data included concentrations of heavy metals (As, Cd, Co, Cr, Cu, Mn, Ni, Pb, V, Zn, Fe, Al, Ba) compared against world crustal background values and local Saudi Arabian background values.
 
 ## Key Findings
 
-- Dammam and Khobar showed higher concentrations of heavy metals in AC filters compared to Jeddah and Jubail. ([[2024-alenazi|Alenazi, 2024, p. 19]])
-- Cadmium (Cd) presented a significant ecological risk, particularly in the city of Jeddah. ([[2024-alenazi|Alenazi, 2024, p. 19]])
-- Non-carcinogenic risks for both adults and children from heavy metal exposure via ingestion, inhalation, and skin contact were below acceptable limits. ([[2024-alenazi|Alenazi, 2024, p. 19]])
-- Children exhibited significantly higher carcinogenic risks than adults, highlighting their increased vulnerability to these pollutants. ([[2024-alenazi|Alenazi, 2024, p. 19]])
-- The study identified several heavy metals of concern: Cr, Zn, Cu, Mn, Pb, Cd, As, Co, Ni, V, Fe, Al, Ba, and Mo. ([[2024-alenazi|Alenazi, 2024, p. 18]])
-- PM10 is defined as particles with diameters less than 10 µm, while PM2.5 refers to fine particles with diameters less than 2.5 µm; both are significant air pollutants affecting respiratory and cardiovascular systems. ([[2024-alenazi|Alenazi, 2024, p. 29]])
-- Heavy metals (HMs) such as mercury, lead, cadmium, arsenic, nickel, etc., are persistent environmental pollutants with high toxicity concerns. ([[2024-alenazi|Alenazi, 2024, p. 27]])
-- The study identifies that HMs can enter human bodies through inhalation, ingestion, and dermal contact, posing risks to sensitive populations like children and pregnant women. ([[2024-alenazi|Alenazi, 2024, p. 28]])
-- Saudi Arabia Air Quality Guidelines (Table 1) specify limits for Inhalable PM (340 µg/m³), PM10 (150 µg/m³), and PM2.5 (35 µg/m³). ([[2024-alenazi|Alenazi, 2024, p. 34]])
-- PM2.5 and PM10 are highly related to higher mortality rates from respiratory, cardiovascular, and neurological disorders. ([[2024-alenazi|Alenazi, 2024, p. 36]])
-- Heavy metal concentrations in Jubail exceeded world crustal background values for Zn, Cu, Pb, As, and Cd across all zones. ([[2024-alenazi|Alenazi, 2024, p. 67]])
-- In Jubail, industrial areas showed the highest average concentration of several metals (e.g., Zn at 12.2x, Cu at 3.6x) compared to world crustal background. ([[2024-alenazi|Alenazi, 2024, p. 67]])
-- In Dammam and Khobar, industrial areas showed significantly higher concentrations of Zn, Cu, Pb, As, Ba, and Cd compared to both world crustal and local Saudi Arabian backgrounds. ([[2024-alenazi|Alenazi, 2024, p. 76]])
-- In Jeddah, heavy metal concentrations in AC filters exceeded world crustal background values for Zn, Cu, Pb, As, Cr, Ba, and Cd. ([[2024-alenazi|Alenazi, 2024, p. 91]])
-- The average concentration of HMs in Jeddah's industrial area was the highest among all studied locations (e.g., Zn at 2864 compared to world background). ([[2024-alenazi|Alenazi, 2024, p. 91]])
+- Dammam and Khobar had higher concentrations of heavy metals in AC filters compared to Jeddah and Jubail. ([[2024-alenazi|Alenazi, 2024, p. 19]])
+- Cadmium (Cd) presented a significant risk, particularly in the city of Jeddah. ([[2024-alenazi|Alenazi, 2024, p. 19]])
+- Non-carcinogenic risks for both adults and children from HM exposure via ingestion, inhalation, and skin contact were below acceptable limits. ([[2024-alenazi|Alenazi, 2024, p. 19]])
+- Children exhibited more significant cancer risks than adults due to their higher susceptibility. ([[2024-alenazi|Alenazi, 2024, p. 19]])
+- The concentration of heavy metals in the dust samples was found to be significantly influenced by industrial activities and urbanization. ([[2024-alenazi|Alenazi, 2024, p. 32]])
+- HMs such as Zn, Cu, Pb, As, and Cd were significantly higher in industrial areas (up to 12.2 times higher for Zn) compared to world's crustal background values. ([[2024-alenazi|Alenazi, 2024, p. 67]])
+- The average concentration of HMs in Jubail was found to be 1075 (residential), 1351 (suburban), and 1581 (industrial). ([[2024-alenazi|Alenazi, 2024, p. 76]])
+- In Dammam and Khobar, the average concentration of HMs followed an increasing sequence: 1483 (residential), 1650 (suburban), and 1763 (industrial). ([[2024-alenazi|Alenazi, 2024, p. 90]])
+- In Jeddah, the mean average concentrations were 1305 (res), 1474 (suburban), and 2864 (industrial). ([[2024-alenazi|Alenazi, 2024, p. 111]])
+- The Pollution Load Index (PLI) for HMs in Jeddah was the highest at 1.5 and 2.4, indicating a significant cumulative pollution load from high traffic emissions. ([[2024-alenazi|Alenazi, 2024, p. 139]])
+- Enrichment Factors (EF) for Zn, Pb, Ni, Cu, Cr, Cd, and As were between 2 to 5 (moderate) or higher (significant/extreme), indicating heavy influence from anthropogenic sources like tire wear and fossil fuel combustion. ([[2024-alenazi|Alenazi, 2024, p. 141]])
+- The Geo-accumulation Index (Igeo) for Zn, Pb, Cu, and Cd were the highest, with values exceeding 3 in several areas, indicating high contamination from outdoor emissions. ([[2024-alenazi|Alenazi, 2024, p. 145]])
+- Ecological Risk (ER) for Cd was significantly higher than other metals, reaching up to 216.08 in Jeddah based on world crustal values. ([[2024-alenazi|Alenazi, 2024, p. 157]])
+- The Potential Toxicity Risk Index (ERI) reached 326.04 for As in Jeddah, exceeding the threshold of 300, indicating a considerable potential ecological risk. ([[2024-alenazi|Alenazi, 2024, p. 152]])
+- Non-carcinogenic risks (HI) were found to be lower than 1 for all studied HMs across all exposure routes, suggesting no immediate non-carcinogenic risk. ([[2024-alenazi|Alenazi, 2024, p. 175]])
 
 ## Limitations
 
@@ -133,21 +110,20 @@ Not stated in source
 
 ## Recommendations and Future Work
 
-Recommendations include: regular cleaning/maintenance, keeping doors shut to prevent dust entry, enhancing positive pressure systems, installing intermediary lobbies, replacing carpets with non-dust-accumulating materials, and implementing continuous monitoring systems for industrial areas.
+Regular cleaning/maintenance of buildings; keeping doors shut to prevent dust entry; enhancing positive pressure systems; public awareness of health risks; further study on ultrafine particulate matter (PM0.1); implementation of continuous monitoring systems and policies for industrial areas.
 
 ## Related Concepts
 
 - [[icp-oes]]
-- [[heavy-metals]]
+- [[statistical-analysis]]
 - [[particulate-matter]]
+- [[heavy-metals-pollution]]
 - [[environmental-risk-assessment]]
 - [[saudi-arabia]]
-- [[eastern-province]]
-- [[western-saudi-arabia]]
-- [[pca]]
-- [[cluster-analysis]]
-- [[chemical-analysis]]
-- [[statistical-analysis]]
-- [[none]]
-- [[gis]]
-- [[xrf]]
+- [[environmental-pollution]]
+- [[general-geochemistry]]
+- [[pollution-load-index]]
+- [[enrichment-factor]]
+- [[geo-accumulation-index]]
+- [[environmental-monitoring]]
+- [[icp-ms]]

@@ -1,46 +1,45 @@
 ---
 type: terminology
 title: "Breakthrough"
-aliases:
-  - "breakthrough time"
+aliases: []
 canonical: true
-definition: "The point at which the adsorbent is exhausted and the contaminant begins to appear in the effluent."
-units: "minutes"
+definition: "Point of arrival of injected fluid at the production end."
+units: "pore volumes (PV)"
 related_techniques:
-  - "adsorption-experiments"
+  - "core-flooding"
 tags:
-  - theme/water-treatment
+  - theme/reservoir-engineering
 sources:
-  - "raw/143342 - OPTIMIZING COLUMN ADSORPTION FOR MTBE AND BTEX REMOVAL FROM GROUNDWATER USING CO.pdf"
+  - "raw/141372 - Optimization of CO2N2 Foam Parameters For EOR In Sandstone Reservoirs.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Breakthrough
 
-**Summary**: The point in a fixed-bed column where the concentration of the effluent reaches a certain percentage of the influent.
+**Summary**: The point at which the injected fluid reaches the production end of the core.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-almousa|Almousa, 2025]] monitored breakthrough times for MTBE and Benzene across various conditions.
+- [[2019-abdelaal|Abdelaal, 2019]] monitored breakthrough to evaluate mobility control and sweep efficiency.
 
 ## Scientific Context
 
-- [[2025-almousa|Almousa, 2025]] Used to determine the operational lifespan of the filter bed.
+- [[2019-abdelaal|Abdelaal, 2019]] Indicates the effectiveness of mobility control.
 
 ## Measurement and Characterization Methods
 
-- [[2025-almousa|Almousa, 2025]] Determined from breakthrough curves (C/Co vs. time).
+- [[2019-abdelaal|Abdelaal, 2019]] Observed via appearance of oil droplets.
 
 ## Key Findings Across Sources
 
-- Breakthrough time for MTBE increased from 15 to 60 min when moving from sandstone to carbonate beds. ([[2025-almousa|Almousa, 2025, p. 57]])
+- Gas breakthrough occurred around 0.31 PV in Experiment 2, compared to 0.35 PV in Experiment 1. ([[2019-abdelaal|Abdelaal, 2019, p. 69]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2025-almousa|Almousa, 2025]] Varies between 15 and 420 minutes depending on flow rate and concentration.
 
 ## Open Questions and Research Gaps
 

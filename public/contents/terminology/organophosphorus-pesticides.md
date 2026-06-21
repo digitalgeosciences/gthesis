@@ -4,42 +4,44 @@ title: "Organophosphorus Pesticides"
 aliases:
   - "OPPs"
 canonical: true
-definition: "Pesticides containing phosphorus atoms."
-units: "ppb"
+definition: "Pesticides containing phosphorus-carbon bonds, often used as alternatives to OCPs."
+units: "mg/L or mg/kg"
 related_techniques:
+  - "spe"
+  - "ultrasonication"
   - "gc-ms"
 tags:
   - theme/environmental-pollution
 sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Organophosphorus Pesticides
 
-**Summary**: Pesticides containing phosphorus, often used as alternatives to OCPs but still posing toxicity risks.
+**Summary**: A class of pesticides that act as acetylcholinesterase inhibitors and are generally less persistent than OCPs.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-mohammed|Mohammed, 2013]] monitored organophosphorus pesticides (OPPs) in the Arabian Gulf to assess current contamination levels.
+- [[2013-mohammed|Mohammed, 2013]] monitored OPPs to assess their presence in the Arabian Gulf ecosystem.
 
 ## Scientific Context
 
-- [[2013-mohammed|Mohammed, 2013]] OPPs are often used as alternatives to OCPs but require monitoring due to their toxicity and impact on acetylcholinesterase.
+- [[2013-mohammed|Mohammed, 2013]] OPPs are monitored due to their high acute toxicity despite lower environmental persistence.
 
 ## Measurement and Characterization Methods
 
-- [[2013-mohammed|Mohammed, 2013]] quantified via extraction and chromatography.
+- [[2013-mohammed|Mohammed, 2013]] Quantified via GC-MS after extraction.
 
 ## Key Findings Across Sources
 
-- Chlorpyrifos was detected at concentrations of 139, 135.5, 24.5, 303.8 and 89.6 ppb in water samples. ([[2013-mohammed|Mohammed, 2013, p. 41]])
+- OPPs were not detected in sea water samples but were found in biota at varying levels. ([[2013-mohammed|Mohammed, 2013, p. 14]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

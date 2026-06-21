@@ -3,9 +3,9 @@ type: terminology
 title: "Trihalomethanes"
 aliases:
   - "THMs"
-  - "TTHM"
+  - "TTHMs"
 canonical: true
-definition: "Small organic compounds containing carbon, hydrogen, and halogens (chlorine or bromine)."
+definition: "Small organic compounds containing chlorine and/or bromine."
 units: "ppb"
 related_techniques:
   - "gc-ms"
@@ -14,33 +14,33 @@ tags:
 sources:
   - "raw/138483 - Quantitative Assessment of Disinfection By-products Formed by Chlorine, Chlorine.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Trihalomethanes
 
-**Summary**: Organic compounds formed when chlorine reacts with natural organic matter.
+**Summary**: A class of organic compounds formed during chlorination, including chloroform and bromoform.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2011-ibrahim|Ibrahim, 2011]] measured trihalomethanes as a primary disinfection by-product of concern.
+- [[2011-ibrahim|Ibrahim, 2011]] quantified trihalomethanes in water treated with chlorine.
 
 ## Scientific Context
 
-- [[2011-ibrahim|Ibrahim, 2011]] THMs are significant because of their potential carcinogenicity.
+- [[2011-ibrahim|Ibrahim, 2011]] THMs are the primary concern in chlorination processes.
 
 ## Measurement and Characterization Methods
 
-- [[2011-ibrahim|Ibrahim, 2011]] Quantified via GC/MS analysis.
+- [[2011-ibrahim|Ibrahim, 2011]] GC-MS analysis.
 
 ## Key Findings Across Sources
 
-- TTHM levels increased from 0 to 247 ppb with increasing chlorine dosage. ([[2011-ibrahim|Ibrahim, 2011, p. 9]])
+- Bromoform represented over 80% of the total THMs in all samples. ([[2011-ibrahim|Ibrahim, 2011, p. 52]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

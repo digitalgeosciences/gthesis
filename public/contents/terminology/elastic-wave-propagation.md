@@ -2,44 +2,44 @@
 type: terminology
 title: "Elastic Wave Propagation"
 aliases:
-  - "Zoeppritz equations"
+  - "P-wave propagation"
 canonical: true
-definition: "The mathematical description of wave behavior at boundaries."
-units: "not applicable"
+definition: "The propagation of longitudinal waves through a medium."
+units: "m/s"
 related_techniques:
-  - "avo-analysis"
+  - "signal-processing"
 tags:
-  - theme/geophysics-general
+  - theme/near-surface-geophysics
 sources:
-  - "raw/139094 - Transmission Amplitude Variation with Offset (TAVO).pdf"
+  - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-17
 ---
 
 # Elastic Wave Propagation
 
-**Summary**: The study of how elastic waves travel through and interact with different geological layers.
+**Summary**: The movement of elastic waves through a medium.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-kola|Kola, 2014]] used Zoeppric equations to model the partition of energy at an interface.
+- [[2024-makki|Makki, 2024]] analyzed P-wave propagation in sand dunes to determine velocity variations.
 
 ## Scientific Context
 
-- [[2014-kola|Kola, 2014]] Fundamental to understanding how seismic waves reflect and transmit.
+- [[2024-makki|Makki, 2024]] P-wave velocity is the primary metric for determining anisotropy in this study.
 
 ## Measurement and Characterization Methods
 
-- [[2014-kola|Kola, 2014]] Analytical modeling
+- [[2024-makki|Makki, 2024]] Measured using a circular seismic array.
 
 ## Key Findings Across Sources
 
-- Zoeppritz equations provide exact values but are complex; hence, approximations like Aki-Richards were used. ([[2014-kola|Kola, 2014, p. 23]])
+- P-wave velocities were found to be influenced by the TTI nature of the dune's internal structure. ([[2024-makki|Makki, 2024, p. 73]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -4,8 +4,8 @@ title: "Short Offset Assumption"
 aliases:
   - "X < H"
 canonical: true
-definition: "The condition where offset (X) is less than depth (H)."
-units: "not applicable"
+definition: "The condition where the offset (X) is less than the depth of investigation (H)."
+units: "dimensionless"
 related_techniques:
   - "velocity-analysis"
 tags:
@@ -14,7 +14,7 @@ sources:
   - "raw/140641 - RELATION BETWEEN OFFSET AND VELOCITY DETERMINATION - APPLICATION ON A SYNTHETIC .pdf"
   - "raw/143131 - Effect of Offset on Time to Depth Conversion.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Short Offset Assumption
@@ -25,28 +25,28 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[2018-abdulrahman|Abdulrahman, 2018]] investigated the impact of violating the short-offset assumption on velocity accuracy.
+- [[2018-abdulrahman|Abdulrahman, 2018]] evaluated the impact of violating the short--offset assumption on interval velocity accuracy.
 
-- [[2024-felemban|Felemban, 2024]] evaluated the short-offset assumption in relation to depth conversion errors.
+- [[2024-felemban|Felemban, 2024]] compared the results of limited offsets against the short-offset assumption to validate depth accuracy.
 
 ## Scientific Context
 
-- [[2018-abdulrahman|Abdulrahman, 2018]] Ensures that the Taylor series expansion for T-X curves converges.
+- [[2018-abdulrahman|Abdulrahman, 2018]] It is used to ensure that the Taylor series expansion for traveltime converges accurately.
 
-- [[2024-felemban|Felemban, 2024]] evaluated the short-offset assumption in relation to depth conversion errors.
+- [[2024-felemban|Felemban, 2024]] compared the results of limited offsets against the short-offset assumption to validate depth accuracy.
 
 ## Measurement and Characterization Methods
 
-- [[2018-abdulrahman|Abdulrahman, 2018]] Comparison of restricted vs. unrestricted data sets.
+- [[2018-abdulrahman|Abdulrahman, 2018]] Compared results from data sets where offset was restricted vs. unrestricted.
 
 ## Key Findings Across Sources
 
-- In this specific area of Ghawar Field, the results showed no significant difference when the assumption was not strictly followed. ([[2018-abdulrahman|Abdulrahman, 2018, p. 10]])
+- The difference in error between restricted and unrestricted cases was only 2.893%, suggesting the assumption isn't critical for the Biyadh layer. ([[2018-abdulrahman|Abdulrahman, 2018, p. 10]])
 
-- Results showed that as offset decreased, error decreased, confirming the validity of the short-offset assumption. ([[2024-felemban|Felemban, 2024, p. 62]])
+
+- Results showed that as offset decreased, the amount of error in depth calculation also decreased, supporting this assumption. ([[2024-felemban|Felemban, 2024, p. 11]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

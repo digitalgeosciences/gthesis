@@ -1,23 +1,24 @@
 ---
 type: technique
-title: "Cnn"
+title: "Convolutional Neural Network"
 aliases:
-  - "Convolutional Neural Network"
-  - "CNN"
+  - "convolutional neural network"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "classified seismic events (cataloged, uncataloged, or false alarms)"
+output: "binary classification (signal vs. noise)"
 tags:
   - technique/cnn
-  - theme/machine-learning-geoscience
+  - theme/microseismic-monitoring
 sources:
   - "raw/141816 - PASSIVE SEISMIC EVENT DETECTION IN THE GRONINGEN AREA USING DEEP LEARNING.pdf"
+  - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
+  - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-20
 ---
 
-# Cnn
+# Convolutional Neural Network
 
 **Summary**: A deep learning architecture that uses convolutional layers to automatically extract features from data.
 
@@ -25,11 +26,19 @@ last_updated: 2026-06-09
 
 ## How It Is Used in the Thesis Collection
 
-- [[2021-shaheen|Shaheen, 2021]] implemented a CNN to detect seismic events from borehole records.
+- [[2021-shaheen|Shaheen, 2021]] implemented a CNN to detect seismic events by utilizing multi-level geophone records as training examples.
+
+- [[2023-almarzooq|Almarzooq, 2023]] employed a 1-layer encoder CNN for denoising and a 2-layer encoder CNN for feature extraction.
+
+- [[2025-ferreira|Ferreira, 2025]] used CNNs to process geoscientific imagery such as satellite images, seismic data, and microscopic mineralogical structures.
 
 ## Instruments and Software
 
 
+
+- [[2023-almarzooq|Almarzooq, 2023]] employed a 1-layer encoder CNN for denoising and a 2-layer encoder CNN for feature extraction.
+
+- [[2025-ferreira|Ferreira, 2025]] used CNNs to process geoscientific imagery such as satellite images, seismic data, and microscopic mineralogical structures.
 
 ## Typical Workflow
 
@@ -37,7 +46,11 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The CNN detected 40 events with only 5 false alarms, significantly outperforming STA/LTA and template matching. ([[2021-shaheen|Shaheen, 2021, p. 16]])
+- The CNN detected 40 events and only 5 false alarms, significantly outperforming STA/LTA and template matching. ([[2021-shaheen|Shaheen, 2021, p. 16]])
+
+- The CNN components were used to perform denoising and compression before the final inversion step. ([[2023-almarzooq|Almarzooq, 2023, p. 124]])
+
+- CNNs are designed to automatically and adaptively learn spatial hierarchies of features from input images. ([[2025-ferreira|Ferreira, 2025, p. 23]])
 
 ## Methodological Variations Across Sources
 

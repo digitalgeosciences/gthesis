@@ -4,39 +4,39 @@ title: "Khurais Field"
 aliases:
   - "Khurais complex"
 canonical: true
-region: "Central Saudi Arabia"
+region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
-coordinates: "10 degrees south of the equator"
+coordinates: "Not stated in source"
 geology: "carbonate platform"
 tags:
   - location/khurais-field
 sources:
   - "raw/136410 - High-Resolution Sequence Stratigraphy of the Middle Jurasic Lower Fadhili Reserv.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Khurais Field
 
-**Summary**: A major oil field in the Khurais complex, Saudi Arabia.
+**Summary**: A major carbonate reservoir in the Khurais field of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2010-al-mojel|Al-Mojel, 2010]] studied the Lower Fadhili reservoir within the khurais-field.
+- [[2010-al-mojel|Al-Mojel, 2010]] studied the khurais-field to determine its stratigraphic framework.
 
 ## Geological and Structural Setting
 
-- [[2010-al-mojel|Al-Mojel, 2010]] north-south trending asymmetrical anticline
+- [[2010-al-mojel|Al-Mojel, 2010]] asymmetrical anticline
 
 ## Formations Present
 
-- [[2010-al-mojel|Al-Mojel, 2010]] Dhruma Formation, Arab-D, Hanifa, Lower Fadhili
+- [[2010-al-mojel|Al-Mojel, 2010]] dhruma-formation, fadhili-reservoir
 
 ## Key Findings From This Location
 
-- The field contains three oil-bearing reservoirs: Arab-D, Hanifa, and Lower Fadhili. ([[2010-al-mojel|Al-Mojel, 2010, p. 19]])
+- The Khurais field contains three oil-bearing reservoirs: Arab-D, Hanifa, and Lower Fadhili. ([[2010-al-mojel|Al-Mojel, 2010, p. 19]])
 
 ## Research Coverage and Gaps
 

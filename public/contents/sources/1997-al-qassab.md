@@ -12,127 +12,123 @@ committee_members:
   - "A.J Al-Khalifa"
 source_file: "raw/10269 - Geostatistical modeling of Safaniya reservoir in Safaniya field.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/10269/"
-study_area: "Safaniya Field, Northern Offshore Area of the Arabian Gulf, Saudi Arabia"
+study_area: "Safaniya Field, Saudi Arabia"
 keywords:
   - geostatistics
   - reservoir modeling
-  - Safaniya Member
-  - Wasia Formation
   - porosity distribution
   - lithofacies
-  - petrophysics
-  - variogram analysis
   - SFNC sequence
+  - petrophysics
   - porosity
-  - kriging
+  - shale content
+  - variogram analysis
+  - spatial continuity
   - indicator kriging
-  - Safaniya reservoir
-  - permeability
+  - rock facies
   - sequential Gaussian simulation
   - sequential indicator simulation
 techniques:
   - well-log-analysis
+  - statistical-analysis
   - kriging
   - sequential-gaussian-simulation
   - stochastic-simulation
   - variogram-analysis
-  - geostatistics
+  - petrophysics
+  - lithofacies-analysis
+  - reservoir-modeling
 tags:
   - degree/ms
   - formation/safaniya-member
   - location/safaniya-field
-  - location/eastern-province
   - location/saudi-arabia
   - technique/well-log-analysis
+  - technique/statistical-analysis
   - technique/kriging
   - technique/sequential-gaussian-simulation
   - technique/stochastic-simulation
   - technique/variogram-analysis
   - technique/geostatistics
+  - technique/petrophysics
+  - technique/lithofacies-analysis
+  - technique/reservoir-modeling
   - theme/petrophysics
   - theme/geostatistics
   - theme/reservoir-modeling
   - terminology/porosity
-  - terminology/lithofacies
+  - terminology/facies-analysis
   - terminology/geostatistics
 status: ingested
 ---
 
 # Geostatistical modeling of Safaniya reservoir in Safaniya field
 
-**Summary**: The thesis investigates the application of geostatistical methods, specifically indicator kriging and various conditional simulations (SGS and SIS), to model rock facies and porosity in the Safaniya reservoir. It concludes that simulation techniques provide more realistic, high-resolution models compared to traditional kriging by avoiding over-smoothing and allowing for the modeling of both continuous and categorical variables.
+**Summary**: The thesis investigates the application of geostatistical methods, specifically kriging and various conditional simulation techniques (SGS and SIS), to model rock facies and porosity in the Safaniya Member within the Safaniya Field. The study concludes that stochastic simulations provide more realistic, high-resolution models for reservoir characterization compared to traditional estimation methods like ordinary kriging.
 
 ---
 
 ## Research Problem
 
-The Safaniya Member exhibits heterogeneous characteristics due to its complex deltaic depositional environment, posing challenges for 3D geocellular modeling. The study aims to use geostatistics to better characterize the reservoir's spatial continuity and distribution.
+The SFNC sequence within the Safaniya Member exhibits heterogeneous characteristics that present challenges for building accurate 3D geocellular models. Traditional deterministic methods may not adequately capture the spatial variability of properties like porosity in such a complex geological setting.
 
 ## Objectives
 
-- Investigate the role of geostatistics in reservoir modeling
-- Determine the spatial continuity of physical properties (porosity, lithology) using variograms
-- Develop a geostatistically derived model utilizing the spatial continuity of rocks within the reservoir
-- Evaluate non-parametric alternatives like Sequential Indicator Simulation for building geological architecture
-- Evaluate the role of geostatistics in reservoir modeling.
-- Analyze the statistical properties of the SFNC sequence (Top, Base, Thickness).
-- Determine lithofacies based on well log cutoffs.
-- Assess the relationship between porosity, volume of shale (Vsh), and water saturation across different facies.
-- Model spatial continuity using variograms to support geostatistical estimation.
-- Analyze the geological characteristics of the Safaniya Member and the SFNC sequence.
-- Perform variogram analysis to determine the spatial continuity of structural features (top/base) and reservoir properties (porosity, Vsh, Sw).
-- Evaluate the effectiveness of kriging as a estimation technique for porosity distribution.
-- Explore indicator kriging as a non-parametric alternative for modeling categorical data like lithofacies.
 - Investigate the role of geostatistics in reservoir modeling.
-- Analyze the geological characteristics and statistical distribution of the Safaniya Member.
-- Evaluate different geostatistical techniques (Kriging, SGS, SIS) for modeling rock facies and porosity.
-- Demonstrate how simulation-based models can be used as a basis for fluid flow simulations to assess uncertainty in reservoir development.
+- Perform statistical analysis on physical properties (porosity, Vsh) and lithofacies within the SFNC sequence.
+- Model spatial continuity using variograms and indicator variograms.
+- Generate 3D reservoir models using Kriging and Sequential Gaussian Simulation (SGS).
+- Build geological architecture of lithofacies using Sequential Indicator Simulation (SIS).
+- Analyze the statistical distribution of petrophysical properties (porosity, Vsh, Sw) across different lithofacies.
 
 ## Methods
 
-The study utilizes a 45-well dataset from the central part of the Safaniya Field. Data includes well locations, Vsh curves derived from Gamma Ray logs, porosity logs (Neutron, Density, Sonic), and lithofacies determined via log cutoffs. Statistical analysis involves univariate histograms to determine distribution types (normal vs. non-normal) and bivariate scattergrams to identify correlations between variables like porosity and water saturation. Geostatistical modeling includes the calculation of experimental variograms for different directions and the fitting of mathematical models (Spherical, Exponential, Gaussian) to represent spatial continuity.
+The study utilized data from 45 wells in the central part of the Safaniya Field. The SFNC sequence was selected for analysis due to its heterogeneity. Statistical analysis included univariate histograms and distribution calculations for porosity, Vursh, and thickness. Spatial continuity was modeled using variograms (isotropic and vertical) and indicator variograms to account for different lithofacies. Modeling workflows included Kriging for deterministic estimation of porosity, followed by Sequential Gaussian Simulation (SGS) to overcome smoothing effects. Non-parametric Sequential Indicator Simulation (SIS) was used to model the 3D architecture of eight distinct lithofacies.
 
 ## Data and Materials
 
-Data from 45 wells in the central part of the Safaniya Oil Field, Saudi Arabia, were analyzed for the SFNC sequence. Parameters included porosity, volume of shale (Vsh), water saturation (Sw), and lithofacies types.
+Data from 45 wells in the central part of the Safaniya Field; analysis focused on the SFNC sequence within the Safaniya Member; specific facies analyzed include Very Clean Sandstone, Clean Sandstone, Shaly Sandstone, Very Shaly Sandstone, Iron-rich Sandstone (Fe SS), and others.
 
 ## Key Findings
 
-- The Safaniya Member is characterized by clean, medium to coarse grained porous and permeable sandstone, with reservoir quality deteriorating moving upward toward the top of the member. ([[1997-al-qassab|Al-Qassab, 1997, p. 25]])
-- The SFNC sequence was selected for analysis due to its heterogeneous characteristics which present a challenge when building 3D geocellular models. ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
-- Variograms were used as the basic tool for identifying patterns of spatial continuity of variables like porosity and lithology. ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
-- Indicator variograms provided additional flexibility to examine individual classes of the variables under study (lithofacies). ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
-- Sequential Gaussian Simulation was used to overcome the smoothed results of kriged porosity. ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
-- Sequential Indicator Simulation (SIS) was used to build geological architecture of lithofacies based on indicator kriging results. ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
-- The Safaniya Member is subdivided into five units: Lower Safaniya Shale/Silt, Lower Safaniya Stringers, Main Sand, Upper Safaniya Stringer, and Upper Safaniya Shale. ([[1997-al-qassab|Al-Qassab, 1997, p. 29]])
-- The thickness of the SFNC sequence follows a distribution close to normal (Mean=57.39, Std Dev=6.77). ([[1997-al-qassab|Al-Qassab, 1997, p. 47]])
-- Vsh distribution shows at least four distinct classes, including very clean sands and pure shales. ([[1997-al-qassab|Al-Qassab, 1997, p. 48]])
-- Very Clean Sandstone facies show the highest porosity (Mean=0.2874) and are identified as the best reservoir quality rock. ([[1997-al-qassab|Al-Qassab, 1997, p. 54]])
-- Clean Sandstone facies exhibit a porosity range of approximately 18% to 34%. ([[1997-al-qassab|Al-Qassab, 1997, p. 55]])
-- Shaly Sandstone facies show a porosity distribution with a mean of 0.2156. ([[1997-al-qassab|Al-Qassab, 1997, p. 56]])
-- Very Shaly Sandstone facies have a mean porosity of 0.1542. ([[1997-al-qassab|Al-Qassab, 1997, p. 57]])
-- The SFNC Top shows a directional trend with a longer range in the northeast direction (~4000m) compared to the northwest direction (~2000m). ([[1997-al-qassab|Al-Qassab, 1997, p. 79]])
-- SFNC Base variograms show nearly identical ranges to those of the SFNC Top. ([[1997-al-qassab|Al-Qassab, 1997, p. 81]])
+- The SFNC sequence was identified as a challenging target for 3D modeling due to its heterogeneous characteristics. ([[1997-al-qassab|Al-Qassab, 1997, p. 16]])
+- Porosity in the 'Very Clean Sandstone' facies shows a normal distribution with a mean of 0.2874 and standard deviation of 0.0208. ([[1997-al-qassab|Al-Qassab, 1997, p. 54]])
+- The 'Clean Sandstone' facies exhibits porosity ranging from approximately 18% to 34%. ([[1997-al-qassab|Al-Qassab, 1997, p. 53]])
+- Porosity in the 'Shaly Sandstone' facies ranges from about 16% to 28%. ([[1997-al-qassab|Al-Qassab, 1997, p. 53]])
+- The Volume of Shale (Vsh) distribution shows at least four distinct classes, including very clean sands and pure shales. ([[1997-al-qassab|Al-Qassab, 1997, p. 49]])
+- The Main Sand is the most productive portion of the Safaniya Reservoir, consisting of stacked channels and/or mouth bars. ([[1997-al-qassab|Al-Qassab, 1997, p. 32]])
+- The study identified five distinct units within the Safaniya Member: Lower Safaniya Shale/Silt, Lower Safaniya Stringers, Main Sand, Upper Safaniya Stringers, and Upper Safaniya Shale. ([[1997-al-qassab|Al-Qassab, 1997, p. 31]])
+- Porosity distribution of clean sandstone shows a mean of 0.2632 with a standard deviation of 0.0317 (N=485). ([[1997-al-qassab|Al-Qassab, 1997, p. 55]])
+- Very shaly sandstone porosity shows a mean of 0.1542 and a standard deviation of 0.0367 (N=559). ([[1997-al-qassab|Al-Qassab, 1997, p. 57]])
+- Iron rich sandstone porosity has a mean of 0.1279 and a standard deviation of 0.0400 (N=243). ([[1997-al-qassab|Al-Qassab, 1997, p. 59]])
+- Scattergram analysis shows that porosity decreases as the volume of shale increases, with Very Clean Sandstone being the highest quality rock. ([[1997-al-qassab|Al-Qassab, 1997, p. 60]])
+- Water saturation (Sw) decreases as porosity increases in the SFNC oil zone. ([[1997-al-qassab|Al-Qassab, 1997, p. 60]])
+- The horizontal variogram of the SFNC Top shows a range of approximately 4000 meters in the northeast direction and 2000 meters in the northwest direction. ([[1997-al-qassab|Al-Qassab, 1997, p. 80]])
+- Horizontal variograms for porosity show no significant directional trend, with an isotropic variogram showing a range of 1500 meters. ([[1997-al-qassab|Al-Qassab, 1997, p. 82]])
+- The horizontal variogram of shale facies shows a range of approximately 1700 meters. ([[1997-al-qassab|Al-Qassab, 1997, p. 91]])
 
 ## Limitations
 
-The author notes that the 45 wells available may not be sufficient to capture certain directional trends, and the area of interest might not be large enough to capture features of the larger depositional environment.
+The number of wells (45) and the size of the area of interest may not be sufficient to capture large-scale features or certain directional trends in the deposition/structure.
 
 ## Recommendations and Future Work
 
-Not stated in source
+- Use porosity simulation results as an input for fluid flow simulation models.
+- Model directional variograms to capture anisotropic trends within the reservoir.
+- Model variograms with nested structures to better model local variograms within specific reservoir zones.
+- Model facies with probability field indicators to lower the time it takes to build SIS lithology models.
+- Augment the reservoir models by integrating soft (secondary) data such as engineering and seismic data.
 
 ## Related Concepts
 
 - [[kriging]]
 - [[sequential-gaussian-simulation]]
-- [[sequential-indicator-simulation]]
+- [[stochastic-simulation]]
 - [[variogram-analysis]]
+- [[porosity]]
+- [[facies-analysis]]
+- [[geostatistics]]
 - [[safaniya-member]]
 - [[safaniya-field]]
-- [[porosity]]
-- [[lithofacies]]
-- [[geostatistics]]
-- [[reservoir-characterization]]
-- [[well-log-analysis]]
-- [[indicator-kriging]]
+- [[petrophysics]]
+- [[reservoir-modeling]]

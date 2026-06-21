@@ -2,44 +2,44 @@
 type: terminology
 title: "Bromate Formation"
 aliases:
-  - "bromate formation"
+  - "bromate"
 canonical: true
-definition: "The oxidation of bromide ions into bromate (BrO3-) during the ozonation process."
-units: "mg/L or μg/L"
+definition: "An oxyanion of bromine that is a potential carcinogen."
+units: "μg/L"
 related_techniques:
   - "ion-chromatography"
 tags:
-  - theme/water-quality
+  - theme/water-treatment
 sources:
   - "raw/136123 - Fate of Bromate Formation in Water Treated by ozone-based Advanced Oxidation Pro.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Bromate Formation
 
-**Summary**: The chemical process where bromide is oxidized to bromate during ozone treatment.
+**Summary**: The formation of bromate (BrO3-) as a byproduct during the ozonation of bromide-containing water.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2009-zubair|Zubair, 2009]] investigated the mechanisms of bromate formation in water treated with ozone.
+- [[2009-zubair|Zubair, 2009]] studied bromate-formation to ensure compliance with safety standards.
 
 ## Scientific Context
 
-- [[2009-zubair|Zubair, 2009]] Bromate is a regulated and potentially carcinogenic byproduct of ozone treatment in drinking water.
+- [[2009-zubair|Zubair, 2009]] Bromate formation is a major barrier in using ozone for water treatment in regions with high bromide content.
 
 ## Measurement and Characterization Methods
 
-- [[2009-zubair|Zubair, 2009]] Quantified using Ion Chromatography (IC) with conductivity detection.
+- [[2009-zubair|Zubair, 2009]] Analyzed via Ion Chromatography (IC).
 
 ## Key Findings Across Sources
 
-- Bromate formation was found to be influenced by pH levels and ozone dosage. ([[2009-zubair|Zubair, 2009, p. 63]])
+- Bromate is the only disinfection by-product regulated in drinking water, with a limit of 10 μg/L. ([[2009-zubair|Zubair, 2009, p. 25]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

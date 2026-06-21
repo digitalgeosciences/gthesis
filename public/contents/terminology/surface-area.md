@@ -2,44 +2,51 @@
 type: terminology
 title: "Surface Area"
 aliases:
-  - "BET surface area"
+  - "specific surface area"
 canonical: true
-definition: "The specific surface area available for adsorption."
+definition: "The total surface area per unit mass of a material."
 units: "m2/g"
 related_techniques:
-  - "adsorption-experiments"
+  - "bet"
 tags:
   - theme/water-treatment
 sources:
-  - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
+  - "raw/140703 - EVALUATING THE REMOVAL EFFICIENCY OF SEWAGE SLUDGE-DERIVED ACTIVATED CARBON FOR .pdf"
+  - "raw/141368 - WETTABILITY EVALUATION OF ROCKS USING NMR.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-17
 ---
 
 # Surface Area
 
-**Summary**: The total surface area available for adsorption, typically measured by the BET method.
+**Summary**: The total surface area per unit mass or volume of a material.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-danmaliki|Danmaliki, 2015]] analyzed surface area to determine the effectiveness of chemical modifications.
+- [[2018-adeyemi|Adeyemi, 2018]] measured the specific surface area of SDAC using BET analysis.
+
+- [[2019-al-garadi|AL-GARADI, 2019]] used surface relaxation to determine wettibility from T2 measurements.
 
 ## Scientific Context
 
-- [[2015-danmaliki|Danmaliki, 2015]] Larger surface areas provide more sites for the interaction of sulfur compounds.
+- [[2018-adeyemi|Adeyemi, 2018]] Higher surface area typically correlates with higher adsorption capacity.
+
+- [[2019-al-garadi|AL-GARADI, 2019]] used surface relaxation to determine wettibility from T2 measurements.
 
 ## Measurement and Characterization Methods
 
-- [[2015-danmaliki|Danmaliki, 2015]] determined using a BET surface area analyzer.
+- [[2018-adeyemi|Adeyemi, 2018]] determined via BET gas adsorption.
 
 ## Key Findings Across Sources
 
-- AC-HNO3-90°C achieved a surface area of 473.35 m2/g. ([[2015-danmaliki|Danmaliki, 2015, p. 110]])
+- Surface areas for the four samples were 451, 385, 53, and 38 m2/g respectively. ([[2018-adeyemi|Adeyemi, 2018, p. 12]])
+
+
+- At lower wetting fluid saturations, the shift of T2 to shorter times due to surface relaxation is more pronounced. ([[2019-al-garadi|AL-GARADI, 2019, p. 29]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

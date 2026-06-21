@@ -13,97 +13,80 @@ committee_members:
   - "Ahmet U. Dogan"
 source_file: "raw/140048 - Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140048/"
-study_area: "Khashm Al-Qaddiyah outcrop, road cut along the Riyadh-Makkah highway, west of Riyadh, Saudi Arabia"
+study_area: "Khashm Al-Qaddiyah outcrop, Riyadh, Saudi Arabia"
 keywords:
   - Dedolomitization
   - Tuwaiq Mountain Formation
   - Daddiyah member
   - chertification
   - calcitization
+  - diagenesis
   - carbonate
-  - microfabric
-  - petrography
-  - mineralogy
-  - geochemistry
-  - Saudi Arabia
+  - evaporite
 techniques:
-  - polarized-microscope
+  - thin-section-petrography
   - sem-eds
   - icp-oes
   - xrd
-  - automated-porosimeter-permeameter
-  - petrography
-  - mineralogical-analysis
-  - geochemistry
-  - xrf
+  - porosity
+  - permeability
+  - microfacies-analysis
 tags:
   - degree/ms
   - formation/tuwaiq-mountain-formation
   - location/riyadh-area
-  - location/saudi-arabia
-  - technique/xrd
-  - technique/sem-eds
+  - location/central-saudi-area
   - technique/thin-section-petrography
-  - technique/icp-oes
-  - technique/petrography
-  - technique/xrf
+  - technique/sem-eds
+  - technique/xrd
+  - technique/porosity
+  - technique/permeability
+  - technique/microfacies-analysis
   - theme/carbonate-geology
   - theme/diagenesis
-  - terminology/diagenesis
   - terminology/dedolomitization
   - terminology/chertification
+  - terminology/calcitization
+  - terminology/diagenesis
 status: ingested
 ---
 
 # Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia
 
-**Summary**: The thesis investigates two primary diagenetic processes, chertification and calcitization (dedolomitization), in the Jurassic Daddiyah member of the Tuwaiq Mountain Formation. Through petrography and geochemical analysis of samples from the Khashm Al-Qaddiyah outcrop, it identifies the role of former evaporite deposits as the source for calcium during dedolomitization.
+**Summary**: The thesis investigates the diagenetic processes of chertification and calcitization (dedolomitization) in the Jurassic Tuwaiq Mountain Formation (Daddiyah member) near Riyadh. Through petrography, mineralogy, and geochemistry, it identifies evaporite dissolution as the primary driver for dolomite calcitization.
 
 ---
 
 ## Research Problem
 
-The lack of detailed geochemical and mineralogical studies on dedolomitization in the Tuwaiq Mountain Formation, specifically regarding the mechanisms and timing of calcitization versus other diagenetic processes like chertification.
+The study addresses the lack of detailed geochemical and mineralogical data regarding the diagenetic processes—specifically chertification and dolomite calcitization—in the Tuwaiq Mountain Formation, particularly concerning the source of calcium-rich fluids and the timing of these events relative to other diagenetic stages.
 
 ## Objectives
 
-- Determine the distribution of chertification and calcitization
-- Identify the petrography of these processes
-- Determine the cause of the diagenetic processes
-- Determine the timing of the chertification and calcitization processes
 - To report the distribution of dedolomites in Tuwaiq Mountain Formation.
 - To describe the dedolomites' petrographic characteristics.
 - To discuss the timing of dedolomitization relative to other diagenetic processes.
 - To suggest the source of the calcium-rich solution necessary for the dedolomitization reaction.
-- Determine the distribution, petrography, cause, and timing of chertification and calcitization diagenetic processes.
-- Identify the source of calcium for the dedolomitization process.
-- Characterize the relationship between mineral textures and porosity in the formation.
 
 ## Methods
 
-Field work involved four trips to log sections and collect 70 samples (carbonates and cherts) from a road cut. Laboratory analysis included thin-section petrography using an Olympus EX51 polarized microscope (68 samples), SEM-EDS on gold-coated chips (25 samples) to determine crystal habit and mineralogy, ICP-OES on powdered bulk samples (15 samples) for trace element analysis, XRD using a Rigaku Ultima IV to identify mineral content (25 samples), and Automated Porosimeter-Permeameter (AP-608) to measure porosity and permeability of 25 core plugs.
+The study involved field sampling of 70 carbonate and chert samples from a roadcut at Khashm Al-Qaddiyah. Laboratory analysis included thin-section petrography (using an Olympus EX51) to identify textures and minerals, SEM-EDS (JEOL 6610 LV) for mineral chemistry and morphology, XRD (Rigaku Ultima IV) for mineral quantification, ICP-OES (SPECTRO CIROS VISION) for trace element analysis, and automated porosity/permeability measurements using an AP-608.
 
 ## Data and Materials
 
-70 total samples collected from the Khashm Al-Qaddiyah road cut; 68 thin sections for petrography; 25 samples for SEM-EDS; 15 powdered samples for ICP-OES; 25 samples for XRD; 25 core plugs for porosity/permeability measurements.
+70 samples were collected from the Khashm Al-Qaddiyah outcrop; 68 were analyzed via thin-section petrography, 25 by SEM-EDS, 25 by XRD, and 15 by ICP-OES. Porosity and permeability were measured on 25 core plugs.
 
 ## Key Findings
 
-- Chertification affected only the upper third of the Daddiyah member, while dolomite calcitization affects the entire member and part of the underlying member. ([[2016-radwan|Radwan, 2016, p. 14]])
-- The source of silica for the microcrystalline quartz in cherts is biogenic, evidenced by an abundance of sponge spicules. ([[2016-radwan|Radwan, 2016, p. 14]])
-- Vanished evaporites are identified as the driving force for dolomite calcitization, indicated by carbonate pseudomorphs after lenticular gypsum and evaporite relicts within cherts. ([[2016-radwan|Radwan, 2016, p. 14]])
-- XRD analysis of sample #02 and #12 showed 100% calcite content. ([[2016-radwan|Radwan, 2016, p. 52]])
-- XRD analysis of sample #08 showed 95.7% calcite and 4.3% quartz; sample #48 showed 83.7% calcite and 16.3% quartz. ([[2016-radwan|Radwan, 2016, p. 53]])
-- Dolomite concentration increases with depth, with sample #54 showing 98.9% calcite and 1.06% dolomite, while sample #58 showed 91.1% calcite and 8.9% dolomite. ([[2016-radwan|Radwan, 2016, p. 54]])
-- XRD analysis confirmed that quartz is the only silica phase present in all chert samples (samples #67, #68, and #69). ([[2016-radwan|Radwan, 2016, p. 55]])
-- The Tuwaiq Mountain Formation in the study area has a thickness of approximately 180 m, with the upper part being thicker than the middle and lower parts. ([[2016-radwan|Radwan, 2016, p. 45]])
-- Most carbonate samples are monomineralic (pure calcite), but quartz content increases in two horizons: around chert nodules in the upper part and in dark grey layers in the middle part. ([[2016-radwan|Radwan, 2016, p. 66]])
-- Dolomite concentration increases with depth, ranging from 1.06% to 8.9% in the lower sections. ([[2016-radwan|Radwan, 2016, p. 69]])
-- Porosity ranges from 10-12% in the middle and lower part, while it ranges from 5-20% in the upper part. ([[2016-radwan|Radwan, 2016, p. 67]])
-- Permeability values range from 0.04-0.3 mD in the middle and lower parts, while they range from 0.03-9 mD in the upper part. ([[2016-radwan|Radwan, 2016, p. 67]])
-- Two diagenetic processes—chertification and calcitization—distinguish the Jurassic (late Callovian) upper Tuwaiq Mountain Formation (Daddiyah member). ([[2016-radwan|Radwan, 2016, p. 68]])
-- Chertification is of organic origin, evidenced by the abundance of sponge spicules in both the cherts and the surrounding carbonate. ([[2016-radwan|Radwan, 2016, p. 73]])
-- Dedolomitization is absent in the lowermost part of the formation (characterized by high dolomite concentration and lack of calcite geodes), indicating a zone of no filtration for dedolomitizing fluids. ([[2016-radwan|Radwan, 2016, p. 74]])
+- Chertification affected the upper third of the Daddiyah member (T3), while dolomite calcitization affects both the Daddiyah and parts of the underlying member. ([[2016-radwan|Radwan, 2016, p. 14]])
+- The source of silica for microcrystalline quartz in cherts is biogenic, evidenced by an abundance of sponge spicules. ([[2016-radwan|Radwan, 2016, p. 14]])
+- Vanished evaporite (indicated by carbonate pseudomorphs after lenticular gypsum and relicts within chert) is the driving force for dolomite calcitization. ([[2016-radwan|Radwan, 2016, p. 14]])
+- XRD analysis confirmed that quartz is the only silica phase present in all chert samples. ([[2016-radwan|Radwan, 2016, p. 70]])
+- Dolomite concentration increases with depth, from low concentrations in the upper parts to higher concentrations in the lower sections (e.g., Sample 58: 8.9% dolomite). ([[2016-radwan|Radwan, 2016, p. 69]])
+- Porosity ranges from 10-12% in the middle and lower parts, while it varies from 5-20% in the upper part. ([[2016-radwan|Radwan, 2016, p. 67]])
+- Permeability values range from 0.04-0.3 mD in the middle/lower sections and 0.03-9 mD in the upper section. ([[2016-radwan|Radwan, 2016, p. 67]])
+- Trace element analysis showed a significant increase in iron, potassium, and aluminum in sample 48 (dark grey bed). ([[2016-radwan|Radwan, 2016, p. 71]])
+- The paragenetic sequence is: 1) evaporite precipitation, 2) dolomitization, 3) chertification, 4) evaporite dissolution, 5) Dolomite calcitization. ([[2016-radwan|Radwan, 2016, p. 81]])
 
 ## Limitations
 
@@ -112,20 +95,20 @@ Not stated in source
 ## Recommendations and Future Work
 
 - Microsampling for cement would have given more indicative results about the diagenetic environment.
-- Analysis of Insoluble residues should be performed on samples with minute amounts of unidentified authigenic minerals.
+- Analysis of Insoluble residues should be performed on samples with minute amounts of unidentified authigenetic minerals.
 - The δ18O composition of the silica should be checked to confirm if the silica replacing carbonates is distinct from that replacing evaporite.
 
 ## Related Concepts
 
+- [[thin-section-petrography]]
 - [[xrd]]
 - [[sem-eds]]
-- [[thin-section-petrography]]
-- [[tuwaiq-mountain-formation]]
-- [[riyadh-area]]
-- [[diagenesis]]
-- [[carbonate-geology]]
-- [[icp-oes]]
+- [[porosity]]
+- [[core-analysis]]
 - [[dedolomitization]]
 - [[chertification]]
-- [[petrography]]
-- [[xrf]]
+- [[calcitization]]
+- [[diagenesis]]
+- [[tuwaiq-mountain-formation]]
+- [[riyadh-area]]
+- [[carbonate-geology]]

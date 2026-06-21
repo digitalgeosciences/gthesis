@@ -2,45 +2,51 @@
 type: terminology
 title: "Chelation"
 aliases:
-  - "chelating effect"
-  - "water-softening"
+  - "chelating agents"
 canonical: true
-definition: "The formation of a complex between a metal ion and a chelating agent."
+definition: "The formation of a stable complex between a metal ion and a chelating agent."
 units: "not applicable"
 related_techniques:
-  - "viscosity-measurement"
+  - "chelation"
 tags:
-  - theme/water-resources-management
+  - theme/water-treatment
 sources:
-  - "raw/141933 - TOWARDS WATER SUSTAINABILITY UTILIZING OILFIELD PRODUCED WATER IN FORMULATING OI.pdf"
+  - "raw/142047 - Iron Sulfide Scale Inhibition in Water Injection Wells.pdf"
+  - "raw/142824 - Optimizing Non-Freshwater Fracturing Fluid Rheology Utilizing Chelating Agents.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-18
 ---
 
 # Chelation
 
-**Summary**: The process by which chelating agents bind to metal ions, such as Calcium and Magnesium, to reduce their impact on polymer hydration.
+**Summary**: The process of forming a complex with a metal ion.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-alkhowaildi|Alkhowaildi, 2021]] evaluated the chelation effect of GLDA to mitigate the negative impacts of high TDS in produced water.
+- [[2021-gasimli|Gasimli, 2021]] used ferric chelation to determine the adsorption capabilities of aminocarboxylic acids.
+
+- [[2023-othman|Othman, 2023]] evaluated chelation to sequester divalent ions in seawater-based fluids.
 
 ## Scientific Context
 
-- [[2021-alkhowaildi|Alkhowaildi, 2021]] Chelation is critical in produced water treatment to allow polymers to hydrate effectively despite high mineral content.
+- [[2021-gasimli|Gasimli, 2021]] Used to evaluate the effectiveness of inhibitors in preventing iron precipitation.
+
+- [[2023-othman|Othman, 2023]] evaluated chelation to sequester divalent ions in seawater-based fluids.
 
 ## Measurement and Characterization Methods
 
-- [[2021-alkhowaildi|Alkhowaildi, 2021]] Measured by comparing the viscosity of polymer solutions in deionized water versus produced water with and without GLDA.
+- [[2021-gasimli|Gasimli, 2021]] Ferric chelation experiments
 
 ## Key Findings Across Sources
 
-- 4 wt. % GLDA was sufficient to chelate divalent ions up to 10,000 ppm Ca++, allowing for stable viscosity even in high-hardness water. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 52]])
+- 20 wt% EDTA showed very close inhibition efficiency at ambient temperature conditions compared to other concentrations. ([[2021-gasimli|Gasimli, 2021, p. 147]])
+
+
+- Chelating agents like GLDA were found to be stable at temperatures up to 300°F. ([[2023-othman|Othman, 2023, p. 56]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

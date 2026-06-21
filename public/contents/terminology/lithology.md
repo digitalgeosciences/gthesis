@@ -2,68 +2,75 @@
 type: terminology
 title: "Lithology"
 aliases:
-  - "rock type"
   - "fractional lithology"
 canonical: true
-definition: "The description of the physical characteristics of a rock."
-units: "not applicable"
+definition: "The lithological composition and mineralogy of the rock."
+units: "dimensionless (index 1-3)"
 related_techniques:
   - "well-log-analysis"
-  - "seismic-inversion"
+  - "multi-attribute-analysis"
 tags:
+  - terminology/lithology
   - theme/petrophysics
 sources:
   - "raw/139588 - LOG POROSITY AND LITHOLOGY PREDICTION FROM SEISMIC DATA FRONTIER AND TENSLEEP FO.pdf"
   - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
-  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
-  - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
+  - "raw/141911 - Development of Oil-Well Cement Formulations for CO2-Rich Environment Relevant to.pdf"
+  - "raw/142192 - Efficient 3D Wormhole Modeling Utilizing a Fully Coupled Reactive Transport Mode.pdf"
+  - "raw/143311 - Self-Supervised Deep Learning For Geoscientific Image Analysis.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Lithology
 
-**Summary**: The physical character of a rock or rock unit.
+**Summary**: The physical character of the rock, such as its mineral composition.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-fuad|Fuad, 2015]] determined lithology using multi-attribute analysis and RBF neural networks.
+- [[2015-fuad|Fuad, 2015]] defined a fractional lithology index to represent mixtures of sandstone, limestone, and dolomite.
 
-- [[2020-abdallah|Abdallah, 2020]] classified lithology to identify favorable reservoir types for CO2 storage.
+- [[2020-abdallah|Abdallah, 2020]] classified lithology to identify favorable rock types for CO2 storage.
 
-- [[2023-iskandar|Iskandar, 2023]] characterized the lithology of the xenoliths.
+- [[2020-mahmoud|Mahmoud, 2020]] analyzed the lithology of cement products like CSH and Portlandite.
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] not used
+- [[2022-aboluhom|Aboluhom, 2022]] analyzed the impact of lithology on wormhole growth and acid consumption.
+
+- [[2025-ferreira|Ferreira, 2025]] used the LithoFacies dataset to classify core images into six lithological classes.
 
 ## Scientific Context
 
-- [[2015-fuad|Fuad, 2015]] Essential for understanding reservoir heterogeneity and flow properties.
+- [[2015-fuad|Fuad, 2015]] Determines the reservoir's geological character and flow properties.
 
-- [[2020-abdallah|Abdallah, 2020]] classified lithology to identify favorable reservoir types for CO2 storage.
+- [[2020-abdallah|Abdallah, 2020]] classified lithology to identify favorable rock types for CO2 storage.
 
-- [[2023-iskandar|Iskandar, 2023]] characterized the lithology of the xenoliths.
+- [[2020-mahmoud|Mahmoud, 2020]] analyzed the lithology of cement products like CSH and Portlandite.
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] not used
+- [[2022-aboluhom|Aboluhom, 2022]] analyzed the impact of lithology on wormhole growth and acid consumption.
+
+- [[2025-ferreira|Ferreira, 2025]] used the LithoFacies dataset to classify core images into six lithological classes.
 
 ## Measurement and Characterization Methods
 
-- [[2015-fuad|Fuad, 2015]] determined via lithology identification from well logs.
+- [[2015-fuad|Fuad, 2015]] Assigned values of 1, 2, and 3 for pure sandstone, limestone, and dolomite.
 
 ## Key Findings Across Sources
 
-- Lithology was quantified as fractional components (sand, lime, dolomite). ([[2015-fuad|Fuad, 2015, p. 98]])
+- Lithology prediction using RBF networks showed better resolution of thin layers than acoustic impedance inversion. ([[2015-fuad|Fuad, 2015, p. 104]])
 
-- A classification accuracy of 61.8% was achieved using a two-layer feed-forward network. ([[2020-abdallah|Abdallah, 2020, p. 81]])
 
-- Lithologies include lherzolites, harzburgites, and wehrlites. ([[2023-iskandar|Iskandar, 2023, p. 36]])
+- Dolomite (Class 2) showed higher true positive rates in the classification model compared to other classes. ([[2020-abdallah|Abdallah, 2020, p. 95]])
 
-- Not stated in source. ([[2025-kesumastuti|Kesumastuti, 2025]])
+- XRD confirmed that adding laponite and graphite reduced the amount of portlandite (CH) in the cement matrix. ([[2020-mahmoud|Mahmoud, 2020, p. 79]])
+
+- Dolomite-rich zones showed more pore enlargement rather than distinct wormholes at low temperatures. ([[2022-aboluhom|Aboluhom, 2022, p. 80]])
+
+- Lithofacies are categorized into Argillaceous Sandstone, Limestone, etc. ([[2025-ferreira|Ferreira, 2025, p. 42]])
 
 ## Contrasting Values and Interpretations
 
-- [[2015-fuad|Fuad, 2015]] Not specified in units.
 
 ## Open Questions and Research Gaps
 

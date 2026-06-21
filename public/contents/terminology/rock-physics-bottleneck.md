@@ -2,45 +2,44 @@
 type: terminology
 title: "Rock Physics Bottleneck"
 aliases:
-  - "Mavko's bottleneck"
+  - ""
 canonical: true
-definition: "More rock properties to be revealed than independent seismic attributes exist."
+definition: "A situation where available measurable properties are fewer than the parameters they depend upon."
 units: "not applicable"
 related_techniques:
-  - "rock-physics-model"
-  - "seismic-interpretation"
+  - "rock-physics-modeling"
 tags:
   - theme/petrophysics
 sources:
   - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Rock Physics Bottleneck
 
-**Summary**: The problem where the number of petrophysical properties to be determined exceeds the number of independent seismic attributes available.
+**Summary**: The problem where a limited number of elastic properties (Ip, Is) are insufficient to uniquely determine multiple petrophysical variables.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-alabbad|Alabbad, 2024]] addressed the rock-physics-bottleneck by adding extra equations to solve underdetermined systems.
+- [[2024-alabbad|Alabbad, 2024]] addressed the rock-physics-bottleneck by incorporating site-specific geological constraints into the interpretation workflow.
 
 ## Scientific Context
 
-- [[2024-alabbad|Alabbad, 2024]] It is the primary hurdle in deterministic quantitative seismic interpretation.
+- [[2024-alabbad|Alabbad, 2024]] It is a fundamental challenge in seismic interpretation that requires deterministic or stochastic solutions to resolve multiple variables from limited data.
 
 ## Measurement and Characterization Methods
 
-- [[2024-alabbad|Alabbad, 2024]] Identified as a gap between available data and required outputs.
+- [[2024-alabbad|Alabbad, 2024]] Identified through the comparison of available elastic parameters vs. required petrophysical inputs.
 
 ## Key Findings Across Sources
 
-- The bottleneck is the primary reason why most seismic interpretation methods have been statistical rather than deterministic. ([[2024-alabbad|Alabbad, 2024, p. 27]])
+- The bottleneck is overcome by using additional equations derived from local geology to reduce the number of unknown variables. ([[2024-alabbad|Alabbad, 2024, p. 96]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

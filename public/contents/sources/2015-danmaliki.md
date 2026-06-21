@@ -14,164 +14,141 @@ source_file: "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon 
 url: "https://eprints.kfupm.edu.sa/id/eprint/139613/"
 study_area: "Not stated in source"
 keywords:
-  - waste rubber tires
+  - waste tires
   - activated carbon
-  - desulfurization
   - nanoparticles
-  - thiol-complexation
-  - sorption kinetics
-  - adsorption isotherms
-  - adsorptive desulfurization
+  - desulfurization
   - thiophene
   - benzothiophene
   - dibenzothiophene
-  - waste tires
-  - adsorptive evaluation
-  - Ni
-  - Ce
-  - Fe
-  - adsorption
-  - HNO3 treatment
-  - NaOH treatment
-  - thiol removal
-  - surface area
-  - porosity
+  - thiol-compounds
+  - sorption capacity
+  - True
   - refractory sulfur compounds
+  - sorption kinetics
+  - adsorption isotherms
   - nickel
   - cerium
   - iron
 techniques:
   - bet-surface-area-analyzer
-  - xrd
-  - sem-eds
-  - ftir
-  - tga
-  - gc-scd
-  - minitab
   - surface-ph
   - boehms-titration-experiment
-  - ph-measurement
-  - boehms-titration
-  - rock-eval-pyrolysis
-  - sol-gel-method
-  - hydrothermal-synthesis
-  - chemical-vapor-synthesis
-  - microwave-synthesis
-  - ball-milling
-  - intercalation
-  - direct-dispersion
-  - molecular-composite-formation
-  - dft-density-functional-theory
-  - edx
   - ft-ir
+  - xrd
+  - sem-eds
+  - spectrophotometers
+  - bet
+  - ftir
+  - tga
+  - boehms-titration
+  - ph-measurement
+  - gc-scd
+  - batch-adsorption
+  - fixed-bed-adsorption
+  - minitab
+  - fixed-bed
+  - thermal-regeneration
 tags:
   - degree/ms
-  - location/saudi-arabia
+  - technique/bet
+  - technique/ftir
   - technique/xrd
   - technique/sem-eds
-  - technique/ftir
+  - technique/adsorption-experiments
   - technique/tga
-  - technique/gc-ms
-  - technique/adsorption-experimentss
-  - technique/uv-vis-spectroscopy
+  - technique/boehmmethod
+  - technique/phmeasurement
+  - technique/gas-chromatography
+  - technique/batch-adsorption
+  - technique/fixedbedadsorption
+  - technique/gc-scd
+  - technique/minitab
+  - technique/thermal-treatment
+  - theme/nanotechnology
   - theme/environmental-geoscience
   - theme/water-treatment
-  - theme/nanotechnology
+  - theme/environmental-risk-assessment
   - terminology/adsorption
   - terminology/desulfurization
-  - terminology/nanotechnology
   - terminology/porosity
-  - terminology/surface-area
-  - terminology/refractory-sulfur-compounds
+  - terminology/physisorption
+  - terminology/sorption-kinetics
+  - terminology/adsorption-isotherms
 status: ingested
 ---
 
 # Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires
 
-**Summary**: The thesis investigates the production of activated carbon (AC) from waste rubber tires and its subsequent modification with metal nanoparticles (Ni, Ce, Fe) for the purpose of desulfurization. The study evaluates the effectiveness of these materials in removing sulfur compounds like thiophene, benzothiophene (BT), and dibenzothiophene (DBT) through various chemical treatments and loading processes.
+**Summary**: The thesis investigates the preparation of activated carbon (AC) from waste rubber tires and its subsequent treatment with NaOH and HNO3 to enhance active sites. The resulting AC was used as a support for loading Ni, Ce, and Fe nanoparticles to evaluate their effectiveness in the adsorptive desulfurization of thiophene, benzothiophene, and dibenzothiophene.
 
 ---
 
 ## Research Problem
 
-The disposal of waste tires poses a significant environmental issue, while the removal of sulfur compounds from crude oil/fuels is necessary to meet environmental regulations. The study addresses these by creating an adsorbent from waste tires that can be enhanced with metal nanoparticles for improved desulfurization performance.
+The disposal of waste tires poses a significant environmental issue. Additionally, the removal of organosulfur compounds from fuels is necessary to protect catalytic converters; however, traditional methods like hydrodesulfurization (HDS) are energy-intensive. There is a need for efficient, low-cost adsorbent materials derived from waste products.
 
 ## Objectives
 
 - Prepare activated carbon (AC) from waste rubber tires.
-- Treat the AC with NaOH and HNO3 to enhance active sites.
-- Load the synthesized AC with Ni, Ce, and Fe nanoparticles individually and in combination.
-- Characterize raw, treated, and loaded carbon samples using various analytical techniques.
-- Evaluate the adsorption performance of these materials for sulfur compound removal.
-- Use synthesized AC as a support for loading Ni, Ce, and Fe nanoparticles in both individual and combined forms.
-- Evaluate the efficiency of these materials in adsorptive desulfurization of thiophene (T), benzothiophene (BT), and dibenzothiophene (DBT).
-- Investigate the regeneration abilities of the synthesized adsorbents.
-- Treat the synthesized AC with NaOH and HNO3 to enhance active sites.
-- Use the treated AC as a support for loading Ni, Ce, and Fe nanoparticles in both individual and combined forms.
-- Synthesize and load Ni, Ce, and Fe nanoparticles onto the prepared AC as individual metals or in combination.
-- Treat the synthesized AC with NaOH and HNO3 to enhance active sites, surface area, and porosity.
-- Evaluate the adsorption performance of modified carbons for thiophene, benzothiophene (BT), and dibenzothiophene (DBT).
-- Synthesize Ni, Ce, and Fe nanoparticles on the prepared AC as support material.
-- Evaluate the adsorption performance of these materials in both batch and fixed-bed modes.
-- Synthesize metal-loaded adsorbents (Ni, Ce, Fe, and combinations).
-- Evaluate the desulfurization efficiency of the prepared materials for thiophene, BT, and DBT.
-- Treat synthesized AC with NaOH and HNO3 to enhance surface area and porosity.
-- Load Ni, Ce, and Fe nanoparticles onto the AC alone or in combination.
-- Evaluate the adsorptive ability of these materials for removing refractory sulfur compounds (T, BT, DBT).
-- Synthesize nanoparticles of Ni, Ce, and Fe on the prepared carbon support.
-- Evaluate the adsorptive performance of raw, treated, and loaded carbon samples.
+- Treat the AC with NaOH and HNO3 for enhancement of active sites.
+- Use synthesized AC as a support for loading Ni, Ce, and Fe nanoparticles in various combinations.
+- Characterize raw, treated, and loaded carbon samples using BET surface area analysis, surface pH, Boehm's titration, FT-IR, XRD, and SEM/EDX.
+- Evaluate the efficiency of these materials in adsorptive desulfurization (ADS) of thiophene, benzothiophene, and dibenzothiophene.
+- To set a design-of-experiment for preparing porous carbon (PC) from WRTs.
 
 ## Methods
 
-The process involved converting waste rubber tires (WRTs) into porous carbon through pyrolysis. The resulting activated carbon was then chemically treated with NaOH or HNO3 at varying temperatures and durations to improve surface properties. Metal nanoparticles (Ni, Ce, Fe) were loaded onto the AC in specific weight percentages (e.g., 5%, 10%, 30%). Characterization included BET surface area analysis, XRD for mineral/phase identification, SEM-EDS for morphology and elemental mapping, FT-IR for functional group identification, and TGA for thermal stability. Adsorption experiments were conducted in both batch mode and fixed-bed systems to evaluate the removal of thiophene, BT, and DBT. Gas chromatography with a sulfur chemiluminescence detector (GC-SCD) was used to quantify sulfur content.
+Activated carbon (AC) was produced from waste rubber tires (WRTs) via pyrolysis at temperatures up to 550°C, followed by chemical activation using HNO3 and NaOH. Metal nanoparticles (Ni, Ce, Fe) were loaded onto the AC using a sol-gel method involving precursors like Nickel Acetate, Cerium Nitrate, and Ferric Nitrate in an ethanol/water solvent system with ethylene glycol as a complexing agent. Characterization included BET surface area analysis, XRD for crystal structure, SEM-EDX for morphology and elemental composition, TGA for thermal stability, FT-IR for functional group identification, and Boehm's titration to quantify acidic/basic sites. Adsorption experiments were conducted in both batch mode (stirred tanks) and fixed-bed systems (columns). Sulfur concentration was monitored using Gas Chromatography coupled with a Sulfur Chemiluminescence Detector (GC-SCD).
 
 ## Data and Materials
 
-The study utilized waste rubber tires as the primary feedstock for carbon production. Samples included raw AC, acid-treated (HNO3), base-treated (NaOH), and metal-loaded samples (Ni, Ce, Fe, NiO/Ce, CeO2/Fe, FeO/Ni). Adsorption tests were performed on thiophene, benzothiophene (BT), and dibenzothiophene (DBT) with initial concentrations of 50 ppm each.
+Samples included waste rubber tires (WRTs), various acids/bases (HNO3, NaOH), metal precursors (Ni, Ce, Fe), and model diesel fuel containing thiophene, BT, and DBT. Characterization involved multiple samples of AC treated at different temperatures (30-90°C) and with varying metal loading percentages.
 
 ## Key Findings
 
-- Pyrolysis temperature significantly affected the yield of carbon black, liquid hydrocarbons, and gases from waste rubber tires. ([[2015-danmaliki|Danmaliki, 2015, p. 73]])
-- Activation temperature enhanced the surface porosity of activated carbon derived from used tires. ([[2015-danmaliki|Danmaliki, 2015, p. 76]])
-- Acid treatment (HNO3) at 90°C and base treatment (NaOH) at 60°C were evaluated for their impact on surface area and pore volume. ([[2015-danmaliki|Danmaliki, 2015, p. 89]])
-- The study compared the desulfurization abilities of coal-based AC versus AC synthesized from waste rubber tires (WRTs). ([[2015-danmaliki|Danmaliki, 2015, p. 119]])
-- Metal loading (Ni, Ce, Fe) on the carbon matrix was shown to enhance the adsorption capacity for sulfur compounds. ([[2015-danmaliki|Danmaliki, 2015, p. 123]])
-- The removal of DBT using AC-HNO3-90°C showed significant improvement when compared to standard activated carbons. ([[2015-danmaliki|Danmaliki, 2015, p. 106]])
-- Adsorption kinetics for thiophene, BT, and DBT followed both pseudo-first-order and pseudo-second-order models. ([[2015-danmaliki|Danmaliki, 2015, p. 111]])
-- The study utilized a Design of Experiment (DOE) approach to optimize the removal of DBT using Minitab software. ([[2015-danmaliki|Danmaliki, 2015, p. 102]])
-- The optimum carbonization temperature and time for producing high-yield carbon black were 500°C for 5 hours. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
-- The optimum activation temperature for enhancing porosity was 900°C. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
-- AC treated with HNO3 yielded carbons with higher surface area and better adsorptive properties compared to other treatments. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+- The optimum carbonization temperature and time for the production of better yield carbon black were 500°C for 5 h. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+- The optimum activation temperature for enhancement of porosity was 900°C. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+- AC treated with HNO3 yielded carbons with higher surface area and better adsorptive properties. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
 - The amount of refractory sulfur compounds adsorbed followed the order DBT > BT > T. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
-- Synthesized AC loaded with metals showed significant improvement in the adsorption of refractory sulfur compounds. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
-- Nickel-loaded carbon (AC/Ni) and cerium combined with iron on carbon (AC/CeO2/Fe) showed the best performance for desulfurization. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
-- The concentration of sulfur compounds tested was 50 ppm each for thiophene, BT, and DBT. ([[2015-danmaliki|Danmaliki, 2015, p. 146]])
+- Synthesized AC loaded with metals showed significant improvement in the adsorption of the refractory sulfur compounds. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+- Nickel loaded on AC (AC/Ni) and cerium in combination with iron loaded on AC (AC/CeO2/Fe) showed the best performance. ([[2015-danmaliki|Danmaliki, 2015, p. 19]])
+- Pyrolysis of WRTs at 500°C was identified as the optimum temperature for producing carbon black, yielding 51% carbon, 28% liquid hydrocarbons, and 21% gases. ([[2015-danmaliki|Danmaliki, 2015, p. 73]])
+- Activation of AC at 900°C resulted in a 27.20% recovery rate, which was considered the best for enhancing surface area and porosity. ([[2015-danmaliki|Danmaliki, 2015, p. 76]])
+- Treatment with HNO3 significantly increased acidity on the surface; for example, at 90°C, the pH dropped from 4.92 (raw) to 3.09, indicating a reduction in basic groups and addition of acidic functional groups. ([[2015-danmaliki|Danmaliki, 2015, p. 79]])
+- Treatment with NaOH increased surface basicity; at 90°C, the pH rose from 4.92 to 10.69. ([[2015-danmaliki|Danmaliki, 2015, p. 79]])
+- The study confirmed that higher pyrolysis temperatures above 500°C lead to stronger thermal pyrolysis, reducing the yield of liquid hydrocarbons and gases. ([[2015-danmaliki|Danmaliki, 2015, p. 73]])
+- A reduction in sulfur content from 150 ppmw was achieved using various AC-based adsorbents in batch systems. ([[2015-danmaliki|Danmaliki, 2015, p. 64]])
+- Treatment with HNO3 at 90°C produced the highest surface area (473.35 m2/g) and pore volume (0.76 cm3/g) among all samples. ([[2015-danmaliki|Danmaliki, 2015, p. 110]])
+- The AC-HNO3-90°C sample showed the highest concentration of acidic functional groups (2.39 mmol/g) and lowest basic groups (1.33 mmol/g). ([[2015-danmaliki|Danmaliki, 2015, p. 101]])
+- SEM/EDX confirmed that acid treatment removed impurities like sulfur from the raw AC, while base treatment left some sodium on the surface. ([[2015-danmaliki|Danmaliki, 2015, p. 105]])
 
 ## Limitations
 
-The availability of appropriate starting material is a major limitation of chemical vapor synthesis. Solvent removal limits the application of the solution-evaporation method in many industries.
+Not stated in source
 
 ## Recommendations and Future Work
 
-- Focus on treatment methods for enhancing surface area and acidic functional groups.
-- Test other metals/metal oxides (Co, Cu, Zn) as loading agents.
-- Test the adsorbent on real crude oil samples to evaluate its potential to replace commercial AC.
-- Test the adsorbent on a wider range of environmental pollutants.
+Future research should focus on different treatment methods to enhance surface area, test other metals like cobalt, copper, and zinc, and evaluate the adsorbent using real crude oil samples instead of model compounds.
 
 ## Related Concepts
 
-- [[xrd]]
+- [[bet]]
 - [[sem-eds]]
-- [[ftir]]
-- [[tga]]
-- [[gc-ms]]
 - [[adsorption-experiments]]
 - [[adsorption]]
 - [[desulfurization]]
-- [[nanotechnology]]
 - [[water-treatment]]
+- [[nanotechnology]]
 - [[environmental-geoscience]]
+- [[xrd]]
+- [[ftir]]
+- [[tga]]
+- [[boehmmethod]]
+- [[gas-chromatography]]
 - [[porosity]]
-- [[surface-area]]
-- [[saudi-arabia]]
-- [[refractory-sulfur-compounds]]
+- [[gc-scd]]
+- [[minitab]]
+- [[physisorption]]
+- [[sorption-kinetics]]
+- [[adsorption-isotherms]]

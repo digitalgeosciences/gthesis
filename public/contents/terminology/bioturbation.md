@@ -1,68 +1,72 @@
 ---
 type: terminology
 title: "Bioturbation"
-aliases:
-  - "burrowing"
+aliases: []
 canonical: true
-definition: "The reworking of sediments by organisms."
+definition: "Biological reworking of sediment."
 units: "not applicable"
 related_techniques:
-  - "core-analysis"
-  - "microfacies-analysis"
+  - "petrography"
 tags:
-  - theme/carbonate-geology
   - theme/sedimentology
 sources:
-  - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/142182 - Evaluating Factors Controlling Sonic Velocity in Carbonate Factories.pdf"
   - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
   - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
   - "raw/143249 - Spatial variations in the pore system of the burrow fillings and their impact on.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Bioturbation
 
-**Summary**: The reworking of soils and sediments by animals or other organisms.
+**Summary**: The reworking of sediment by living organisms.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-syahputra|Syahputra, 2022]] studied the impact of bioturbation on reservoir quality in the Hanifa Formation.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] analyzed the role of bioturbation in creating flow conduits and barriers.
 
-- [[2024-saraih|Saraih, 2024]] analyzed the impact of bioturbation on fluid flow and storage capacity.
+- [[2022-salih|Salih, 2022]] studied the impact of bioturbation on porosity, permeability, and acoustic velocity in carbonate rocks.
 
-- [[2024-allehyani|allehyani, 2024]] studied the impact of bioturbation on rock elastic properties and seismic signatures.
+- [[2024-saraih|Saraih, 2024]] investigated the impact of bioturbation on fracture development and flow capacity.
 
-- [[2025-refaat|Refaat, 2025]] analyzed the impact of bioturbation on reservoir quality in carbonate systems.
+- [[2024-allehyani|allehyani, 2024]] studied the impact of bioturbation on carbonate rock properties.
+
+- [[2025-refaat|Refaat, 2025]] studied the effects of bioturbation on reservoir quality in the Hanifa Formation.
 
 ## Scientific Context
 
-- [[2022-syahputra|Syahputra, 2022]] Bioturbation can create significant permeability contrasts in carbonate reservoirs.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Significantly impacts permeability in low-permeability rocks.
 
-- [[2024-saraih|Saraih, 2024]] analyzed the impact of bioturbation on fluid flow and storage capacity.
+- [[2022-salih|Salih, 2022]] studied the impact of bioturbation on porosity, permeability, and acoustic velocity in carbonate rocks.
 
-- [[2024-allehyani|allehyani, 2024]] studied the impact of bioturbation on rock elastic properties and seismic signatures.
+- [[2024-saraih|Saraih, 2024]] investigated the impact of bioturbation on fracture development and flow capacity.
 
-- [[2025-refaat|Refaat, 2025]] analyzed the impact of bioturbation on reservoir quality in carbonate systems.
+- [[2024-allehyani|allehyani, 2024]] studied the impact of bioturbation on carbonate rock properties.
+
+- [[2025-refaat|Refaat, 2025]] studied the effects of bioturbation on reservoir quality in the Hanifa Formation.
 
 ## Measurement and Characterization Methods
 
-- [[2022-syahputra|Syahputra, 2022]] Analysis of burrow types and their impact on rock fabric.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Quantified using the Bioturbation Index (B.I.).
 
 ## Key Findings Across Sources
 
-- Two types of burrowing styles (bioretexturing and pipe building) modified the rock fabric differently. ([[2022-syahputra|Syahputra, 2022, p. 81]])
+- Bioturbated facies (F7) showed higher anisotropy due to vertical and horizontal burrows acting as conduits. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 68]])
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] B.I. values from 0 to 5.
 
-- Large burrows (Thalassinoides) significantly influence the porosity and permeability of the rock. ([[2024-saraih|Saraih, 2024, p. 37]])
+- Bioturbation intensity alone had no significant control on velocity (R2 < 0.1), but burrow fill type did. ([[2022-salih|Salih, 2022, p. 114]])
 
-- Two distinct styles, Burrow Network (BN) and Bioretexture (BR), were identified as having different impacts on Vp. ([[2024-allehyani|allehyani, 2024, p. 63]])
+- Bioturbation can either enhance or reduce reservoir and aquifer quality depending on burrow size, filling, and connectivity. ([[2024-saraih|Saraih, 2024, p. 36]])
 
-- Bioturbation significantly influences porosity and permeability through both primary (morphology) and secondary (diagenetic modification) effects. ([[2025-refaat|Refaat, 2025, p. 1]])
+- Bioturbation significantly impacts porosity, permeability, and acoustic velocity in carbonate rocks. ([[2024-allehyani|allehyani, 2024, p. 20]])
+
+- Bioturbation can both enhance and degrade reservoir quality depending on the interaction between burrow filling texture and diagenetic processes. ([[2025-refaat|Refaat, 2025, p. 26]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

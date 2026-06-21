@@ -3,108 +3,118 @@ type: formation
 title: "Dam Formation"
 aliases:
   - "Dam Formation"
-  - "Dam Fm"
 canonical: true
 age: "Middle Miocene"
 basin: "Dammam Dome"
-lithology: "carbonate rocks"
-reservoir_status: "producer"
+lithology: "carbonates (wackestones, packstones, grainstones)"
+reservoir_status: "not stated"
 tags:
   - formation/dam-formation
+  - theme/carbonate-geology
 sources:
   - "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
+  - "raw/138834 - Effect of Saturation on Acoustic of Carbonate Rock.pdf"
   - "raw/139776 - High-resolution stratigraphic architecture and sedimentological heterogeneity wi.pdf"
   - "raw/139876 - Porosity and Permeability Characterization within the Lithofacies Framework of A.pdf"
   - "raw/139885 - High Resolution Facies Analysis and Sequence Stratigraphy of Mixed Clastic-Carbo.pdf"
   - "raw/140039 - DEPOSITIONAL AND DIAGENETIC CONTROLS ON POROSITY EVOLUTION OF THE MIOCENE DAM FO.pdf"
   - "raw/140145 - Biostratigraphy and Benthic Foraminiferal Morphogroups of the Miocene Mixed Carb.pdf"
   - "raw/140260 - Regional Sequence Stratigraphic Model of the Miocene Dam Formation and Its Impac.pdf"
-  - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
+  - "raw/142768 - EVALUATING THE MICROSCOPIC RECOVERY POTENTIAL OF LOW SALINITY VISCOELASTIC POLYM.pdf"
+  - "raw/142874 - Experimental Evaluation of Oil Recovery from Carbonate Rocks by Gemini Surfactan.pdf"
   - "raw/143115 - THE PETROPHYSICAL IMPLICATIONS OF STROMATOLITES STRUCTURES ON RESERVOIR QUALITY .pdf"
-  - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Dam Formation
 
-**Summary**: A Middle Miocene carbonate formation in the Dammam Dome.
+**Summary**: A Middle Miocene carbonate formation in Eastern Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2006-al-enezi|Al-Enezi, 2006]] studied the Dam Formation at Jabal Midra Al-Janubi.
+- [[2006-al-enezi|Al-Enezi, 2006]] studied the Dam Formation at Jabal Midra Al-Janubi to interpret its paleoenvironment.
 
-- [[2015-ali|Ali, 2015]] studied the dam-formation to determine its stratigraphic architecture.
+- [[2012-elhaj|Elhaj, 2012]] studied the Dam formation to evaluate its petrophysical and acoustic properties.
 
-- [[2016-hassan-2|Hassan, 2016]] studied the Dam Formation to characterize its lithofacies and petrophysical properties.
+- [[2015-ali|Ali, 2015]] studied the Dam Formation to understand its stratigraphic architecture and facies heterogeneity.
 
-- [[2016-bashri|Bashri, 2016]] studied the Dam Formation to understand its lithologic heterogeneity and reservoir potential.
+- [[2016-hassan-2|Hassan, 2016]] studied the Dam Formation in Al-Nasbiyah Area, Eastern Saudi Arabia.
 
-- [[2016-salih|Salih, 2016]] studied the Dam Formation to evaluate its lithofacies and diagenetic history.
+- [[2016-bashri|Bashri, 2016]] analyzed the Dam Formation to understand its lithologic heterogeneity.
 
-- [[2016-septriandi|Septriandi, 2016]] studied the dam-formation to understand its paleoenvironmental history.
+- [[2016-salih|Salih, 2016]] studied the Dam Formation to evaluate its reservoir potential and porosity evolution.
 
-- [[2017-mohammed-2|Mohammed, 2017]] studied the Dam Formation to develop a regional sequence stratigraphic model.
+- [[2016-septriandi|Septriandi, 2016]] studied the Dam Formation to understand its depositional history.
 
-- [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
+- [[2017-mohammed-2|Mohammed, 2017]] studied the Dam Formation to establish a regional sequence stratigraphic model.
 
-- [[2024-muharrag|Muharrag, 2024]] studied the Dam Formation to evaluate the impact of stromatolite morphology on reservoir quality.
+- [[2023-dafaalla|Dafaalla, 2023]] studied samples from the dam-formation to evaluate polymer performance.
 
-- [[2002-al-ali|Al-Ali, 2002]] analyzed Dam Formation samples to characterize local lithology.
+- [[2024-al-azani|Al-Azani, 2024]] studied the dam-formation to evaluate its potential as an analog for Middle Eastern carbonate reservoirs.
+
+- [[2024-muharrag|Muharrag, 2024]] Referenced in this thesis.
 
 ## Depositional Environment
 
-- [[2006-al-enezi|Al-Enezi, 2006]] marine carbonate system with shoaling-upward cycles
+- [[2006-al-enezi|Al-Enezi, 2006]] shallow marine, high-energy to low-energy environments
 
-- [[2015-ali|Ali, 2015]] studied the dam-formation to determine its stratigraphic architecture.
+- [[2012-elhaj|Elhaj, 2012]] studied the Dam formation to evaluate its petrophysical and acoustic properties.
 
-- [[2016-hassan-2|Hassan, 2016]] studied the Dam Formation to characterize its lithofacies and petrophysical properties.
+- [[2015-ali|Ali, 2015]] studied the Dam Formation to understand its stratigraphic architecture and facies heterogeneity.
 
-- [[2016-bashri|Bashri, 2016]] studied the Dam Formation to understand its lithologic heterogeneity and reservoir potential.
+- [[2016-hassan-2|Hassan, 2016]] studied the Dam Formation in Al-Nasbiyah Area, Eastern Saudi Arabia.
 
-- [[2016-salih|Salih, 2016]] studied the Dam Formation to evaluate its lithofacies and diagenetic history.
+- [[2016-bashri|Bashri, 2016]] analyzed the Dam Formation to understand its lithologic heterogeneity.
 
-- [[2016-septriandi|Septriandi, 2016]] studied the dam-formation to understand its paleoenvironmental history.
+- [[2016-salih|Salih, 2016]] studied the Dam Formation to evaluate its reservoir potential and porosity evolution.
 
-- [[2017-mohammed-2|Mohammed, 2017]] studied the Dam Formation to develop a regional sequence stratigraphic model.
+- [[2016-septriandi|Septriandi, 2016]] studied the Dam Formation to understand its depositional history.
 
-- [[2018-mohamed|Mohamed, 2018]] part of the sedimentary sequence in the eastern part of Saudi Arabia.
+- [[2017-mohammed-2|Mohammed, 2017]] studied the Dam Formation to establish a regional sequence stratigraphic model.
 
-- [[2024-muharrag|Muharrag, 2024]] studied the Dam Formation to evaluate the impact of stromatolite morphology on reservoir quality.
+- [[2023-dafaalla|Dafaalla, 2023]] studied samples from the dam-formation to evaluate polymer performance.
 
-- [[2002-al-ali|Al-Ali, 2002]] analyzed Dam Formation samples to characterize local lithology.
+- [[2024-al-azani|Al-Azani, 2024]] studied the dam-formation to evaluate its potential as an analog for Middle Eastern carbonate reservoirs.
+
+- [[2024-muharrag|Muharrag, 2024]] Referenced in this thesis.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2006-al-enezi|Al-Enezi, 2006]] mouldic porosity present in the upper part
+
 ## Key Findings Across Sources
 
 - The presence of Borelis melo confirms its Middle Miocene age. ([[2006-al-enezi|Al-Enezi, 2006, p. 13]])
 
-- The formation contains four main sequences (CS1-CS4) and exhibits a transition from siliciclastic-rich updip sections to carbonate-dominated downdip sections. ([[2015-ali|Ali, 2015, p. 15]])
+- The formation is approximately 41 m thick and contains marls, clays, and limestone. ([[2012-elhaj|Elhaj, 2012, p. 27]])
 
-- The formation is composed of mixed carbonate-siliciclastic deposits of tidal flat environment, with dominance of carbonate deposits. ([[2016-hassan-2|Hassan, 2016, p. 13]])
+- The formation is characterized by a mix of carbonates, siliciclastics, and evidence of arid/hypersaline conditions. ([[2015-ali|Ali, 2015, p. 14]])
 
-- The formation contains 15 distinct lithofacies interpreted as subtidal, intertidal, foreshore, supratidal, and estuarine deposits. ([[2016-bashri|Bashri, 2016, p. 14]])
+- The Dam Formation is characterized by a tidal flat environment with a dominance of carbonate deposits. ([[2016-hassan-2|Hassan, 2016, p. 13]])
 
-- The Dam Formation contains a variety of lithofacies including stromatolites, grainstones, and mudstones. ([[2016-salih|Salih, 2016, p. 53]])
+- The formation is correlatable to Miocene reservoirs in both Iran and Iraq. ([[2016-bashri|Bashri, 2016, p. 14]])
 
-- The Dam Formation was deposited in a restricted carbonate platform with temperatures between 20-35°C. ([[2016-septriandi|Septriandi, 2016, p. 16]])
+- The formation contains a variety of pore types including moldic, vuggy, and inter-crystalline microporosity. ([[2016-salih|Salih, 2016, p. 14]])
 
-- Contains 17 lithofacies ranging from mid-ramp to inner ramp settings. ([[2017-mohammed-2|Mohammed, 2017, p. 16]])
+- The formation was deposited in a restricted carbonate platform with high salinity (35-50 ppt) and temperatures of 20-35°C. ([[2016-septriandi|Septriandi, 2016, p. 16]])
 
-- The Dam Formation consists of limestones. ([[2018-mohamed|Mohamed, 2018, p. 37]])
+- The formation is characterized by 17 lithofacies and shows increasing clastic content toward the North-West. ([[2017-mohammed-2|Mohammed, 2017, p. 16]])
 
-- The formation contains both columnar (CF) and laterally linked (LL) stromatolites with varying petrophysical properties. ([[2024-muharrag|Muharrag, 2024, p. 17]])
+- The rock samples were shown to be predominantly dolomite by XRD analysis. ([[2023-dafaalla|Dafaalla, 2023, p. 63]])
 
-- The Dam Formation contains shallow marine and warm water fossils and is approximately 30-100m thick. ([[2002-al-ali|Al-Ali, 2002, p. 67]])
+- The Dam formation features a rock texture with fabric-preserved dolomite and is considered an excellent analog to the Arab-D reservoir. ([[2024-al-azani|Al-Azani, 2024, p. 169]])
+
+- Referenced in this thesis. ([[2024-muharrag|Muharrag, 2024]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2006-al-enezi|Al-Enezi, 2006]] Mouldic porosity is present throughout most of the upper part; interparticle/intraparticle porosity in lower part.
 
 ## Open Questions and Research Gaps
 

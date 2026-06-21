@@ -6,19 +6,19 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "predicted TDS concentrations"
+output: "predicted TDS concentrations over time"
 tags:
   - technique/solute-transport-modeling
   - theme/hydrogeology
 sources:
   - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Solute Transport Modeling
 
-**Summary**: Modeling the movement and concentration changes of dissolved substances in groundwater.
+**Summary**: Modeling the movement of dissolved substances (like salts) through an aquifer.
 
 ---
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- The transport model was used to predict TDS levels over a 20-year planning horizon under three pumping alternatives. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
+- The model predicted TDS levels for 2011–2030, identifying Scenario II as best for protecting water quality. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
 
 ## Methodological Variations Across Sources
 

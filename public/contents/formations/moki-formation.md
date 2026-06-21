@@ -2,12 +2,13 @@
 type: formation
 title: "Moki Formation"
 aliases:
-  - "Moki formation"
   - "Moki Sandstone"
+  - "Moki A"
+  - "Moki B"
 canonical: true
 age: "Miocene"
 basin: "Taranaki Basin"
-lithology: "sandstones, siltstones, and bathyal clay"
+lithology: "sandstone and siltstone"
 reservoir_status: "potential"
 tags:
   - formation/moki-formation
@@ -15,18 +16,18 @@ tags:
 sources:
   - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Moki Formation
 
-**Summary**: A Miocene sedimentary unit in the Taranaki Basin containing sandstones and siltstones.
+**Summary**: A Miocene-age sedimentary formation in the Taranaki Basin characterized by sandstones and siltstones.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-maigana|Maigana, 2024]] studied the moki-formation as a primary reservoir for CO2 storage.
+- [[2024-maigana|Maigana, 2024]] studied the moki-formation as a primary candidate for CO2 storage due to its high porosity and permeability.
 
 ## Depositional Environment
 
@@ -34,14 +35,17 @@ last_updated: 2026-06-10
 
 ## Reservoir Properties
 
-- [[2024-maigana|Maigana, 2024]] porosity and permeability to be determined via well logs
+- [[2024-maigana|Maigana, 2024]] porosity 15-22%, permeability 30-195 mD
+
+## Diagenetic History
+
+
 
 ## Key Findings Across Sources
 
-- The Moki A sandstone is characterized by complex submarine channel complexes trending NW-SE. ([[2024-maigana|Maigana, 2024, p. 29]])
+- The Moki A and B sandstones are considered potential reservoirs with average porosity of 15-22%. ([[2024-maigana|Maigana, 2024, p. 42]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

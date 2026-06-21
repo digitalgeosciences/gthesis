@@ -14,30 +14,30 @@ tags:
 sources:
   - "raw/142407 - SCIENTIFIC MACHINE LEARNING FOR MICROSEISMIC HYPOCENTER LOCALIZATION.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Utah Site
 
-**Summary**: A research facility in south-central Utah focused on enhanced geothermal energy.
+**Summary**: A research facility in Utah used to study geothermal energy and induced seismicity.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-suleymanli|Suleymanli, 2023]] applied the FNO model to real data from the utah-site.
+- [[2023-suleymanli|Suleymanli, 2023]] applied the FNO model to real data from the Utah FORGE site.
 
 ## Geological and Structural Setting
 
-- [[2023-suleymanli|Suleymanli, 2023]] Geothermal energy site
+- [[2023-suleymanli|Suleymanli, 2023]] not stated in source
 
 ## Formations Present
 
-
+- [[2023-suleymanli|Suleymanli, 2023]] not stated in source
 
 ## Key Findings From This Location
 
-- The site features a crystalline basement reservoir with temperatures reaching 200°C. ([[2023-suleymanli|Suleymanli, 2023, p. 37]])
+- The model successfully localized a single perforation shot on the Utah FORGE site despite limited velocity models. ([[2023-suleymanli|Suleymanli, 2023, p. 38]])
 
 ## Research Coverage and Gaps
 

@@ -3,63 +3,52 @@ type: location
 title: "Jubail Area"
 aliases:
   - "Jubail Coastal Area"
-  - "Jubail"
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
 geology: "Coastal marine environment"
 tags:
-  - location
+  - location/jubail-area
 sources:
   - "raw/139019 - BASELINE MONITORING OF SELECTED ORGANOCHLORINE PESTICIDES (OCPS) AND ORGANOPHOSP.pdf"
-  - "raw/139073 - APPLICATION OF ENZYME TO BIOREMEDIATE WATER FROM ETHYLENE DICHLORIDE AND OIL.pdf"
   - "raw/139521 - ISOLATION AND CHARACTERIZATON OF MICROBIAL COMMUNITIES FOUND IN OIL-POLLUTED SIT.pdf"
   - "raw/140147 - Isolation and characterization of microalgae for biofuel production.pdf"
   - "raw/140284 - Study of pyrene degradation by halophilic bacteria under hypersaline environment.pdf"
-  - "raw/140932 - STUDYING LONG AND SHORT-TERM AIRBORNE PARTICULATE MATTER OVER THE ARABIAN PENINS.pdf"
   - "raw/142399 - USING THE ELECTROCHEMICAL TREATMENT OF A WET-AIR OXIDIZED SPENT CAUSTIC WASTE ST.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Jubail Area
 
-**Summary**: A coastal area near Jubail, used as a comparison site for pesticide levels.
+**Summary**: A coastal area near the city of Jubail.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2013-mohammed|Mohammed, 2013]] monitored the Jubail Coastal Area to compare pesticide concentrations with Tarut Bay.
+- [[2013-mohammed|Mohammed, 2013]] monitored pesticide levels in the Jubail Coastal Area.
 
-- [[2014-abdallah|Abdallah, 2014]] conducted experiments based on experience from projects in the Jubail industrial area.
-
-- [[2015-oyehan|Oyehan, 2015]] used as a primary study site for collecting contaminated sediment samples.
+- [[2015-oyehan|Oyehan, 2015]] sampled from the Jubail coastline to identify local oil-degrading bacteria.
 
 - [[2016-ibrahim|Ibrahim, 2016]] sampled microalgae from the Jubail coast for isolation and characterization.
 
-- [[2017-budiyanto|Budiyanto, 2017]] collected petroleum contaminated soil from the Jubail area (27°06ʹ46.53ʺ N 49°22ʹ24.53ʺ E).
+- [[2017-budiyanto|Budiyanto, 2017]] collected soil samples from the Jubail area to isolate halophilic bacteria.
 
-- [[2019-alotaibi|Alotaibi, 2019]] sampled particulate matter from Jubail to analyze local pollution levels.
-
-- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
+- [[2023-al-aqeel|Al-Aqeel, 2023]] collected spent caustic samples from a facility in the jubail-area.
 
 ## Geological and Structural Setting
 
-- [[2013-mohammed|Mohammed, 2013]] Arabian Gulf coast
+- [[2013-mohammed|Mohammed, 2013]] Marine coast
 
-- [[2014-abdallah|Abdallah, 2014]] conducted experiments based on experience from projects in the Jubail industrial area.
-
-- [[2015-oyehan|Oyehan, 2015]] used as a primary study site for collecting contaminated sediment samples.
+- [[2015-oyehan|Oyehan, 2015]] sampled from the Jubail coastline to identify local oil-degrading bacteria.
 
 - [[2016-ibrahim|Ibrahim, 2016]] sampled microalgae from the Jubail coast for isolation and characterization.
 
-- [[2017-budiyanto|Budiyanto, 2017]] collected petroleum contaminated soil from the Jubail area (27°06ʹ46.53ʺ N 49°22ʹ24.53ʺ E).
+- [[2017-budiyanto|Budiyanto, 2017]] collected soil samples from the Jubail area to isolate halophilic bacteria.
 
-- [[2019-alotaibi|Alotaibi, 2019]] sampled particulate matter from Jubail to analyze local pollution levels.
-
-- [[2023-al-aqeel|Al-Aqeel, 2023]] Referenced in this thesis.
+- [[2023-al-aqeel|Al-Aqeel, 2023]] collected spent caustic samples from a facility in the jubail-area.
 
 ## Formations Present
 
@@ -67,19 +56,15 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- The average concentration of OPPs in marine sediments was 15.4 ug/kg. ([[2013-mohammed|Mohammed, 2013, p. 102]])
+- The Jubail coastal area recorded a lower level of OCPs (0.726 mg/l) compared to Tarut Bay. ([[2013-mohammed|Mohammed, 2013, p. 88]])
 
-- Not stated in source ([[2014-abdallah|Abdallah, 2014]])
+- Samples showed extractable petroleum aromatic hydrocarbons between 9.09 and 13.42 mg/Kg. ([[2015-oyehan|Oyehan, 2015, p. 37]])
 
-- Collected substantial amounts of drifting spilled oil and was identified as a key focus area for remediation research. ([[2015-oyehan|Oyehan, 2015, p. 28]])
+- Two strains were sampled from flowing water and one from sediment at the Jubail shore. ([[2016-ibrahim|Ibrahim, 2016, p. 63]])
 
-- All samples collected from Jubail (A1-A7) exhibited growth, with some showing contamination initially. ([[2016-ibrahim|Ibrahim, 2016, p. 48]])
+- Samples were collected at 27°06'46.53'' N 49°22'24.53'' E. ([[2017-budiyanto|Budiyanto, 2017, p. 45]])
 
-- Soil from this location provided the source for isolating halophilic bacteria capable of pyrene degradation. ([[2017-budiyanto|Budiyanto, 2017, p. 45]])
-
-- Samples from Jubail were analyzed for mineralogy and trace metal content. ([[2019-alotaibi|Alotaibi, 2019, p. 130]])
-
-- Referenced in this thesis. ([[2023-al-aqeel|Al-Aqeel, 2023]])
+- The sample was obtained from an ethylene plant within this region. ([[2023-al-aqeel|Al-Aqeel, 2023, p. 39]])
 
 ## Research Coverage and Gaps
 

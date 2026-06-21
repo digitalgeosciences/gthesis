@@ -1,56 +1,61 @@
 ---
 type: location
 title: "Indonesia"
-aliases:
-  - "Indonesia"
+aliases: []
 canonical: true
-region: "Southeast Asia"
-country: "Indonesia"
+region: "Not stated in source"
+country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Active tectonism zone."
-tags:
-  - location/indonesia
+geology: "Not stated in source"
+tags: []
 sources:
+  - "raw/139522 - GROUND MOTION PREDICTION EQUATIONS (GMPES) FOR SUBDUCTION-ZONE EARTHQUAKES IN JA.pdf"
   - "raw/142649 - LINEAMENT DENSITY ANALYSIS FOR INVESTIGATING HIGH PERMEABLE ZONES IN NON-VOLCANI.pdf"
   - "raw/143218 - MACHINE LEARNING-BASED GROUND MOTION PREDICTION MODELS FOR WEST JAVA, INDONESIA.pdf"
   - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Indonesia
 
-**Summary**: The Indonesian archipelago.
+**Summary**: Geographic study area or location in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-arrofi|Arrofi, 2023]] analyzed the Northern Konawe geothermal field in Indonesia.
+- [[2015-latif|Latif, 2015]] conducted research at Indonesia
 
-- [[2025-rachmadan|Rachmadan, 2025]] focused on the development of GMPMs for West Java, Indonesia.
+- [[2023-arrofi|Arrofi, 2023]] studied the Northern Konawe field in Indonesia as a case study for non-volcanic systems.
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] mapped the lithosphere and upper mantle beneath Sulawesi using teleseismic data.
+- [[2025-rachmadan|Rachmadan, 2025]] developed GMPMs for the West Java region to enhance the Indonesia Earthquake Early Warning System.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] focused on the seismic imaging of the Sulawesi region to understand its K-shaped configuration.
 
 ## Geological and Structural Setting
 
-- [[2023-arrofi|Arrofi, 2023]] Intersection of Indo-Australian, Pacific, and Eurasian plates.
 
-- [[2025-rachmadan|Rachmadan, 2025]] focused on the development of GMPMs for West Java, Indonesia.
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] mapped the lithosphere and upper mantle beneath Sulawesi using teleseismic data.
+- [[2023-arrofi|Arrofi, 2023]] studied the Northern Konawe field in Indonesia as a case study for non-volcanic systems.
+
+- [[2025-rachmadan|Rachmadan, 2025]] developed GMPMs for the West Java region to enhance the Indonesia Earthquake Early Warning System.
+
+- [[2025-kesumastuti|Kesumastuti, 2025]] focused on the seismic imaging of the Sulawesi region to understand its K-shaped configuration.
 
 ## Formations Present
 
-- [[2023-arrofi|Arrofi, 2023]] Tokala Formation, Meluhu Formation
+
 
 ## Key Findings From This Location
 
-- Northern Konawe is situated at the intersection of three major plates, leading to active tectonism. ([[2023-arrofi|Arrofi, 2023, p. 27]])
+- conducted research at Indonesia ([[2015-latif|Latif, 2015]])
 
-- One of the most earthquake-prone countries in the world. ([[2025-rachmadan|Rachmadan, 2025, p. 14]])
+- Identified three permeable zones: Zone A (Lasolo), Zone B (Meluhu/Lembo), and Zone C (Amonggedo). ([[2023-arrofi|Arrofi, 2023, p. 17]])
 
-- The study identifies a high-velocity perturbation in northern Sulawesi associated with multiple subducting slabs. ([[2025-kesumastuti|Kesumastuti, 2025, p. 14]])
+- One of the most earthquake-prone countries in the world, currently developing an EEW system. ([[2025-rachmadan|Rachmadan, 2025, p. 14]])
+
+- The study identified a high-velocity perturbation in northern Sulawesi associated with multiple subducting slabs. ([[2025-kesumastuti|Kesumastuti, 2025, p. 14]])
 
 ## Research Coverage and Gaps
 

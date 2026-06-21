@@ -16,69 +16,62 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/140970/"
 study_area: "Eastern Province, Saudi Arabia"
 keywords:
   - Groundwater depletion
-  - GRACE satellite mission
+  - GRACE satellite
   - InSAR
   - Land subsidence
   - Eastern Province
   - Saudi Arabia
-  - fossil aquifers
-  - GRACE satellite
-  - TWS anomaly
-  - Soil moisture
-  - Oil extraction
-  - InSAR technique
+  - Aquifer system
+  - remote sensing
 techniques:
   - grace
   - insar
-  - sentinel-1a
-  - gldas
-  - remote-sensing
+  - dinsar
   - snap
   - gis
   - snaphu
-  - dinsar
-  - lsm-noah-vic-mosaic
+  - remote-sensing
+  - groundwater-modeling
+  - sentinel-1a
   - psi
   - sbas
 tags:
   - degree/ms
-  - formation/umm-al-radhuma-formation
-  - formation/rus-formation
+  - formation/quaternary-sediments
+  - formation/hadrush-formation
   - formation/dammam-formation
-  - formation/hadrukh-formation
-  - formation/dam-formation
-  - formation/hofuf-formation
+  - formation/rus-formation
+  - formation/uem-er-radhuma-formation
   - location/eastern-province
   - location/saudi-arabia
   - technique/grace
-  - technique/in-sar
-  - technique/remote-sensing
   - technique/insar
+  - technique/din-sar
   - technique/snap
   - technique/gis
+  - technique/snaphu
+  - technique/remote-sensing
   - technique/groundwater-modeling
-  - technique/din-sar
+  - technique/psi
+  - technique/sbas
   - theme/hydrogeology
   - theme/land-subsidence
   - theme/water-resources-management
   - theme/remote-sensing
-  - theme/environmental-monitoring
   - terminology/land-subsidence
-  - terminology/groundwater-flow
-  - terminology/fossil-aquifers
-  - terminology/soil-moisture
+  - terminology/hydrogeology
 status: ingested
 ---
 
 # ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM USING GRACE-INSAR DATA
 
-**Summary**: The thesis investigates the depletion of fossil groundwater and associated land subsidence in the Eastern Province of Saudi Arabia. It utilizes GRACE satellite data to quantify regional groundwater storage changes and InSAR (Sentinel-1A) to monitor local ground deformation, concluding that significant depletion is occurring due to agricultural and urban demands.
+**Summary**: The thesis investigates groundwater depletion and land subsidence in the Eastern Province of Saudi Arabia using GRACE and InSAR satellite data from 2007 to 2016. It concludes that groundwater loss is primarily driven by anthropogenic irrigation demands rather than climate factors, leading to measurable ground deformation.
 
 ---
 
 ## Research Problem
 
-The overexploitation of fossil aquifers in the arid Eastern Province leads to unsustainable water levels and potential land subsidence, which can damage infrastructure. Existing monitoring is limited by a lack of extensive in-situ data across the broad region.
+Over-exploitation of fossil aquifers in the Eastern Province leads to unsustainable water levels and potential ground subsidence, which threatens infrastructure; however, limited in-situ measurements make large-scale monitoring difficult.
 
 ## Objectives
 
@@ -86,65 +79,46 @@ The overexploitation of fossil aquifers in the arid Eastern Province leads to un
 - Monitoring aquifer-related subsidence in municipality and large agriculture areas within the Eastern Province from June 2016 to December 2016 through SAR dataset derived from Sentinel-1A mission.
 - Observe groundwater storage change in the Eastern Province using GRACE satellite missions.
 - Monitor land subsidence development in the Eastern Province using InSAR satellite missions.
-- Integrate GRACE and InSAR data to establish a relationship between groundwater pumping and land subsidence.
-- Validate remote sensing results against 19 observed well water level records.
-- Observe groundwater storage change using GRACE satellite missions from 2007 to 2016.
-- Identify land subsidence development in the Eastern Province using InSAR satellite data.
-- Quantify the impact of soil moisture and oil extraction on TACE-derived TWS signals.
-- Validate GRACE-derived groundwater estimates against ground-based well observations.
-- Observe groundwater storage change using GRACE satellite data
-- Monitor land subsidence development in the Eastern Province using InSAR satellite missions
-- Evaluate the impact of anthropogenic activities versus climate variability on groundwater depletion
+- Identify the primary drivers of groundwater depletion (e.g., irrigation vs. climate).
 
 ## Methods
 
-The study utilizes GRACE satellite data to monitor Terrestrial Water Storage (TWS) from 2007 to 2016. To isolate the groundwater component, soil moisture was modeled using three Land Surface Models (Noah, VIC, and Mosaic), and crude oil-liquid extraction data were subtracted based on industrial reports. InSAR (specifically DInSAr) was used to map land subsidence from June 2016 to December 2016 using Sentinel-1A acquisitions. Data processing included Goldstein filtering, Snaphu for phase unwrapping, and geocoding of displacement maps into a common coordinate system.
+The study utilizes GRACE TWS data (RL05) to estimate groundwater storage by subtracting soil moisture (from GLDAS models: Noah, VIC, and Mosaic) and oil extraction volumes. InSAR processing is performed using the SNAP software for DInSAR techniques to map land subsidence from Sentinel-1A SAR imagery. Snaphu is used for phase unwrapping of interferograms. Results are validated against 19 ground-based well observations.
 
 ## Data and Materials
 
-Time series data from GRACE TWS (2007–2016), soil moisture models (Noah, VIC, Mosaic), and oil production records. InSAR data from Sentinel-1A for the period 2016. Ground-based well observations from 19 wells monitoring UER, Dammam Wasiya, and Neogen aquifers.
+GRACE TWS data (2007-2016), GLDAS soil moisture models (Noah, VIC, Mosaic), Sentinel-1A SAR imagery (June-Dec 2016), and 19 observed water level records from wells in the Eastern Province.
 
 ## Key Findings
 
-- GRACE-derived groundwater storage exhibits a depletion rate of -6.384 ± 0.409 mm/yr over the 10-year study period. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
-- Qaryat al Ulya, Nairyah-Al Sarrar, Dammam-Qatif and Hasa experienced subsidence during the short-term period. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
-- Urban areas exhibit smaller subsidence compared to agricultural areas, particularly in Dammam and Hasa. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
-- Groundwater withdrawal of UER and Dammam aquifers increased from 15.9 million m3 to 149.2 million m3 and from 118.5 million m3 to 263.6 million m3, respectively, between 1967 and 2006. ([[2019-prasetyo|Prasetyo, 2019, p. 18]])
-- The UER aquifer is the most productive in the eastern part of the Arabian Platform, with average thickness of approximately 400m (up to 700m at the coast). ([[2019-prasetyo|Prasetyo, 2019, p. 23]])
-- TDS of UER aquifer increased from 2,800 mg/l to 4,200 mg/l in Dhahran between 1967 and 2010 due to excessive withdrawal. ([[2019-prasetyo|Prasetyo, 2019, p. 23]])
-- The study identifies three specific aquifers in the Neogene system: Hadrukh, Dam, and Hofuf, with Hadrukh and Dam performing as excellent aquifers while Hofuf is a poor unconfined aquifer. ([[2019-prasetyo|Prasetyo, 2019, p. 25]])
-- Dammam aquifer thickness is approximately 70 m in Wadi al Miyah and 35-65 m in Hasa. ([[2019-prasetyo|Prasetyo, 2019, p. 25]])
-- The GRACE TWS data used for groundwater estimation was based on the RL05 version with a baseline of 2004 to 2009. ([[2019-prasetyo|Prasetyo, 2019, p. 34]])
-- Three GLDAS models (Noah, VIC, and Mosaic2) were utilized to provide soil moisture estimates in the absence of ground-based observations. ([[2019-prasetyo|Prasetyo, 2019, p. 35]])
-- Sentinel-1A provides interferometric swath mode with a spatial resolution of 5m x 20m using TOPSAR technology. ([[2019-prasetyo|Prasetyo, 2019, p. 36]])
-- The study utilizes 19 observed water level data points to validate the remote sensing results, normalized by standard deviations. ([[2019-prasetyo|Prasetyo, 2019, p. 37]])
-- The GRACE TWS shows a declining trend of -6.72 ± 0.416 mm/yr (equivalent to -4.52 ± 0.28 km3 loss per year) from 2007 to 2016. ([[2019-prasetyo|Prasetyo, 2019, p. 45]])
-- Soil moisture variations were found to be relatively small compared to TWS, with a depletion rate of -0.396 ± 0.048 mm/yr, indicating it does not significantly affect TWS in the region. ([[2019-prasetyo|Prasetyo, 2019, p. 48]])
-- Crude oil-liquid extraction showed an increasing trend of approximately 0.048 mm/yr but was determined to be too small to impact GRACE TWS signals significantly. ([[2019-prasetyo|Prasetyo, 2019, p. 50]])
+- GRACE-derived groundwater storage shows a depletion rate of -6.384 ± 0.409 mm/yr over the 10-year study period (2007-2016). ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
+- The total volume loss in groundwater for the Eastern Province is approximately 45.2 ± 0.885 km3 over the decade. ([[2019-prasetyo|Prasetyo, 2019, p. 45]])
+- Soil moisture variations (average -0.396 ± 0.048 mm/yr) were found to be relatively small compared to TWS, meaning soil moisture does not significantly impact TWS results in this arid region. ([[2019-prasetyo|Prasetyo, 2019, p. 48]])
+- Crude oil-liquid extraction impacts on GRACE TWS are minimal (0.048 mm/yr) and can be neglected compared to other variables. ([[2019-prasetyo|Prasetyo, 2019, p. 50]])
+- Groundwater depletion is highest in the northern and middle parts of the Eastern Province, correlating with high agricultural activity. ([[2019-prasetyo|Prasetyo, 2019, p. 53]])
+- In the Dammam-Qatif area, cumulative subsidence in agriculture zones ranges from -8 cm to -13 cm. ([[2019-prasetyo|Prasetyo, 2019, p. 56]])
+- Urban areas show lower subsidence (0 to -6 cm) but pose higher risks to infrastructure due to proximity to buildings and roads. ([[2019-prasetyo|Prasetyo, 2019, p. 56]])
+- The study area experienced a groundwater volume loss of approximately -4.52 km3 with a rate of depletion of -6.72 mm/yr over the 10-year period. ([[2019-prasetyo|Prasetyo, 2019, p. 47]])
+- Groundwater depletion was found to be driven by anthropogenic activities (irrigation) rather than climate variabilities like precipitation or evapotranspiration. ([[2019-prasetyo|Prasetyo, 2019, p. 55]])
+- In the Hasa area, cumulative subsidence reached -12 to -14 cm in agricultural zones, while some areas showed uplift of up to 6 cm. ([[2019-prasetyo|Prasetyo, 2019, p. 58]])
+- Qaryat al Ulya showed subsidence ranging from -6 cm to -12 cm in the northern part and 0 to -3 cm in the southern part. ([[2019-prasetyo|Prasetyo, 2019, p. 59]])
+- Nairyah-Al Sarrar area exhibited subsidence varying from 0 to -8 cm, influenced by both agriculture and crude oil extraction. ([[2019-prasetyo|Prasetyo, 2019, p. 61]])
+- Soil moisture and crude oil-liquid extraction were found to have minimal impact on TWS variations compared to the groundwater component. ([[2019-prasetyo|Prasetyo, 2019, p. 63]])
 
 ## Limitations
 
-InSAR accuracy is limited by temporal decorrelation and atmospheric effects. Validation against vertical displacement from Sentinel-1A is hindered by the lack of monthly water level observations due to aquifer compaction.
+InSAR accuracy is limited by temporal decorrelation (especially in vegetated areas) and atmospheric effects. GRACE has low spatial resolution, making it difficult to isolate specific aquifers without additional data.
 
 ## Recommendations and Future Work
 
-- Utilize Mascon solutions for better spatial resolution (0.5x0.5 degrees) in GRACE data.
-- Use L-band InSAR missions with higher temporal resolution to improve coherence in high vegetation areas.
-- Implement advanced processing techniques like PSI and SBAS to reduce atmospheric effects.
-- Perform field measurements of monthly water levels and GPS observations to validate InSAR results.
+Utilize Mascon solutions for higher resolution GRACE data; use L-band InSAR (e.g., ALOS-2) for better penetration in vegetated areas; implement PSI and SBAS processing to reduce atmospheric noise; conduct field measurements (GPS and water levels) to validate InSAR results.
 
 ## Related Concepts
 
 - [[grace]]
-- [[in-sar]]
-- [[umm-al-radhuma-formation]]
-- [[dammam-formation]]
-- [[eastern-province]]
+- [[insar]]
 - [[land-subsidence]]
 - [[hydrogeology]]
+- [[eastern-province]]
 - [[water-resources-management]]
-- [[groundwater-flow]]
-- [[fossil-aquifers]]
-- [[insar]]
 - [[remote-sensing]]
-- [[soil-moisture]]

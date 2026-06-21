@@ -2,30 +2,30 @@
 type: location
 title: "Hawiyah Area"
 aliases:
-  - "Hawiyah area"
+  - "Hawiyah"
 canonical: true
 region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Devonian sedimentary rocks"
+geology: "sedimentary basin"
 tags:
   - location/hawiyah-area
-  - theme/petroleum-geology
+  - theme/reservoir-characterization
 sources:
   - "raw/10281 - Diagenesis of Jauf sandstone in Hawiyah area.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Hawiyah Area
 
-**Summary**: A geographic region in Saudi Arabia containing the Jauf Formation.
+**Summary**: A geographic area in the Eastern Province of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2001-al-ramadan|Al-Ramadan, 2001]] focused on the Hawiyah area for studying Jauf sandstone diagenesis.
+- [[2001-al-ramadan|Al-Ramadan, 2001]] focused on the Jauf Formation within the Hawiyah area.
 
 ## Geological and Structural Setting
 
@@ -33,11 +33,11 @@ last_updated: 2026-06-08
 
 ## Formations Present
 
-- [[2001-al-ramadan|Al-Ramadan, 2001]] Jauf Formation
+- [[2001-al-ramadan|Al-Ramadan, 2001]] jauf-formation
 
 ## Key Findings From This Location
 
-- The Jauf is also the reservoir for a giant gas condensate field in the Hawiyah area. ([[2001-al-ramadan|Al-Ramadan, 2001, p. 21]])
+- The formation here is characterized by a lack of shallow marine carbonate members compared to other areas. ([[2001-al-ramadan|Al-Ramadan, 2001, p. 37]])
 
 ## Research Coverage and Gaps
 

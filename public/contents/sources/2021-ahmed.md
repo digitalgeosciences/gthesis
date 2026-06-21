@@ -14,168 +14,105 @@ committee_members:
   - "Hassan Eltom"
 source_file: "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/141837/"
-study_area: "Upper Marrat Formation, Central Saudi Arabia"
+study_area: "Khasm adh Dhibi area, Central Saudi Arabia"
 keywords:
-  - Toarcian
-  - Marrat Formation
-  - Upper Marrat Member
-  - diagenesis
-  - petrophysics
-  - porosity
-  - permeability
-  - fracture analysis
-  - micro-CT
-  - NMR
   - Upper Marrat
   - Jurassic
   - Shaqra group
   - Marrat Reservoir
-  - carbonate-sedimentology
-  - microfacies
-  - petrophysical evaluation
-  - burrows
-  - fractures
-  - carbonate porosity
-  - Saudi Arabia
+  - Diagenesis
+  - Petrophysics
+  - Toarcian
+  - Marrat Formation
+  - porosity
+  - permeability
+  - microfractures
+  - vuggy pores
+  - moldic porosity
+  - bioturbation
 techniques:
+  - thin-section-petrography
   - xrf
   - xrd
   - qemscan
-  - sem
   - sem-eds
-  - petrography
-  - micro-ct-scan
-  - nmr
-  - sieve-analysis
-  - thin-section-petrography
   - core-analysis
-  - helium-porosity
-  - well-log-analysis
-  - gis
-  - matlab
-  - georose
-  - micro-analysis
+  - medicalctscan
+  - nmr
+  - micro-ct-scan
+  - fracture-characterization
   - ct-scanning
+  - petrography
+  - image-analysis
 tags:
   - degree/ms
   - formation/marrat-formation
-  - location/central-saudi-arabia
+  - location/central-saudi-area
+  - technique/thin-section-petrography
+  - technique/xrf
   - technique/xrd
-  - technique/sem
-  - technique/sem-eds
   - technique/qemscan
-  - technique/petrography
+  - technique/sem-eds
+  - technique/porosity
+  - technique/core-analysis
   - technique/micro-ct-scan
   - technique/nmr
+  - technique/fracture-characterization
   - technique/well-log-analysis
-  - technique/xrf
-  - technique/thin-section-petrography
-  - technique/gis
-  - technique/core-analysis
-  - technique/helium-porosity
-  - technique/ct-scanning
-  - theme/sedimentology
-  - theme/diagenesis
+  - technique/petrophysics
+  - technique/image-analysis
   - theme/petrophysics
-  - theme/lithostratigraphy
-  - theme/carbonate-sedimentology
-  - theme/stratigraphy
-  - terminology/diagenesis
-  - terminology/porosity
-  - terminology/permeability
-  - terminology/burrows
-  - terminology/fracture-analysis
+  - theme/sedimentology
 status: ingested
 ---
 
 # DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION IN CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the sedimentology, stratigraphy, and diagenetic evolution of the Toarcian Upper Marrat Formation in central Saudi Arabia. It utilizes a combination of field observations, petrographic analysis (thin sections/slabs), geochemical mapping (XRF), mineralogical characterization (XRD, QEMSCAN), and petrophysical measurements to characterize reservoir properties like porosity and permeability.
+**Summary**: The thesis investigates the Upper Marrat Formation in central Saudi Arabia, focusing on its diagenetic history and petrophysical properties. It utilizes a combination of field observations, thin-section petrography, XRF, XRD, QEMSCAN, SEM-EDS, and various core analysis techniques (NMR, micro-CT) to characterize the complex pore systems resulting from burial, fracturing, and burrowing.
 
 ---
 
 ## Research Problem
 
-The need to understand the diagenetic evolution and petrophysical characteristics (porosity, permeability, and fracture distribution) of the Upper Marrat Formation in central Saudi Arabia to serve as a representative analog for the Marrat reservoir in the northeast of Saudi Arabia and Kuwait.
+The Upper Marrat Formation is a significant reservoir in Saudi Arabia, but its petrophysical properties are poorly understood due to a complex interplay of primary porosity, diagenetic alterations (like iron oxide cementation), and secondary features like fractures and burrows. The study aims to clarify how these factors influence permeability and fluid flow.
 
 ## Objectives
 
-- Evaluate the mineralogical composition of the Upper Marrat Formation using XRD, XRF, and QemScan.
-- Quantify porosity and permeability in different lithofacies of the Upper Marrat Member.
-- Analyze the impact of diagenesis (e.g., cementation, dissolution) on reservoir quality.
-- Assess the role of fractures and burrow-related features in enhancing or reducing permeability.
-- Compare NMR-derived porosity with other measurement methods (He, Gravitational).
 - Improve understanding of the diagenetic history of the shallow marine carbonate platform deposits of the Upper Marrat Formation.
-- Characterize the petrophysical properties of the formation to better understand its reservoir potentiality.
-- Evaluate the role of fractures and burrows in enhancing porosity and permeability.
-- Investigate the sedimentology, stratigraphy, and depositional environment of the Upper Marrat Formation.
-- Decipher the diagenetic and petrophysical evolution of the formation.
-- Characterize reservoir parameters including porosity, density, permeability, pore size, and distribution.
-- Analyze fracture properties such as orientation, density, and connectivity.
-- Characterize the mineralogy and diagenetic features of the Upper Marrat Formation using XRD, XRF, and SEM-EDS.
-- Evaluate petrophysical properties (porosity and permeability) of core plugs from the Upper Marrat formation.
-- Map vuggy pore systems and microfractures using NMR and Micro-CT analysis.
-- Analyze fracture distribution and impact on reservoir quality in the outcrop setting.
-- Evaluate the impact of burrow systems on porosity and permeability in the Upper Marrat.
-- Characterize the distribution of different types of porosity (intergranular, vuggy, moldic) within the formation.
-- Assess the role of diagenetic processes (Eogenesis, Mesogenesis, Telogenesis) in creating secondary porosity.
-- Quantify and analyze the impact of fracture networks on reservoir quality.
-- Characterize the lithofacies and mineralogy of the Upper Marrat Member.
-- Evaluate the impact of various diagenetic processes on carbonate porosity and permeability.
-- Correlate petrophysical properties with geological features to improve reservoir characterization.
+- Characterize the petrophysical properties (porosity, permeability, pore size distribution) of the formation.
+- Evaluate the impact of fractures and burrows on porosity and permeability to understand reservoir behavior.
+- Evaluate the diagenetic processes affecting the Upper Marrat Formation.
+- Characterize the petrophysical properties (porosity and permeability) of the formation using various analytical techniques.
+- Analyze the impact of microfacies, vuggy pores, moldic porosity, and fractures on reservoir quality.
 
 ## Methods
 
-Field observations were used to map lithology and stratigraphy. Petrographic analysis included thin-section petrography (conventional and UV fluorescence) and slab analysis for 3D feature mapping. Geochemical analysis was performed via XRF on both powder samples and thin sections to determine elemental distribution. Mineralogy was determined using XRD on 27 powder samples and QEMSCAN/SEM-EDS on 12 representative thin sections. Petrophysical properties were measured using a Vinci He Porosimeter (helium porosity), a GP-101AE Gas Permeameter (permeability), and an OXFORD Instruments GeoSpec2 (NMR). Fracture analysis involved field photography, ArcGIS georeferencing, and processing in GeoRose and Matlab.
+Fieldwork included detailed section measurement, lithofacies analysis, and fracture mapping using high-resolution photography and ArcGIS. Laboratory analyses included thin-section petrography (conventional and UV fluorescence), XRF for elemental chemistry, XRD for mineralogy, QEMSCAN for mineralogical mapping, and SEM-EDS for high-magnification imaging of pore spaces. Petrophysical measurements were conducted on core plugs using a Vinci He Porosimeter (porosity), a GP-101AE Gas Permeameter (permeability), an Oxford Instruments GeoSpec2 (NMR), and both medical CT scans and micro-CT scans to visualize vugs, moldic pores, and fractures.
 
 ## Data and Materials
 
-The study utilized samples from the Khasm adh Dhibi area, including various lithologies (limestone, dolomite, gypsum). Data included XRD mineralogy of powdered samples, SEM-EDS elemental mapping of several core plugs, NMR T2 distribution analysis on selected plugs, and Micro-CT scans at 34.53 µm resolution.
+The study utilized samples from the Khasm adh Dhibi area, including core plugs (approx. 3.8 cm diameter), thin sections, and large slabs for CT scanning. Data included elemental percentages from XRF/QEMSCAN, mineralogy from XRD, T2 distribution from NMR, and physical measurements of porosity (%), permeability (mD), and fracture spacing.
 
 ## Key Findings
 
-- The upper part of the Marrat Formation is characterized by a variety of lithologies including wackestone, grainstone, and oolitic limestone. ([[2021-ahmed|Ahmed, 2021, p. 13]])
-- XRD analysis identified dominant minerals such as calcite, dolomite, and gypsum in the intergranular spaces. ([[2021-ahmed|Ahmed, 2021, p. 47]])
-- QemScan results showed a high occurrence of calcitic-illite in burrowed spaces (Figure 40). ([[2021-ahmed|Ahmed, 2021, p. 54]])
-- page_number_reference_note_for_finding_3_is_actually_on_page_54_in_the_original_text_but_extracted_as_a_single_block_above ([[2021-ahmed|Ahmed, 2021]])
-- The Upper Marrat Member is characterized by a complex pore system including microporosity (intragranular and intergranular), moldic porosity, vuggy pores, and micro/macro fractures. ([[2021-ahmed|Ahmed, 2021, p. 23]])
-- Burrows, dominant in the top few meters of grainstones and wackestones, show higher porosity due to their coarse grain filling compared to the surrounding substrate. ([[2021-ahmed|Ahmed, 2021, p. 23]])
-- The study concludes that despite the presence of burrowing, vugs, and moldic pores, the Upper Marrat Member has low permeability values. ([[2021-ahmed|Ahmed, 2021, p. 25]])
-- finding_page_reference_note_for_user_query_logic_check_internal_only_not_included_in_json_output_unless_explicitly_asked_by_prompt_instructions_but_the_instruction_says_to_include_actual_values_when_available. Since no specific permeability numbers are given in the abstract, it is a qualitative finding. ([[2021-ahmed|Ahmed, 2021]])
-- page_ null ([[2021-ahmed|Ahmed, 2021]])
-- The Upper Marrat is characterized by heavily burrowed and fractured limestone, with fracture density inversely related to bed thickness (thinner beds <10cm have higher counts). ([[2021-ahmed|Ahmed, 2021, p. 54]])
-- Vuggy and moldic pores are common in the middle part of the formation; many are iron-encrusted, likely due to diagenetic oxidation by oxygenated meteoric water. ([[2021-ahmed|Ahmed, 2021, p. 55]])
-- The presence of quartz at the lower part of the Upper Marrat indicates a transition in sediment source or environment. ([[2021-ahmed|Ahmed, 2021, p. 71]])
-- XRF analysis showed high calcium abundance (e.g., 83.54% to 90.21%) and significant iron presence due to diagenetic effects like iron oxide cementation. ([[2021-ahmed|Ahmed, 2021, p. 70]])
-- Elemental concentrations of Al, K, and Si showed a decreasing trend from the lower part to the middle/upper parts, indicating a decrease in 'shaliness' towards the top. ([[2021-ahmed|Ahmed, 2021, p. 69]])
-- Microfractures can create permeable pathways in tight micrite matrices, but those filled with iron oxide cement (dark brown) destroy permeability. ([[2021-ahmed|Ahmed, 2021, p. 63]])
+- The Upper Marrat Member consists of fossiliferous wackestone, packstone, and grainstone deposited in a wave- or tide-dominated shallow-sea environment. ([[2021-ahmed|Ahmed, 2021, p. 22]])
+- Microfacies are dominated by fossiliferous biomicrite at the lower part, sparse biomicrite at the middle and upper part, and oomicroite/packed biomicrite near the top. ([[2021-ahmed|Ahmed, 2021, p. 22]])
+- The limestone beds are fractured, where the fracture density is related to the bed thickness; thicker beds (>10cm) have a lower count of fractures than the thinner (<10cm) beds. ([[2021-ahmed|Ahmed, 2021]])
+- page_num_ref_in_text_not_found_but_contextual_at_56 ([[2021-ahmed|Ahmed, 2021]])
+- Porosity values in the Upper Marrat range from 3.86% to 19.28%, with the highest values (~19%) found in dolomite samples. ([[2021-ahmed|Ahmed, 2021, p. 85]])
+- Gas permeability is generally low (<0.20 mD) except for specific cases like sample 8_5A (7.32 mD), where microfractures connect the pore system. ([[2021-ahmed|Ahmed, 2021, p. 88]])
+- The study identified three main types of secondary porosity: moldic pores, vuggy pores, and microfractures. ([[2021-ahmed|Ahmed, 2021, p. 67]])
+- XRF analysis showed a decrease in Al, K, and Si from the lower to upper parts of the formation, indicating a reduction in clay content. ([[2021-ahmed|Ahmed, 2021, p. 69]])
+- Note: The study found that vuggy pores are mostly isolated and only occasionally connected, which explains low permeability in samples like 9_4A (0.02 mD). ([[2021-ahmed|Ahmed, 2021]])
 
 ## Limitations
 
-The study is based on outcrop rocks, which may differ from subsurface conditions due to intense leaching and weathering effects. Additionally, the scale of sampling for core plugs might not capture large-scale vugs and fractures that contribute significantly to total reservoir porosity.
+Not stated in source
 
 ## Recommendations and Future Work
 
-An integrated model incorporating micro, macro, and mesoscale fractures is required for accurate petrophysical characterization. Future studies should combine more extensive outcrop data with subsurface data from various locations to better understand formation-scale systems.
+Not stated in source
 
 ## Related Concepts
 
-- [[xrd]]
-- [[xrf]]
-- [[qemscan]]
-- [[thin-section-petrography]]
-- [[core-analysis]]
-- [[helium-porosity]]
-- [[marrat-formation]]
-- [[central-saudi-arabia]]
-- [[diagenesis]]
-- [[porosity]]
-- [[carbonate-sedimentology]]
-- [[petrophysics]]
-- [[sem-eds]]
-- [[nmr]]
-- [[micro-ct]]
-- [[permeability]]
-- [[reservoir-characterization]]
-- [[burrows]]
-- [[fracture-analysis]]
+None identified

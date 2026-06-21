@@ -12,96 +12,68 @@ committee_members:
   - "Jean-Philippe Avouac"
 source_file: "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142193/"
-study_area: "Merapi stratovolcano, Opak River, Opak Estuary, Parangkusumo Shoreface, and Parangkusumo parabolic sand dune (Java, Indonesia)"
+study_area: "Merapi stratovolcano, Opak River, and Parangkusumo Shoreface, Java, Indonesia"
 keywords:
   - volcaniclastic
-  - mineralogical variability
-  - elemental variability
   - sedimentary systems
-  - Mars analogy
-  - GPR
-  - COSI-Corr
-  - pyroxene
-  - plagioclase
-  - volcaniclastics
-  - mineral sorting
-  - fluvial
-  - aeolian
-  - coastal
   - Mars
-  - Merapi
-  - Mars analog
-  - fluvial environment
-  - coastal environment
-  - aeolian environment
-  - petrography
-  - XRD analysis
-  - XRF analysis
-  - fluvial-coastal-aeolian sedimentary systems
-  - plagioclase feldspar
+  - mineralogy
+  - elemental composition
+  - Gale Crater
+  - Opak River
+  - parabolic sand dune
+  - volcaniclastics
   - fluvial systems
-  - coastal environments
-  - aeolian systems
-  - anorthite
-  - albite
-  - spatial variability
+  - aeolian processes
+  - Mars analog
+  - mineral sorting
+  - pyroxene
+  - plagioclase feldspar
 techniques:
   - xrd
   - xrf
-  - ground-penetrating-radar
-  - cosi-corr
+  - petrography
+  - microscopy
+  - multivariate-statistical-analysis
   - pca
   - hcpc
-  - thin-section-petrography
-  - multivariate-statistical-analysis
-  - grain-size-separation
-  - petrography
+  - ground-penetrating-radar
   - remote-sensing
-  - gis
-  - sieve-analysis
-  - hierarchical-clustering
-  - python
-  - stratigraphic-forward-modeling
-  - sem-eds
-  - multi-attribute-analysis
-  - spectral-decomposition
+  - cosi-corr
+  - grain-size-separation
 tags:
   - degree/ms
+  - location/indonesia
   - location/java-island
-  - location/javaisland
   - technique/xrd
   - technique/xrf
+  - technique/petrography
+  - technique/microscopy
   - technique/ground-penetrating-radar
-  - technique/gis
-  - technique/thin-section-petrography
-  - technique/petrology
-  - technique/sieve-analysis
+  - technique/remote-sensing
+  - technique/grain-size-distribution
   - technique/hcpc
   - technique/pca
-  - technique/python
-  - technique/sem-eds
   - theme/mineralogy
   - theme/sedimentology
   - theme/volcanology
-  - theme/planetary-science
-  - theme/planetary-geology
-  - terminology/sedimentology
-  - terminology/mineralogy
-  - terminology/mineral-sorting
-  - terminology/volcanology
   - terminology/volcaniclastics
+  - terminology/mineral-sorting
+  - terminology/sedimentology
+  - terminology/cia
+  - terminology/grain-size-distribution
 status: ingested
 ---
 
 # DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS: INSIGHTS FOR MARS
 
-**Summary**: The thesis investigates the mineralogical and elemental variability of Merapi volcaniclastics across a fluvial-coastal-aeolian system (Opak River to Parangkusumo Shoreface) in Java, Indonesia. By analyzing mineral sorting and sedimentary processes in this terrestrial analog, the study aims to provide insights into the interpretation of similar geological features on Mars.
+**Summary**: The thesis investigates the mineralogical, elemental, and spatial variability of Merapi volcaniclastics from source to sink (fluvial, coastal, and aeolian environments) to provide insights for Mars' sedimentary systems. It utilizes XRD, XRF, GPR, and remote sensing to characterize these materials and compare them with Martian analogs like Gale Crater.
 
 ---
 
 ## Research Problem
 
-The challenge of interpreting Martian mineral sorting and sedimentary processes in complex fluvial-coastal-aeolian systems due to the lack of direct sample access. The study uses Merapi volcaniclastics as a terrestrial analog to understand how different environments (fluvial, coastal, aeolian) affect the distribution of minerals like plagioclase and pyroxene.
+The challenge of distinguishing between mineralogical changes caused by primary geological processes (like volcanic source characteristics) versus secondary environmental processing (fluvial transport, aeolian sorting) in both terrestrial volcaniclastics and Mars' surface materials.
 
 ## Objectives
 
@@ -109,45 +81,34 @@ The challenge of interpreting Martian mineral sorting and sedimentary processes 
 - To investigate the variations of elemental and mineralogical abundance along the Merapi stratovolcano, Opak River, Opak Estuary, Parangkusumo Shoreface, and Parangkusumo parabolic sand dune.
 - To obtain ground-penetrating radar facies of Parangkusumo Shoreface and parabolic sand dune.
 - To elucidate the insights from this research's area for Mars' past sedimentary systems.
-- Investigate mineralogical, elemental, and spatial variability from source (proximal) to sink (distal) of Merapi volcaniclastics.
+- Investigate the mineralogical, elemental, and spatial variability from source (proximal) to sink (distal) of Merapi basalt-andesitic stratovolcano.
 - Constrain volcaniclastic mineral sorting in fluvial, aeolian, and coastal environments.
-- Provide insights for interpreting Martian sedimentary systems based on terrestrial analogs.
-- Investigate mineralogical, elemental, and spatial variability from source (proximal) to sink (distal) of Merapi basalt-andesitic stratovolcano.
-- Provide insights for Mars' older and more recent volcaniclastics by focusing on anorthite, albite, and pyroxene.
-- Provide insights for interpreting Mars' older and more recent volcaniclastics by focusing on anorthite, albite, and pyroxene.
-- Investigate mineralogical, elemental, and spatial variability from source (proximal) to sink (distal)
-- Constrain volcaniclastic mineral sorting in fluvial, aeolian, and coastal environments
-- Provide insights for Martian volcaniclastics by focusing on anorthite, albite, and pyroxene
-- Investigate mineralogical variability from source (proximal) to sink (distal)
-- Analyze elemental variability across different sedimentary systems
-- Assess spatial variability of volcaniclastics
-- Provide insights for interpreting Mars' older and more recent volcaniclastics by focusing on anorthite, albite, and pyroxene
 
 ## Methods
 
-The study employed a multi-method approach: 1. Fieldwork: Sample collection from the Opak River (proximal to distal), Opak Estuary, and Parangkusumo Shoreface using USGS field methods; 2. Laboratory Analysis: Grain size separation via sieve analysis; Digital petrography of thin sections (scanned with Zeiss AxioScan, processed with Zen Blue and FIJI ImageJ); XRD (Panalytical Empyrean) for mineral abundance; XRF (BRUKER M4 Tornado) for major/minor elemental concentrations; 3. Statistical Analysis: Calculation of Pyroxene/Plagioclase (Px/PF) ratios, Chemical Index of Alteration (CIA), and multivariate analysis (PCA and HCPC using R software); 4. Geophysics & Remote Sensing: Ground Penetrating Radar (GPR) to map subsurface structures; COSI-Corr for remote sensing analysis of Sentinel-2 satellite imagery to track bedform migration.
+The study employed a multi-scale approach: 1) Fieldwork included sample collection across a transect from Merapi (proximal) to Parangkusumo dunes (distal). 2) Laboratory analysis involved grain size separation via sieve analysis, digital petrography of thin sections using Zeiss AxioScan and FIJI ImageJ, and mineral/elemental quantification using XRD (Panalytical Empyrean) and XRF (BRUKER M4 Tornado). 3) Statistical analysis included PCA and HCPC in R software to identify patterns. 4) Geophysics involved GPR (GSSI SIR 4000) for subsurface profiling of dunes/shorefaces. 5) Remote sensing used the COSI-Corr method on Sentinel-2 imagery to calculate bedform migration rates.
 
 ## Data and Materials
 
-The study utilized 12 stream sediment samples (S2A-S12B), 3 hand specimen samples (S1A-S2C), 5 shoreface samples (C1A-C1C), and 5 sand dune samples (B1C-B1E). Data included Sentinel-2 satellite imagery, GPR profiles of varying lengths (e.g., 90m for coastal sections), and mineralogical/elemental data from XRD and XRF.
+Samples collected from: Merapi stratovolcano (proximal), Opak River (medial), Opak Estuary, Parangkusumo Shoreface, and Parangkusumo parabolic sand dunes (distal). Data includes 12 stream sediment samples (S2A-S12A), several hand specimens (S1A-S2C), shoreface samples (C1A-C1C), and dune samples (B1C-B1E). Remote sensing data included 6 Sentinel-2 images from 2017-2019.
 
 ## Key Findings
 
 - The distal part of Merapi sedimentary systems is undergoing a more rapid bedform migration than the proximal and medial sites, despite a phreatic eruption in 2018. ([[2022-argadestya|Argadestya, 2022, p. 14]])
 - Provenance contains pyroclastic materials dominated by plagioclase feldspars (albite and anorthite), followed by pyroxenes (augite and enstatite). ([[2022-argadestya|Argadestya, 2022, p. 15]])
-- Alteration modeling from CIA and A-CN-K ternary diagram of Merapi samples favors the fluvially-deposited Gale crater rocks instead of gravitationally-driven from the crater rim. ([[2022-argadestya|Argadestya, 2022, p. 17]])
-- PCA and HCPC were able to discriminate between fluvial, fluvio-coastal-aeolian, and marine influenced deposits. ([[2022-argadestya|Argadestya, 2022, p. 15]])
-- Merapi is an active stratovolcano with a basaltic to basalt-andesitic composition (7.54°S, 110.446°E). ([[2022-argadestya|Argadestya, 2022, p. 26]])
-- Merapi volcaniclastics are primarily composed of volcanic glass (50%), plagioclase (30%), hornblende (10%), quartz (6%), and opaque minerals including pyroxenes (4%). ([[2022-argadestya|Argadestya, 2022, p. 32]])
-- Plagioclase in Merapi samples was identified to bear 44% anorthite and 54% albite, confirming its classification as andesine. ([[2022-argadestya|Argadestya, 2022, p. 33]])
-- Merapi volcaniclastics exhibit a calc-alkaline basalt-andesitic nature with a SiO2:Al2O3:CaO ratio of 53:19:9. ([[2022-argadestya|Argadestya, 2022, p. 33]])
-- The Opak River transitions from a proximal (0-20km) meandering system to a medial site where it follows the Opak Fault, with slope angles of 8.27° (proximal-medial) and 0.32% (medial-distal). ([[2022-argadestya|Argadestya, 2022, p. 29]])
-- Tidal ranges in the Opak Estuary and Parangkusumo Shoreface are categorized as micro-tidal, with semidiurnal ranges of 40–50 cm and diurnal ranges of 15–20 cm. ([[2022-argadestya|Argadestya, 2022, p. 30]])
-- Parabolic sand dunes located ~3km southeast of the Opak Estuary are situated 300m inland from the foreshore, with heights reaching 6-7 m. ([[2022-argadestya|Argadestya, 2022, p. 32]])
-- Mars' crust is predominantly basaltic but shows significant diversity; for example, the Murray formation contains a basalt-andesite with SiO2 concentration of 53.1 ± 1.9 wt%. ([[2022-argadestya|Argadestya, 2022, p. 35]])
-- The Wishstone class rocks on Mars (e.g., at Home Plate) show high Al/Si ratios and contain minerals like plagioclase, pyroxene, and olivine. ([[2022-argadestya|Argadestya, 2022, p. 38]])
-- The study identifies a distinct difference in mineral sorting between pre-fault and post-fault fluvial segments of the Opak River. ([[2022-argadestya|Argadestya, 2022, p. 49]])
-- The proximal site has the average coarsest grains, with 24-40% of its grain size fraction consisting of very coarse and medium sand combined. ([[2022-argadestya|Argadestya, 2022, p. 72]])
+- Alteration modeling from CIA and A-CN-K ternary diagram of Merapi samples favors the fluvially-deposited Gale crater rocks instead of gravitationally-driven from the crater rim. ([[2022-argadestya|Argadestya, 2022, p. 15]])
+- The Opak River's transition from a meandering river at the medial site to an estuary is influenced by the Opak Fault, with a slope change from 8.27° (proximal-medial) to 0.32° (medial-distal). ([[2022-argadestya|Argadestya, 2022, p. 29]])
+- Tidal range in Opak Estuary and Parangkusumo coastal area is categorized as micro-tidal (40–50 cm semidiurnal; 15–20 cm diurnal). ([[2022-argadestya|Argadestya, 2022, p. 30]])
+- Parangkusumo parabolic dunes are situated 300 m inland from the foreshore, with heights reaching up to 6-7 m. ([[2022-argadestya|Argadestya, 2022, p. 32]])
+- XRD analysis of Merapi pyroclastics showed volcanic glass (50%), plagioclase (30%), hornblende (10%), quartz (6%), and opaque minerals including pyroxenes (4%). ([[2022-argadestya|Argadestya, 2022, p. 32]])
+- The average grain size of sample S12A (distal) was the coarsest among all samples, with 60% being very coarse sand. ([[2022-argadestya|Argadestya, 2022, p. 72]])
+- Aeolian deposits show a linear decreasing trend of very coarse-to-coarse and very fine-to-silt sized grains parallel to the prevailing wind direction. ([[2022-argadestya|Argadestya, 2022, p. 72]])
+- GPR profiles revealed an interpreted established foredune buried approximately 6 m beneath the modern lee surface of the parabolic dune. ([[2022-argadestya|Argadestya, 2022, p. 70]])
+- Mineralogical sorting shows a distinct transition: proximal sites are dominated by plagioclase feldspar (Px/PF ratio 0.31-0.38), while medial and distal sites show pyroxene dominance (Px/PF ratio 47-63). ([[2022-argadestya|Argadestya, 2022, p. 86]])
+- Sample S12B is a distinct outlier with the lowest albite (7.15%) and enstatite (7%) but highest anorthite (59.05%), coupled with high concentrations of Mn, P, and Ti. ([[2022-argadestya|Argadestya, 2022, p. 91]])
+- Merapi volcaniclastics are characterized by low chemical alteration, with an average CIA value of 45 (S6A having the highest at 58). ([[2022-argadestya|Argadestya, 2022, p. 87]])
+- The study identified a PCA model where PC-1 accounts for 93.99% of the variance, successfully separating three distinct mineralogical clusters. ([[2022-argadestya|Argadestya, 2022, p. 92]])
+- Flushing/transport by fluvial systems is capable to transport pyroxenes further into distal sites despite their higher density compared to plagioclase feldspar. ([[2022-argadestya|Argadestya, 2022, p. 108]])
 
 ## Limitations
 
@@ -155,7 +116,7 @@ Not stated in source
 
 ## Recommendations and Future Work
 
-- Implement a tidal-gauge measurement in-situ within the estuary to provide 3D data (river depth) for modeling the evolution of the Opak Estuary.
+- Implement a tidal-gauge measurement in-situ within the estuary to provide 3D data (including river depth) for modeling the evolution of the Opak Estuary.
 - Collect a longer interval of high-resolution multitemporal satellite imagery to observe bedform migration of parabolic sand dunes prior to stabilization.
 
 ## Related Concepts
@@ -163,17 +124,12 @@ Not stated in source
 - [[xrd]]
 - [[xrf]]
 - [[ground-penetrating-radar]]
-- [[thin-section-petrography]]
-- [[sedimentology]]
-- [[mineralogy]]
-- [[volcanology]]
-- [[java-island]]
 - [[remote-sensing]]
-- [[mineral-sorting]]
-- [[planetary-science]]
-- [[javaisland]]
-- [[merapi-volcaniclastic]]
-- [[gpr]]
-- [[hcpc]]
-- [[planetary-geology]]
 - [[volcaniclastics]]
+- [[mineral-sorting]]
+- [[sedimentology]]
+- [[java-island]]
+- [[paleoenvironmental-reconstruction]]
+- [[pca]]
+- [[cia]]
+- [[grain-size-distribution]]

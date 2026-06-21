@@ -16,152 +16,115 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/9964/"
 study_area: "Wadi Al-Miyah area, Eastern Province, Saudi Arabia"
 keywords:
   - groundwater flow system
-  - Wadi Al-Miyah
+  - hydrogeological units
   - electrical resistivity model
-  - hydrogeologic units
   - Rus formation
   - vertical leakage zones
   - Neogene aquifer
   - Alat aquifer
   - Khobar aquifer
-  - hydrogeological setting
-  - SUTRA model
-  - solute distribution
-  - Dammam formation
-  - Hadrukh formation
-  - electrical resistivity survey
-  - hydrogeological units
-  - Saudi Arabia
-  - aquifer
+  - hydrogeologic units
+  - SUTRA
   - solute transport
   - chloride concentration
-  - salinity
-  - Eastern Saudi Arabia
+  - SUTRA model
+  - transient simulation
+  - steady-state calibration
   - vertical leakage
-  - SUTRA simulation
-  - hydrogeology
-  - modeling
+  - aquifer characterization
 techniques:
-  - ladsat-tm
-  - electrical-resistivity-tomography
-  - finite-element-modeling
-  - well-log-analysis
-  - hydrochemical-analysis
+  - electrical-resistivity-survey
+  - ves
+  - resinip
   - remote-sensing
-  - gis
-  - groundwater-modeling
-  - finite-element-method
+  - landsat-tm
   - gps
-  - ladsat-tm-images
-  - electrical-resistivity-model
+  - finite-element-modeling
   - sutra
-  - ladsat-tm-imagery
+  - hydrochemical-analysis
+  - electrical-resistivity-tomography
+  - groundwater-modeling
+  - well-log-analysis
+  - petrophysics
+  - ladsat-tm-images
   - electrical-resistivity-modeling
-  - sutra-modeling
 tags:
   - degree/ms
   - formation/rus-formation
-  - formation/khobar-aquifer
-  - formation/al-at-aquifer
-  - formation/neogene-aquifer
-  - formation/dammam-formation
+  - formation/dam-formation
   - formation/hadrukh-formation
-  - formation/umm-al-radhuma-formation
+  - formation/khobar-aquifer
+  - formation/alat-aquifer
+  - formation/neogene-aquifer
   - location/wadi-al-miyah
   - location/eastern-province
-  - location/saudi-arabia
   - technique/electrical-resistivity-tomography
-  - technique/groundwater-modeling
   - technique/remote-sensing
-  - technique/gis
-  - technique/well-log-analysis
-  - technique/gps
+  - technique/groundwater-modeling
   - technique/hydrochemical-analysis
   - theme/hydrogeology
   - theme/groundwater-flow
-  - theme/groundwater-modeling
   - terminology/vertical-leakage
-  - terminology/sabkha
-  - terminology/aquifer-characterization
-  - terminology/solute-transport
-  - terminology/groundwater-flow
-  - terminology/salinity
+  - terminology/porosity
+  - terminology/hydrogeology
 status: ingested
 ---
 
 # Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia
 
-**Summary**: The thesis models the groundwater flow and solute transport in the Wadi Al-Miyah area of Eastern Saudi Arabia, focusing on three aquifers (Neogene, Alat, and Khobar). It utilizes a modified SUTRA code to simulate steady-state and transient conditions to evaluate the impact of pumping and vertical leakage on head levels and chloride concentrations.
+**Summary**: The thesis investigates the hydrogeological system of the Wadi Al-Miyah area in Eastern Saudi Arabia, focusing on three main aquifers: Neogene, Alat, and Khobar. It utilizes electrical resistivity surveys (VES) to determine unit thicknesses and a finite element model to simulate groundwater flow and solute transport.
 
 ---
 
 ## Research Problem
 
-The study addresses the management of groundwater resources in the Wadi Al-Miyah area, specifically investigating how historical and current extraction rates affect hydraulic heads and salinity (chloride concentration) in the Neogene, Alat, and Khobar aquifers under both steady-state and transient conditions.
+The study addresses the impact of intensive pumping on water levels, solute distribution (specifically salinity), and the identification of vertical leakage zones in the multi-aquifer system of the Wadi Al-Miyah area, where high extraction rates threaten the sustainability of both shallow and deep aquifers.
 
 ## Objectives
 
-- Construct a detailed geological map of the Wadi Al-Miyah area using LADSAT-TM images.
-- Develop an electrical resistivity model to determine the thickness of various hydrogeologic units.
-- Identify vertical leakage zones between different aquifers based on estimated leakage rates.
-- Simulate existing and future groundwater flow and solute distribution patterns in the Neogene, Alat, and Khobar aquifers.
-- Predict future trends of groundwater flow and chloride concentration for the period 1994-2010.
 - To collect and analyze relevant groundwater and hydrogeological data to understand the physical behavior of the shallow aquifer system underlying Wadi Al-Miyah area.
-- Modeling of geological, geophysical and hydrogeological data to present an overall groundwater flow and solute distribution pattern through simulation studies.
-- Prediction of long-term changes in regional flow system and the hazardous effects of overpumping which may be used for a better planning and management.
-- To study the distribution of permeable levels in the Neogene cover.
-- To determine the thickness of the surfacial saline layer.
-- To determine the thickness of the Neogene-Alat units, overlying the Khobar aquifer.
+- Modeling of geological, geophysical, and hydrogeological data to present an overall groundwater flow and solute distribution pattern through simulation studies.
+- Prediction of long-term changes in regional flow system and the hazardous effects of overpumping which may be used for better planning and management.
+- Construct a detailed geological map based on LADSAT-TM images.
 - Develop an electrical resistivity model to determine the thickness of hydrogeologic units.
-- Identify vertical leakage zones between aquifers based on head differences and lithological variations.
-- Model groundwater flow and solute transport (chloride) using the SUTRA code.
-- Identify vertical leakage zones based on estimated leakage rates between different aquifers.
-- Simulate and calibrate groundwater flow and chloride transport in the Neogene, Alat, and Khobar aquifers.
-- Evaluate the impact of pumping and historical extraction on the distribution of hydraulic heads and salt concentrations.
-- Develop an electrical resistivity model to determine hydrogeologic unit thicknesses.
-- Identify vertical leakage zones between aquifers based on estimated leakage rates.
-- Model and predict future water levels and chloride concentrations under different pumping scenarios.
-- Identify vertical leakage zones and their contribution to solute transport between aquifers.
-- Simulate groundwater flow and solute transport using the SUTRA model to predict future water levels and chloride concentrations.
-- Identify potential boundaries of collapsing structures in the Rus formation.
-- Determine vertical leakage zones based on estimated leakage rates between different aquifers.
+- Identify vertical leakage zones between different aquifers based on estimated leakage rates.
 
 ## Methods
 
-The study employs a multi-step modeling approach. First, remote sensing (LADSAT-TM) was used for mapping. An electrical resistivity model was developed to define aquifer thicknesses. A modified Fortran code (SUTRA) was used for groundwater flow and solute transport simulation; the code was specifically modified to handle unconfined conditions in the Neogene aquifer. The modeling process included a two-stage calibration: steady-state calibration to match pre-development head and chloride concentrations, followed by transient calibration to simulate the effects of pumping from 1967 to 1994. Parameters such as transmissivity, vertical leakage, and recharge were adjusted during these stages.
+The study utilized remote sensing (LANDSAT-TM) to create a 1:150,000 scale geological map. Electrical resistivity surveys using the RESINIP apparatus and Vertical Electrical Sounding (VES) with a Schlumberger array were conducted to determine thickness of hydrogeologic units. A finite element model was developed for groundwater flow and solute transport (using SUTRA logic). The model was calibrated under steady-state and transient conditions to predict water levels and chloride concentrations from 1994 to 2010.
 
 ## Data and Materials
 
-The study utilizes data for three aquifers (Neogene, Alat, Khobar) in the Wadi Al-Miyah area. Data includes: LADSAT-TM satellite imagery; electrical resistivity models; historical pumping records from 1967 to 1994; and monitoring well data (head and chloride concentration) from 18 Ministry of Agriculture and Water (MAW) wells.
+Data included LADSAT-TM images for mapping; results from 7 sounding points (VES) with GPS coordinates; borehole data for stratigraphic correlation; and historical pumping records for the Neogene, Alat, and Khobar aquifers. Parameters such as permeability (from 78 pumping tests), porosity, and recharge rates were used in the SUTRA model.
 
 ## Key Findings
 
-- The correlation of the resistivity model with stratigraphic units revealed a probable boundary of a collapsing structure in the Rus formation. ([[1995-hasan|Hasan, 1995, p. 28]])
-- High vertical leakage at certain locations confirmed the interconnection and lithologic control on groundwater flow and solute distribution. ([[1995-hasan|Hasan, 1995, p. 28]])
-- chloride concentration along the Gulf coast was very high in the aquifers. ([[1995-hasan|Hasan, 1995]])
-- page_number_not_found_in_source_text_but_present_in_abstract_summary_on_page_28 ([[1995-hasan|Hasan, 1995]])
-- The Dammam formation thickness varies from 125 to 200 meters across the study area. ([[1995-hasan|Hasan, 1995, p. 49]])
-- The Hadrukh formation has a thickness of approximately 50 m and is characterized by sedimentary clastics with good hydraulic properties, yielding up to 50 l/sec. ([[1995-hasan|Hasan, 1995, p. 60]])
-- The Khobar aquifer thickness varies from 35 to 125 meters and exhibits a range of permeability values due to varying degrees of fracturing and karstification. ([[1995-hasan|Hasan, 1995, p. 55]])
-- The Alat aquifer is a secondary aquifer with a thickness ranging from 36 to 57 meters, showing lower transmissivity compared to the Khobar aquifer. ([[1995-hasan|Hasan, 1995, p. 55]])
-- The Neogene aquifer has a saturated thickness of 50 to 125 meters and exhibits permeability values ranging from 0.1 to 300 m/d. ([[1995-hasan|Hasan, 1995, p. 58]])
-- Sabkhahs in the study area are formed in elongated depressions of structural origin, trending north to northeast, and act as natural discharge zones for the Neogene aquifer. ([[1995-hasan|Hasan, 1995, p. 45]])
-- The Rus formation acts as an aquitard where thickness varies from less than 50 meters to 150 meters; it is primarily composed of dolomite on structural highs and impermeable anhydrite/gypsum in troughs. ([[1995-hasan|Hasan, 1995, p. 61]])
-- The Alat Marl (Orange marl) aquitard has a vertical hydraulic conductivity of approximately 2.5974 m/d and varies in thickness from 10 to 30 meters. ([[1995-hasan|Hasan, 1995, p. 61]])
-- The Neogene-Alat interface is characterized as a slim aquitard with vertical hydraulic conductivity ranging from 10^-8 to 2 x 10^-7 m/day. ([[1995-hasan|Hasan, 1995, p. 64]])
-- Resistivity values of 5-10 ohm-m correspond to zones where the Neogene-Alat has relatively low true resistivities (5-8 ohm-m) and the cover is thin. ([[1995-hasan|Hasan, 1995, p. 69]])
-- A significant thickness increase in units toward the northeast indicates a boundary of a probable collapse structure. ([[1995-hasan|Hasan, 1995, p. 78]])
+- An electrical resistivity model identified a probable boundary of a collapsing structure in the Rus formation, enhancing vertical connection between aquifers. ([[1995-hasan|Hasan, 1995, p. 206]])
+- High vertical leakage at certain locations confirmed the interconnection and the lithologic control on the groundwater flow and solute distribution. ([[1995-hasan|Hasan, 1995, p. 28]])
+- Chloride concentration along the Gulf coast was very high in the aquifers, with some areas showing concentrations below 500 ppm in the Khobar aquifer. ([[1995-hasan|Hasan, 1995, p. 28]])
+- The Khobar aquifer is a calcarenitic and slightly dolomitic limestone, with thickness varying from 35 to 125 meters. ([[1995-hasan|Hasan, 1995, p. 55]])
+- The Alat aquifer is a secondary aquifer of porous, karstified and fissered limestone and dolomitic limestones, with thickness ranging from 36 to 57 meters. ([[1995-hasan|Hasan, 1995, p. 55]])
+- The Neogene aquifer has permeability ranging from 0.1 to 300 m/d and a thickness of 50 to 125 meters. ([[1995-hasan|Hasan, 1995, p. 58]])
+- The Alat Marl Aquitard (Orange marl) has a vertical hydraulic conductivity of approximately 2.5974 m/d and a thickness of 10 to 30 meters. ([[1995-hasan|Hasan, 1995, p. 61]])
+- The Neogene Leakage Interface Aquitard has a vertical hydraulic conductivity in the range of 10^-8 to 2 x 10^7 m/d. ([[1995-hasan|Hasan, 1995, p. 64]])
+- Neogene aquifer (CA1) is an unconfined limestone unit with thickness ranging from 50 to 125 m. ([[1995-hasan|Hasan, 1995, p. 85]])
+- Alat limestone aquifer (CA2) is a confined unit with thickness of 10 to 30 m, separated by the Alat marl (CB2). ([[1995-hasan|Hasan, 1995, p. 86]])
+- Khobar limestone aquifer (CA3) is a confined unit with thickness of 25 to 194 m. ([[1995-hasan|Hasan, 1995, p. 86]])
+- The Rus formation acts as an aquitard but contains eroded zones (windows) that allow vertical leakage of high-salinity water from the Umm Er Radhuma aquifer into the Khobar and Alat aquifers. ([[1995-hasan|Hasan, 1995, p. 113]])
+- Vertical leakage rates were calculated to range from 1.4 x 10^-7 to 9.8 x 10^-5 m^3/sec per unit area. ([[1995-hasan|Hasan, 1995, p. 127]])
+- The total extraction rate for the Dammam aquifers (Alat and Khobar) is approximately 360 million m^3/year, exceeding natural recharge. ([[1995-hasan|Hasan, 1995, p. 109]])
+- Chloride concentrations in the Umm Er Radhuma aquifer reached over 4 times the concentration of seawater (over 12,000 ppm) near coastal areas. ([[1995-hasan|Hasan, 1995, p. 103]])
 
 ## Limitations
 
-The study used a two-dimensional model where each aquifer was simulated individually; a three-dimensional model is recommended for future work. Extraction data used for projections were noted as being somewhat discontinuous and based on the best possible estimates.
+The study notes that if the earth underneath a sounding site is laterally inhomogeneous, the results of resistivity interpretation may not be related to the actual subsurface structure. Additionally, some aquifer parameters were estimated based on indirect indicators due to sparse data in certain areas.
 
 ## Recommendations and Future Work
 
-- Develop a 3D model to simulate the interaction of aquifers simultaneously.
-- Develop an optimization model for efficient groundwater management using current simulation results.
+- Develop a 3D model to simulate the simultaneous interaction of all aquifers.
+- Develop an optimization model for groundwater management based on current simulation results.
 - Acquire more field data for aquifer parameters to reduce uncertainty in spatial distribution.
-- Perform continuous monitoring of water levels and salinity to implement preventive measures.
+- Establish continuous monitoring of water levels and salinity to implement preventive measures.
 
 ## Related Concepts
 
@@ -169,18 +132,10 @@ The study used a two-dimensional model where each aquifer was simulated individu
 - [[groundwater-modeling]]
 - [[rus-formation]]
 - [[khobar-aquifer]]
-- [[al-at-aquifer]]
+- [[alat-aquifer]]
 - [[neogene-aquifer]]
-- [[wadi-al-miyah]]
 - [[vertical-leakage]]
+- [[porosity]]
+- [[wadi-al-miyah]]
 - [[hydrogeology]]
-- [[remote-sensing]]
-- [[dammam-formation]]
-- [[hadrukh-formation]]
-- [[sabkha]]
 - [[groundwater-flow]]
-- [[aquifer-characterization]]
-- [[solute-transport]]
-- [[hydrochemical-analysis]]
-- [[umm-er-radhuma-formation]]
-- [[salinity]]

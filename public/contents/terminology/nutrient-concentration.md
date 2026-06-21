@@ -2,9 +2,9 @@
 type: terminology
 title: "Nutrient Concentration"
 aliases:
-  - "nutrient levels"
+  - "inorganic nutrients"
 canonical: true
-definition: "Concentration of nitrogen and phosphorus compounds in water."
+definition: "Concentrations of nitrate (NO3-), nitrite (NO2-), and phosphate (PO4-)."
 units: "µmol/L"
 related_techniques:
   - "hydrochemical-analysis"
@@ -13,33 +13,33 @@ tags:
 sources:
   - "raw/139640 - INFLUENCE OF TREATED SEWAGE EFFLUENTS ON SAUDI COAST OF THE ARABIAN GULF FROM WA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Nutrient Concentration
 
-**Summary**: The amount of essential elements like nitrogen and phosphorus in water.
+**Summary**: The amount of essential elements like nitrogen and phosphorus in the water.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-yusuf|Yusuf, 2015]] measured nutrient-concentration to assess eutrophication risk.
+- [[2015-yusuf|Yusuf, 2015]] measured nutrient-concentration to determine the extent of eutrophication risk.
 
 ## Scientific Context
 
-- [[2015-yusuf|Yusuf, 2015]] Assessment of nutrient enrichment from sewage.
+- [[2015-yusuf|Yusuf, 2015]] High nutrients lead to eutrophication and harmful algal blooms.
 
 ## Measurement and Characterization Methods
 
-- [[2015-yusuf|Yusuf, 2015]] Automated analysis using Skalar San++.
+- [[2015-yusuf|Yusuf, 2015]] Quantified using Skalar San++ auto-analyzer.
 
 ## Key Findings Across Sources
 
-- Nitrate concentrations ranged from 2.1 to 29.05 µmol/L at discharge points. ([[2015-yusuf|Yusuf, 2015, p. 37]])
+- All three outfall locations were found to serve as important sources of inorganic nutrient into the coastal waters. ([[2015-yusuf|Yusuf, 2015, p. 14]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -16,62 +16,55 @@ study_area: "Epsilon oil field, Prinos Basin, North Aegean Sea, Greece"
 keywords:
   - pore pressure prediction
   - artificial intelligence
-  - well logs
-  - machine learning
   - neural networks
-  - Formation Pressure
+  - well logs
+  - real-time monitoring
 techniques:
-  - neural-networks
   - machine-learning-geoscience
-  - well-log-analysis
+  - neural-networks
+  - data-analysis
 tags:
   - degree/ms
   - location/prinos-basin
   - technique/machine-learning-geoscience
-  - technique/well-log-analysis
   - technique/neural-networks
   - theme/petrophysics
-  - theme/reservoir-engineering
-  - theme/petroleum-engineering
-  - terminology/pore-pressure
+  - theme/well-log-analysis
+  - terminology/in-situ-stress
+  - terminology/petrophysics
 status: ingested
 ---
 
 # PREDICTION OF FORMATION PRESSURE FROM WELL LOGS USING ARTIFICIAL INTELLIGENCE TECHNIQUES
 
-**Summary**: The thesis investigates the use of artificial intelligence, specifically Artificial Neural Networks (ANN), to predict pore pressure from well log data in the Epsilon oil field within the Prinos Basin. The study concludes that ANN models provide high accuracy for real-time prediction compared to other methods.
+**Summary**: The thesis investigates the use of artificial intelligence, specifically Artificial Neural Networks (ANN), to predict formation pore pressure in real-time using well log data and core measurements. The study concludes that an ANN model utilizing temperature, porosity, and water saturation as inputs provides a highly accurate prediction with low average absolute percentage error (AAPE).
 
 ---
 
 ## Research Problem
 
-Predicting formation pressure in real-time is critical for drilling safety and economics, but Pressure While Drilling (PWD) equipment is costly and not always available; therefore, accurate prediction using standard well logs (resistivity, GR, density, sonic) is needed.
+The difficulty of obtaining real-time pore pressure data due to the high cost and limited availability of Pressure While Drilling (PWD) equipment in certain fields like the Epsilon oil field in the Prinos Basin.
 
 ## Objectives
 
-- Create models for real-time pore pressure gradient prediction using available logs and core data.
-- Evaluate different artificial intelligence techniques including ANN, radial basis function model, and general regression neural network.
-- Develop an empirical equation based on the optimized ANN model to predict pore pressure.
-- Evaluate the effectiveness of artificial intelligence techniques for predicting formation pressure from well log data.
-- Compare AI-based models with traditional geopressure prediction equations.
-- Develop a robust method to predict pore pressure gradients using integrated well log parameters.
+- Develop models for real-time pore pressure gradient prediction using available logs and core data.
+- Compare different artificial intelligence techniques: Artificial Neural Networks (ANN), Radial Basis Function (RBF) model, and General Regression Neural Network (GRN).
+- Extract a usable mathematical equation from the optimized ANN model to predict pore pressure.
 
 ## Methods
 
-The study utilized 48 data points from Well-3 (temperature, porosity, water saturation, and pore pressure). Data were preprocessed by removing non-real values and outliers (outside ±3.0 standard deviations). Three models were compared: ANN, radial basis function, and general regression neural network. The optimal ANN configuration included a single learning layer with 23 neurons, using the Bayesian regularization backpropagation training function and a logarithmic sigmoidal transfer function. An empirical equation was derived from the weights and biases of the optimized ANN to allow for direct calculation of pore pressure.
+The study involved data collection of 48 points for temperature, porosity, water saturation, and pore pressure from Well-3. Data preprocessing included removing non-real values (e.g., Sw < 0 or > 1) and outliers beyond ±3 standard deviations. Three models were tested: ANN, RBF, and GRN. The ANN model was optimized by testing various training functions (Levenberg-Marquardt, resilient backpropagation, Bayesian regularization), activation functions (tangential sigmoidal, logarithmic sigmoidal, linear), and network architectures (1 to 3 layers, 4 to 30 neurons). The final optimized model used a single layer with 5 neurons, Bayesian regularization, and a logarithmic sigmoidal function. A mathematical equation was derived from the weights and biases of this ANN to allow for direct calculation.
 
 ## Data and Materials
 
-48 data points (initial) reduced to 46 valid datasets from Well-3 in the Epsilon oil field, including formation temperature, porosity, water saturation, and pore pressure. A subset of 42 points was used for training, while others were used for testing/validation.
+Data collected from Well-3 in the Epsilon oil field (Prinous Basin) included 48 data points initially; after preprocessing, 42 datasets were used for training and testing. Parameters included formation temperature (°C), porosity (fraction), water saturation (fraction), and pore pressure (psi).
 
 ## Key Findings
 
-- The ANN model showed high accuracy during the training phase with a correlation coefficient (R) of 0.875 and an average absolute percentage error (AAPE) of 4.22%. ([[2023-alzayer|Alzayer, 2023, p. 15]])
-- The derived empirical equation for pore pressure prediction showed high accuracy on test data with a correlation coefficient (R) of 0.957 and an AAPE of 5.44%. ([[2023-alzayer|Alzayer, 2023, p. 17]])
-- Of the three methods tested (ANN, radial basis function, and general regression neural network), the ANN was found to be the most accurate for prediction. ([[2023-alzayer|Alzayer, 2023, p. 11]])
-- The optimal ANN configuration used a single learning layer with 23 neurons, Bayesian regularization backpropagation, and a logarithmic sigmoidal transfer function. ([[2023-alzayer|Alzayer, 2023, p. 10]])
-- Artificial Neural Networks (ANNs) are identified as effective tools for various applications including flood forecasting, lithology identification, and predicting wellbore instability. ([[2023-alzayer|Alzayer, 2023, p. 33]])
-- Machine learning and data analytics can be used to detect downhole abnormalities while drilling horizontal wells. ([[2023-alzayer|Alzayer, 2023, p. 34]])
+- The Artificial Neural Network (ANN) was identified as the most accurate method among the three tested models (ANN, RBF, and GRN) for predicting pore pressure. ([[2023-alzayer|Alzayer, 2023, p. 11]])
+- The optimized ANN model achieved a high correlation coefficient (R) of 0.875 and an Average Absolute Percentage Error (AAPE) of 4.22% during the training phase. ([[2023-alzayer|Alzayer, 2023, p. 27]])
+- The derived equation for pore pressure estimation, tested on remaining data points from Well-3, yielded a correlation coefficient (R) of 0.957 and an AAPE of 5.44%. ([[2023-alzayer|Alzayer, 2023, p. 29]])
+- Input parameters included formation temperature (range: 137.3 to 149.2 °C), porosity (range: 0.037 to 0.182), and water saturation (range: 0.001 to 0.999). ([[2023-alzayer|Alzayer, 2023, p. 23]])
 
 ## Limitations
 
@@ -83,10 +76,8 @@ Not stated in source
 
 ## Related Concepts
 
-- [[machine-learning]]
-- [[well-log-analysis]]
-- [[pore-pressure]]
-- [[prinos-basin]]
-- [[petrophysics]]
+- [[machine-learning-geoscience]]
 - [[neural-networks]]
-- [[petroleum-engineering]]
+- [[in-situ-stress]]
+- [[petrophysics]]
+- [[prinos-basin]]

@@ -1,45 +1,48 @@
 ---
 type: terminology
 title: "Land Subsidence"
-aliases: []
+aliases:
+  - "ground subsidence"
+  - "deformation"
 canonical: true
-definition: "Ground surface deformation caused by the reduction of pore pressure or compaction of aquifer materials."
-units: "mm"
+definition: "Ground surface movement resulting from aquifer compaction."
+units: "cm"
 related_techniques:
-  - "in-sar"
+  - "insar"
+  - "din-sar"
 tags:
   - theme/land-subsidence
 sources:
   - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Land Subsidence
 
-**Summary**: The gradual and measurable settling or downward movement of the ground surface.
+**Summary**: The downward settling of the earth's surface caused by changes in pore fluid pressure and effective stress.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2019-prasetyo|Prasetyo, 2019]] investigated land subsidence as a consequence of groundwater withdrawal in the Eastern Province.
+- [[2019-prasetyo|Prasetyo, 2019]] analyzed land subsidence as a consequence of groundwater extraction.
 
 ## Scientific Context
 
-- [[2019-prasetyo|Prasetyo, 2019]] Critical for infrastructure safety and long-term aquifer integrity.
+- [[2019-prasetyo|Prasetyo, 2019]] Critical for infrastructure safety in urban areas and understanding aquifer health.
 
 ## Measurement and Characterization Methods
 
-- [[2019-prasetyo|Prasetyo, 2019]] Monitored via InSAR satellite data.
+- [[2019-prasetyo|Prasetyo, 2019]] Measured via InSAR phase difference analysis.
 
 ## Key Findings Across Sources
 
-- Urban areas showed less subsidence than agricultural areas, particularly in Dammam and Hasa. ([[2019-prasetyo|Prasetyo, 2019, p. 15]])
+- Urban areas showed lower subsidence (0 to -6 cm) than agricultural zones (-8 to -13 cm). ([[2019-prasetyo|Prasetyo, 2019, p. 56]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2019-prasetyo|Prasetyo, 2019]] Significant subsidence in Qaryat al Ulya, Nairyah-Al Sarrar, Dammam-Qatif, and Hasa.
 
 ## Open Questions and Research Gaps
 

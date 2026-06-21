@@ -2,18 +2,20 @@
 type: technique
 title: "QEMSCAN"
 aliases:
-  - "QEMSCAN"
   - "quantitative evaluation of minerals by scanning electron microscopy"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "mineral identification and weight percentages"
+output: "mineral identification and quantification"
 tags:
   - technique/qemscan
 sources:
   - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
+  - "raw/140529 - Experimental And Theoretical Investigation of Shale-Fluid Interactions for Drill.pdf"
+  - "raw/140935 - A study on the effect of THMC conditions on scratch test measurements.pdf"
+  - "raw/141373 - Study of Flow Characteristics of Reservoir Rock Using Digital Rock Physics.pdf"
   - "raw/141531 - RESERVOIR HETEROGENEITY AND QUALITY ASSESSMENT OF LATE ORDOVICIAN PALEOVALLEYS, .pdf"
-  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/141532 - ACCELERATED LOW-TEMPERATURE OXIDATION FOR SAND CONSOLIDATION AND PRODUCTION CONT.pdf"
   - "raw/142000 - MICROFACIES AND DIAGENESIS OF LATE JURASSIC - EARLY CRETACEOUS INNER SHELF - OOL.pdf"
   - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
   - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
@@ -26,74 +28,86 @@ sources:
   - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
   - "raw/144073 - Managed Aquifer Recharge for Sustainable Groundwater Management in Eastern Saudi.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # QEMSCAN
 
-**Summary**: A technique for the automated mineralogical analysis of samples using SEM and EDX.
+**Summary**: A technique for identifying and quantifying minerals in a sample.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2017-amao|Amao, 2017]] used QEMSCAN to verify the mineralogy of the test wall in Pseudonubeculina arabica.
+- [[2017-amao|Amao, 2017]] used QEMSCAN to verify the mineralogy of the test wall of Pseudonubeculina arabica.
 
-- [[2020-islam|Islam, 2020]] used QEMSCAN to identify minerals and quantify pore space.
+- [[2017-al-arfaj|Al-Arfaj, 2017]] used qemscan to determine the mineralogical composition and particle size distribution.
 
-- [[2021-ahmed|Ahmed, 2021]] used QEMSCAN on 12 thin sections to determine mineralogy and elemental distribution.
+- [[2019-khan|Khan, 2019]] proposed using QEMSCAN to analyze fluid chemistries and evolution of alterations in the rock.
 
-- [[2021-alabyadh|Alabyadh, 2021]] applied QEMSCAN to map calcite and porosity in selected samples.
+- [[2019-g201703430kfupmedusa|g201703430@kfupm.edu.sa, 2019]] used QEMSCAN to determine the mineral composition of core samples.
 
-- [[2022-khan|Khan, 2022]] used QEMSCAN to perform detailed mineralogical composition analysis on core samples.
+- [[2020-islam|Islam, 2020]] applied QEMSCAN to determine mineral composition and pore volume.
 
-- [[2022-septriandi|Septriandi, 2022]] applied QEMSCAN to generate mineralogical maps and determine percentage ranges of minerals in lithofacies.
+- [[2020-gowida|Gowida, 2020]] used QEMSCAN to identify how the sand grains were bound together by the consolidating residue.
 
-- [[2022-radwan|Radwan, 2022]] used QEMSCAN to determine the mineralogy of various Arabian sand samples.
+- [[2021-alabyadh|Alabyadh, 2021]] applied QEMSCAN to 7 thin sections to map mineralogy and estimate porosity via void space area percentage.
 
-- [[2022-babker|Babker, 2022]] applied QEMSCAN to characterize lithofacies at the micro-scale.
+- [[2022-khan|Khan, 2022]] utilized QEMSCAN to map the mineralogical composition of various lithofacies.
 
-- [[2023-butt|Butt, 2023]] utilized QEMSCAN to quantify minerals in the Al Wajh Formation.
+- [[2022-septriandi|Septriandi, 2022]] utilized QEMSCAN to generate high-resolution mineral maps on representative lithofacies.
 
-- [[2023-rafiq|Rafiq, 2023]] used QEMSCAN to determine the mineralogical composition of representative samples.
+- [[2022-radwan|Radwan, 2022]] used QEMSCAN to identify and quantify minerals in 40 sand samples from the Nafud, Dahna, and AlRub’AlKhali deserts.
 
-- [[2024-hassan|Hassan, 2024]] used QEMSCAN to generate 2D mineralogy maps and define micro-pores in the scan area.
+- [[2022-babker|Babker, 2022]] used QEMSCAN to identify minerals like calcite, dolomite, and quartz across different lithofacies.
 
-- [[2024-al-hakimi|Al-Hakimi, 2024]] used QEMSCAN to determine mineral composition and identify accessory minerals.
+- [[2023-butt|Butt, 2023]] applied QEMSCAN to map minerals in Al Wajh and Musayr formations.
 
-- [[2024-malik|Malik, 2024]] applied QEMSCAN to determine the mineralogical distribution of thin sections.
+- [[2023-rafiq|Rafiq, 2023]] used QEMSCAN to quantify mineralogical variations at the micrometer scale and determine modalogy.
 
-- [[2026-fatima|Fatima, 2026]] used QEMSCAN to quantify minerals in materials L and D.
+- [[2024-hassan|Hassan, 2024]] used qemscan to create mineral micro-maps for identifying carbonate and evaporite distributions.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used QEMSCAN to aid in petrographic description and determination of mineralogy.
+
+- [[2024-malik|Malik, 2024]] applied QEMSCAN to quantify the mineralogical distribution of clastic grains and carbonate minerals.
+
+- [[2026-fatima|Fatima, 2026]] used QEMSCAN to provide quantitative analysis of samples for elements and mineral phases simultaneously.
 
 ## Instruments and Software
 
 
 
-- [[2020-islam|Islam, 2020]] used QEMSCAN to identify minerals and quantify pore space.
+- [[2017-al-arfaj|Al-Arfaj, 2017]] used qemscan to determine the mineralogical composition and particle size distribution.
 
-- [[2021-ahmed|Ahmed, 2021]] used QEMSCAN on 12 thin sections to determine mineralogy and elemental distribution.
+- [[2019-khan|Khan, 2019]] proposed using QEMSCAN to analyze fluid chemistries and evolution of alterations in the rock.
 
-- [[2021-alabyadh|Alabyadh, 2021]] applied QEMSCAN to map calcite and porosity in selected samples.
+- [[2019-g201703430kfupmedusa|g201703430@kfupm.edu.sa, 2019]] used QEMSCAN to determine the mineral composition of core samples.
 
-- [[2022-khan|Khan, 2022]] used QEMSCAN to perform detailed mineralogical composition analysis on core samples.
+- [[2020-islam|Islam, 2020]] applied QEMSCAN to determine mineral composition and pore volume.
 
-- [[2022-septriandi|Septriandi, 2022]] applied QEMSCAN to generate mineralogical maps and determine percentage ranges of minerals in lithofacies.
+- [[2020-gowida|Gowida, 2020]] used QEMSCAN to identify how the sand grains were bound together by the consolidating residue.
 
-- [[2022-radwan|Radwan, 2022]] used QEMSCAN to determine the mineralogy of various Arabian sand samples.
+- [[2021-alabyadh|Alabyadh, 2021]] applied QEMSCAN to 7 thin sections to map mineralogy and estimate porosity via void space area percentage.
 
-- [[2022-babker|Babker, 2022]] applied QEMSCAN to characterize lithofacies at the micro-scale.
+- [[2022-khan|Khan, 2022]] utilized QEMSCAN to map the mineralogical composition of various lithofacies.
 
-- [[2023-butt|Butt, 2023]] utilized QEMSCAN to quantify minerals in the Al Wajh Formation.
+- [[2022-septriandi|Septriandi, 2022]] utilized QEMSCAN to generate high-resolution mineral maps on representative lithofacies.
 
-- [[2023-rafiq|Rafiq, 2023]] used QEMSCAN to determine the mineralogical composition of representative samples.
+- [[2022-radwan|Radwan, 2022]] used QEMSCAN to identify and quantify minerals in 40 sand samples from the Nafud, Dahna, and AlRub’AlKhali deserts.
 
-- [[2024-hassan|Hassan, 2024]] used QEMSCAN to generate 2D mineralogy maps and define micro-pores in the scan area.
+- [[2022-babker|Babker, 2022]] used QEMSCAN to identify minerals like calcite, dolomite, and quartz across different lithofacies.
 
-- [[2024-al-hakimi|Al-Hakimi, 2024]] used QEMSCAN to determine mineral composition and identify accessory minerals.
+- [[2023-butt|Butt, 2023]] applied QEMSCAN to map minerals in Al Wajh and Musayr formations.
 
-- [[2024-malik|Malik, 2024]] applied QEMSCAN to determine the mineralogical distribution of thin sections.
+- [[2023-rafiq|Rafiq, 2023]] used QEMSCAN to quantify mineralogical variations at the micrometer scale and determine modalogy.
 
-- [[2026-fatima|Fatima, 2026]] used QEMSCAN to quantify minerals in materials L and D.
+- [[2024-hassan|Hassan, 2024]] used qemscan to create mineral micro-maps for identifying carbonate and evaporite distributions.
+
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used QEMSCAN to aid in petrographic description and determination of mineralogy.
+
+- [[2024-malik|Malik, 2024]] applied QEMSCAN to quantify the mineralogical distribution of clastic grains and carbonate minerals.
+
+- [[2026-fatima|Fatima, 2026]] used QEMSCAN to provide quantitative analysis of samples for elements and mineral phases simultaneously.
 
 ## Typical Workflow
 
@@ -101,33 +115,39 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- QEMSCAN confirmed that the cement between grains was milky white high-Mg calcite. ([[2017-amao|Amao, 2017, p. 41]])
+- QEMSCAN was used at Baker Hughes Dhahran Technology Research Facility to confirm high-Mg calcite composition. ([[2017-amao|Amao, 2017, p. 63]])
 
-- Showed a strong positive correlation (R=81%) with XRD data regarding quartz content. ([[2020-islam|Islam, 2020, p. 14]])
+- Provided detailed mineralogy and pore size distributions for the samples. ([[2017-al-arfaj|Al-Arfaj, 2017, p. 75]])
 
-- Used to identify minerals and create digital images at each point, providing a detailed view of the carbonate matrix. ([[2021-ahmed|Ahmed, 2021, p. 49]])
+- QEMSCAN allows for complete chemical analysis and provides high resolution images and mineral maps. ([[2019-khan|Khan, 2019, p. 125]])
 
-- Provided detailed mapping of calcite and porosity percentages in 6 representative samples. ([[2021-alabyadh|Alabyadh, 2021, p. 122]])
+- QEMSCAN identified high clay content in the Colton sample (16.5%). ([[2019-g201703430kfupmedusa|g201703430@kfupm.edu.sa, 2019, p. 108]])
 
-- Provided high-resolution mineral mapping and quantification of minerals in the sample. ([[2022-khan|Khan, 2022, p. 108]])
+- The study showed a strong positive correlation (R=81%) between quartz content recorded by QEMSCAN and XRD. ([[2020-islam|Islam, 2020, p. 14]])
 
-- QEMSCAN provided detailed mapping of minerals like calcite, dolomite, quartz, and anhydrite across different lithofacies. ([[2022-septriandi|Septriandi, 2022, p. 64]])
+- The analysis showed the binding of sand grains at their contact points by the LTO-formed residue. ([[2020-gowida|Gowida, 2020, p. 72]])
 
-- Identified quartz, carbonate, plagioclase, and K-feldspar minerals in different desert regions. ([[2022-radwan|Radwan, 2022, p. 46]])
+- Used to resolve mineral mapping at a resolution of 20 um. ([[2021-alabyadh|Alabyadh, 2021, p. 51]])
 
-- Used to identify minerals in grain-dominated (LFA-1, 2, 3) and mud-dominated facies. ([[2022-babker|Babker, 2022, p. 11]])
+- QEMSCAN identified dolomite, gypsum/anhydrite, and halite in the intergranular spaces of dolomitic lithofacies. ([[2022-khan|Khan, 2022, p. 110]])
 
-- Quantification of minerals was performed via QEMSCAN to assess detrital and authigenic components. ([[2023-butt|Butt, 2023, p. 109]])
+- Used to confirm lithofacies from core description by providing detailed mineralogical mapping. ([[2022-septriandi|Septriandi, 2022, p. 63]])
 
-- Provided detailed mineralogical data on primary and secondary minerals. ([[2023-rafiq|Rafiq, 2023, p. 61]])
+- Quantification showed quartz content exceeding 95% in Nafud and Dahna sands, while carbonates reached up to 5% in eastern Dahna corridor sands. ([[2022-radwan|Radwan, 2022, p. 60]])
 
-- QEMSCAN was used to determine mineral content and map it across different microfacies. ([[2024-hassan|Hassan, 2024, p. 50]])
+- QEMSCAN analysis of LFA-1 showed a composition primarily of calcite (over 90%). ([[2022-babker|Babker, 2022, p. 45]])
 
-- Identified small sphene crystals and pyrite in I-type granodiorite rocks. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 39]])
+- Used to distinguish between detrital smectite and authigenic kaolinite. ([[2023-butt|Butt, 2023, p. 30]])
 
-- Verified quartz and feldspar as dominant grains with calcite as cementing material in F4. ([[2024-malik|Malik, 2024, p. 46]])
+- Confirmed the presence of secondary minerals like chlorite and epidote as indicators of hydrothermal alteration. ([[2023-rafiq|Rafiq, 2023, p. 79]])
 
-- Quantified calcite and other minerals in material L. ([[2026-fatima|Fatima, 2026, p. 83]])
+- qemscan results were used to confirm dolomite presence in the upper part of the core section. ([[2024-hassan|Hassan, 2024, p. 103]])
+
+- QEMSCAN microphotographs revealed small sphene crystals (light purple) and pyrite (yellow). ([[2024-al-hakimi|Al-Hakimi, 2024, p. 57]])
+
+- QEMSCAN results verified quartz and feldspar as dominant grains with some calcite as cementing material in the parallel-laminated sandstone facies (F4). ([[2024-malik|Malik, 2024, p. 31]])
+
+- Used to generate maps showing the abundance of different minerals using SEM images and EDS data. ([[2026-fatima|Fatima, 2026, p. 55]])
 
 ## Methodological Variations Across Sources
 

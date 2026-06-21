@@ -2,10 +2,9 @@
 type: terminology
 title: "Environmental Sensitivity"
 aliases:
-  - "Environmental Sensitivity Index (ESI)"
   - "ESI"
 canonical: true
-definition: "A compilation of information about shoreline type, biological resources, and socio-economic features with different scoring."
+definition: "The vulnerability of an area to oil spill impacts based on physical, biological, and economic factors."
 units: "not applicable"
 related_techniques:
   - "gis"
@@ -14,34 +13,34 @@ tags:
 sources:
   - "raw/139862 - Mapping Environmental Sensitivity in the Western Arabian Gulf using Geographic I.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Environmental Sensitivity
 
-**Summary**: A measure of the potential for damage to the environment and human interests from an oil spill.
+**Summary**: The degree to which a natural or human environment is susceptible to damage from pollutants like oil.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-sudibyo|Sudibyo, 2016]] applied Environmental Sensitivity Index (ESI) ranking to prioritize coastal areas for protection.
+- [[2016-sudibyo|Sudibyo, 2016]] evaluated environmental sensitivity based on shoreline type, biological resources, and socio-economic features.
 
 ## Scientific Context
 
-- [[2016-sudibyo|Sudibyo, 2016]] Used to determine the priority of response for oil spill management in coastal zones.
+- [[2016-sudibyo|Sudibyo, 2016]] Used to prioritize protection efforts during oil spills in the Western Arabian Gulf.
 
 ## Measurement and Characterization Methods
 
-- [[2016-sudibyo|Sudibyo, 2016]] Ranking analysis based on three main components: shoreline type, biological resources, and socio-economic features.
+- [[2016-sudibyo|Sudibyo, 2016]] Multi-criteria analysis of shoreline type, biology, and infrastructure.
 
 ## Key Findings Across Sources
 
-- The ESI map identifies priority areas such as Safaniyah, Khursaniyah-Jubail, and Tarut Bay based on cumulative sensitivity scores. ([[2016-sudibyo|Sudibyo, 2016, p. 14]])
+- Areas with high ESI scores (first priority) were identified in Safaniyah, Khursaniyah-Jubail, Tarut Bay, and offshore islands. ([[2016-sudibyo|Sudibyo, 2016, p. 75]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2016-sudibyo|Sudibyo, 2016]] Different sensitivity scores used to rank areas from high to low protection priority.
 
 ## Open Questions and Research Gaps
 

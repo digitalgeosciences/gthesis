@@ -12,148 +12,121 @@ committee_members:
   - "Zerguine M. Azzedine"
 source_file: "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139504/"
-study_area: "Marmousi model (standard 2D seismic dataset)"
+study_area: "Marmousi model (synthetic dataset)"
 keywords:
   - Seismic imaging
   - Phase Shift plus Interpolation (PSPI)
   - Visco-acoustic medium
-  - Prestack depth imaging
-  - Wavefield extrapolator
   - Absorption compensation
-  - SENSE
-  - Spectral entropy
-  - Spatial entropy
-  - Curvelet features
-  - Prestack imaging
-  - Poststack imaging
-  - Finite Difference modeling
-  - absorption
-  - dispersion
-  - quality factor (Q)
-  - image quality assessment (IQA)
-  - Visco-acoustic media
+  - Prestack depth migration
+  - Quality assessment
+  - Phase Shift plus Interpolation
+  - Q-factor
+  - image quality assessment
+  - spatial entropy
+  - spectral entropy
+  - curvelet features
 techniques:
-  - phase-shift-plus-interpolation-pspi
-  - fourier-transform
-  - simulation
-  - sense
-  - curvelets
+  - finite-difference-modeling
+  - prestack-depth-migration
+  - phase-shift-plus-interpolation
+  - signal-processing
+  - image-quality-assessment
+  - interpolation
   - pspi
-  - finite-difference
-  - cross-correlation
-  - deconvolution
-  - groundwater-modeling
-  - q-filter
   - matlab
+  - deconvolution
+  - sseq
+  - curvelet-transform
   - machine-learning-geoscience
   - svr
   - libsvm
-  - curvelet-transform
-  - sseq
 tags:
   - degree/ms
-  - location/saudi-arabia
+  - location/marsea
+  - technique/pre-stack-depth-migration
+  - technique/phase-shift-plus-interpolation
+  - technique/finite-difference-modeling
+  - technique/signal-processing
+  - technique/image-analysis
   - technique/pspi
-  - technique/seismic-processing
-  - technique/simulation
-  - technique/finite-difference
-  - technique/groundwater-modeling
   - technique/matlab
+  - technique/deconvolution
+  - technique/sseq
+  - technique/curvelet-transform
   - technique/machine-learning-geoscience
   - technique/svr
-  - technique/psi
-  - technique/seismic-imaging
+  - technique/libsvm
   - theme/seismic-imaging
   - theme/geophysics-general
-  - theme/petrophysics
   - terminology/visco-acoustic
-  - terminology/spatial-entropy
-  - terminology/quality-assessment
-  - terminology/imaging-condition
-  - terminology/visco-acoustic-medium
+  - terminology/acoustic-impedance
   - terminology/quality-factor
-  - terminology/spectral-entropy
+  - terminology/signal-processing
+  - terminology/q-factor
   - terminology/image-quality-assessment
 status: ingested
 ---
 
 # TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-ACOUSTIC MEDIA.
 
-**Summary**: The thesis investigates the improvement of seismic imaging in visco-acoustic media by modifying the Phase Shift plus Interpolation (PSPI) algorithm to account for absorption and dispersion. It also proposes an objective, non-reference Image Quality Assessment (IQA) framework based on spatial and spectral entropies to evaluate seismic image quality.
+**Summary**: The thesis investigates the improvement of seismic imaging in visco-acoustic media by modifying the Phase Shift plus Interpolation (PSPI) algorithm to compensate for wave absorption and dispersion using a Q-factor. It further proposes two non-reference Image Quality Assessment (IQA) methods—based on spatial/spectral entropy (SSEQ) and curvelet features—to objectively evaluate seismic image quality.
 
 ---
 
 ## Research Problem
 
-Seismic waves are attenuated and dispersed in visco-acoustic media due to factors like spherical divergence and friction, leading to poor resolution in standard imaging techniques. The study addresses the need for a robust migration method that accounts for these effects while providing a means to objectively assess image quality.
+Standard seismic imaging techniques often assume an acoustic medium where waves do not attenuate; however, real earth conditions involve visco-acoustic effects (absorption and dispersion) that lead to inaccurate and blurred images. The research addresses how to modify the PSPI algorithm to account for these losses in prestack depth migration.
 
 ## Objectives
 
-- Develop a modified PSPI technique that incorporates a visco-acoustic model to compensate for absorption and dispersion.
-- Derive wavefield extrapolators in the frequency-wavenumber (f-k) domain to account for attenuation losses.
-- Evaluate the performance of different imaging techniques using objective, non-reference quality assessment methods.
-- Evaluate the Phase Shift plus Interpolation (PSPI) technique for poststack imaging.
-- Implement PSPI for prestack imaging to handle complex structures like salt domes and faults.
-- Model seismic wave propagation in an acoustic medium using finite difference methods.
-- Address the limitations of standard migration by incorporating visco-acoustic considerations.
-- Modify the PSPI algorithm to incorporate compensation for absorption in visco-acoustic media.
-- Evaluate the performance of visco-acoustic PSPI against standard acoustic PSPI using the Marmousi dataset.
-- Develop an objective, non-reference Image Quality Assessment (IQA) method based on spatial and spectral entropies to evaluate seismic image quality.
-- Modify the PSPI algorithm to accommodate attenuation by incorporating a Q-factor into the wavefield extrapolator.
-- Evaluate the performance of modified PSPI on standard datasets (SEG/EAGE and Marmousi).
-- Develop and test non-reference image quality assessment (IQA) methods, specifically SSEQ and curvelet features, to evaluate seismic images.
+- Develop a modified PSPI technique to accommodate attenuation in visco-acoustic media.
+- Implement compensation for absorption by deriving wavefield extrapolators in the frequency-wavenumber (f-k) domain.
+- Evaluate the performance of the modified PSPI against standard imaging techniques using the Marmousi model.
+- Develop an objective, non-reference based method to assess seismic image quality based on spatial and spectral entropy.
+- Modify the PSPI algorithm to accommodate absorption in visco-acoustic media by incorporating Q-factor into the extrapolator term.
+- Generate and compare visco-acoustic shot records using a modified Q-model.
 
 ## Methods
 
-The study utilizes the Phase Shift plus Interpolation (PSPI) technique for prestack depth imaging. To account for visco-acoustic effects, a Q-factor is introduced into the wavefield extrapolator to compensate for amplitude loss and frequency changes in both directions. For image quality assessment, two methods are used: SSEQ (based on spatial and spectral entropy) and curvelet features. Curvelet features involve transforming 256x256 blocks into 5 layers of coefficients across different scales, followed by fitting an asymmetric generalized Gaussian distribution (AGGD) to the log-magnitude of these coefficients. A Support Vector Machine (SVM) via the LIBSVM package is used to train and test the IQA models.
+The study utilizes the PSPI algorithm modified with a Q-factor to compensate for absorption. Visco-acoustic shot records are generated by applying a Q-filter (derived from a spike wavelet) to acoustic records. The research uses the Marmousi model as a primary test case for visco-acoustic imaging. To assess image quality, two non-reference IQA methods were implemented: SSEQ (calculating spatial and spectral entropy of local blocks) and curvelet features (using an 12-dimensional feature vector including AGGD fitting and orientation energy distribution). Both IQA methods utilize a two-stage framework involving SVM for classification of distortion types and SVR for regression to map features to human-assigned quality scores.
 
 ## Data and Materials
 
-The study uses the Marmousi model for poststack imaging evaluation and SEG/EAGE synthetic datasets for prestack imaging in visco-acoustic media. The research also utilizes a set of standard seismic images (including Lemke, POCS, and Taylor) as comparison cases for quality assessment.
+The study utilizes the Marmousi model (a standard 2D seismic survey model) and the SEG/EAGE standard velocity model. A dataset of 20 images obtained from various poststack imaging techniques (e.g., F-X, SPLITSTEP, POCS, Lemke, etc.) was used to train and test the IQA models.
 
 ## Key Findings
 
-- The inclusion of the Q-factor in wavefield extrapolation allows for the compensation of absorption and dispersion effects in visco-acoustic media. ([[2015-mohammed|Mohammed, 2015, p. 13]])
-- A 'trivial' cosine transform applied to non-compensating operators in the f-k domain effectively compensates for attenuation losses, increasing spatial resolution. ([[2015-mohammed|Mohammed, 2015, p. 13]])
-- Non-reference assessment methods based on spatial and spectral entropy (SSEQ) provide a way to evaluate image quality without a reference image. ([[2015-mohammed|Mohammed, 2015, p. 14]])
-- Curvelet features can also be used as an alternative method for objective, non-reference image quality assessment. ([[2015-mohammed|Mohammed, 2015, p. 19]])
-- PSPI allows for lateral velocity changes by using multiple reference velocities to interpolate the wavefield in the frequency-wavenumber domain. ([[2015-mohammed|Mohammed, 2015, p. 32]])
-- The complexity of PSPI is defined as $O(2N_{FFT} 	imes n_{ref} + (n_{ref} + 2) 	imes N_{FFT}^2 / 	ext{log}_2 N_{FFT})$ for complex multiplications. ([[2015-mohammed|Mohammed, 2015, p. 35]])
-- page_number_reference_note_for_finding_1_is_32_and_finding_2_is_35 ([[2015-mohammed|Mohammed, 2015]])
-- The modified visco-acoustic PSPI algorithm successfully compensated for absorption by using a complex extrapolator term based on the Q-factor. ([[2015-mohammed|Mohammed, 2015, p. 66]])
-- Visco-acoustic PSPI produced sharper and crisper images of features like pinch-outs and faults compared to acoustic PSPI when applied to visco-acoustic shot records. ([[2015-mohammed|Mohammed, 2015, p. 63]])
-- The computational complexity of visco-acoustic PSPI is approximately 6.25% higher than that of acoustic PSPI, which is considered feasible for the improved quality gained. ([[2015-mohammed|Mohammed, 2015, p. 79]])
-- Spatial entropy values for undistorted images are typically left-skewed; introduction of noise or distortion shifts the distribution to the right. ([[2015-mohammed|Mohammed, 2015, p. 71]])
-- Spectral entropy is a more accurate descriptor of image energy spectrum and can distinguish between noise and smoothness effects more effectively than spatial entropy. ([[2015-mohammed|Mohammed, 2015, p. 89]])
-- The modified PSPI algorithm successfully compensated for absorption by incorporating a Q-factor into the extrapolator, resulting in higher resolution images compared to standard PSPI in visco-acoustic conditions. ([[2015-mohammed|Mohammed, 2015, p. 100]])
-- SSEQ and curvelet features both provided quality predictions that correlate well with human vision systems. ([[2015-mohammed|Mohammed, 2015, p. 101]])
-- Curvelet features showed a higher relative improvement in accuracy compared to SSEQ when evaluating the first three quality metrics (35.2126% vs 29.901%). ([[2015-mohammed|Mohammed, 2015, p. 99]])
+- The modified visco-acoustic PSPI algorithm successfully compensates for absorption by using an extrapolator that includes the Q-factor to boost amplitude in upgoing waves. ([[2015-mohammed|Mohammed, 2015, p. 51]])
+- Prestack imaging using PSPI is shown to be sharp and crisp even with complex datasets like the Marmousi model, which contains salt structures and faults. ([[2015-mohammed|Mohammed, 2015, p. 54]])
+- The inclusion of a compensation term in the (f-k) domain allows for the recovery of signal clarity lost due to dispersion and absorption. ([[2015-mohammed|Mohammed, 2015, p. 61]])
+- Non-reference quality assessment using spatial and spectral entropy provides an objective metric for comparing different imaging techniques without a reference image. ([[2015-mohammed|Mohammed, 2015, p. 78]])
+- The visco-acoustic PSPI algorithm successfully compensated for absorption, resulting in sharper features like pinch-outs and faults compared to standard acoustic PSPI. ([[2015-mohammed|Mohammed, 2015, p. 79]])
+- Visco-acoustic PSPI requires approximately 6.25% more computational flops (712,692 vs 668,128) than acoustic PSPI for a single shot record at 2048 FFT points. ([[2015-mohammed|Mohammed, 2015, p. 79]])
+- The SSEQ method successfully distinguished between high-quality (e.g., PSPI) and lower-quality images, with results correlating to human perception. ([[2015-mohammed|Mohammed, 2015, p. 93]])
+- Curvelet features provided a higher correlation with human vision systems compared to SSEQ, showing a 35.21% difference in quality prediction accuracy for certain samples. ([[2015-mohammed|Mohammed, 2015, p. 99]])
 
 ## Limitations
 
-Standard migration methods like Fourier transform (F-K) are only ideal for constant velocities or functions of depth; PSPI is required to handle lateral variations. Finite difference modeling has high computational costs and requires careful selection of grid spacing to maintain stability.
+The current study is limited by the fact that IQA methods are only as effective as the features they extract; specifically, SSEQ is more sensitive to noise/smoothness while curvelet features better capture orientation and scale.
 
 ## Recommendations and Future Work
 
-The work can be extended to 3D models. The wavefield extrapolators for the absorption case could be modified during the filtering process in acoustic media and used as filters in visco-acoustic media. Future IQA assessments could focus on 'sharpness' rather than just 'smoothness'.
+Future work should extend the methodology to 3D models. The research suggests modifying the filtering process in acoustic media to use the same extrapolators used for visco-acoustic cases. Additionally, IQA could be expanded to include 'sharpness' as a specific metric rather than just 'smoothness'.
 
 ## Related Concepts
 
-- [[pspi]]
+- [[pre-stack-depth-migration]]
+- [[phase-shift-plus-interpolation]]
+- [[finite-difference-modeling]]
 - [[visco-acoustic]]
-- [[spatial-entropy]]
-- [[seismic-processing]]
-- [[seismic-imaging]]
-- [[quality-assessment]]
-- [[finite-difference]]
-- [[imaging-condition]]
-- [[visco-acoustic-medium]]
-- [[matlab]]
+- [[acoustic-impedance]]
 - [[quality-factor]]
-- [[spectral-entropy]]
-- [[petrophysics]]
-- [[saudiarabia]]
-- [[psi]]
-- [[machine-learning]]
-- [[image-quality-assessment]]
+- [[signal-processing]]
+- [[seismic-imaging]]
+- [[pspi]]
+- [[sseq]]
 - [[curvelet-transform]]
+- [[q-factor]]
+- [[image-quality-assessment]]
+- [[mar-sea]]

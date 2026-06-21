@@ -2,19 +2,18 @@
 type: formation
 title: "Yamama Formation"
 aliases:
-  - "Yamama"
+  - "Yamama Formation"
 canonical: true
-age: "Lower Cretaceous"
+age: "Valanginian"
 basin: "Rub' Al Khali basin"
-lithology: "carbonate"
-reservoir_status: "not stated"
+lithology: "calcarenite and calcarenitic limestone"
+reservoir_status: "not stated in source"
 tags:
   - formation/yamama-formation
-  - theme/stratigraphy
 sources:
   - "raw/10406 - Lower Cretaceous stratigraphy and depositional history of the Rub' Al Khali bsin.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Yamama Formation
@@ -25,23 +24,26 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-al-sulami|Al-Sulami, 1992]] analyzed the yamama-formation as a carbonate unit.
+- [[1992-al-sulami|Al-Sulami, 1992]] characterized the yamama-formation as a shallowing carbonate unit.
 
 ## Depositional Environment
 
-- [[1992-al-sulami|Al-Sulami, 1992]] shallow marine carbonate
+- [[1992-al-sulami|Al-Sulami, 1992]] shallow carbonate shelf
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[1992-al-sulami|Al-Sulami, 1992]] not stated in source
+
 ## Key Findings Across Sources
 
-- The Yamama Formation concludes the first shallowing-upward cycle with wackestone and packstone interbeds. ([[1992-al-sulami|Al-Sulami, 1992, p. 15]])
+- Composed mainly of calcarenite and calcarenitic limestone. ([[1992-al-sulami|Al-Sulami, 1992, p. 38]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1992-al-sulami|Al-Sulami, 1992]] not stated
 
 ## Open Questions and Research Gaps
 

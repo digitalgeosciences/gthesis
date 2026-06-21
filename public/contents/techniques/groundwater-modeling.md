@@ -2,49 +2,62 @@
 type: technique
 title: "Groundwater Modeling"
 aliases:
-  - "numerical simulation"
-  - "groundwater flow model"
+  - "FD method"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "predicted piezometric heads and flow directions"
+output: "numerical solution of the flow equations"
 tags:
-  - technique/groundwater-modeling
-  - theme/hydrogeology
+  - technique/finite-difference-method
 sources:
+  - "raw/10169 - The Effect of multiple fractures on the performance of gas wells.pdf"
   - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
   - "raw/142041 - Geostatistical Modelling Of Groundwater Storage Variations Using Insar Remote Se.pdf"
+  - "raw/142656 - Fully-Implicit Formulation of the Capacitance Resistance Model to Simulate Two-P.pdf"
   - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
+  - "raw/9956 - Application of pulse-decay technique to characterize whole cores..pdf"
   - "raw/9964 - Modeling of groundwater flow system in Wadi Al-Miyah area, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Groundwater Modeling
 
-**Summary**: The use of mathematical models to simulate the movement and distribution of groundwater in an aquifer.
+**Summary**: A numerical technique for solving differential equations by approximating derivatives with finite differences.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
+- [[1990-mimoune|Mimoune, 1990]] applied the finite difference method to solve the non-linear partial differential equations governing gas flow.
+
 - [[2012-iwalewa|Iwalewa, 2012]] used groundwater-modeling to assess the effects of increasing pumping rates on the piezometric surface in the UER aquifer.
 
-- [[2022-karami|Karami, 2022]] developed a model to estimate groundwater storage variations.
+- [[2022-karami|Karami, 2022]] developed a high-resolution groundwater storage variation ($\Delta GWS$) model.
 
-- [[2024-ahmad|Ahmad, 2024]] used SEAWAT to simulate saltwater encroachment under three climate change scenarios.
+- [[2023-sadeed|Sadeed, 2023]] used finite-difference methods to solve the ODEs representing the CRM model.
 
-- [[1995-hasan|Hasan, 1995]] applied groundwater-modeling to simulate existing and future groundwater and solute distribution patterns.
+- [[2024-ahmad|Ahmad, 2024]] used groundwater-modeling to simulate the impact of sea level rise on coastal aquifer salinity.
+
+- [[2000-hamid|Hamid, 2000]] applied finite-difference methods to solve the governing non-linear flow equations in curvilinear coordinates.
+
+- [[1995-hasan|Hasan, 1995]] applied finite element modeling to simulate the existing and future groundwater and solute distribution patterns in the Neogene, Alat, and Khobar aquifers.
 
 ## Instruments and Software
 
 
 
-- [[2022-karami|Karami, 2022]] developed a model to estimate groundwater storage variations.
+- [[2012-iwalewa|Iwalewa, 2012]] used groundwater-modeling to assess the effects of increasing pumping rates on the piezometric surface in the UER aquifer.
 
-- [[2024-ahmad|Ahmad, 2024]] used SEAWAT to simulate saltwater encroachment under three climate change scenarios.
+- [[2022-karami|Karami, 2022]] developed a high-resolution groundwater storage variation ($\Delta GWS$) model.
 
-- [[1995-hasan|Hasan, 1995]] applied groundwater-modeling to simulate existing and future groundwater and solute distribution patterns.
+- [[2023-sadeed|Sadeed, 2023]] used finite-difference methods to solve the ODEs representing the CRM model.
+
+- [[2024-ahmad|Ahmad, 2024]] used groundwater-modeling to simulate the impact of sea level rise on coastal aquifer salinity.
+
+- [[2000-hamid|Hamid, 2000]] applied finite-difference methods to solve the governing non-linear flow equations in curvilinear coordinates.
+
+- [[1995-hasan|Hasan, 1995]] applied finite element modeling to simulate the existing and future groundwater and solute distribution patterns in the Neogene, Alat, and Khobar aquifers.
 
 ## Typical Workflow
 
@@ -52,13 +65,19 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- The flow model was calibrated using data from 1967 to 2010 and used to predict potentiometric levels for three different management scenarios. ([[2012-iwalewa|Iwalewa, 2012, p. 15]])
+- The model was implemented as a fully implicit, two-dimensional finite difference scheme. ([[1990-mimoune|Mimoune, 1990, p. 39]])
 
-- A high-resolution Groundwater Storage Variation (ΔGWS) model was developed using InSAR data. ([[2022-karami|Karami, 2022, p. 18]])
+- The model was calibrated for 1967–2010 and used to predict future levels under three scenarios, with Scenario II being most sustainable. ([[2012-iwalewa|Iwalewa, 2012, p. 15]])
 
-- The model successfully simulated the shift of the saltwater-freshwater interface inland due to sea level rise and altered recharge rates. ([[2024-ahmad|Ahmad, 2024, p. 12]])
+- A positive correlation between GRACE-derived $\Delta GWS$ and InSAR-derived $\Delta GWS$ confirmed the validity of the geostatistical integration. ([[2022-karami|Karami, 2022, p. 14]])
 
-- The calibrated model was used to predict the future trends of groundwater flow and chloride concentration for the period of 1994 - 2010 (16 years). ([[1995-hasan|Hasan, 1995, p. 28]])
+- The implicit finite-difference scheme was found to be unconditionally stable and consistent. ([[2023-sadeed|Sadeed, 2023, p. 15]])
+
+- The SEAWAT model successfully integrated MODFLOW and MT3DMS to simulate density-dependent flow and solute transport. ([[2024-ahmad|Ahmad, 2024, p. 32]])
+
+- The method allowed for the solution of the non-linear partial differential equation that describes transient compressible fluid flow. ([[2000-hamid|Hamid, 2000, p. 48]])
+
+- The model was calibrated in steady state and transient conditions to predict trends for 1994-2010. ([[1995-hasan|Hasan, 1995, p. 28]])
 
 ## Methodological Variations Across Sources
 

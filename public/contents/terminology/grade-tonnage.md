@@ -1,12 +1,14 @@
 ---
 type: terminology
-title: "Grade Tonnage"
-aliases: []
+title: "Grade-Tonnage"
+aliases:
+  - "grade-tonnage relationship"
 canonical: true
-definition: "A plot showing the relationship between the tonnage and the grade of a mineral deposit."
-units: "tonnes vs percentage (%)"
+definition: "the relationship between the amount of ore (tonnage) and its grade"
+units: "not applicable"
 related_techniques:
   - "kriging"
+  - "conditional-simulation"
 tags:
   - theme/mineral-resource-estimation
 sources:
@@ -14,12 +16,12 @@ sources:
   - "raw/10140 - Geostatistical modelling of Zarghat magnesite deposit Saudi Arabia.pdf"
   - "raw/9569 - Geostatistical estimation of reserves in the Abu-Tartur phosphate deposits weste.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
-# Grade Tonnage
+# Grade-Tonnage
 
-**Summary**: The relationship between the amount of tonnage and its grade.
+**Summary**: A relationship between the amount of ore (tonnage) and its grade, used to determine economic viability.
 
 ---
 
@@ -27,33 +29,33 @@ last_updated: 2026-06-10
 
 - [[1996-jarad|Jarad, 1996]] derived the grade-tonnage relationship for the deposit.
 
-- [[1991-makkawi|Makkawi, 1991]] derived a grade-tonnage relationship for the Zarghat deposit.
+- [[1991-makkawi|Makkawi, 1991]] derived a grade-tonnage relationship for the deposit.
 
-- [[1987-abdul-latif|Abdul-Latif, 1987]] derived a grade-tonnage relationship to assist in production planning.
+- [[1987-abdul-latif|Abdul-Latif, 1987]] established a grade-tonnage relationship for the phosphate deposit.
 
 ## Scientific Context
 
-- [[1996-jarad|Jarad, 1996]] Used to determine the economic viability of a mining project.
+- [[1996-jarad|Jarad, 1996]] Used to determine the economic viability and scale of the deposit.
 
-- [[1991-makkawi|Makkawi, 1991]] derived a grade-tonnage relationship for the Zarghat deposit.
+- [[1991-makkawi|Makkawi, 1991]] derived a grade-tonnage relationship for the deposit.
 
-- [[1987-abdul-latif|Abdul-Latif, 1987]] derived a grade-tonnage relationship to assist in production planning.
+- [[1987-abdul-latif|Abdul-Latif, 1987]] established a grade-tonnage relationship for the phosphate deposit.
 
 ## Measurement and Characterization Methods
 
-- [[1996-jarad|Jarad, 1996]] Derived from kriging results.
+- [[1996-jarad|Jarad, 1996]] derived from kriging and simulation results.
 
 ## Key Findings Across Sources
 
-- Horizon 1: average P20% grade of 20%; Horizon 3: average P20% grade of 18%. ([[1996-jarad|Jarad, 1996, p. 20]])
+- The study determined that Horizon 1 contains approximately 1008 x 10^3 tonnes at an average P20% grade of 20%. ([[1996-jarad|Jarad, 1996, p. 20]])
+- [[1996-jarad|Jarad, 1996]] Horizon 1: 1008 x 10^6 tons at 19.62% grade.
 
-- The grade-tonnage relationship indicates the existence of 3.2 million tonnes. ([[1991-makkawi|Makkawi, 1991, p. 19]])
+- The grade-tonnage relationship, based on kriged estimates, indicates the existence of 3.2 million tonnes. ([[1991-makkawi|Makkawi, 1991, p. 19]])
 
-- The tonnage of phosphate corresponding to 26.4% P2O5 is 1410.75 Mt. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 113]])
+- The tonnage corresponding to a 26.4% P2O5 grade was calculated as 1410.75 Mt. ([[1987-abdul-latif|Abdul-Latif, 1987, p. 113]])
 
 ## Contrasting Values and Interpretations
 
-- [[1996-jarad|Jarad, 1996]] Horizon 1: 20% grade; Horizon 3: 18% grade.
 
 ## Open Questions and Research Gaps
 

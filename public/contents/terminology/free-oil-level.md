@@ -4,40 +4,42 @@ title: "Free Oil Level"
 aliases:
   - "FOL"
 canonical: true
-definition: "Not stated in source"
-units: "Not applicable"
-related_techniques: []
-tags: []
+definition: "The depth at which the pressure of gas equals the pressure of oil in an open borehole."
+units: "meters or feet"
+related_techniques:
+  - "well-log-analysis"
+tags:
+  - theme/petrophysics
 sources:
   - "raw/136368 - Saturation-Height Modelling of Oil and Gas-Capped Reservoirs.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Free Oil Level
 
-**Summary**: The depth where the pressure of oil and gas are equal.
+**Summary**: The depth at which the pressure of gas equals the pressure of oil.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2010-alroudhan|AlRoudhan, 2010]] determined free-oil-level to identify the gas cap and oil column.
+- [[2010-alroudhan|AlRoudhan, 2010]] determined the Free Oil Level (FOL) for reservoirs containing a gas cap.
 
 ## Scientific Context
 
-
+- [[2010-alroudhan|AlRoudhan, 2010]] It is used to calculate buoyancy for the gas phase and determine the Gas-Oil Transition Zone (GOTZ).
 
 ## Measurement and Characterization Methods
 
-
+- [[2010-alroudhan|AlRoudhan, 2010]] Determined from pressure gradients of gas and oil measured by formation testers.
 
 ## Key Findings Across Sources
 
-- A field-wide average free oil level was interpreted at -4867 feet. ([[2010-alroudhan|AlRoudhan, 2010, p. 25]])
+- The FOL is required to calculate buoyancy forces in the gas column and determine the Gas-Oil Transition Zone. ([[2010-alroudhan|AlRoudhan, 2010, p. 74]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

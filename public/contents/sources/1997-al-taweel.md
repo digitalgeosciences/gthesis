@@ -1,0 +1,109 @@
+---
+type: source
+id: "10419"
+title: "Development of Multiphase Flow Metering Set-up Utilizing Coriolis Meters"
+author: "Ahmed Baqer Al-Taweel"
+year: 1997
+department: "Petroleum Engineering"
+degree: "MS"
+supervisor: "Dr. Mohamed A. Aggour"
+committee_members: []
+source_file: "raw/10419 - Development of multiphase flow metering set-up utilizing coriolis meters..pdf"
+url: "https://eprints.kfupm.edu.sa/10419"
+study_area: "Southern area field, Saudi Arabia"
+keywords:
+  - multiphase flow metering
+  - Coriolis meters
+  - oil production
+  - gas measurement
+  - water cut
+  - well testing
+  - gas oil ratio
+  - Saudi Aramco
+techniques:
+  - coriolis-meter
+  - data-logging
+  - hydrotesting
+  - pressure-sensing
+  - temperature-sensing
+  - pvt-analysis
+  - data-acquisition-system
+tags:
+  - degree/ms
+  - formation/arab-d-reservoir
+  - location/saudi-arabia
+  - technique/coriolis-meter
+  - technique/data-analysis
+  - technique/petrophysics
+  - technique/measurement-analysis
+  - theme/petroleum-engineering
+  - terminology/water-cut
+  - terminology/multiphase-flow
+  - terminology/gas-oil-ratio
+status: ingested
+---
+
+# Development of Multiphase Flow Metering Set-up Utilizing Coriolis Meters
+
+**Summary**: The thesis describes the design, construction, and testing of a multiphase flow metering system using Coriolis meters to measure oil, gas, and water rates in an unmanned offshore or remote onshore environment. The system was validated against conventional test traps at two pressure ranges (250-300 psig and 550-600 psig) and successfully measured liquid rates up to 7.2 MBD.
+
+---
+
+## Research Problem
+
+The need for a reliable, low-cost multiphase measurement system for high water cut and high gas fraction production conditions in the Southern area of Saudi Arabia, where traditional test separators are expensive or impractical.
+
+## Objectives
+
+- Develop a multiphase flow metering set-up using Coriolis meters to replace conventional test traps.
+- Design a system capable of separating gas and liquid phases in a small conditioner pipe.
+- Measure the rate of each phase (oil, water, gas) and determine the water cut accurately.
+- Evaluate the performance of the new setup against standard test trap results.
+- Develop a multiphase flow metering set-up for on-line measurement of oil, water, and gas flow.
+- Design, construct, and test a prototype measurement set up.
+
+## Methods
+
+The study involved designing a flow conditioner (separator) using a 30-inch pipe to separate gas and liquid. Two Coriolis meters were used: one for the gas phase and one for the liquid phase. The system included pressure and temperature sensors, level control valves, and back pressure control valves. Data was collected via a data logger and processed through custom software to calculate flow rates. Comparison tests were conducted against conventional test traps over 5-hour periods at two distinct pressure ranges (250-300 psig and 550-600 psig).
+
+## Data and Materials
+
+The system was tested using live Arab-D oil. Data included three different pressure levels: HPPT (500 psig), IPPT (250 psig), and LPPT (50 psig). Comparison tests involved 30 direct trials at two pressure ranges to evaluate gas void fractions up to 88%.
+
+## Key Findings
+
+- The multiphase metering set-up successfully measured liquid rates up to 7.2 MBD. ([[1997-al-taweel|Al-Taweel, 1997, p. 15]])
+- Variance in liquid rates compared with the conventional test trap were less than 10%. ([[1997-al-taweel|Al-Taweel, 1997, p. 15]])
+- The system provided good gas readings for gas rates above 1.5 MMSCFD; at lower gas rates, the set-up measured slightly low. ([[1997-al-taweel|Al-Taweel, 1997, p. 15]])
+- The flow conditioner (separator) was a 30 in. diameter by 26 ft. long pipe spool used to separate flow into a gas-free liquid stream and a wet gas stream. ([[1997-al-taweel|Al-Taweel, 1997, p. 38]])
+- Coriolis meters were utilized because they measure mass flow rate and fluid density directly without requiring separation for measurement purposes. ([[1997-al-taweel|Al-Taweel, 1997, p. 47]])
+- The system was tested at two pressure ranges: 250-300 psig and 550-600 psig to test the effect of different gas void fractions up to 88%. ([[1997-al-taweel|Al-Taweel, 1997, p. 15]])
+- Oil rate variance between the multiphase metering unit and conventional test traps was consistently less than 5% at both 150 psig and 460 psig. ([[1997-al-taweel|Al-Taweel, 1997, p. 77]])
+- Water rates were initially 15% lower in the multiphase meter, but after recalibrating the conventional test trap, variance dropped to less than 5%. ([[1997-al-taweel|Al-Taweel, 1997, p. 77]])
+- Gas rate and GOR variances were less than 5% for choke settings above 30/64" (oil rates > 2.5 MB/D). ([[1997-al-taweel|Al-Taweel, 1997, p. 80]])
+- At lower flow rates, the multiphase unit's gas measurement was found to be approximately 15% low compared to conventional systems. ([[1997-al-taweel|Al-Taweel, 1997, p. 80]])
+- Total liquid rate variance was consistently less than 5%. ([[1997-al-taweel|Al-Taweel, 1997, p. 80]])
+- The system successfully handled gas fractions up to 88% and water cuts from 0 to 100%. ([[1997-al-taweel|Al-Taweel, 1997, p. 92]])
+
+## Limitations
+
+The study notes that existing multiphase meters (like the LP meter) are often limited by flow regimes (e.g., only bubble flow) or high water content, and some systems show significant discrepancies at low gas rates.
+
+## Recommendations and Future Work
+
+- Install the liquid Coriolis meter in the 'Flag' position to prevent sand/solid deposition.
+- Determine power requirements and consider high-efficiency solar power or electric actuators.
+- Eliminate redundant valving.
+- Replace end flange of separator pipe with a dished end and add a manway for access.
+- Investigate replacing the pressure control valve with a restriction orifice.
+
+## Related Concepts
+
+- [[coriolis-meter]]
+- [[water-cut]]
+- [[multiphase-flow]]
+- [[arab-d-reservoir]]
+- [[saudi-arabia]]
+- [[petroleum-engineering]]
+- [[petrophysics]]
+- [[gas-oil-ratio]]

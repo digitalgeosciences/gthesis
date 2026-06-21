@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "optimized parameters for joint inversion"
+output: "optimized model parameters"
 tags:
-  - technique/genetic-algorithm
-  - theme/applied-geophysics
+  - technique/mathematical-modeling
+  - theme/geophysics-general
 sources:
   - "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Genetic Algorithm
 
-**Summary**: A stochastic optimization technique inspired by natural selection used for complex search spaces.
+**Summary**: A stochastic, population-based optimization method inspired by natural selection.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-edigbue|Edigbue, 2023]] applied a genetic algorithm to find the global minimum of the joint inversion objective function.
+- [[2023-edigbue|Edigbue, 2023]] used genetic algorithms to solve the multi-objective joint inversion problem.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The GA is proposed as part of a hybrid approach to reduce the computational cost of global optimization. ([[2023-edigbue|Edigbue, 2023, p. 23]])
+- The NSGA II algorithm is a variant of the GA commonly used to solve multi-objective optimization problems. ([[2023-edigbue|Edigbue, 2023, p. 41]])
 
 ## Methodological Variations Across Sources
 

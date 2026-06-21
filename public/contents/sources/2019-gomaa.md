@@ -1,0 +1,136 @@
+---
+type: source
+id: "141362"
+title: "SANDSTONE ACIDIZING USING IN-SITU GENERATED HYDROFLUORIC ACID"
+author: "Ibrahim Hassan Gomaa"
+year: 2019
+department: "Petroleum Engineering"
+degree: "MS"
+supervisor: "Dr. Mohamed Mahmoud"
+committee_members: []
+source_file: "raw/141362 - SANDSTONE ACIDIZING USING IN-SITU GENERATED HYDROFLUORIC ACID.pdf"
+url: "https://eprints.kfupm.edu.sa/141362"
+study_area: "Laboratory core samples (Gray Berea and Scioto sandstone)"
+keywords:
+  - Sandstone acidizing
+  - In-situ generated hydrofluoric acid
+  - Mud acid
+  - Formation damage
+  - Core flooding
+  - NMR scanning
+  - Scratch test
+  - Clay minerals
+  - Thermochemical reaction
+  - Acid generation
+  - Permeability enhancement
+  - Thermochemicals
+  - Core permeability
+  - Rock integrity
+  - Micro fractures
+  - ICP analysis
+techniques:
+  - icp-oes
+  - nmr
+  - scratch-test
+  - core-flooding
+  - xrd
+  - xrf
+  - petrophysics
+tags:
+  - degree/ms
+  - technique/icp-ms
+  - technique/nmr
+  - technique/scratch-test
+  - technique/core-analysis
+  - technique/icp-oes
+  - technique/xrd
+  - technique/xrf
+  - technique/core-flooding
+  - technique/petrophysics
+  - theme/reservoir-engineering
+  - theme/petroleum-engineering
+  - theme/petrophysics
+  - theme/well-stimulation
+  - terminology/porosity
+  - terminology/permeability
+  - terminology/diagenesis
+  - terminology/micro-fracture
+  - terminology/well-stimulation
+status: ingested
+---
+
+# SANDSTONE ACIDIZING USING IN-SITU GENERATED HYDROFLUORIC ACID
+
+**Summary**: The thesis investigates a novel method for sandstone acidizing using in-situ generated hydrofluoric acid (HF) produced by oxidizing ammonium fluoride (NH4F) with various oxidizers. The study evaluates the effectiveness of this method on Gray Berea and Scioto sandstone cores, demonstrating significant permeability enhancement and improved rock integrity compared to conventional mud acid treatments.
+
+---
+
+## Research Problem
+
+Conventional mud acid treatments for sandstone can lead to formation damage due to the precipitation of solids (like silica gel or iron hydroxides) or the migration of fines from clay minerals. This research explores an in-situ generation method for HF acid using ammonium fluoride and oxidizers, potentially combined with thermochemical reactions to provide heat and pressure pulses to improve deep penetration and mitigate these issues.
+
+## Objectives
+
+- Generate in-situ hydrofluoric acid (HF) using a combination of thermochemical reaction and an acid precursor (ammonium fluoride NH4F).
+- Test different oxidizers (sodium bromate, ammonium persulfate, and potassium permanganate) to identify the best one based on reaction kinetics, HF yield, byproducts, and economic feasibility.
+- Evaluate the effect of pH and temperature on the triggering mechanisms for acid generation.
+- Investigate the impact of pressure pulses from exothermic reactions on stimulation results.
+- Apply the HF generating reaction to pure clay minerals.
+- Test the acid-generating reaction using external heat sources other than exothermic reactions.
+
+## Methods
+
+The study developed a novel acid generation system by reacting ammonium fluoride (NH4F) with oxidizers like sodium bromate (NaBrO3) or ammonium persulfate ((NH4)2S2O8). The reaction was catalyzed by an exothermic interaction between ammonium chloride (NH4Cl) and sodium nitrite (NaNO2). Core flooding tests were conducted on Gray Berea and Scioto sandstone cores to evaluate permeability enhancement. Chemical analysis of the effluent was performed using ICP-OES. NMR scanning was used to monitor changes in porosity and pore connectivity. Scratch tests were employed to measure rock strength and integrity before and after treatment. The study also included experiments to test different oxidizers, temperature effects, and pressure pulses.
+
+## Data and Materials
+
+The study utilized three types of oxidizers (sodium bromate, ammonium persulfate, potassium permanganate), an acid precursor (ammonium fluoride), and thermochemicals (sodium nitrite and ammonium chloride). Core samples included Gray Berea sandstone (initial permeability ~33 mD) and Scioto sandstone (high illite content). Analytical data included XRF results for clay minerals and ICP-OES analysis of effluent solutions.
+
+## Key Findings
+
+- Sodium bromates (NaBrO3) and ammonium persulfate ((NH4)2S2O8) showed promising results for in-situ HF generation, while potassium permanganate (KMnO4) exhibited compatibility issues with other chemicals. ([[2019-gomaa|Gomaa, 2019, p. 19]])
+- The combination of acid generating fluids and thermochemicals effectively dissolved both silica and clay minerals in sandstone formations. ([[2019-gomaa|Gomaa, 2019, p. 19]])
+- Core flooding tests showed that permeability of Gray Berea cores increased by approximately 40% after three cycles of the novel fluid mixture. ([[2019-gomaa|Gomaa, 2019, p. 19]])
+- Dissolution of silica from the 6-inch Scioto core reached up to 49 mg during treatment. ([[2019-gomaa|Gomaa, 2019, p. 19]])
+- NMR scanning confirmed porosity enhancement without affecting original pore system connectivity in both core types. ([[2019-gomaa|Gomaa, 2019, p. 19]])
+- A pressure pulse of more than 2,000 psi was generated inside the Scioto core during simultaneous flooding with acid-generating fluids and thermochemicals. ([[2019-gomaa|Gomaa, 2019, p. 20]])
+- The pressure pulse resulted in the creation of tiny micro-fractures within the Scioto core, enhancing its flow capacity. ([[2019-gomaa|Gomaa, 2019, p. 20]])
+- Scratch tests showed that the mechanical response of the cores to the treatment was highly dependent on their original composition. ([[2019-gomaa|Gomaa, 2019, p. 20]])
+- Sodium bromate successfully generated HF acid, evidenced by a 80.50 mg reduction in quartz weight and an Si+ concentration of 91.43 ppm in the effluent (Page 59). ([[2019-gomaa|Gomaa, 2019, p. 98]])
+- Ammonium persulfate showed higher efficiency than sodium bromate, with a Si+ concentration of 329.2 ppm at 1 M concentration (Page 102). ([[2019-gomaa|Gomaa, 2019, p. 102]])
+- The generated acid successfully dissolved clay minerals: illite by 6.2 wt.%, chlorite by 6.4 wt.%, and kaolinite by 3.9 wt.% (Page 107). ([[2019-gomaa|Gomaa, 2019, p. 107]])
+- Gray Berea core permeability increased from 33 mD to 44 mD after three cycles of in-situ HF generation, representing a 42% enhancement (Page 113). ([[2019-gomaa|Gomaa, 2019, p. 113]])
+- The total amount of chelated Si+ ions from the Gray Berea core reached 10.5 mg after three cycles, corresponding to 22.5 mg of dissolved quartz (Page 114). ([[2019-gomaa|Gomaa, 2019, p. 114]])
+- The Scioto core permeability increased from 0.55 mD to 267 mD after treatment with in-situ HF and thermochemicals, resulting in a Kfina/Kinitial ratio of 485. ([[2019-gomaa|Gomaa, 2019, p. 138]])
+- The Gray Berea core permeability increased by approximately 40% after three injection cycles of the treating fluids. ([[2019-gomaa|Gomaa, 2019, p. 146]])
+
+## Limitations
+
+The study used relatively small core samples; it is recommended that future tests use longer cores (1 ft or more) to better represent actual well conditions.
+
+## Recommendations and Future Work
+
+- Conduct coreflooding tests with longer cores (1 ft or more).
+- Examine a wider variety of sandstone formations with different mineral contents.
+- Perform thin-section analysis to characterize clay content and flow paths.
+- Quantify the exact amount and types of acids produced through detailed fluid analysis.
+- Use triaxial compressive strength tests for more comprehensive mechanical property assessment.
+
+## Related Concepts
+
+- [[icp-ms]]
+- [[nmr]]
+- [[scratch-test]]
+- [[core-analysis]]
+- [[porosity]]
+- [[permeability]]
+- [[diagenesis]]
+- [[petrophysics]]
+- [[petroleum-engineering]]
+- [[icp-oes]]
+- [[xrd]]
+- [[xrf]]
+- [[core-flooding]]
+- [[reservoir-engineering]]
+- [[micro-fracture]]
+- [[well-stimulation]]

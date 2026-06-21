@@ -16,133 +16,116 @@ study_area: "Indiana limestone (laboratory samples)"
 keywords:
   - CO2 sequestration
   - wormhole generation
+  - mechanical properties
   - salinity
   - temperature
-  - mechanical properties
-  - carbonic acid
-  - porosity
-  - permeability
-  - Limestone
-  - Dolomite
-  - petrophysical properties
-  - limestone core samples
   - live brine
-  - carbonate rock
+  - limestone
+  - carbonic acid
+  - petrophysical properties
 techniques:
-  - core-analysis
-  - ct-scanning
-  - helium-porosity
-  - petrophysics
-  - well-log-analysis
+  - coreflooding
   - micro-ct-scanning
-  - xrd
-  - finite-element-modeling
-  - simulation
-  - acoustic-measurements
-  - core-flooding
+  - petrophysics
+  - triaxial-test
+  - core-analysis
   - hardness-measurement
+  - youngs-modulus-calculation
+  - poissons-ratio-calculation
+  - medical-ct-scanning
+  - helium-porosity
+  - auto-scan
 tags:
   - degree/ms
-  - technique/core-analysis
-  - technique/ct-scanning
-  - technique/helium-porosity
+  - location/saudi-arabia
+  - technique/coreflooding
+  - technique/micro-ct-scan
   - technique/petrophysics
+  - technique/triaxial-test
   - technique/micro-ct-scanning
-  - technique/xrd
-  - technique/finite-element-modeling
-  - technique/simulation
-  - technique/core-flooding
-  - technique/hardness-measurement
+  - technique/helium-porosity
+  - technique/core-analysis
   - theme/co2-sequestration
   - theme/petrophysics
-  - theme/rock-mechanics
+  - theme/geomechanics
   - terminology/wormhole
   - terminology/co2-sequestration
+  - terminology/petrophysics
+  - terminology/rock-mechanics
+  - terminology/salinity
+  - terminology/temperature
   - terminology/porosity
-  - terminology/permeability
   - terminology/youngs-modulus
   - terminology/poissons-ratio
-  - terminology/rock-mechanics
+  - terminology/hardness
 status: ingested
 ---
 
 # IMPACT OF SALINITY AND TEMPERATURE ON WORMHOLE GENERATION AND MECHANICAL PROPERTIES DUE TO CO2 SEQUESTRATION
 
-**Summary**: The thesis investigates the impact of salinity and temperature on wormhole generation and the resulting mechanical properties (Young's modulus and hardness) in carbonate rocks during CO2 sequestration. Experimental results show that higher salinity leads to more extensive brine exposure and lower Young's modulus, while higher temperatures increase the time required for wormhole formation.
+**Summary**: The thesis investigates the impact of salinity and temperature on wormhole generation and the resulting changes in petrophysical (porosity, permeability) and mechanical properties (Young's modulus, Poisson's ratio, hardness) of Indiana limestone during CO2 sequestration. Experimental results show that lower salinity and lower temperature lead to more acidic brine, faster wormhole formation, and less degradation of rock mechanical properties.
 
 ---
 
 ## Research Problem
 
-Understanding how environmental factors like salinity and temperature affect the formation of wormholes caused by carbonic acid (from dissolved CO2) and the subsequent degradation of rock mechanical integrity in deep saline aquifers for carbon capture and storage.
+The impact of carbonic acid interaction with limestone in deep saline aquifers for CO2 sequestration is poorly understood regarding how specific environmental factors (salinity and temperature) influence both the physical creation of wormholes and the subsequent degradation of the rock's geomechanical integrity.
 
 ## Objectives
 
-- Understand the impact of salinity on wormhole generation and changes in petrophysical properties.
-- Evaluate the effect of temperature on wormhole formation and mechanical property alterations.
-- Quantify the relationship between wormhole volume and porosity change under varying conditions.
-- Determine how salinity and temperature influence the time required to generate a wormhole.
-- Evaluate the impact of carbonic acid on the mechanical properties of limestone and dolomite.
-- Analyze the effect of temperature on acid reactivity and wormhole formation.
-- Investigate the influence of rock mineralogy (limestone vs. dolomite) on wormhole geometry.
-- Assess the impact of CO2 sequestration on caprock integrity and geomechanical stability.
-- To study the impact of temperature and salinity on wormholes generation due to CO2 sequestration.
+- Understand the impact of salinity and temperature on creating wormholes due to live brine injection.
+- Evaluate the change in mechanical and petrophysical properties of rocks after wormhole generation.
+- Determine the relationship between time to generate wormholes and environmental parameters (salinity, temperature).
 - To study the impact of temperature and salinity on the rock mechanical and petrophysical properties due to CO2 sequestration.
-- To study the impact of temperature and salinity on wormhole generation.
-- Evaluate the impact of different brine salinities on wormhole generation.
-- Investigate the effect of temperature variations on wormhole formation and volume.
-- Assess the changes in rock mechanical properties (Young's modulus and hardness) under varying salinity and temperature conditions.
 
 ## Methods
 
-The research involved: 1) Preparing a mixture of brine and CO2 (70% brine, 30% CO2) at 1200 psi. 2) Measuring initial core properties including porosity (using Helium Porosimeter), hardness (via AutoScan scanner/impulse hammer), and acoustic measurements (Vp, Vs). 3) Conducting core flooding experiments where the carbonic acid mixture was injected into Indiana limestone cores under varying temperatures (35, 60, 85 C) and salinities (40k, 120k, 200k ppm). 4) Performing medical CT scans to visualize wormhole structures. 5) Re-measuring petrophysical and mechanical properties post-injection.
+The study utilized Indiana limestone core samples (1.5 inch diameter, 3 inches long). Core properties were initially measured for porosity (using a Helium Porosimeter), permeability, hardness (via AutoScan/impulse hammer), and acoustic properties (Vp, Vs) to calculate Young's modulus and Poisson's ratio. A coreflooding system was used to inject a mixture of 70% brine and 30% CO2 at various salinities (40k, 120k, 200k ppm) and temperatures (35°C, 60°C, 85°C). Medical CT scans were performed post-injection to visualize wormhole morphology. Samples were analyzed for changes in porosity, permeability, Young's modulus, Poisson's ratio, and hardness before and after the injection process.
 
 ## Data and Materials
 
-The study utilized Indiana limestone core samples (diameter 1.5 inch, length 3 inches), a synthetic formation brine with TDS of 213,734 ppm, and a core flooding system including a high-pressure pump, heater, and back pressure regulator.
+Limestone core samples (1.5x3 inches), live brine mixture (30% CO2 / 70% brine), three temperature levels (35°C, 60°C, 85°C), and three salinity concentrations (40k, 120k, 200k ppm).
 
 ## Key Findings
 
-- Live brine injection generated wormholes in all rock samples, leading to significant increases in porosity and permeability. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 14]])
-- The time required to generate a wormhole showed a positive relationship with both salinity and temperature values. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
-- At 35°C, it took approximately 5.5 hours of live brine injection at 1 cc/min to create a wormhole; at 85°C, it took more than 10 hours. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
-- Low salinity samples required only 3 hours to generate a wormhole, while high salinity samples required double that time. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
-- The study confirmed that live brine injection creates wormholes which weaken rock strength and increase porosity/permeability. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 17]])
-- Limestone is more susceptible to acid dissolution than limy dolomite rock; the reaction rate constant K for limestone is significantly greater. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 26]])
-- Increased temperature has a positive impact on the reaction between acid and rocks, but in limestone, higher temperatures can reduce wormhole size and efficiency. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
-- Dolomite is more sensitive to the heat of reaction; it requires more PVBT for dissolution because the reaction is slower than limestone. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
-- The presence of vugs in dolomite leads to larger wormhole sizes and lower PVBT, increasing efficiency. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
-- A mixture of 50% dolomite and 50% calcite results in thinner, more branched wormholes at higher temperatures. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 33]])
-- The optimum Damköhler number for a wide range of fluid/mineral systems is approximately 0.29. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 35]])
-- Young's modulus and Poisson's ratio were reduced after acid treatment in limestone, while the impact on core strength was within measurement error limits. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 36]])
-- The presence of carbonate minerals (e.g., dolomite) leads to thicker wormholes compared to pure limestone. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 33]])
-- In high-permeability zones, convective mixing is dominant; in low-permeability zones, diffusive mixing is more observed. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 39]])
-- For tight limestone, acid treatment reduced Young's modulus by nearly half but had minimal impact on compressive strength due to limited penetration. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 39]])
+- Live brine injection generated wormholes in all rock samples, leading to significant increases in porosity and permeability. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
+- The time required to generate a wormhole has a positive relationship with both salinity and temperature (e.g., 10+ hours at 85°C vs. 5.5 hours at 35°C). ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
+- Lower salinity samples required approximately half the time to generate a wormhole compared to high salinity samples. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
+- The injection of live brine results in a reduction of rock strength and an increase in porosity and permeability. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 15]])
+- In limestone, the reaction rate between acid and rocks increases with increasing temperature. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 26]])
+- The study found that for limestone, higher temperatures result in reduced wormhole size and lower efficiency of the acid job compared to dolomite. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
+- For dolomite, as temperature increases, a wormhole becomes longer and thinner, increasing the efficiency of the acid job. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
+- The study confirmed that higher salinity leads to lower CO2 solubility in water (inverse relationship). ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 23]])
+- In limestone, the presence of vugs results in larger wormholes and less Pore Volume to Breakthrough (PVBT). ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 32]])
+- The study showed that for high-porosity/low-permeability carbonate cores, surface area was uniform and no penetrating channels formed during gelled acid reaction. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 41]])
+- Lower salinity leads to higher CO2 solubility and more acidic brine, resulting in faster wormhole breakthrough and larger wormhole volumes (e.g., 40k ppm case had a volume of 603 mm³ compared to 273 mm³ for the 200k ppm case). ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 81]])
+- There is a linear relationship between the change in porosity and salinity; lower salinity results in higher percentage increases in porosity (e.g., 9.4% increase at 40,000 ppm vs. 1.1% at 200,000 ppm). ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 82]])
+- Wormhole volume is primarily influenced by the salinity of the live brine rather than the original porosity of the rock. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 85]])
+- Young's modulus (YM) decreased after injection in all cases, but the reduction was higher at higher salinities because less acidic brine required more time to generate wormholes, allowing more time for the acid to react with the bulk of the rock. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 89]])
+- The core inlet hardness showed a significant reduction as salinity decreased (up to 23% reduction at 40k ppm), directly correlating with the acidity of the solution. ([[2023-aldhafeeri|Aldhafeeri, 2023, p. 91]])
 
 ## Limitations
 
-The model used to calculate gas column height assumed a typical geothermal/hydrostatic gradient and average brine salinity; furthermore, some studies noted that the impact of salinity on viscosity is lower than its impact on density.
+Not stated in source
 
 ## Recommendations and Future Work
 
-The study provides screening criteria to select optimal aquifer salinity and temperature to ensure safe CO2 storage by minimizing risks of rock failure due to excessive carbonic acid reaction.
+Not stated in source
 
 ## Related Concepts
 
-- [[ct-scanning]]
-- [[helium-porosimetry]]
+- [[coreflooding]]
+- [[micro-ct-scan]]
 - [[wormhole]]
 - [[co2-sequestration]]
-- [[porosity]]
-- [[reservoir-characterization]]
-- [[core-analysis]]
+- [[petrophysics]]
+- [[rock-mechanics]]
+- [[saudi-arabia]]
+- [[salinity]]
+- [[temperature]]
 - [[micro-ct-scanning]]
-- [[xrd]]
-- [[permeability]]
+- [[porosity]]
 - [[youngs-modulus]]
 - [[poissons-ratio]]
-- [[rock-mechanics]]
-- [[core-flooding]]
-- [[saudi-arabia]]
-- [[hardness-measurement]]
-- [[ct-scan]]
+- [[hardness]]
+- [[geomechanics]]

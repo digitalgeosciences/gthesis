@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "denoised and feature-extracted signals"
+output: "frequency-decomposed seismic data"
 tags:
   - technique/stationary-wavelet-transform
-  - theme/seismic-inversion
+  - theme/geophysics-general
 sources:
   - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Stationary Wavelet Transform
 
-**Summary**: A wavelet transform that provides a time-invariant representation of the signal.
+**Summary**: A wavelet transform that is translation-invariant.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-almarzooq|Almarzooq, 2023]] used stationary wavelet transforms (SWT) to evaluate feature extraction in the inversion pipeline.
+- [[2023-almarzooq|Almarzooq, 2023]] evaluated stationary-wavelet-transform as a pre-processing step for inversion.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- SWT-CNN and SWT-TCN autoencoders were tested for their ability to improve inference results. ([[2023-almarzooq|Almarzooq, 2023, p. 84]])
+- SWT failed to capture high-frequency details and increased computational load by 11x compared to direct inversion. ([[2023-almarzooq|Almarzooq, 2023, p. 101]])
 
 ## Methodological Variations Across Sources
 

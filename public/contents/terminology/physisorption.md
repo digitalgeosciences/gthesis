@@ -2,57 +2,57 @@
 type: terminology
 title: "Physisorption"
 aliases:
-  - "physical sorption"
+  - "physical adsorption"
 canonical: true
-definition: "Adsorption involving weak physical forces rather than chemical bonds."
-units: "kJ/mol"
+definition: "Adsorption via physical forces."
+units: "not applicable"
 related_techniques: []
 tags:
   - theme/water-treatment
 sources:
-  - "raw/139555 - Adsorption Evaluation of Cross-linked Polymers for Water Treatment.pdf"
-  - "raw/140346 - The Potential Capacity of Carbon Fly Ash Coated with Polyelectrolytes in Removin.pdf"
-  - "raw/140924 - REMOVAL OF PHENOL AND CADMIUM FROM CONTAMINATED WATER BY POLYMERIC MODIFIED GRAP.pdf"
+  - "raw/139613 - Adsorptive Evaluation of Nanoparticles Loaded Carbon Derived from Used Tires.pdf"
+  - "raw/140210 - A STUDY OF THE ADSORPTIONDESORPTION OF METHANECARBON DIOXIDE ON THE SURFACE OF D.pdf"
+  - "raw/9651 - Adsorption of surfactants on Saudi Arabian limestone..pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-20
 ---
 
 # Physisorption
 
-**Summary**: Adsorption where the adsorbate is held to the surface by weak intermolecular forces.
+**Summary**: Adsorption involving physical forces such as van der Waals forces.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-musa|Musa, 2015]] determined the adsorption type based on activation energy values.
+- [[2015-danmaliki|Danmaliki, 2015]] analyzed the nature of adsorption for sulfur compounds.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] evaluated adsorption processes using Langmuir and Freundlich models.
+- [[2016-elnaeem|Elnaeem, 2016]] characterized the physisorption of CO2 and CH4 on rock surfaces.
 
-- [[2019-salawudeen|Salawudeen, 2019]] used nitrogen physisorption to determine surface area and pore size distribution.
+- [[1987-ahmed|Ahmed, 1987]] analyzed the difference between physisorption and chemical interaction in adsorption mechanisms.
 
 ## Scientific Context
 
-- [[2015-musa|Musa, 2015]] Distinguishes between physical and chemical interaction mechanisms.
+- [[2015-danmaliki|Danmaliki, 2015]] Distinguishes between physical and chemical adsorption mechanisms.
 
-- [[2017-olabemiwo|Olabemiwo, 2017]] evaluated adsorption processes using Langmuir and Freundlich models.
+- [[2016-elnaeem|Elnaeem, 2016]] characterized the physisorption of CO2 and CH4 on rock surfaces.
 
-- [[2019-salawudeen|Salawudeen, 2019]] used nitrogen physisorption to determine surface area and pore size distribution.
+- [[1987-ahmed|Ahmed, 1987]] analyzed the difference between physisorption and chemical interaction in adsorption mechanisms.
 
 ## Measurement and Characterization Methods
 
-- [[2015-musa|Musa, 2015]] Calculation of activation energy (Ea) from Arrhenius plots.
+- [[2015-danmaliki|Danmaliki, 2015]] Analysis of kinetic models.
 
 ## Key Findings Across Sources
 
-- Both Co(II) and Ni(II) were determined to be physically adsorbed as Ea was < 40 kJ/mol (5.7 and 15.8 kJ/mol respectively). ([[2015-musa|Musa, 2015, p. 98]])
+- Not stated in source ([[2015-danmaliki|Danmaliki, 2015]])
 
-- The Freundlich constant (n) indicated a favorable sorption process between the adsorbents and Cd(II) ions. ([[2017-olabemiwo|Olabemiwo, 2017, p. 15]])
 
-- GPDADMAC showed a Type II isotherm, indicating uniform surface energy and multilayer adsorption. ([[2019-salawudeen|Salawudeen, 2019, p. 34]])
+- The reversibility of the physisorption process is useful in EGR for displacing methane. ([[2016-elnaeem|Elnaeem, 2016, p. 53]])
+
+- Not stated in source ([[1987-ahmed|Ahmed, 1987]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -2,64 +2,73 @@
 type: technique
 title: "Stable Isotope Analysis"
 aliases:
-  - "$\\delta^{18}O$ analysis"
-  - "$\\delta^{13}C$ analysis"
+  - "δ13C, δ18O"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "$\\delta^{18}O$ and $\\delta^{13}C$ values"
+output: "δ13C and δ18O values in parts per mille (‰)"
 tags:
   - technique/stable-isotope-analysis
-  - theme/diagenesis
+  - theme/carbonate-geology
 sources:
   - "raw/139623 - Stratigraphic Architecture and Diagenetic Evolution of Early Miocene Syn-rift Ca.pdf"
-  - "raw/141363 - POTENTIAL SOURCES AND DISTRIBUTION OF NITRATE IN THE GROUNDWATER OF THE WASIA AQ.pdf"
-  - "raw/142020 - DIAGENETIC, PETROPHYSICAL, GEOCHEMICAL AND MICRO-PALEONTOLOGICAL ANALYSIS OF PLE.pdf"
+  - "raw/140483 - SEDIMENTOLOGY AND RESERVOIR CHARACTERISTICS OF MIDDLE JURASSIC DHRUMA FORMATION,.pdf"
+  - "raw/142053 - CONTROLS ON THE SPATIAL VARIABILITY OF PORE SYSTEMS IN SHALLOW MARINE STRATA THE.pdf"
+  - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
   - "raw/142784 - INTEGRATED RESERVOIR CHARACTERIZATION OF THE VALANGINIAN CARBONATES IN CENTRAL S.pdf"
+  - "raw/142980 - PETROGENESIS OF NORTHERN MIDYAN TERRANE GRANITOIDS, ARABIAN SHIELD CONSTRAINTS F.pdf"
   - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
   - "raw/143279 - CO2-Carbonate Mudrock Interactions Investigating The Influence of Organic Richne.pdf"
   - "raw/9934 - Sedimentology and geochemistry of Qurayyah Sabkha, Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Stable Isotope Analysis
 
-**Summary**: Analysis of stable isotopes to determine paleotemperature, salinity, and fluid interaction.
+**Summary**: Analysis of stable isotopes to determine the chemical signature of fluids.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] applied stable isotope analysis to distinguish between marine, meteoric, and burial diagenetic environments.
+- [[2015-koeshidayatullah|Koeshidayatullah, 2015]] applied stable-system analysis (δ13C and δ18O) to identify paleodiagenetic fluid types.
 
-- [[2019-ahmed|Ahmed, 2019]] used stable isotope analysis of nitrate to differentiate between synthetic fertilizers, manure, and atmospheric deposition.
+- [[2017-yousif|Yousif, 2017]] applied stable-isotope-analysis to identify subaerial exposure surfaces and transgressive intervals.
 
-- [[2022-khan|Khan, 2022]] performed stable isotope analysis on powdered bulk sediment samples using a GasBench II and mass spectrometer.
+- [[2022-stiawan|Stiawan, 2022]] used stable-isotope-analysis to investigate different geochemical signatures of two groups of dolomites.
 
-- [[2024-allam|Allam, 2024]] performed stable isotope measurements on Valanginian carbonates
+- [[2023-rafiq|Rafiq, 2023]] applied stable isotope analysis to distinguish between magmatic, oceanic, and meteoric origins of thermal waters.
 
-- [[2024-malik|Malik, 2024]] used stable isotope geochemistry to investigate the Dhaiqa Basin.
+- [[2024-allam|Allam, 2024]] used stable isotope analysis to determine the depositional environment and early burial diagenesis.
 
-- [[2025-alhubail|Alhubail, 2025]] used stable-13C and 18O analysis to evaluate carbonate mudrock response to CO2 treatment.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used Sr and Nd isotopes to distinguish between mantle and crustal sources.
 
-- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used stable-isotope-analysis on brine samples to identify groundwater influence.
+- [[2024-malik|Malik, 2024]] performed stable-isotope-analysis on carbonate samples to determine paleotemperatures and salinity.
+
+- [[2025-alhubail|Alhubail, 2025]] used stable-isotope-analysis to characterize the impact of CO2 on carbonate mudrock samples with varying organic content.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used stable-isotope-analysis to distinguish between sea water and groundwater components in the brine.
 
 ## Instruments and Software
 
 
 
-- [[2019-ahmed|Ahmed, 2019]] used stable isotope analysis of nitrate to differentiate between synthetic fertilizers, manure, and atmospheric deposition.
+- [[2017-yousif|Yousif, 2017]] applied stable-isotope-analysis to identify subaerial exposure surfaces and transgressive intervals.
 
-- [[2022-khan|Khan, 2022]] performed stable isotope analysis on powdered bulk sediment samples using a GasBench II and mass spectrometer.
+- [[2022-stiawan|Stiawan, 2022]] used stable-isotope-analysis to investigate different geochemical signatures of two groups of dolomites.
 
-- [[2024-allam|Allam, 2024]] performed stable isotope measurements on Valanginian carbonates
+- [[2023-rafiq|Rafiq, 2023]] applied stable isotope analysis to distinguish between magmatic, oceanic, and meteoric origins of thermal waters.
 
-- [[2024-malik|Malik, 2024]] used stable isotope geochemistry to investigate the Dhaiqa Basin.
+- [[2024-allam|Allam, 2024]] used stable isotope analysis to determine the depositional environment and early burial diagenesis.
 
-- [[2025-alhubail|Alhubail, 2025]] used stable-13C and 18O analysis to evaluate carbonate mudrock response to CO2 treatment.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] used Sr and Nd isotopes to distinguish between mantle and crustal sources.
 
-- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used stable-isotope-analysis on brine samples to identify groundwater influence.
+- [[2024-malik|Malik, 2024]] performed stable-isotope-analysis on carbonate samples to determine paleotemperatures and salinity.
+
+- [[2025-alhubail|Alhubail, 2025]] used stable-isotope-analysis to characterize the impact of CO2 on carbonate mudrock samples with varying organic content.
+
+- [[1994-al-guwaizani|Al-Guwaizani, 1994]] used stable-isotope-analysis to distinguish between sea water and groundwater components in the brine.
 
 ## Typical Workflow
 
@@ -67,19 +76,23 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- $\\delta^{18}O$ values in Wadi Waqb range from 3.9 to -7.2\ngrads (‰), indicating high intensity of diagenesis. ([[2015-koeshidayatullah|Koeshidayatullah, 2015, p. 123]])
+- Wadi Waqb carbonates showed enriched δ18O values, while Ad-Dubaybah samples showed significantly lower values. ([[2015-koeshidayatullah|Koeshidayatullah, 2015, p. 20]])
 
-- 63% of samples fell within the isotopic range for synthetic nitrate fertilizers. ([[2019-ahmed|Ahmed, 2019, p. 61]])
+- Abrupt shifts in δ18O values indicated a subaerial exposure surface above thick amalgamated units. ([[2017-yousif|Yousif, 2017, p. 19]])
 
-- Measurements were normalized to VPDB with an in-house carbonate standard. ([[2022-khan|Khan, 2022, p. 71]])
+- Identified two distinct clusters for Wadi Malham and Wadi Nisah, supporting different diagenetic histories. ([[2022-stiawan|Stiawan, 2022, p. 19]])
 
-- Paleotemperature inferred from oxygen isotopes ranged from 23.7°C to 37.49°C, indicating early-stage shallow burial diagenesis. ([[2024-allam|Allam, 2024, p. 58]])
+- Determined that the primary source of geothermal water is meteoric water based on its position on the GMWL. ([[2023-rafiq|Rafiq, 2023, p. 99]])
 
-- Stable isotope results suggest potential connection with open seas during Ediacaran. ([[2024-malik|Malik, 2024, p. 14]])
+- All whole rock samples exhibited Z values greater than 120, indicating a marine depositional environment. ([[2024-allam|Allam, 2024, p. 70]])
 
-- Determined that organic richness and maturity significantly influence the isotopic signature of the rock after CO2 interaction. ([[2025-alhubail|Alhubail, 2025, p. 71]])
+- Initial 87Sr/86Sr ratios were low (0.705-0.718), indicating a mantle-derived source with minimal crustal contribution. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 93]])
 
-- Stable isotope data show enrichment of all isotopes except deuterium, indicating evaporation of Neogene groundwater. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 12]])
+- The $\delta^{13}C$ values range from -3.38\text{°} to 6.728\text{°} (mean 2.313\text{°}). ([[2024-malik|Malik, 2024, p. 71]])
+
+- Stable isotope analysis allows for the differentiation between carbonate mineral phases and organic matter during carbonation. ([[2025-alhubail|Alhubail, 2025, p. 35]])
+
+- The 14C activity of 74.4% pmC suggests a significant component of old dissolved carbon from groundwaters. ([[1994-al-guwaizani|Al-Guwaizani, 1994, p. 84]])
 
 ## Methodological Variations Across Sources
 

@@ -9,9 +9,9 @@ lithology: "Not stated in source"
 reservoir_status: "Not stated in source"
 tags: []
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
+  - "raw/10153 - Geology of the early paleogene phosphorite deposits of Northwestern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Hudayb Limestone
@@ -22,7 +22,7 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Hudayb Limestone
+- [[1996-matter|Matter, 1996]] studied the Hudayb Limestone
 
 ## Depositional Environment
 
@@ -32,12 +32,15 @@ last_updated: 2026-06-08
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- studied the Hudayb Limestone ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+- studied the Hudayb Limestone ([[1996-matter|Matter, 1996]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

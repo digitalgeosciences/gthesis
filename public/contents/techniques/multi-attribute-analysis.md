@@ -1,31 +1,31 @@
 ---
 type: technique
-title: "Multi Attribute Analysis"
+title: "Multi-Attribute Analysis"
 aliases:
-  - "multi-attribute technique"
-  - "EMERGE"
+  - "multi-attribute transforms"
+  - "multivariate regression"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "pseudo-log cubes of reservoir properties"
+output: "petrophysical maps (porosity, permeability, water saturation)"
 tags:
   - technique/multi-attribute-analysis
-  - theme/petrophysics
+  - theme/reservoir-characterization
 sources:
   - "raw/138941 - SEISMIC ATTRIBUTES AND PETROPHYSICAL MODELLING OF THE ARADEIBA-D MEMBER, MUGLAD .pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
-# Multi Attribute Analysis
+# Multi-Attribute Analysis
 
-**Summary**: A method using multiple seismic attributes to improve the prediction of reservoir properties by capturing non-linear relationships.
+**Summary**: The integration of multiple seismic attributes to predict petrophysical properties.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-el-kheir|El-Kheir, 2013]] applied multi-attribute analysis via EMERGE software to generate pseudo-log cubes for porosity, permeability, and water saturation.
+- [[2013-el-kheir|El-Kheir, 2013]] applied multi-attribute-analysis to predict reservoir property changes between wells using multivariate linear regression.
 
 ## Instruments and Software
 
@@ -37,7 +37,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Multi-attribute techniques were necessary because raw seismic or acoustic impedance showed poor correlation with petrophysical properties. ([[2013-el-kheir|El-Kheir, 2013, p. 85]])
+- The best number of attributes and length of the convolution operator were chosen based on cross-validation error analysis. ([[2013-el-kheir|El-Kheir, 2013, p. 14]])
 
 ## Methodological Variations Across Sources
 

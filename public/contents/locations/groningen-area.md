@@ -2,34 +2,33 @@
 type: location
 title: "Groningen Area"
 aliases:
-  - "Groningen area"
-  - "Groningen gas field"
+  - "Groningen"
 canonical: true
 region: "Netherlands"
 country: "Netherlands"
 coordinates: "Not stated in source"
-geology: "Gas production area"
+geology: "Gas field with induced seismicity"
 tags:
   - location/groningen-area
 sources:
   - "raw/141816 - PASSIVE SEISMIC EVENT DETECTION IN THE GRONINGEN AREA USING DEEP LEARNING.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Groningen Area
 
-**Summary**: A region in the Netherlands known for induced seismicity due to gas extraction.
+**Summary**: A region in the Netherlands known for significant induced seismicity due to gas extraction.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-shaheen|Shaheen, 2021]] studied the Groningen area to evaluate seismic risks from gas production.
+- [[2021-shaheen|Shaheen, 2021]] studied the groningen-area to evaluate seismic risks and improve detection of low-magnitude events.
 
 ## Geological and Structural Setting
 
-- [[2021-shaheen|Shaheen, 2021]] Induced seismicity zone
+- [[2021-shaheen|Shaheen, 2021]] Sedimentary basin affected by gas extraction
 
 ## Formations Present
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Findings From This Location
 
-- The area has been suffering from induced earthquakes since the start of the century. ([[2021-shaheen|Shaheen, 2021, p. 15]])
+- The Groningen area has been suffering from induced earthquakes caused by gas production... since 1991. ([[2021-shaheen|Shaheen, 2021, p. 15]])
 
 ## Research Coverage and Gaps
 

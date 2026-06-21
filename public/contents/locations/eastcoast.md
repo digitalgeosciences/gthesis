@@ -1,34 +1,35 @@
 ---
 type: location
-title: "East_Coast"
+title: "East Coast"
 aliases:
-  - "East coast of Saudi Arabia"
+  - "East Coast"
+  - "Saudi Arabia East Coast"
 canonical: true
-region: "Eastern Province"
+region: "Eastern Province, Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Coastal zone"
+geology: "Coastal sedimentary environment"
 tags:
-  - location/east-coast
+  - location/eastcoast
 sources:
   - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
-# East_Coast
+# East Coast
 
-**Summary**: The eastern coastal region of the Arabian Peninsula.
+**Summary**: The eastern coastline of Saudi Arabia along the Arabian Gulf.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] investigated microplastic contamination along the east coast.
+- [[2022-alshaikhali|Alshaikhali, 2022]] studied microplastic contamination on the east coast of Saudi Arabia.
 
 ## Geological and Structural Setting
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] Marine coast
+- [[2022-alshaikhali|Alshaikhali, 2022]] Arabian Gulf coastline
 
 ## Formations Present
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- Samples were collected from four beaches: Khafji, Jubail, Dammam, and Salwa. ([[2022-alshaikhali|Alshaikhali, 2022, p. 21]])
+- Microplastics were found in all 24 samples across the four study sites (Khafji, Jubail, Dammam, and Salwa). ([[2022-alshaikhali|Alshaikhali, 2022, p. 38]])
 
 ## Research Coverage and Gaps
 

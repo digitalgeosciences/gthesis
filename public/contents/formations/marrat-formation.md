@@ -3,62 +3,67 @@ type: formation
 title: "Marrat Formation"
 aliases: []
 canonical: true
-age: "Not stated in source"
+age: "Jurassic"
 basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "Not stated in source"
-tags: []
+lithology: "Carbonate and clastic rocks"
+reservoir_status: "potential"
+tags:
+  - formation/marrat-formation
+  - theme/carbonate-geology
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
   - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
-  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
+  - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
+  - "raw/143008 - SYSTEMATIC INVESTIGATION OF ROCKFLUID INTERACTIONS IN RESERVOIRS AT NANO –TO – M.pdf"
   - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Marrat Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A Jurassic carbonate formation in Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Marrat Formation
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Marrat Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Marrat formation for porosity and permeability.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Referenced in this thesis.
 
-- [[2021-ahmed|Ahmed, 2021]] studied the Marrat Formation to evaluate its diagenetic and petrophysical properties.
+- [[2024-isah|Isah, 2024]] studied the Marrat Formation to evaluate the impact of anhydrite on reservoir properties.
 
-- [[2024-fahmi|Fahmi, 2024]] studied the Marrat Formation to understand its sedimentary architecture and dynamics.
+- [[2024-fahmi|Fahmi, 2024]] studied the Marrat Formation to understand its complex lithology and sedimentary dynamics.
 
 ## Depositional Environment
 
+- [[2021-al-nuwais|Al-Nuwais, 2021]] transition zone after the Minjur Formation
 
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Referenced in this thesis.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Marrat formation for porosity and permeability.
+- [[2024-isah|Isah, 2024]] studied the Marrat Formation to evaluate the impact of anhydrite on reservoir properties.
 
-- [[2021-ahmed|Ahmed, 2021]] studied the Marrat Formation to evaluate its diagenetic and petrophysical properties.
-
-- [[2024-fahmi|Fahmi, 2024]] studied the Marrat Formation to understand its sedimentary architecture and dynamics.
+- [[2024-fahmi|Fahmi, 2024]] studied the Marrat Formation to understand its complex lithology and sedimentary dynamics.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2021-al-nuwais|Al-Nuwais, 2021]] Dolomitization, cementation
+
 ## Key Findings Across Sources
 
-- studied the Marrat Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+- The Marrat Formation showed a bimodal distribution of porosity/permeability due to clastic and carbonate components. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 123]])
 
-- Marrat showed both carbonate and sandstone lithofacies. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 70]])
+- Referenced in this thesis. ([[2022-abdlmutalib|Abdlmutalib, 2022]])
 
-- The Upper Marrat is characterized by vuggy, moldic, and burrowed porosity with significant iron oxide cementation. ([[2021-ahmed|Ahmed, 2021, p. 54]])
+- The formation contains three distinct members with varying lithological compositions. ([[2024-isah|Isah, 2024, p. 123]])
 
-- The formation shows distinct aggradation-progradation geometries that align with outcrop data. ([[2024-fahmi|Fahmi, 2024, p. 16]])
+- The formation exhibits a complex composition of interbedded sandstones, mudstones, limestone, and anhydrites. ([[2024-fahmi|Fahmi, 2024, p. 45]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

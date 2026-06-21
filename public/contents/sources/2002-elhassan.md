@@ -13,165 +13,125 @@ committee_members:
   - "Osman Abdullatif"
 source_file: "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/9859/"
-study_area: "Khafji reservoir, Zuluf field, offshore Saudi Arabia"
+study_area: "Zuluf field, Eastern Province, Saudi Arabia"
 keywords:
-  - mechanical properties
   - Khafji reservoir
+  - mechanical properties
   - in-situ stress
-  - dynamic elastic moduli
-  - static elastic moduli
-  - grain size
-  - mineralogy
-  - depositional environment
-  - sequence stratigraphy
-  - wellbore stability
   - dynamic and static elastic moduli
-  - hydraulic fracturing
-  - porosity
-  - grain size distribution
-  - factor analysis
-  - well log interpretation
-  - acoustic log
-  - triaxial test
+  - calibration
   - Young's modulus
   - Poisson's ratio
-  - Biot's constant
-  - calibration
-  - leak-off test
-  - FMI
-  - Zuluf field
-  - petrophysics
-  - in-situ stress modeling
+  - lithology
+  - in-suit stress modeling
+  - grain size analysis
+  - petrography
+  - sequence stratigraphy
+  - porosity
+  - wellbore stability
 techniques:
   - xrd
   - sem-eds
-  - well-log-analysis
   - triaxial-test
+  - well-log-analysis
   - linear-regression
-  - formel-method
-  - autoscan-method
-  - borehole-imaging
-  - sem
-  - sieve-analysis
-  - thin-section-petrography
-  - triaxial-testing
-  - factor-analysis
-  - sequence-stratigraphy
-  - core-analysis
-  - formulation-modeling
-  - leak-off-test
-  - formation-micro-imager
-  - petrophysics
-  - wireline-logs
-  - rft
-  - lot
   - formel
   - autoscan
-  - multivariate-regression
+  - petrography
+  - microscopy
+  - sieve-analysis
+  - factor-analysis
+  - sequence-stratigraphy
+  - leak-off-test
+  - core-analysis
+  - thin-section-petrography
+  - borehole-imaging
+  - gamma-ray-log
+  - resistivity
 tags:
   - degree/ms
   - formation/khafji-member
   - location/zuluf-field
   - location/eastern-province
-  - location/saudi-arabia
   - technique/xrd
   - technique/sem-eds
-  - technique/well-log-analysis
   - technique/triaxial-test
+  - technique/well-log-analysis
   - technique/linear-regression
-  - technique/formel-method
-  - technique/autoscan-method
-  - technique/borehole-imaging
-  - technique/sem
-  - technique/thin-section-petrography
-  - technique/triaxial-testing
+  - technique/formel
+  - technique/autoscan
+  - technique/petrography
+  - technique/microscopy
   - technique/sieve-analysis
-  - technique/core-analysis
   - technique/factor-analysis
+  - technique/sequence-stratigraphy
   - technique/leak-off-test
-  - technique/formation-micro-imager
-  - technique/multivariate-regression
-  - technique/petrophysics
+  - technique/core-analysis
+  - technique/thin-section-petrography
+  - theme/petrophysics
   - theme/geomechanics
   - theme/in-situ-stress
-  - theme/petrophysics
-  - theme/sequence-stratigraphy
-  - terminology/in-situ-stress
   - terminology/porosity
-  - terminology/rock-mechanics
   - terminology/youngs-modulus
   - terminology/poissons-ratio
+  - terminology/in-situ-stress
+  - terminology/sequence-stratigraphy
   - terminology/biot-constant
 status: ingested
 ---
 
 # Khafji reservoir mechanical properties calibration and in-situ stress modeling, Zuluf field, Eastern Saudi Arabia
 
-**Summary**: The thesis investigates the mechanical properties of the Khafji reservoir in the Zuluf field, focusing on calibrating dynamic elastic moduli (Young's modulus and Poisson's ratio) to static values using three methods: regression, FORMEL, and AUTOSCAN. It also models the in-situ stress state of the reservoir to inform wellbore stability and hydraulic fracturing design.
+**Summary**: The thesis investigates the relationship between geological parameters, depositional environments, and mechanical properties of the Khafji reservoir in the Zuluf field. It focuses on calibrating dynamic elastic moduli (Young's modulus and Poisson's ratio) from acoustic logs to static values using various methods like FORMEL and AUTOSCAN, and modeling in-situ stresses.
 
 ---
 
 ## Research Problem
 
-The need for accurate rock mechanical property characterization (elastic moduli and strength) is critical for drilling, completion, and monitoring; however, there is often a discrepancy between static values (from core samples) and dynamic values (from wireline logs).
+The discrepancy between static and dynamic elastic moduli in reservoir rocks complicates the interpretation of well log data for engineering applications like wellbore stability and hydraulic fracturing. This is particularly relevant for the Khafji reservoir in the Zuluf field, where lithological heterogeneity impacts mechanical property estimation.
 
 ## Objectives
 
-- Investigate relationships between geological parameters and depositional environment and the mechanical properties of the Khafji reservoir.
-- Establish a relationship between static and dynamic elastic moduli.
-- Model the in-situ stress affecting the Zuluf field.
-- Investigate the effect of the geological parameters (texture and composition) on the mechanical properties.
-- Investigate the effect of depositional environment on the mechanical properties.
+- Investigate the relationship between geological parameters (grain size, mineralogy, texture) and the mechanical properties of the Khafji reservoir.
+- Investigate the effect of depositional environment on mechanical properties.
 - Develop an empirical correlation to calibrate dynamic mechanical properties using static mechanical properties of the reservoir.
 - Investigate the effect of lithology on calibration factor.
 - Characterize reservoir in-situ stresses.
-- Investigate the relationship between geological parameters (grain size, mineralogy) and mechanical properties of the Khafji reservoir.
-- Establish a correlation between static and dynamic elastic moduli.
-- Model in-situ stress profiles for hydraulic fracturing design.
-- Investigate relationships between geological parameters, depositional environment, and mechanical properties of the Khafji reservoir.
-- Model in-situ stress based on petrophysical and mineralogical data.
-- Investigate relationships between geological parameters, depositional environments, and mechanical properties of the Khafji reservoir.
-- Model in-situ stress within the Zuluf field's Khafji reservoir.
-- Investigate the relationship between geological parameters/depositional environment and mechanical properties of the Khafji reservoir.
-- Establish a relationship between static and dynamic elastic moduli (Young's modulus and Poisson's ratio).
-- Model the in-situ stress state of the Zuluf field to determine minimum horizontal stress and orientation.
-- Investigate relationships between geological parameters (compositional/textural) and mechanical properties of the Khafji reservoir.
-- Investigate the relationships between geological parameters, depositional environment, and the mechanical properties of the Khafji reservoir.
-- Model the in-situ stress for the Khafji reservoir.
+- Determine the effect of confining pressure on the mechanical properties of the reservoir.
 
 ## Methods
 
-The study utilizes core analysis for static properties, well log analysis (DTC, DTS, density) for dynamic properties, and leak-off tests (LOT) for in-situ stress. Three calibration methods are compared: 1) Regression method (linear relationship between dynamic and static values), 2) FORMEL method (based on grain contact plastification and closed sliding cracks), and 3) AUTOSCAN method (a KFUPM developed algorithm to minimize errors between core points and log values). In-situ stress is determined using FMI for orientation, density logs for overburden pressure, and LOT for minimum horizontal stress.
+The study utilized core samples from well Zuluf-A and Zuluf-AA. Grain size analysis was performed using sieve analysis on 21 core samples, including calculation of median, mean, sorting, skewness, and kurtosis. Mineralogical composition was determined via thin-section petrography, XRD (to identify kaolinite), and SEM-EDS. Texture was analyzed through grain contact counts in thin sections. Factor analysis (Q-mode) was applied to grain size data to determine depositional environments. Sequence stratigraphy was used to interpret the reservoir's history using gamma ray logs. Correlation analyses (linear regression) were performed between mechanical properties (Young's modulus, Poisson's ratio) and geological parameters.
 
 ## Data and Materials
 
-Data included FMI logs from Zuluf-C well, wireline log data (density, gamma ray, resistivity) from Zuluf-A and Zuluf-A1 wells, RFT and LOT test results from the Zuluf field, and a suite of reservoir samples for sieve analysis, XRD, SEM-EDS, and thin-section petrography.
+21 different depth intervals from well Zuluf-A; core samples analyzed via XRD, SEM-EDS, and triaxial testing; acoustic logs (DTC, DTS), bulk density logs, and FMI images from Zuluf-A and Zuluf-C wells.
 
 ## Key Findings
 
-- XRD study revealed that kaolinite is the main clay mineral in the samples. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- SEM-EDS confirmed quartz enrichment and the presence of kaolinite identified in XRD. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- Relationships between grain size parameters and mechanical properties (Young's modulus and Poisson's ratio) were not significant. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- Relationship between quartz percentage and grain contact percentage was not significant with Young's modulus, but it was significant with Poisson's ratio. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- Beach sand samples showed the lowest average Young's modulus and lowest average Poisson's ratio compared to river sand. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- The (LST) has the highest Young's modulus and Poisson's ratio relative to the (TST). ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- XRD results identified kaolinite as the primary clay mineral in the reservoir samples. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- SEM-EDS confirmed quartz enrichment and the presence of kaolinite. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- The relationship between grain size parameters and mechanical properties (Young's modulus and Poisson's ratio) was not significant. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- Relationship between quartz percentage and grain contact percentage for Young's modulus was not significant, but it was significant with Poisson's ratio. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- The main sand (LST) exhibited higher Young's modulus and Poisson's ratio compared to the upper stringer sand (TST). ([[2002-elhassan|ElHassan, 2002, p. 19]])
 - Only the AUTOSCAN method successfully calibrated both Young's modulus and Poisson's ratio. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- The azimuths of minimum and maximum horizontal stress are approximately northwest and northeast, respectively. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- Typical values for minimum and maximum horizontal stress gradients are 0.82 psi/ft and 0.9 psi/ft, while vertical stress is 1.1 psi/ft. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- The relationship among the magnitudes of the three principal stresses (σ1 > σ2 > σ3) suggests a normal fault regime. ([[2002-elhassan|ElHassan, 2002, p. 19]])
-- The Khafji Member consists of a thick sequence of quartz sandstone, siltstone, shale, and various types of ironstone. ([[2002-elhassan|ElHassan, 2002, p. 24]])
-- The main sand interval is interpreted to have been deposited in a delta-front setting consisting of delta-front mouth bar and distributary channel complexes. ([[2002-elhassan|ElHassan, 2002, p. 29]])
-- Static stress loading rates are orders of magnitude lower than the rates of stress imposed by wave propagation, leading to differences between static and dynamic properties. ([[2002-elhassan|ElHassan, 2002, p. 34]])
-- A confining stress of 2900 psi was used for triaxial testing to simulate approximate reservoir stress conditions. ([[2002-elhassan|ElHassan, 2002, p. 32]])
-- Young's modulus showed no significant correlation with median grain size (r=0.07 at 1000 psi; r=0.16 at 2900 psi). ([[2002-elhassan|ElHassan, 2002, p. 58]])
+- Minimum horizontal stress (Shmin) is determined to be approximately 0.72 psi/ft, while maximum horizontal stress (Shmax) is approximately 0.9 psi/ft. ([[2002-elhassan|ElHassan, 2002, p. 146]])
+- The vertical stress (Sv) gradient was determined to be approximately 1.1 psi/ft. ([[2002-elhassan|ElHassan, 2002, p. 143]])
+- The relationship between the three principal stresses (sigma_max > sigma_min > sigma_h) suggested a normal fault regime. ([[2002-elhassan|ElHassan, 2002, p. 19]])
+- Grain size parameters (median, mean, sorting, skewness, and kurtosis) showed no significant correlation with Young's modulus or Poisson's ratio. ([[2002-elhassan|ElHassan, 2002, p. 58]])
+- Poisson's ratio showed a significant correlation with grain contact percentage (r = 0.77 at 1000 psi and r = 0.73 at 2900 psi). ([[2002-elhassan|ElHassan, 2002, p. 78]])
+- Young's modulus was found to increase with increasing confining pressure, while Poisson's ratio remained relatively constant. ([[2002-elhassan|ElHassan, 2002, p. 58]])
+- The main sand interval is interpreted to have been deposited in a delta-front setting, while the upper stringer sand was deposited in a delta-plain setting. ([[2002-elhassan|ElHassan, 2002, p. 81]])
+- Factor analysis identified three distinct depositional environments: Factor 2 (beach), Factor 3 (gravitational settling), and Factor 1 (current energy). ([[2002-elhassan|ElHassan, 2002, p. 89]])
+- The LST (Lowstand System Tract) was found to have higher Young's modulus and Poisson's ratio compared to the TST (Transgressive System Tract). ([[2002-elhassan|ElHassan, 2002, p. 93]])
 
 ## Limitations
 
-No specific limitations are explicitly listed in a dedicated section; however, the author notes that no universal relationship exists for converting static and dynamic properties due to variations in pore pressure, mineralogy, etc.
+The study notes that the limited number of samples may have led to an observed lack of significant correlation between Young's modulus and porosity, which contradicts some previous studies. Additionally, it mentions that the absence of continuous density measurements to surface in Zuluf-A required the use of a composite representative curve.
 
 ## Recommendations and Future Work
 
-Analyze more samples from other wells in Zuluf field to build models predicting rock mechanical properties from texture/composition. Establish local or regional empirical relationships between dynamic and standard-form measurements for specific fields rather than seeking universal ones.
+The author suggests establishing local or regional empirical relationships for specific fields due to the lack of universal conversion factors between static and dynamic properties. It also recommends using lithology calibration factors to account for heterogeneity in sedimentary basins.
 
 ## Related Concepts
 
@@ -179,18 +139,17 @@ Analyze more samples from other wells in Zuluf field to build models predicting 
 - [[sem-eds]]
 - [[triaxial-test]]
 - [[well-log-analysis]]
+- [[formel]]
+- [[autoscan]]
 - [[khafji-member]]
 - [[zuluf-field]]
-- [[in-situ-stress]]
 - [[porosity]]
-- [[geomechanics]]
-- [[reservoir-characterization]]
-- [[triaxial-testing]]
-- [[sem]]
-- [[sieve-analysis]]
-- [[rock-mechanics]]
-- [[factor-analysis]]
 - [[youngs-modulus]]
 - [[poissons-ratio]]
+- [[in-situ-stress]]
+- [[geomechanics]]
+- [[sieve-analysis]]
+- [[factor-analysis]]
 - [[sequence-stratigraphy]]
+- [[leak-off-test]]
 - [[biot-constant]]

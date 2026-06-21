@@ -2,38 +2,38 @@
 type: technique
 title: "Uniaxial Compression Test"
 aliases:
-  - "UCS test"
+  - "UCS"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "UCS (MPa), static Young's modulus (GPa), and Poisson's ratio."
+output: "compressive strength (MPa)"
 tags:
   - technique/uniaxial-compression-test
   - theme/geomechanics
 sources:
-  - "raw/139490 - INTEGRATION OF LITHOFACIES AND GEOMECHANICAL CHARACTERISTICS OF LOWER SILURIAN Q.pdf"
-  - "raw/139962 - INTEGRATION OF ELECTROFACIES AND GEOMECHANICAL CHARACTERISTICS OF SARAH FORMATIO.pdf"
+  - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
+  - "raw/142024 - ASSESSMENT OF RESERVOIR QUALITY OF SOURCE ROCK.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Uniaxial Compression Test
 
-**Summary**: A mechanical test to determine the strength and elastic properties of rock samples.
+**Summary**: A test to determine the maximum stress a rock can withstand before failure.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-mustafa|Mustafa, 2015]] applied uniaxial compression tests to determine static Young's modulus, Poisson's ratio, and UCS.
+- [[2016-babker|Babker, 2016]] used uniaxial compressive strength (UCS) tests to evaluate the mechanical properties of different lithofacies.
 
-- [[2016-ejaz|Ejaz, 2016]] performed uniaxial-compression-test on 19 core samples to determine static elastic moduli and rock strength.
+- [[2021-lawal|LAWAL, 2021]] performed uniaxial compression tests to derive the static index of brittleness from uniaxial compressive strength (UCS).
 
 ## Instruments and Software
 
 
 
-- [[2016-ejaz|Ejaz, 2016]] performed uniaxial-compression-test on 19 core samples to determine static elastic moduli and rock strength.
+- [[2021-lawal|LAWAL, 2021]] performed uniaxial compression tests to derive the static index of brittleness from uniaxial compressive strength (UCS).
 
 ## Typical Workflow
 
@@ -41,9 +41,9 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Lithofacies-III showed a high average UCS of 94.4 MPa with a Young's Modulus of 32 GPa. ([[2015-mustafa|Mustafa, 2015, p. 86]])
+- The study identified five geomechanical units ranging from low strength to extremely low strength based on UCS and other parameters. ([[2016-babker|Babker, 2016, p. 13]])
 
-- Samples W5 and W6 from Well-E both fractured at approximately 77.7 MPa, representing their UCS. ([[2016-ejaz|Ejaz, 2016, p. 63]])
+- The static index of brittleness was found to be significantly lower for horizontal samples compared to vertical ones, indicating higher brittleness. ([[2021-lawal|LAWAL, 2021, p. 127]])
 
 ## Methodological Variations Across Sources
 

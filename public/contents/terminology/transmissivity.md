@@ -2,10 +2,10 @@
 type: terminology
 title: "Transmissivity"
 aliases:
-  - "hydraulic properties"
+  - "T"
 canonical: true
-definition: "The product of hydraulic conductivity and aquifer thickness."
-units: "m^2/s"
+definition: "The capacity of an aquifer to transmit water."
+units: "m^2/sec"
 related_techniques:
   - "pumping-test"
 tags:
@@ -14,39 +14,39 @@ sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
   - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Transmissivity
 
-**Summary**: The ability of an aquifer to transmit water or fluid under a hydraulic gradient.
+**Summary**: A measure of how easily and quickly water can flow through a saturated porous medium.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1993-moallim|Moallim, 1993]] determined the hydraulic properties of various major aquifers to indicate their productivity.
+- [[1993-moallim|Moallim, 1993]] measured transmissivity to assess the productivity of the Baidoa, Jesomma, and Aurado aquifers.
 
-- [[2025-ahmed|Ahmed, 2025]] calculated transmissivity for the Minjur Aquifer.
+- [[2025-ahmed|Ahmed, 2025]] modeled transmissivity for the Minjur Aquifer.
 
 ## Scientific Context
 
-- [[1993-moallim|Moallim, 1993]] Transmissivity is a key indicator of an aquifer's ability to supply water over time.
+- [[1993-moallim|Moallim, 1993]] Critical for determining the volume of water that can be extracted from a well.
 
-- [[2025-ahmed|Ahmed, 2025]] calculated transmissivity for the Minjur Aquifer.
+- [[2025-ahmed|Ahmed, 2025]] modeled transmissivity for the Minjur Aquifer.
 
 ## Measurement and Characterization Methods
 
-- [[1993-moallim|Moallim, 1993]] Calculated from pumping test data.
+- [[1993-moallim|Moallim, 1993]] Calculated using Jacob's equation from pumping test drawdown data.
 
 ## Key Findings Across Sources
 
-- Hydraulic properties were used as indicators for the productivity and behavior of the aquifers. ([[1993-moallim|Moallim, 1993, p. 64]])
+- The average transmissivity of the Jesomma aquifer is about 3.11 x 10^7 m^2/sec. ([[1993-moallim|Moallim, 1993, p. 114]])
+
 
 - Transmissivity values range from 0.001 to 0.0062 m2/sec. ([[2025-ahmed|Ahmed, 2025, p. 24]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -2,45 +2,51 @@
 type: terminology
 title: "Vadose Zone Hydrology"
 aliases:
-  - "unsaturated zone hydrology"
+  - "water content"
 canonical: true
-definition: "The movement and storage of water in the unsaturated soil zone."
-units: "not applicable"
+definition: "The volume of water per unit volume of soil."
+units: "percentage (%)"
 related_techniques:
-  - "electrical-resistivity-tomography"
-  - "ground-penetrating-radar"
+  - "petrophysics"
 tags:
-  - theme/hydrogeology
+  - theme/sabkha-sedimentology
 sources:
+  - "raw/139860 - DETERMINATION OF EVAPORATION RATE IN A SABKHA IN THE EASTERN PROVINCE, SAUDI ARA.pdf"
   - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Vadose Zone Hydrology
 
-**Summary**: The study of water movement in the unsaturated zone above the water table.
+**Summary**: The amount of water present in the soil.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-prasetyo|Prasetyo, 2024]] focused on vadose zone hydrology as a primary area of interest.
+- [[2016-armoh|Armoh, 2016]] measured soil-moisture to assess its role in facilitating evaporation.
+
+- [[2024-prasetyo|Prasetyo, 2024]] used as a proxy for root zone heterogeneity and to monitor irrigation effects.
 
 ## Scientific Context
 
-- [[2024-prasetyo|Prasetyo, 2024]] Crucial for understanding irrigation efficiency and root growth in arid regions.
+- [[2016-armoh|Armoh, 2016]] Soil moisture availability directly influences the amount of water available for evaporation.
+
+- [[2024-prasetyo|Prasetyo, 2024]] used as a proxy for root zone heterogeneity and to monitor irrigation effects.
 
 ## Measurement and Characterization Methods
 
-- [[2024-prasetyo|Prasetyo, 2024]] monitored via time-lapse ERT and GPR.
+- [[2016-armoh|Armoh, 2016]] Measured using a calibrated dielectric aqua-meter sensor.
 
 ## Key Findings Across Sources
 
-- Not stated in source ([[2024-prasetyo|Prasetyo, 2024]])
+- Soil moisture was found to be between 28% and 37.7%, indicating a partially to nearly saturated state. ([[2016-armoh|Armoh, 2016, p. 53]])
+
+
+- Soil moisture variations were used to identify active root zones via ERT. ([[2024-prasetyo|Prasetyo, 2024, p. 26]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

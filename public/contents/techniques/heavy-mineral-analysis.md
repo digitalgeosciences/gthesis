@@ -2,29 +2,29 @@
 type: technique
 title: "Heavy Mineral Analysis"
 aliases:
-  - "heavy mineral analysis"
+  - "Heavy mineral analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "heavy mineral counts and identification"
+output: "mineral counts and distribution data"
 tags:
   - technique/heavy-mineral-analysis
-  - theme/sedimentology
+  - theme/provenance
 sources:
   - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Heavy Mineral Analysis
 
-**Summary**: The identification and counting of heavy minerals to determine sediment provenance and maturity.
+**Summary**: The separation and identification of heavy minerals to determine provenance.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[1999-babalola|Babalola, 1999]] performed heavy mineral analysis on 44 samples to assess the source terrain and maturity.
+- [[1999-babalola|Babalola, 1999]] used heavy mineral analysis to identify source terrain types and maturity.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Dominance of zircon, tourmaline, and rutile supported a mature sedimentary system. ([[1999-babalola|Babalola, 1999, p. 18]])
+- The dominance of zircon, tourmaline and rutile in the heavy mineral suites supports the mineralogical maturity of the sediments. ([[1999-babalola|Babalola, 1999, p. 18]])
 
 ## Methodological Variations Across Sources
 

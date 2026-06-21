@@ -12,95 +12,88 @@ committee_members:
   - "Robert Stern"
 source_file: "raw/143068 - PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SA.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/143068/"
-study_area: "Al-Ghurayyah pluton, Midyan terrane, NW Saudi Arabia (27°54'56''N, 35°47'47''E)"
+study_area: "Al-Ghurayyah pluton, Midyan terrane, NW Saudi Arabia"
 keywords:
+  - Arabian-Nubian Shield
+  - A-type granitoids
   - HFSE
   - REE
   - petrogenesis
-  - A-type granitoids
-  - Arabian-Nubian Shield
   - U-Pb SHRIMP dating
-  - mineralization
-  - Al-Ghurayyah
-  - granite pluton
-  - Saudi Arabia
-  - A-type granite
-  - magma source
-  - uranium-lead dating
-  - metasomatism
-  - magmatic process
-  - lithium-bearing minerals
   - zircon
-  - columbite
-  - pyrochlore
-  - pegmatite
+  - pegmatites
+  - A-type granite
+  - metasomatism
+  - zircon geochronology
   - lithium
-  - uranium
-  - thorium
-  - tantalum
-  - Neoproterozoic
+  - tin
+  - magmatic-hydrothermal
 techniques:
-  - shrimp
-  - petrography
-  - xrf
-  - icp-ms
-  - sem-eds
-  - xrd
-  - la-icp-ms
-  - gis
-  - icp-oes
-  - epma
   - sem
   - cathodoluminescence
-  - thin-section-petrography
-  - u-pb-shrimp
+  - epma
+  - icp-oes
+  - icp-ms
+  - shrimp
+  - petrography
+  - microscopy
+  - gis
+  - igpet
+  - xrl
+  - xrd
+  - petrology
+  - general-geochemistry
+  - trace-element-chemistry
   - u-pb-dating
   - u-pb-shrimp-dating
-  - heavy-mineral-analysis
+  - thin-section-petrography
+  - trace-element-geochemistry
+  - major-element-geochemistry
+  - sem-eds
+  - xrf
+  - mineralogical-analysis
 tags:
   - degree/ms
+  - formation/precambrian-basement
   - location/northwest-saudi-arabia
-  - location/saudi-arabia
-  - technique/xrd
-  - technique/sem-eds
-  - technique/shrimp
-  - technique/thin-section-petrography
-  - technique/la-icp-ms
   - technique/sem
   - technique/epma
-  - technique/thinner-section-petrography
   - technique/icp-ms
-  - technique/icp-oes
+  - technique/shrimp
+  - technique/petrography
+  - technique/microscopy
   - technique/gis
+  - technique/cathodoluminescence
   - technique/u-pb-dating
-  - technique/xrf
+  - technique/trace-element-geochemistry
+  - technique/thin-section-petrography
+  - technique/petrology
   - theme/igneous-metamorphic-petrology
+  - theme/general-geochemistry
+  - theme/geochronology
+  - theme/mineral-resource-estimation
   - theme/rare-earth-elements
   - theme/mineral-deposits
-  - theme/general-geochemistry
-  - theme/mineral-resource-estimation
-  - theme/economic-geology
-  - terminology/rare-earth-elements
   - terminology/petrogenesis
+  - terminology/rare-earth-elements
+  - terminology/facies-analysis
   - terminology/diagenesis
-  - terminology/thermobarometry
+  - terminology/petrology
+  - terminology/trace-element-geochemistry
+  - terminology/hfe-elements
   - terminology/metasomatism
-  - terminology/magma-source
-  - terminology/oxygen-fugacity
-  - terminology/hfe-element
-  - terminology/tetrad-effect
 status: ingested
 ---
 
 # PETROGENESIS OF THE HFSE AND REE MINERALIZED Al- GHURAYYAH GRANITE PLUTON, NW SAUDI ARABIA
 
-**Summary**: The thesis investigates the petrogenesis of the Al-Ghurayyah granite pluton in the Arabian Shield, focusing on the enrichment of High Field Strength Elements (HFSE) and Rare Earth Elements (REE). It explores the roles of magmatic crystallization and subsequent metasomatic processes in forming specific minerals like pyrochlore, columbite, and zircon.
+**Summary**: The thesis investigates the petrogenesis of the Al-Ghurayyah granite pluton in Northwest Saudi Arabia, focusing on the enrichment of High Field Strength Elements (HFSE) and Rare Earth Elements (REE). It concludes that the mineralization is driven by a combination of magmatic fractional crystallization and late-stage fluid interaction involving fluorine and chlorine.
 
 ---
 
 ## Research Problem
 
-The study addresses the complex petrogenetic processes leading to the enrichment of High Field Strength Elements (HFSE) and Rare Earth Elements (REE) within the Al-Ghurayyah pluton, specifically investigating how magmatic evolution and subsequent fluid-melt interactions influenced mineralization styles in different pegmatite zones.
+The study addresses the geological processes governing the concentration of HFSE, REE, and tin in A-type granitoids within the Arabian-Nubian Shield (ANS), specifically focusing on how magmatic evolution and metasomatic fluids influence mineral distribution.
 
 ## Objectives
 
@@ -108,84 +101,59 @@ The study addresses the complex petrogenetic processes leading to the enrichment
 - To constrain the ages of granitoid comprising the Al-Ghurayyah pluton via U-Pb SHRIMP zircon dating.
 - Determine the petrogenesis of the host rock in relation to Arabian Shield formation and other Arabian Shield A-type granites.
 - Evaluate its valuable elements enrichment.
-- Characterize the mineralogy and texture of different lithological units within the Al-Ghurayyah pluton.
-- Investigate the distribution and zonation of REE and HFSE minerals in various pegmatite types.
-- Determine the petrogenetic evolution of the Al-Ghurayyah granite pluton.
-- Assess the impact of hydrothermal fluids on the alteration of the host rock and adjacent metavolcanics.
-- Determine the mineral chemistry of key minerals (feldspar, amphibole, pyroxene, fluorite, mica) in the Al-Ghurayyah pluton.
-- Perform U-Pb SHRIMP dating on zircons from different lithological units to establish a geochronology.
-- Analyze whole-rock geochemistry to distinguish between various granite types and their petrogenetic origins.
-- Investigate the relationship between mineral chemistry, zircon morphology/chemistry, and REE/HFSE mineralization.
-- Characterize the trace element and REE patterns of different lithological units within the Al-Ghurayyah pluton.
-- Determine the crystallization temperature, pressure, and oxygen fugacity of the granitic systems.
-- Identify the magmatic source and petrogenetic processes (e.g., metasomatism, differentiation) leading to REE mineralization.
-- Establish the geochronology and tectono-magmatic evolution of the Al-Ghurayyah pluton.
-- Determine the role of magmatic and metasomatic processes in the enrichment of HFSE and REE in the Al-Ghurayyah pluton.
-- Identify specific minerals and textures (e.g., snowball texture, sodic minerals) that indicate fluid interaction or high-degree differentiation.
-- Evaluate the influence of fluorine (F) on the mobility and distribution of heavy elements like Zr, Hf, Th, and REEs.
-- Characterize the petrogenesis of the Al-Ghurayyah granite pluton.
-- Identify and analyze three distinct types of pegmatites (Northern, Southwestern, and Southern) within the complex.
-- Determine the role of fluid-melt interactions and late-stage fluids in mineral enrichment.
-- Evaluate the influence of structural controls on mineralization and alteration.
-- Characterize the mineralogy and geochemistry of the Al-Ghurayyah granite pluton.
-- Determine the age and zircon characteristics of different rock units within the pluton using SHRIMP analysis.
-- Investigate the petrogenesis of HFSE and REE mineralization in the region.
-- Characterize the geochemical composition of the Al-Ghurayyah Granite Pluton.
-- Determine the age of the pluton using U-Pb dating.
-- Investigate the source and enrichment mechanisms for HFSE and REE.
+- Characterize zircon morphology, texture, and U-Pb ages to understand the timing of magmatism.
+- Determine the petrogenetic evolution of the Al-Ghurayyah pluton using major and trace element geochemistry.
 
 ## Methods
 
-The study employed several analytical techniques: (1) Field mapping and sampling using satellite imagery and ground surveys; (2) Sample preparation including crushing and pulverizing for whole-rock analysis; (3) Polished thin section construction and petrography using a Zeiss Axioscope 5; (4) Whole rock geochemistry via ICP-AES and ICP-MS at ALS lab; (5) Mineral chemistry determination of feldspar, amphibole, pyroxene, fluorite, and mica using EPMA (JEOL JXA-8600 SX with INCA-6025 EDS); (6) Zircon analysis including SEM and CL imaging to identify morphology/texture; (7) U-Pb dating of zircons using SHRIMP-IIe/MC at the Korean Basic Science Institute; (8) Data interpretation using ArcGIS and IgPet software.
+The study employed field mapping and sampling (2021-2022) followed by sample preparation (crushing, pulverizing). Analytical techniques included: 1. Petrography via polished thin sections using a Zeiss Axioscope 5 to identify mineralogy and texture; 2. Whole rock geochemistry (major elements via ICP-AES, trace/REE via ICP-MS) at ALS lab; 3. EPMA (JEOL JXA-8600 SX with INCA-6025 EDS) for mineral chemistry of zircons, fluorite, and micas; 4. Sm-Nd isotope analysis using thermal ionization mass spectrometry; 5. U-Pb SHRIMP dating on selected zircons (filtered by diiodomethane/neodymium magnet) using a JEOL 6610LV SEM and SHRIMP-IIe/MC at Korean Basic Science Institute. Data interpretation involved ArcGIS for mapping and IgPet for geochemical plotting.
 
 ## Data and Materials
 
-The study analyzes various lithological units within the Al-Ghurayyah pluton, including microgranite, albitite, and arfvedsonite-bearing granites. Data includes bulk chemical compositions (major/trace elements), mineral chemistry of accessories (zircon, columbite, pyrochlore), and petrographic observations of textures like snowball and core-rim structures.
+26 granitoid rocks, 7 basaltic dykes, 6 marginal unit samples, 10 pegmatites, and 2 quartz veins were sampled from the Al-Ghurayyah pluton. Fifty-two polished thin sections were prepared for petrography. Forty-eight samples were analyzed for whole rock geochemistry. Eight samples were used for Sm-Nd isotopes. Six zircons were selected for U-Pb SHR1MP dating.
 
 ## Key Findings
 
-- The Al-Ghurayyah pluton is characterized as a highly fractionated Fe-rich metaluminous to peraluminous A-type granitoid with an age of 647 ± 9.3 Ma to 635 Ma. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
-- Average ∑REEs from the main intrusion is 1162 µg/g, with a maximum value of 1917 µg/g in zircons and other accessory phases. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
+- The Al-Ghurayyah pluton is a highly fractionated Fe-rich metaluminous to peraluminous A-type granite with an average ∑REE of 1162 µg/g and maximum values of 1917 µg/g in zircons. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
+- U-Pb SHRIMP dating of zircons provides an age of 647 ± 9.3 Ma to 635 Ma for the main pluton. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
 - Nb and Ta mineralization (mean of 303 µg/g Nb, 25 µg/g Ta) is strongly correlated (R2=0.74), concentrated in columbite. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
-- Type 1 pegmatites show high ∑REE (436 – 11,500 µg/g) and Li (13–3,010 µg/g), but low U (2.82 – 94.3 µg/g) and Th (25.3 – 600 µg/g). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 16]])
-- Type 2 pegmatites exhibit high ∑REEs (up to 6,000 µg/g) and extremely high radioactive elements (1,160 µg/g Th and 348 µg/g U). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 16]])
-- Tungsten (W) concentration increases towards the marginal unit. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 15]])
-- The petrogenesis of the pluton is attributed to mantle-derived magmas resulting from lithospheric mantle delamination and subsequent asthenosphere upwelling. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 16]])
-- Al-Ghurayyah is the largest known peralkaline deposit in Saudi Arabia enriched in REE and HFSE, with inferred mineral resources estimated around 440 Mt (or 385 Mt) and average grades of Zr (8,915 ppm), Nb (2,840 ppm), Ta (245 ppm), and U (140 ppm). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 26]])
-- The Al-Ghurayyah intrusion is a sub-circular stock (~900 m in diameter) with an estimated depth of ~250 m, associated with the Jabal Ad Dabbagh post-tectonic A-type alkali granitoid. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 27]])
-- Non-amphibole bearing albite granite is characterized by a primary mineralogical mode of 35-45% plagioclase, 25-30% quartz, and 25-30% microcline. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 37]])
-- Amphibole-bearing albite granite contains 5-15% of modal primary Na-amphibole with a distinct blue pleochroism. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 38]])
-- The poikilitic albitite unit shows a significant increase in primary albite (up to 20%) compared to the standard albite granite. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 40]])
-- Type one pegmatites show high concentration of REE-bearing minerals in the rear segment, with some samples showing highest ∑REE content. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 41]])
-- Type two pegmatites contain zircons that are nearly 90% completely metamict, resulting in high concentrations of Th (1660 ppm) and U (348 ppm). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 41]])
-- Basaltic dykes show a distinct propylitic alteration characterized by plagioclase to sericite-carbonate, glass to chlorite, and microcrystalline epidote. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 43]])
+- Three types of pegmatites were identified: Type 1 (high ∑REE 436–11,150 µg/g and Li 13–3,010 µg/g), Type 2 (highly radioactive with 1,160 µg/g Th and 348 µg/g U), and Type 3 (high Li up to 1,775 µg/g). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 16]])
+- Amphiboles in the pluton are highly sodic (Na2O: 10.06–9.05 wt.%) and qualify as arfvedsonite or arfvedsonite-ferro eckermannite. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 34]])
+- Pyroxenes are sodic clinopyroxenes (Na2O: 14.54–8.22 wt.%) with high Fe3+ mole fraction, suggesting a magmatic origin. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 34]])
+- Fluorite samples show consistent CaO (62.67–50.02 % wt) and variable F (47.4-15.59 % wt). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 35]])
+- Siderophyllite micas were identified as secondary minerals in the medium grained granite units. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 35]])
+- Three types of zircons were identified: Type I (magmatic origin, common in microgranite/medium-grained granite), Type II (convoluted texture, likely sub-solidus modification), and Type III (sponge texture, highly metamict, indicating hydrothermal interaction). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 55]])
+- U-Pb SHRIMP dating of Type I zircons from medium grained granite yielded ages around 663 ± 9.7 Ma, while microgranite zircons showed ~635 Ma. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 58]])
+- The Al-Ghurayyah granites are classified as A-type (A2) and show high differentiation indices (D.I of 91.66 – 97.25). ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 61]])
+- Average zircon saturation temperatures (Tzr) for the main units were approximately 866°C, 880°C, 803°C, 872°C, and 868°C. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 71]])
+- Pressure calculations for the pluton ranged from 0.6 to 11.0 Kbar, with arfvedsonite granite showing higher average pressure (4.3 – 4.4 Kbar) suggesting potential metasomatic alteration. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 72]])
+- Oxygen fugacity values ranged from -13.2 to -11.4, with arfvedsonite bearing granites being more oxidized than other units. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 73]])
+- The pluton shows a pronounced tetrad effect (TE1,3 > 1.1), indicating high differentiation and potential fluid-assisted fractionation. ([[2024-sulistyohariyanto|Sulistyohariyanto, 2024, p. 72]])
 
 ## Limitations
 
-The interpretation of magmatic source from major/trace elements can be skewed by metasomatism; however, Nd isotopes and U-Pb ages provide more robust constraints. Some age calculations for specific units (e.g., arfvedsonite bearing granite) are influenced by high Zr concentrations.
+The study notes that some conclusions regarding specific mineral enrichment mechanisms (e.g., LREE uptake during fluid-rock interaction) require further analysis such as LA-ICP-MS and fluid inclusion studies to be fully confirmed.
 
 ## Recommendations and Future Work
 
-Exploration for rare metal mineral deposits should concentrate along and around the reconstructed E-W trending Egypt-Arabia 630-690 Ma mineralized granite belt.
+Further investigation using fluid inclusion analysis is recommended to better constrain the origin of pegmatites and the role of specific fluids in mineral enrichment.
 
 ## Related Concepts
 
 - [[shrimp]]
-- [[thin-section-petrography]]
-- [[rare-earth-elements]]
+- [[epma]]
 - [[petrogenesis]]
-- [[northwestern-saudi-arabia]]
-- [[mineral-deposits]]
-- [[sem-eds]]
-- [[la-icp-ms]]
-- [[none]]
+- [[rare-earth-elements]]
+- [[northwest-saudi-arabia]]
+- [[precambrian-basement]]
 - [[igneous-metamorphic-petrology]]
+- [[icp-ms]]
+- [[petrography]]
+- [[facies-analysis]]
 - [[diagenesis]]
-- [[u-pb-dating]]
-- [[thermobarometry]]
+- [[petrology]]
+- [[trace-element-geochemistry]]
+- [[hfe-elements]]
 - [[metasomatism]]
-- [[magma-source]]
-- [[oxygen-fugacity]]
-- [[hfe-element]]
-- [[xrd]]
-- [[tetrad-effect]]
+- [[u-pb-dating]]
+- [[thin-section-petrography]]

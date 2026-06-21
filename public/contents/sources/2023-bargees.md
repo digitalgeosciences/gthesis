@@ -14,91 +14,75 @@ source_file: "raw/142448 - First Arrival Picking of Zero-phase Seismic Data by H
 url: "https://eprints.kfupm.edu.sa/id/eprint/142448/"
 study_area: "Not stated in source"
 keywords:
-  - First arrival travel time
-  - Zero-phase seismic data
+  - first arrival travel time
+  - zero-phase seismic data
   - Hilbert transform
-  - Envelope extraction
-  - Empirical rule
-  - Outlier detection
-  - envelope
-  - automatic picking
-  - First arrival picking
-  - Hilbert Envelope Empirical Half Window (HEEH)
-  - Seismic data processing
+  - envelope extraction
+  - empirical rule
+  - outlier detection
 techniques:
   - hilbert-transform
-  - envelope-calculation
-  - outlier-detection
-  - synthetic-data-generation
   - signal-processing
-  - matlab
+  - mathematical-modeling
+  - synthetic-data-generation
 tags:
   - degree/ms
   - technique/hilbert-transform
   - technique/signal-processing
-  - technique/matlab
+  - technique/mathematical-modeling
   - theme/seismology
   - theme/applied-geophysics
-  - terminology/first-arrival
-  - terminology/zero-phase
+  - terminology/refraction-seismics
   - terminology/signal-to-noise-ratio
 status: ingested
 ---
 
 # First Arrival Picking of Zero-phase Seismic Data by Hilbert Envelope Empirical Half Window (HEEH) Method
 
-**Summary**: The thesis proposes and evaluates the HEEH method, an automated trace-by-trace first arrival picking technique for zero-phase seismic data. The method utilizes a four-step workflow involving Hilbert transform, envelope calculation, empirical rule outlier detection, and half-window selection to identify travel times in both synthetic and real datasets.
+**Summary**: The thesis proposes the HEEH method, a four-step automatic algorithm for picking first arrival travel times in zero-phase seismic data. The method utilizes Hilbert transform, envelope extraction, empirical rule outlier detection, and a half-window selection step to identify arrivals without manual intervention or preprocessing.
 
 ---
 
 ## Research Problem
 
-Manual first arrival picking is labor-intensive, time-consuming, and subjective, especially when dealing with complex near-surface conditions or low signal-to-noise ratios (SNR). Existing automatic methods often have limitations regarding specific source types (e.g., minimum-phase) or require extensive parameter tuning.
+The accurate determination of first arrival travel time is critical for near-surface modeling but is often hindered by complex geology, low signal-to-noise ratios (SNR), and the limitations of existing automatic picking methods which are primarily designed for minimum-phase data.
 
 ## Objectives
 
-- Develop a new method capable of automatically picking the first arrival travel times of zero-phase seismic shot records.
-- Implement a four-step algorithm: Hilbert transform, envelope extraction, outlier detection (empirical rule), and half-window selection.
-- Develop a novel automated method for picking first arrival travel times in zero-phase seismic data.
-- Evaluate the HEEH method's performance on synthetic datasets with varying levels of Gaussian noise.
-- Validate the HEEH method using real-world seismic shot records (Yilmaz 22 and 23).
-- Develop a novel method (HEEH) to pick first arrivals in zero-phase seismic data.
-- Improve the accuracy of first arrival travel time identification compared to existing methods.
+- Propose a new method capable of automatically picking first arrival travel times of zero-phase seismic shot records.
+- Develop an automated workflow using Hilbert transform, trace envelope, and empirical rule outlier detection.
+- Test the accuracy of the HEEH method on synthetic datasets with varying levels of Gaussian noise (0% to 50%).
+- Validate the HEEH method on real Vibroseis seismic shot records from the Yilmaz worldwide assortment.
 
 ## Methods
 
-The HEEH workflow consists of four steps: 1) Hilbert transform to extract instantaneous amplitude/phase; 2) Envelope calculation to emphasize amplitude jumps; 3) Empirical rule application to identify outliers (values > 3 standard deviations from the mean); 4) Half-window selection, where only windows with $\geq$ 4 consecutive outliers are kept, and the center of the first such window is taken as the pick. Synthetic data was generated using a four-layer acoustic model convolved with a Klauder wavelet (10-80 Hz). Real data consisted of Yilmaz shot records 22 and 23.
+The HEEH algorithm follows a four-step workflow: 1) Hilbert transform to convert the real trace into a complex trace; 2) Envelope extraction to highlight amplitude jumps; 3) Empirical rule (three-sigma rule) to identify outlier windows of 'ones' representing potential first arrivals; 4) Half-window selection, where the center sample of the first continuous window of at least four outliers is selected as the pick. The method was tested on synthetic data generated from a four-layer acoustic model convolved with a Klauder wavelet and on two real Vibroseis records (Yilmaz 22 and 23).
 
 ## Data and Materials
 
-The method was tested on synthetic datasets with added Gaussian noise at levels of 0%, 10%, 20%, 30%, 40%, and 50% of the signal's peak. Additionally, it was tested on two real Vibroseis datasets from the Yilmaz worldwide assortment.
+Synthetic dataset: 101 traces across 5 noise levels (0%, 10%, 20%, 30%, 40%, 50%). Real data: Two Vibroseis shot records (Yilmaz 22 and 13) containing 48 traces each, sampled at 2 ms.
 
 ## Key Findings
 
-- The HEEH method successfully detected true first arrivals in all tested synthetic datasets with varying levels of Gaussian noise (0% to 50%). ([[2023-bargees|Bargees, 2023, p. 13]])
-- On real Vibroseis data, the HEEH method achieved 56% accuracy within 10 milliseconds of manually picked arrival times. ([[2023-bargees|Bargees, 2023, p. 14]])
-- The empirical rule accurately captures zero-phase wavelets as windows of ones (outliers) and zeros elsewhere. ([[2023-bargees|Bargees, 2023, p. 13]])
-- The HEEH method achieved 100% accuracy on all synthetic data types, with median absolute errors of 0-7 ms across all noise levels. ([[2023-bargees|Bargees, 2023, p. 59]])
-- On real shot record 22, the HEEH method produced a median absolute error of 10 ms (five samples). ([[2023-bargees|Bargees, 2023, p. 60]])
-- On real shot record 23, which contained higher noise and complexity, the HEEH method yielded a median absolute error of 18 ms. ([[2023-bargees|Bargees, 2023, p. 60]])
-- The HEEH method successfully differentiated between first and later arrivals in synthetic data. ([[2023-bargees|Bargees, 2023, p. 51]])
-- For shot record 23, the accuracy of picks within 10 ms was 33%, compared to 56% for shot record 22. ([[2023-bargees|Bargees, 2023, p. 69]])
-- The proposed HEEH method provides a robust way to pick first arrivals in zero-phase seismic data by utilizing the Hilbert envelope. ([[2023-bargees|Bargees, 2023, p. 13]])
+- The HEEH method achieved 100% accuracy on all tested synthetic datasets across all noise levels (0-50%), with median absolute errors of 0-7 ms. ([[2023-bargees|Bargees, 2023, p. 59]])
+- On real Vibroseis record 22, the HEEH method determined first arrivals with a median absolute error of 10 ms (5 samples). ([[2023-bargees|Bargees, 2023, p. 68]])
+- On real Vibroseis record 23, which contained high noise and complex near-surface features, the HEEH method produced a median absolute error of 18 ms. ([[2023-bargees|Bargees, 2023, p. 68]])
+- The HEEH method successfully differentiated between first and later arrivals in synthetic data across multiple layers (direct and three head waves). ([[2023-bargees|Bargees, 2023, p. 51]])
+- The accuracy of the HEEH method on real record 22 was 56% within a 10 ms threshold, while record 23 achieved 33% accuracy. ([[2023-bargees|Bargees, 2023, p. 69]])
 
 ## Limitations
 
-The performance of the HEEH method degrades as signal-to-noise ratio (SNR) decreases, particularly in complex environments like those found in Yilmaz record 23. The current study only tested the method on zero-phase data.
+Performance deteriorates with decreasing signal-to-noise ratio (SNR). The method is currently optimized for zero-phase data but could be adapted for minimum-phase data by selecting an earlier sample of the first logical window.
 
 ## Recommendations and Future Work
 
-The HEEH method can be adapted for minimum-phase data by selecting an earlier sample of the first logical window rather than the center. It also has potential applications for picking later arrivals.
+The HEEH method can be used to pick later arrivals. It can also be applied to minimum-phase data by adjusting the selection step from the center of the window to a preceding sample.
 
 ## Related Concepts
 
 - [[hilbert-transform]]
 - [[signal-processing]]
-- [[first-arrival]]
-- [[zero-phase]]
+- [[refraction-seismics]]
+- [[signal-to-noise-ratio]]
 - [[seismology]]
 - [[applied-geophysics]]
-- [[signal-to-noise-ratio]]

@@ -2,47 +2,48 @@
 type: formation
 title: "Gudair Formation"
 aliases:
-  - "Gudair Limestone"
-  - "Zawre Formation"
+  - "Gudair Formation"
 canonical: true
-age: "Coniacian to Campanian"
+age: "Late Early to Middle Campanian"
 basin: "Arabian Basin"
-lithology: "limestone and shale"
-reservoir_status: "not stated in source"
+lithology: "carbonate limestone and dolomite"
+reservoir_status: "producer"
 tags:
   - formation/gudair-formation
-  - theme/stratigraphy
 sources:
   - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Gudair Formation
 
-**Summary**: A Late Cretaceous carbonate formation.
+**Summary**: A Late Cretaceous carbonate formation in Saudi Arabia and Kuwait.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1989-abdou|Abdou, 1989]] studied the gudair-formation as a key unit in the region.
+- [[1989-abdou|Abdou, 1989]] studied the gudair-formation to determine its age and facies.
 
 ## Depositional Environment
 
-- [[1989-abdou|Abdou, 1989]] deep-water, globigerininal shales
+- [[1989-abdou|Abdou, 1989]] shallow platform and shelf environments
 
 ## Reservoir Properties
 
-- [[1989-abdou|Abdou, 1989]] not stated in source
+
+
+## Diagenetic History
+
+- [[1989-abdou|Abdou, 1989]] iron-staining, recrystallization, and dolomitization
 
 ## Key Findings Across Sources
 
-- The Zawre Formation is considered equivalent to the Gudair Formation and shows a Coniacian to Campanian age. ([[1989-abdou|Abdou, 1989, p. 73]])
+- The formation was proven to be of Early to Middle Campanian age. ([[1989-abdou|Abdou, 1989, p. 16]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1989-abdou|Abdou, 1989]] not stated in source
 
 ## Open Questions and Research Gaps
 

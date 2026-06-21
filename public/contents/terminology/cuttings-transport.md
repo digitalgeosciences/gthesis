@@ -2,45 +2,44 @@
 type: terminology
 title: "Cuttings Transport"
 aliases:
-  - "hole cleaning"
   - "cutting transport"
 canonical: true
-definition: "The removal of drilled solids from the annulus to prevent bed formation."
-units: "not applicable"
+definition: "The movement of cuttings out of the wellbore by drilling fluid."
+units: "percentage"
 related_techniques:
   - "mathematical-modeling"
 tags:
   - theme/petroleum-engineering
 sources:
-  - "raw/141979 - Real-Time Advisory Hole-Cleaning Model.pdf"
+  - "raw/142766 - Real Time Wellbore Cleaning Evaluation and Advisory System.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-18
 ---
 
 # Cuttings Transport
 
-**Summary**: The process of moving drilled rock fragments from the bottom of the wellbore to the surface.
+**Summary**: The movement of rock fragments (cuttings) out of the wellbore by drilling fluid.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-al-malki|Al-Malki, 2021]] evaluated cuttings transport efficiency in different well regimes (Low, Intermediate, and High Angle).
+- [[2023-murif|Murif, 2023]] evaluated cuttings-transport using the CTRm index.
 
 ## Scientific Context
 
-- [[2021-al-malki|Al-Malki, 2021]] Critical for maintaining wellbore integrity and preventing stuck pipe in deviated wells.
+- [[2023-murif|Murif, 2023]] Ensures that solids do not accumulate and cause stuck pipe issues.
 
 ## Measurement and Characterization Methods
 
-- [[2021-al-malki|Al-Malki, 2021]] Calculated via HCF and CCI indices.
+- [[2023-murif|Murif, 2023]] Calculated via the CTRm formula.
 
 ## Key Findings Across Sources
 
-- Cuttings transport is significantly impacted by mud rheology (YP/PV ratio), flow rate, and drill pipe rotation speed. ([[2021-al-malki|Al-Malki, 2021, p. 23]])
+- A CTRm value greater than 50% indicates proper hole cleaning. ([[2023-murif|Murif, 2023, p. 160]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

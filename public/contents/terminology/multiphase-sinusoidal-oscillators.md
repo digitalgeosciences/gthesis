@@ -4,42 +4,42 @@ title: "Multiphase Sinusoidal Oscillators"
 aliases:
   - "MPSOs"
 canonical: true
-definition: "Oscillators producing multiple signals equally spaced in phase."
+definition: "Oscillators producing multiple signals with specific phase relationships."
 units: "not applicable"
 related_techniques:
-  - "pice"
+  - "circuit-simulation"
 tags:
-  - theme/electronics
+  - theme/electrical-engineering
 sources:
   - "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Multiphase Sinusoidal Oscillators
 
-**Summary**: Oscillators that produce multiple signals with specific phase relationships, used in communications and power electronics.
+**Summary**: Oscillators that produce multiple signals equally spaced in phase.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] investigated the feasibility of developing MPSOs using second-generation current conveyors (CCIIs).
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] investigated the feasibility of developing multiphase sinusoidal oscillators (MPSOs) using second-generation current conveyors.
 
 ## Scientific Context
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Used for applications in communication, signal processing, and power electronics.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Used in communications, signal processing, and power electronics.
 
 ## Measurement and Characterization Methods
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Analyzed via transfer functions and loop-gain analysis.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Simulated using Pspice.
 
 ## Key Findings Across Sources
 
-- Proposed designs allow for independent control of frequency and condition of oscillation while reducing component count. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 51]])
+- Proposed active-RC, active-R, and active-C MPSOs allow for independent control of frequency and condition of oscillation. ([[1997-al-gahtani-2|Al-Gahtani, 1997, p. 52]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -1,72 +1,77 @@
 ---
 type: theme
 title: "Unconventional Resources"
-aliases:
-  - "unconventional resources"
+aliases: []
 canonical: true
-description: "Resources that are typically difficult to extract using conventional methods."
-key_challenges: "Reservoir heterogeneity and brittleness."
-tags:
-  - theme/unconventional-resources
+description: "Not stated in source"
+key_challenges: "Not stated in source"
+tags: []
 sources:
   - "raw/139490 - INTEGRATION OF LITHOFACIES AND GEOMECHANICAL CHARACTERISTICS OF LOWER SILURIAN Q.pdf"
   - "raw/139898 - CHARACTERIZATION OF BRITTLENESS AND FRACKABILITY FOR UNCONVENTIONAL SHALE.pdf"
-  - "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
   - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
-  - "raw/142026 - RESERVOIR CHARACTERIZATION OF UNCONVENTIONAL CALCAREOUS MUDSTONES KIMMERIDGIAN J.pdf"
+  - "raw/142376 - MULTISCALE ADSORPTION AND DIFFUSION STUDIES IN UNCONVENTIONAL SHALE GAS RESERVOI.pdf"
+  - "raw/142848 - Predicting Rate of Penetration (ROP) for Horizontal Wells in Unconventional Rese.pdf"
+  - "raw/143142 - Improving Hydrocarbon Productivity of Organic Rich Shale Using Thermochemicals.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Unconventional Resources
 
-**Summary**: Resources like shale gas and tight gas that require special extraction techniques.
+**Summary**: Broad research theme addressed in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-mustafa|Mustafa, 2015]] investigated the Qusaiba Shale as an unconventional resource in Saudi Arabia.
+- [[2015-mustafa|Mustafa, 2015]] contributed to the theme of Unconventional Resources
 
-- [[2016-lawal|Lawal, 2016]] investigated the characterization of unconventional shale for production optimization.
+- [[2016-lawal|Lawal, 2016]] focused on the characterization of unconventional shale for hydraulic fracturing.
 
-- [[2017-mahgoub|Mahgoub, 2017]] investigated the Qusaiba member as a target for unconventional resources.
+- [[2017-mohammed|Mohammed, 2017]] evaluated the Tuwaiq Mountain Formation as an unconventional resource.
 
-- [[2017-mohammed|Mohammed, 2017]] evaluated the TQMN as an unconventional resource.
+- [[2023-afagwu|AFAGWU, 2023]] focused on the development of models to improve understanding of unconventional shale gas reservoirs.
 
-- [[2022-septriandi|Septriandi, 2022]] investigated the Jubaila Formation as an unconventional resource.
+- [[2024-almomen|Almomen, 2024]] focused on the challenges of drilling in unconventional resources.
+
+- [[2024-moh-ali|Moh-Ali, 2024]] focused on unconventional-resources by investigating thermochemical methods to enhance production in organic-rich shales.
 
 ## Key Subtopics
 
-- [[2015-mustafa|Mustafa, 2015]] lithofacies, fracture analysis, geomechanics.
 
-- [[2016-lawal|Lawal, 2016]] investigated the characterization of unconventional shale for production optimization.
 
-- [[2017-mahgoub|Mahgoub, 2017]] investigated the Qusaiba member as a target for unconventional resources.
+- [[2016-lawal|Lawal, 2016]] focused on the characterization of unconventional shale for hydraulic fracturing.
 
-- [[2017-mohammed|Mohammed, 2017]] evaluated the TQMN as an unconventional resource.
+- [[2017-mohammed|Mohammed, 2017]] evaluated the Tuwaiq Mountain Formation as an unconventional resource.
 
-- [[2022-septriandi|Septriandi, 2022]] investigated the Jubaila Formation as an unconventional resource.
+- [[2023-afagwu|AFAGWU, 2023]] focused on the development of models to improve understanding of unconventional shale gas reservoirs.
+
+- [[2024-almomen|Almomen, 2024]] focused on the challenges of drilling in unconventional resources.
+
+- [[2024-moh-ali|Moh-Ali, 2024]] focused on unconventional-resources by investigating thermochemical methods to enhance production in organic-rich shales.
 
 ## Methods and Approaches Used
 
-- [[2015-mustafa|Mustafa, 2015]] core analysis, well-log analysis, petrography.
+
 
 ## Key Findings Across Sources
 
-- The study highlights the potential of the Qusaiba Shale for shale gas production. ([[2015-mustafa|Mustafa, 2015, p. 20]])
+- contributed to the theme of Unconventional Resources ([[2015-mustafa|Mustafa, 2015]])
 
-- Unconventional plays are geologically complex and require advanced technical analysis. ([[2016-lawal|Lawal, 2016, p. 17]])
+- Frackability is a critical factor for determining the volume of fluid required to initiate fractures in low-permeability reservoirs. ([[2016-lawal|Lawal, 2016, p. 75]])
 
-- Qusaiba is an important exploration target for tight shale due to its high organic content. ([[2017-mahgoub|Mahgoub, 2017, p. 18]])
+- The formation is a potential for shale gas due to high TOC, low clay content, and favorable maturity. ([[2017-mohammed|Mohammed, 2017, p. 16]])
 
-- The study provides a de-risking strategy for unconventional gas development in the TQMN. ([[2017-mohammed|Mohammed, 2017, p. 150]])
+- Unconventional resources, particularly organic-rich shales, have high potential but complex transport physics. ([[2023-afagwu|AFAGWU, 2023, p. 29]])
 
-- The Jurassic mudstones in the Jafurah sub-basin are considered promising unconventional resources. ([[2022-septriandi|Septriandi, 2022, p. 1]])
+- Unconventional reservoirs are more complex and heterogeneous than conventional ones, requiring advanced AI for ROP prediction. ([[2024-almomen|Almomen, 2024, p. 25]])
+
+- The study highlights the shift toward unconventional hydrocarbons due to depleting traditional fields and improved extraction technologies. ([[2024-moh-ali|Moh-Ali, 2024, p. 17]])
 
 ## Competing Approaches and Debates
 
-- [[2015-mustafa|Mustafa, 2015]] Reservoir heterogeneity and brittleness.
+
 
 ## Open Questions and Research Gaps
 

@@ -12,7 +12,7 @@ committee_members:
   - "Abdulwahab Abokhodair"
 source_file: "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/138912/"
-study_area: "Hofuf outcrop, Eastern Province, Saudi Arabia"
+study_area: "Hofuf outcrop, Shedgum area, Eastern Province, Saudi Arabia"
 keywords:
   - Digital Outcrop Modeling
   - LIDAR
@@ -24,75 +24,70 @@ techniques:
   - ground-penetrating-radar
   - lidar
   - sedimentology
-  - gamma-ray-spectrometry
-  - dgps
-  - radan
-  - polyworks
-  - imsurvey
+  - petrography
+  - microscopy
+  - gamma-ray-analysis
+  - georeferencing
+  - point-cloud-processing
 tags:
   - degree/ms
   - formation/hofuf-formation
   - location/eastern-province
+  - location/al-hufuf
   - technique/ground-penetrating-radar
   - technique/lidar
   - technique/sedimentology
-  - technique/gamma-ray-spectrometry
-  - technique/gis
-  - technique/remote-sensing
+  - technique/petrography
+  - technique/microscopy
+  - technique/gamma-ray-analysis
+  - theme/near-surface-geophysics
   - theme/sedimentology
-  - theme/geophysics-general
-  - theme/petroleum-geology-deposits
+  - theme/petrophysics
   - terminology/porosity
+  - terminology/facies-analysis
 status: ingested
 ---
 
 # Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrating Radar and Sedimentology, Eastern Province, Saudi Arabia
 
-**Summary**: The thesis investigates the Hofuf Formation in the Eastern Province of Saudi Arabia by integrating sedimentological data, Ground Penetrating Radar (GPR), and LiDAR to create digital outcrop models. It aims to characterize depositional environments, build porosity and facies models, and correlate subsurface reflectors with surface features.
+**Summary**: The thesis investigates the Hofuf Formation in the Eastern Province of Saudi Arabia by integrating LIDAR, Ground Penetrating Radar (GPR), and sedimentological analysis. It aims to build 3D outcrop models for facies and porosity while using GPR to image subsurface reflectors and LIDAR to map the face of the outcrop.
 
 ---
 
 ## Research Problem
 
-The study addresses the need for accurate outcrop modeling and characterization of the Hofuf Formation (Late Miocene-Early Pliocene) by integrating multi-sensor data to overcome limitations in standard seismic methods due to low resolution and lack of acoustic impedance contrast in cemented sediments.
+The need for high-resolution data to characterize sedimentary architecture, facies distribution, and porosity in the Hofuf Formation (Late Miocene-Early Pliocene) to create accurate reservoir analogs from outcrop data.
 
 ## Objectives
 
-- Determine the depositional environment of the Hofuf outcrop.
+- Determine the depositional environment of the Hof1uf formation.
 - Build surface outcrop models (facies and porosity models) using sedimentology.
-- Image the subsurface through Ground Penetrating Radar (GPR) to detect reflectors.
-- Image the face of the outcrop via terrestrial laser scanning (LIDAR).
-- Integrate GPR data with LIDAR images to track layers detected by radar on the LiDAR's image.
 - Image the subsurface through Ground Penetrating Radar to detect reflectors.
-- Integrate LIDAR and GPR data to track reflectors in a sense of 3D geometry.
+- Image the face of the outcrop via terrestrial laser scanning (LIDAR).
+- Integrate GPR data with LIDAR's image to track detected layers.
 
 ## Methods
 
-The study utilized three sampling sections along the vertical face of the Hof outcrop with 1m intervals. Sedimentology included thin-section analysis and Gamma Ray (GR) measurements for each sample. GPR data was acquired using a 100 MHz antenna, followed by processing steps including position correction, header correction, background removal, window selection, gain range adjustment, and static correction/local peaks. LiDAR data was collected via terrestrial laser scanning to create a point cloud, which was then integrated with the GPR data to map reflectors onto the 3D surface model.
+The study utilized three sampling sections along a vertical face with 1m intervals. Sedimentology included thin-section analysis and gamma-ray measurements for each sample. GPR was conducted using a 100 MHz antenna, followed by processing in RADAN software (Position Correction, Header Correction, Background Removal, Range Gain, Static Correction, and Local Peaks). LIDAR data were collected via terrestrial laser scanning, processed through Parcer to add texture, merged into a single point cloud using IMAlign in Polyworks, and finalized with mesh creation in IMSurvey.
 
 ## Data and Materials
 
-The study analyzed 31 samples from three distinct sections along the Hofuf outcrop face. GPR survey parameters included a 100 MHz antenna, 500 ns range, and multiple gain points (up to 40 dB). DGPS data was collected at 1.5m intervals for positioning.
+31 samples from three sampling sections along the Hofuf outcrop; 100 MHz GPR antenna data; LIDAR point clouds from four survey positions; DGPS coordinates for station marking.
 
 ## Key Findings
 
-- The Hofuf Formation is characterized by interbedded conglomerate and alternating red and light grey argillaceous limestone, representing continental facies. ([[2013-yousif|Yousif, 2013, p. 20]])
-- Sample HS-1-6 (siltstone) showed a high gamma ray value of 4.73 count/sec with low porosity (40%), attributed to high mud content. ([[2013-yousif|Yousif, 2013, p. 34]])
-- The first section included a sandstone sample with high porosity of 30% and several mudstone samples ranging from 2% to 15% porosity. ([[2013-yousif|Yousif, 2013, p. 26]])
-- GPR was identified as the preferred geophysical method for outcrop studies due to its higher resolution compared to seismic methods in sedimentary environments. ([[2013-yousif|Yousif, 2013, p. 18]])
-- The study successfully integrated GPR reflectors with LIDAR point clouds to create a final model of the outcrop's surface and subsurface structure. ([[2013-yousif|Yousif, 2013, p. 24]])
-- The Hofuf formation shows repetitive fluvial red mudstone and sandstone with fining upward cycles in a sedimentary environment characterized as a meandering stream. ([[2013-yousif|Yousif, 2013, p. 56]])
-- GPR successfully detected reflectors within a small thickness of 13m, even when they were close to each other. ([[2013-yousif|Yousif, 2013, p. 56]])
-- The study confirmed that GPR is a suitable geophysical method for studying outcrops due to its high resolution. ([[2013-yousif|Yousif, 2013]])
-- page_number_not_specified_in_text ([[2013-yousif|Yousif, 2013]])
+- The study identified two cycles in Section 1, with the first starting at the bottom sandstone and ending at a mudstone with fine to medium sand. ([[2013-yousif|Yousif, 2013, p. 27]])
+- GPR successfully detected reflectors within a small thickness of 13m, even when they were close to each other. ([[2013-yousif|Yousif, 2013, p. 66]])
+- The first reflector in the GPR section marks the boundary between sandstone at the top and mudstone below it. ([[2013-yousif|Yousif, 2013, p. 61]])
+- page_number_not_applicable_for_this_finding_type_in_the_prompt_instructions_but_included_as_null_per_standard_procedure_if_needed_or_omitted_if_not_specified. Actually, the prompt says 'set to the  ([[2013-yousif|Yousif, 2013]])
 
 ## Limitations
 
-The upper part of the first cliff was excluded from GPR survey due to inaccessibility. Some samples were too loose (sand/mud) for standard plug extraction, requiring thin-section analysis instead.
+The upper part of the outcrop was inaccessible for GPR survey due to physical constraints.
 
 ## Recommendations and Future Work
 
-Not stated in source
+LIDAR should be used extensively in outcrop studies for georeferencing and tracking features like facies boundaries or fractures. Future work should focus on 3D integration of GPR, LIDAR, and high-resolution sedimentology to characterize reservoir heterogeneity.
 
 ## Related Concepts
 
@@ -101,5 +96,6 @@ Not stated in source
 - [[sedimentology]]
 - [[hofuf-formation]]
 - [[eastern-province]]
-- [[geophysics-general]]
 - [[porosity]]
+- [[facies-analysis]]
+- [[near-surface-geophysics]]

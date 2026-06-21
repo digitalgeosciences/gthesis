@@ -7,41 +7,43 @@ canonical: true
 age: "Middle Maastrichtian"
 basin: "Arabian Basin"
 lithology: "marly limestone"
-reservoir_status: "not stated in source"
+reservoir_status: "producer"
 tags:
   - formation/qurna-formation
-  - theme/stratigraphy
 sources:
   - "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Qurna Formation
 
-**Summary**: A Late Cretaceous carbonate formation in southeastern Kuwait.
+**Summary**: A Late Cretaceous carbonate formation.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1989-abdou|Abdou, 1989]] analyzed the Qurna Formation as a 32m thick marly limestone section.
+- [[1989-abdou|Abdou, 1989]] analyzed the Qurna Formation as a distinct unit in the Umm Gudair well.
 
 ## Depositional Environment
 
-- [[1989-abdou|Abdou, 1989]] deep shelf environment.
+- [[1989-abdou|Abdou, 1989]] deep shelf environment
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[1989-abdou|Abdou, 1989]] not stated in source
+
 ## Key Findings Across Sources
 
-- The formation is assigned a Middle Maastrichtian age and represents a deep shelf environment. ([[1989-abdou|Abdou, 1989, p. 101]])
+- The formation is composed of marly limestone with abundant planktonic foraminiferids. ([[1989-abdou|Abdou, 1989, p. 101]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[1989-abdou|Abdou, 1989]] not stated in source
 
 ## Open Questions and Research Gaps
 

@@ -3,19 +3,18 @@ type: formation
 title: "Khobar Member"
 aliases:
   - "Khobar Member"
-  - "Khobar Limestone"
+  - "Al-Khobar aquifer"
 canonical: true
-age: "Middle Eocene"
+age: "Eocene"
 basin: "Arabian Shelf"
 lithology: "limestone and dolomitic marl"
 reservoir_status: "producer"
 tags:
   - formation/khobar-member
-  - theme/hydrogeology
 sources:
   - "raw/10176 - Acoustic and resistivity studies of the Khobar Member, the Dammam Formation, Eas.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Khobar Member
@@ -26,7 +25,7 @@ last_updated: 2026-06-08
 
 ## How It Appears in the Thesis Collection
 
-- [[2000-mohammad|Mohammad, 2000]] studied the Khobar member as a primary aquifer in the Dammam formation.
+- [[2000-mohammad|Mohammad, 2000]] studied the Khobar member as a primary reservoir for groundwater in the Dammam area.
 
 ## Depositional Environment
 
@@ -34,15 +33,18 @@ last_updated: 2026-06-08
 
 ## Reservoir Properties
 
-- [[2000-mohammad|Mohammad, 2000]] porosity > 3%, transmissivity 10^-2 to 10^{-3 m/s
+- [[2000-mohammad|Mohammad, 2000]] porosity 1-25%, permeability varies by lithology
+
+## Diagenetic History
+
+- [[2000-mohammad|Mohammad, 2000]] fissured and karstified
 
 ## Key Findings Across Sources
 
-- The Khobar Member is characterized by a wide variation of transmissivity (7.06 x 10^-2 to 2.9 x 10^{-3} m/s). ([[2000-mohammad|Mohammad, 2000, p. 30]])
+- The Khobar Member is characterized by high transmissivity (7.06 x 10^2 to 2.9 x 10^3 m/s) and porosity over 3%. ([[2000-mohammad|Mohammad, 2000, p. 30]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2000-mohammad|Mohammad, 2000]] Dolomitization and cementation.
 
 ## Open Questions and Research Gaps
 

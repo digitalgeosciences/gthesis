@@ -2,45 +2,47 @@
 type: terminology
 title: "Curie Isotherm"
 aliases:
+  - "Curie point"
   - "Curie depth"
 canonical: true
-definition: "Depth where minerals transition from ferromagnetic to paramagnetic due to heat."
-units: "meters (km)"
+definition: "The depth at which magnetic minerals lose their magnetism due to heat."
+units: "meters (m)"
 related_techniques:
-  - "magnetic-survey"
+  - "magnetic-surveys"
+  - "magnetotelluric"
 tags:
-  - theme/near-surface-geophysics
+  - theme/geophysics-general
 sources:
   - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Curie Isotherm
 
-**Summary**: The depth at which minerals lose their permanent magnetism due to high temperature.
+**Summary**: The depth at which rocks lose their permanent magnetism due to high temperatures.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-chavanidis|Chavanidis, 2024]] estimated the Curie isotherm depth using airborne magnetic data.
+- [[2024-chavanidis|Chavanidis, 2024]] analyzed the Curie isotherm to estimate surface heat flow and geotherm curves.
 
 ## Scientific Context
 
-- [[2024-chavanidis|Chavanidis, 2024]] Used as a proxy for estimating the depth of high-temperature zones in the crust.
+- [[2024-chavanidis|Chavanidis, 2024]] Crucial for determining the thermal state of the crust and estimating surface heat flow.
 
 ## Measurement and Characterization Methods
 
-- [[2024-chavanidis|Chavanidis, 2024]] Derived from spectral analysis of airborne magnetic data.
+- [[2024-chavanidis|Chavanidis, 2024]] Derived from airborne magnetic data analysis.
 
 ## Key Findings Across Sources
 
-- The Curie isotherm was estimated at an average depth of 14.8 km. ([[2024-chavanidis|Chavanidis, 2024, p. 104]])
+- The Curie isotherm was found to be shallower than 29.6 km in the study area. ([[2024-chavanidis|Chavanidis, 2024, p. 36]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2024-chavanidis|Chavanidis, 2024]] Not stated in source.
 
 ## Open Questions and Research Gaps
 

@@ -2,21 +2,19 @@
 type: terminology
 title: "Resistivity"
 aliases:
-  - "apparent resistivity"
-  - "geoelectric properties"
+  - "electrical resistivity"
 canonical: true
-definition: "The opposition of a material to the flow of electric current."
-units: "Ohm-meters (ohm-m)"
+definition: "A fundamental and diagnostic physical property of the earth."
+units: "ohm-m"
 related_techniques:
-  - "tem"
-  - "amt"
+  - "electrical-resistivity-tomography"
 tags:
-  - terminology/resistivity
-  - theme/petrophysics
+  - theme/near-surface-geophysics
 sources:
+  - "raw/140547 - DETECTION OF SHALLOW SUBSURFACE CAVITIES USING 2D &amp; 3D ELECTRICAL RESISTIVIT.pdf"
   - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Resistivity
@@ -27,23 +25,29 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-ahmed|Ahmed, 2025]] calculated apparent resistivity to interpret subsurface lithology.
+- [[2017-tayyab|Tayyab, 2017]] used electrical resistivity as a primary indicator for lithology and moisture content.
+
+- [[2025-ahmed|Ahmed, 2025]] used resistivity as the primary indicator for lithology and fluid content.
 
 ## Scientific Context
 
-- [[2025-ahmed|Ahmed, 2025]] Critical for identifying lithological changes and fluid content.
+- [[2017-tayyab|Tayyab, 2017]] Used to differentiate between rock, soil, and voids.
+
+- [[2025-ahmed|Ahmed, 2025]] used resistivity as the primary indicator for lithology and fluid content.
 
 ## Measurement and Characterization Methods
 
-- [[2025-ahmed|Ahmed, 2025]] Derived from TEM induction coil measurements.
+- [[2017-tayyab|Tayyab, 2017]] Measured via multi-electrode arrays.
 
 ## Key Findings Across Sources
 
-- Apparent resistivity values are used to differentiate between various geological layers in the 1D, 2D, and 3D models. ([[2025-ahmed|Ahmed, 2025, p. 54]])
+- Low resistivity areas were identified and confirmed as sediment-filled underground cavities. ([[2017-tayyab|Tayyab, 2017, p. 18]])
+
+
+- 2D geoelectric sections showed distinct resistivity contrasts, indicating potential faults or saline zones. ([[2025-ahmed|Ahmed, 2025, p. 66]])
 
 ## Contrasting Values and Interpretations
 
-- [[2025-ahmed|Ahmed, 2025]] Values ranged from <5 Ohm-m to >100 Ohm-m.
 
 ## Open Questions and Research Gaps
 

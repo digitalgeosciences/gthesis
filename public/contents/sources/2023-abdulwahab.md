@@ -1,0 +1,139 @@
+---
+type: source
+id: "142731"
+title: "Quantification of Rock Wettability Using Dielectric Measurements"
+author: "Oshaish, Ali Abdulwahab"
+year: 2023
+department: "Petroleum Engineering"
+degree: "MS"
+supervisor: "Mohamed Mahmoud"
+committee_members: []
+source_file: "raw/142731 - Quantification of Rock Wettability Using Dielectric Measurements.pdf"
+url: "https://eprints.kfupm.edu.sa/142731"
+study_area: "Laboratory study using Berea sandstone, Fontainebleau sandstone, and Indiana limestone samples."
+keywords:
+  - Wettability
+  - Dielectric measurements
+  - Sandstone
+  - Carbonate
+  - Petrophysical characterization
+  - NMR logging
+  - Water saturation
+  - Oil-wet
+  - Water-wet
+  - NMR T-2
+  - Rock properties
+  - Conductivity
+  - Permittivity
+  - SARA analysis
+  - Contact angle
+  - Rock Wettability
+  - Dielectric Measurement
+  - NMR
+  - USBM Wettability Index
+  - Petrophysics
+techniques:
+  - dielectric-measurement
+  - network-analyzer
+  - nmr
+  - core-analysis
+  - xrd
+  - sem
+  - petrophysics
+  - contact-angle-measurement
+  - sara-analysis
+  - centrifuge-method
+tags:
+  - degree/ms
+  - location/saudi-arabia
+  - technique/dielectric-measurement
+  - technique/nmr
+  - technique/core-analysis
+  - technique/xrd
+  - technique/sem
+  - technique/petrophysics
+  - technique/contact-angle-measurement
+  - technique/sara-analysis
+  - theme/petrophysics
+  - terminology/wettibility
+  - terminology/dielectric-measurement
+  - terminology/petrophysics
+  - terminology/pore-systems
+  - terminology/electrical-double-layer
+  - terminology/maxwell-ward-polarization
+  - terminology/petrophysics
+  - terminology/core-analysis
+  - terminology/porosity
+  - terminology/conductivity
+status: ingested
+---
+
+# Quantification of Rock Wettability Using Dielectric Measurements
+
+**Summary**: The thesis investigates the relationship between dielectric measurements and rock wettability using three types of core samples (Berea sandstone, Fontainebleau sandstone, and Indiana limestone). It aims to develop an empirical correlation to quantify wettability from dielectric data as a replacement for more complex measurement methods.
+
+---
+
+## Research Problem
+
+Traditional methods for measuring wettability index are complex, time-consuming, and expensive. While dielectric measurements show sensitivity to wettability changes, no direct method exists to determine a wettability index from dielectric dispersion without significant prior petrophysical information or multiple assumptions.
+
+## Objectives
+
+- Investigate the response of dielectric measurements to wettability changes in sandstone and carbonate rocks.
+- Develop an empirical correlation to calculate the wettability index from dielectric measurements (WIdielectric).
+- Investigate the dielectric response toward wettability alteration at different endpoint water saturations (Sw=1, Swirr1, Sor, and Swirr2).
+- Conduct experimental work involving wettability alteration and measurement of wettability indices using USBM and NMR T-2.
+- Validate the proposed dielectric wettibility index against established methods (USBM and NMR).
+- Investigate the impact of wettability alteration on dielectric parameters like real permittivity, imaginary permittivity, loss tangent, and conductivity.
+
+## Methods
+
+The study utilized three pairs of core samples: Berea sandstone, Fontainebleau sandstone, and Indiana limestone. Initial analysis included XRD for mineralogy, SEM for pore structure, and Helium gas for porosity. Core samples were saturated with 3% KCl brine to measure permeability. Wettibility was measured using the USBM technique (calculating area under capillary pressure curves) and NMR T-2 measurements. A sister sample set underwent wettability alteration using a mixture of 1% stearic acid in light crude oil, followed by cleaning with hexane. Dielectric measurements were performed using an impedance analyzer with a coaxial probe across a frequency range of 1 MHz to 3 GHz.
+
+## Data and Materials
+
+Three pairs of rock samples: Berea sandstone (BS-1, BS-2), Fontainebleau sandstone (FB-1, FB-2), and Indiana limestone (IL-1, IL-2). Measurements included porosity (%), permeability (mD), XRD mineralogy, SEM imaging, NMR T2 profiles, and dielectric parameters at multiple saturation points (Sw=1, Swirr1, Sor, Swirr2).
+
+## Key Findings
+
+- The imaginary permittivity and conductivity results at 10 MHz showed a linear relationship with the difference in the USBM wettability index with a coefficient of determination (R^2) of 0.9619. ([[2023-abdulwahab|Abdulwahab, 2023, p. 14]])
+- A linear relationship was observed between the wettability index of each sample and the drop in its imaginary permittivity and conductivity at 10 MHz as its saturation moved from Sw=1 to Swirr1 with an R^2 of 0.87 for the imaginary part and 0.92 for the conductivity. ([[2023-abdulwahab|Abdulwahab, 2023, p. 14]])
+- The developed correlation was able to predict the USBM wettability index of 6 samples with R^2 of 0.97 and RMSE of 0.076. ([[2023-abdulwahab|Abdulwahab, 2023, p. 15]])
+- Dielectric measurements are sensitive to rock constituents, pore geometry, and fluid distribution; specifically, the Maxwell-Wagner (beta) polarization is a key indicator for non-wetting phase inclusions. ([[2023-abdulwahab|Abdulwahab, 2023, p. 34]])
+- At high frequencies (>10^8 Hz), dielectric signals are sensitive to water molecules only, regardless of salinity or mobility. ([[2023-abdulwahab|Abdulwahab, 2023, p. 36]])
+- The Berea sample showed a porosity of 19.50% (master) and 19.75% (sister), with a permeability of 101 mD. ([[2023-abdulwahab|Abdulwahab, 2023, p. 68]])
+- The Fontainebleau (FB) sample had a porosity of approximately 9-10% and a permeability of 74 mD. ([[2023-abdulwahab|Abdulwahab, 2023, p. 69]])
+- The Indiana limestone sample showed a dual porosity system with smaller pores dominating the distribution, resulting in a porosity of 17.46% to 18.86%. ([[2023-abdulwahab|Abdulwahab, 2023, p. 73]])
+- Dielectric measurements for sandstone samples showed real permittivity between 3.2 and 3.7, while limestone samples ranged from 5 to 5.5. ([[2023-abdulwahab|Abdulwahab, 2023, p. 71]])
+- Berea samples exhibited a clear dispersion (slope change) in all dielectric measurements and higher conductivity across the frequency range, indicating the presence of clay minerals. ([[2023-abdulwahab|Abdulwahab, 2023, p. 71]])
+- The contact angle for calcite shifted from an average of 45.01° to 86.59° after wettability alteration treatment. ([[2023-abdulwahab|Abdulwahab, 2023, p. 77]])
+- DC conductivity (σdc) of water-wet samples was at least ten times higher than oil-wet matches, confirming a strong relationship between this value and wettibility. ([[2023-abdulwahab|Abdulwahab, 2023, p. 45]])
+- Porosity measurements showed only minor changes after wettibility alteration: 6.43% for Berea, 1.88% for FB, and 2.12% for Indiana. ([[2023-abdulwahab|Abdulwahab, 2023, p. 96]])
+- The USBM wettibility index (WI_USBM) values for master samples were 0.73 (Berea), 0.63 (Indiana), and 0.16 (FB). ([[2023-abdulwahab|Abdulwahab, 2023, p. 83]])
+- Treated sister samples showed a shift toward oil-wetness, with WI_USBM values of 0.16, 0.14, and -0.17 for Berea, Indiana, and FB respectively. ([[2023-abdulwahab|Abdulwahab, 2023, p. 83]])
+
+## Limitations
+
+The study notes that extreme oil-wetness is difficult to achieve without using heavy crude oils which would damage the pore structure; also, high water saturation (Sw=1) masks some differences in inclusion shapes due to the dominance of the water response.
+
+## Recommendations and Future Work
+
+- Incorporate relaxation time as a further parameter for wettibility index correlation.
+- Include a wider variety of mineralogical compositions to improve the robustness of the correlation.
+- Explore more complex oil-wet conditions using different crude types while maintaining pore integrity.
+
+## Related Concepts
+
+- [[dielectric-measurement]]
+- [[nmr]]
+- [[wettibility]]
+- [[petrophysics]]
+- [[pore-systems]]
+- [[electrical-double-layer]]
+- [[maxwell-ward-polarization]]
+- [[core-analysis]]
+- [[porosity]]
+- [[conductivity]]
+- [[saudi-arabia]]
+- [[none]]

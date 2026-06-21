@@ -1,7 +1,7 @@
 ---
 type: source
 id: "10307"
-title: "Stratigraphical and microfacies analysis of the late Eocene - early Oligocene succession of Jabal Hafeet, U.A.E."
+title: "Stratigraphical and microfacies analysis of the Late Eocene - early Oligocene succession of Jabal Hafeet, U.A.E."
 author: "Hany Farouk El-Sahn"
 year: 1992
 department: "Geosciences"
@@ -12,26 +12,22 @@ committee_members:
   - "Curtis D. Conley"
 source_file: "raw/10307 - Stratigraphical and microfacies analysis of the late Eocene - early Oligocene su.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/10307/"
-study_area: "Jabal Hafeet, Abu Dhabi, United Arab Emirates"
+study_area: "Jabal Hafeet, United Arab Emirates"
 keywords:
   - Late Eocene
   - Early Oligocene
   - microfacies analysis
   - stratigraphy
-  - Jabal Hafeet
-  - Saudi Arabia
-  - Paleogene
   - foraminifera
-  - petrology
+  - Nummulitids
+  - carbonate cycle
+  - paleoenvironmental conditions
   - Dammam Formation
   - Asmari Formation
-  - Nummulitid
-  - paleoenvironmental conditions
-  - carbonate succession
 techniques:
   - thin-section-petrography
-  - biostratigraphy
   - microfacies-analysis
+  - biostratigraphy
 tags:
   - degree/ms
   - formation/dammam-formation
@@ -40,89 +36,67 @@ tags:
   - formation/asmari-formation
   - location/united-arab-emirates
   - technique/thin-section-petrography
-  - technique/biostratigraphy
   - technique/microfacies-analysis
+  - technique/biostratigraphy
   - theme/stratigraphy
-  - theme/microfacies-analysis
   - theme/paleoenvironmental-reconstruction
   - theme/carbonate-geology
-  - theme/sedimentology
+  - theme/microfacies-analysis
   - terminology/microfacies-analysis
-  - terminology/stratigraphy
-  - terminology/carbonate-geology
+  - terminology/carbonate-cycle
+  - terminology/microfacies-analysis
+  - terminology/sequence-stratigraphy
 status: ingested
 ---
 
-# Stratigraphical and microfacies analysis of the late Eocene - early Oligocene succession of Jabal Hafeet, U.A.E.
+# Stratigraphical and microfacies analysis of the Late Eocene - early Oligocene succession of Jabal Hafeet, U.A.E.
 
-**Summary**: The thesis investigates the Late Eocene to Early Oligocene succession at Jabal Hafeet, UAE, which is the only known location in Arabia with fossiliferous marine outcrops of this age. Through thin-section analysis, five distinct microfacies were identified to interpret the stratigraphy and paleoenvironmental conditions.
+**Summary**: The thesis investigates the stratigraphical and microfacies analysis of a Late Eocene to Early Oligocene carbonate succession at Jabal Hafeet, UAE. Through thin-section petrography and biostratigraphy, it identifies five distinct microfacies that reveal a steadily shallowing upward carbonate cycle from open sea shelf to back-reef environments.
 
 ---
 
 ## Research Problem
 
-The study addresses the need to characterize the stratigraphy and depositional environment of the Late Eocene - Early Oligocene succession in the Jabal Hafeet area, which is a key region for understanding Paleogene carbonate systems in the Middle East.
+The lack of detailed stratigraphic and microfacies characterization for the Late Eocene - Early Oligocene succession in the Jabal Hafeet area, which is unique as one of the few known locations with such fossiliferous marine rocks on the Arabian plate.
 
 ## Objectives
 
-- Review the Paleogene succession in Arabia, focusing on the Late Paleogene regressive phase.
-- Perform lithostratigraphical analysis of the Jabal Hafert section.
-- Conduct microfacies analysis of the studied section.
-- Interpret the age of each recognized lithostratigraphic and microfacies unit.
-- Provide paleo-ecological interpretation of the recognized microfacies.
-- Identify recorded microfossils in each rock unit.
-- Interpret the geological history of the area during the Late Eocene - Early Oligocene.
-- Perform stratigraphical analysis of the Jabal Hafeet succession.
-- Conduct microfacies analysis using thin section petrography.
-- Determine the age of the succession based on biostratigraphy (foraminifera).
-- Interpret paleoenvironmental conditions of deposition.
-- Perform stratigraphical analysis of the Late Eocene - Early Oligocene succession at Jabal Hafeet.
-- Conduct microfacies analysis using thin section petrography to determine depositional environments.
-- Correlate local stratigraphic units with regional formations (Dammam and Asmari).
-- Determine the age of the succession based on foraminiferal assemblages.
-- Perform a detailed microfacies analysis of the carbonate succession.
-- Determine the stratigraphical position and age of the sedimentary units.
-- Interpret the paleoenvironmental conditions of deposition for each identified microfacies.
-- Perform stratigraphical analysis of the Late Paleogene succession.
-- Conduct microfacies analysis on 34 rock samples from the section.
-- Determine the age and paleoenvironmental conditions of deposition.
-- Perform stratigraphical analysis of the Jabal Hafeet succession
-- Conduct microfacies analysis using thin sections
-- Identify distinct microfacies to interpret paleoenvironmental conditions
-- Determine the age of the sedimentary units
-- Perform stratigraphical analysis of the late Eocene - early Oligocene succession
-- Conduct microfacies analysis to determine depositional environments
-- Determine the age and lithology of various formations including the Asmari Formation
+- Perform stratigraphical and microfacies analysis of the Late Paleogene surface section of Jabal Hafeet, U.A.E.
+- Correlate the Jabal Hafeet section with corresponding rock units in the region.
+- Identify distinct microfacies to interpret age and paleoenvironmental conditions.
+- Identify recorded microfossils (specifically foraminifera) in each rock unit.
+- Interpret the geological history of the area during the Late Eocene-Oligocene time.
+- Perform stratigraphical and microfacies analysis of the Late Eocene - Early Oligocene succession at Jabal Hafeet.
 
 ## Methods
 
-The study utilized thin-section petrography to analyze 34 samples from the Dammam and Asmari Formations. Microfacies were classified using the textural classification of Dunham (1962) as expanded by Embry and Klovan (1971), combined with foraminiferal classifications by Locblich & Tappan (1988). Comparison was made against Wilson's (1975) standard microfacies types and facies belts.
+The study utilized thin-section petrography for microfacies analysis, applying both the textural classification of Dunham (1962) as expanded by Embry and Klovan (1971) and the foraminiferal classification of Loeblich & Tappan (1988). Biostratigraphy was employed to determine age based on Nummulitid and planktonic foraminiferid remains. The study also involved comparing local microfacies with Wilson's (1975) standard microfacies types and facies belts.
 
 ## Data and Materials
 
-Samples were collected from the exposed section in both the middle and western escarpments of the northern part of Jabal Hafeet. Thin sections were prepared from samples taken on a 3-m interval basis (or every 6m due to lithologic uniformity).
+Samples were collected from the exposed sections in both the middle and western escarpments of the northern part of Jabal Hafeet, covering a 250 square kilometer area. The study focuses on a section representing the only known outcrop of Late Eocene (Bartonian) to Early Oligocene (Rupelian) succession in Arabia.
 
 ## Key Findings
 
-- The succession is proved to be of Late Eocene - Early Oligocene age based on the identification of a rich assemblage of larger benthonic foraminiferid remains (mainly Nummulitids). ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
-- A total of five distinctive microfacies have been recognized and used to interpret both the age and the paleoenvironmental conditions. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
+- Five distinct microfacies were identified and used to interpret both age and paleoenvironmental conditions, confirming a Late Eocene-Early Oligocene age. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
 - The succession represents a shallowing upward carbonate cycle moving from open marine shelf to shelf edge conditions. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
-- The Dammam Formation is suggested to be expanded to include Late Eocene successions of similar facies in the region (Dammam sensu lato). ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
-- The presence of the Asmari Limestone, generally represented by reef facies, testifies for the regression of the sea off Arabia during the Late Paleogene. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
-- The regression is attributed to a worldwide low sea stand during the Late Oligocene (Chattian) or deformation of the sedimentary basin during Omani and Zagros Orogenics. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
-- Five distinct microfacies were recognized in the succession, used to interpret both age and paleoenvironmental conditions. ([[1992-el-sahn|El-Sahn, 1992, p. 1]])
-- The succession is confirmed to be of Late Eocene-Early Oligocene age based on foraminiferid remains. ([[1992-el-sahn|El-Sahn, 1992, p. 1]])
-- A significant break in sedimentation was noted between the Late Eocene and Early Oligocene, potentially influenced by the Pyrennean movement. ([[1992-el-sahn|El-Sahn, 1992, p. 31]])
-- The Umm Al-Radhuma Formation is represented as a repetitious succession of foraminiferal, micritic and calcarenitic limestones and dolomites (approx. 243 m thick). ([[1992-el-sahn|El-Sahn, 1992, p. 39]])
-- The Rus Formation in Saudi Arabia is described as a succession of chalky limestones, marls, and dolomitic limestones (approx. 56 m thick). ([[1992-el-sahn|El-Sahn, 1992, p. 43]])
-- The Dammam Formation is characterized by several members including the Midra Shale, Khobar Limestone, and Alat Limestone. ([[1992-el-sahn|El-Sahn, 1992, p. 48]])
-- The Dammam Formation in the studied section is approximately 100m thick and consists of detrital, skeletal, glauconitic, marly limestone. ([[1992-el-sahn|El-Sahn, 1992, p. 61]])
-- The Asmari Formation in the studied section is approximately 110m thick and is divided into three members: Lower Sandy Marl (10m), Middle Reefal Limestone (70m), and Upper Nummulitic Limestone (20m). ([[1992-el-sahn|El-Sahn, 1992, p. 64]])
-- The presence of N. fabianii, N. retiatus, N. striatus, N. chavannesi, N. incrassatus, and N. orbignyi correlates the uppermost Dammam section with the Late Eocene N. fabianii (sensu lato) Zone. ([[1992-el-sahn|El-Sahn, 1992, p. 70]])
+- A rich assemblage of larger benthonic foraminiferid remains (mainly Nummulitids) and a sparse record of planktonic foraminiferid were identified. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
+- The Dammam formation is interpreted to include Late Eocene successions of similar facies in the region, expanding its definition beyond Middle Eocene. ([[1992-el-sahn|El-Sahn, 1992, p. 13]])
+- The succession at Jabal Hafeet is a 400 m-thick sequence of limy and marly rocks. ([[1992-el-sahn|El-Sahn, 1992, p. 22]])
+- The Dammam Formation in the studied section is approximately 100 m thick and contains a diverse assemblage of benthonic and planktonic foraminifera (e.g., Nummulites fabianii, N. retiatus, N. striatus). ([[1992-el-sahn|El-Sahn, 1992, p. 61]])
+- The Asmari Formation in the studied section is approximately 110 m thick and is divided into three members: Lower Sandy Marl (10m), Middle Reefal Limestone (70m), and Upper Nummulitic Limestone (20m). ([[1992-el-sahn|El-Sahn, 1992, p. 64]])
+- Microfacies I (Glauconitic, Peloidal, Nummulitic Marly Packstone/Wackestone) indicates an open sea shelf environment and is dated to the Late Eocene. ([[1992-el-sahn|El-Sahn, 1992, p. 70]])
+- Microfacies II (Glauconitic, Dolomitic, Skeletal, Sandy Wackestone) represents an open platform shelf condition and is dated to the Early Oligocene. ([[1992-el-sahn|El-Sahn, 1992, p. 73]])
+- Microfacies III (Algal Floatstone) represents a common fore-reef flank facies and is dated to the Early Oligocene. ([[1992-el-sahn|El-Sahn, 1992, p. 74]])
+- Microfacies IV (Reefal Boundstone) reflects an organic reef buildup at the platform margin, likely of Early Oligocene age. ([[1992-el-sahn|El-Sahn, 1992, p. 76]])
+- Microfacies V (Dolomitized, Peloidal, Nummulitic Packstone) represents a winnowed platform edge and is dated to the Early to Middle Oligocene. ([[1992-el-sahn|El-Sahn, 1992, p. 77]])
+- The succession shows a steadily shallowing upward carbonate cycle from open marine shelf (Late Eocene) to back-reef winnowed platform edge (Early Oligocene). ([[1992-el-sahn|El-Sahn, 1992, p. 78]])
+- The study identified five distinct microfacies (e.g., Reefal Boundstone and Dolomitized, Peloidal, Nummulitic Packstone) to interpret paleoenvironmental conditions. ([[1992-el-sahn|El-Sahn, 1992, p. 98]])
+- Microfacies IV is interpreted as Early Oligocene based on its position overlying/underlying well-dated successions. ([[1992-el-sahn|El-Sahn, 1992, p. 98]])
 
 ## Limitations
 
-Not stated in source
+The study notes that the absence of Late Oligocene rocks might be due to local deformation from Zagros Orogeny folding, faulting, and jointing rather than a lack of deposition.
 
 ## Recommendations and Future Work
 
@@ -131,13 +105,15 @@ Not stated in source
 ## Related Concepts
 
 - [[thin-section-petrography]]
+- [[biostratigraphy]]
+- [[microfacies-analysis]]
+- [[carbonate-cycle]]
 - [[dammam-formation]]
 - [[rus-formation]]
-- [[umm-er-radhuma-formation]]
+- [[umm-al-radhuma-formation]]
 - [[united-arab-emirates]]
-- [[microfacies-analysis]]
-- [[stratigraphy]]
 - [[paleoenvironmental-reconstruction]]
-- [[biostratigraphy]]
+- [[stratigraphy]]
 - [[asmari-formation]]
 - [[carbonate-geology]]
+- [[sequence-stratigraphy]]

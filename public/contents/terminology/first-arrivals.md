@@ -2,52 +2,46 @@
 type: terminology
 title: "First Arrivals"
 aliases:
-  - "first arrivals"
+  - "first break"
+  - "first arrival"
 canonical: true
-definition: "The first part of a seismic wave to arrive at a receiver."
+definition: "The onset of the first refracted wave on a shot gather."
 units: "time (ms)"
 related_techniques:
-  - "supervirtual-interferometry"
-  - "seismic-processing"
+  - "dbscan"
+  - "super-virtual-refraction-interferometry"
 tags:
-  - theme/seismology
+  - theme/seismic-processing
 sources:
-  - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
   - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # First Arrivals
 
-**Summary**: The initial part of a seismic wave that reaches a receiver, used to determine subsurface velocity.
+**Summary**: The first point in a sense record where energy from a refracted wave arrives at the receiver.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-edigbue|Edigbue, 2016]] analyzed first arrivals in 3D seismic refraction data.
-
-- [[2022-awais|Awais, 2022]] analyzed first arrivals to determine traveltimes for static correction and velocity analysis.
+- [[2022-awais|Awais, 2022]] focused on picking first arrivals for seismic processing.
 
 ## Scientific Context
 
-- [[2016-edigbue|Edigbue, 2016]] Critical for determining the velocity and depth of subsurface layers in refraction surveys.
-
-- [[2022-awais|Awais, 2022]] analyzed first arrivals to determine traveltimes for static correction and velocity analysis.
+- [[2022-awais|Awais, 2022]] It is the primary data point for constructing geological models from seismic surveys.
 
 ## Measurement and Characterization Methods
 
-- [[2016-edigbue|Edigbue, 2016]] Extracted from enhanced seismic data using supervirtual methods.
+- [[2022-awais|Awais, 2022]] Identified via automated algorithms or manual inspection.
 
 ## Key Findings Across Sources
 
-- First arrival results showed a strong correlation with the raw synthetic data before noise addition. ([[2016-edigbue|Edigbue, 2016, p. 64]])
+- Accurate first arrival traveltime picking is essential for static correction, velocity analysis, and deconvolution. ([[2022-awais|Awais, 2022, p. 20]])
 
-- Accurate picking is essential for subsequent processing steps like static correction, velocity analysis, and deconvolution. ([[2022-awais|Awais, 2022, p. 20]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

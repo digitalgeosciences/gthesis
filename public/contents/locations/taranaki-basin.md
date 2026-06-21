@@ -4,39 +4,40 @@ title: "Taranaki Basin"
 aliases:
   - "Deep Taranaki Basin"
 canonical: true
-region: "New Zealand"
+region: "North Island, New Zealand"
 country: "New Zealand"
 coordinates: "Not stated in source"
-geology: "Sedimentary basin with submarine channels"
+geology: "sedimentary basin"
 tags:
   - location/taranaki-basin
+  - theme/reservoir-characterization
 sources:
   - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Taranaki Basin
 
-**Summary**: A sedimentary basin in New Zealand known for its hydrocarbon production.
+**Summary**: A sedimentary basin in the western region of New Zealand's North Island.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-maigana|Maigana, 2024]] studied the submarine channels within the taranaki-basin for COₒ storage.
+- [[2024-maigana|Maigana, 2024]] focused on the taranaki-basin to evaluate submarine channels for CO2 storage.
 
 ## Geological and Structural Setting
 
-- [[2024-maigana|Maigana, 2024]] Deep Taranaki Basin
+- [[2024-maigana|Maigana, 2024]] passive continental margin
 
 ## Formations Present
 
-- [[2024-maigana|Maigana, 2024]] Moki Formation, Upper Manganui formation
+- [[2024-maigana|Maigana, 2024]] Moki Formation, Upper Manganui Formation
 
 ## Key Findings From This Location
 
-- The basin contains extensive and thick Miocene-age submarine channel systems. ([[2024-maigana|Maigana, 2024, p. 17]])
+- The basin is a significant area for potential carbon capture and storage (CCS) projects. ([[2024-maigana|Maigana, 2024, p. 12]])
 
 ## Research Coverage and Gaps
 

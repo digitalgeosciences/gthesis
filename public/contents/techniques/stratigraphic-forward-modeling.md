@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "simulated sequence architecture and geometry"
+output: "simulated sedimentary architecture and lithofacies distribution"
 tags:
   - technique/stratigraphic-forward-modeling
   - theme/sequence-stratigraphy
 sources:
   - "raw/143045 - QUANTIFYING THE DYNAMICS OF MIXED SILICICLASTIC AND CARBONATE SYSTEM OF THE TOAR.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Stratigraphic Forward Modeling
 
-**Summary**: A numerical process based modeling approach used to simulate sedimentary architecture and geometry by testing various geological parameters.
+**Summary**: A numerical modeling technique that simulates sedimentary architecture by calculating sediment transport and production over time.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2024-fahmi|Fahmi, 2024]] used stratigraphic forward modeling to test geological assumptions and determine the best-fit reference model for the Marrat Formation.
+- [[2024-fahmi|Fahmi, 2024]] used stratigraphic forward modeling to quantify the impact of carbonate production and sediment supply on the Marrat Formation's architecture.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The simulation showed aggradation-progradation geometries in the 3rd stratigraphic order, aligning with outcrop and subsurface observations. ([[2024-fahmi|Fahmi, 2024, p. 40]])
+- The best-fit reference model was found using a double sediment supply source scenario, showing good agreement with outcrop data. ([[2024-fahmi|Fahmi, 2024, p. 40]])
 
 ## Methodological Variations Across Sources
 

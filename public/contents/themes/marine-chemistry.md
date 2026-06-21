@@ -9,7 +9,7 @@ tags: []
 sources:
   - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Marine Chemistry

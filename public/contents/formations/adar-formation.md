@@ -4,9 +4,9 @@ title: "Adar Formation"
 aliases:
   - "Adar"
 canonical: true
-age: "Paleocene (Tertiary)"
+age: "Oligocene"
 basin: "Rawat Basin"
-lithology: "lacustrine shale"
+lithology: "lacustrine shales and sandstones"
 reservoir_status: "potential"
 tags:
   - formation/adar-formation
@@ -14,18 +14,18 @@ tags:
 sources:
   - "raw/139920 - Sedimentology and Sequence Stratigraphy of Paleocene Samma, Yabus and Adar Forma.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Adar Formation
 
-**Summary**: A Paleocene formation in the Rawat Basin.
+**Summary**: An Oligocene formation acting as a potential seal.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-awad|Awad, 2016]] investigated the Adar formation to establish its stratigraphic position and depositional environment.
+- [[2016-awad|Awad, 2016]] investigated the adar-formation to characterize its lacustrine depositional environment.
 
 ## Depositional Environment
 
@@ -33,15 +33,18 @@ last_updated: 2026-06-09
 
 ## Reservoir Properties
 
-- [[2016-awad|Awad, 2016]] not stated in source
+
+
+## Diagenetic History
+
+
 
 ## Key Findings Across Sources
 
-- deposited in marginal and open lacustrine environments. ([[2016-awad|Awad, 2016, p. 17]])
+- The Adar Formation was deposited in marginal and open lacustrine environments. ([[2016-awad|Awad, 2016, p. 17]])
 
 ## Conflicting Interpretations Across Sources
 
-- [[2016-awad|Awad, 2016]] not stated in source
 
 ## Open Questions and Research Gaps
 

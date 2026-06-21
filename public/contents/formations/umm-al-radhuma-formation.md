@@ -1,57 +1,62 @@
 ---
 type: formation
 title: "Umm Al-Radhuma Formation"
-aliases: []
+aliases:
+  - "Umm Al-Radhuma"
 canonical: true
-age: "Not stated in source"
-basin: "Not stated in source"
-lithology: "Not stated in source"
+age: "Paleocene to Early Eocene"
+basin: "Arabian Gulf"
+lithology: "micritic and calcarenitic limestones and dolomites"
 reservoir_status: "Not stated in source"
-tags: []
+tags:
+  - formation/umm-al-radhuma-formation
 sources:
   - "raw/10307 - Stratigraphical and microfacies analysis of the late Eocene - early Oligocene su.pdf"
-  - "raw/140970 - ESTIMATING RATE OF GROUNDWATER DEPLETION IN THE EASTERN PROVINCE AQUIFER SYSTEM .pdf"
-  - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
+  - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
+  - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-16
 ---
 
 # Umm Al-Radhuma Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A Paleocene to Early Eocene carbonate formation.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-el-sahn|El-Sahn, 1992]] studied the Umm Al Radhuma Formation
+- [[1992-el-sahn|El-Sahn, 1992]] identified the Umm Al-Radhuma Formation as the basal unit of the Hasa Group.
 
-- [[2019-prasetyo|Prasetyo, 2019]] characterized the UER formation as a primary source of water for the region.
+- [[2012-iwalewa|Iwalewa, 2012]] characterized the umm-er-radhuma-formation as a karstified fractured bedrock aquifer.
 
-- [[2022-pambudi|Pambudi, 2022]] analyzed the umm-al-radhuma-formation as a key aquifer for ASR.
+- [[2018-hanif|Hanif, 2018]] analyzed the umm-er-radhuma-formation to identify karst potential.
 
 ## Depositional Environment
 
+- [[1992-el-sahn|El-Sahn, 1992]] marine shelf
 
+- [[2012-iwalewa|Iwalewa, 2012]] characterized the umm-er-radhuma-formation as a karstified fractured bedrock aquifer.
 
-- [[2019-prasetyo|Prasetyo, 2019]] characterized the UER formation as a primary source of water for the region.
-
-- [[2022-pambudi|Pambudi, 2022]] analyzed the umm-al-radhuma-formation as a key aquifer for ASR.
+- [[2018-hanif|Hanif, 2018]] analyzed the umm-er-radhuma-formation to identify karst potential.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+
+
 ## Key Findings Across Sources
 
-- studied the Umm Al Radhuma Formation ([[1992-el-sahn|El-Sahn, 1992]])
+- The Umm Al-Radhuma Formation is represented by a repetitious succession of foraminiferal, micritic and calcarenitic limestones and dolomites. ([[1992-el-sahn|El-Sahn, 1992, p. 39]])
 
-- Average thickness is 400m, with TDS increasing from 2,800 to 4,200 mg/l in Dhahran due to over-extraction. ([[2019-prasetyo|Prasetyo, 2019, p. 23]])
+- The formation has an average thickness of 400 m and is the primary water source for the area. ([[2012-iwalewa|Iwalewa, 2012, p. 45]])
 
-- Aquifer Thickness (UER) ... Aquifer Transmissivity (UER) ([[2022-pambudi|Pambudi, 2022, p. 37]])
+- The UER formation has a thickness reaching up to 500 m in the subsurface. ([[2018-hanif|Hanif, 2018, p. 26]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

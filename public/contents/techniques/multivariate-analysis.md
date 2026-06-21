@@ -2,29 +2,29 @@
 type: technique
 title: "Multivariate Analysis"
 aliases:
-  - "PCA"
-  - "cluster analysis"
+  - "Factor analysis"
+  - "Cluster analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "groupings of assemblages and identification of key environmental drivers"
+output: "factor loadings and cluster groups"
 tags:
   - technique/multivariate-analysis
 sources:
-  - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
+  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-20
 ---
 
 # Multivariate Analysis
 
-**Summary**: Statistical methods used to analyze multiple variables simultaneously to find patterns or groupings.
+**Summary**: Statistical methods used to group data and identify patterns in geochemical datasets.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2017-amao|Amao, 2017]] applied multivariate analysis including PCA and cluster analysis to determine the distribution of foraminiferal assemblages.
+- [[1999-babalola|Babalola, 1999]] used multivariate analysis (factor and cluster) to further constrain the provenance of the Wajid Sandstone.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Cluster analysis (CA) using Ward Method and PCA were used to evaluate spatial distribution and diversity indices. ([[2017-amao|Amao, 2017, p. 117]])
+- Q-mode factor analysis showed that Red Unit samples dominated Factor 1, while Grey Unit samples were represented mainly in Factors 2 and 3. ([[1999-babalola|Babalola, 1999, p. 156]])
 
 ## Methodological Variations Across Sources
 

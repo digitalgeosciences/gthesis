@@ -2,45 +2,44 @@
 type: terminology
 title: "Water Blocking"
 aliases:
-  - "water-block"
-  - "aqueous phase trapping"
+  - "water shutoff"
 canonical: true
-definition: "The trapping of water in the pore space, reducing the flow of hydrocarbons."
+definition: "The use of chemical gels to block high permeability channels or thief zones."
 units: "not applicable"
 related_techniques:
-  - "core-flooding"
+  - "mathematical-modeling"
 tags:
   - theme/reservoir-engineering
 sources:
-  - "raw/142812 - FRACTURE CLEANUP USING THERMOCHEMICHAL FLUIDS (TCFs).pdf"
+  - "raw/143106 - NUMERICAL MODELING OF WATER SHUTOFF UTILIZING NANOSILICA GEL TREATMENT.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Water Blocking
 
-**Summary**: The reduction in permeability due to the presence of trapped water in the pore spaces.
+**Summary**: The process of creating a physical barrier to prevent water from entering or moving through a specific zone in a reservoir.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-abdallah|Abdallah, 2024]] investigated thermochemical fluids for potential use in water blocking treatment.
+- [[2024-alabdrabalnabi|Alabdrabalnabi, 2024]] evaluated the effectiveness of nanosilica gel for water-blockage in high and low permeability zones.
 
 ## Scientific Context
 
-- [[2024-abdallah|Abdallah, 2024]] Commonly occurs during drilling and completion; can be mitigated by heat or chemical treatment.
+- [[2024-alabdrabalnabi|Alabdrabalnabi, 2024]] Crucial for managing water production in oil fields.
 
 ## Measurement and Characterization Methods
 
-- [[2024-abdallah|Abdallah, 2024]] Evaluated through core-flow tests and comparison of flow rates.
+- [[2024-alabdrabalnabi|Alabdrabalnabi, 2024]] Simulated via concentration and temperature distribution models.
 
 ## Key Findings Across Sources
 
-- Thermochemical fluids may have a good potential to be utilized for water blockage treatment by potentially altering conditions or providing heat. ([[2024-abdallah|Abdallah, 2024, p. 46]])
+- Successful water shutoff requires balancing injection rate, volume, and activator concentration against temperature effects. ([[2024-alabdrabalnabi|Alabdrabalnabi, 2024, p. 106]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

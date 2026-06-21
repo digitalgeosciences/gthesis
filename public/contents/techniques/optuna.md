@@ -2,29 +2,30 @@
 type: technique
 title: "Optuna"
 aliases:
-  - "Optuna framework"
+  - "HPO"
+  - "hyperparameter optimization"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "optimized hyperparameter sets (e.g., kernel size of 24, filter count of 64)"
+output: "optimized hyperparameter sets (e.g., kernel size, number of filters)"
 tags:
   - technique/optuna
   - theme/machine-learning-geoscience
 sources:
   - "raw/142585 - Inversion of Vertical Seismic Profiling (VSP) Data Via Consecutive Neural Networ.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Optuna
 
-**Summary**: An open-source hyperparameter optimization framework for machine learning.
+**Summary**: An open-source hyperparameter optimization framework.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-almarzooq|Almarzooq, 2023]] used Optuna to automate the selection of optimal hyperparameters for denoising and inversion models.
+- [[2023-almarzooq|Almarzooq, 2023]] used optuna to automate the selection of optimal network architectures and parameters.
 
 ## Instruments and Software
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Optuna allowed for a more quantitative approach to tuning parameters like kernel size, filter count, and network depth compared to manual methods. ([[2023-almarzooq|Almarzooq, 2023, p. 64]])
+- Optuna identified TCN as the superior architecture for inversion and CNN for denoising. ([[2023-almarzooq|Almarzooq, 2023, p. 69]])
 
 ## Methodological Variations Across Sources
 

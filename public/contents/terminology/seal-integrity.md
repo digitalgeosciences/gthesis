@@ -2,45 +2,44 @@
 type: terminology
 title: "Seal Integrity"
 aliases:
-  - "seal integrity"
-  - "seal potential"
+  - ""
 canonical: true
-definition: "The capacity of a caprock to contain injected fluids."
+definition: "A geological formation that prevents the migration of fluids."
 units: "not applicable"
 related_techniques:
-  - "seismic-interpretation"
+  - ""
 tags:
-  - theme/reservoir-characterization
+  - theme/petroleum-geology
 sources:
-  - "raw/143145 - Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New.pdf"
+  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Seal Integrity
 
-**Summary**: The ability of a geological formation to prevent the migration of fluids.
+**Summary**: A dense, impermeable rock layer that acts as a seal for an underlying reservoir.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-maigana|Maigana, 2024]] assessed seal-integrity for the containment of CO2.
+- [[2025-ahmed|Ahmed, 2025]] identified caprocks like Hith Anhydrite to ensure CO2 containment.
 
 ## Scientific Context
 
-- [[2024-maigana|Maigana, 2024]] Critical for the safety and viability of CO2 storage projects.
+- [[2025-ahmed|Ahmed, 2025]] Essential for preventing CO2 leakage into upper aquifers or atmosphere.
 
 ## Measurement and Characterization Methods
 
-- [[2024-maigana|Maigana, 2024]] Evaluation of structural geometry and lithological properties.
+- [[2025-ahmed|Ahmed, 2025]] Identified via lithology and seal integrity.
 
 ## Key Findings Across Sources
 
-- Seal integrity is evaluated by assessing structures and lithology to avoid future leakages. ([[2024-maigana|Maigana, 2024, p. 40]])
+- Hith Anhydrite and Nahr Umr Shales are cited as excellent sealing capabilities. ([[2025-ahmed|Ahmed, 2025, p. 26]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -1,30 +1,31 @@
 ---
 type: technique
-title: "Pre Stack Depth Migration"
+title: "Pre-Stack Depth Migration"
 aliases:
-  - "PSDM"
+  - "prestack depth migration"
+  - "prestack imaging"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "migrated depth volumes and image gathers"
+output: "migrated depth images"
 tags:
   - technique/pre-stack-depth-migration
   - theme/seismic-imaging
 sources:
-  - "raw/141628 - Managing depth to basement uncertainty by integrating magnetic and seismic data.pdf"
+  - "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
-# Pre Stack Depth Migration
+# Pre-Stack Depth Migration
 
-**Summary**: A seismic imaging technique that migrates and sums reflections before binning them into a common time or depth sample.
+**Summary**: A method to image the subsurface by processing individual shot records before stacking.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2020-abdallah-2|Abdallah, 2020]] used pre-stack depth migration to generate image gathers and update velocities based on gather flatness.
+- [[2015-mohammed|Mohammed, 2015]] implemented prestack depth migration using the PSPI algorithm to handle complex structures like salt domes and faults.
 
 ## Instruments and Software
 
@@ -36,7 +37,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The use of PSDM with a properly calibrated velocity model can eliminate velocity pull-down or stretching artifacts caused by complex salt geometries. ([[2020-abdallah-2|Abdallah, 2020, p. 43]])
+- Prestack imaging is more suitable for real-time scenarios in visco-acoustic media as it avoids amplitude distortions due to smearing. ([[2015-mohammed|Mohammed, 2015, p. 47]])
 
 ## Methodological Variations Across Sources
 

@@ -3,68 +3,52 @@ type: location
 title: "Western Saudi Arabia"
 aliases:
   - "Western Saudi Arabia"
-  - "Hejaz"
 canonical: true
-region: "Western Saudi Arabia"
+region: "Western Province"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Arabian Shield"
+geology: "volcanic province"
 tags:
   - location/western-saudi-arabia
 sources:
   - "raw/10050 - A paleomagnetic study of central Harrat Rahat, Western Saudi Arabia.pdf"
-  - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
-  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
   - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
-  - "raw/142870 - Assessment of Heavy Metals (HMs) and Particulate Matters (PMs) in Selected Build.pdf"
   - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
   - "raw/143010 - High-Resolution Multiproxy Characterization of Ediacaran Sequences in Saudi Arab.pdf"
   - "raw/143349 - UTILIZING SAUDI BASALT FOR CARBON MINERALIZATION IMPLICATIONS OF REDUCING CO2 EM.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Western Saudi Arabia
 
-**Summary**: The western region of the Kingdom of Saudi Arabia.
+**Summary**: The western region of the Arabian Peninsula.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1993-kaka|Kaka, 1993]] conducted research in western-saudi-arabia to study regional tectonics.
+- [[1993-kaka|Kaka, 1993]] conducted study in western-saudi-arabia to map regional tectonic history.
 
-- [[2017-benaafi|Benaafi, 2017]] focused on outcrops within the Western Saudi Arabia region.
+- [[2023-rafiq|Rafiq, 2023]] focused on the Al-Lith geothermal field in western Saudi Arabia.
 
-- [[2023-iskandar|Iskandar, 2023]] studied mantle xenoliths from the Harrat Uwayrid field in western Saudi Arabia.
+- [[2024-chavanidis|Chavanidis, 2024]] conducted study in the Western Saudi Arabia region.
 
-- [[2023-rafiq|Rafiq, 2023]] studied the Al-Lith area in western Saudi Arabia.
+- [[2024-malik|Malik, 2024]] studied the Dhaiqa Basin in western Saudi Arabia.
 
-- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Western province of Saudi Arabia.
-
-- [[2024-chavanidis|Chavanidis, 2024]] studied geothermal potential in Western Saudi Arabia.
-
-- [[2024-malik|Malik, 2024]] studied the Dhaiqa basin located in western Saudi Arabia.
-
-- [[2025-alghawi|Alghawi, 2025]] sourced basalt from volcanic fields in this region.
+- [[2025-alghawi|Alghawi, 2025]] sampled basalt from the Harrats in this region for mineralization studies.
 
 ## Geological and Structural Setting
 
-- [[1993-kaka|Kaka, 1993]] Arabian Shield
+- [[1993-kaka|Kaka, 1993]] Red Sea rift zone
 
-- [[2017-benaafi|Benaafi, 2017]] focused on outcrops within the Western Saudi Arabia region.
+- [[2023-rafiq|Rafiq, 2023]] focused on the Al-Lith geothermal field in western Saudi Arabia.
 
-- [[2023-iskandar|Iskandar, 2023]] studied mantle xenoliths from the Harrat Uwayrid field in western Saudi Arabia.
+- [[2024-chavanidis|Chavanidis, 2024]] conducted study in the Western Saudi Arabia region.
 
-- [[2023-rafiq|Rafiq, 2023]] studied the Al-Lith area in western Saudi Arabia.
+- [[2024-malik|Malik, 2024]] studied the Dhaiqa Basin in western Saudi Arabia.
 
-- [[2024-alenazi|Alenazi, 2024]] assessed air quality in the Western province of Saudi Arabia.
-
-- [[2024-chavanidis|Chavanidis, 2024]] studied geothermal potential in Western Saudi Arabia.
-
-- [[2024-malik|Malik, 2024]] studied the Dhaiqa basin located in western Saudi Arabia.
-
-- [[2025-alghawi|Alghawi, 2025]] sourced basalt from volcanic fields in this region.
+- [[2025-alghawi|Alghawi, 2025]] sampled basalt from the Harrats in this region for mineralization studies.
 
 ## Formations Present
 
@@ -72,21 +56,15 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- Not stated in source ([[1993-kaka|Kaka, 1993]])
+- Average width is 60 km and area is 19,830 sq km for the Harrat Rahat portion. ([[1993-kaka|Kaka, 1993, p. 23]])
 
-- Outcrops extend from Wadi Al-Dawasir southward to Najran city. ([[2017-benaafi|Benaafi, 2017, p. 1]])
+- The study identified high-permeability zones and potential for sustainable energy. ([[2023-rafiq|Rafiq, 2023, p. 16]])
 
-- Mantle below Harrat Uwayrid was subjected to similar large-scale events of the Arabian plate. ([[2023-iskandar|Iskandar, 2023, p. 22]])
+- Identified as a promising area for geothermal energy due to Red Sea Rift evolution. ([[2024-chavanidis|Chavanidis, 2024]])
 
-- Identified high-potential geothermal areas within this region. ([[2023-rafiq|Rafiq, 2023, p. 15]])
+- The Dhaiqa basin is located approximately 60km west of Al-Ula city in western Saudi Arabia. ([[2024-malik|Malik, 2024, p. 28]])
 
-- Cadmium (Cd) presented a significant risk in Jeddah (Western region). ([[2024-alenazi|Alenazi, 2024, p. 19]])
-
-- This region is a promising area for geothermal energy due to its proximity to the Red Sea Rift. ([[2024-chavanidis|Chavanidis, 2024, p. 17]])
-
-- Located 60km west of Al-Ula city. ([[2024-malik|Malik, 2024, p. 28]])
-
-- Basalt was collected from Harrat Lunayyir and Harrat Rahat within this region. ([[2025-alghawi|Alghawi, 2025, p. 13]])
+- Basaltic rocks here are suitable for carbon sequestration due to their mineralogy and location near emission sources. ([[2025-alghawi|Alghawi, 2025, p. 43]])
 
 ## Research Coverage and Gaps
 

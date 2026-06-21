@@ -18,140 +18,122 @@ keywords:
   - Hydraulic properties
   - Hydrochemistry
   - Harrat Rahat
-  - Groundwater chemistry
-  - Fracture analysis
+  - Groundwater quality
+  - Fracture connectivity
   - Micro-CT scan
-  - hydraulic conductivity
-  - transmissivity
-  - groundwater quality
   - Water quality
+  - Fracture analysis
   - Pumping test
-  - Pore Space Connectivity
+  - Irrigation Suitability
 techniques:
-  - micro-ct-scanning
+  - micro-ct-scan
   - pumping-test
   - hydrochemical-analysis
-  - fracture-characterization
-  - aqtesolv-pro-40
-  - multi-parameter-wtw-3430
-  - diver-rugged-roll-100-logger
-  - flow-meter
-  - water-level-indicator
-  - well-depth-indicator
-  - field-computer
-  - ion-chromatography
-  - icp-ms
-  - ct-scanning
+  - geophysical-survey
+  - electrical-resistivity-tomography
+  - lithostratigraphy
+  - petrography
   - gis
-  - rockworks
-  - aqtesolv-pro
+  - petrophysics
+  - fracture-characterization
+  - water-quality
+  - lithofacies-analysis
+  - correlation-matrix-analysis
 tags:
   - degree/ms
   - formation/harrat-rahat
   - location/harrat-rahat
   - location/saudi-arabia
-  - technique/micro-ct-scanning
+  - technique/micro-ct-scan
   - technique/pumping-test
   - technique/hydrochemical-analysis
-  - technique/fracture-characterization
-  - technique/ion-chromatography
-  - technique/icp-ms
-  - technique/ct-scanning
+  - technique/electrical-resistivity-tomography
   - technique/gis
-  - technique/rockworks
+  - technique/petrophysics
+  - technique/fracture-characterization
+  - technique/water-quality
+  - technique/lithofacies-analysis
+  - technique/correlation-matrix-analysis
   - theme/hydrogeology
   - theme/groundwater-quality
+  - theme/water-resources-management
+  - terminology/hydrogeology
+  - terminology/hydrochemistry
   - terminology/porosity
-  - terminology/groundwater-quality
-  - terminology/hydraulic-conductivity
   - terminology/permeability
-  - terminology/fracture-characterization
-  - terminology/permeability-anisotropy
-  - terminology/salinity
-  - terminology/nitrate-contamination
+  - terminology/water-quality
+  - terminology/hydraulic-conductivity
 status: ingested
 ---
 
 # Assessment of the Hydraulic Properties and Hydrochemistry of Basaltic Aquifer, Northern Part of Harrat Rahat, Saudi Arabia
 
-**Summary**: The thesis evaluates the hydraulic properties and hydrochemistry of a basaltic aquifer in the northern part of Harrat Rahat, Saudi Arabia. It utilizes pumping tests, fracture analysis, and Micro-CT scans to differentiate between eastern and western zones of the aquifer, concluding that the western zone has superior flow and storage due to larger fractures and better pore connectivity.
+**Summary**: The thesis investigates the hydraulic properties and hydrochemistry of a basaltic aquifer in the northern part of Harrat Rahat, Saudi Arabia. It utilizes fracture analysis from outcrops, pumping tests on multiple wells, and micro-CT scanning of core samples to characterize porosity and connectivity, while also evaluating water quality for drinking and irrigation.
 
 ---
 
 ## Research Problem
 
-The basaltic aquifer of Northern Harrat Rahat is a major source for water supply to Al-Madinah Al-Munawwarah. There is a need to characterize its hydraulic properties (transmissivity, conductivity) and hydrochemistry to ensure sustainable management and determine suitability for human use.
+The study addresses the need for sustainable management of the basaltic aquifer in Northern Harrat Rahat, a primary water source for Al-Madinah Al-Munawwarah, by characterizing its hydraulic properties (influenced by fractures and vesicles) and assessing its hydrochemistry against safety standards.
 
 ## Objectives
 
-- Understand and explain the distribution of hydraulic conductivity in the basaltic aquifer.
-- Assess the hydrochemistry of the aquifer.
-- Evaluate the suitability of groundwater for drinking and irrigation purposes.
-- Identify factors that affect hydraulic conductivity in the basaltic aquifer, including distribution of fractures, types, aperture, connectivity, basalt void types, and voids connectivity.
-- Conduct a general hydrochemical assessment of the groundwater quality for drinking and irrigation purposes.
+- Identify factors affecting hydraulic conductivity in the basaltic aquifer, specifically fracture distribution, types, aperture, connectivity, and basalt void types.
+- Conduct a general hydrochemical assessment of groundwater quality for drinking and irrigation purposes.
 - Determine the distribution of hydraulic conductivity and transmissivity in the study area.
-- Assess water quality for drinking and irrigation purposes.
-- Compare fracture characteristics between the eastern and western sides of the aquifer.
-- Evaluate the impact of geological features on groundwater movement.
-- Assess the hydraulic properties (porosity, connectivity, transmissity, conductivity) of the basaltic aquifer.
-- Analyze the hydrochemistry of the groundwater in the northern part of Harrat Rahat.
-- Evaluate the suitability of the groundwater for agricultural and drinking purposes.
-- Assess the hydraulic properties of the basaltic aquifer in Northern Harrat Rahat.
-- Evaluate the hydrochemistry of the groundwater in the study area.
-- Determine the suitability of groundwater for irrigation and drinking purposes.
-- Identify sources of contamination (natural and anthropogenic) affecting water quality.
+- Characterize fracture networks and porosity connectivity using outcrop analysis and micro-CT scanning.
+- Evaluate the hydrochemistry of groundwater samples in the study area.
+- Determine the suitability of groundwater for irrigation based on salinity, alkalinity, and corrosivity.
 
 ## Methods
 
-Groundwater analysis included pH, electrical conductivity (EC), and ion chromatography (IC) for anions/cations; trace metals were analyzed via ICP-MS. Pore space connectivity was evaluated using Micro-CT scan on core samples processed with PerGeos software. Fracture analysis involved quantifying fracture count and aperture size across 8 outcrops. Pumping tests were conducted on wells 366, 316, RAH-09, and RAH-22 to determine transmissivity (T) and hydraulic conductivity (K) using AQTESOLV Pro.
+The study employed a multi-pronged approach: 1) Geological field work involving the quantification of fractures (count, aperture size, connectivity) at eight selected outcrops. 2) Hydrogeological field work including pumping tests on four wells (two on each side of the aquifer) analyzed using AQTESOLV Pro software to determine transmissivity and hydraulic conductivity. 3) Water sampling from 174 wells for chemical analysis in a laboratory setting, including ion chromatography (IC), ICP-MS for trace metals, and calculation of Water Quality Index (WQI). 4) Micro-CT scanning of nine core samples to analyze pore space connectivity and porosity. 5) GIS mapping using ArcMap 10.5 and other software like Surfer and RockWorks for data visualization.
 
 ## Data and Materials
 
-Study area covers approximately 2,000 km² in northern Harrat Rahat; includes data from 7 well-fields consisting of more than 610 wells; analysis of three stratigraphic units (Shawahit, Hammah, and Madinah basalts).
+Data included 45 groundwater samples for hydrochemical analysis, results from multiple pumping tests across different wells, and micro-CT scans of basalt core samples from various outcrops in the study area (including Qm3, Qm4, Qm5, Qm7, and Hammah formations).
 
 ## Key Findings
 
-- The aquifer is divided into two distinct zones: the western part has favorable conditions for flow and storage due to larger fracture aperture sizes and higher connectivity, while the eastern part is dominated by small, closed fractures filled with sediments. ([[2020-mansouri|Mansouri, 2020, p. 13]])
-- Four main factors control hydraulic properties in the basalt: fracture aperture size, fracture density, basalt vesicles, and pore space connectivity. ([[2020-mansouri|Mansouri, 2020, p. 13]])
-- Groundwater is predominantly of sodium chloride type, with major cation abundance influenced by rock interaction (confirmed via Gibbs diagram). ([[2020-mansouri|Mansouri, 2020, p. 13]])
-- 67% of the analyzed water samples showed elevated concentrations of nitrate, likely due to excessive fertilizer use. ([[2020-mansouri|Mansouri, 2020, p. 13]])
+- The aquifer is divided into two distinct zones: the western part has favorable conditions for groundwater flow, storage, and recharge due to larger fracture apertures and higher connectivity. ([[2020-mansouri|Mansouri, 2020, p. 13]])
+- The eastern part of the aquifer is dominated by small, closed or tight fractures filled with sediments and minerals, resulting in lower hydraulic conductivity. ([[2020-mansouri|Mansouri, 2020, p. 13]])
+- Four main factors control the variation in hydraulic properties: fracture aperture size, fracture density, basalt vesicles, and pore space connectivity. ([[2020-mansouri|Mansouri, 2020, p. 13]])
+- Groundwater is predominantly of sodium chloride type; major cation abundance is controlled by rock interaction (confirmed via Gibbs diagram). ([[2020-mansouri|Mansouri, 2020, p. 13]])
+- 67% of the analyzed groundwater samples showed elevated concentrations of nitrate, likely due to excessive fertilizer use. ([[2020-mansouri|Mansouri, 2020, p. 13]])
 - All groundwater samples are suitable for irrigation based on SAR, RSC, Boron Toxicity, and Corrosivity Ratio (CR). ([[2020-mansouri|Mansouri, 2020, p. 14]])
 - The primary sources of salinity in the water are NaCl, CaCl2, MgSO4, MgCl2, and Na2SO4. ([[2020-mansouri|Mansouri, 2020, p. 14]])
-- The basaltic aquifer is characterized by high porosity (up to 0.35) and typically high hydraulic conductivity, with younger basalts showing greater values. ([[2020-mansouri|Mansouri, 2020, p. 18]])
-- Hydraulic conductivity in the northern part of Harrat Rahat varies between eastern and western parts, being higher in the west and lower in the east. ([[2020-mansouri|Mansouri, 2020, p. 20]])
-- The aquifer is considered unconfined to semi-confined due to the presence of some impermeable layers (silt and clay) within the sequence. ([[2020-mansouri|Mansouri, 2020, p. 31]])
-- The three stratigraphic units (Shawahit, Hammah, Madinah) show a systematic shift toward more silicic rocks over time. ([[2020-mansouri|Mansouri, 2020, p. 32]])
-- Saturated thickness of the system under undisturbed conditions ranged from approximately 50 to 60 m. ([[2020-mansouri|Mansouri, 2020, p. 33]])
-- Water is transmitted in the aquifer via primary/inter-granular porosity in gravels and sands, and through a secondary porosity domain (fractures, interconnected vesicles, scoriaceous interflow zones) in lavas. ([[2020-mansouri|Mansouri, 2020, p. 33]])
-- The basaltic aquifer of Northern Harrat Rahat is a major source for water supply to the holy city of Al-Madinah Al-Munawwarah. ([[2020-mansouri|Mansouri, 2020, p. 38]])
-- Basalt lava flows are divided into three stratigraphic units: Shawahit (10–2.5 Ma), Hammah (2.5–1.7 Ma), and Al-Madinah (1.7–recent). ([[2020-mansouri|Mansouri, 2020, p. 39]])
-- The average thickness of the basalt is approximately 100 m, but it can reach depths of 300 to 500 m in the center of the Harrat Rahat. ([[2020-mansouri|Mansouri, 2020, p. 39]])
+- The aquifer thickness varies from 30m to 300m depending on location, with a significant portion of the system being unconfined or semi-confined. ([[2020-mansouri|Mansouri, 2020, p. 45]])
+- Outcrop 1 (Madinah Qm3) showed 140 open fractures with an average aperture of 3 mm (moderately wide). ([[2020-mansouri|Mansouri, 2020, p. 51]])
+- Outcrop 2 (Madinah Qm5) had 50 fractures, all open, with apertures between 15-20 mm (very wide). ([[2020-mansouri|Mansouri, 2020, p. 68]])
+- Outcrop 3 (Madinah Qm7) contained 95 open fractures with aperture sizes of 2.5 to 3.5 mm. ([[2020-mansouri|Mansouri, 2020, p. 70]])
+- Outcrop 4 (Shawahit basalt) had 95 open fractures with an average aperture size of 13.5 mm (very wide). ([[2020-mansouri|Mansouri, 2020, p. 73]])
+- Outcrop 5 (Hammah basalt) featured over 70 open fractures with an average aperture of 10.5 mm. ([[2020-mansouri|Mansouri, 2020, p. 74]])
+- Outcrops on the east side (6, 7, and 8) were characterized by closed/filled fractures with apertures < 0.5 mm, significantly reducing hydraulic conductivity. ([[2020-mansouri|Mansouri, 2020, p. 83]])
+- Micro-CT analysis showed that while Madinah Qm3 had 15% total porosity (11% connected), the eastern side samples (Qm4 and Shawahit) were almost entirely unconnected. ([[2020-mansouri|Mansouri, 2020, p. 90]])
 
 ## Limitations
 
-The study notes that the aquifer is heterogeneous, anisotropic, and has variable thickness; additionally, it transitions between confined, semi-confined, and unconfined states depending on transmissivity changes in lava and intercalated sediments.
+Not stated in source
 
 ## Recommendations and Future Work
 
-- Radiometric dating is required for sediments and minerals filling fractures and basalt voids in the eastern side to determine their sources.
-- Water resources should be managed carefully to ensure sustainability.
-- Well fields, especially older ones, require permanent maintenance.
-- Water treatment is highly recommended before drinking directly from wells due to potential contamination.
-- Monitoring of private wells is necessary as they can provide a pathway for nitrate contamination.
+- Perform radiometric dating on sediments/minerals filling fractures and voids in the eastern side to determine their sources.
+- Implement careful water resource management to ensure sustainability of the aquifer.
+- Conduct regular maintenance for well fields, especially older wells.
+- Treat water before drinking directly from wells due to potential contamination (e.g., nitrates or hydrocarbons).
+- Monitor private wells as they may serve as pathways for nitrate contamination.
 
 ## Related Concepts
 
-- [[micro-ct-scanning]]
+- [[micro-ct-scan]]
 - [[pumping-test]]
-- [[hydrochemical-analysis]]
-- [[harrat-rahat]]
-- [[porosity]]
 - [[hydrogeology]]
+- [[hydrochemistry]]
+- [[harrat-rahat]]
 - [[groundwater-quality]]
-- [[hydraulic-conductivity]]
+- [[porosity]]
 - [[permeability]]
-- [[fracture-characterization]]
-- [[ct-scanning]]
-- [[permeability-anisotropy]]
-- [[salinity]]
-- [[nitrate-contamination]]
+- [[hydrochemical-analysis]]
+- [[water-quality]]
+- [[water-resources-management]]
+- [[hydraulic-conductivity]]

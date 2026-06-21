@@ -4,42 +4,42 @@ title: "Geobodies"
 aliases:
   - "carbonate geobodies"
 canonical: true
-definition: "A three-dimensional volume of rock that is distinct from the surrounding rock."
-units: "not applicable"
+definition: "Geometrically distinct rock bodies."
+units: "meters"
 related_techniques:
-  - "mapping"
+  - "lithofacies-analysis"
 tags:
-  - theme/carbonate-sedimentology
+  - theme/carbonate-geology
 sources:
   - "raw/139776 - High-resolution stratigraphic architecture and sedimentological heterogeneity wi.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Geobodies
 
-**Summary**: A 3D volume of rock that is distinct from the surrounding rock.
+**Summary**: Three-dimensional bodies of rock with distinct geometry and lithology.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-ali|Ali, 2015]] analyzed carbonate geobodies to determine their geometry and distribution.
+- [[2015-ali|Ali, 2015]] characterized the carbonate geobodies as sheets, lens, and channel geometries.
 
 ## Scientific Context
 
-- [[2015-ali|Ali, 2015]] Used to characterize the spatial distribution and geometry of reservoir units.
+- [[2015-ali|Ali, 2015]] Geobodies were used to quantify the heterogeneity of carbonate facies.
 
 ## Measurement and Characterization Methods
 
-- [[2015-ali|Ali, 2015]] Identified through field mapping and interpretation.
+- [[2015-ali|Ali, 2015]] Identified based on data from facies mosaics and high-resolution models.
 
 ## Key Findings Across Sources
 
-- Identified sheet, lens, and channel geobodies within the Dam Formation. ([[2015-ali|Ali, 2015, p. 107]])
+- Sheet geobodies were identified as being approximately 3.5 km long, 10 m wide, and 3 m high. ([[2015-ali|Ali, 2015, p. 123]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

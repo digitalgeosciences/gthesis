@@ -12,156 +12,120 @@ committee_members:
   - "Jack Dvorkin"
 source_file: "raw/141840 - HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAU.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/141840/"
-study_area: "Kimmeridgian (late Jurassic) mudrocks in Saudi Arabia"
+study_area: "Kimmeridgian (late Jurassic) mudrocks in the eastern basin, Saudi Arabia"
 keywords:
   - mechanical stratigraphy
   - carbonate mudrocks
-  - geomechanics
   - micro-rebound testing
-  - scratch test
   - ultrasonic wave velocities
-  - lithofacies
-  - carbonate mudrock
-  - unconventional play
-  - geomechanical properties
-  - impulse hammer
   - scratch testing
-  - well log analysis
+  - lithofacies
+  - XRF
+  - XRD
   - mechanical characterization
+  - impulse hammer
   - core-based data
   - log-based data
-  - Young's modulus
-  - Poisson's ratio
-  - unconfined compressive strength (UCS)
-  - brittleness
-  - petrophysics
-  - core-based tests
 techniques:
   - micro-rebound-testing
   - impulse-hammer
-  - ultrasonic-wave-velocities
+  - ultrasonic-wave-velocity-measurement
   - scratch-test
-  - xrd
   - xrf
-  - well-log-analysis
-  - principal-components-analysis
-  - scratch-testing
-  - qemscan
-  - petrophysics
+  - xrd
   - pca
+  - petrophysics
+  - ultrasonic-wave-velocity
+  - well-log-analysis
 tags:
   - degree/ms
-  - formation/qusaiba-member
+  - formation/hadrukh-formation
+  - location/eastern-province
   - location/saudi-arabia
   - technique/micro-rebound-testing
   - technique/impulse-hammer
   - technique/ultrasonic-wave-velocity-measurement
   - technique/scratch-test
-  - technique/xrd
   - technique/xrf
-  - technique/well-log-analysis
+  - technique/xrd
+  - technique/pca
+  - technique/petrophysics
   - technique/ultrasonic-wave-velocity
-  - technique/qemscan
-  - technique/scratch-testing
+  - technique/well-log-analysis
   - theme/mechanical-stratigraphy
   - theme/carbonate-geology
-  - theme/petrophysics
   - terminology/mechanical-stratigraphy
-  - terminology/brittleness
-  - terminology/unconfined-compressive-strength
-  - terminology/porosity
-  - terminology/youngs-modulus
-  - terminology/poissons-ratio
+  - terminology/mechanical-stratigraphy
   - terminology/petrophysics
+  - terminology/ultrasonic-wave-velocity
+  - terminology/carbonate-geology
 status: ingested
 ---
 
 # HIGH-RESOLUTION MECHANICAL STRATIGRAPHY OF LATE JURASSIC CARBONATE MUDROCKS, SAUDI ARABIA
 
-**Summary**: The thesis investigates the mechanical properties of Late Jurassic carbonate mudrocks in Saudi Arabia using a combination of core-based tests (micro-rebound, impulse hammer, ultrasonic wave velocities, and scratch testing) and log-based data. It aims to establish high-resolution mechanical profiles by correlating these measurements with mineralogy, elemental composition, and well logs.
+**Summary**: The thesis investigates the geomechanical properties of Kimmeridgian (Late Jurassic) carbonate mudrocks in Saudi Arabia's eastern basin. By integrating high-resolution core data from micro-rebound testing, impulse hammer, and scratch tests with wireline log analysis and mineralogy (XRD/XRF), it establishes a detailed mechanical stratigraphy to improve prediction of wellbore stability and hydraulic fracturing performance.
 
 ---
 
 ## Research Problem
 
-The challenge of accurately characterizing the mechanical heterogeneity of carbonate mudrocks (Kimmeridgian age) in Saudi Arabia, where low-resolution log data may fail to capture fine-scale variations critical for completion decisions.
+The lack of high-resolution mechanical characterization in carbonate mudrocks (Kimmeridgian, Late Jurassic) leads to a failure in capturing fine-scale geomechanical variations, which are critical for well completion decisions and hydraulic fracturing planning.
 
 ## Objectives
 
-- Perform core-based mechanical testing (micro-rebound, impulse hammer, ultrasonic velocity, and scratch tests) on Kimmeridgian mudrock samples.
-- Establish correlations between core-based mechanical properties and log-derived parameters.
-- Develop high-resolution mechanical stratigraphy for the studied carbonate mudrocks.
-- Evaluate the relationship between mineralogy (from XRD/XRF) and geomechanical properties.
 - Direct hardness measurements (HLD) and indirect quantification of Unconfined Compressive Strength (UCS) through established empirical relationships.
 - Derive elastic properties such as Young’s modulus and Poisson’s ratio, based on core and log data.
 - Establish core- and log-based rock brittleness.
 - Direct measurement of unconfined compressive strength through scratch testing.
 - Establish rock strength profiles from wireline logs with ground-truthing from results of the previous analyses.
 - Compare and correlate the results of mechanical properties with log data, mineralogy, and Total Organic Carbon (TOC) values.
-- Perform core-based tests including micro-rebound testing, impulse hammer, ultrasonic wave velocities, and scratch testing on slabbed samples.
-- Calculate log-based elastic properties (Young's modulus, Poisson's ratio) and UCS from sonic logs.
-- Determine mineralogy-based brittleness using XRD data.
-- Correlate core-based mechanical measurements with well-log responses (SGR, Vp, Vs) and elemental/mineralogical data to build integrated high-resolution profiles.
-- Perform high-resolution mechanical characterization using core-based tests (micro-rebound, impulse hammer, ultrasonic wave velocities, and scratch testing).
-- Evaluate the relationship between core-based mechanical properties and log-based parameters (SGR, Vp, Vs, density).
-- Compare different empirical methods for calculating Uniaxial Compressive Strength (UCS) from hardness data.
-- Identify geomechanical zones in five wells to assist in well completion planning.
-- Perform detailed mechanical characterization using core-based tests
-- Integrate log-based data from five wells to characterize the formation
-- Evaluate the geomechanical properties of Kimmeridgian mudrocks
 
 ## Methods
 
-The study utilized 25 slabbed core samples from five wells. Core-based tests included: micro-rebound testing (Proceq Equotip Piccolo 2) for Leeb hardness; impulse hammer (New England Research Autoscan tool) for reduced Young's modulus (E*); ultrasonic wave velocity measurement (New England Research Autoscan tool) to determine core-based Young's modulus and Poisson's ratio; and scratch tests (Epslog Tool) to provide UCS values. Log-based properties were calculated using standard equations from Rickman et al. (2008), Chang et al. (2006), and Babacan et al. (2012). Elemental analysis was performed via XRF, and mineralogy was determined via XRD. Correlation analyses included Principal Component Analysis (PCA) to investigate relationships between multiple parameters.
+The study utilized core samples from five wells. Micro-rebound testing (Proceq Equotip Piccolo 2) was performed on 708 ft of core to provide high-resolution hardness (HLD) and derived UCS/Young's modulus. Impulse hammer (New England Research Autoscan) and ultrasonic wave velocity measurements were conducted on 25 slabbed samples to determine reduced Young’s modulus (E*) and P/S velocities. Scratch testing (Epslog Tool) was performed on selected samples for direct UCS measurement. Mineralogy was determined via XRD, and elemental analysis was performed using XRF (hand-held and lab). Principal Component Analysis (PCA) was used to correlate mechanical properties with mineralogical, elemental, and log data.
 
 ## Data and Materials
 
-Data were collected from five wells penetrating Kimmeridgian mudrocks. Core samples included 25 slabbed samples for specific tests like impulse hammer and ultrasonic velocity. Data sets included core-based HLD, E*, Vp, Vs, and UCS values compared against log-derived SGR, Thorium, Uranium, and various mineralogical components.
+Data from five wells penetrating Kimmeridgian (late Jurassic) mudrocks in Saudi Arabia; includes core samples for micro-rebound testing, ultrasonic wave velocity measurements, scratch tests, and XRD/XRF analysis; log data including SGR, neutron, POTA, THOR, and sonic logs.
 
 ## Key Findings
 
-- The strongest correlation between two mechanical properties was found between Leeb hardness (HLD) and reduced Young's modulus (E*), with an R2 value of 0.79. ([[2021-albensaad|Albensaad, 2021, p. 52]])
-- Primary wave velocities (Vp) showed a stronger correlation with Leeb hardness than shear waves (Vs). ([[2021-albensaad|Albensaad, 2021, p. 52]])
-- Leeb hardness (HLD) values for the studied wells ranged from 300 to 900 units. ([[2021-albensaad|Albensaad, 2021, p. 38]])
-- page_number_not_specified_in_source ([[2021-albensaad|Albensaad, 2021]])
-- Micro-rebound testing provided continuous high-resolution mechanical character_characterization_ that was not possible with log-based analyses due to the lower vertical resolution (3-4 feet) of sonic logs. ([[2021-albensaad|Albensaad, 2021, p. 15]])
-- Scratch testing results for Unconfined Compressive Strength (UCS) were found to be in agreement with hardness-based UCS from micro-rebound testing. ([[2021-albensaad|Albensaad, 2021, p. 15]])
-- Both hardness and mechanical log-based data show inverse relationships with increased Total Organic Carbon (TOC) and clay percentage. ([[2021-albensaad|Albensaad, 2021, p. 15]])
-- Hardness shows a strong positive relationship with reduced Young’s modulus, Vp, and calcite content from XRF analysis. ([[2021-albensaad|Albensaad, 2021, p. 15]])
-- Negative relationships between hardness and the elements Al, Fe, Si, and S were documented. ([[2021-albensaad|Albensaad, 2021, p. 15]])
-- The minimum horizontal stress in the study area was determined to be between 9700 and 10,100 psi, with an overburden stress of 11,500 psi. ([[2021-albensaad|Albensaad, 2021, p. 23]])
-- Leeb hardness (HLD) values showed an inverse relationship with spectral gamma ray (SGR) response across most wells. ([[2021-albensaad|Albensaad, 2021, p. 53]])
-- The highest mean Leeb hardness was found in Well 2 (688), followed by Well 3 (623). ([[2021-albensaad|Albensaad, 2021, p. 52]])
-- Reduced Young's modulus (E*) values ranged from 11 GPa (Well 5) to 78 GPa (Well 2). ([[2021-albensaad|Albensaad, 2021, p. 57]])
-- ultrasonic wave velocities for core samples were measured between 2329-3067 m/sec for shear waves and 4411-5876 m/sec for compressional waves. ([[2021-albensaad|Albensaad, 2021]])
-- page_number_not_specified_in_text_but_near_58 ([[2021-albensaad|Albensaad, 2021]])
+- Micro-rebound testing provided high-resolution mechanical profiles that outperformed log-based analyses due to the higher resolution of core data compared to sonic logs (3-4 ft vertical resolution). ([[2021-albensaad|Albensaad, 2021, p. 14]])
+- Scratch test UCS values showed good agreement with hardness-based UCS (micro-rebound) in several instances. ([[2021-albensaad|Albensaad, 2021, p. 14]])
+- Both hardness and mechanical log-based data show inverse relationships with increased Total Organic Content (TOC) and clay percentage. ([[2021-albensaad|Albensaad, 2021, p. 14]])
+- Hardness shows a strong positive relationship with reduced Young’s modulus, Vp, and calcite content from XRF; negative relationships are found with Al, Fe, Si, and S. ([[2021-albensaad|Albensaad, 2021, p. 52]])
+- Leeb hardness (HLD) values show an inverse relationship with spectral gamma ray (SGR) response in most wells. ([[2021-albensaad|Albensaad, 2021, p. 53]])
+- Static Young’s modulus (E) derived from HLD showed a range of 40-51 GPa across all wells. ([[2021-albensaad|Albensaad, 2021, p. 56]])
+- Ultrasonic wave velocities ranged from 2329 to 3067 m/sec for shear (Vs) and 4411 to 5876 m/sec for compressional (Vp). ([[2021-albensaad|Albensaad, 2021, p. 58]])
+- The highest correlation between mechanical properties was found between Leeb hardness and reduced Young’s modulus (R2 = 0.79). ([[2021-albensaad|Albensaad, 2021, p. 68]])
+- Petrophysical analysis showed that higher clay content results in lower rebound values, indicating weaker rock. ([[2021-albensaad|Albensaad, 2021, p. 35]])
+- PCA revealed that terrigenous minerals (illite, kaolinite) and elements like Al, Fe, Si, S are clustered together, while calcite is positioned in the opposite quadrant. ([[2021-albensaad|Albensaad, 2021, p. 79]])
+- Micro-rebound testing (MRT) provides a higher resolution of mechanical properties on an inch-scale compared to sonic logs, which have a resolution of 3-4 feet. ([[2021-albensaad|Albensaad, 2021, p. 97]])
+- Hardness is inversely correlated with TOC and clay content; specifically, higher SGR (indicating more clay/organic matter) correlates with lower hardness. ([[2021-albensaad|Albensaad, 2021, p. 98]])
+- Higher calcium content directly relates to increased HLD values in carbonate mudrocks, indicating that 'cleaner' limestone is more brittle and suitable for hydraulic fracturing. ([[2021-albensaad|Albensaad, 2021, p. 98]])
+- Scratch testing UCS results match the hardness-based UCS values derived from empirical equations (Lee et al., 2014; Morrell et. al., 2017). ([[2021-albensaad|Albensaad, 2021, p. 88]])
+- Core-based acoustic properties generally match log-based acoustic properties, though discrepancies in shear wave values are likely due to sample anisotropy. ([[2021-albensaad|Albensaad, 2021, p. 98]])
 
 ## Limitations
 
-The relationship between Leeb hardness and XRF calcium content showed poor R2 values, potentially due to calibration issues of the XRF instrument or its semi-quantitative nature. Additionally, scratch testing was noted to cause damage to samples, making it less ideal for high-volume data collection than non-destructive methods like MRT.
+The study notes that the correlation between Leeb hardness and hand-held XRF calcium compositions was poor (low R2), potentially due to calibration issues of the XRF instrument or its semi-quantitative nature. Additionally, scratch testing is noted as a destructive process.
 
 ## Recommendations and Future Work
 
-- Compare UCS and static Young's modulus from triaxial testing with values derived from impulse hammer tests to provide more validation.
-- Acquire lab-based acoustic properties under multiple confining pressures to calibrate dynamic and hardness-based mechanical properties.
-- Conduct anisotropy studies to examine the effect of anisotropy on acoustic properties.
+1) Compare UCS and static Young's modulus from triaxial testing with values derived from hardness/impulse hammer tests. 2) Acquire lab-based acoustic properties under multiple confining pressures to calibrate dynamic properties. 3) Conduct anisotropy studies to examine the effect of anisotropy on acoustic properties.
 
 ## Related Concepts
 
 - [[micro-rebound-testing]]
 - [[scratch-test]]
-- [[ultrasonic-wave-velocity-measurement]]
-- [[mechanical-stratigraphy]]
-- [[brittleness]]
-- [[saudi-arabia]]
-- [[unconfined-compressive-strength]]
-- [[carbonate-geology]]
 - [[xrf]]
-- [[well-log-analysis]]
-- [[impulse-hammer]]
 - [[xrd]]
-- [[porosity]]
-- [[youngs-modulus]]
-- [[poissons-ratio]]
-- [[scratch-testing]]
+- [[pca]]
+- [[mechanical-stratigraphy]]
 - [[petrophysics]]
+- [[eastern-province]]
+- [[hadrukh-formation]]
+- [[carbonate-geology]]
+- [[ultrasonic-wave-velocity]]
+- [[saudi-arabia]]

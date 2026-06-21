@@ -2,34 +2,39 @@
 type: technique
 title: "Spinning Drop"
 aliases:
-  - "spinning drop"
-  - "spin drop"
+  - "spinning drop method"
+  - "SDT"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "interfacial tension values"
+output: "equilibrium interfacial tension (IFT) values"
 tags:
   - technique/spinning-drop
   - theme/enhanced-oil-recovery
 sources:
   - "raw/142462 - PORE-SCALE INVESTIGATION OF IFT DYNAMICS FOR CHEMICAL EOR APPLICATIONS.pdf"
+  - "raw/9894 - Phase behavior and microemulsion studies on a Saudi Arabian crude..pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Spinning Drop
 
-**Summary**: A method used to measure the interfacial tension between two immiscible fluids.
+**Summary**: A technique to measure interfacial tension by observing the deformation of a droplet in a rotating fluid.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2023-ahmed|Ahmed, 2023]] used spinning drop to determine IFT of crude oil and surfactant systems.
+- [[2023-ahmed|Ahmed, 2023]] used spinning drop measurements to validate IFT values obtained from microfluidic experiments.
+
+- [[1987-fuseni|Fuseni, 1987]] used spinning-drop technique to measure IFT between oil, brine, and microemulsion phases.
 
 ## Instruments and Software
 
 
+
+- [[1987-fuseni|Fuseni, 1987]] used spinning-drop technique to measure IFT between oil, brine, and microemulsion phases.
 
 ## Typical Workflow
 
@@ -37,7 +42,9 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- IFT was measured for both crude oil and squalene systems using the spinning drop method. ([[2023-ahmed|Ahmed, 2023, p. 13]])
+- The spinning drop method showed 97% accuracy for 1.25% VES, but accuracy dropped significantly at lower concentrations. ([[2023-ahmed|Ahmed, 2023, p. 75]])
+
+- The spinning drop technique allowed for accurate measurement of IFT in systems where the middle phase was not easily penetrated by light. ([[1987-fuseni|Fuseni, 1987, p. 46]])
 
 ## Methodological Variations Across Sources
 

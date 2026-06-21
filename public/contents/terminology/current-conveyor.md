@@ -3,46 +3,45 @@ type: terminology
 title: "Current Conveyor"
 aliases:
   - "CCII"
-  - "CCI"
-  - "CCIII"
+  - "CCCII"
 canonical: true
-definition: "A three-terminal device with terminals X, Y, and Z where the current at X is proportional to the voltage at Y."
+definition: "A three-terminal device providing high bandwidth and wide dynamic range compared to standard operational amplifiers."
 units: "not applicable"
 related_techniques:
-  - "simulation"
+  - "circuit-simulation"
 tags:
   - theme/electrical-engineering
 sources:
   - "raw/9903 - Current conveyor-based universal filter and oscillator..pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Current Conveyor
 
-**Summary**: A three-terminal active circuit used for high-speed analog signal processing.
+**Summary**: A three-terminal device used for designing analog signal processing circuits with high bandwidth and wide dynamic range.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] utilized current conveyors (CCII) as the primary building block for oscillator and filter design.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] utilized current conveyors (CCII) to realize new active-RC, active-R, and active-C multiphase sinusoidal oscillators.
 
 ## Scientific Context
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] It serves as a high-performance alternative to traditional operational amplifier based circuits in signal processing.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Used as a building block for current-mode signal processing.
 
 ## Measurement and Characterization Methods
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Analyzed via circuit equations and simulation.
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Analyzed via transfer functions and simulation.
 
 ## Key Findings Across Sources
 
-- The CCII is preferred over first-generation models due to its ability to provide higher bandwidths and wider dynamic ranges. ([[1997-al-gahtani|Al-Gahtani, 1997, p. 25]])
+- The second-generation current conveyor (CCII) is used for designing filters and oscillators with fewer components than traditional op-amp designs. ([[1997-al-gahtani-2|Al-Gahtani, 1997, p. 22]])
+- [[1997-al-gahtani-2|Al-Gahtani, 1997]] Not specified.
 
 ## Contrasting Values and Interpretations
 
-- [[1997-al-gahtani|Al-Gahtani, 1997]] Parasitic resistance Rx is approximately 50 Ohms in the AD844.
 
 ## Open Questions and Research Gaps
 

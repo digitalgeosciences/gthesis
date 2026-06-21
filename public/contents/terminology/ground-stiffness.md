@@ -2,24 +2,23 @@
 type: terminology
 title: "Ground Stiffness"
 aliases:
-  - "Kg"
-  - "spring constant"
+  - "K_g"
 canonical: true
-definition: "A representation of the linear load-deformation relation of the ground material."
+definition: "A measure of the ground's resistance to deformation."
 units: "N/m"
 related_techniques:
-  - "well-log-analysis"
+  - "signal-processing"
 tags:
-  - theme/rock-physics
+  - theme/near-surface-geophysics
 sources:
   - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Ground Stiffness
 
-**Summary**: A measure of the ground's resistance to deformation, modeled as a spring constant in mechanical systems.
+**Summary**: A measure of the ground's resistance to deformation, used as a proxy for elastic properties.
 
 ---
 
@@ -29,19 +28,19 @@ last_updated: 2026-06-10
 
 ## Scientific Context
 
-- [[2002-al-ali|Al-Ali, 2002]] Used to characterize the mechanical response of the earth surface to vibrator input.
+- [[2002-al-ali|Al-Ali, 2002]] Used as a proxy for elastic properties in seismic survey analysis.
 
 ## Measurement and Characterization Methods
 
-- [[2002-al-ali|Al-Ali, 2002]] Calculated from baseplate and reaction mass accelerations.
+- [[2002-al-ali|Al-Ali, 2002]] Calculated from vibrator control system feedback.
 
 ## Key Findings Across Sources
 
-- Ground stiffness ($K_g$) is linked to $V_p$ and $V_s$ through density and Poisson's ratio. ([[2002-al-ali|Al-Ali, 2002, p. 41]])
+- Ground stiffness (Kg) was found to correlate with P-wave velocity when integrated into the calculation. ([[2002-al-ali|Al-Ali, 2002, p. 33]])
+
 
 ## Contrasting Values and Interpretations
 
-- [[2002-al-ali|Al-Ali, 2002]] Correlation coefficients higher than 0.6 up to 40m.
 
 ## Open Questions and Research Gaps
 

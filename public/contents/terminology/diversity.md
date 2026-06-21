@@ -3,51 +3,43 @@ type: terminology
 title: "Diversity"
 aliases:
   - "species richness"
-  - "biodiversity"
 canonical: true
-definition: "The variety and abundance of different species in a given area."
-units: "not applicable"
+definition: "Number of different species present."
+units: "count"
 related_techniques:
-  - "multivariate-analysis"
+  - "microscopy"
 tags:
   - theme/paleontology
 sources:
   - "raw/140273 - BENTHIC FORAMINIFERAL TAXONOMY, DISTRIBUTION AND ECOLOGY IN THE ARABIAN GULF.pdf"
-  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-16
 ---
 
 # Diversity
 
-**Summary**: The variety and abundance of different species in a given area.
+**Summary**: A measure of the number of different species in a given area.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2017-amao|Amao, 2017]] quantified foraminiferal diversity using indices like Shannon-Weaver and Fisher-alpha.
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] calculated diversity indices to quantify changes in the DWAF community across the K/Pg boundary.
+- [[2017-amao|Amao, 2017]] quantified foraminiferal diversity across various subenvironments.
 
 ## Scientific Context
 
-- [[2017-amao|Amao, 2017]] Used to assess the health and environmental impact on marine ecosystems.
-
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] calculated diversity indices to quantify changes in the DWAF community across the K/Pg boundary.
+- [[2017-amao|Amao, 2017]] Used to assess the health and complexity of an ecosystem.
 
 ## Measurement and Characterization Methods
 
-- [[2017-amao|Amao, 2017]] Calculated using Shannon-Weaver (H) and Fisher-alpha indices.
+- [[2017-amao|Amao, 2017]] Counted unique taxa per sample.
 
 ## Key Findings Across Sources
 
-- Diversity was found to be higher than previously reported by Cherif et al. (1997). ([[2017-amao|Amao, 2017, p. 105]])
+- The highest diversity (64 species) was found in the sheltered inner lagoon. ([[2017-amao|Amao, 2017, p. 120]])
 
-- Diversity decreased from 28 species in the lower section to 16 species just before the boundary. ([[2024-hikmahtiar|Hikmahtiar, 2024, p. 85]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

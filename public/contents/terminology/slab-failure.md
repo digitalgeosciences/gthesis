@@ -2,44 +2,46 @@
 type: terminology
 title: "Slab Failure"
 aliases:
-  - "slab failure magmatism"
+  - "slab failure"
+  - "slab break-off"
 canonical: true
-definition: "Magmatism occurring in the gap between a breaking slab and upwelling asthenosphere."
+definition: "The rupture of the subducting lithosphere leading to decompression melting of the mantle above the break."
 units: "not applicable"
 related_techniques:
-  - "icp-ms"
+  - "geochemistry"
+  - "stable-isotope-analysis"
 tags:
   - theme/igneous-metamorphic-petrology
 sources:
   - "raw/142980 - PETROGENESIS OF NORTHERN MIDYAN TERRANE GRANITOIDS, ARABIAN SHIELD CONSTRAINTS F.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Slab Failure
 
-**Summary**: Magma generation from the melting of a subducting slab.
+**Summary**: The breaking or tearing of a subducting slab, leading to decompression melting and magmatism.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-al-hakimi|Al-Hakimi, 2024]] identified slab failure as a source for some I-type granitoids.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] identified slab failure as the mechanism for post-collisional magmatism in the NW Midyan terrane.
 
 ## Scientific Context
 
-- [[2024-al-hakimi|Al-Hakimi, 2024]] Identifying non-arc magmatic events in the Arabian Shield.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] Distinguishing between arc-related magmatism and post-collisional events in the Arabian Shield.
 
 ## Measurement and Characterization Methods
 
-- [[2024-al-hakimi|Al-Hakimi, 2024]] Trace element ratio analysis.
+- [[2024-al-hakimi|Al-Hakimi, 2024]] Comparison of geochemical ratios (Sm/Yb, Nb/Y) against established models.
 
 ## Key Findings Across Sources
 
-- Supported by high Sm/Yb, Nb/Y, La/Yb, and Gd/Yb ratios. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 17]])
+- Enriched Sr-Nd isotope compositions and high Sm/Yb, Nb/Y, La/Yb, and Gd/Yb ratios indicate a slab failure origin. ([[2024-al-hakimi|Al-Hakimi, 2024, p. 17]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

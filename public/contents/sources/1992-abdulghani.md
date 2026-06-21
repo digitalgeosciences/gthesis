@@ -15,112 +15,88 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/9566/"
 study_area: "Uthmaniyah wells 587 and 628, Ghawar field, Eastern Province, Saudi Arabia"
 keywords:
   - Lithofacies
-  - Diagenetic study
+  - Diagenesis
   - Arab-D Limestone Member
   - Ghawar Oil Field
-  - Petroleum Geology
-  - Diagenesis
-  - Ghawar Field
-  - Jurassic
-  - Petrography
-  - microfacies analysis
+  - Petrology
+  - Microfacies
+  - Carbonate Reservoir
+  - lithofacies analysis
+  - diagenetic study
   - porosity
-  - petrology
-  - Arab-D Member
-  - Late Jurassic
 techniques:
-  - polarizing-microscopy
-  - fluorescence-microscopy
-  - sem
-  - pore-casts-analysis
   - thin-section-petrography
+  - sem
   - pore-casts
   - well-log-analysis
+  - core-analysis
 tags:
   - degree/ms
   - formation/arab-d-reservoir
   - location/ghawar-field
   - location/uthmaniyah-area
-  - location/eastern-province
-  - technique/sem
   - technique/thin-section-petrography
+  - technique/sem
+  - technique/pore-casts
   - technique/well-log-analysis
+  - technique/core-analysis
   - theme/carbonate-geology
-  - theme/diagenesis
   - theme/petrophysics
-  - theme/lithostratigraphy
-  - theme/sedimentology
-  - theme/microfacies-analysis
   - terminology/diagenesis
-  - terminology/lithofacies
-  - terminology/micrite
+  - terminology/facies-analysis
   - terminology/porosity
+  - terminology/microfacies-analysis
 status: ingested
 ---
 
 # Lithofacies and diagenetic study of the Uthmaniyah Arab-D limestone member (Ghawar oil field)
 
-**Summary**: The thesis investigates the lithofacies and diagenetic history of the Arab-D Limestone Member in the Uthmaniyah area of the Ghawar Field. Using 193 thin sections from two wells (587 and 628), it identifies six sub-member units and evaluates how processes like dolomitization, dissolution, and cementation affected reservoir porosity.
+**Summary**: The thesis investigates the lithofacies and diagenetic evolution of the Arab-D Limestone member in the Ghawar field, specifically within Uthmaniyah wells 587 and 628. Through thin-section petrography and SEM analysis of 193 samples, it identifies six distinct lithological units and two primary microfacies to characterize reservoir quality and depositional environments.
 
 ---
 
 ## Research Problem
 
-The study addresses the need to understand the lithofacies characteristics and diagenetic history of the Arab-D Limestone Member (Late Jurassic) in the Uthmaniyah area of the Ghawar Field to determine how these factors influenced its role as a major hydrocarbon reservoir.
+Characterizing the complex lithofacies and diagenetic impacts on porosity and permeability in the Arab-D Limestone member within the Ghawar field (specifically Uthmaniyah wells 587 and 628) to understand its role as a significant reservoir unit.
 
 ## Objectives
 
-- Perform a stratigraphical and microfacies analysis for the Late Jurassic Arab-D Limestone Member in the Uthmaniyah area of the Ghawar Oil Field.
-- Interpret paleo-environmental conditions of deposition and the age of the succession using litho- and biofacies characteristics.
-- Evaluate diagenetic changes to understand the enhancement or degradation of porosity in the Arab-D Limestone Member.
-- Perform a detailed lithofacies analysis of the Arab-D Limestone Member using thin sections and SEM.
-- Conduct a diagenetic study of the succession to identify primary and secondary porosity-altering processes.
-- Correlate well logs with core descriptions to define sub-member units.
-- Evaluate the relationship between original sedimentary textures (e.g., calcarenite vs. lime-mud) and reservoir properties.
-- Perform a detailed lithofacies analysis of the Arab-D limestone member.
-- Conduct a diagenetic study of the succession in the Uthmaniyah wells 587 and 628.
-- Correlate units between the two wells using core descriptions, well logs, and thin section analysis.
-- Perform lithofacies analysis of the Arab-D Limestone member using core samples and well logs.
-- Conduct microfacies analysis to determine paleoenvironmental conditions and age.
-- Identify and quantify diagenetic processes (cementation, micritization, dolomitization, dissolution) affecting reservoir quality.
-- Correlate lithological units across the Uthmaniyah wells 587 and 628.
-- Perform a detailed litho- and biofacies analysis of the Arab-D Limestone member.
-- Conduct a comprehensive diagenetic study of the succession.
-- Identify and correlate sub-member units within the Arab-D formation using core descriptions, well logs, and thin section analysis.
-- Perform lithofacies analysis on 193 thin sections of the Arab-D member
-- Conduct a detailed diagenetic study of the succession
-- Correlate units between Uthmaniyah wells 587 and 628 using core descriptions and well logs
-- Identify sub-member divisions within the Arab-D limestone
+- Perform a stratigraphical and microfacies analysis of the Late Jurassic Arab-D Limestone Member.
+- Interpret paleo-environmental conditions of deposition based on litho- and biofacies characteristics.
+- Evaluate diagenetic changes to understand the enhancement or degradation of porosity in the reservoir.
+- Perform lithological analysis of the Arab-D Limestone Member to identify distinct units and sub-units.
+- Conduct microfacies analysis to determine depositional environments and age.
+- Evaluate diagenetic processes (cementation, micritization, dolomitization, dissolution) and their impact on reservoir properties.
 
 ## Methods
 
-The study utilized 193 thin sections prepared from cores of wells U. 587 and 628. Analysis included: 1) Polarizing and fluorescence microscopy to identify minerals, textures, and pore systems; 2) Scanning Electron Microscopy (SEM) for high-resolution imaging of mineralogy and micro-porosity; 3) Pore cast analysis using epoxy impregnation followed by hydrochloric acid etching to create 3D models of the pore system.
+The study utilized core analysis from two wells (UTMN-587 and UTMN-628). A total of 193 thin sections were prepared for petrographic analysis. Well log analysis, specifically the Formation Density Compensated and Compensated Neutron Log (FDC-CNL) cross-plot technique, was used to correlate lithology with porosity. Scanning Electron Microscopy (SEM) was employed to analyze microfacies and characterize pore types including interparticle, intraparticle, vuggy, and intercrystalline porosities.
 
 ## Data and Materials
 
-193 thin sections from two wells (U. 587 and U. 628) in the Uthmaniyah area, Ghawar field; well logs for correlation; core descriptions for lithological comparison.
+193 thin sections from 2 wells (UTMN-587 and UTMN-628) in the Ghawar field; core samples for lithology and diagenesis study; well logs including FDC-CNL cross-plots.
 
 ## Key Findings
 
-- The succession is divisible into six units that are worthy of sub-member rank. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+- The Arab-D Limestone Member is divisible into six units that are worthy of sub-member rank. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
 - Two distinct microfacies were identified to interpret both the age and paleoenvironmental conditions of deposition. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
-- A rich assemblage of fossils including Textulariid, Miliolid, and Rotaliid (Foraminifrida), as well as bryozoan, algal, and coralline remains were recorded. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
-- The presence of Kurnubia spp., Nautiloculina spp., Pfendrina spp., Pseudocyclammina spp., Bramkampella spp., and Clypeina jurassica suggests a Kimmeridgian-Tithonian age. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
 - The succession represents a shallowing upward carbonate cycle moving from open lagoons (at the base) to a shallow shelf lagoon in straits and bays behind the outer platform edge (at the top). ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
-- Diagenetic changes are limited to cementation, micritization, dolomitization, and dissolution. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
-- Cementation and micritization were identified as pore-reducing processes, while dissolution and dolomitization were pore-enlarging processes. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
-- The Arab-D Limestone Member is divisible into six units that are worthy of sub-member rank based on lithology and porosity log patterns. ([[1992-abdulghani|Abdulghani, 1992, p. 30]])
-- The member contains the largest reserves of petroleum in the world, specifically within the Arab-D Calcarenite. ([[1992-abdulghani|Abdulghani, 1992, p. 29]])
-- Average porosity for the productive zone at Uthmaniyah is approximately 22%. ([[1992-abdulghani|Abdulghani, 1992, p. 38]])
-- thickness of the producing zone in Uthmaniyah is roughly constant at about 142 ft. ([[1992-abdulghani|Abdulghani, 1992]])
-- page_number_not_found ([[1992-abdulghani|Abdulghani, 1992]])
-- The Arab-D limestone member is divisible into six units that are worthy of sub-member rank. ([[1992-abdulghani|Abdulghani, 1992, p. 1]])
-- The Jurassic succession in Arabia is a major sedimentary carbonate megacycle ranging from low energy deep-water mudstones to high-energy shallow-water grainstones. ([[1992-abdulghani|Abdulghani, 1992, p. 54]])
-- The Marrat Formation was deposited during the Late Liassic Toarcian transgression under very shallow marine conditions. ([[1992-abdulghani|Abdulghani, 1992, p. 62]])
+- Main diagenetic changes are limited to cementation, micritization, dolomitization, and dissolution. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+- Cementation and micritization are identified as pore-reducing processes, while dissolution and dolomitization are pore-enlarging processes. ([[1992-abdulghani|Abdulghani, 1992, p. 18]])
+- The Arab-D Limestone Member contains average porosity of more than 22% in the Uthmaniyah area. ([[1992-abdulghani|Abdulghani, 1992, p. 38]])
+- High oil productivity is generally associated with calcarenites; dolomite shows high permeability but is often tight. ([[1992-abdulghani|Abdulghani, 1992, p. 40]])
+- The top of the Arab-D Limestone Member is marked by a sharp flooding surface and characterized by subtidal to intertidal/supratidal carbonates with sabkha evaporites. ([[1992-abdulghani|Abdulghani, 1992, p. 31]])
+- Unit 2A is identified as the best reservoir interval of the Arab-D Limestone Member, with an average porosity exceeding 25%. ([[1992-abdulghani|Abdulghani, 1992, p. 91]])
+- The Nautiloculina/Kurnubia Grainstone Microfacies (upper part) has a total porosity of 20-30%, reduced by lime mud filling, drusy cementation, and dolomitization. ([[1992-abdulghani|Abdulghani, 1992, p. 110]])
+- Unit 2B is a good reservoir interval with an average porosity of approximately 20%. ([[1992-abdulghani|Abdulghani, 1992, p. 92]])
+- unit_3b_porosity_reduction ([[1992-abdulghani|Abdulghani, 1992]])
+- Unit 3B consists of tight limestones with an average porosity of only 5% to 14% in a single 5-foot streak. ([[1992-abdulghani|Abdulghani, 1992, p. 93]])
+- Dolomitization in mudstone/wackestone facies increased the porosity, while it decreased it in grainstone facies. ([[1992-abdulghani|Abdulghani, 1992, p. 83]])
+- The Pseudocyclammina/Kurnubia Dolomitic Wackestone/Packstone Microfacies is characterized by high dolomitization and a variety of pore types including intercrystalline, fracture, and fenestral porosities. ([[1992-abdulghani|Abdulghani, 1992, p. 105]])
 
 ## Limitations
 
-Extensive solution of anhydrite beds led to significant slumping and brecciation, making it difficult to identify the full extent of the Arab-D Member in surface outcrops.
+Not stated in source
 
 ## Recommendations and Future Work
 
@@ -128,13 +104,14 @@ Not stated in source
 
 ## Related Concepts
 
-- [[sem]]
 - [[thin-section-petrography]]
+- [[sem]]
+- [[pore-casts]]
 - [[arab-d-reservoir]]
 - [[ghawar-field]]
 - [[diagenesis]]
+- [[facies-analysis]]
 - [[carbonate-geology]]
-- [[lithofacies]]
-- [[well-log-analysis]]
-- [[micrite]]
+- [[petrophysics]]
 - [[porosity]]
+- [[microfacies-analysis]]

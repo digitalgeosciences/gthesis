@@ -2,45 +2,44 @@
 type: terminology
 title: "Lherzolite"
 aliases:
-  - "spl lhrz"
+  - "spinel lherzolite"
 canonical: true
-definition: "An ultramafic rock containing >40% olivine and >45% total pyroxene."
+definition: "A mantle peridotite with high clinopyroxene content."
 units: "not applicable"
 related_techniques:
-  - "xrd"
-  - "thin-section-petrography"
+  - "mineral-chemistry"
 tags:
-  - theme/mineralogy
+  - theme/igneous-metamorphic-petrology
 sources:
   - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Lherzolite
 
-**Summary**: A type of ultramafic rock dominated by olivine and clinopyroxene.
+**Summary**: A mantle peridotite rich in clinopyroxene.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-iskandar|Iskandar, 2023]] identified the majority of samples as lherzolites based on mineral proportions.
+- [[2023-iskandar|Iskandar, 2023]] identified several samples as spinel lherzolites.
 
 ## Scientific Context
 
-- [[2023-iskandar|Iskandar, 2023]] Used to classify the mantle lithology of the xenoliths.
+- [[2023-iskandar|Iskandar, 2023]] Used to distinguish between fertile and refractory mantle.
 
 ## Measurement and Characterization Methods
 
-- [[2023-iskandar|Iskandar, 2023]] determined via modal mineralogy and CIPW normative calculations.
+- [[2023-iskandar|Iskandar, 2023]] Based on mineral chemistry (Mg# and Cr#).
 
 ## Key Findings Across Sources
 
-- The majority of samples are in accordance to the general findings of peridotites located in western Arabian peridotites which are lherzolites. ([[2023-iskandar|Iskandar, 2023, p. 63]])
+- Lherzolites were found to be less depleted than harzburgites. ([[2023-iskandar|Iskandar, 2023, p. 90]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -12,128 +12,107 @@ committee_members:
   - "Baqer Al-Ramadan"
 source_file: "raw/139874 - GIS application and Environmental Factors for Mosquito Control in Eastern Provin.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139874/"
-study_area: "Eastern Province, Saudi Arabia (including Abu Main, Umm As Sahik, Safwa, Al-Awjam, Dammam, Al-Qatif and its surrounding area, Buqayq and Al-Sarar)"
+study_area: "Eastern Province, Saudi Arabia"
 keywords:
-  - GIS
+  - GIS application
   - Environmental Factors
   - Mosquito Control
-  - Larval Breeding Sites
-  - Climatic Factors
-  - GIS application
-  - Saudi Arabia
-  - breeding sites
-  - larvae breeding sites
-  - spatial distribution
+  - Larvae breeding sites
+  - Climate factors
   - Eastern Province
+  - Saudi Arabia
+  - larval and adult mosquito abundance
+  - climatic factors
 techniques:
   - gis
   - gps
   - ibm-spss
+  - microscopy
   - multivariate-regression
   - bivariate-analysis
-  - spss
-  - epi-info
+  - descriptive-analysis
 tags:
   - degree/ms
   - location/eastern-province
   - location/saudi-arabia
-  - location/tarout-island
   - technique/gis
   - technique/gps
+  - technique/statistical-analysis
+  - technique/multi-variate-analysis
   - theme/environmental-geoscience
   - theme/environmental-monitoring
-  - terminology/environmental-geoscience
-  - terminology/environmental-geology
-  - terminology/environmental-monitoring
-  - terminology/breeding-sites
   - terminology/mosquito-control
+  - terminology/environmental-risk-assessment
+  - terminology/environmental-geoscience
 status: ingested
 ---
 
 # GIS application and Environmental Factors for Mosquito Control in Eastern Province, Saudi Arabia
 
-**Summary**: The thesis investigated the relationship between mosquito abundance and environmental/climatic factors (temperature, relative humidity, and rainfall) in the Eastern Province of Saudi Arabia. It utilized GIS and GPS to map breeding sites and concluded that climatic factors significantly influence larval and adult populations, while GIS provides a critical tool for monitoring and planning control measures.
+**Summary**: The thesis investigated the relationship between mosquito abundance and environmental/climatic factors (temperature, relative humidity, and rainfall) in the Eastern Province of Saudi Arabia. It utilized GIS and GPS to map breeding sites and concluded that climatic factors significantly influence mosquito life cycles, while GIS provides a critical tool for planning and managing mosquito control programs.
 
 ---
 
 ## Research Problem
 
-Mosquito-borne diseases (MBDs) pose a significant public health threat due to their transmission of various pathogens. While environmental factors like temperature, humidity, and rainfall significantly influence mosquito development and survival, there was no specific study investigating these relationships within the Eastern Province of Saudi Arabia, nor was there an established GIS database for mapping breeding sites in that region.
+The high prevalence of mosquito-borne diseases (MBDs) in the Eastern Province is driven by inadequate mosquito control policies and environmental conditions. There is a need to understand how climatic factors (temperature, humidity, rainfall) and land use impact mosquito distribution to improve management strategies.
 
 ## Objectives
 
-- Map mosquito larvae breeding sites using GIS application
-- Determine the effect of environmental/climatic factors (temperature, relative humidity, and rainfall) on mosquito distribution and abundance in Eastern Province, Saudi Syria.
-- Determine the correlation between climatic factors (temperature, rainfall and relative humidity) and larval and adult mosquito abundance
+- To analyze the relationship between mosquito abundance and climatic factors (temperature, relative humidity, and rainfall) using statistical methods.
 - Identify and map potential hotspots suitable for mosquito larvae breeding
 - Develop risk maps for mosquito control
-- Map the spatial distribution of mosquito larvae and adult mosquitoes in the Eastern Province.
-- Identify potential breeding sites for mosquito larvae.
-- Determine the correlation between environmental/climatic factors (temperature, relative humidity, and rainfall) and mosquito abundance.
-- Develop a risk map to identify high-risk areas for mosquito-borne diseases.
-- Assess the spatial abundance of larval and adult mosquitoes across various sites in the Eastern Province.
-- Analyze the relationship between climatic factors (temperature, humidity, rainfall) and mosquito populations.
-- Identify specific breeding sites and risk areas for mosquito control.
-- Assess the impact of temperature on mosquito larvae and adult populations.
-- Evaluate the influence of relative humidity on mosquito abundance.
-- Determine the correlation between rainfall/precipitation and mosquito breeding sites.
-- Identify specific environmental factors (vegetation, waste, water quality) affecting larval distribution.
-- Determine the relationship between mosquito abundance and climatic factors (temperature, relative humidity, and rainfall).
-- Identify potential hotspots of larvae breeding sites using detailed mapping.
-- Evaluate the role of GIS in improving mosquito control activities.
-- To evaluate the role of GIS in mosquito control
-- To identify environmental factors influencing mosquito breeding and distribution
-- To map potential breeding sites in the Eastern Province
-- To evaluate the impact of environmental factors on mosquito breeding in the Eastern Province.
-- To utilize GIS applications for mapping and managing mosquito control efforts.
+- To assess the spatial and seasonal distribution and abundance of larval and adult mosquitoes in various sites within the Eastern Province.
+- To identify suitable breeding habitats for mosquito larvae based on environmental conditions.
+- Identify potential hotspots of larval breeding sites using GIS mapping.
 
 ## Methods
 
-The study utilized primary data collected from field observations in 8 locations in the Eastern Province. Field data included breeding site characteristics (water surface area, vegetation, debris types) and coordinates recorded via GPS (Garmin Model Nuvi 50). Secondary data for climatic factors (temperature, humidity, rainfall) were obtained from the Presidency of Meteorology and Environment. GIS analysis was performed using ArcGIS to create maps of breeding sites and risk zones based on buffer distances (1, 3, and 5 km). Statistical analysis, including bivariate and multivariate regression, was conducted using IBM SPSS v20.0 to determine the relationship between mosquito abundance and climatic factors.
+The study used a combination of primary field data and secondary environmental data. Field data included spatial coordinates (GPS), water body dimensions, vegetation presence, and debris types at 322 breeding sites. Secondary data included larval/adult counts from the Ministry of Health and climatic data from the Presidency of Meteorology and Environment. Data analysis was performed using IBM SPSS to determine correlations between mosquito abundance and climate factors. GIS (ArcMap) was used to create thematic maps, identify hotspots, and generate buffer zones for risk mapping.
 
 ## Data and Materials
 
-Meteorological data for 12 months (2014) including temperature (min/max), relative humidity (%), and precipitation (mm). Data collected from multiple sites: Abu Main, Umm As Sahik, Safwa, Al-Awjam, Dammam, Al-Qatif, Buqayq, and Al-Sarar. Sample counts for larvae and adult mosquitoes across various species (Culex, Anopheles, Aedes) were recorded.
+322 larval breeding sites assessed across 8 locations (Abu Main, Umm As Sahik, Safwa, Al-Awjam, Dammam, Al-Qatif, Buqayq, and Al-Sarar). Data included counts of 31,041 mosquito larvae and 2,036 adult mosquitoes collected over one year in 2014. Climate data (temperature, RH, rainfall) were obtained for the same period.
 
 ## Key Findings
 
-- High numbers of larval and adult mosquitoes were collected at temperatures ranging from 16.4°C to 27.7°C for larvae and 15°C to 27.7°C for adults. ([[2016-yasin|Yasin, 2016, p. 16]])
+- Out of 322 assessed sites, 206 (64.0%) were found positive with mosquito larvae. ([[2016-yasin|Yasin, 2016, p. 44]])
+- A total of 31,041 mosquito larvae and 2,036 adult mosquitoes were collected during a year period in 2014. ([[2016-yasin|Yasin, 2016, p. 16]])
+- High numbers of larval and adult mosquitoes were collected at temperatures ranging from 16.4°C to 27.7°C (larvae) and 15°C to 27.7°C (adults). ([[2016-yasin|Yasin, 2016, p. 16]])
 - Bivariate analysis showed a strong negative correlation between mosquito abundance and temperature, a strong positive correlation with relative humidity, and a moderate positive correlation with rainfall. ([[2016-yasin|Yasin, 2016, p. 16]])
-- Regression analysis indicated that the three climatic factors (temperature, RH, and rainfall) accounted for 64.3% (R² = 0.643) of the variance in larval abundance and 84.5% (R² = 0.845) of the variance in adult mosquito abundance. ([[2016-yasin|Yasin, 2016, p. 16]])
-- Factors such as floating and terrestrial vegetation, waste debris, extensive irrigation activities, and poor environmental sanitation also contribute to the wide distribution of mosquitoes. ([[2016-yasin|Yasin, 2016, p. 16]])
-- Temperature influences the development time from egg to adult (including juvenile growth and gonotrophic cycle duration) and affects the extrinsic incubation period of parasites. ([[2016-yasin|Yasin, 2016, p. 16]])
-- Rainfall significantly impacts mosquito populations; persistent/excessive rainfall creates breeding sites, while heavy rainfall can occasionally flush larvae from small sites or lower temperatures. ([[2016-yasin|Yasin, 2016, p. 15]])
-- Humidity influences the survival of adult mosquitoes, their feeding frequency, and metabolic rate; higher humidity leads to more eggs laid and a higher probability of disease transmission. ([[2016-yasin|Yasin, 2016, p. 16]])
-- In the Eastern Province, 25 species representing five genera (Anopheles, Culex, Aedes, Culiseta, and Uranotaenia) were previously recorded by Alahmed (2012). ([[2016-yasin|Yasin, 2016, p. 14]])
-- The study identifies that high precipitation increases the number of larval habitats and mosquito population size by creating new breeding sites. ([[2016-yasin|Yasin, 2016, p. 15]])
-- A total of 31,041 mosquito larvae were collected, with Culex being the most abundant (20,345; 65.54%), followed by Aedes (5,641; 18.17%) and Anopheles (5,055; 16.28%). ([[2016-yasin|Yasin, 2016, p. 38]])
-- Of the 2,036 adult mosquitoes collected, Culex was the most abundant (1,528; 75.05%), followed by Anopheles (508; 24.95%). No adult Aedes were captured during the study period. ([[2016-yasin|Yasin, 2016, p. 38]])
-- Culex larvae were found highly distributed across all studied sites, while Anopheles larvae were not collected from the Dammam area. ([[2016-yasin|Yasin, 2016, p. 38]])
-- Out of 322 assessed breeding sites, only 206 (64.0%) were found positive for mosquito larvae. ([[2016-yasin|Yasin, 2016, p. 34]])
-- The study identified several environmental factors influencing abundance: temperature, relative humidity, precipitation, presence of palm gardens/vegetation, salt marshes, and irrigation ditches. ([[2016-yasin|Yasin, 2016, p. 34]])
-- Adult mosquito species were found to fly within a range of 1-3 km, with some reaching up to 5 km, justifying the use of 1, 3, and 5 km buffer zones for risk mapping. ([[2016-yasin|Yasin, 2016, p. 40]])
+- Regression analysis indicated that temperature, RH, and rainfall accounted for 64.3% (R2 = 0.643) of the variance in larval abundance and 84.5% (R2 = 0.845) of the variance in adult mosquito abundance. ([[2016-yasin|Yasin, 2016, p. 16]])
+- Factors such as floating/terrestrial vegetation, waste debris, extensive irrigation, and poor sanitation also contributed to wide distribution of mosquitoes. ([[2016-yasin|Yasin, 2016, p. 16]])
+- Culex was the most abundant larval type, accounting for 65.54% (20,345) of total larvae collected. ([[2016-yasin|Yasin, 2016, p. 55]])
+- Of the adult mosquitoes, Culex accounted for 75.05% (1,528), while Anopheles accounted for 24.95% (508); no adult Aedes were captured. ([[2016-yasin|Yasin, 2016, p. 56]])
+- A buffer zone of 1, 3, and 5 km was used to define mosquito risk areas based on the flying distance of adults. ([[2016-yasin|Yasin, 2016, p. 57]])
+- In Abu Main, larval abundance showed a strong negative correlation with temperature (-0.941) and a strong positive correlation with relative humidity (0.798). ([[2016-yasin|Yasin, 2016, p. 96]])
+- The three climatic factors (temperature, RH, and rainfall) accounted for 64.3% (R2 = 0.643) of the variance in mosquito larvae abundance in the Eastern Province. ([[2016-yasin|Yasin, 2016, p. 95]])
+- For adult mosquitoes, the three climatic factors explained 84.5% (R2 = 0.845) of the variance in their abundance across the study area. ([[2016-yasin|Yasin, 2016, p. 98]])
+- Temperatures between 16.4°C and 27.7°C were found to be suitable for larval production, while 15°C to 27.7°C favored adult mosquito abundance. ([[2016-yasin|Yasin, 2016, p. 105]])
+- High relative humidity (up to 69%) was significantly associated with increased mosquito abundance in the study area. ([[2016-yasin|Yasin, 2016, p. 105]])
+- Larval abundance showed a strong negative correlation with temperature but positive correlations with relative humidity (0.798, 0.673, and 0.589 in specific areas) and moderate to low positive correlation with rainfall. ([[2016-yasin|Yasin, 2016, p. 108]])
 
 ## Limitations
 
-The study noted that some mosquito types (e.g., Aedes) were only found as larvae, potentially due to differences in adult behavior such as indoor feeding and resting habits which keep them away from outdoor traps.
+The study notes that some species were only found in larval stages because adult behavior (e.g., being indoor feeders) may prevent them from being captured by external traps.
 
 ## Recommendations and Future Work
 
-- Mosquito control programs should be supported by GIS application to improve routine activities.
-- Proper drainage of water from ditches and filling/avoiding stagnant waters is required.
-- Improve environmental sanitation, waste disposal, and sewer line maintenance.
-- Establish inter-sectoral collaboration between the ministry of agriculture and ministry of health regarding irrigation systems.
-- Increase public awareness about mosquito-borne diseases (MBDs) and prevention methods.
-- Conduct further studies on the effect of irrigation systems on spatial/temporal distribution and use remote sensing for predictive modeling.
+- Support mosquito control programs with GIS applications for better routine monitoring.
+- Improve drainage of ditches and eliminate stagnant water sources.
+- Enhance waste management and infrastructure maintenance (sewer lines).
+- Establish inter-sectoral collaboration between the Ministry of Agriculture and Ministry of Health regarding irrigation practices.
+- Increase public awareness about mosquito-borne diseases and prevention methods.
+- Conduct further studies on the impact of specific irrigation systems and soil types/vegetation using GIS and remote sensing.
 
 ## Related Concepts
 
 - [[gis]]
-- [[gps]]
-- [[environmental-geoscience]]
+- [[statistical-analysis]]
+- [[mosquito-control]]
+- [[environmental-risk-assessment]]
 - [[eastern-province]]
 - [[environmental-monitoring]]
-- [[environmental-geology]]
-- [[multivariate-regression]]
-- [[breeding-sites]]
-- [[mosquito-control]]
+- [[multi-variate-analysis]]
+- [[environmental-geoscience]]
+- [[gps]]

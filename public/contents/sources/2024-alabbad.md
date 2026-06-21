@@ -14,199 +14,140 @@ committee_members:
   - "Israa Abu mahfouz"
 source_file: "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142745/"
-study_area: "Offshore oil chalk field and an onshore carbonate field located thousands of miles away."
+study_area: "Middle East (including offshore carbonate fields and an organic-rich mudrock formation)"
 keywords:
-  - Rock physics
-  - Seismic interpretation
-  - Carbonate reservoirs
-  - Organic-rich shale
-  - Digital rock physics
   - Quantitative seismic interpretation
-  - Porosity
-  - Kerogen content
-  - Quantitative seismic interpretation (QSI)
   - rock physics modeling
-  - petrophysical properties
   - clastic reservoirs
-  - Pore fluid
-  - Elastic-wave velocity
-  - Impedance
-  - Petrophysics
-  - Water Saturation
-  - Carbonate Reservoir
-  - Clastic Reservoir
-  - Rock physics model
-  - Organic-rich mudrock
-  - P-wave impedance
-  - S-wave impedance
-  - Mineralogy
-  - rock physics models
+  - carbonate reservoirs
+  - organic-rich shale
+  - digital rock physics
+  - fluid substitution
+  - porosity
   - lithology
+  - pore fluid
+  - Rock Physics
+  - Seismic Interpretation
+  - Reservoir Characterization
+  - Carbonate Reservoir
+  - Petrophysics
+  - Acoustic Impedance
+  - Shear Impedance
+  - Quantitative seismic interpretation (QSI)
+  - rock physics model
+  - petrophysical properties
+  - digital rock physics (DRP)
+  - kerogen content
+  - specific surface area
+  - seismic-scale
 techniques:
-  - well-log-analysis
-  - seismic-interpretation
-  - petrophysics
-  - core-analysis
-  - rock-physics-modeling
+  - gassmanns-1951-fluid-substitution
+  - stiff-rock-model
+  - constant-cement-model
+  - contact-cement-model
+  - backus-averaging
   - digital-rock-physics
   - fib-sem
-  - fluid-substitution
-  - velocity-modeling
-  - fibration-scanning-electron-microscopy
-  - gasmann-modeling
-  - formation-evaluation
-  - xrd
-  - sem
-  - sem-eds
-  - qemscan
-  - thin-section-petrography
-  - ct-scanning
-  - rock-eval-pyrolysis
-  - seismic-inversion
-  - petrel
-  - matlab
-  - qsi
-  - drp
-  - nmr
+  - well-log-analysis
+  - seismic-interpretation
+  - rock-physics-modeling
+  - petrophysics
+  - core-analysis
+  - lithology-analysis
   - fft
-  - x-ray-microcomputed-tomography
+  - nmr
+  - microscopy
+  - image-processing
 tags:
   - degree/phd
-  - location/middle-east
+  - formation/notapplicable
   - location/saudi-arabia
   - location/middle-east-region
+  - technique/rock-physics-modeling
   - technique/well-log-analysis
   - technique/seismic-interpretation
-  - technique/petrophysics
-  - technique/core-analysis
-  - technique/rock-physics-modeling
   - technique/digital-rock-physics
-  - technique/fib-sem
-  - technique/fluid-substitution
-  - technique/velocity-modeling
-  - technique/sem
-  - technique/gasmann-modeling
-  - technique/formation-evaluation
+  - technique/petrophysics
   - technique/xrd
-  - technique/sem-eds
-  - technique/qemscan
-  - technique/thin-section-petrography
-  - technique/ct-scanning
-  - technique/rock-eval-pyrolysis
-  - technique/seismic-inversion
-  - technique/petrel
-  - technique/matlab
-  - technique/qsi
-  - technique/drp
-  - technique/sem-ed
-  - technique/nmr
+  - technique/sem
   - theme/petrophysics
-  - theme/rock-physics
-  - theme/carbonate-geology
   - theme/unconventional-resources
+  - terminology/acoustic-impedance
   - terminology/porosity
-  - terminology/rock-physics-model
-  - terminology/rock-physics-bottleneck
+  - terminology/velocity-modeling
   - terminology/petrophysics
-  - terminology/diagenesis
-  - terminology/kerogen
+  - terminology/rock-physics-bottleneck
   - terminology/specific-surface-area
+  - terminology/kerogen-porosity-maturity
 status: ingested
 ---
 
 # Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Characterization: Conventionals and Organic-Rich Shale
 
-**Summary**: The thesis investigates quantitative seismic interpretation (QSI) to estimate petrophysical properties like lithology, pore fluid, and porosity from seismic impedance volumes. It develops rock physics models for clastic, carbonate, and organic-rich shale reservoirs by addressing challenges such as the 'rock physics bottleneck' and scale differences between log and seismic data.
+**Summary**: The thesis investigates the use of rock physics modeling and digital rock physics (DRP) to interpret petrophysical properties like porosity, kerogen content, and mineralogy in both conventional carbonate reservoirs and organic-rich shales. It develops a deterministic workflow to bridge the gap between wireline-scale data and seismic-scale interpretation by using simplified mineralogical models and upscaling techniques.
 
 ---
 
 ## Research Problem
 
-The difficulty of accurately quantifying petrophysical properties (lithology, pore fluid, and porosity) from seismically derived impedance volumes due to the complexity of carbonate pore networks and the 'rock physics bottleneck' where few elastic outputs depend on multiple geological inputs.
+The challenge of accurately interpreting petrophysical properties (porosity, kerogen, lithology) from limited seismic-derived elastic volumes (Ip, Is), especially in complex environments like organic-rich shales where high numbers of variables exist but only a few measurements are available.
 
 ## Objectives
 
-- Evaluate the impact of mineralogy and pore geometry on elastic properties in carbonate rocks.
-- Develop a workflow for quantitative seismic interpretation (QSI) in conventional carbonate reservoirs.
-- Establish a rock physics modeling and QSI workflow for organic-rich mudrocks to account for kerogen content.
-- Utilize digital rock physics to characterize the relationship between kerogen, porosity, and specific surface area.
-- Establish quantitative theoretical rock physics relations between the elastic properties of rock and its volumetric petrophysical properties for conventional and unconventional reservoirs.
-- Develop a robust theoretical tool to quantitatively interpret seismically-derived volumes such as impedance and Poisson’s ratio.
-- Determine if theoretical rock physics modeling can accurately predict the elastic properties of complex organic-rich reservoirs.
-- Evaluate if rock physics-based seismic interpretation workflows can be applied to low-porosity reservoirs with complex mineralogy.
-- Assess how pore-scale properties, including pore structure and connectivity and kerogen connectivity, affect the elastic properties of unconventional reservoirs.
-- Develop a hybrid rock physics model incorporating tortuosity to address carbonate pore geometry complexities.
-- Evaluate the impact of pore fluid on elastic properties in chalk deposits.
-- Establish a deterministic rock physics model for carbonate rocks that can be used for 'what-if' scenarios like lithology and fluid substitution.
-- Demonstrate the universality of diagenetic trends across different geographic locations.
-- Develop a rock physics model to translate well-scale petrophysical data into seismic-scale parameters.
-- Evaluate the impact of scale differences between wireline logs and seismic data on interpretation accuracy.
-- Demonstrate the ability to resolve multiple unknowns (porosity, clay content, water saturation) using limited elastic inputs by incorporating geological constraints.
-- Validate the workflow in both carbonate and clastic reservoir environments.
-- Develop a rock physics model to accurately estimate the elastic properties of an organic-rich mudrock formation.
-- Identify inter-relationships between petrophysical properties to simplify the interpretation of seismic data.
-- Validate the proposed deterministic workflow using wireline and seismic-scale data.
-- Develop a rock physics model to estimate petrophysical properties from seismic-scale elastic volumes.
-- Establish internal relations between mineral components to reduce the number of required input parameters for interpretation.
-- Utilize digital rock physics (DRP) to understand the impact of maturity on porosity and kerogen content in organic-rich mudrocks.
-- Validate the accuracy of deterministic interpretation workflows at both wireline and seismic scales.
-- Develop rock physics models to estimate petrophysical properties (lithology, pore fluid, porosity) from seismic-derived impedance volumes.
-- Evaluate the role of digital rock physics (DRP) in providing 3D textural insights into microstructures for unconventional reservoirs.
-- Address the 'rock physics bottleneck' by creating analysis schemes that identify site-specific models to improve interpretation accuracy.
+- Establish quantitative theoretical rock physics relations between elastic properties and volumetric petrophysical properties for conventional and unconventional reservoirs.
+- Determine if rock physics modeling can accurately predict elastic properties of complex organic-rich reservoirs.
+- Evaluate the impact of pore-scale properties (pore structure, connectivity, specific surface area) on the elastic properties of unconventional reservoirs.
+- Develop a deterministic rock physics model to relate elastic properties to volumetric properties.
+- Establish site-specific geological relationships to reduce the number of unknown variables in interpretation.
+- Validate the workflow at both well-log and seismic scales using carbonate and clastic case studies.
 
 ## Methods
 
-The study employs a deterministic rock physics modeling (RPM) approach. It utilizes the 'constant-cement' model (a modified Hashin-Shtrikman bound) to relate elastic properties to porosity and mineralogy. The methodology includes: 1) Rock Physics Diagnostics (RPD) to bring data to a common fluid denominator using Gassmann’s equations; 2) Simplifying complex mineralogy by grouping minerals into 'carbonate' and 'clay' entities; 3) Establishing site-specific linear interrelations between carbonate, quartz, clay, and kerogen; 4) Creating look-up tables for petrophysical properties; 5) Using forward modeling to generate a range of possible outcomes; 6) Applying an objective function to find the best match at the seismic scale.
+The study employs a deterministic rock physics modeling (RPM) approach. It utilizes the 'stiff-rock' model (modified upper Hashin-Shtrikman bound) for carbonate systems and the 'constant-cement' model for organic-rich shales. To overcome the mathematical underdetermination of variables, site-specific linear equations are derived from wireline data to relate mineral fractions (e.g., clay vs. carbonate). The workflow includes: 1) Rock physics modeling; 2. Reduction of petrophysical variables through mineralogy grouping (e.g., carbonates as a single entity); 3. Establishing internal relations between minerals; 4. Creating look-up tables for interpretation; 5. Using an objective function to minimize the difference between observed and modeled impedances.
 
 ## Data and Materials
 
-The study utilizes wireline data from two carbonate wells (Case Study A) and two clastic wells (Case Study B). Data includes Gamma Ray, clay content, water saturation, total porosity, bulk density, Vp, Vs, and P-wave impedance. Synthetic seismic sections were generated using linear interpolation between well locations.
+Data includes wireline logs (GR, porosity, saturation, density, Vp, Vs) from three offshore chalk wells; petrophysical properties of an onshore carbonate field; and 5 high-resolution 3D digital rock samples acquired via FIB-SEM for organic-rich shale analysis.
 
 ## Key Findings
 
-- The stiff-rock model successfully differentiated between 100% wet and dry conditions in carbonate reservoirs using P-wave impedance and Poisson's ratio. ([[2024-alabbad|Alabbad, 2024, p. 75]])
-- Kerogen content significantly influences the relationship between porosity and specific surface area, showing a distinct 'flipped V' shape as an indicator of maturity. ([[2024-alabbad|Alabbad, 2024, p. 137]])
-- The inclusion of kerogen in the rock physics model for mudrocks allowed for more accurate estimation of porosity and kerogen content from seismic-scale elastic volumes. ([[2024-alabbad|Alabbad, 2024, p. 123]])
-- Specific surface area of pores increases with total porosity, while specific surface area of kerogen shows a distinct trend with increasing kerogen content. ([[2024-alabbad|Alabbad, 2024, p. 139]])
-- A reduction in the number of input parameters for mudrock modeling improved the stability of the interpretation results. ([[2024-alabbad|Alabbad, 2024, p. 110]])
-- Two carbonate reservoirs thousands of miles apart were found to have tight velocity-porosity trends, suggesting commonality in diagenetic processes and pore network geometry. ([[2024-alabbad|Alabbad, 2024, p. 18]])
-- In a clastic reservoir case study, Ip and Is were interpreted for porosity (f), pore fluid, and clay content using the stiff-sand rock physics model with f = 0.15 as a pore fluid indicator. ([[2024-alabbad|Alabbad, 2024, p. 18]])
-- In a carbonate reservoir case study, Ip was interpreted for porosity and pore fluid by using the stiff-sand rock physics model and f = 0.2 as a fluid indicator. ([[2024-alabbad|Alabbad, 2024, p. 18]])
-- For organic-rich unconventional reservoirs, mineralogy was simplified into carbonate, quartz, and clays to develop linear inter-relationships before applying the constant-cement rock physics model. ([[2024-alabbad|Alabbad, 2024, p. 19]])
-- Digital rock physics analysis on organic-rich samples revealed that pore geometry and kerogen connectivity are key micro-scale factors affecting elastic properties. ([[2024-alabbad|Alabbad, 2024, p. 19]])
-- Gassmann’s (1951) fluid substitution was found to be best applied to reservoirs with interconnected and spherical porosities. ([[2024-alabbad|Alabbad, 2024, p. 31]])
-- Differential effective medium rock physics models are suitable for stiff carbonate rocks with low porosities. ([[2024-alabbad|Alabbad, 2024, p. 31]])
-- The impact of pore fluid on P-wave impedance (Ip) and Poisson's ratio in the studied chalk fields was found to be relatively small, making direct fluid detection from seismic attributes difficult without considering porosity changes. ([[2024-alabbad|Alabbad, 2024, p. 49]])
-- Impedance remains a primary hydrocarbon indicator because diagenesis stops when brine is replaced by oil, leading to higher porosity and lower impedance in the oil-bearing zones. ([[2024-alabbad|Alabbad, 2024, p. 49]])
-- The 'stiff-rock' model (modified upper Hashin-Shtrikman bound) successfully bounded the data for both offshore chalk and onshore carbonate fields, showing high accuracy for predicting elastic properties from petrophysical inputs. ([[2024-alabbad|Alabbad, 2024, p. 53]])
+- The study found that while the effect of pore fluid on P-wave impedance is small at individual depth stations, it becomes pronounced over depth due to pore-fluid stratification (e.g., oil vs. brine). ([[2024-alabbad|Alabbad, 2024, p. 49]])
+- A 'stiff-rock' model successfully matched both offshore chalk data and onshore carbonate data from locations thousands of miles apart, suggesting a universality in diagenetic trends for these minerals. ([[2024-alabbad|Alabbad, 2024, p. 53]])
+- In the clastic case study, Ip and Is were used to interpret porosity, pore fluid, and clay content using a stiff-sand model with a specific porosity cut-off of 0.15 as a fluid indicator. ([[2024-alabbad|Alabbad, 2024, p. 26]])
+- In the carbonate case study, a cut-off for impedance was used to identify pore fluids because the relationship between pore fluid and porosity is often coupled in these systems. ([[2024-alabbad|Alabbad, 2024, p. 26]])
+- For organic-rich mudrocks, mineralogy was simplified into three groups (carbonate, quartz, clay) to create linear inter-relationships before applying a constant-cement model. ([[2024-alabbad|Alabbad, 2024, p. 19]])
+- Digital rock physics analysis on organic-rich samples revealed that specific surface area and kerogen connectivity are key micro-scale factors affecting elastic properties. ([[2024-alabbad|Alabbad, 2024, p. 27]])
+- In the carbonate case study, a distinct relationship was found where porosity determines the pore fluid: high-porosity zones (>20%) contain oil, while low-porosity zones are 100% water saturated. ([[2024-alabbad|Alabbad, 2024, p. 74]])
+- The 'stiff-rock' model (modified upper Hashin-Shtrikman bound) accurately describes the wireline data in the carbonate field, with a cutoff of approximately 8 km/s g/cc for fluid identification. ([[2024-alabbad|Alabbad, 2024, p. 76]])
+- In the organic-rich mudrock, P-wave velocity at fixed porosity can vary by up to 1.0 km/m, while S-wave velocity varies by 0.5 km/m due to kerogen and clay content. ([[2024-alabbad|Alabbad, 2024, p. 95]])
+- The 'constant-cement' model (modified lower Hashin-Shtrikman bound) successfully modeled the mudrock data, where the sum of kerogen and clay fractions are the primary drivers of elastic properties. ([[2024-alabbad|Alabbad, 2024, p. 100]])
+- A deterministic approach using site-specific linear equations (e.g., y = -0.70x + 0.69 for clay vs. carbonate) successfully reduced the number of variables to allow interpretation from Ip and Is. ([[2024-alabbad|Alabbad, 2024, p. 115]])
+- The rock physics model successfully matched measured elastic properties even when mineralogy was simplified using fewer variables (porosity and carbonate content). ([[2024-alabbad|Alabbad, 2024, p. 118]])
+- Upscaling petrophysical variables to the seismic scale via arithmetic averaging resulted in a match between model-derived curves and Backus-upscaled elastic curves. ([[2024-alabbad|Alabbad, 2024, p. 120]])
+- The difference in interpreted kerogen content compared to measured values was small (1-2%) in the upper part of the interval and very small where kerogen content was high. ([[2024-alabbad|Alabbad, 2024, p. 123]])
+- page_number_reference_note_for_finding_3_is_123_as_it_refers_to_the_comparison_of_measured_and_interpreted_values. ([[2024-alabbad|Alabbad, 2024]])
 
 ## Limitations
 
-Standard rock physics models (constant-cement, contact-cement) fail to capture the complexity of pore geometry in carbonate reservoirs. The 'rock physics bottleneck' makes it mathematically impossible to solve for multiple variables from a single elastic output without additional site-specific information.
+The suitability of the porosity-pore fluid relationship depends on the timing of hydrocarbon charge relative to water; it is most valid when hydrocarbon charging occurs after the initial water charge. Additionally, the accuracy of the model is sensitive to the quality of the input mineralogy and the resolution of the look-up tables.
 
 ## Recommendations and Future Work
 
-- Conduct experimental work to better understand how diagenesis (pressure solution/chemical compaction) affects porosity and elastic properties in different lithologies.
-- Develop analysis schemes to determine the best site-specific geological models to overcome the rock physics bottleneck.
-- Perform thermal maturity experiments on immature rocks to study the evolution of the kerogen-porosity-maturity relationship.
+- Conduct experimental work to model diagenetic processes (pressure solution/chemical compaction) on rock pore structures.
+- Develop analysis schemes to determine best site-specific models to overcome 'rock physics bottlenecks'.
+- Perform thermal maturity experiments on immature rocks to study the evolution of kerogen-porosity-maturity relationships.
 
 ## Related Concepts
 
-- [[well-log-analysis]]
-- [[seismic-interpretation]]
+- [[rock-physics-modeling]]
 - [[digital-rock-physics]]
+- [[well-log-analysis]]
+- [[acoustic-impedance]]
 - [[porosity]]
-- [[rock-physics-model]]
-- [[reservoir-characterization]]
-- [[middle-east]]
-- [[rock-physics-bottleneck]]
+- [[velocity-modeling]]
 - [[petrophysics]]
-- [[diagenesis]]
 - [[saudi-arabia]]
+- [[rock-physics-bottleneck]]
 - [[middle-east-region]]
-- [[xrd]]
-- [[sem]]
-- [[ct-scanning]]
-- [[seismic-inversion]]
-- [[kerogen]]
 - [[specific-surface-area]]
+- [[kerogen-porosity-maturity]]

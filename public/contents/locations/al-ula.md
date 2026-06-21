@@ -1,40 +1,42 @@
 ---
 type: location
 title: "Al Ula"
-aliases: []
+aliases:
+  - "Al Ula"
 canonical: true
-region: "Not stated in source"
+region: "Northwestern Saudi Arabia"
 country: "Saudi Arabia"
 coordinates: "Not stated in source"
-geology: "Not stated in source"
-tags: []
+geology: "Cambro-Ordovician clastic succession"
+tags:
+  - location/al-ula
 sources:
-  - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
+  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
 # Al Ula
 
-**Summary**: Geographic study area or location in the thesis collection.
+**Summary**: A region in northwest Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-iskandar|Iskandar, 2023]] conducted research at Al Ula
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] conducted field studies in the Al Ula area to sample and describe the Cambro-Ordovician succession.
 
 ## Geological and Structural Setting
 
-
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] Cambro-Ordovician clastic succession
 
 ## Formations Present
 
-
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] siq-sandstone, quweira-sandstone, saq-formation
 
 ## Key Findings From This Location
 
-- conducted research at Al Ula ([[2023-iskandar|Iskandar, 2023]])
+- The Al Ula area included 5 lines of section (U1-U5) with various sedimentary facies. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 90]])
 
 ## Research Coverage and Gaps
 

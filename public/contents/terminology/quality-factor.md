@@ -2,45 +2,44 @@
 type: terminology
 title: "Quality Factor"
 aliases:
-  - "Q factor"
+  - "Q-factor"
   - "Q"
 canonical: true
-definition: "A measure of the energy loss per cycle as a wave propagates through a medium."
+definition: "A measure of the damping or attenuation of a wave."
 units: "dimensionless"
-related_techniques:
-  - "velocity-analysis"
+related_techniques: []
 tags:
-  - theme/petrophysics
+  - theme/seismic-imaging
 sources:
   - "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
 # Quality Factor
 
-**Summary**: A parameter that characterizes the attenuation of wave energy in a medium.
+**Summary**: A dimensionless parameter that describes the proportion of energy lost in each cycle of a wave.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-mohammed|Mohammed, 2015]] derived Q values from the velocity model to determine absorption coefficients.
+- [[2015-mohammed|Mohammed, 2015]] used the Q-factor to define the absorption coefficient for visco-acoustic modeling.
 
 ## Scientific Context
 
-- [[2015-mohammed|Mohammed, 2015]] Used to model the transition from acoustic to visco-acoustic media in seismic imaging.
+- [[2015-mohammed|Mohammed, 2015]] Quantifies how much energy is lost due to viscosity in the earth's subsurface.
 
 ## Measurement and Characterization Methods
 
-- [[2015-mohammed|Mohammed, 2015]] Derived from the velocity model where values above 1500 m/s are used as square roots for Q factor.
+- [[2015-mohammed|Mohammed, 2015]] Derived from the imaginary part of the complex velocity.
 
 ## Key Findings Across Sources
 
-- The algorithm maintains Q values between 40 and 70, which are commonly reported in literature for absorption. ([[2015-mohammed|Mohammed, 2015, p. 50]])
+- Q-values between 40 and 70 are commonly reported in literature for seismic applications. ([[2015-mohammed|Mohammed, 2015, p. 65]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

@@ -2,45 +2,45 @@
 type: terminology
 title: "Microplastics"
 aliases:
-  - "micro-size plastic"
-  - "synthetic polymer particle"
+  - "MP"
 canonical: true
-definition: "synthetic polymer particle that is less than 5 mm in diameter."
-units: "mm"
+definition: "plastic particles < 5mm"
+units: "particle/kg or particle/m2"
 related_techniques:
+  - "density-separation"
   - "ftir"
 tags:
-  - theme/environmental-pollution
+  - theme/marine-pollution
 sources:
   - "raw/142080 - MICROPLASTIC CONTAMINANTS IN THE SEDIMENT OF THE EAST COAST OF SAUDI ARABIA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Microplastics
 
-**Summary**: Synthetic polymer particles less than 5 mm in diameter that can impact marine environments.
+**Summary**: Small plastic particles or fibers less than 5mm in size resulting from the breakdown of larger plastic items.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] investigated microplastic contamination in the sediment of the East coast of Saudi Arabia.
+- [[2022-alshaikhali|Alshaikhali, 2022]] quantified microplastic abundance and characteristics in coastal sediments.
 
 ## Scientific Context
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] Microplastics are a significant environmental concern due to their potential for bioaccumulation and toxicity in marine life.
+- [[2022-alshaikhali|Alshaikhali, 2022]] microplastics are a significant environmental concern due to their potential for ingestion by marine life.
 
 ## Measurement and Characterization Methods
 
-- [[2022-alshaikhali|Alshaikhali, 2022]] extracted via density separation and identified via ATR-FTIR.
+- [[2022-alshaikhali|Alshaikhali, 2022]] extraction via density separation followed by microscopy and FTIR.
 
 ## Key Findings Across Sources
 
-- 77% of collected microplastics were smaller than 2 mm, with fiber being the most common shape (96%). ([[2022-alshaikhali|Alshaikhali, 2022, p. 11]])
+- 96% of collected particles were fibers, which are common in marine environments due to synthetic textiles and fishing gear. ([[2022-alshaikhali|Alshaikhali, 2022, p. 60]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

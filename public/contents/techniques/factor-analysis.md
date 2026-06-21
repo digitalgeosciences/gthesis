@@ -2,43 +2,38 @@
 type: technique
 title: "Factor Analysis"
 aliases:
-  - "Q-mode factor analysis"
+  - "factorial analysis"
+  - "factorial design"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "variance and eigenvalues of extracted factors"
+output: "identification of significant variables"
 tags:
   - technique/factor-analysis
-  - theme/sedimentology
 sources:
-  - "raw/10363 - Reservoir quality of the Unayzah formation in Waqr, Tinat, and Haradh fields.pdf"
-  - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
+  - "raw/10207 - Analysis of the factors affecting the gelation time for polyacrylamide-redox sys.pdf"
   - "raw/9859 - Khafji reservoir mechanical properties calibration and in-situ stress modeling, .pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-20
 ---
 
 # Factor Analysis
 
-**Summary**: A multivariate statistical method to define underlying structures in data matrices.
+**Summary**: A statistical method used to determine the influence of multiple independent variables on a dependent variable.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2002-siddiqui|Siddiqui, 2002]] applied factor-analysis to grain size data to determine depositional environments.
+- [[1994-muhammad|Muhammad, 1994]] applied factor-analysis to identify significant parameters affecting gelation time among polymer type, concentration, and temperature.
 
-- [[1999-babalola|Babalola, 1999]] applied factor analysis (R and Q modes) to the geochemical data to constrain the provenance of the Wajid Sandstone.
-
-- [[2002-elhassan|ElHassan, 2002]] applied factor analysis to grain size distribution data to determine depositional environments.
+- [[2002-elhassan|ElHassan, 2002]] applied factor-analysis to grain size data to distinguish between beach, current, and gravitational settling environments.
 
 ## Instruments and Software
 
 
 
-- [[1999-babalola|Babalola, 1999]] applied factor analysis (R and Q modes) to the geochemical data to constrain the provenance of the Wajid Sandstone.
-
-- [[2002-elhassan|ElHassan, 2002]] applied factor analysis to grain size distribution data to determine depositional environments.
+- [[2002-elhassan|ElHassan, 2002]] applied factor-analysis to grain size data to distinguish between beach, current, and gravitational settling environments.
 
 ## Typical Workflow
 
@@ -46,11 +41,9 @@ last_updated: 2026-06-11
 
 ## Key Results and Findings
 
-- Three factors were extracted, accounting for 88% of the cumulative variance, representing coarse, fine, and medium grained sediment populations. ([[2002-siddiqui|Siddiqui, 2002, p. 101]])
+- Used to identify the most affecting factors for subsequent dimensional analysis. ([[1994-muhammad|Muhammad, 1994, p. 24]])
 
-- Q-mode factor analysis showed that samples from the Red Unit dominate the end members of factor 1. ([[1999-babalola|Babalola, 1999, p. 153]])
-
-- Three factors accounted for 84% of the variance in the grain size distribution data. ([[2002-elhassan|ElHassan, 2002, p. 85]])
+- Factor 2 was identified as a beach environment with lower Young's modulus and Poisson's ratio. ([[2002-elhassan|ElHassan, 2002, p. 89]])
 
 ## Methodological Variations Across Sources
 

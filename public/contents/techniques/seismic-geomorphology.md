@@ -6,24 +6,24 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "stratigraphic insights and facies maps"
+output: "structural and stratigraphic features"
 tags:
   - technique/seismic-geomorphology
 sources:
   - "raw/139746 - SEQUENCE STRATIGRAPHIC ANALYSIS AND POROSITY EVALUATION OF A FIELD USING 3D SEIS.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Seismic Geomorphology
 
-**Summary**: The study of landforms and buried surfaces using 3D seismic data to extract stratigraphic insights.
+**Summary**: The study of 1D, 2D, or 3D seismic data to identify geological features and shapes.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-sanuade|Sanuade, 2015]] applied seismic-geomorphology to the subsurface facies of the Agbada formation.
+- [[2015-sanuade|Sanuade, 2015]] applied seismic-geomorphology to interpret channel geometries and their relationship to faults.
 
 ## Instruments and Software
 
@@ -35,7 +35,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Attributes such as spectral decomposition and coherency were used to enhance identification of features. ([[2015-sanuade|Sanuade, 2015, p. 34]])
+- Identified a link between depositional environment, channel type, and paleo-flow direction relative to faults. ([[2015-sanuade|Sanuade, 2015, p. 105]])
 
 ## Methodological Variations Across Sources
 

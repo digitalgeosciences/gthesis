@@ -4,43 +4,49 @@ title: "Critical Micelle Concentration"
 aliases:
   - "CMC"
 canonical: true
-definition: "the concentration at which surfactant molecules form micelles"
-units: "gpt (gallons per ton)"
-related_techniques:
-  - "surface tension analysis"
+definition: "The concentration at which surfactant molecules begin to aggregate into micelles."
+units: "mg/L or % by weight"
+related_techniques: []
 tags:
-  - theme/chemical-engineering
+  - theme/enhanced-oil-recovery
 sources:
-  - "raw/142793 - Evaluation of New Flowback Formulation for Hydraulically Fractured Tight Gas Wel.pdf"
+  - "raw/140964 - PERFORMANCE EVALUATION OF GREEN SURFACTANT FOR EOR PROCESSES.pdf"
+  - "raw/9651 - Adsorption of surfactants on Saudi Arabian limestone..pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Critical Micelle Concentration
 
-**Summary**: The concentration at which surfactant molecules begin to form micelles.
+**Summary**: The concentration at which surfactant molecules begin to aggregate into micelles.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-mohamed|Mohamed, 2024]] determined the critical micelle concentration (CMC) for various chemical formulations.
+- [[2019-alghamdi|AlGhamdi, 2019]] determined the critical micelle concentration (CMC) of various formulations to ensure sufficient surfactant for EOR.
+
+- [[1987-ahmed|Ahmed, 1987]] determined the CMC for various ethoxylated sulfonates.
 
 ## Scientific Context
 
-- [[2024-mohamed|Mohamed, 2024]] CMC is a key indicator of the effectiveness and efficiency of a surfactant.
+- [[2019-alghamdi|AlGhamdi, 2019]] CMC is a key parameter for determining the amount of surfactant needed in an EOR flood.
+
+- [[1987-ahmed|Ahmed, 1987]] determined the CMC for various ethoxylated sulfonates.
 
 ## Measurement and Characterization Methods
 
-- [[2024-mohamed|Mohamed, 2024]] determined via surface tension measurements at varying concentrations
+- [[2019-alghamdi|AlGhamdi, 2019]] Determined through fluid property measurements.
 
 ## Key Findings Across Sources
 
-- CMC values for the different chemical formulations were found to be between 0.5 and 1 gpt. ([[2024-mohamed|Mohamed, 2024, p. 14]])
+- Rhamnolipid was found to have a CMC of 120 mg/L in one study. ([[2019-alghamdi|AlGhamdi, 2019, p. 42]])
+
+
+- Increasing the ethoxylation number of surfactants decreased adsorption but concurrently increased the CMC. ([[1987-ahmed|Ahmed, 1987, p. 22]])
 
 ## Contrasting Values and Interpretations
 
-- [[2024-mohamed|Mohamed, 2024]] 0.5 to 1 gpt
 
 ## Open Questions and Research Gaps
 

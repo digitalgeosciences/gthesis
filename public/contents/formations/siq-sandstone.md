@@ -4,42 +4,46 @@ title: "Siq Sandstone"
 aliases:
   - "Siq Sandstone"
 canonical: true
-age: "Cambrian"
-basin: "Arabian Platform"
-lithology: "clastic sedimentary rocks"
-reservoir_status: "not stated in source"
+age: "Cambrian-Ordovician"
+basin: "Tabuk and Widyan Basins"
+lithology: "quartz-feldspathic sandstone"
+reservoir_status: "not stated"
 tags:
   - formation/siq-sandstone
+  - theme/sedimentology
 sources:
   - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
 # Siq Sandstone
 
-**Summary**: A Cambrian clastic unit located in the northwestern part of Arabia.
+**Summary**: A Cambrian-Ordovician sandstone unit primarily located in the northwest.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] investigated the siq-sandstone to establish its relationship with the Quweira and Saq units.
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] analyzed the siq-sandstone to characterize its depositional setting.
 
 ## Depositional Environment
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] high-energy clastic
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] shallow marine to non-marine
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] not stated
+
 ## Key Findings Across Sources
 
-- The Siq Sandstone sits on a weathered peneplain surface at or near sea level. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 40]])
+- The Siq Sandstone is interpreted as a non-marine sandstone with some evidence of rapid deposition in a shallow marine basin. ([[2014-mohammedfaiz|Mohammedfaiz, 2014, p. 63]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

@@ -2,58 +2,53 @@
 type: terminology
 title: "Burrows"
 aliases:
+  - "trace fossils"
   - "Thalassinoides"
 canonical: true
-definition: "Bioturbated structures in carbonate sediment."
+definition: "Trace fossils resulting from biological activity in carbonate sediments."
 units: "not applicable"
 related_techniques:
-  - "thin-section-petrography"
+  - "ct-scanning"
+  - "petrography"
 tags:
-  - theme/sedimentology
+  - theme/carbonate-geology
 sources:
-  - "raw/141837 - DIAGENETIC AND PETROPHYSICAL EVALUATION OF THE TOARCIAN UPPER MARRAT FORMATION I.pdf"
   - "raw/142033 - SPATIAL PATTERN OF A BURROWED CARBONATE STRATUM (RAMP CARBONATES), HANIFA FORMAT.pdf"
   - "raw/142831 - An Integrated Study to Characterize and Model Strata with Biogenically Influence.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Burrows
 
-**Summary**: Biological structures created by organisms in sediment.
+**Summary**: Trace fossils produced by organisms moving through or living in sediment.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2021-ahmed|Ahmed, 2021]] evaluated burrows to determine their role as permeable pathways.
+- [[2022-syahputra|Syahputra, 2022]] analyzed burrows to determine their impact on petrophysical properties.
 
-- [[2022-syahputra|Syahputra, 2022]] analyzed burrow attributes to determine their impact on petrophysical properties.
-
-- [[2024-saraih|Saraih, 2024]] analyzed the impact of large burrows on flow capacity and fracture distribution.
+- [[2024-saraih|Saraih, 2024]] characterized the morphology and size of Thalassinoides burrows.
 
 ## Scientific Context
 
-- [[2021-ahmed|Ahmed, 2021]] Can create high permeability zones if filled with coarse material or if the matrix is dissolved.
+- [[2022-syahputra|Syahputra, 2022]] Burrows provide flow pathways in low-permeability matrices, significantly impacting reservoir quality.
 
-- [[2022-syahputra|Syahputra, 2022]] analyzed burrow attributes to determine their impact on petrophysical properties.
-
-- [[2024-saraih|Saraih, 2024]] analyzed the impact of large burrows on flow capacity and fracture distribution.
+- [[2024-saraih|Saraih, 2024]] characterized the morphology and size of Thalassinoides burrows.
 
 ## Measurement and Characterization Methods
 
-- [[2021-ahmed|Ahmed, 2021]] Identified via thin-section petrography.
+- [[2022-syahputra|Syahputra, 2022]] Quantified via burrow percentage (BP) and morphology analysis.
 
 ## Key Findings Across Sources
 
-- Burrow fillings are rarely dissolved in the Upper Marrat, contributing to lower permeability compared to other formations. ([[2021-ahmed|Ahmed, 2021, p. 112]])
+- The burrowing style was categorized into bio-retexturing and pipe framework, with the latter showing higher permeability variance. ([[2022-syahputra|Syahputra, 2022, p. 54]])
 
-- Two distinct burrowing styles (bio-retexturing and pipe framework) were identified, impacting rock texture and permeability. ([[2022-syahputra|Syahputra, 2022, p. 40]])
 
-- Burrows with diameters up to 8 cm can create super-permeability zones in carbonate reservoirs. ([[2024-saraih|Saraih, 2024, p. 19]])
+- Burrow sizes reached up to 8 cm, with some being solution-enlarged or filled with different materials. ([[2024-saraih|Saraih, 2024, p. 34]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

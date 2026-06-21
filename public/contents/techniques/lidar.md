@@ -6,54 +6,44 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "3D point clouds and surface meshes"
+output: "3D point clouds and mesh models"
 tags:
   - technique/lidar
-  - theme/remote-sensing
+  - theme/near-surface-geophysics
 sources:
   - "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
   - "raw/139344 - Digital Outcrop Modeling of The Early Triassic Upper Khartam Member of Khuff For.pdf"
-  - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
+  - "raw/139735 - HIGH RESOLUTION SEDIMENTOLOGOY AND RESERVOIR PROPERTIES OF ULAYYAH RESERVOIR EQU.pdf"
   - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
-  - "raw/140482 - High-Resolution Stratigraphy and Diagenesis of Upper Khartam Member, Khuff Forma.pdf"
-  - "raw/142239 - RESERVOIR CHARACTERIZATION AND RESERVOIR MODELING OF THE EARLY TRIASSIC UPPER KH.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
 # LiDAR
 
-**Summary**: A remote sensing technique using laser pulses to create high-resolution 3D point clouds of surfaces.
+**Summary**: A remote sensing technique using laser pulses to create high-resolution 3D point clouds of the earth's surface.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2013-yousif|Yousif, 2013]] applied lidar to image the face of the outcrop and provide a 3D model for integration with GPR data.
+- [[2013-yousif|Yousif, 2013]] used lidar to image the face of the outcrop and provide a 3D mesh for integration with GPR data.
 
-- [[2014-sami|Sami, 2014]] applied lidar to capture high-resolution geometry of the Upper Khartam outcrop.
+- [[2014-sami|Sami, 2014]] applied LiDAR to capture high-resolution spatial data of the outcrop.
 
-- [[2015-abdlmutalib|Abdlmutalib, 2015]] used LiDAR for data acquisition, processing, and interpretation of fracture patterns in the outcrop area.
+- [[2015-elzain|Elzain, 2015]] recommended LiDAR for high-resolution mapping of the Ulayyah reservoir equivalent.
 
-- [[2016-babker|Babker, 2016]] used Lidar for fracture estimation and mapping of the Sarah paleovalley.
-
-- [[2017-adam|Adam, 2017]] utilized LIDAR to create digital outcrop models and map stratigraphic features.
-
-- [[2022-babker|Babker, 2022]] integrated lidar data with sedimentology for geological outcrop modeling.
+- [[2016-babker|Babker, 2016]] used lidar to perform 2D and 3D fracture characterization in the office or laboratory accurately.
 
 ## Instruments and Software
 
 
 
-- [[2014-sami|Sami, 2014]] applied lidar to capture high-resolution geometry of the Upper Khartam outcrop.
+- [[2014-sami|Sami, 2014]] applied LiDAR to capture high-resolution spatial data of the outcrop.
 
-- [[2015-abdlmutalib|Abdlmutalib, 2015]] used LiDAR for data acquisition, processing, and interpretation of fracture patterns in the outcrop area.
+- [[2015-elzain|Elzain, 2015]] recommended LiDAR for high-resolution mapping of the Ulayyah reservoir equivalent.
 
-- [[2016-babker|Babker, 2016]] used Lidar for fracture estimation and mapping of the Sarah paleovalley.
-
-- [[2017-adam|Adam, 2017]] utilized LIDAR to create digital outcrop models and map stratigraphic features.
-
-- [[2022-babker|Babker, 2022]] integrated lidar data with sedimentology for geological outcrop modeling.
+- [[2016-babker|Babker, 2016]] used lidar to perform 2D and 3D fracture characterization in the office or laboratory accurately.
 
 ## Typical Workflow
 
@@ -61,17 +51,13 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- LIDAR provided high resolution (mm to m) and allowed for the mapping of inaccessible areas of the outcrop. ([[2013-yousif|Yousif, 2013, p. 15]])
+- LIDAR allowed for the tracking of three specific reflectors (2nd, 3rd, & 4th) in the point cloud as polylines. ([[2013-yousif|Yousif, 2013, p. 61]])
 
-- Data from a Riegl VZ-4000 laser scanner was used to generate the initial point cloud for the DOM. ([[2014-sami|Sami, 2014, p. 98]])
+- The RIEGL VZ-4000 scanner provided a high resolution and precision range for the study area. ([[2014-sami|Sami, 2014, p. 46]])
 
-- Used to provide high-resolution spatial data for identifying fracture orientation and intensity. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 8]])
+- LiDAR allows rapid acquisition of high resolution three-dimensional digital outcrop datasets in their correct geospatial position. ([[2015-elzain|Elzain, 2015, p. 148]])
 
-- Used to determine fracture dimensions and count in the outcrop area. ([[2016-babker|Babker, 2016, p. 10]])
-
-- Used to establish a high-resolution stratigraphic framework on which all data is visualized. ([[2017-adam|Adam, 2017, p. 36]])
-
-- Lidar data provided detailed structural and geomorphological context for the Khuff Formation outcrops. ([[2022-babker|Babker, 2022]])
+- Lidar allowed for accurate determination of strike and dip of fractures while providing a high-resolution point cloud of the outcrop surface. ([[2016-babker|Babker, 2016, p. 42]])
 
 ## Methodological Variations Across Sources
 

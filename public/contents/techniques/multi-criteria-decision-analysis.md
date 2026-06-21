@@ -1,30 +1,30 @@
 ---
 type: technique
-title: "Multi Criteria Decision Analysis"
+title: "Multi-Criteria Decision Analysis"
 aliases:
   - "MCDA"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "weighted suitability scores"
+output: "weighted suitability scores for ASR sites"
 tags:
   - technique/multi-criteria-decision-analysis
-  - theme/hydrogeology
+  - theme/water-resources-management
 sources:
   - "raw/142204 - IDENTIFICATION OF AQUIFER STORAGE AND RECOVERY POTENTIAL SITES IN CENTRAL – EAST.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
-# Multi Criteria Decision Analysis
+# Multi-Criteria Decision Analysis
 
-**Summary**: MCDA is a mathematical framework for evaluating multiple conflicting criteria in decision making.
+**Summary**: A decision-making framework that evaluates multiple conflicting criteria to identify the most suitable location for a specific purpose.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2022-pambudi|Pambudi, 2022]] applied MCDA to weight and rank thematic layers for ASR site selection.
+- [[2022-pambudi|Pambudi, 2022]] used multi-criteria decision analysis (MCDA) to weight and rank ten thematic layers for ASR site selection.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- The integration of GIS, Remote Sensing, and MCDA - Weighted Overlay Analysis (WOA) methods is assumed powerful tool for delineating ASR potential sites in the semi-arid region. ([[2022-pambudi|Pambudi, 2022, p. 14]])
+- The MCDA approach allowed for the integration of diverse factors like aquifer thickness, transmissivity, and soil texture into a single suitability index. ([[2022-pambudi|Pambudi, 2022, p. 40]])
 
 ## Methodological Variations Across Sources
 

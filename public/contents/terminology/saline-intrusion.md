@@ -2,52 +2,53 @@
 type: terminology
 title: "Saline Intrusion"
 aliases:
-  - "salinity"
+  - "seawer-intrusion"
+  - "SWI"
 canonical: true
-definition: "The intrusion of saline water into a freshwater aquifer or the increase in salinity due to pumping."
-units: "mg/L (TDS)"
+definition: "the process of seawater entering and infiltrating coastal lands"
+units: "not applicable"
 related_techniques:
-  - "hydrochemical-analysis"
-  - "solute-transport-modeling"
+  - "groundwater-modeling"
+  - "seawater-intrusion-modeling"
 tags:
-  - theme/groundwater-quality
+  - theme/hydrogeology
 sources:
-  - "raw/138680 - Groundwater Management Approach at KFUPM Campus Using Numerical Simulation.pdf"
   - "raw/142865 - MODELING CLIMATE CHANGE IMPACT ON SEAWATER INTRUSION IN THE COASTAL AQUIFER OF T.pdf"
+  - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Saline Intrusion
 
-**Summary**: The movement of saline water into freshwater aquifers.
+**Summary**: The movement of saline water into freshwater aquifers, often caused by over-pumping or sea level rise.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2012-iwalewa|Iwalewa, 2012]] monitored the impact of salinity on the UER aquifer due to increased pumping.
+- [[2024-ahmad|Ahmad, 2024]] studied saline-intrusion as a primary threat to the sustainability of coastal aquifers in the Eastern Province.
 
-- [[2024-ahmad|Ahmad, 2024]] analyzed seawater intrusion as a primary threat to coastal aquifer sustainability.
+- [[1992-hassan|Hassan, 1992]] evaluated seawater-intrusion in both aquifers north of Jubayl.
 
 ## Scientific Context
 
-- [[2012-iwalewa|Iwalewa, 2012]] Salinity limits the use of groundwater for drinking and irrigation.
+- [[2024-ahmad|Ahmad, 2024]] It is a major environmental concern for water security in coastal regions.
 
-- [[2024-ahmad|Ahmad, 2024]] analyzed seawater intrusion as a primary threat to coastal aquifer sustainability.
+- [[1992-hassan|Hassan, 1992]] evaluated seawater-intrusion in both aquifers north of Jubayl.
 
 ## Measurement and Characterization Methods
 
-- [[2012-iwalewa|Iwalewa, 2012]] Chemical analysis and solute transport modeling.
+- [[2024-ahmad|Ahmad, 2024]] modeled using the SEAWAT code to simulate solute transport and density-dependent flow.
 
 ## Key Findings Across Sources
 
-- Salinity is identified as the primary concern for groundwater quality in the study area. ([[2012-iwalewa|Iwalewa, 2012, p. 16]])
+- Saltwater intrusion is expected to increase significantly under all three climate change scenarios due to rising sea levels and reduced recharge. ([[2024-ahmad|Ahmad, 2024, p. 15]])
 
-- Seawater intrusion is a major concern in the region, leading to increased salinity and deteriorating groundwater quality. ([[2024-ahmad|Ahmad, 2024, p. 21]])
+
+- Seawater intrusion is evident in both aquifers north of Jubayl, driven by a chemical gradient rather than a hydraulic gradient. ([[1992-hassan|Hassan, 1992, p. 116]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

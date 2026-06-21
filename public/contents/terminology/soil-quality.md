@@ -1,44 +1,45 @@
 ---
 type: terminology
 title: "Soil Quality"
-aliases: []
+aliases:
+  - "soil quality"
 canonical: true
-definition: "Assessment of pH, EC, TOC, TC, and heavy metals."
-units: "various"
+definition: "the physical and chemical suitability of soil for agricultural or residential use"
+units: "not applicable"
 related_techniques:
-  - "chemical-analysis"
+  - "sieve-analysis"
 tags:
   - theme/environmental-geology
 sources:
-  - "raw/142264 - ASSESSMENT OF OPEN WASTE DUMPING SITES IN TWO CITIES IN THE EASTERN PROVINCE, SA.pdf"
+  - "raw/139394 - Spatial Distribution of the Levels of Trace Metals in the Topsoil of Dammam Area.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-15
 ---
 
 # Soil Quality
 
-**Summary**: The physical, chemical, and biological properties of soil that determine its suitability for use.
+**Summary**: The capacity of soil to support plant growth and provide a healthy environment for organisms.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-al-harbi|Al-Harbi, 2022]] assessed the soil quality at selected waste sites to evaluate environmental impact.
+- [[2014-adedapo|Adedapo, 2014]] evaluated soil quality by comparing trace metal concentrations against established safety guidelines.
 
 ## Scientific Context
 
-- [[2022-al-harbi|Al-Harbi, 2022]] Used to determine if waste leakage has contaminated the local ground.
+- [[2014-adedapo|Adedapo, 2014]] critical for determining the safety of land for human habitation and farming.
 
 ## Measurement and Characterization Methods
 
-- [[2022-al-harbi|Al-Harbi, 2022]] Laboratory analysis of soil samples.
+- [[2014-adedapo|Adedapo, 2014]] compared measured concentrations against Canadian Environmental Quality Guidelines.
 
 ## Key Findings Across Sources
 
-- Soil quality was found within normal ranges in both Dammam and Hafer Al-Batin. ([[2022-al-harbi|Al-Harbi, 2022, p. 11]])
+- Most samples were within acceptable limits, but specific areas showed signs of contamination from industrial activities. ([[2014-adedapo|Adedapo, 2014, p. 96]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

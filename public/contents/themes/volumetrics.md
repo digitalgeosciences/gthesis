@@ -2,43 +2,44 @@
 type: theme
 title: "Volumetrics"
 aliases:
-  - "pore-volume evaluation"
+  - "pore-volume estimation"
+  - "hydrocarbon volume calculation"
 canonical: true
-description: "Calculation of hydrocarbon volumes in a reservoir."
-key_challenges: "Quantifying uncertainty and accounting for heterogeneity."
+description: "The calculation of the amount of oil or gas in place within a reservoir using geological and petrophysical parameters."
+key_challenges: "uncertainty due to limited data, complex geology, and measurement errors."
 tags:
   - theme/volumetrics
 sources:
   - "raw/10389 - Integrated deterministicprobabilistic petroleum volume evaluation for a carbonat.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Volumetrics
 
-**Summary**: The calculation of hydrocarbon volumes in a reservoir.
+**Summary**: The calculation of the amount of oil or gas in place within a reservoir.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2003-al-shridi|Al-Shridi, 2003]] applied the theme of volumetrics to determine oil-in-place and reserves.
+- [[2003-al-shridi|Al-Shridi, 2003]] evaluated volumetric calculations using both deterministic and probabilistic methods.
 
 ## Key Subtopics
 
-- [[2003-al-shridi|Al-Shridi, 2003]] ['pore-volume', 'hydrocarbon-in-place', 'uncertainty-quantification']
+- [[2003-al-shridi|Al-Shridi, 2003]] ['deterministic estimation', 'probabilistic simulation', 'Monte Carlo method']
 
 ## Methods and Approaches Used
 
-- [[2003-al-shridi|Al-Shridi, 2003]] ['monte-carlo-simulation', '3d-geocellular-modeling']
+- [[2003-al-shridi|Al-Shridi, 2003]] ['Monte Carlo simulation', 'well-log-analysis']
 
 ## Key Findings Across Sources
 
-- Integrating deterministic and probabilistic methods improves overall model accuracy for volume estimation. ([[2003-al-shridi|Al-Shridi, 2003, p. 102]])
+- Integrated deterministic-probabilistic methods were used to calculate hydrocarbon volume (oil in-place, oil reserves) with improved overall model accuracy. ([[2003-al-shridi|Al-Shridi, 2003, p. 13]])
 
 ## Competing Approaches and Debates
 
-- [[2003-al-shridi|Al-Shridi, 2003]] Quantifying uncertainty and accounting for heterogeneity.
+- [[2003-al-shridi|Al-Shridi, 2003]] uncertainty due to limited data, complex geology, and measurement errors.
 
 ## Open Questions and Research Gaps
 

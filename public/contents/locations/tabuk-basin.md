@@ -1,43 +1,47 @@
 ---
 type: location
 title: "Tabuk Basin"
-aliases:
-  - "Tabuk Basin"
+aliases: []
 canonical: true
-region: "Saudi Arabia"
+region: "Not stated in source"
 country: "Saudi Arabia"
-coordinates: "N28º 02' 40.7\", E 37° 54' 13.8\""
-geology: "marine shelf"
-tags:
-  - location/tabuk-basin
-  - theme/sedimentology
+coordinates: "Not stated in source"
+geology: "Not stated in source"
+tags: []
 sources:
+  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
   - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Tabuk Basin
 
-**Summary**: A sedimentary basin in Saudi Arabia located on the Gondwana passive margin.
+**Summary**: Geographic study area or location in the thesis collection.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] located the study area within the Tabuk Basin.
+- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] conducted research at Tabuk Basin
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] conducted the study within the Tabuk Basin to characterize local mudrock units.
 
 ## Geological and Structural Setting
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] Gondwana passive margin
+
+
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] conducted the study within the Tabuk Basin to characterize local mudrock units.
 
 ## Formations Present
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] Qusaiba Member, Sarawra Member
+
 
 ## Key Findings From This Location
 
-- The basin was formed due to the transgression of the Tethys Sea after the Late Ordovician-Early Silurian glacial retreat. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 28]])
+- conducted research at Tabuk Basin ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+
+- The basin was formed in the Gondwana passive margin due to Tethys Sea transgression. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 28]])
 
 ## Research Coverage and Gaps
 

@@ -1,147 +1,149 @@
 ---
 type: theme
 title: "Near-Surface Geophysics"
-aliases: []
+aliases:
+  - "near-surface geophysics"
 canonical: true
-description: "Geophysical methods applied to shallow subsurface features like cavities and buried objects."
-key_challenges: "Distinguishing between different types of cavity fillings (air vs. water vs. sediment)."
-tags: []
+description: "Geophysical investigation of the near-surface environment."
+key_challenges: "Distinguishing between surface waves and diffracted energy."
+tags:
+  - theme/near-surface-geophysics
 sources:
+  - "raw/136092 - DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS.pdf"
+  - "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
   - "raw/139215 - Joint Inversion of Gravity and Ground Penetrating Radar Data to Characterize Sub.pdf"
   - "raw/140547 - DETECTION OF SHALLOW SUBSURFACE CAVITIES USING 2D &amp; 3D ELECTRICAL RESISTIVIT.pdf"
-  - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
   - "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
   - "raw/140739 - Near-surface Investigation of The Dammam Dome on The KFUPM Campus using The Grav.pdf"
   - "raw/142247 - SAND DUNE STATIC DELAY A DATA DRIVEN APPROACH AND ADJUSTMENT OF THE SAND CURVE.pdf"
   - "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
-  - "raw/142466 - ESTIMATION OF WATER SATURATION IN A SAND DUNE FROM DIVING DIRECT SEISMIC P-WAVES.pdf"
+  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
   - "raw/142721 - INVESTIGATION OF TTI ANISOTROPY OF P-WAVE VELOCITIES IN SAND DUNES IN EASTERN SA.pdf"
   - "raw/142786 - Estimation of water saturation in a sand dune using electrical conductivity and .pdf"
   - "raw/142807 - Estimation of Water Content Using GPR and Seismic Data in a Sand Dune in Eastern.pdf"
   - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
   - "raw/142999 - Understanding the Hydrological Dynamics of the Soil-Plant Interface Under Differ.pdf"
   - "raw/143198 - ESTIMATION OF WATER SATURATION IN SAND DUNES USING SOURCE-RECEIVER OFFSET.pdf"
-  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
   - "raw/9656 - Use of vibrator performance data to improve near-surface velocity determination.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Near-Surface Geophysics
 
-**Summary**: Concept related to Joint Inversion of Gravity and Ground Penetrating Radar Data to Characterize Subsurface Cavities.
+**Summary**: Geophysical studies of the earth's surface and near-subsurface layers.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-saeed|Saeed, 2014]] Referenced in this thesis.
+- [[2009-al-lehyani|Al-Lehyani, 2009]] addressed problems in land seismic exploration via near-surface-geophysics techniques.
+
+- [[2013-yousif|Yousif, 2013]] applied near-surface-geophysics techniques like GPR and LIDAR for outcrop characterization.
+
+- [[2014-saeed|Saeed, 2014]] applied near-surface-geophysics to identify and characterize subsurface cavities.
 
 - [[2017-tayyab|Tayyab, 2017]] applied near-surface-geophysics to identify hazards in a construction site.
 
-- [[2017-almarzooq|Almarzooq, 2017]] applied near-surface geophysics to address the impact of sand dunes on seismic data.
+- [[2018-mohamed|Mohamed, 2018]] focused on near-surface geophysics to address challenges posed by Karst features and unconsolidated sediments.
 
-- [[2018-mohamed|Mohamed, 2018]] focused on the challenges posed by complex near-surface geology for land seismic exploration.
+- [[2018-hanif|Hanif, 2018]] applied near-surface-geophysics to map faults and cavities.
 
-- [[2018-hanif|Hanif, 2018]] applied near-surface-geophysics to map faults and cavities in a carbonate dome.
+- [[2022-aljishi|AlJishi, 2022]] focused on near-surface-geophysics to solve static issues in desert environments.
 
-- [[2022-aljishi|AlJishi, 2022]] focused on near-surface-geophysics to solve static delay issues in sand dunes.
+- [[2023-edigbue|Edigbue, 2023]] applied near-surface geophysics to characterize subsurface geology in the Dammam Dome.
 
-- [[2023-edigbue|Edigbue, 2023]] focused on improving resolution of near-surface features through joint inversion.
+- [[2023-alshaibani|AlShaibani, 2023]] applied near-surface geophysics to map the deformation zone.
 
-- [[2023-alsahwan|AlSahwan, 2023]] utilized near-surface-geophysics techniques to investigate dune moisture content.
+- [[2024-makki|Makki, 2024]] conducted a near-surface-geophysics investigation to characterize sand dune anisotropy.
 
-- [[2024-makki|Makki, 2024]] applied near-surface-geophysics to investigate sand dune characteristics.
+- [[2024-tarchi|Tarchi, 2024]] applied near-surface-geophysics techniques including ERT and seismic refraction to map water content.
 
-- [[2024-tarchi|Tarchi, 2024]] applied near-surface geophysics to investigate water in sand dunes.
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] applied near-surface-geophysics to characterize a sand dune in eastern Saudi Arabia.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
+- [[2024-chavanidis|Chavanidis, 2024]] Referenced in this thesis.
 
-- [[2024-chavanidis|Chavanidis, 2024]] applied near-surface-geophysics to characterize geothermal systems.
+- [[2024-prasetyo|Prasetyo, 2024]] applied near-surface geophysics (GPR and ERT) to characterize the root zone.
 
-- [[2024-prasetyo|Prasetyo, 2024]] applied near-surface geophysics (GPR and ERT) to overcome limitations of invasive sampling.
+- [[2025-oyekan|Oyekan, 2025]] used near-surface-geophysics to investigate water content in sand dunes.
 
-- [[2025-oyekan|Oyekan, 2025]] applied near-surface-geophysics to investigate water content in sand dunes.
-
-- [[2025-ahmed|Ahmed, 2025]] applied near-surface-geophysics to characterize the Minjur aquifer.
-
-- [[2002-al-ali|Al-Ali, 2002]] focused on near-surface-geophysics to improve seismic data quality.
+- [[2002-al-ali|Al-Ali, 2002]] Referenced in this thesis.
 
 ## Key Subtopics
 
-- [[2014-saeed|Saeed, 2014]] ['cavity detection', 'petrophysical characterization']
+- [[2009-al-lehyani|Al-Lehyani, 2009]] ['surface wave analysis', 'diffraction mapping']
+
+- [[2013-yousif|Yousif, 2013]] applied near-surface-geophysics techniques like GPR and LIDAR for outcrop characterization.
+
+- [[2014-saeed|Saeed, 2014]] applied near-surface-geophysics to identify and characterize subsurface cavities.
 
 - [[2017-tayyab|Tayyab, 2017]] applied near-surface-geophysics to identify hazards in a construction site.
 
-- [[2017-almarzooq|Almarzooq, 2017]] applied near-surface geophysics to address the impact of sand dunes on seismic data.
+- [[2018-mohamed|Mohamed, 2018]] focused on near-surface geophysics to address challenges posed by Karst features and unconsolidated sediments.
 
-- [[2018-mohamed|Mohamed, 2018]] focused on the challenges posed by complex near-surface geology for land seismic exploration.
+- [[2018-hanif|Hanif, 2018]] applied near-surface-geophysics to map faults and cavities.
 
-- [[2018-hanif|Hanif, 2018]] applied near-surface-geophysics to map faults and cavities in a carbonate dome.
+- [[2022-aljishi|AlJishi, 2022]] focused on near-surface-geophysics to solve static issues in desert environments.
 
-- [[2022-aljishi|AlJishi, 2022]] focused on near-surface-geophysics to solve static delay issues in sand dunes.
+- [[2023-edigbue|Edigbue, 2023]] applied near-surface geophysics to characterize subsurface geology in the Dammam Dome.
 
-- [[2023-edigbue|Edigbue, 2023]] focused on improving resolution of near-surface features through joint inversion.
+- [[2023-alshaibani|AlShaibani, 2023]] applied near-surface geophysics to map the deformation zone.
 
-- [[2023-alsahwan|AlSahwan, 2023]] utilized near-surface-geophysics techniques to investigate dune moisture content.
+- [[2024-makki|Makki, 2024]] conducted a near-surface-geophysics investigation to characterize sand dune anisotropy.
 
-- [[2024-makki|Makki, 2024]] applied near-surface-geophysics to investigate sand dune characteristics.
+- [[2024-tarchi|Tarchi, 2024]] applied near-surface-geophysics techniques including ERT and seismic refraction to map water content.
 
-- [[2024-tarchi|Tarchi, 2024]] applied near-surface geophysics to investigate water in sand dunes.
+- [[2024-alkhunaizi|Alkhunaizi, 2024]] applied near-surface-geophysics to characterize a sand dune in eastern Saudi Arabia.
 
-- [[2024-alkhunaizi|Alkhunaizi, 2024]] Referenced in this thesis.
+- [[2024-chavanidis|Chavanidis, 2024]] Referenced in this thesis.
 
-- [[2024-chavanidis|Chavanidis, 2024]] applied near-surface-geophysics to characterize geothermal systems.
+- [[2024-prasetyo|Prasetyo, 2024]] applied near-surface geophysics (GPR and ERT) to characterize the root zone.
 
-- [[2024-prasetyo|Prasetyo, 2024]] applied near-surface geophysics (GPR and ERT) to overcome limitations of invasive sampling.
+- [[2025-oyekan|Oyekan, 2025]] used near-surface-geophysics to investigate water content in sand dunes.
 
-- [[2025-oyekan|Oyekan, 2025]] applied near-surface-geophysics to investigate water content in sand dunes.
-
-- [[2025-ahmed|Ahmed, 2025]] applied near-surface-geophysics to characterize the Minjur aquifer.
-
-- [[2002-al-ali|Al-Ali, 2002]] focused on near-surface-geophysics to improve seismic data quality.
+- [[2002-al-ali|Al-Ali, 2002]] Referenced in this thesis.
 
 ## Methods and Approaches Used
 
-- [[2014-saeed|Saeed, 2014]] ['ground-penetrating-radar', 'gravity-survey']
+- [[2009-al-lehyani|Al-Lehyani, 2009]] ['semblance measurement']
 
 ## Key Findings Across Sources
 
-- Referenced in this thesis. ([[2014-saeed|Saeed, 2014]])
+- The mapping algorithm successfully identified diffractor locations based on T-X relations. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 47]])
 
-- ERT proved precise and efficient in delineating shallow subsurface voids and soil heterogeneity. ([[2017-tayyab|Tayyab, 2017, p. 16]])
+- GPR proved suitable for studying outcrops due to its high resolution compared to seismic. ([[2013-yousif|Yousif, 2013, p. 35]])
 
-- The determination of surface-consistent correction methods is critical for the realistic assessment of seismic hazard in sedimentary deposits. ([[2017-almarzooq|Almarzooq, 2017, p. 33]])
+- Joint inversion of gravity and GPR data proved effective for characterizing cavity contents. ([[2014-saeed|Saeed, 2014, p. 55]])
 
-- Near-surface features like Karst create velocity contrast and anisotropy that interfere with deeper imaging. ([[2018-mohamed|Mohamed, 2018, p. 14]])
+- Geophysical techniques are more effective, economic and less labor intensive than drilling alone. ([[2017-tayyab|Tayyab, 2017, p. 20]])
 
-- Gravity surveys were effective for identifying fault structures and potential cavity locations. ([[2018-hanif|Hanif, 2018, p. 15]])
+- SWI provided more accurate velocity at the top 200m, which is critical for resolving complex near-surface geology. ([[2018-mohamed|Mohamed, 2018, p. 62]])
 
-- Near-surface geophysics is critical for correcting time-in-sand before performing refraction tomography. ([[2022-aljishi|AlJishi, 2022, p. 21]])
+- Gravity, GPR, and ERT are common tools for identifying subsurface anomalies in this field. ([[2018-hanif|Hanif, 2018, p. 18]])
 
-- Joint inversion is a common technique for near-surface exploration due to high-resolution imaging capabilities. ([[2023-edigbue|Edigbue, 2023, p. 20]])
+- Near-surface complexities like sand dunes require specific processing techniques to ensure accurate deep imaging. ([[2022-aljishi|AlJishi, 2022, p. 19]])
 
-- Diving direct P-waves were used as a specific signal for inversion in shallow environments. ([[2023-alsahwan|AlSahwan, 2023, p. 33]])
+- The joint inversion of DCR and SR data has become a common technique for subsurface exploration due to its high-resolution imaging capabilities. ([[2023-edigbue|Edigbue, 2023, p. 16]])
 
-- Identified that ignoring anisotropy leads to significant errors in static corrections (up to 44%). ([[2024-makki|Makki, 2024, p. 19]])
+- Integrated 2D/3D seismic and ERT successfully mapped the extent of the deformation zone. ([[2023-alshaibani|AlShaibani, 2023, p. 59]])
 
-- Used a combination of electrical and seismic methods for site characterization. ([[2024-tarchi|Tarchi, 2024, p. 14]])
+- Identified that dune bedding orientation significantly impacts P-wave velocity. ([[2024-makki|Makki, 2024, p. 63]])
 
-- Referenced in this thesis. ([[2024-alkhunaizi|Alkhunaizi, 2024]])
+- The study successfully differentiated between dry and saturated conditions in a sand dune using joint inversion. ([[2024-tarchi|Tarchi, 2024, p. 51]])
 
-- Integrated gravity, magnetic, and EM data successfully mapped heat sources and reservoir structures. ([[2024-chavanidis|Chavanidis, 2024, p. 18]])
+- Combining GPR and seismic data provided a more accurate estimation of water saturation than either method alone. ([[2024-alkhunaizi|Alkhunaizi, 2024, p. 58]])
 
-- Both GPR and ERT proved effective for non-invasive root mapping and monitoring. ([[2024-prasetyo|Prasetyo, 2024, p. 14]])
+- Referenced in this thesis. ([[2024-chavanidis|Chavanidis, 2024]])
 
-- Determined that source-receiver offset is a robust metric for estimating saturation in low-quality data environments. ([[2025-oyekan|Oyekan, 2025, p. 17]])
+- Both GPR and ERT proved effective for non-invasive monitoring of the soil-plant interface. ([[2024-prasetyo|Prasetyo, 2024, p. 18]])
 
-- TEM and AMT provided high resolution insight into subsurface geoelectric characteristics. ([[2025-ahmed|Ahmed, 2025, p. 34]])
+- Utilized seismic refraction and diving direct waves for groundwater exploration. ([[2025-oyekan|Oyekan, 2025, p. 30]])
 
-- Dense vibrator data provided a high-resolution map of near-surface parameters (stiffness, viscosity). ([[2002-al-ali|Al-Ali, 2002, p. 23]])
+- Referenced in this thesis. ([[2002-al-ali|Al-Ali, 2002]])
 
 ## Competing Approaches and Debates
 
-- [[2014-saeed|Saeed, 2014]] Distinguishing between different types of cavity fillings (air vs. water vs. sediment).
+- [[2009-al-lehyani|Al-Lehyani, 2009]] Distinguishing between surface waves and diffracted energy.
 
 ## Open Questions and Research Gaps
 

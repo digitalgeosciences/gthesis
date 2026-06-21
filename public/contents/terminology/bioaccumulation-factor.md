@@ -3,43 +3,43 @@ type: terminology
 title: "Bioaccumulation Factor"
 aliases:
   - "BAF"
+  - "bioconcentration-factor"
 canonical: true
-definition: "Ratio of concentration in plant tissue to concentration in sediment."
+definition: "ratio of concentration in organism to concentration in sediment"
 units: "dimensionless"
-related_techniques:
-  - "chemical-analysis"
+related_techniques: []
 tags:
-  - theme/environmental-geology
+  - theme/phytoremediation
 sources:
   - "raw/141022 - Sequestration of Contaminants by Mangrove (Avicennia marina) Ecosystem from the .pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Bioaccumulation Factor
 
-**Summary**: A measure of the accumulation of a substance in an organism relative to its concentration in the surrounding environment.
+**Summary**: A measure of the accumulation of a substance in an organism from its environment.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2019-alamran|AlAmran, 2019]] calculated BAF to assess metal and hydrocarbon uptake by Avicennia marina.
+- [[2019-alamran|AlAmran, 2019]] calculated BAF to determine the efficiency of metal transfer from sediment to plant tissues.
 
 ## Scientific Context
 
-- [[2019-alamran|AlAmran, 2019]] Indicates the efficiency of the plant in accumulating contaminants.
+- [[2019-alamran|AlAmran, 2019]] used to quantify the uptake of heavy metals by Avicennia marina.
 
 ## Measurement and Characterization Methods
 
-- [[2019-alamran|AlAmran, 2019]] Calculated from field and experimental data.
+- [[2019-alamran|AlAmran, 2019]] calculated as C_biota / C_sediment
 
 ## Key Findings Across Sources
 
-- The maximum BAF was 120 for root tissue. ([[2019-alamran|AlAmran, 2019, p. 16]])
+- The BAF values for Cu, Hg, and Zn exceeded 1, indicating efficient rates of transfer. ([[2019-alamran|AlAmran, 2019, p. 78]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

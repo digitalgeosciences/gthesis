@@ -2,39 +2,43 @@
 type: location
 title: "Riyadh Area"
 aliases:
-  - "Riyadh"
   - "Khashm Al-Qaddiyah"
 canonical: true
-region: "Central Saudi Arabia"
+region: "Central Province, Saudi Arabia"
 country: "Saudi Arabia"
-coordinates: "24°31'42.2\"N 46°23'41.3\"E"
+coordinates: "24.5°N, 46.4°E"
 geology: "carbonate platform"
 tags:
-  - location/riyadh-area
+  - theme/carbonate-geology
 sources:
   - "raw/140048 - Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia.pdf"
+  - "raw/143191 - ACOUSTIC PROPERTIES AND SEISMIC SIGNATURE OF BIOTURBATED STRATA OF THE JURASSIC .pdf"
   - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Riyadh Area
 
-**Summary**: The geographic region in central Saudi Arabia where the study was conducted.
+**Summary**: The geographic area near Riyadh where the study was conducted.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-radwan|Radwan, 2016]] conducted field studies at the Khashm Al-Qaddiyah outcrop near Riyadh.
+- [[2016-radwan|Radwan, 2016]] conducted field studies in the riyadh-area to sample the Tuwaiq Mountain Formation.
 
-- [[2025-ahmed|Ahmed, 2025]] conducted a survey in the riyadh-area to map the Minjur Aquifer.
+- [[2024-allehyani|allehyani, 2024]] focused on the Hanifa Formation located in the Riyadh area.
+
+- [[2025-ahmed|Ahmed, 2025]] conducted a survey in the Riyadh area to characterize the Minjur Aquifer.
 
 ## Geological and Structural Setting
 
-- [[2016-radwan|Radwan, 2016]] central Saudi Arabia
+- [[2016-radwan|Radwan, 2016]] Tuwaiq escarpment
 
-- [[2025-ahmed|Ahmed, 2025]] conducted a survey in the riyadh-area to map the Minjur Aquifer.
+- [[2024-allehyani|allehyani, 2024]] focused on the Hanifa Formation located in the Riyadh area.
+
+- [[2025-ahmed|Ahmed, 2025]] conducted a survey in the Riyadh area to characterize the Minjur Aquifer.
 
 ## Formations Present
 
@@ -42,9 +46,11 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- The study area is located at Khashm al Qaddiyah, west of Riyadh (24°31'42.2"N 46°23'41.3"E). ([[2016-radwan|Radwan, 2016, p. 18]])
+- Samples were collected from a roadcut along the Riyadh-Makkah highway. ([[2016-radwan|Radwan, 2016, p. 32]])
 
-- A 136-km profile was mapped across the northern portion of the Riyadh area. ([[2025-ahmed|Ahmed, 2025, p. 17]])
+- Not stated in source ([[2024-allehyani|allehyani, 2024]])
+
+- The aquifer provides approximately 80-90% of Riyadh's water supply. ([[2025-ahmed|Ahmed, 2025, p. 19]])
 
 ## Research Coverage and Gaps
 

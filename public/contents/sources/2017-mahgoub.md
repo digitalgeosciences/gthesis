@@ -12,146 +12,111 @@ committee_members:
   - "Osman Abdullatif"
 source_file: "raw/140193 - Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomec.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140193/"
-study_area: "Qusiba shale member outcrops located to the west of Qusayba village in Al-Qasim area, Central Saudi Arabia."
+study_area: "Qusiba shale member outcrops, Al-Qasim area, Central Saudi Arabia"
 keywords:
-  - Fractures analysis
-  - Geomechanical and petrophysical properties
-  - Lithofacies
-  - 3D Geostatistical modeling
-  - Lineaments interpretation
-  - fractures system
-  - Qusaiba shale member
-  - geomechanical properties
-  - lithology
-  - petrophysical properties
-  - tight shale
-  - source rock
   - Fracture system
-  - Qusaiba shale
-  - Quasiba shale
-  - petroleum system
-  - Saudi Arabia
+  - Qusaiba shale member
+  - Qalibah formation
+  - Geomechanical properties
+  - Lithofacies
+  - Petrophysical properties
+  - 3D geostatistical modeling
+  - Lithology
+  - Lineaments
   - Petrophysics
-  - Fault-related fold
-  - Multi-scale fractures
-  - Lithological properties
-  - Qasim Area
-  - Central Saudi Arabia
+  - Siltstone
+  - Sandstone
+  - Mudstone
 techniques:
-  - satellite-images-analysis
-  - field-investigations
-  - laboratory-measurements
+  - gis
+  - arccatalog
+  - spectral-gamma-ray
+  - schmidt-hammer
   - xrd
   - sem
   - petrel
-  - gis
-  - spot-7
-  - landsat-etm
-  - linear-scanline-method
-  - spectral-gamma-ray
-  - schmidt-hammer
-  - thin-section-petrography
   - stochastic-simulation
   - truncated-gaussian-simulation
-  - arccatalog
   - xrf
-  - remote-sensing
-  - 3d-geostatistical-modeling
-  - p-wave-velocity
   - point-load-test
-  - uniaxial-compressive-strength
+  - p-wave-velocity-measurement
+  - geostatistics
   - stereonet-analysis
-  - lidar
-  - core-analysis
-  - well-log-analysis
+  - lineament-analysis
+  - petrography
 tags:
   - degree/ms
   - formation/qusaiba-member
-  - location/central-saudi-arabia
+  - formation/qalibah-formation
   - location/al-qaseem-area
-  - location/old-qusaiba-outcrop
+  - location/central-saudi-area
+  - technique/gis
   - technique/xrd
   - technique/sem
-  - technique/gis
-  - technique/well-log-analysis
   - technique/petrel
-  - technique/thin-section-petrography
-  - technique/geostatistics
+  - technique/geomechanics
+  - technique/fracture-characterization
   - technique/xrf
-  - technique/stereonet-analysis
-  - technique/schmidt-hammer
-  - technique/lidar
-  - technique/core-analysis
+  - technique/geostatistics
+  - technique/petrography
+  - technique/point-load-test
+  - technique/lithofacies-analysis
   - theme/fracture-characterization
-  - theme/geomechanics
-  - theme/sedimentology
-  - theme/unconventional-resources
-  - theme/petroleum-geology-deposits
   - theme/petrophysics
-  - theme/petroleum-systems
+  - theme/sedimentology
+  - theme/geomechanics
   - terminology/fracture-characterization
-  - terminology/lithofacies
+  - terminology/facies-analysis
+  - terminology/natural-fracture-network
   - terminology/geomechanics
-  - terminology/sedimentology
+  - terminology/porosity
 status: ingested
 ---
 
 # Fractures System Within Quasiba Shale Outcrop and its Relationship to the Geomechanical and Lithological Properties, Qasim Area, Central Saudi Arabia.
 
-**Summary**: The thesis investigates the fracture systems and geomechanical properties of the Qusaiba shale member in the Al-Qasim area, Central Saudi Arabia. It utilizes a combination of satellite imagery analysis, field investigations (including spectral gamma ray and Schmidt hammer), and 3D geostatistical modeling to characterize lithofacies and their relationship to rock mechanics.
+**Summary**: The thesis investigates the fracture systems, geomechanical properties, and lithological characteristics of the Qusaiba shale member within the Qalibah formation in Central Saudi Arabia. It utilizes a multi-scale modeling approach to differentiate between large-scale non-strata-bound fractures and small-scale strata-bound fractures while correlating petrophysical data with mechanical strength.
 
 ---
 
 ## Research Problem
 
-The study addresses the need to understand the complex relationship between natural fractures, lithology, and geomechanical properties in the Qusaiba shale member (a potential tight shale resource) to characterize its mechanical behavior and reservoir potential.
+The study addresses the lack of understanding regarding the relationship between fracture networks, lithology, and geomechanical properties in the Qusaiba shale member, which is a potential target for unconventional resources (tight shale) in the Paleozoic petroleum system of Saudi Arabia.
 
 ## Objectives
 
-- Define and understand the fractures network of Qusaiba shale member in outcrops located to the west of Qusayba village
-- Analyze lineaments from satellite imagery (Spot-7 and Landsat-ETM+)
-- Characterize lithofacies and sedimentary structures
-- Establish geomechanical and petrophysical properties of the formation
 - Study the relationships between natural fractures and geomechanical properties in Qusaiba shale member of Qalibah formation, and try to predict the behavior of natural and hydraulic fractures in the subsurface.
 - Study the behavior of fractures over different lithofacies, and the effect of lithology on fractures.
-- Define and understand the fractures network of Qusaiba shale member in outcrops located to the west of Qusayba village.
-- Characterize lithofacies based on lithological and petrophysical properties.
-- Establish the relationship between fracture systems and geomechanical/lithological properties.
-- Define and understand the fractures network of Qusaiba shale member in outcrops located west of Qusayba village.
-- Analyze the relationship between fracture systems and lithological properties (grain size, bed thickness).
-- Develop a 3D geostatistical model to show the distribution of lithofacies and porosity values.
-- Define and understand the fracture network of the Qusaiba shale member in outcrops west of Qusayba village.
-- Characterize the lithological units based on mineralogy, petrophysics, and geomechanics.
-- Establish a multi-scale model for fractures (1st to 4th order).
-- Evaluate the relationship between porosity and various geomechanical properties like point load index and uniaxial compressive strength.
-- Evaluate the relationship between fracture systems and lithological properties.
-- Assess the geomechanical properties of the Qusaiba shale member.
+- Define and understand the fracture network of the Qusaiba shale member in outcrops located west of Qusayba village.
+- Analyze lineaments from satellite imagery to identify major fracture trends.
+- Determine the relationship between fracture density/spacing and lithological properties (grain size, bed thickness).
+- Establish a multi-scale model for fractures based on scale-dependency.
 
 ## Methods
 
-The study utilized satellite image analysis (Spot-7 and Landsat-ETM+) for lineament interpretation. Field investigations were conducted to map fractures, identify lithofacies, and collect samples for laboratory measurements. Laboratory techniques included XRD and SEM for mineralogical characterization of different lithofacies. 3D geostatistical modeling was performed using Petrel to model lithofacies distribution and porosity. Fracture analysis involved multi-scale fracture modeling (1st to 4th order zones) and evaluation of fracture density and spacing across different lithologies.
+The study utilized satellite imagery (Spot-7 and Landsat-ETM+) analyzed via ArcMap to identify regional lineaments. Field investigations included detailed stratigraphic logging, spectral gamma ray analysis for lithofacies identification, and Schmidt hammer testing for surface hardness. Laboratory measurements were performed on 60 samples using XRD and SEM to define mineralogy/lithofacies, and core/plug analysis for porosity and ultrasonic wave velocity. A 3D geostatistical model was constructed in Petrel using Sequential Indicator Simulation (SIS) and Truncated Gaussian Simulation (TGS) to map lithofacies distribution across three depositional zones.
 
 ## Data and Materials
 
-Data included satellite imagery from Spot-7 and Landsat-ETM+, field data from four specific locations, and mineralogical data from XRD and SEM analysis. The study utilized a 3D geostatistical model based on 14 vertical logs to map the distribution of lithofacies and porosity.
+Data includes 2 vertical stratigraphic sections, 4 specific outcrop locations, satellite imagery for two scales (Landsat-ETM+ and Spot-7), and laboratory results for multiple lithofacies including fissile shale, mudstone, siltstone, and various sandstone types.
 
 ## Key Findings
 
-- Two major fracture directions were identified in the study area: NE-SW and NW-SE, as evidenced by lineament analysis from both Spot-7 and Landsat-ETM+ images. ([[2017-mahgoub|Mahgoub, 2017, p. 67]])
-- The Qusaiba shale member is characterized by five distinct lithofacies: fissile shale, very fine grained muscovite siltstone, bioturbated mudstone, hummocky cross-stratified sandstone, and low/high angle cross-stratified sandstone. ([[2017-mahgoub|Mahgoub, 2017, p. 37]])
-- XRD analysis of the fissile shale lithofacies revealed the presence of kaolinite, quartz, muscovite, halite, and dickite. ([[2017-mahgoub|Mahgoub, 2017, p. 40]])
-- The very fine-grained muscovite siltstone lithofacies is primarily composed of well sorted, rounded to sub-rounded quartz grains with an estimated visual porosity of approximately 30%. ([[2017-mahgoub|Mahgoub, 2017, p. 45]])
-- SEM analysis confirmed the presence of platy micas within the very fine-grained muscovite siltstone lithofacies. ([[2017-mahgoub|Mahgoub, 2017, p. 46]])
-- The hummocky cross-stratified sandstone lithofacies contains quartz, dickite, and muscovite minerals. ([[2017-mahgoub|Mahgoub, 2017, p. 53]])
-- Fracture density and spacing vary significantly between different lithologies and are influenced by grain size and bed thickness. ([[2017-mahgoub|Mahgoub, 2017, p. 75]])
-- The study identified a local fault-propagation fold within the fracture system analysis. ([[2017-mahgoub|Mahgoub, 2017, p. 88]])
-- Two major fracture directions were identified: 320° (aligned with the Najd fault system) and 20° (related to post-Amar collision extensional activities). ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
-- Higher fracture density and smaller spacing were found in fissile shale and mudstone lithofacies compared to sandstone lithofacies. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
-- Large-scale fractures (lineaments) are non-strata-bound, while small-scale fractures are strata-bound, indicating different mechanical units. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
-- Geomechanical parameters (Schmidt hammer, point load index, uniaxial compressive strength, and dynamic young modulus) were significantly higher in sandstone lithofacies than in shale/mudstone. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
-- The Qusaiba member was divided into five distinct geomechanical units (Unit-1 to Unit-5) based on fracture density, petrophysical properties, and geomechanical properties. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
-- The study identified over 120 lineaments of >1500m using Spot-7 imagery and over 200 lineaments of <1500m using Landsat-ETM+ imagery to define fracture orientations. ([[2017-mahgoub|Mahgoub, 2017, p. 41]])
-- The fissile shale lithofacies contains quartz, kaolinite, dickite, muscovite, and halite as confirmed by XRD analysis. ([[2017-mahgoub|Mahgoub, 2017, p. 59]])
+- The Qusaiba shale member contains five main lithofacies: fissile shale, very fine-grained micaceous siltstone, bioturbated mudstone, hummocky cross-stratified sandstone, and low/high angle cross-stratified sandstone. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- Lineament analysis revealed two major fracture directions: 320° (aligned with the Najd fault system) and 20° (related to post-Amar collision extensional activities). ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- Fracture density is higher in fissile shale and mudstone lithofacies compared to sandstone lithofacies, with smaller spacing observed in the former. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- Non-stratabound fractures (large scale) treat the area as one mechanical unit, while stratabound fractures (small scale) suggest different mechanical units within the member. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- Geomechanical parameters (Schmidt hammer, point load index, UCS, and dynamic Young modulus) are significantly higher in sandstone lithofacies than in shale or siltstone lithofacies. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- The study area was divided into five geomechanical units based on fracture density, petrophysical properties, and geomechanical properties. ([[2017-mahgoub|Mahgoub, 2017, p. 19]])
+- XRD analysis of the fissile shale lithofacies confirmed the presence of quartz, kaolinite, dickite, muscovite, and halite. ([[2017-mahgoub|Mahgoub, 2017, p. 59]])
+- The very fine-grained siltstone lithofacies showed an estimated visual porosity of approximately 30%. ([[2017-mahgoub|Mahgoub, 2017, p. 67]])
+- Zone-1 (first depositional cycle) consists of 52% fissile shale and shows high porosity due to the dominance of this lithofacies. ([[2017-mahgoub|Mahgoub, 2017, p. 84]])
+- Zone-2 (second depositional cycle) contains 40% hummocky cross-stratified sandstone, which is identified as an effective element for reservoir quality assessment. ([[2017-mahgoub|Mahgoub, 2017, p. 84]])
+- Two major fracture trends were identified: 320° (potentially linked to the Najd fault system) and 20° (linked to post-Amar collision extensional activities). ([[2017-mahgoub|Mahgoub, 2017, p. 88]])
+- Fracture density is highest in fissile shale and mudstone lithofacies, while sandstone units show lower fracture density but higher geomechanical strength. ([[2017-mahgoub|Mahgoub, 2017, p. 93]])
+- The average fracture spacing for the 320° set ranges from 17cm in Mudstone to 80cm in fine sandstone; for the 20° set, it ranges from 20cm in very fine-grained sandstone to 120cm in medium-to-coarse-grained sandstone. ([[2017-mahgoub|Mahgoub, 2017, p. 93]])
+- A multi-scale model identified first and second order fractures as non-strata-bound (large scale) and third and fourth order fractures as strata-bound (small scale). ([[2017-mahgoub|Mahgoub, 2017, p. 107]])
+- P-wave velocity was found to be inversely proportional to porosity but directly proportional to geomechanical properties like UCS and Young's modulus. ([[2017-mahgoub|Mahgoub, 2017, p. 139]])
 
 ## Limitations
 
@@ -159,28 +124,23 @@ Not stated in source
 
 ## Recommendations and Future Work
 
-- Detailed study on the diagenesis and reservoir quality of Qusaiba shale member sandstone spots.
-- Correlation between the outcrops of the Silurian Qusaiba shale member in a larger scale.
-- Integration and comparison of outcrop data and subsurface data of Qusaiba member of Qalibah Formation.
-- More studies on the fold found in the area to determine its tectonic and structural settings.
+- Conduct a detailed study on diagenesis and reservoir quality of Qusaiba shale member sandstone spots.
+- Correlate outcrops of the Silurian Qusaiba shale member on a larger scale.
+- Integrate and compare outcrop data with subsurface data of the Qalibah Formation.
+- Perform more studies on the fold found in the Qasim Area to determine its tectonic and structural settings.
 
 ## Related Concepts
 
 - [[xrd]]
 - [[sem]]
 - [[petrel]]
-- [[qusaiba-member]]
-- [[old-qusaiba-outcrop]]
-- [[fracture-characterization]]
 - [[geomechanics]]
-- [[lithofacies]]
-- [[sedimentology]]
-- [[thin-section-petrography]]
-- [[unconventional-resources]]
+- [[qusaiba-member]]
 - [[al-qaseem-area]]
-- [[fractured-reservoirs]]
-- [[gis]]
-- [[well-log-analysis]]
-- [[geostatistical-modeling]]
-- [[petroleum-systems]]
+- [[fracture-characterization]]
+- [[facies-analysis]]
+- [[petrophysics]]
 - [[geostatistics]]
+- [[point-load-test]]
+- [[natural-fracture-network]]
+- [[porosity]]

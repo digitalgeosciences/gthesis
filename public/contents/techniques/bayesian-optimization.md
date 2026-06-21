@@ -2,29 +2,29 @@
 type: technique
 title: "Bayesian Optimization"
 aliases:
-  - "Bayesian optimization"
+  - "Optuna Bayesian optimization"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "optimized hyperparameter sets"
+output: "optimized hyperparameter sets for ML models"
 tags:
   - technique/bayesian-optimization
-  - theme/earthquake-seismology
+  - theme/ground-motion-prediction
 sources:
   - "raw/143218 - MACHINE LEARNING-BASED GROUND MOTION PREDICTION MODELS FOR WEST JAVA, INDONESIA.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Bayesian Optimization
 
-**Summary**: An optimization algorithm that uses a probabilistic model to find the best hyperparameters for machine learning models.
+**Summary**: An optimization algorithm that uses a probabilistic model to find the best hyperparameters for a machine learning model.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2025-rachmadan|Rachmadan, 2025]] applied Bayesian optimization over 200 iterations to tune hyperparameter combinations for CatBoost, Gradient Boosting, and Random Forest.
+- [[2025-rachmadan|Rachmadan, 2025]] applied bayesian-optimization to tune hyperparameters for CatBoost, Gradient Boosting, and Random Forest models.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Results and Findings
 
-- Bayesian optimization was used to evaluate progression of hyperparameter combinations and their corresponding average MSE values. ([[2025-rachmadan|Rachmadan, 2025, p. 86]])
+- Bayesian optimization performed better than grid search or randomized search in terms of MSE across all tectonic types. ([[2025-rachmadan|Rachmadan, 2025, p. 46]])
 
 ## Methodological Variations Across Sources
 

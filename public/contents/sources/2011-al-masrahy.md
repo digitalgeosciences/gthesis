@@ -12,138 +12,116 @@ committee_members:
   - "John Melvin"
 source_file: "raw/138468 - Aspects of Permian Paleowind Directions in the Unayzah A Reservoir Subsurface Ea.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/138468/"
-study_area: "Unayzah A reservoir in four fields (Field A, B, C, and D) in eastern and central Saudi Arabia."
+study_area: "Unayzah A reservoir in eastern and central Saudi Arabia (Fields A, B, C, and D)"
 keywords:
   - Permian
   - Paleowind
   - Unayzah A Reservoir
   - Core Data
   - Image Log Data
-  - Eolian Depositional Facies
-  - Unayzah A
+  - Eolian Facies
+  - Dune Types
+  - Image log
+  - Core analysis
+  - Cross-bedding
+  - Saudi Arabia
   - Eolian
   - Core
-  - Image Log
-  - Saudi Arabia
   - Sandstone
-  - Paleocurrent
-  - Subsurface
-  - Eastern Central Saudi Arabia
+  - Bedding Facies
 techniques:
   - core-analysis
   - image-log-analysis
-  - well-log-analysis
   - petrography
+  - statistical-analysis
+  - well-log-analysis
+  - gamma-ray-log
+  - microfacies-analysis
+  - lithofacies-analysis
   - geolog
   - borehole-imaging
-  - formation-micro-imager
-  - emi
-  - star
-  - rozeta
-  - oriana
-  - petrophysics
-  - lithostratigraphy
 tags:
   - degree/ms
   - formation/unayzah-formation
-  - location/central-saudi-arabia
+  - location/central-saudi-area
   - location/eastern-province
   - technique/core-analysis
   - technique/image-log-analysis
   - technique/well-log-analysis
-  - theme/sedimentology
+  - technique/gamma-ray-log
   - theme/paleoenvironmental-reconstruction
-  - theme/petroleum-geology-deposits
+  - theme/sedimentology
+  - theme/petrophysics
+  - terminology/eolian-facies
+  - terminology/paleowind
+  - terminology/paleocurrent-analysis
   - terminology/facies-analysis
-  - terminology/diagenesis
-  - terminology/paleoenvironmental-reconstruction
-  - terminology/porosity
-  - terminology/permeability
-  - terminology/lithofacies
-  - terminology/sedimentology
-  - terminology/paleomagnetism
-  - terminology/permeability-anisotropy
 status: ingested
 ---
 
 # Aspects of Permian Paleowind Directions in the Unayzah A Reservoir Subsurface Eastern Central Saudi Arabia Utilizing Integrated Core and Image Log Data
 
-**Summary**: The thesis investigates the distribution of paleowind directions in the Unayzah A reservoir in eastern and central Saudi Arabia using integrated core and image log data. It identifies a dominant paleowind direction toward the east-northeast (mean vector of 72 degrees) and characterizes various eolian depositional facies such as dunes, interdunes, and sand sheets.
+**Summary**: The thesis investigates the paleowind directions in the Unayzah A reservoir of the Permian period in eastern and central Saudi Arabia. By integrating core data from six wells and image log data from 21 wells, the study identifies a dominant east-northeast paleowind direction (mean vector of 72 degrees) and characterizes various eolian depositional facies.
 
 ---
 
 ## Research Problem
 
-Determining the paleoenvironmental conditions and specific wind regimes during the deposition of the Unayzah A reservoir in the Permian period to understand its sedimentary architecture and potential for permeability anisotropy.
+The lack of specific studies regarding the analysis of dune deposits with respect to paleowind directions in the Unayzah-A reservoir, despite its economic importance and complex sedimentary architecture.
 
 ## Objectives
 
-- Identify and document the distribution and variability of eolian facies in the Unayzah-A across several areas.
-- Determine the paleowind direction in the Unayzah-A in selected areas across Saudi Arabia's subsurface.
-- Evaluate any variance in data in the context of dune type identification, paleogeographic significance, and economic implications.
-- Identify and characterize distinct eolian depositional facies (dunes, interdunes, sand sheets) within the Unayzah-A reservoir.
-- Determine paleowind directions using integrated core and image log data.
-- Evaluate the impact of paleo-water table fluctuations on the preservation of eolian structures.
-- Identify and characterize distinct eolian depositional facies within the Unayzah-A member using core data.
-- Evaluate the effectiveness of micro-resistivity image logs in identifying sedimentary structures and paleocurrent directions.
-- Determine the distribution and frequency of different eolian facies (dunes, sand sheets, interdunes) across multiple wells.
-- Reconstruct paleo-wind directions based on cross-bedding orientation data from integrated core and image log analysis.
-- Identify eolian depositional facies (dunes, interdunes, sand sheets) within the Unayzah-A member.
-- Integrate core data with image log data to ground-truth and characterize sedimentary structures.
-- Determine paleowind directions based on cross-bed orientation in dune facies.
-- Evaluate the consistency of wind direction across different fields in the study area.
-- Identify distinct eolian depositional facies (dunes, interdunes, sand sheets) within the Unayzah A reservoir.
-- Determine paleowind directions using integrated core and image log data across multiple fields.
-- Evaluate the impact of dune morphology on permeability anisotropy in the reservoir.
-- Identify aeolian depositional facies within the Unayzah A reservoir.
-- Characterize the paleoenvironmental conditions of the Unayzah A reservoir.
+- Identify and document the distribution and variability of eolian facies in the Unayzah-A.
+- Determine the paleowind direction in the Unayzah-A across several fields in Saudi Arabia.
+- Evaluate the variation in data to identify dune types, assess paleogeographic significance, and determine economic implications.
+- Identify and characterize depositional facies in the Unayzah-A member using core data.
+- Evaluate the quality and reliability of borehole image logs for identifying eolian features.
+- Determine paleowind directions based on cross-bedding analysis from image log data.
 
 ## Methods
 
-The study utilizes a multi-scale approach combining physical core samples with high-resolution borehole imaging. Core analysis was used to identify lithofacies, grain size distribution, and sedimentary structures (e.g., pin-striped laminations, adhesion ripples). Micro-resistivity image logs (such as FMI/FMS) were analyzed to provide 360-degree views of the wellbore, allowing for the determination of dip magnitude and direction of cross-beds. The integration of these datasets allowed for the identification of 'Stokes Surfaces'—the transition from dry eolian to wet conditions—and the quantification of facies distribution across several wells (A1, B1, C1, D1).
+The study integrated core descriptions with borehole image logs (FMI, FMS, EMI, and STAR). A multi-step workflow was used for image log processing: raw data review, orientation correction, horizontal equalization, static/dynamic normalization, and manual dip picking. These were then compared to core samples to establish a 'ground-truth' for lithofacies. Cross-bedding analysis was performed on the picked dips to determine paleowind direction using rose diagrams (Rozeta and Oriana software). Dune types were determined based on the distribution of dip azimuths and the presence of specific sedimentary structures like Stokes surfaces.
 
 ## Data and Materials
 
-The study utilizes core samples and micro-resistivity image logs from four specific wells: Well A1, Well B1, Well C1, and Well D1. The data covers various eolian facies including dunes, sand sheets, interdunes, and paleosols within the Unayzah-A member.
+The study utilized 4000 ft of borehole image logs from 21 selected wells across four fields in eastern central Saudi Arabia. It also included 1096 feet of core data for calibration and lithofacies identification.
 
 ## Key Findings
 
-- The Unayzah-A reservoir displays widespread evidence of deposition under arid to semi-arid conditions in a wind-dominated, aeolian setting. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 10]])
-- Four distinct eolian depositional facies are recognized: dunes, interdunes, sand sheet, and playa lakes. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 10]])
-- A dominant paleowind direction toward the east-northeast (present day) was identified, with a window range between 40 and 100 degrees and a mean vector of 72 degrees. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 10]])
-- The study identifies specific dune types based on wind direction: barchanoid ridge dunes and transverse dunes. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 91]])
-- Unayzah-A is characterized by a more uniform distribution across the area compared to Unayzah-B and C members. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 12]])
-- The Unayzah-A reservoir is characterized by a variety of eolian facies, including dunes, interdunes, and sand sheets, indicating an arid to semi-arid environment. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 26]])
-- Paleomagnetic data suggest paleolatitudes of approximately 28° S for the Unayzah-A member. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 27]])
-- The study identified five distinct lithofacies: 1) high-angle cross-bedded sandstones, 2) low-angle to flat laminated sandstones, 3) irregularly laminated sandstones, 4) irregularly laminated, silty sandstones, and 5) poorly sorted, patchy carbonate cemented sandstones. ([[2011-al-masrahy|AL-MASRAHY, 2011]])
-- page_num_ref": 37 (Note: The text for these five lithofacies starts on page 37/page 18 of the provided snippet). ([[2011-al-masrahy|AL-MASRAHY, 2011]])
-- High-angle cross-bedded sandstones with foreset dips over 25° are interpreted as eolian dune cross-bedding. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 48]])
-- Horizontal surfaces truncating eolian cross-bedding (Stokes surfaces) indicate a rising paleo-water table. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 49]])
-- The Unayzah-A reservoir is dominated by a dry eolian depositional system, with high-angle cross-bedded sandstones (eolian dunes) accounting for 46% of the facies distribution. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 61]])
-- Sand sheet deposits (low-angle to flat laminated sandstones) represent approximately 22% of the reservoir's facies. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 63]])
-- Interdune facies (including both wet and damp varieties) constitute roughly 30% of the total distribution in the studied wells. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 63]])
-- Paleosol deposits, characterized by high degrees of texture disruption from plant rooting, are present in approximately 2% of the section. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 63]])
+- The study identified a dominant paleowind direction toward the east-northeast with a mean vector of 72 degrees and a window range between 40 and 100 degrees. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 10]])
+- Five distinct litho-facies were identified: high-angle cross-bedded sandstones, low-angle to flat laminated sandstones, irregularly laminated sandstones, irregularly laminated silty sandstones, and poorly sorted, patchy carbonate cemented sandstones. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 48]])
+- High-angle cross-bedded sandstones (foreset dips >25°) were identified as eolian dune cross-bedded sandstones with 'pin-striped' wind ripple laminations. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 49]])
+- Low-angle to flat laminated sandstones were interpreted as eolian sand sheet deposits, often showing evidence of a close water table (e.g., plant rooting). ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 51]])
+- Irregularly laminated sandstones with crinkly laminations and adhesion ripples were identified as damp interdune or sandy sabkha environments. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 54]])
+- Irregularly laminated, silty sandstones (siltstone and very-fine silty sandstone) were interpreted as wet interdune/playa lake deposits with desiccation features. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 56]])
+- Poorly sorted, patchy carbonate cemented sandstones were identified as paleosol horizons formed in close proximity to the paleo-water table. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 58]])
+- The Unayzah-A member is dominated by five depositional facies: eolian dunes (46%), sand sheets (22%), interdunes (30%), and paleosols (2%). ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 61]])
+- Eolian dune deposits are characterized by high-angle cross-bedding (20°-34°) and a distinct 'blue' pattern on dipmeter logs. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 75]])
+- A total of 2813 image log data points were picked, with 88% concentrated between 80-90 degrees (east-northeast). ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 104]])
+- The statistical mean for the paleowind direction across all fields was calculated as North 72° East. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 106]])
+- The study identified a consistent, unimodal wind regime across all four studied fields over a 300 km range. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 106]])
+- The majority of the Unayzah-A member dunes are classified as transverse dune types based on their narrow unimodal orientation and dip distribution. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 116]])
+- The presence of Stokes surfaces (identified in both core and image logs) indicates a rise in the paleo-water table. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 97]])
+- The Unayzah-A member is confirmed as a continental deposition under arid to semi-arid conditions in a wind-dominated, eolian setting. ([[2011-al-masrahy|AL-MASRAHY, 2011, p. 127]])
 
 ## Limitations
 
-Poor hole conditions and poor pad contact in well A2 resulted in low-quality image data that could not be used for paleowind investigation. Well C1 initially showed a discrepancy in orientation due to incorrect pad allocation, requiring re-processing.
+Some wells had poor data quality due to hole conditions (e.g., well A2), requiring the use of alternative wells for analysis. One well (C1) showed a potential processing error in initial results that required manual correction.
 
 ## Recommendations and Future Work
 
-Not stated in source
+The study suggests that identifying paleowind direction is critical for determining permeability anisotropy, as optimal permeability is perpendicular to the wind flow direction.
 
 ## Related Concepts
 
 - [[core-analysis]]
 - [[image-log-analysis]]
+- [[eolian-facies]]
+- [[paleowind]]
 - [[unayzah-formation]]
-- [[central-saudi-arabia]]
-- [[facies-analysis]]
+- [[central-saudi-area]]
 - [[paleoenvironmental-reconstruction]]
 - [[sedimentology]]
-- [[diagenesis]]
-- [[porosity]]
-- [[permeability]]
-- [[lithofacies]]
-- [[paleomagnetism]]
-- [[permeability-anisotropy]]
+- [[paleocurrent-analysis]]
+- [[petrophysics]]
+- [[facies-analysis]]

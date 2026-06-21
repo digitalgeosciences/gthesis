@@ -2,47 +2,46 @@
 type: terminology
 title: "Hydrothermal Alteration"
 aliases:
-  - "hydrothermal activity"
+  - "alteration"
 canonical: true
-definition: "Alteration of rocks by hot, mineral-rich fluids."
-units: "not applicable"
+definition: "alteration caused by hot fluids"
+units: "Not applicable"
 related_techniques:
   - "xrd"
   - "qemscan"
-  - "thin-section-petrography"
+  - "petrography"
 tags:
   - theme/mineralogy
-  - theme/geothermal-exploration
 sources:
   - "raw/142432 - Structural characterization of a Geothermal Field Al-Lith, western Saudi Arabia.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Hydrothermal Alteration
 
-**Summary**: The alteration of rocks by hot, mineral-rich fluids.
+**Summary**: The chemical and mineralogical changes in rocks caused by hot, chemically active fluids.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-rafiq|Rafiq, 2023]] analyzed the degree of hydrothermal alteration in rock samples.
+- [[2023-rafiq|Rafiq, 2023]] assessed hydrothermal-alteration to determine the intensity of fluid-rock interaction.
 
 ## Scientific Context
 
-- [[2023-rafiq|Rafiq, 2023]] Critical for identifying the presence and intensity of a geothermal system.
+- [[2023-rafiq|Rafiq, 2023]] critical for identifying the history of geothermal systems.
 
 ## Measurement and Characterization Methods
 
-- [[2023-rafiq|Rafiq, 2023]] Identified through mineralogical analysis (XRD, QEMSCAN) and petrographic observation.
+- [[2023-rafiq|Rafiq, 2023]] identified via mineral assemblage and chemical enrichment.
 
 ## Key Findings Across Sources
 
-- Presence of chlorite and epidote as dominant secondary minerals indicates low-temperature hydrothermal alteration. ([[2023-rafiq|Rafiq, 2023, p. 77]])
+- Presence of chlorite and epidote indicated low-temperature alteration; quartz veins suggested high-temperature activity. ([[2023-rafiq|Rafiq, 2023, p. 79]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

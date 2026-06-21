@@ -4,7 +4,7 @@ title: "Mineral Sorting"
 aliases:
   - "mineral sorting"
 canonical: true
-definition: "The spatial distribution of minerals based on physical properties and environmental processes."
+definition: "The physical separation of minerals during sediment transport."
 units: "not applicable"
 related_techniques:
   - "xrd"
@@ -15,33 +15,33 @@ tags:
 sources:
   - "raw/142193 - DYNAMICITY OF VOLCANICLASTICS IN FLUVIAL–COASTAL–AEOLIAN SEDIMENTARY SYSTEMS INS.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Mineral Sorting
 
-**Summary**: The process by which different minerals are separated or concentrated due to physical processes like transport and weathering.
+**Summary**: The process by which different minerals are separated or concentrated during transport.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2022-argadestya|Argadestya, 2022]] analyzed mineral sorting in fluvial, aeolian, and coastal environments.
+- [[2022-argadestya|Argadestya, 2022]] investigated mineral sorting in fluvial, aeolian, and coastal environments.
 
 ## Scientific Context
 
-- [[2022-argadestya|Argadestya, 2022]] Crucial for understanding how transport mechanisms (wind, water) differentiate mineral populations in sedimentary systems.
+- [[2022-argadestya|Argadestya, 2022]] Crucial for interpreting the geological history and processes on Mars.
 
 ## Measurement and Characterization Methods
 
-- [[2022-argadestya|Argadestya, 2022]] Calculated Pyroxene/Plagioclase (Px/PF) ratios from XRD data.
+- [[2022-argadestya|Argadestya, 2022]] Analyzed via XRD mineral counts and XRF chemical signatures.
 
 ## Key Findings Across Sources
 
-- Used Px/PF ratio as a cut-off value to determine the mineralogical sorting against depositional environment. ([[2022-argadestya|Argadestya, 2022, p. 49]])
+- Distinctive patterns of mineral sorting were identified across the transition from proximal to distal zones. ([[2022-argadestya|Argadestya, 2022, p. 14]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

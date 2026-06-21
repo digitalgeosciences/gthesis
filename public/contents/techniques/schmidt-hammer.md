@@ -2,38 +2,39 @@
 type: technique
 title: "Schmidt Hammer"
 aliases:
-  - "Schmidt Hammer"
+  - "Schmidt Hammer Rebound Number"
+  - "RN"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "rock hardness and strength indices"
+output: "Rebound Number (RN)"
 tags:
   - technique/schmidt-hammer
   - theme/geomechanics
 sources:
+  - "raw/139721 - The relationship between litho-stratigraphy and geomechanical properties of Arab.pdf"
   - "raw/139877 - THE RELATIONSHIP BETWEEN LITHOSTRATIGRAPHY AND GEOMECHANICAL PROPERTIES OF SARAH.pdf"
-  - "raw/140507 - Nature and Characteristics of Fracture System within Wajid Sandstone Group, SW S.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-15
 ---
 
 # Schmidt Hammer
 
-**Summary**: A non-destructive test used to estimate rock hardness and strength.
+**Summary**: A non-destructive test to estimate the strength and hardness of rock surfaces.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2016-babker|Babker, 2016]] used Schmidt hammer to provide quick estimation of rock hardness and strength in the field.
+- [[2015-abdlmutalib|Abdlmutalib, 2015]] applied schmidt-hammer to determine the surface hardness of samples from both formations.
 
-- [[2017-benaafi|Benaafi, 2017]] used Schmidt hammer to measure the strength (RN) of Wajid Group sandstones in the field.
+- [[2016-babker|Babker, 2016]] applied Schmidt hammer tests to provide a qualitative indication for rock hardness across different lithofacies.
 
 ## Instruments and Software
 
 
 
-- [[2017-benaafi|Benaafi, 2017]] used Schmidt hammer to measure the strength (RN) of Wajid Group sandstones in the field.
+- [[2016-babker|Babker, 2016]] applied Schmidt hammer tests to provide a qualitative indication for rock hardness across different lithofacies.
 
 ## Typical Workflow
 
@@ -41,9 +42,9 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The results showed correlation between Schmidt hammer, compressive strength, and Young's modulus to the lithofacies. ([[2016-babker|Babker, 2016, p. 27]])
+- Maximum RN value is 55 for peloidal fossiliferous grainstone and wavy rippled sandy grainstone; minimum value (15) is for laminated mudstone. ([[2015-abdlmutalib|Abdlmutalib, 2015, p. 88]])
 
-- The highest values of the RN were observed in sandstone samples from Juayl Formation with average values equal to 31.40. ([[2017-benaafi|Benaafi, 2017, p. 98]])
+- The Schmidt hammer gives higher readings for the harder rock, which coincides with higher reading for point load and Young’s modulus. ([[2016-babker|Babker, 2016, p. 113]])
 
 ## Methodological Variations Across Sources
 

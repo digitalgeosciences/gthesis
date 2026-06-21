@@ -1,45 +1,46 @@
 ---
 type: terminology
 title: "Geotherm"
-aliases: []
+aliases:
+  - "geotherm curve"
 canonical: true
-definition: "A vertical profile of temperature in the Earth's crust."
-units: "degrees Celsius (°C)"
+definition: "A profile of temperature versus depth."
+units: "°C per km"
 related_techniques:
-  - "magnetic-survey"
+  - "magnetic-surveys"
   - "magnetotelluric"
 tags:
-  - theme/near-surface-geophysics
+  - theme/geothermal-exploration
 sources:
   - "raw/142958 - The Use of Geophysical Methods in Geothermal Exploration of the Wadi Al Lith Fie.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
 # Geotherm
 
-**Summary**: A profile showing the variation of temperature with depth in the Earth's crust.
+**Summary**: A plot of temperature versus depth within the Earth'/s crust.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-chavanidis|Chavanidis, 2024]] constructed a geotherm to predict surface heat flow.
+- [[2024-chavanidis|Chavanidis, 2024]] constructed a geotherm to predict surface heat flow at the hot spring site.
 
 ## Scientific Context
 
-- [[2024-chavanidis|Chavanidis, 2024]] Used to model the thermal state and predict surface heat flow.
+- [[2024-chavanidis|Chavanidis, 2024]] Used to assess the geothermal potential and determine if a reservoir is viable for production.
 
 ## Measurement and Characterization Methods
 
-- [[2024-chavanidis|Chavanidis, 2024]] Constructed using data from magnetic and electromagnetic surveys.
+- [[2024-chavanidis|Chavanidis, 2024]] Derived from Curie isotherm depth and EM data.
 
 ## Key Findings Across Sources
 
-- The 1D geotherm included the Curie isotherm (14.8 km), Moho (27 km), and LAB (49.7 km). ([[2024-chavanidis|Chavanidis, 2024, p. 104]])
+- The geotherm was confirmed by deep electromagnetic soundings. ([[2024-chavanidis|Chavanidis, 2024, p. 17]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

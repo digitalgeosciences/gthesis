@@ -1,85 +1,83 @@
 ---
 type: formation
 title: "Tuwaiq Mountain Formation"
-aliases: []
+aliases:
+  - "Tuwaiq Mountain Formation"
 canonical: true
-age: "Not stated in source"
-basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "Not stated in source"
-tags: []
+age: "Jurassic (Late Callovian)"
+basin: "Saudi Arabia"
+lithology: "limestone and dolomite"
+reservoir_status: "potential"
+tags:
+  - theme/carbonate-geology
 sources:
-  - "raw/139345 - Sedimentological and stratigraphic studies of the Cambro-Ordovician succession i.pdf"
   - "raw/140048 - Dedolomitization of Jurassic Tuwaiq Mountain Formation, Riyadh, Saudi Arabia.pdf"
   - "raw/140211 - CHARACTERIZATION OF THE CARBONATE MUD ROCKS OF THE MIDDLE JURASSIC TUWAIQ MOUNTA.pdf"
   - "raw/140444 - MICROFACIES AND RELATED DIAGENESIS OF THE TUWAIQ MOUNTAIN FORMATION, CENTRAL SAU.pdf"
-  - "raw/141621 - SOURCE-ROCK CHARACTERIZATION OF LATE JURASSIC (EARLY KIMMERIDGIAN) CARBONATE MUD.pdf"
+  - "raw/140693 - Reservoir and Completion Parametric Study on a Shale Gas Reservoir.pdf"
   - "raw/141781 - The Heterogeneity and statistical analysis of Porosity and Permeability in Juras.pdf"
   - "raw/142132 - Texture, Pore Type, Mechanical, and Natural Fracture Characterization of Paleozo.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Tuwaiq Mountain Formation
 
-**Summary**: Geological formation studied in the thesis collection.
+**Summary**: A Jurassic carbonate formation in central Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2014-mohammedfaiz|Mohammedfaiz, 2014]] studied the Tuwaiq Mountain Formation
-
-- [[2016-radwan|Radwan, 2016]] studied the tuwaiq-mountain-formation to analyze diagenetic processes.
+- [[2016-radwan|Radwan, 2016]] studied the tuwaiq-mountain-formation to characterize its diagenetic history.
 
 - [[2017-mohammed|Mohammed, 2017]] studied the Tuwaiq Mountain Formation as a potential unconventional reservoir.
 
-- [[2017-elyamani|ElYamani, 2017]] studied the Tuwaiq Mountain Formation to evaluate its reservoir potential.
+- [[2017-elyamani|ElYamani, 2017]] studied the Tuwaiq Mountain Formation to characterize its microfacies and diagenetic history.
 
-- [[2020-usman|Usman, 2020]] studied the Tuwaiq Mountain Formation as a potential unconventional source rock.
+- [[2018-aleid|Aleid, 2018]] focused on the tuwaiq-mountain-formation as the primary reservoir for gas extraction.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Tuwaiq Mountain formation for porosity and permeability.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Tuwaiq Mountain Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] investigated the Tuwaiq Mountain formation for its mechanical and pore properties.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Referenced in this thesis.
 
 ## Depositional Environment
 
-
-
-- [[2016-radwan|Radwan, 2016]] studied the tuwaiq-mountain-formation to analyze diagenetic processes.
+- [[2016-radwan|Radwan, 2016]] shallow marine platform
 
 - [[2017-mohammed|Mohammed, 2017]] studied the Tuwaiq Mountain Formation as a potential unconventional reservoir.
 
-- [[2017-elyamani|ElYamani, 2017]] studied the Tuwaiq Mountain Formation to evaluate its reservoir potential.
+- [[2017-elyamani|ElYamani, 2017]] studied the Tuwaiq Mountain Formation to characterize its microfacies and diagenetic history.
 
-- [[2020-usman|Usman, 2020]] studied the Tuwaiq Mountain Formation as a potential unconventional source rock.
+- [[2018-aleid|Aleid, 2018]] focused on the tuwaiq-mountain-formation as the primary reservoir for gas extraction.
 
-- [[2021-al-nuwais|Al-Nuwais, 2021]] analyzed the Tuwaiq Mountain formation for porosity and permeability.
+- [[2021-al-nuwais|Al-Nuwais, 2021]] studied the Tuwaiq Mountain Formation to evaluate its heterogeneity and reservoir quality.
 
-- [[2022-abdlmutalib|Abdlmutalib, 2022]] investigated the Tuwaiq Mountain formation for its mechanical and pore properties.
+- [[2022-abdlmutalib|Abdlmutalib, 2022]] Referenced in this thesis.
 
 ## Reservoir Properties
 
 
 
+## Diagenetic History
+
+- [[2016-radwan|Radwan, 2016]] dolomitization, chertification, calcitization
+
 ## Key Findings Across Sources
 
-- studied the Tuwaiq Mountain Formation ([[2014-mohammedfaiz|Mohammedfaiz, 2014]])
+- The formation is characterized by high-purity limestone and significant chertification. ([[2016-radwan|Radwan, 2016, p. 23]])
 
-- The Daddiyah member contains both chertification and dolomite calcitization. ([[2016-radwan|Radwan, 2016, p. 14]])
+- The formation contains three tiers of varying quality, with Tier 1 having high TOC (up to 10%) and low clay content. ([[2017-mohammed|Mohammed, 2017, p. 16]])
 
-- The TQMN contains both organic-lean and organic-rich facies with varying porosity and permeability. ([[2017-mohammed|Mohammed, 2017, p. 130]])
+- Contains 8 distinct microfacies ranging from coral rudstones to peloidal grainstones, with a complex diagenetic history including dolomitization and silicification. ([[2017-elyamani|ElYamani, 2017, p. 19]])
 
-- The TMF contains three members (T1, T2, T3) with distinct microfacies and diagenetic features. ([[2017-elyamani|ElYamani, 2017, p. 47]])
+- The formation is well suited with a TOC of 4% and high hydrocarbon generation potential. ([[2018-aleid|Aleid, 2018, p. 25]])
 
-- The study focuses on Early Kimmeridgian carbonate mudrocks within this formation. ([[2020-usman|Usman, 2020]])
+- The Tuwaiq Mountain Formation had an RQI of 0.070 and a Dykstra-Parsons coefficient of 0.830. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 124]])
 
-- Tuwaiq mudstone showed crystallized porosity after dolomitization. ([[2021-al-nuwais|Al-Nuwais, 2021, p. 65]])
-
-- TML exhibits less brittleness than Hanifa due to higher clay content and more abundant laminations. ([[2022-abdlmutalib|Abdlmutalib, 2022, p. 19]])
+- Referenced in this thesis. ([[2022-abdlmutalib|Abdlmutalib, 2022]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

@@ -2,43 +2,46 @@
 type: terminology
 title: "Calcification"
 aliases:
-  - ""
+  - "calcium sulfate precipitation"
+  - "CaSO4 precipitation"
 canonical: true
-definition: "The biological process of forming a calcium carbonate shell from seawater ions."
-units: "not applicable"
-related_techniques: []
+definition: "The formation of solid calcium sulfate from supersaturated brine."
+units: "m/min (rate) or M s-1 (constant)"
+related_techniques:
+  - "core_flooding"
+  - "sem"
 tags:
-  - theme/paleoenvironmental-reconstruction
+  - theme/mineralogy
 sources:
-  - "raw/142828 - THE MgCa RATIO AS A PALEOTHERMOMETER ALONG A SALINITY GRADIENT IN THE ARABIAN GU.pdf"
+  - "raw/9670 - Laboratory study on precipitation of calcium sulphate in berea sandstone cores.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Calcification
 
-**Summary**: The process by which organisms produce calcium carbonate shells.
+**Summary**: The chemical process of calcium ions reacting with sulfate ions to form solid calcium sulfate.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-alsadah|Alsadah, 2024]] investigated the calcification process's effect on Mg/Ca ratios.
+- [[2004-ahmed|Ahmed, 2004]] studied the calcification of CaSO4 in Berea sandstone.
 
 ## Scientific Context
 
-- [[2024-alsadah|Alsadah, 2024]] Understanding calcification is key to determining how environmental factors are incorporated into the shell.
+- [[2004-ahmed|Ahmed, 2004]] Critical for understanding scale formation in oilfield production systems.
 
 ## Measurement and Characterization Methods
 
-- [[2024-alsadah|Alsadah, 2024]] Discussed as a potential mechanism for Mg incorporation.
+- [[2004-ahmed|Ahmed, 2004]] Measured via concentration drop across the core and pressure increase.
 
 ## Key Findings Across Sources
 
-- The specific mechanism of magnesium incorporation during calcification is not fully understood but affects shell chemistry. ([[2024-alsadah|Alsadah, 2024, p. 66]])
+- The reaction rate constant (k) for CaSO4 precipitation followed the Arrhenius equation with an activation energy of 22.9 kJ/mol. ([[2004-ahmed|Ahmed, 2004, p. 111]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

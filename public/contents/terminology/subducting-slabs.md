@@ -2,45 +2,47 @@
 type: terminology
 title: "Subducting Slabs"
 aliases:
-  - "high-velocity anomalies"
-  - "H1, H2, H3"
+  - "Sula slab"
+  - "Celebes slab"
+  - "Sangihe slab"
 canonical: true
-definition: "Lithospheric plates descending into the mantle at a subduction zone."
+definition: "A piece of lithosphere that is being forced into the mantle at a subduction zone."
 units: "not applicable"
 related_techniques:
-  - "tomography"
+  - "teleseismic-tomography"
+  - "seismic-inversion"
 tags:
   - theme/plate-tectonics
 sources:
   - "raw/143219 - SUBDUCTING SLABS BENEATH SULAWESI, INDONESIA NEW EVIDENCE FROM TELESEISMIC P-WAV.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Subducting Slabs
 
-**Summary**: Slabs of lithospheric material descending into the mantle at a subduction zone.
+**Summary**: Lithospheric plates descending into the mantle at a subduction zone.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] identified three distinct high-velocity anomalies representing different subducting slabs (H1, H2, and H3).
+- [[2025-kesumastuti|Kesumastuti, 2025]] identified multiple subducting slabs beneath northern Sulawesi using high-velocity perturbations.
 
 ## Scientific Context
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Subducting slabs are key features in plate tectonics that influence regional stress and mantle flow.
+- [[2025-kesumastuti|Kesumastuti, 2025]] Subducting slabs are primary drivers of seismic and volcanic activity in Indonesia.
 
 ## Measurement and Characterization Methods
 
-- [[2025-kesumastuti|Kesumastuti, 2025]] Identified as high-velocity anomalies in 3D P-wave tomographic models.
+- [[2025-kesumastuti|Kesumastuti, 2025]] Identified via high-velocity anomalies in P-wave tomograms.
 
 ## Key Findings Across Sources
 
-- The Sangihe slab (H3) is observed to subduct westward beneath the Celebes slab, with its depth increasing from east to west. ([[2025-kesumastuti|Kesumastuti, 2025, p. 83]])
+- The SASSY21 model reveals a near-vertical dipping slab beneath the North Sulawesi Trench extending to 400 km depth. ([[2025-kesumastuti|Kesumastuti, 2025, p. 43]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

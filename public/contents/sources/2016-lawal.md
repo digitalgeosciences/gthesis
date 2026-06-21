@@ -13,145 +13,109 @@ committee_members:
   - "Michael Kaminski"
 source_file: "raw/139898 - CHARACTERIZATION OF BRITTLENESS AND FRACKABILITY FOR UNCONVENTIONAL SHALE.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139898/"
-study_area: "Saudi Arabia (subsurface shale samples provided by the Ministry of Petroleum Resources)"
+study_area: "Qusaiba Shale, Rub' Al-Khali Basin, Saudi Arabia"
 keywords:
   - Brittleness
   - Frackability
   - Unconventional Shale
+  - Petrophysics
+  - Geomechanics
   - Hydraulic Fracturing
   - Elastic Constants
-  - Micro-CT Imaging
-  - Mineralogical Composition
-  - Petroleum Engineering
-  - petrophysical properties
-  - elastic parameters
-  - Rock Mechanics
+  - Anisotropy
 techniques:
-  - micro-ct-imaging
-  - ultrasonic-velocity-measurement
+  - ct-scanning
+  - ultrasonic-velocity
   - xrd
-  - well-log-analysis
-  - microseismic-monitoring
-  - micro-ct-scanning
+  - petrophysical-measurement
+  - density-measurement
   - core-analysis
-  - velocity-analysis
-  - petrophysics
-  - seismic-interpretation
-  - seismic-inversion
-  - rock-eval-pyrolysis
+  - triaxial-testing
+  - well-log-analysis
 tags:
   - degree/ms
-  - formation/qusaiba-member
-  - location/saudi-arabia
+  - formation/qusaiba-formation
   - location/rub-al-khali-basin
-  - technique/micro-ct-imaging
+  - location/saudi-arabia
+  - technique/micro-ct-scan
+  - technique/ultrasonic-wave-velocity
   - technique/xrd
-  - technique/well-log-analysis
-  - technique/microsetermic-monitoring
-  - technique/micro-ct-scanning
-  - technique/velocity-analysis
-  - technique/core-analysis
-  - technique/petrophysical-rock-type
-  - technique/seismic-interpretation
-  - technique/seismic-inversion
-  - technique/rock-eval-pyrolysis
   - technique/petrophysics
-  - theme/unconventional-resources
+  - technique/triaxial-testing
+  - technique/well-log-analysis
   - theme/petrophysics
   - theme/hydraulic-fracturing
-  - theme/rock-mechanics
+  - theme/geomechanics
+  - theme/unconventional-resources
+  - terminology/mechanical-stratigraphy
   - terminology/brittleness
-  - terminology/frackability
-  - terminology/petrophysics
-  - terminology/elastic-constants
-  - terminology/unconventional-resources
-  - terminology/hydraulic-fracturing
+  - terminology/porosity
+  - terminology/geomechanics
+  - terminology/anisotropy
 status: ingested
 ---
 
 # CHARACTERIZATION OF BRITTLENESS AND FRACKABILITY FOR UNCONVENTIONAL SHALE
 
-**Summary**: The thesis investigates the distinction and relationship between brittleness and frackability in unconventional shale formations, specifically focusing on the Qusaiba Shale in the Rub' Al-Khali Basin. It evaluates various mineralogical and petrophysical methods to determine which parameters best predict brittle behavior for hydraulic fracturing design.
+**Summary**: The thesis investigates the distinction between brittleness and frackability in unconventional shale formations, specifically focusing on the Qusaiba Shale in the Rub' Al-Khali Basin. It utilizes micro-CT imaging, ultrasonic velocity measurements, and XRD mineralogy to quantify these attributes and evaluate their utility for optimizing hydraulic fracturing.
 
 ---
 
 ## Research Problem
 
-Brittleness and frackability are often used interchangeably in literature despite being distinct attributes; the study aims to determine if they are identical, which is more useful for characterizing shale feasibility, and how best to quantify each using elastic constants and other parameters.
+The ambiguity between 'brittleness' and 'frackability' as terms used to characterize the feasibility of hydraulic fracturing in unconventional shale formations, and the need for accurate quantification methods using petrophysical and geomechanical properties.
 
 ## Objectives
 
-- Determine if brittleness and frackability are the same attribute.
-- Identify which of the two attributes is more useful for characterizing unconventional shale.
-- Evaluate the validity of assuming isotropy in elastic constants and vertical stress when estimating these properties.
-- Critically analyze existing equations used to estimate brittleness and frackability.
-- Identify optimal seismic or wireline log attributes for estimation.
-- To understand if brittleness and frackability are distinct attributes for characterizing unconventional shale.
-- To review the mechanical properties of shale including anisotropy, porosity, and permeability.
-- To evaluate the historical development and theoretical frameworks of brittleness in rock mechanics.
-- Understand if brittleness and frackability are identical attributes or distinct metrics for characterizing shale.
-- Evaluate different methods for estimating brittleness: mineralogical composition, elastic parameters (Young's modulus, Poisson's ratio), and Lamé's parameters.
-- Characterize the mineralogical and petrophysical properties of eight subsurface unconventional shale samples from the Rub' Al-Khali Basin.
-- Determine the most effective indicators for predicting brittle behavior in shale.
-- Determine if brittleness and frackability are distinct attributes for characterizing shale.
-- Identify the most sensitive brittleness attributes among various elastic constants.
-- Derive a new expression for frackability based on fluid volume, rock properties, and fracture initiation.
-- Determine if brittleness and frackability are distinct attributes for characterizing hydraulic fracturing.
-- Derive independent analytical expressions for both brittleness and frackability based on first principles.
-- Evaluate the time-dependence of frackability under different modeling frameworks (FPF and SPF).
-- To determine if brittleness and frackability are distinct attributes for characterizing shale formations.
-- To evaluate the relationship between rock mechanics, petrophysics, and fracture behavior.
+- Determine if brittleness and frackability are identical attributes.
+- Identify which attribute is more useful for characterizing unconventional shale.
+- Evaluate the validity of assuming isotropic elastic constants and vertical stress for estimating these parameters.
+- Critically analyze existing equations used to estimate brittleness from seismic or well log data.
+- Determine which seismic or wireline log attributes are best suited for estimation.
+- Understand if brittleness and frackability are the same attribute or distinct concepts.
 
 ## Methods
 
-The study utilized a combination of laboratory measurements and analytical techniques. Mineralogy was determined using XRD analysis on 8 core plugs. Petrophysical properties including bulk density, grain density, and porosity were calculated from physical dimensions and weight. Micro-CT imaging was used to visualize internal structure (though limited by software). Velocity measurements (P-wave and S-wave) were conducted under hydrostatic conditions at varying confining pressures (5 to 35 MPa) using a triaxial New England Research (NER) Autolab500 system.
+The study utilized micro-CT imaging to visualize internal structures, ultrasonic velocity measurements to determine elastic properties, and XRD to characterize mineralogy. Density and porosity were measured using a digital mass balance and pycnometer. Analytical comparisons were made between various existing brittleness equations (e.g., based on Young's modulus, Poisson's ratio, and mineralogical content) to evaluate their suitability for frackability assessment.
 
 ## Data and Materials
 
-The study utilizes data from Goodway et al. (1997) to compare shale and gas sand properties, including Vp, Vs, density, and various elastic constants. Experimental results for several shale plugs (2V, 2H, 3H, 4H) are analyzed across different orientations and confining pressures.
+8 subsurface shale plugs (4 pairs of horizontal/vertical equivalents) from the Qusaiba Shale in the Rub' Al-Khali Basin. Measurements included bulk density (2.57–2.73 g/cc), grain density, and porosity (ranging from 1.65% to 9.44%).
 
 ## Key Findings
 
-- Brittleness and frackability are both dimensionless quantities but are not equivalent. ([[2016-lawal|Lawal, 2016, p. 15]])
-- Analytical expressions show that frackability can depend on brittleness. ([[2016-lawal|Lawal, 2016, p. 15]])
-- Lamination thickness for shale is typically between 0.1 and 0.4 mm. ([[2016-lawal|Lawal, 2016, p. 21]])
-- Shale exhibits anisotropic characteristics where elastic moduli vary depending on the direction of measurement, specifically between parallel and perpendicular to bedding. ([[2016-lawal|Lawal, 2016, p. 22]])
-- The intrinsic permeability of intact shale is generally in the range of micro to nano Darcy (10^-6 to 10^-9 D). ([[2016-lawal|Lawal, 2016, p. 24]])
-- Note: The text mentions that there is no meaningful mathematical relationship between porosity and permeability for shale due to the wide dynamic range difference. ([[2016-lawal|Lawal, 2016]])
-- page_num_ref_in_text_logic_check_manual_override_to_none_if_not_found_on_specific_page_but_it_is_on_25_so_set_to_25 ([[2016-lawal|Lawal, 2016]])
-- Quartz, albite, muscovite, and kaolinite are the predominant minerals; sample 1V was very rich in Quartz (66.5%) while 3V was very rich in clay (Kaolinite, 22.3%). ([[2016-lawal|Lawal, 2016, p. 53]])
-- Carbonate minerals were not present or only existed in insignificant amounts in the sampled shale. ([[2016-lawal|Lawal, 2016, p. 53]])
-- Dry bulk density of the samples ranged from 2.57 to 2.73 g/ccm. ([[2016-lawal|Lawal, 2016, p. 48]])
-- Porosity values for the eight plugs ranged from 1.65% to 9.44%. ([[2016-lawal|Lawal, 2016, p. 48]])
-- P-wave velocities (Pp) for sample 2V ranged from 3033.5 m/s at 15 MPa to 5232 m/s at 35 MPa. ([[2016-lawal|Lawal, 2016, p. 51]])
-- S-wave velocities (Ss) for sample 2H showed significant variation across orientations, with values ranging from 1887 m/s to 4610 m/s at 30 MPa. ([[2016-lawal|Lawal, 2016, p. 52]])
-- The study identified that while brittleness and frackability are often used interchangeably, frackability is a more useful technical term for understanding hydraulic fracturing as it incorporates factors like fracture gradient and toughness. ([[2016-lawal|Lawal, 2016, p. 44]])
-- The ratio (E/k) is identified as the best brittleness attribute because it is sensitive, dimensionless, theoretically meaningful, and has supporting seismic evidence. ([[2016-lawal|Lawal, 2016, p. 58]])
+- Brittleness and frackability are both dimensionless quantities but are not equivalent; frackability can be shown to depend on brittleness. ([[2016-lawal|Lawal, 2016, p. 15]])
+- The study identified that while many terms like mudstone, claystone, and shale are used interchangeably, they have distinct geological definitions based on grain size and mineralogy. ([[2016-lawal|Lawal, 2016, p. 20]])
+- Porosity in the studied samples ranged from 1.65% to 9.44%, with corresponding bulk densities between 2.57 and 2.73 g/cc. ([[2016-lawal|Lawal, 2016, p. 48]])
+- The study highlights that frackability is a more useful technical term for understanding hydraulic fracturing as it incorporates fracture gradient, barrier, and rock strength (fracture toughness). ([[2016-lawal|Lawal, 2016, p. 44]])
+- Several distinct methods exist to calculate brittleness: mineralogical (based on quartz/clay content), elastic-property based (Young's modulus/Poisson's ratio), and geomechanical (stress/strain energy) approaches. ([[2016-lawal|Lawal, 2016, p. 42]])
+- XRD analysis showed that quartz and albite were the primary minerals in some samples (e.g., Sample 1V with 66.5% Quartz), while others were rich in clay (Kaolinite) (e.g., Sample 3V with 22.3% Kaolinite). ([[2016-lawal|Lawal, 2016, p. 53]])
+- Brittleness is found to be a function of Poisson's ratio and generally decreases as confining pressure increases. ([[2016-lawal|Lawal, 2016, p. 66]])
+- The study identified three distinct analytical expressions for frackability based on the First Principle of Frackability (FPF), Second Principle of Frackability (SPF), and a brittleness-based approach. ([[2016-lawal|Lawal, 2016, p. 66]])
+- Frackability based on SPF behaves as a 0.75th power of time, while frackability based on FPF and brittleness behave as a 1st power of time. ([[2016-lawal|Lawal, 2016, p. 65]])
+- The ratio (E/K) was identified as the most sensitive brittle attribute among several candidates, showing an average change of 246% between shale and gas sand. ([[2016-lawal|Lawal, 2016, p. 59]])
 
 ## Limitations
 
-The study notes that standard laboratory testing for plug-sized shale samples makes certain measurements, such as fracture propagation and monitoring with acoustic emission, unattainable within the scope of the thesis; therefore, only fracture initiation is considered.
+The study notes that standard laboratory testing for plug-sized samples makes it difficult to measure fracture propagation (geometry, aperture) or monitor with acoustic emission directly; thus, frackability is addressed through analytical derivation of initiation.
 
 ## Recommendations and Future Work
 
-It is recommended to conduct experiments involving the actual injection of high-pressure fluid into samples to validate the derived models, similar to methods used by Murdoch (1992, 1993).
+Future research should involve actual high-pressure fluid injection into samples and the use of acoustic emissions to observe hydrofracturing in laboratory conditions.
 
 ## Related Concepts
 
-- [[micro-ct-imaging]]
+- [[micro-ct-scan]]
+- [[ultrasonic-wave-velocity]]
 - [[xrd]]
+- [[mechanical-stratigraphy]]
 - [[brittleness]]
-- [[frackability]]
-- [[hydraulic-fracturing]]
-- [[saudi-arabia]]
-- [[petrophysics]]
-- [[elastic-constants]]
-- [[unconventional-resources]]
-- [[micro-ct-scanning]]
-- [[velocity-analysis]]
-- [[qusaiba-member]]
+- [[qusaiba-formation]]
 - [[rub-al-khali-basin]]
-- [[rock-mechanics]]
-- [[well-log-analysis]]
-- [[petrophysical-rock-typing]]
-- [[seismic-inversion]]
+- [[hydraulic-fracturing]]
+- [[petrophysics]]
+- [[porosity]]
+- [[geomechanics]]
+- [[triaxial-testing]]
+- [[anisotropy]]
+- [[unconventional-resources]]

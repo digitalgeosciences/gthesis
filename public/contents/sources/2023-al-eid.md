@@ -12,146 +12,121 @@ committee_members:
   - "Harald Karg"
 source_file: "raw/142387 - Preservation of Rock Samples Geochemical Investigation and Implication on Source.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142387/"
-study_area: "Not stated in source"
+study_area: "Well H and Well Q (Saudi Arabia)"
 keywords:
-  - Rock samples
-  - Preservation
-  - Geochemical investigation
-  - Source rock assessment
+  - Rock Sample Preservation
+  - Source Rock Assessment
   - Pyrolysis
   - S1
   - S2
   - TOC
-  - core preservation
-  - source rock
-  - geochemical analysis
-  - hydrocarbon loss
-  - Tmax
-  - sample storage
-  - petroleum systems
-  - rock sample preservation
-  - pyrolysis analysis
+  - TMAX
+  - Hydrocarbon Loss
+  - Geochemical Analysis
+  - Geochemical Investigation
+  - Pyrolysis Analysis
+  - S1, S2, TMAX
+  - TOC Measurement
+  - Core Storage
 techniques:
   - xrd
   - xrf
-  - gc-ms
   - rock-eval-pyrolysis
-  - re7
-  - thermal-desorber-gas-chromatography-mass-spectrometry
-  - td-gc-msfid
-  - source-rock-evaluation
-  - toc-analysis
+  - gc-ms
+  - leco
   - gas-chromatography
-  - core-analysis
 tags:
   - degree/ms
+  - location/saudi-arabia
   - technique/xrd
   - technique/xrf
-  - technique/gc-ms
   - technique/rock-eval-pyrolysis
-  - technique/rock-ev-pyrolysis
-  - technique/toc-analysis
+  - technique/gc-ms
+  - technique/leco
   - technique/gas-chromatography
-  - technique/core-analysis
   - theme/source-rock-evaluation
   - theme/general-geochemistry
-  - terminology/source-rock-evaluation
-  - terminology/porosity
-  - terminology/diagenesis
-  - terminology/petrophysics
-  - terminology/hydrocarbon-loss
-  - terminology/thermal-maturity
-  - terminology/organic-richness
-  - terminology/lithofacies
   - terminology/s1
-  - terminology/toc
+  - terminology/s2
+  - terminology/source-rock-evaluation
+  - terminology/tmax
+  - terminology/diagenesis
+  - terminology/organic-matter
+  - terminology/source-rock-evaluation
+  - terminology/petrophysics
+  - terminology/petrology
+  - terminology/hydrocarbon-loss
 status: ingested
 ---
 
 # Preservation of Rock Samples: Geochemical Investigation and Implication on Source Rock Assessment
 
-**Summary**: The thesis investigates the impact of core preservation on organic geochemistry measurements (S1, S2, TMAX, and TOC) in source rocks. By comparing preserved cores with unpreserved samples over several months, it concludes that poor preservation leads to significant degradation of hydrocarbon indicators, potentially compromising source rock assessment.
+**Summary**: The thesis investigates the impact of core preservation and storage on geochemical parameters (S1, S2, TMAX, and TOC) used in source rock assessment. By comparing preserved and unpreserved samples across three cores with varying thermal maturities, it concludes that poor preservation leads to significant hydrocarbon loss, particularly in high-maturity rocks, which can skew resource estimations.
 
 ---
 
 ## Research Problem
 
-Poor sample preservation during drilling and transport causes loss of free hydrocarbons (evaporation/expulsion), which significantly alters pyrolysis parameters (S1, S2, TMAX) and TOC content in source and reservoir rocks, leading to inaccurate geochemical evaluations.
+Poor sample preservation and long storage times during the collection and transport of core samples can lead to the loss of light hydrocarbons (S1) and other organic components, potentially compromising the accuracy of geochemical evaluations for source rock assessment.
 
 ## Objectives
 
-- Determine the impact of extensive sample storage time and delayed sample processing and analysis on results from geochemical analyses.
-- Evaluate the effect of different preservation methods (e.g., wax coating, foil wrapping) on core fluid retention.
-- Compare pyrolysis results between well-preserved samples and un-preserved samples to quantify the extent of hydrocarbon loss.
-- Determine the potential impact of extensive sample storage time and delayed sample processing on results from geochemical analyses.
-- Identify significant differences in basic source-rock geochemical screening results after different storage times.
-- Identify the main factors that control analytical results and enhance the preservation of source rocks to mitigate sample deterioration.
+- Determine the impact of extensive sample storage time and delayed sample processing on results from geochemical analyses.
+- Identify significant differences in basic source-rock geochemical screening results after different storage times and preservation conditions (good or bad).
+- Identify main factors that enhance the preservation of source rocks and mitigate sample deterioration.
 - Provide implications and recommendations for future source rock data assessment from core material.
-- Evaluate the effect of storage time and analytical delays on Rock-Eval pyrolysis results (S1, S2, TMAX, TOC).
-- Compare results from preserved core samples with unpreserved core samples to assess contamination levels.
-- Determine the impact of lithofacies on the reliability of pyrolysis measurements.
-- Evaluate the impact of core preservation on organic geochemistry measurements (S1, S2, TMAX, and TOC).
-- Compare results from preserved cores with unpreserved samples over a period of 4-5 months.
-- Identify the effects of drilling mud contaminants and surface exposure on rock sample integrity.
-- Evaluate the impact of preservation methods on pyrolysis parameters (S1, S2, TOC, TMAX).
-- Quantify hydrocarbon losses in samples with different thermal maturities and organic contents.
-- Assess the effect of storage duration and temperature on sample integrity.
-- Determine the implications of these losses on source rock assessment and oil-in-place calculations.
-- Evaluate the impact of different core preservation methods on rock samples.
-- Investigate how preservation conditions affect hydrocarbon content in sample cores.
-- Assess the implications of preservation-related changes on pyrolysis parameters and source rock assessment.
+- Evaluate the impact of different storage durations and temperatures on pyrolysis parameters in preserved cores.
+- Compare geochemical results between preserved and unpreserved core samples to quantify hydrocarbon loss.
 
 ## Methods
 
-The study utilized three feet of conventional core from two wells (H and successfully Q) separated by 150 km. Samples were preserved using a standard industry method: three layers of plastic wrap, two layers of aluminum foil, and CoreSeal® wax coating. The samples were stored at room temperature for durations ranging from 619 to 661 days. Geochemical analysis was performed using the RE7 pyrolysis instrument (Rock-Eval technology). A total of 239 samples were analyzed, with 75-85 samples per core being tested for pyrolysis.
+The study utilized three cores (Core 1, Core 2, and Core 3) from two wells (H and Q). Samples were preserved using a standard industry method: triple-layer plastic wrap, aluminum foil, and a final coating of CoreSeal® wax. A series of time cycles was established to test the impact of delay: fresh samples (0h), 1h, 2h, 3h, 24h, 48h, 72h, 1W, 2W, 3W, 1MN, 2MN, 3MN, and 4MN. Samples were prepared by removing wax/wrap, sanding the surface to remove drilling mud, and powdering with a metal file. Analysis was performed using the Rock-Eval 7S instrument (pyrolysis) and supported by XRD and XRF for mineralogical characterization.
 
 ## Data and Materials
 
-The study analyzed 3 core samples (Core 1, Core 2, and Core 3). Each core was subjected to multiple sampling points. Data included S1 (mgHC/g), S2 (mgHC/g), TMAX (°C), and TOC (%) measurements across various time intervals (0h, 1h, 2h, 48h, 72h, 1w, 2w, 3w, 1m, 2m, 3m, 4m, 5m).
+390 samples were analyzed across three cores; each core provided approximately 100 samples (totaling ~250-300 unique data points). Samples were taken from two wells (H and Q) with a distance of 150 km between them. Standard materials used for calibration included the IFP 160000 standard.
 
 ## Key Findings
 
-- XRD results for Core 1 showed that calcite forms the highest fraction (70%), while Core 2 showed calcite at 95%, indicating compositionally homogenous samples. ([[2023-al-eid|Al-Eid, 2023, p. 11]])
-- S1 values in Core 2 showed high peaks in the 3-month run, reflecting both the impact of changing sampling positions and lateral heterogeneity in laminae at the micro-scale. ([[2023-al-eid|Al-Eid, 2023, p. 12]])
-- In Core 2, TMAX measurements for a sample taken from deeper intervals during a four-month run showed that the sample was successfully mitigated and avoided contamination from drilling mud or the outer surface. ([[2023-al-eid|Al-Eid, 2023, p. 12]])
-- Core 3 results showed minor changes with negligible differences between preserved and un-preserved results in S1, S2, TMAX, and TOC values. ([[2023-al-eid|Al-Eid, 2023, p. 13]])
-- Comparison of Core 1 revealed that un-preserved samples (C1-UP01 & C1-UP02) showed significant changes in S1, S2, and TOC compared to average preserved samples from the same core. ([[2023-al-eid|Al-Eid, 2023, p. 13]])
-- Un-preserved samples from Core 2 showed a drop in S1, S2, and TOC values compared to preserved samples. ([[2023-al-eid|Al-Eid, 2023, p. 13]])
-- Fluctuations in pyrolysis parameters (S1, S2, TMAX) are likely due to lateral changes in microfacies and the distribution of organic matter across the core interval. ([[2023-al-eid|Al-Eid, 2023, p. 13]])
-- Exposure of core to atmospheric conditions for even 30 minutes can result in up to 25% loss in water content. ([[2023-al-eid|Al-Eid, 2023, p. 21]])
-- Plastic wrap alone is not an absolute oxygen or vapor barrier; samples wrapped only in plastic lost up to 6% of water content in 10 days. ([[2023-al-eid|Al-Eid, 2023, p. 24]])
-- A sample wrapped in plastic only lost 30% of its water content in just 3 days. ([[2023-al-eid|Al-Eid, 2023, p. 24]])
-- Polyurethane foam injection showed higher core stability over a longer period of time than the nitrogen freezing technique. ([[2023-al-eid|Al-Eid, 2023, p. 25]])
-- Wax coating is highly effective, with high-quality wax having a flash point exceeding 285°C (550°F) and being used to prevent physical alteration of samples. ([[2023-al-eid|Al-Eid, 2023, p. 27]])
-- Research showed that 70% of weight losses in rock were recorded within S1, while crude oils were overall less in weight by 30%. ([[2023-al-eid|Al-Eid, 2023, p. 29]])
-- Samples analyzed within 1-3 days showed significant S1 and S2 values; those analyzed after 4 weeks or 3 months showed declining trends. ([[2023-al-eid|Al-Eid, 2023, p. 30]])
-- XRD results for Core 1 and Core 2 showed calcite as the dominant mineral, ranging from 70% to 96% by volume. ([[2023-al-eid|Al-Eid, 2023, p. 45]])
+- Well-preserved samples showed no significant changes in pyrolysis parameters (S1, S2, TOC, TMAX) over time cycles up to 4 months. ([[2023-al-eid|Al-Eid, 2023, p. 17]])
+- Comparison between preserved and un-preserved core samples from the same interval showed significant drops in free hydrocarbon (S1), potential hydrocarbon (S2), and total organic content (TOC) for un-prepared samples. ([[2023-al-eid|Al-Eid, 2023, p. 17]])
+- un-preserved results were significantly affected by preservation conditions, leading to inaccurate source rock assessment. ([[2023-al-eid|Al-Eid, 2023]])
+- page_number_not_found ([[2023-al-eid|Al-Eid, 2023]])
+- S1 values in high-maturity cores (C1, C2) showed significant drops of 56% to 87% when comparing unpreserved samples to preserved ones. ([[2023-al-eid|Al-Eid, 2023, p. 91]])
+- TOC measurements in high-maturity cores (C1, C2) dropped by 38% to 62% in unpreserved samples compared to preserved ones. ([[2023-al-eid|Al-Eid, 2023, p. 92]])
+- Core 3, a lower maturity core, showed only 7% loss in TOC and 23% loss in S1 when comparing unpreserved to preserved results. ([[2023-al-eid|Al-Eid, 2023, p. 92]])
+- TMAX values were found to be influenced by the quantity of S1 and S2; lower organic content or significant hydrocarbon loss leads to inaccurate TMAX peaks. ([[2023-al-eid|Al-Eid, 2023, p. 92]])
+- Organic additives in water-based drilling muds were detected as outliers in TMAX and S2 values for Core 2, specifically in samples near the outer surface. ([[2023-al-eid|Al-Eid, 2023, p. 79]])
+- S1 values from standard materials showed a very small variance of ±0.07 mgHC/g, confirming the reliability of the Rock-Eval 7 instrument. ([[2023-al-eid|Al-Eid, 2023, p. 76]])
+- TOC measurements using LECO and Rock-Eval were found to be highly correlated (correlation coefficient of 0.998). ([[2023-al-eid|Al-Eid, 2023, p. 82]])
+- Comparison of in-situ hydrocarbon volumes from preserved samples and non-preserved samples from core1 showed a difference of 80% in resource density due to S1 mass loss over time. ([[2023-al-eid|Al-Eid, 2023, p. 100]])
+- Core2 showed a 56.5% difference in calculated resource density when comparing preserved and un-preserved samples using the same pyrolysis equations. ([[2023-al-eid|Al-Eid, 2023, p. 100]])
+- Core3, which had minimal changes in S1 values between preserved and non-reserved results, showed only a 2.3% difference in calculated resource density. ([[2023-al-eid|Al-Eid, 2023, p. 100]])
+- Pyrolysis results from core samples preserved over two years after drilling showed insignificant changes over time up to 4-5 months with no preservation. ([[2023-al-eid|Al-Eid, 2023, p. 101]])
 
 ## Limitations
 
-Some factors like wellsite handling time and initial wax application are difficult to control perfectly; however, even preserved samples showed minor variations due to early-stage exposure at the wellsite.
+The study notes that even with proper preservation, some evaporative hydrocarbon loss occurs, necessitating further research into the exact quantity of substances lost at the surface.
 
 ## Recommendations and Future Work
 
-Further research is needed to determine the exact quantity of substances lost from rock samples at the surface. Developing a data correction model for S1 values based on maturity and API gravity is recommended to reduce uncertainty in resource assessment.
+The study suggests that relying on pyrolysis measurements from poorly preserved samples can critically impact geochemical applications and source rock assessment; it recommends improved preservation protocols to ensure data integrity.
 
 ## Related Concepts
 
 - [[rock-eval-pyrolysis]]
 - [[xrd]]
 - [[xrf]]
-- [[source-rock-evaluation]]
-- [[porosity]]
-- [[geochemistry]]
-- [[diagenesis]]
-- [[petrophysics]]
-- [[hydrocarbon-loss]]
-- [[thermal-maturity]]
-- [[organic-richness]]
-- [[lithofacies]]
-- [[saudi-arabia]]
-- [[toc-analysis]]
-- [[gas-chromatography]]
 - [[s1]]
-- [[toc]]
-- [[core-analysis]]
+- [[s2]]
+- [[source-rock-evaluation]]
+- [[tmax]]
+- [[diagenesis]]
+- [[saudi-arabia]]
+- [[leco]]
+- [[organic-matter]]
+- [[petrophysics]]
+- [[general-geochemistry]]
+- [[petrology]]
+- [[gas-chromatography]]
+- [[hydrocarbon-loss]]

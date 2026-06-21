@@ -6,25 +6,25 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "removal efficiency under flow conditions"
+output: "breakthrough curves and residence time calculations"
 tags:
   - technique/dynamic-adsorption
   - theme/water-treatment
 sources:
   - "raw/141825 - CARBON NANOSTRUCTURE-BASED MATERIALS FOR REMOVAL OF ORGANIC CONTAMINANTS FROM WA.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Dynamic Adsorption
 
-**Summary**: A method where adsorption occurs in a moving fluid stream, simulating industrial processes.
+**Summary**: A process where adsorbent is packed in a column and the effluent is monitored over time to simulate continuous flow systems.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2021-alnasser|AlNasser, 2021]] used dynamic adsorption to evaluate the material's performance under varying flow rates.
+- [[2021-alnasser|AlNasser, 2021]] applied dynamic-adsorption to evaluate performance under varying flow rates (0.089 to 0.333 mL/s).
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The successful operation of dynamic experiments indicated potential for large-scale industrial use. ([[2021-alnasser|AlNasser, 2021, p. 84]])
+- Maximum uptake was achieved at the lowest flow rate of 0.089 mL/s, with breakthrough times decreasing as flow rate increased. ([[2021-alnasser|AlNasser, 2021, p. 60]])
 
 ## Methodological Variations Across Sources
 

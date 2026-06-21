@@ -13,199 +13,147 @@ committee_members:
   - "Monther Prof. Alfuraidan"
 source_file: "raw/142390 - Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/142390/"
-study_area: "Gulf of Aqaba, Saudi Arabia; Dammam Dome, Eastern Province, Saudi Arabia"
+study_area: "Dammam Dome, Eastern Province, Saudi Arabia; Gulf of Aqaba, Saudi Arabia"
 keywords:
-  - Joint Inversion
+  - Joint inversion
   - Direct Current Resistivity (DCR)
   - Seismic Refraction (SR)
-  - Local Optimization
-  - Global Optimization
-  - Synthetic Data
-  - Real Data
-  - Local optimization algorithms
-  - Global optimization algorithms
-  - Hybrid optimization techniques
-  - High-Performance Computing (HPC)
-  - Multi-objective Genetic Algorithm
+  - Local optimization
+  - Global optimization
+  - Genetic algorithm
   - NSGA II
-  - Genetic Algorithm
+  - Synthetic data
+  - Real data
+  - Direct Current Resisturity (DCR)
   - Multi-objective optimization
+  - Particle swarm optimization
   - Optimization Algorithms
-  - Genetic Algorithm (GA)
-  - Particle Swarm Optimization (PSO)
-  - Simulated Annealing (SA)
-  - Surrogate Optimization (SO)
-  - Pattern Search (PS)
-  - Gauss-Newton (GN)
-  - Stochastic Modeling
 techniques:
   - dcr
   - sr
+  - gauss-newton
   - genetic-algorithm
+  - nsga-ii
+  - parallel-computing
+  - electrical-resistivity-tomography
+  - refraction-seismics
+  - matlab
   - particle-swarm-optimization
   - simulated-annealing
   - surrogate-optimization
   - pattern-search
-  - stochastic-methods
-  - genetic-algorithm-ga
-  - hpc
-  - electrical-resistivity-tomography
-  - refraction-seismics
-  - parallel-computing
-  - lom
-  - gom
-  - nsga-ii
-  - matlab
-  - svi
-  - gaussian-newton
-  - gauss-newton
-  - supervirtual-interferometry-svi
+  - supervirtual-interferometry
   - joint-inversion
-  - geostatistics
+  - local-optimization
+  - global-optimization
+  - mathematical-modeling
 tags:
   - degree/phd
-  - formation/dammam-formation
+  - formation/damman-formation
   - formation/rus-formation
   - formation/hadrukh-formation
   - formation/dam-formation
-  - location/dammam-dome
-  - location/eastern-province
-  - location/saudi-arabia
   - location/dammam-area
+  - location/eastern-province
+  - location/dammam-dome
+  - location/saudi-arabia
   - technique/electrical-resistivity-tomography
+  - technique/seismic-interpretation
+  - technique/mathematical-modeling
+  - technique/signal-processing
   - technique/refraction-seismics
   - technique/matlab
-  - technique/genetic-algorithm
-  - technique/high-performance-computing
   - technique/parallel-computing
-  - technique/seismic-inversion
-  - technique/dc-resistivity
-  - technique/particle-swarm-optimization
-  - technique/simulated-annealing
-  - technique/surrogate-optimization
-  - technique/pattern-search
-  - technique/well-log-analysis
-  - technique/xrd
-  - technique/sem
+  - technique/se-inversion
   - technique/joint-inversion
-  - theme/applied-geophysics
-  - theme/seismic-inversion
-  - theme/near-surface-geophysics
-  - theme/seismic-imaging
+  - technique/local-optimization
+  - technique/global-optimization
   - theme/geophysics-general
-  - theme/uncertainty-quantification
+  - theme/near-surface-geophysics
+  - theme/applied-geophysics
   - terminology/joint-inversion
-  - terminology/local-optimization
-  - terminology/global-optimization
-  - terminology/stochastic-modeling
-  - terminology/uncertainty-quantification
   - terminology/non-uniqueness
+  - terminology/cross-gradient
   - terminology/pareto-optimality
   - terminology/multi-objective-optimization
+  - terminology/local-optimization
+  - terminology/global-optimization
 status: ingested
 ---
 
 # Joint Inversion of Direct Current Resistivity and Seismic Refraction Data, using Local and Global Optimization Algorithms with Synthetic and Real Data Examples
 
-**Summary**: The thesis investigates the joint inversion of Direct Current Resist resistivity (DCR) and Seismic Refraction (SR) data using both local (Gauss-Newton) and global (Genetic Algorithm, including NSGA II) optimization algorithms. The study demonstrates that joint inversion improves structural resolution and consistency between resistivity and velocity models in identifying complex features like fault zones and 'megabreccia' zones within the Dammam Formation.
+**Summary**: The thesis investigates the joint inversion of Direct Current Resistivity (DCR) and Seismic Refraction (SR) data to improve subsurface imaging. It evaluates various optimization algorithms, proposing a combined local and global approach that uses local results to constrain the search space for global optimization, which was validated using synthetic models and a case study in the Dammam Dome.
 
 ---
 
 ## Research Problem
 
-The challenge of accurately interpreting subsurface structures using single geophysical methods due to limited resolution or non-uniqueness; specifically, how combining DCR and SR data through joint inversion with advanced optimization algorithms can improve the characterization of complex geological features like fault zones in the Dammam Formation.
+Standard individual inversions of DCR and SR data often fail to provide high-resolution images due to non-uniqueness; therefore, a joint inversion method using advanced optimization algorithms is needed to better characterize subsurface features like dykes and lithological variations in the Dammam Dome.
 
 ## Objectives
 
-- Evaluate the performance of different optimization algorithms (local vs. global) for joint inversion of DCR and SR data.
-- Develop and apply a combined optimization approach to three synthetic anomaly models (dyke, positive, and combined positive/negative).
-- Test stochastic methods to model uncertainties in DCR and SR data.
-- Apply the proposed combined optimization approach to a real-world case study in the Dammam Dome.
 - To formulate a joint inversion objective function involving seismic refraction and direct current resistivity methods.
 - To formulate the multi-parameter objective function for the global optimization solution.
 - To apply the optimum regularization parameters during the conventional (local) optimization algorithm to minimize the error function.
-- To apply a hybrid technique (i.e., using local optimization into the global optimization solution) by a genetic algorithm (GA) to search for the global minimum of the objective function.
+- To apply a hybrid technique (i.e., using local optimization into the global system) by a genetic algorithm (GA) to search for the global minimum of the objective function.
 - To make the algorithm run on an HPC (High-Performance Computing) system optimizing the computational cost.
 - To apply all suggested methods for data integration to real data.
-- Evaluate the performance of different optimization algorithms for joint inversion of DCR and survey data.
-- Develop a combined local and global optimization approach to constrain search space and reduce computational costs.
-- Test the proposed methodology on synthetic models with varying anomaly types (dyke, positive, and combined).
-- Apply the method to real-world case studies.
-- Evaluate the performance of different optimization algorithms (LOM, GOM) for joint inversion of DCR and SR data.
-- Develop a combined local-global optimization (CGO) approach to improve resolution and reduce computational costs.
-- Apply the CGO method to synthetic models (dyke, positive, and combined anomalies).
-- Validate the CGO method using real DCR and SR data from the Dammam Dome.
-- Evaluate the performance of different optimization algorithms (local vs. global) for the joint inversion of DCR and SR data.
-- Apply a combined optimization approach to synthetic anomaly models (dyke, positive, and combined).
-- Perform a case study using real DCR and SR data from a roadcut in the Dammam Formation to map subsurface features.
-- Evaluate the performance of five global optimization techniques (GA, PSO, SA, SO, PS) for DCR and SR data inversion.
-- Compare these algorithms in terms of their ability to locate a global solution and computational cost.
-- Apply a combined local and global optimization approach to synthetic models (dyke, positive, and combined).
-- Perform a case study using real DCR and SR data from the Dammam Dome.
-- Evaluate the performance of different optimization algorithms (GN, GA, PSO, SA, SO, PS) for DCR and SR data inversion.
-- Develop a combined optimization approach using local and global methods for joint parameter estimation.
-- Test the proposed methodology on synthetic models (dyke, positive, and combined anomalies).
-- Apply the method to a real-world case study in the Gulf of Aqaba region to map fault structures.
-- Evaluate the performance of different optimization algorithms for joint inversion of DCR and SR data.
-- Develop a combined optimization approach using local and global algorithms.
-- Apply the proposed combined optimization approach to three synthetic anomaly models (dyke, positive, and combined).
-- Conduct a case study in the Dammam Dome to validate the methodology with real-world data.
 
 ## Methods
 
-The study utilizes a joint inversion approach where DCR and SR data are integrated into a single objective function. It compares local optimization algorithms (which are faster but prone to local minima) with global optimization algorithms (which are more robust but computationally intensive). A hybrid technique is proposed, using local optimization as an initial step for global optimization via a Genetic Algorithm (GA) to improve efficiency. The methodology includes the use of cross-gradient constraints to ensure structural consistency between different geophysical datasets. The study also incorporates High-Performance Computing (HPC) to manage the computational demands of global inversion.
+The study utilizes a joint inversion framework combining DCR and SR data. Local optimization (LOM) uses iterative, derivative-based methods like Gauss-Newton with cross-gradient constraints to ensure structural consistency between resistivity and velocity models. Global optimization (GOM) employs the Genetic Algorithm (GA) and Non-Dominated Sorting Genetic Algorithm II (NSGA II) for multi-objective problems. A proposed Combined Optimization (CGO) method uses LOM results to define a constrained search space (scaling parameters by 10-30%) for the GA/NSGA II, reducing computational time. The study also incorporates parallel computing for forward model evaluations and tests these methods on three synthetic models (dyke, positive, and combined anomalies) and real data from the Dammam Dome.
 
 ## Data and Materials
 
-The study uses synthetic 2D models: (1) a dyke anomaly (resistivity 1250 ohm-m; velocity 2200 m/s), (2) a positive anomaly (resistivity 250 ohm-m; velocity 2000 m/s), and (3) a combined positive and negative anomaly (resistivity 1250 ohm-m, velocity 2500 m/s). DCR data were calculated using a dipole-dipole (DD) array with 49 electrodes spaced at 5m. SR forward calculations used 49 receivers at 5m spacing and 13 sources at 20m intervals.
+Three synthetic 2D models: Model 1 (dyke anomaly), Model 2 (positive blocks), and Model 3 (high contrast). Synthetic parameters included resistivity values of 1250, 250, 50, and 250 ohm-m; velocities of 2200, 2000, and 1500 m/s. Data acquisition for synthetic models used a dipole-dipole (DD) array with 49 electrodes spaced at 5m and an SR layout with 49 receivers and 13 sources. Real data were collected from the Dammam Dome in Eastern Saudi Arabia.
 
 ## Key Findings
 
-- The combined optimization approach outperforms both local and global methods in terms of percentage of anomaly reconstruction and convergence in synthetic tests. ([[2023-edigbue|Edigbue, 2023, p. 16]])
-- The combined optimization approach is particularly effective in handling the non-linear and multi-dimensional nature of joint inversion problems. ([[2023-edigbue|Edigbue, 2023, p. 16]])
-- Stochastic methods provide a useful tool for modeling uncertainties in DCR and SR data, providing more realistic estimates of subsurface properties. ([[2023-edigbue|Edigbue, 2023, p. 16]])
-- The case study in the Dammam Dome demonstrated that the combined approach can delineate major geological structures including faults, fractures, and lithological boundaries. ([[2023-edigbue|Edigbue, 2023, p. 17]])
-- DCR is related to electrical conductivities while SR measures seismic wave velocity; their joint inversion provides a more comprehensive understanding of subsurface structure. ([[2023-edigbue|Edigbue, 2023, p. 19]])
-- Local optimization algorithms are faster and more efficient than global ones but are prone to getting stuck in local minima and are highly sensitive to initial conditions. ([[2023-edigbue|Edigbue, 2023, p. 21]])
-- Global optimization algorithms, such as those used for complex subsurface models, do not require the calculation of derivatives and are less likely to get stuck in local minima but are computationally intensive. ([[2023-edigbue|Edigbue, 2023, p. 28]])
-- Integrating both local and global optimization algorithms can reduce computational intensity while improving the accuracy and robustness of joint inversion results. ([[2023-edigbue|Edigbue, 2023, p. 22]])
-- page_number_not_specified_in_source ([[2023-edigbue|Edigbue, 2023]])
-- The combined local and global optimization method showed improved anomaly delineation compared to the local optimization method alone. ([[2023-edigbue|Edigbue, 2023, p. 33]])
-- The multi-objective genetic algorithm (NSGA II) successfully identified Pareto optimal fronts for joint DCR and SR data. ([[2023-edigbue|Edigbue, 2023, p. 46]])
-- Parallel computing significantly reduced the run time of the entire process for the global optimization algorithms. ([[2023-edigbue|Edigbue, 2023, p. 33]])
-- The search space for the global algorithm was constrained by scaling local optimization results by 10-30% to ensure diversity while maintaining reliability. ([[2023-edigbue|Edigbue, 2023, p. 41]])
-- SR genetic algorithm run times were recorded at 748, 876, and 1194 minutes for the three synthetic models, while DCR processing took between 150-181 minutes. ([[2023-edigbue|Edigbue, 2023, p. 45]])
-- The CGO algorithm improved the misfit values compared to LOM for both DCR and SR methods but required higher computational costs than standard LOM. ([[2023-edigbue|Edigbue, 2023, p. 54]])
+- The combined optimization approach outperforms both local and global optimization methods in terms of percentage of anomaly reconstruction and convergence in synthetic tests. ([[2023-edigbue|Edigbue, 2023, p. 16]])
+- The combined optimization approach is particularly effective in handling the non-linear and multi-dimensional nature of the joint inversion problem. ([[2023-edigbue|Edigbue, 2023, p. 16]])
+- Stochastic methods (GA, NSGA II) provide a useful tool for modeling uncertainties in DCR and SR data and providing more realistic estimates of subsurface properties. ([[2023-edigbue|Edigbue, 2023, p. 17]])
+- The case study in the Dammam Dome demonstrated that the combined optimization approach can accurately delineate major geological structures, including faults, fractures, and lithological boundaries. ([[2023-edigbue|Edigbue, 2023, p. 17]])
+- Using local optimization to define a search space for global optimization reduces computational time while maintaining accuracy by limiting parameters to a reliable range. ([[2023-edigbue|Edigbue, 2023, p. 35]])
+- The NSGA II algorithm is effective for multi-objective joint inversion as it avoids the dominance of one objective function over another. ([[2023-edigbue|Edigbue, 2023, p. 41]])
+- The combined optimization approach (CGO) successfully reduced the search space for global algorithms, leading to more stable results compared to standalone global optimization. ([[2023-edigbue|Edigbue, 2023, p. 59]])
+- Local optimization (LOM) performed optimally in delineating both resistivity and velocity anomalies by utilizing smoothing terms and regularization parameters. ([[2023-edigbue|Edigbue, 2023, p. 54]])
+- The multi-objective genetic algorithm (NSGA II) provided a balanced solution for joint DCR and SR data, avoiding the dominance of one method over the other. ([[2023-edigbue|Edigbue, 2023, p. 46]])
+- Parallel computing in MATLAB reduced the run time for the DCR model by approximately 71% and for the SR model by 89% compared to non-parallel processing. ([[2023-edigbue|Edigbue, 2023, p. 56]])
+- The DCR method provided a depth of 100m, while the SR method reached a maximum depth of 60m on Profile 1. ([[2023-edigbue|Edigbue, 2023, p. 74]])
+- A large deformed zone (MBZ) was confirmed by both DCR and SR data as an area of low resistivity (<10 Ohm.m) and low velocity. ([[2023-edigbue|Edigbue, 2023, p. 80]])
+- The bedrock in the southern part of Profile 2 was identified at a depth of 20m with high resistivity (>200 Ohm.m) and high velocity (>3000 m/s). ([[2023-edigbue|Edigbue, 2023, p. 77]])
+- The combined optimization algorithms (GA, PSO, SA, SO, PS) all successfully reduced the misfit compared to the local Gauss-Newton (GN) method for both synthetic and real data. ([[2023-edigbue|Edigbue, 2023, p. 108]])
+- For DCR synthetic data, GA and PSO were identified as the most promising techniques because they significantly reduced the misfit while maintaining manageable computation costs compared to other global methods. ([[2023-edigbue|Edigbue, 2023, p. 101]])
 
 ## Limitations
 
-High-quality input data is essential for accurate inversion results; computational requirements of combined algorithms may limit large-scale applications; more examples from diverse geological settings are needed to prove robustness beyond the Dammam Dome.
+Local optimization algorithms are prone to getting stuck in local minima and are sensitive to initial conditions. Global optimization methods, while more robust, can be computationally intensive and time-consuming for large datasets without a hybrid approach.
 
 ## Recommendations and Future Work
 
-- Investigate the applicability of the proposed methodology in different geological settings and with different data types.
-- Improve data acquisition techniques and quality control measures for joint interpretation.
+- Investigate the applicability of the proposed methodology in diverse geological settings and with different data types.
+- Improve data acquisition techniques and quality control measures to ensure high-quality input for inversion.
 - Develop more efficient algorithms to handle large-scale datasets within reasonable timeframes.
-- Apply the methodology in practical fields such as groundwater exploration, mineral exploration, and geotechnical engineering.
+- Utilize the proposed methodology in practical applications such as groundwater exploration, mineral exploration, and geotechnical engineering.
 
 ## Related Concepts
 
 - [[electrical-resistivity-tomography]]
-- [[seismic-refraction]]
-- [[matlab]]
+- [[seismic-interpretation]]
+- [[mathematical-modeling]]
 - [[joint-inversion]]
+- [[non-uniqueness]]
+- [[dammam-area]]
+- [[near-surface-geophysics]]
+- [[cross-gradient]]
+- [[genetic-algorithm]]
+- [[pareto-optimality]]
+- [[signal-processing]]
+- [[refraction-seismics]]
+- [[matlab]]
+- [[multi-objective-optimization]]
+- [[damman-formation]]
+- [[dammam-dome]]
 - [[local-optimization]]
 - [[global-optimization]]
-- [[dammam-dome]]
-- [[seismic-inversion]]
-- [[stochastic-modeling]]
-- [[uncertainty-quantification]]
-- [[genetic-algorithm]]
-- [[high-performance-computing]]
-- [[non-uniqueness]]
-- [[near-surface-geophysics]]
-- [[parallel-computing]]
-- [[pareto-optimality]]
-- [[applied-geophysics]]
-- [[saudi-arabia]]
-- [[multi-objective-optimization]]

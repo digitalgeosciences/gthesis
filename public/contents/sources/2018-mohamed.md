@@ -12,152 +12,121 @@ committee_members:
   - "Sherif Hanafy"
 source_file: "raw/140670 - FULL WAVEFORM INVERSION FOR COMPLEX NEARSURFACE IMAGING USING SEG SEAM II SYNTHE.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/140670/"
-study_area: "Arid desert environments in the Arabian Peninsula (specifically the eastern part of Saudi Arabia)"
+study_area: "Arid SEAM Phase II synthetic model (representing Saudi Arabian desert terrain)"
 keywords:
   - Full Waveform Inversion
-  - Near-surface imaging
-  - SEG SEAM Phase II
   - Acoustic FWI
-  - Viscoelastic data
-  - Reverse Time Migration
-  - Surface Wave Inversion
+  - Viscoelastic modeling
+  - Near-surface complexity
   - Karst features
-  - seismic data
-  - near-surface complexity
-  - velocity model
-  - finite difference modeling
-  - acoustic wave equation
-  - cycle skipping
-  - multi-scale approach
+  - Finite difference modeling
+  - Ray tracing
+  - Surface wave inversion
+  - Near-surface imaging
   - SEG SEAM II
-  - Synthetic model
-  - Velocity inversion
-  - Seismic wave propagation
-  - Viscoelastic media
+  - Viscoelastic wavefield
   - Velocity modeling
   - RTM
 techniques:
   - fwi
-  - rtm
-  - swi
-  - finite-difference
+  - finite-difference-modeling
   - ray-tracing
-  - signal-processing
-  - groundwater-modeling
-  - acoustic-fwi
-  - visco-acoustic-fwi
-  - time-domain-finite-difference-solution
+  - surface-wave-inversion
+  - seismic-processing
+  - source-wavelet-generation
   - fdelmodc
   - makewave
-  - surface-wave-inversion
-  - well-log-analysis
+  - swi
+  - rtm
+  - velocity-scan
+  - manual-velocity-picking
+  - gradient-smoothing
   - line-search
-  - gradient-conditioning
-  - velocity-scanning
 tags:
   - degree/ms
-  - formation/umm-al-radhuma-formation
-  - formation/rus-formation
-  - formation/dammam-formation
-  - formation/hadrukh-formation
-  - formation/dam-formation
-  - formation/hofuf-formation
   - location/saudi-arabia
-  - location/rub-al-khali-basin
-  - technique/seismic-inversion
-  - technique/seismic-processing
-  - technique/surface-wave-inversion
-  - technique/finite-difference
+  - location/middle-east-region
+  - technique/fwi
+  - technique/finite-difference-modeling
   - technique/ray-tracing
-  - technique/groundwater-modeling
-  - technique/well-log-analysis
+  - technique/surface-wave-inversion
+  - technique/seismic-processing
+  - technique/seismic-inversion
+  - technique/surface-wave-analysis
+  - technique/seismic-imaging
   - technique/velocity-analysis
+  - theme/geophysics-general
   - theme/near-surface-geophysics
   - theme/seismic-imaging
-  - theme/geophysics-general
   - terminology/cycle-skip
-  - terminology/karst-hazards
   - terminology/acoustic-impedance
+  - terminology/karst-hazards
   - terminology/velocity-modeling
 status: ingested
 ---
 
 # FULL WAVEFORM INVERSION FOR COMPLEX NEAR-SURFACE IMAGING USING SEG SEAM II SYNTHETIC MODEL
 
-**Summary**: The thesis investigates the application of acoustic Full Waveform Inversion (FWI) to resolve complex near-surface velocity structures in land seismic exploration. Using the SEG SEAM II synthetic model, it demonstrates that careful data conditioning and multi-scale strategies can successfully reconstruct karst features and high-resolution details even in viscoelastic media.
+**Summary**: The thesis investigates the application of Full Waveform Inversion (FWI) to image complex near-surface features in land seismic data, specifically using the SEG SEAM II synthetic model. It demonstrates that acoustic FWI can effectively resolve high-resolution velocity details and Karst structures when preceded by careful data conditioning and surface wave inversion (SWI).
 
 ---
 
 ## Research Problem
 
-Complex near-surface zones in arid regions, such as those in the Arabian Peninsula, contain Karst features and unconsolidated sediments that create significant velocity contrasts, anisotropy, and signal attenuation, complicating the imaging of deeper structures.
+Complexity in the Earth's near-surface zone (e.g., Karst features and unconsolidated sediments) creates velocity contrasts and signal attenuation that hinder the imaging of deeper structures in land seismic exploration, particularly in arid regions like the Middle East.
 
 ## Objectives
 
-- Address geophysical challenges of seismic wave propagation in the Arid SEAM model using finite difference forward modeling.
-- Review theory of seismic wave inversion and reverse time migration (RTM) to summarize state-of-the-art depth and velocity imaging.
-- Examine acoustic FWI on two synthetic datasets created using acoustic and viscoelastic forward modeling codes.
-- To more effectively characterize the near-surface zone using FWI in both its theoretical and practical components.
-- To study the behavior of seismic wavefield for complex near-surface areas having geological heterogeneities and its impact on seismic wave propagation and subsurface imaging.
-- To examine if Full Waveform Inversion can accurately reconstruct suitable models of small shallow geological features with strong velocity contrast, resulting in improved seismic subsurface imaging.
-- Evaluate the impact of complex near-surface geology (Karst, high velocity contrast) on seismic wave propagation using ray tracing and finite difference modeling.
-- Assess the effectiveness of different seismic modeling schemes (acoustic, elastic, viscoelastic) in representing real-world data characteristics.
-- Develop a robust FWI workflow to reconstruct models of small, shallow geological features with strong velocity contrasts.
-- Evaluate if acoustic FWI can reconstruct small Karst features and high-resolution details in the SEAM model before testing on complex viscoelastic wavefields.
-- Determine the impact of data conditioning (removing surface waves, noise) on the success of acoustic FWI.
-- Assess the effectiveness of multi-scale strategies and early arrival inversion to avoid local minima trapping.
+- Characterize the near-surface zone more effectively using FWI in both theoretical and practical components.
+- Study the behavior of seismic wavefields for complex near-surface areas with geological heterogeneities.
+- Evaluate if Full Waveform Inversion can accurately reconstruct models of small, shallow geological features with strong velocity contrast to improve subsurface imaging.
+- Evaluate the impact of complex near-surface geology on seismic wave propagation using finite difference modeling and ray tracing.
+- Develop a workflow to improve FWI input data by removing non-acoustic components (surface waves, scattered shear waves).
+- Utilize Surface Wave Inversion (SWI) to accurately estimate near-surface velocities in the first 200m.
 
 ## Methods
 
-The study utilizes a finite difference modeling code for forward modeling and ray tracing. The FWI workflow includes gradient conditioning (Gaussian smoothing), line search methods to determine optimal step lengths, and multi-scale frequency band processing. Data conditioning involves removing surface waves, scattered shear waves, and random noise from the input shot gathers. Surface wave inversion is used to estimate near-surface velocities for the first few hundred meters. The study compares acoustic FWI results on both simple acoustic synthetic data and complex viscoelastic synthetic data (including multiples and noise).
+The study utilizes a multi-step workflow: (1) Data conditioning of input shot gathers by removing surface waves, scattered shear waves, and random noise. (2) Initial 1D velocity model construction using velocity scanning and manual picking based on semblance and gather flattening. (3) Near-surface velocity update for the top 200m using Surface Wave Inversion (SWI). (4) Acoustic FWI performed over multiple frequency bands (e.g., 4Hz to 24Hz) using a least-squares objective function with gradient smoothing and line search optimization. (5) Comparison of results using Reverse Time Migration (RTM) to evaluate the impact of velocity accuracy on subsurface imaging.
 
 ## Data and Materials
 
-The primary dataset is the Arid SEAM Phase II synthetic model, which includes a 10km x 10km area representing Arabian Peninsula geology. Two case studies were performed: Case 1 used acoustic synthetic data (no multiples/noise, 50Hz Ricker wavelet) and Case 2 used viscoelastic synthetic data (with multiples, noise, and a Klauder wavelet).
+The primary data source is the Arid SEAM Phase II synthetic model, which is 10 km x 10 km in extent and 3.75 km deep. The study uses four specific 2D line extractions (extended to 20 km) from this 3D model to test different levels of complexity: smooth 1D, strong vertical variation, complex 3D without Karst, and the full Arid SEAM model with Karst.
 
 ## Key Findings
 
-- Acoustic FWI successfully reconstructed velocity images with small local anomalies and strong velocity contrast in the acoustic synthetic dataset. ([[2018-mohamed|Mohamed, 2018, p. 15]])
-- Surface Wave Inversion (SWI) provided more accurate velocity at the top 200m, leading to a dramatic improvement in the subsurface RTM image. ([[2018-mohamed|Mohamed, 2018, p. 46]])
-- Acoustic FWI successfully reconstructed small caves and karst geobodies and low velocity layers when applied to acoustic synthetic data. ([[2018-mohamed|Mohamed, 2018, p. 57]])
-- The inclusion of multiple-rich viscoelastic data required seismic processing to eliminate waveforms that cannot be modeled by the acoustic engine before FWI application. ([[2018-mohamed|Mohamed, 2018, p. 15]])
-- SWI helped FWI to estimate the wavelet accurately from first arrivals, avoiding cycle skipping and local minimum trapping in complex media. ([[2018-mohamed|Mohamed, 2018, p. 15]])
-- The finite difference method is identified as a powerful and easy-to-implement tool for simulating seismic wave propagation in 2D and 3D environments. ([[2018-mohamed|Mohamed, 2018, p. 27]])
-- Cycle skipping occurs when the time shift between observed and modeled data exceeds half a cycle of the typical wavelet, leading to local minimum trapping; this is mitigated by using a multi-scale approach (starting with low frequencies). ([[2018-mohamed|Mohamed, 2018, p. 34]])
-- The Arid SEAM Phase II model provides a realistic representation of the Arabian Peninsula's tertiary rock system, including the UER formation (Dammam, Rus, and Umm er Radhuma) and overlying Miocene formations (Hadrukh, Dam, and Hofuf). ([[2018-mohamed|Mohamed, 2018, p. 37]])
-- The inclusion of Karst features, wadis, and unconsolidated sediments in the near-surface creates strong velocity contrasts that generate significant signal scattering. ([[2018-mohamed|Mohamed, 2018, p. 38]])
-- The Arid SEAM model is discretized into uniform 6.25-m blocks across a 10 km x 10 km area with 3.75 km depth. ([[2018-mohamed|Mohamed, 2018, p. 39]])
-- Karst features (cavities filled with unconsolidated sands) produce large contrasts in seismic velocity, ranging from 2200 m/s to 5000 m/s. ([[2018-mohamed|Mohamed, 2018, p. 40]])
-- The Makewave command was used to generate a Klauder wavelet with a flat amplitude spectrum from 3-20Hz and zero phase. ([[2018-mohamed|Mohamed, 2018, p. 41]])
-- Ray tracing results showed that Karst bodies can dramatically change the behavior of wave paths, leading to complex illumination variations. ([[2018-mohamed|Mohamed, 2018, p. 47]])
-- Finite difference modeling showed that viscoelastic models with free surface multiples correlate well with real seismic data by including absorption and scattering effects. ([[2018-mohamed|Mohamed, 2018, p. 53]])
-- The study found that the presence of Karst causes significant signal scattering, resulting in undulations in first arrivals at specific locations. ([[2018-mohamed|Mohamed, 2018, p. 55]])
+- Ray tracing results showed that Karst bodies can dramatically change wave path behavior and cause significant illumination heterogeneity due to overburden effects. ([[2018-mohamed|Mohamed, 2018, p. 47]])
+- Strong velocity inversions in the model generate strong internal multiples and guided waves, while Karst features scatter seismic energy. ([[2018-mohamed|Mohamed, 2018, p. 35]])
+- Viscoelastic synthetic data with multiples are highly correlated with real seismic data where dispersed ground roll, converted, and shear waves dominate. ([[2018-mohamed|Mohamed, 2018, p. 36]])
+- Acoustic FWI successfully reconstructed a velocity image with small local anomalies and strong velocity contrast for acoustic synthetic data. ([[2018-mohamed|Mohamed, 2018, p. 15]])
+- Surface Wave Inversion (SWI) provided more accurate velocity at the top 200m, leading to a dramatic improvement in the subsurface image during RTM processing. ([[2018-mohamed|Mohamed, 2018, p. 46]])
+- Gaussian smoothing filters helped suppress migration jittering and smiles at the shallow part of the gradient during FWI. ([[2018-mohamed|Mohamed, 2018, p. 50]])
+- The inclusion of multiple-bearing terms in viscoelastic modeling is essential for capturing the effects of absorption and scattering in complex geological columns. ([[2018-mohamed|Mohamed, 2018, p. 37]])
+- Surface Wave Inversion (SWI) provided more accurate velocity at the top 200m compared to manual picking, leading to better definition of limestone velocity. ([[2018-mohamed|Mohamed, 2018, p. 62]])
+- The inclusion of SWI in the workflow allowed FWI to resolve the source wavelet from the data without assumptions about its attributes. ([[2018-mohamed|Mohamed, 2018, p. 63]])
+- Acoustic FWI successfully reconstructed small Karst structures at very shallow depth and accurately imaged strong velocity heterogeneity in the true model (Case 1). ([[2018-mohamed|Mohamed, 2018, p. 69]])
+- RTM images produced using the FWI-estimated model showed a significant improvement in subsurface image continuity compared to those using the initial model. ([[2018-mohamed|Mohamed, 2018, p. 75]])
+- The use of gradient smoothing (Gaussian filter) successfully suppressed migration jittering and smiles at the shallow part of the gradient. ([[2018-mohamed|Mohamed, 2018, p. 66]])
+- Acoustic FWI on viscoelastic data successfully reconstructed small caves and Karst geobodies when preceded by proper data conditioning and SWI. ([[2018-mohamed|Mohamed, 2018, p. 73]])
 
 ## Limitations
 
-The Makewave source wavelet was limited to a maximum frequency of 20Hz due to computational costs associated with viscoelastic modeling. The initial FWI model required a high-quality starting model (close to the true model) and broad frequency/offset ranges to avoid cycle skipping.
+Elastic inversion in land settings is currently a formidable problem due to the ill-posed nature of determining density, velocity, and attenuation simultaneously, as well as high computational costs for modeling waves with small S-velocities.
 
 ## Recommendations and Future Work
 
-Not stated in source
+The study highlights that acoustic FWI can effectively estimate velocities for viscoelastic media provided that careful data conditioning (removing non-acoustic components) and near-surface velocity estimation via SWI are performed to avoid cycle skipping and local minimum trapping.
 
 ## Related Concepts
 
-- [[seismic-inversion]]
+- [[fwi]]
+- [[finite-difference-modeling]]
 - [[surface-wave-inversion]]
-- [[finite-difference]]
 - [[cycle-skip]]
+- [[acoustic-impedance]]
 - [[karst-hazards]]
-- [[near-surface-geophysics]]
+- [[velocity-modeling]]
 - [[seismic-imaging]]
 - [[saudi-arabia]]
-- [[umm-er-radhuma-formation]]
-- [[rus-formation]]
-- [[dammam-formation]]
-- [[hadrukh-formation]]
-- [[dam-formation]]
-- [[hofuf-formation]]
-- [[acoustic-impedance]]
-- [[ray-tracing]]
-- [[velocity-modeling]]
-- [[seismic-processing]]
+- [[seismic-inversion]]
+- [[surface-wave-analysis]]
+- [[near-surface-geophysics]]

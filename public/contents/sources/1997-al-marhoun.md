@@ -12,7 +12,7 @@ committee_members:
   - "Z. Y. Al-Harari"
 source_file: "raw/10158 - Application of multi-seismic attributes in estimating reservoir properties..pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/10158/"
-study_area: "Base Khuff to Pre Unayzah Unconformity interval in a study area (location not specified beyond the stratigraphic interval)."
+study_area: "A producing field with lateral variations in reservoir properties (not specifically named by name but located within the Khuff and Unayzah formations)."
 keywords:
   - Seismic attributes
   - Reservoir properties
@@ -20,31 +20,34 @@ keywords:
   - Water saturation
   - Volume of silt
   - Multi-variant regression
-  - Spectral statistics
-  - multi-attribute-driven reservoir properties
-  - 3D seismic data
+  - Spectral analysis
+  - Multi-seismic attributes
+  - Quantitative interpretation
+  - Qualitative interpretation
+  - Porosity estimation
   - Silt volume
 techniques:
   - seismic-imaging
-  - multivariate-regression
-  - kriging
-  - seismic-interpretation
+  - multi-attribute-analysis
   - well-log-analysis
+  - kriging
+  - multivariate-regression
+  - spectral-analysis
+  - petrophysics
 tags:
   - degree/ms
   - formation/khuff-formation
   - formation/unayzah-formation
-  - location/saudi-arabia
   - technique/seismic-imaging
-  - technique/multivariate-regression
-  - technique/kriging
-  - technique/seismic-interpretation
   - technique/well-log-analysis
+  - technique/kriging
+  - technique/multivariate-regression
+  - technique/spectral-analysis
+  - technique/petrophysics
+  - technique/multi-attribute-analysis
   - theme/petrophysics
-  - theme/seismic-interpretation
-  - theme/seismic-attributes
+  - theme/geophysics-general
   - terminology/porosity
-  - terminology/petrophysics
   - terminology/water-saturation
   - terminology/volume-of-silt
   - terminology/tuning
@@ -53,78 +56,67 @@ status: ingested
 
 # Application of multi-seismic attributes in estimating reservoir properties.
 
-**Summary**: The thesis investigates the use of multi-seismic attributes to estimate reservoir properties (porosity, water saturation, and volume of silt) in a clastic reservoir within the Unayzah Formation. By applying multivariate regression analysis to nine seismic attributes across 21 wells, the study demonstrates that multi-attribute integration provides higher resolution and more accurate property mapping than standard kriging.
+**Summary**: The thesis investigates the use of multiple seismic attributes (e.g., peak amplitude, instantaneous frequency, reflection strength) to estimate reservoir properties including porosity, water saturation, and volume of silt. The study concludes that a multi-attribute approach using multivariate regression provides higher accuracy and better correlation with well data compared to single-attribute methods or simple kriging.
 
 ---
 
 ## Research Problem
 
-The difficulty of predicting reservoir properties (porosity, water saturation, and silt content) in areas with sparse well control points. The study addresses how multi-seismic attribute analysis can overcome the limitations of geostatistics and single-attribute methods to better characterize reservoir heterogeneity.
+The challenge of accurately estimating reservoir properties (porosity, water saturation, and volume of silt) from seismic data in areas where well control is limited. The study specifically addresses the difficulty of establishing a direct relationship between individual seismic attributes and physical properties due to varying geological conditions.
 
 ## Objectives
 
 - Estimate porosity, water saturation, and volume of silt using several seismic attributes.
-- Perform quantitative analysis using multi-variant regression to relate seismic attributes to well-log derived properties.
-- Conduct qualitative analysis using spectral attributes to verify results from the quantitative study.
-- Compare the multi-attribute approach against single-attribute methods and simple kriging.
-- Evaluate the impact of seismic wavelets and processing on resolution for stratigraphic interpretation.
-- Determine the relationship between various seismic attributes and reservoir properties (porosity, water saturation, and volume of silt).
-- Develop a multi-attribute-driven reservoir property estimation method using multivariate regression.
-- Validate the accuracy of predicted properties against actual well data.
-- Estimate porosity using multiple seismic attributes.
-- Determine water saturation using a combination of seismic attributes.
-- Quantify the volume of silt using multi-seismic attributes.
-- Evaluate the effectiveness of multi-attribute analysis compared to single-attribute methods and kriging.
-- Compare the accuracy of single-attribute prediction methods against multi-attribute prediction methods.
-- Integrate well information (high vertical resolution) with seismic data (high spatial resolution) to improve reservoir description.
+- Compare multi-attribute methods against single-attribute methods and simple kriging.
+- Incorporate spectral attributes for qualitative interpretation of the data.
+- Develop a multivariate regression model to relate seismic attributes to well-derived reservoir properties.
+- Compare multi-attribute analysis with single-attribute methods for reservoir property prediction.
+- Evaluate the impact of tuning phenomena on seismic attribute interpretation.
 
 ## Methods
 
-The study utilized 3D seismic data processed to preserve amplitude (refraction statics, velocity analysis, residual statics, DMO, and poststack time migration). Nine seismic attributes were calculated: RMS amplitude, average absolute amplitude, maximum peak amplitude, average peak amplitude, average reflection strength, average instantaneous phase, average instantaneous frequency, energy half-time, and positive to negative ratio. These were scaled from 1 to 1000. Multivariate regression analysis was used to determine weights for each attribute in predicting three reservoir properties (porosity, water saturation, and volume of silt) based on data from 19 wells. The resulting linear equations were applied to the entire seismic survey to generate property maps. Comparison between multi-attribute results and simple kriging was performed using two validation wells.
+The study utilized 3D seismic data (277,536 traces) and well logs from 21 wells. Nine seismic attributes were calculated: RMS amplitude, average absolute amplitude, maximum peak amplitude, average peak amplitude, average reflection strength, average instantaneous phase, average instantaneous frequency, energy half-time, and positive to negative ratio. These were scaled from 1 to 1000. A multivariate regression (first-degree polynomial) was used to relate these attributes to reservoir properties derived from well logs. To account for noise, a kriging method was applied to correct errors in the predicted values. Spectral attributes (dominant frequency, peak spectral frequency, and spectral slope) were analyzed qualitatively.
 
 ## Data and Materials
 
-The study utilizes data from 21 wells (where 19 were used for building the predictive model and 2, labeled Well A and Well I, were reserved as blind tests). The dataset includes well logs for porosity, water saturation, and volume of silt, along with a seismic survey containing various attributes including amplitude statistics, peak spectral frequency, and spectral slope.
+The study uses data from 21 wells (19 used for regression, 2 excluded as validation points). Data includes well logs for porosity, water saturation, and volume of silt. Seismic survey data is processed to derive nine primary attributes and five additional spectral attributes (Peak Spectral Frequency, Spectral Slope, F1, F2, F3) for qualitative interpretation.
 
 ## Key Findings
 
-- Multi-variant regression was used to establish linear transformations between nine seismic attributes and three reservoir properties (porosity, water saturation, volume of silt). ([[1997-al-marhoun|Al-Marhoun, 1997, p. 16]])
-- The multi-seismic-attributes driven reservoir properties method showed results in agreement with well-driven reservoir properties for two validation wells. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 16]])
-- As the number of attributes used in the analysis increases, the error (sum of squared residuals) decreases. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 73]])
-- RMS amplitude is highly sensitive to extreme amplitudes and useful for detecting lithology changes or gas/fluid accumulations. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 20]])
-- Average absolute amplitude is better suited for characterizing sequence interval amplitudes compared to RMS. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 20]])
-- Instantaneous phase helps determine if amplitude changes are due to tuning, hydrocarbons, or other effects. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 23]])
-- High frequencies in the 'Average Instantaneous Frequency' attribute are attenuated more under conditions of high porosity and hydrocarbon saturation. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 24]])
-- Spectral slope from peak to maximum frequency quantifies frequency absorption effects, where changes can indicate gas saturation or fracturing. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 26]])
-- The multi-attribute-driven approach successfully identified a higher porosity zone around well I compared to well A, which simple kriging failed to distinguish. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 35]])
-- Reflection strength, RMS amplitude, and positive to negative ratios were found to have the highest weights (and thus the greatest impact) on reservoir property calculations. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 57]])
-- The study determined that a first-degree polynomial acts as a low-pass filter, providing a reliable first approximation of properties while avoiding the noise issues associated with higher-order polynomials or neural networks. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 32]])
-- The Unayzah Formation thickness varies from 299 feet to 728 feet, reflecting significant paleotopography during deposition. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 39]])
-- A first-degree polynomial was used for multivariate regression; while it did not fit all well points perfectly, it provided a more stable result than complex models that were often driven by noise. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 32]])
-- The multi-seismic-attributes driven method produced maps showing that high porosity (>0.1) coincided with low water saturation (<0.7) and low volume of silt (<0.1), identifying a promising NNE-SSW trend. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 60]])
-- The crossplot of original vs. calculated porosity showed that while the multi-attribute method captured large-scale trends, it had higher error at specific well locations compared to geostatistics due to noise in single traces. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 64]])
+- Multi-attribute analysis showed that as the number of attributes increases, the sum of squared residuals decreases, indicating improved accuracy in predicting reservoir properties. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 30]])
+- The multi-attribute approach successfully identified a low porosity zone around well A and a higher porosity zone around well I, matching results from kriging using all available wells. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 29]])
+- A first-degree polynomial was used as a 'low pass filter' to avoid over-fitting the noise in the data while still providing a reliable estimation of reservoir properties. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 32]])
+- Spectral attributes (peak spectral frequency and spectral slope) were found useful for identifying areas of fracturing, gas saturation, and tuning effects. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 26]])
+- The study confirmed that the multi-attribute method outperformed single-attribute methods in predicting porosity, water saturation, and volume of silt. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 16]])
+- Reflection strength, RMS amplitude, and positive-to-negative ratios were found to have the highest weights/impact on reservoir property calculations in multivariate regression. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 57]])
+- The multi-attribute approach produced a correlation coefficient of 0.686 for porosity, compared to 0.4415 for the best single attribute (instantaneous frequency). ([[1997-al-marhoun|Al-Marhoun, 1997, p. 91]])
+- The multi-attribute method reduced the error in predicting water saturation by a factor of 1.48 compared to single-attribute methods. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 91]])
+- A specific indicator map was created using the formula: (POR-0.1)+(0.6-WSAT)+(0.3-VSILT) to identify high-quality reservoir zones. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 50]])
+- The study identified a NNE-SSW trend of high porosity (>0.1), low water saturation (<0.7), and low volume of silt (<0.1). ([[1997-al-marhoun|Al-Marhoun, 1997, p. 60]])
+- Tuning effects were confirmed to cause amplitude anomalies in beds with thicknesses between 18ms and 33ms. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 86]])
+- The inclusion of more attributes (up to nine) showed a clear trend where the sum of squared residuals decreased as the number of attributes increased, plateauing after a certain point. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 90]])
+- Seismic attributes can be used for both quantitative and qualitative interpretation of any zone of interest. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 16]])
+- As seismic data quality improves, the interpretation of seismic attributes becomes more reliable. ([[1997-al-marhoun|Al-Marhoun, 1997, p. 16]])
 
 ## Limitations
 
-The study notes that the accuracy of the relationship between seismic attributes and reservoir properties is limited by the number of control points; fewer wells increase uncertainty. Additionally, a first-degree polynomial cannot perfectly honor all data points but is chosen to minimize noise impact.
+The study notes that while multivariate regression provides better results than single-attribute methods, it cannot perfectly match all well data points due to the nature of linear fitting (residuals). Additionally, seismic attributes can be affected by tuning phenomena and noise, which may mask true lithological changes.
 
 ## Recommendations and Future Work
 
-The results suggest that multi-attribute analysis provides a more robust way to identify target zones in future drilling programs compared to using well data alone or single attributes.
+The thesis suggests that integrating multiple types of data (geophysical, geological, and petrophysical) is essential for a complete reservoir description. It highlights the importance of using multi-attribute analysis over single-attribute methods to improve accuracy in predicting reservoir properties from seismic surveys.
 
 ## Related Concepts
 
-- [[seismic-attribute-analysis]]
+- [[seismic-imaging]]
 - [[multivariate-regression]]
 - [[kriging]]
-- [[khuff-formation]]
-- [[unayzah-formation]]
+- [[spectral-analysis]]
 - [[porosity]]
-- [[petrophysics]]
-- [[reservoir-characterization]]
 - [[water-saturation]]
 - [[volume-of-silt]]
-- [[saudi-arabia]]
+- [[khuff-formation]]
+- [[unayzah-formation]]
+- [[petrophysics]]
 - [[tuning]]
-- [[seismic-attributes]]
-- [[well-log-analysis]]
+- [[geophysics-general]]

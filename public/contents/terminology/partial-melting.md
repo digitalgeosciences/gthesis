@@ -2,19 +2,18 @@
 type: terminology
 title: "Partial Melting"
 aliases:
-  - "degrees of partial melting"
+  - "melt extraction"
 canonical: true
-definition: "The percentage of a mantle rock that melts to produce magma."
+definition: "The process by which a rock melts."
 units: "percentage (%)"
 related_techniques:
-  - "sem-eds"
-  - "icp-ms"
+  - "mineral-chemistry"
 tags:
-  - theme/igneous-metamorphic-petrology
+  - theme/igneous-petrology
 sources:
   - "raw/142338 - Mantle Xenoliths of Harrat Uwayrid.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Partial Melting
@@ -25,22 +24,22 @@ last_updated: 2026-06-10
 
 ## How It Appears in the Thesis Collection
 
-- [[2023-iskandar|Iskandar, 2023]] calculated degrees of partial melting from mineral chemistry data.
+- [[2023-iskandar|Iskandar, 2023]] calculated degrees of partial melting for the peridotite xenoliths.
 
 ## Scientific Context
 
-- [[2023-iskandar|Iskandar, 2023]] Determines the extent of melting in the lithospheric mantle.
+- [[2023-iskandar|Iskandar, 2023]] Used to determine the extent of mantle depletion.
 
 ## Measurement and Characterization Methods
 
-- [[2023-iskandar|Iskandar, 2023]] Calculated based on Cr# values of clinopyroxene.
+- [[2023-iskandar|Iskandar, 2023]] Calculated from bulk-rock CaO and Al2O3 or mineral chemistry.
 
 ## Key Findings Across Sources
 
-- Calculated degrees of partial melting are low to moderate, ranging from 1 – 17%. ([[2023-iskandar|Iskandar, 2023, p. 22]])
+- Calculated degrees of partial melting ranged from 1% to 17%. ([[2023-iskandar|Iskandar, 2023, p. 22]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

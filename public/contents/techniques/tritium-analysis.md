@@ -2,29 +2,29 @@
 type: technique
 title: "Tritium Analysis"
 aliases:
-  - "tritium determination"
+  - "3H analysis"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "tritium concentration (TU)"
+output: "recharge age in years"
 tags:
   - technique/tritium-analysis
   - theme/hydrogeology
 sources:
   - "raw/141363 - POTENTIAL SOURCES AND DISTRIBUTION OF NITRATE IN THE GROUNDWATER OF THE WASIA AQ.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Tritium Analysis
 
-**Summary**: The measurement of tritium to determine the age of groundwater.
+**Summary**: The measurement of tritium to determine the age and recharge history of groundwater.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2019-ahmed|Ahmed, 2019]] applied tritium-analysis to estimate recent recharge dates in the Wasia aquifer.
+- [[2019-ahmed-2|Ahmed, 2019]] used tritium analysis to estimate recent recharge dates in the Wasia aquifer.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- Only two samples show tritium rates above the detection limit of 0.8 TU, suggesting a mixture of recent and connate waters. ([[2019-ahmed|Ahmed, 2019, p. 13]])
+- Only two samples showed tritium rates above 0.8 TU, indicating a mix of recent and connate waters. ([[2019-ahmed-2|Ahmed, 2019, p. 13]])
 
 ## Methodological Variations Across Sources
 

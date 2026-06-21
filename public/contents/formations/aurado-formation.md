@@ -6,25 +6,26 @@ aliases:
 canonical: true
 age: "Not stated in source"
 basin: "Not stated in source"
-lithology: "Not stated in source"
-reservoir_status: "potential"
+lithology: "limestone with some dolomite and clastic material"
+reservoir_status: "producer"
 tags:
-  - formation
+  - formation/aurado-formation
+  - theme/hydrogeology
 sources:
   - "raw/10171 - Management of groundwater resources in Somalia.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Aurado Formation
 
-**Summary**: A sedimentary formation with extensive outcrop areas in Somalia.
+**Summary**: A limestone aquifer with significant karstification and fracturing.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1993-moallim|Moallim, 1993]] evaluated the Aurado formation to determine its recharge and movement characteristics.
+- [[1993-moallim|Moallim, 1993]] analyzed the Aurado formation as a high-potential aquifer for irrigation systems.
 
 ## Depositional Environment
 
@@ -34,12 +35,15 @@ last_updated: 2026-06-08
 
 
 
+## Diagenetic History
+
+- [[1993-moallim|Moallim, 1993]] karstification, fracturing
+
 ## Key Findings Across Sources
 
-- The annual recharged volume into the Aurado aquifer is about 445.6 x 10^6 m^3. ([[1993-moallim|Moallim, 1993, p. 121]])
+- The total usable economic storage in the Aurado aquifer is 122.60 x 10^6 m^3. ([[1993-moallim|Moallim, 1993, p. 134]])
 
 ## Conflicting Interpretations Across Sources
-
 
 
 ## Open Questions and Research Gaps

@@ -1,31 +1,29 @@
 ---
 type: technique
-title: "Lcms"
+title: "Liquid Chromatography-Mass Spectrometry"
 aliases:
-  - "LCMS"
-  - "liquid chromatography mass spectrometry"
+  - "Liquid Chromatography Mass Spectrometry"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "mass spectra and identification of chemical compounds"
+output: "mass spectra and identification data"
 tags:
-  - technique/lcms
-  - theme/analytical-chemistry
+  - technique/lc-ms
 sources:
   - "raw/139615 - Sunlight and Organic dyes as A greener Approach to Photochemical Reactions and D.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
-# Lcms
+# Liquid Chromatography-Mass Spectrometry
 
-**Summary**: A technique combining liquid chromatography and mass spectrometry to identify and quantify compounds.
+**Summary**: A technique combining liquid chromatography with mass spectrometry to identify and quantify compounds.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2015-hassan|Hassan, 2015]] used LCMS for product quantification and conversion rate analysis in organic synthesis.
+- [[2015-hassan|Hassan, 2015]] used LC-MS for the quantitation of organic products.
 
 ## Instruments and Software
 
@@ -37,7 +35,7 @@ last_updated: 2026-06-08
 
 ## Key Results and Findings
 
-- Used to confirm the identity of products 1c and 2c during the α-oxyamination reactions. ([[2015-hassan|Hassan, 2015, p. 96]])
+- Not stated in source ([[2015-hassan|Hassan, 2015]])
 
 ## Methodological Variations Across Sources
 

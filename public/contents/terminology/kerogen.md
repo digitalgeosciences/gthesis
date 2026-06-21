@@ -4,43 +4,49 @@ title: "Kerogen"
 aliases:
   - "organic matter"
 canonical: true
-definition: "solid organic matter in sedimentary rocks"
-units: "percentage (%)"
+definition: "complex solid material composed of hydrocarbons"
+units: "not applicable"
 related_techniques:
-  - "rock-eval-pyrolysis"
-  - "ct-scanning"
+  - "molecular-dynamics"
 tags:
-  - theme/petrophysics
+  - theme/petroleum-geology
 sources:
-  - "raw/142745 - Physical, Digital, Theoretical, and Seismic-Scale Rock Physics for Reservoir Cha.pdf"
+  - "raw/142029 - STUDY OF MECHANICAL PROPERTIES OF KEROGEN BY A MOLECULAR SIMULATION APPROACH.pdf"
+  - "raw/143142 - Improving Hydrocarbon Productivity of Organic Rich Shale Using Thermochemicals.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Kerogen
 
-**Summary**: Organic-rich material in sedimentary rocks that can be converted into hydrocarbons.
+**Summary**: A solid, insoluble organic material found in sedimentary rocks that can be converted into hydrocarbons.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2024-alabbad|Alabbad, 2024]] quantified kerogen content to assess its effect on rock elasticity.
+- [[2021-aslanov|Aslanov, 2021]] studied the mechanical properties of kerogen at different maturity levels.
+
+- [[2024-moh-ali|Moh-Ali, 2024]] studied kerogen maturation to increase the amount of free hydrocarbons (S1) and potential hydrocarbons (S2).
 
 ## Scientific Context
 
-- [[2024-alabbad|Alabbad, 2024]] Key component of unconventional reservoirs.
+- [[2021-aslanov|Aslanov, 2021]] kerogen is a primary component of source rocks in unconventional formations.
+
+- [[2024-moh-ali|Moh-Ali, 2024]] studied kerogen maturation to increase the amount of free hydrocarbons (S1) and potential hydrocarbons (S2).
 
 ## Measurement and Characterization Methods
 
-- [[2024-alabbad|Alabbad, 2024]] Quantified via 3D image segmentation.
+- [[2021-aslanov|Aslanov, 2021]] modeled using 3D macromolecules and MD simulations.
 
 ## Key Findings Across Sources
 
-- The 'flipped V' shape in the kerogen-porosity relationship is an indicator of the maturity trend. ([[2024-alabbad|Alabbad, 2024, p. 138]])
+- Type II-D (most mature) had the lowest elastic moduli due to higher intermolecular porosity. ([[2021-aslanov|Aslanov, 2021, p. 39]])
+
+
+- Thermochemical-assisted maturation resulted in a decrease in TOC by 18-42%... indicating hydrocarbon generation. ([[2024-moh-ali|Moh-Ali, 2024, p. 13]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

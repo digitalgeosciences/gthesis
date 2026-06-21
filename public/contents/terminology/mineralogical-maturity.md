@@ -4,43 +4,43 @@ title: "Mineralogical Maturity"
 aliases:
   - "mineral maturity"
 canonical: true
-definition: "The proportion of stable minerals (e.g., quartz) relative to unstable detrital grains."
-units: "dimensionless"
+definition: "The degree of mineralogical stability in a rock."
+units: "not applicable"
 related_techniques:
-  - "xrf"
-  - "thin-section-petrography"
+  - "petrography"
+  - "geochemistry"
 tags:
-  - theme/mineralogy
+  - theme/sedimentology
 sources:
   - "raw/140296 - LITHOFACIES AND PETROPHYSICAL CHARACTERIZATION OF THE LATE ORDOVICIAN SARAH FORM.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-13
 ---
 
 # Mineralogical Maturity
 
-**Summary**: The degree to which unstable minerals have been replaced by stable ones like quartz.
+**Summary**: The degree of mineral stability in a rock, often measured by the ratio of quartz to other minerals.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2017-alqubalee|Alqubalee, 2017]] evaluated mineralogical maturity using the Harker variation diagram.
+- [[2017-alqubalee|Alqubalee, 2017]] evaluated the mineralogical-maturity of different lithofacies.
 
 ## Scientific Context
 
-- [[2017-alqubalee|Alqubalee, 2017]] Used to assess the geological history and transport distance of sediments.
+- [[2017-alqubalee|Alqubalee, 2017]] Used to distinguish between different depositional environments.
 
 ## Measurement and Characterization Methods
 
-- [[2017-alqubalee|Alqubalee, 2017]] Comparison of SiO2 against other oxides (Al2O3, Fe2O3) on a Harker diagram.
+- [[2017-alqubalee|Alqubalee, 2017]] measured by the ratio of quartz content to other detrital grains.
 
 ## Key Findings Across Sources
 
-- Nearshore and glaciofluvial lithofacies were more mature than subglacial and glaciolacustrine delta lithofacies. ([[2017-alqubalee|Alqubalee, 2017, p. 126]])
+- Nearshore (FA1) and glaciofluvial (FA4) lithofacies are more mature than subglacial (FA3) and glaciolacustrine delta (FA2). ([[2017-alqubalee|Alqubalee, 2017, p. 124]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

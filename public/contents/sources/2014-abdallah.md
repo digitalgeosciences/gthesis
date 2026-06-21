@@ -12,104 +12,85 @@ committee_members:
   - "Khalid Al Hoashani"
 source_file: "raw/139073 - APPLICATION OF ENZYME TO BIOREMEDIATE WATER FROM ETHYLENE DICHLORIDE AND OIL.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/139073/"
-study_area: "Laboratory scale study to simulate real environmental conditions of groundwater at semi aquifer geological structure."
+study_area: "Laboratory scale study to simulate ground water at semi aquifer geological structure."
 keywords:
   - bioremediation
   - enzyme
   - ethylene dichloride (EDC)
   - oil
   - ground water
-  - hydrocarbon
-  - Enzymes
-  - Water Treatment
-  - anaerobic conditions
-  - aerobic conditions
-  - Microorganisms
+  - volatile organic compounds (VOC)
+  - groundwater
+  - microorganisms
 techniques:
-  - gcfid
   - gc-ms
-  - ph-meter
-  - bioremediation
-  - enzymatic-bioremediation
+  - gc-fid
+  - ph-measurement
+  - microscopy
+  - microbiology
 tags:
   - degree/ms
   - location/saudi-arabia
-  - location/jubail-area
-  - technique/gc-ms
-  - technique/gas-chromatography
   - technique/bioremediation
+  - technique/gas-chromatography
+  - technique/gc-ms
   - technique/gc-fid
-  - theme/environmental-geoscience
-  - theme/bioremediation
+  - technique/ph-measurement
+  - technique/microbiology
   - theme/water-treatment
   - theme/environmental-microbiology
-  - terminology/bioremediation
-  - terminology/water-quality
 status: ingested
 ---
 
 # APPLICATION OF ENZYME TO BIOREMEDIATE WATER FROM ETHYLENE DICHLORIDE AND OIL
 
-**Summary**: The thesis investigated the use of three commercial enzymes as a bioremediation tool to treat groundwater contaminated with ethylene dichloride (EDC) and oil. The study was conducted at a laboratory scale, simulating various environmental conditions including different temperatures (4°C, 25°C, 37°C), pH levels (4, 7, 10), and oxygen availability.
+**Summary**: The thesis investigated the use of three commercial enzymes as a bioremediation tool to treat groundwater contaminated with ethylene dichloride (EDC) and oil. The study was conducted at a laboratory scale, comparing aerobic and anaerobic conditions across different temperatures and pH levels.
 
 ---
 
 ## Research Problem
 
-The contamination of groundwater by ethylene dichloride (EDC) and oil requires effective remediation methods. The study addresses the effectiveness of using commercial enzymes to enhance the bioremediation process under varying environmental conditions in a semi-aquifer geological structure.
+Contamination of groundwater by ethylene dichuride (EDC) and oil requires effective remediation methods that are safer than chemical treatments or bacterial additions which can produce unpleasant odors or other environmental risks.
 
 ## Objectives
 
-- To study the influence of using three commercial enzymes as a bioremediation tool to treat/recover ground water from EDC and oil.
-- To increase the bioremediation process to treat ground water from EDC and oil by increasing the activities of the microorganisms which exist in the natural water.
 - To study the performance of three commercial Enzymes to reduce the concentration of EDC, O&G in water in three environmental conditions (high temperature, room temperature and low temperature) & compare its performance with performance of other enzymes at the same environmental conditions.
 - To compare the water quality before and after the bioremediation for each enzyme and compare it with the national and international regulations.
 - Suggest solutions to increase the performance of Enzyme and maintain water quality.
-- To increase the bioremediation process to treat ground water from EDC and oil by increasing the activities of the microorganisms which exist in the natural environment.
-- To assess the potential for biodegradation of pollutants by enhancing the activity of microorganisms available naturally in the ground water.
+- Study the influence of using three commercial enzymes as a bioremediation tool to treat/recover ground water from EDC and Oil.
+- Simulate real environmental conditions of ground water at semi aquifer geological structure.
+- Increase the bioremediation process to treat ground water from EDC and oil by increasing the activities of the microorganisms which exist in the natural environment.
 
 ## Methods
 
-The experiment was conducted at a laboratory scale using 82 samples. Three types of commercial enzymes (Product 1, Product 2, and Product 3) were tested. Samples were prepared with 48 ml water, 1.0 ml oil, and 1.0 ml EDC. Environmental conditions included three temperatures (4°C, 25°C, 37°C) and three pH levels (4, 7, 10). Sample preparation involved specific dosing of enzymes (0.5 ml, 1.0 ml, and 2.0 ml). Samples were kept in semi-anaerobic conditions for the main experiment and some open test tubes were used for confirmation experiments to simulate aerobic conditions. Monitoring included physical parameters (pH, odor, color) and chemical analysis using GC/FID and Headspace GC/MS to measure peak areas of EDC and hydrocarbons (C12-C40).
+The study utilized 82 test tubes containing 48 ml of water, 1.0 ml of oil, and 1.0 ml of EDC. Three commercial enzymes (Product 1, 2, and 3) were applied at different dosages (0.5 ml, 1.0 ml, and 2.0 ml). The experiment was conducted under three temperature conditions (4°C, 25°C, and 37°C) and three pH levels (4, 7, and 10). Samples were kept in semi-anaerobic conditions to simulate a semi-aquifer environment. Monitoring included physical parameters (color, odor, pH) and chemical analysis of EDC and oil peak areas using GC/FID and Headspace GC/MS over an 8-week period.
 
 ## Data and Materials
 
-82 plastic test tubes (50 ml), 3 types of commercial enzymes, samples containing light Arab oil and ethylene dichloride in water, pH meter, shakers, refrigerator, environmental chamber, GC/FID (Agilent Model 7890A), and Headspace GC/MS (Agilent 7890A with 7693 Auto sampler).
+Samples included water from KFUPM lake (used in confirmation experiment), EDC, oil (hydrocarbons in the range of C12-C40), and three commercial enzymes (P1, P2, P3). Analysis was conducted over a period of 6 to 8 weeks.
 
 ## Key Findings
 
-- The influence of enzymes to enhance the reduction rate of the EDC, oil was promising. ([[2014-abdallah|Abdallah, 2014, p. 17]])
-- Average reduction rates for three products (P1, P2, P3) under anaerobic conditions were 4.4%, 4.2%, and 4.0% respectively. ([[2014-abdallah|Abdallah, 2014, p. 19]])
-- The concentration of pollutants increased at some times due to the breakdown of the pollutants' components. ([[2014-abdallah|Abdallah, 2014, p. 17]])
-- The formation of EDC layer at the bottom of test tubes suggested that EDC would settle in lower layers of earth crust (soil). ([[2014-abdallah|Abdallah, 2014, p. 17]])
-- The pH of water was slightly moved to neutral, suggesting enzymes help neutralize water pH. ([[2014-abdallah|Abdallah, 2014, p. 18]])
-- In sealed test tubes, reduction rates were higher when temperature and enzyme dose decreased (e.g., 6% at 4°C/0.5ml vs 3% at 37°C/2ml). ([[2014-abdallah|Abdallah, 2014, p. 18]])
-- In open test tubes, reduction rates were significantly higher than in closed ones (between 18% and 37%). ([[2014-abdallah|Abdallah, 2014, p. 18]])
-- Ethylene dichloride (EDC) is a heavy, oily liquid that is slightly soluble in water but can be highly toxic and carcinogenic. ([[2014-abdallah|Abdallah, 2014, p. 30]])
-- EDC has a half-life of approximately 50 years in anoxic aquifers, making it a persistent pollutant. ([[2014-abdallah|Abdallah, 2014, p. 32]])
-- Bioremediation is defined as the use of microorganisms for the treatment of contamination by degradation or transformation. ([[2014-abdallah|Abdallah, 2014, p. 38]])
-- Enzymatic bioremediation is an extension of microbial bioremediation that uses enzymes to degrade contaminants, offering faster results and the ability to operate at various pH, temperature, and salinity levels. ([[2014-abdallah|Abdallah, 2014, p. 45]])
-- Commonly used enzyme classes for remediation include hydrolases, dehalogenases, transferases, and oxidoreductases. ([[2014-abdallah|Abdallah, 2014, p. 46]])
-- Commercial enzymes like Landguard can remove up to 90% of organophosphates from irrigation wastewater in 10 minutes. ([[2014-abdallah|Abdallah, 2014, p. 47]])
-- The average reduction rate of EDC and oil in the presence of bioremediation products was approximately 4% under all environmental conditions (temperature, pH, and different doses). ([[2014-abdallah|Abdallah, 2014, p. 70]])
-- A minor change (less than 2%) in the pH toward the neutral pH was observed after the introduction of enzymes. ([[2014-abdallah|Abdallah, 2014, p. 70]])
+- The average reduction rate of the three environmental conditions was about 5% for the main experiment and 7% for the confirmation experiment. ([[2014-abdallah|Abdallah, 2014, p. 17]])
+- Reduction rates at the first two weeks were higher, reaching 15%-20% from initial concentration in some instances. ([[2014-abdallah|Abdallah, 2014, p. 17]])
+- The formation of an EDC layer at the bottom of test tubes was observed, suggesting EDC settles in lower layers of earth crust (soil). ([[2014-abdallah|Abdallah, 2014, p. 17]])
+- pH of water moved toward neutral during treatment, indicating enzymes helped neutralize the water pH. ([[2014-abdallah|Abdallah, 2014, p. 18]])
+- The reduction rate at (4 °C, and 0.5 ml) was 6%, while at (37 °C and 2 ml), the reduction rate was 3% and the reduction rate was 5% at 25 °C and 1 ml dosage of enzyme. ([[2014-abdallah|Abdallah, 2014]])
+- page_number_not_specified_in_source_for_this_finding_but_it_is_on_page_99_as_well_as_75_and_102_where_the_summary_of_results_are_given ([[2014-abdallah|Abdallah, 2014]])
+- The average reduction rate of EDC and oil in the presence of bioremediation products was approximately 4% under all tested environmental conditions (temperature, pH, different doses). ([[2014-abdallah|Abdallah, 2014, p. 70]])
+- In anaerobic conditions (closed test tubes), the reduction rate increased as temperature decreased; specifically, the reduction rate at 25°C was approximately 4% while it was lower at 37°C. ([[2014-abdallah|Abdallah, 2014, p. 94]])
+- In aerobic conditions (open test tubes), the average reduction rate increased as temperature increased: 18% at 25°C and 33% at 37°C. ([[2014-abdallah|Abdallah, 2014, p. 94]])
+- The overall reduction of EDC and oil was higher than the control sample (2.5%). ([[2014-abdallah|Abdallah, 2014, p. 75]])
+- page_number_actually_found_at_page_99 ([[2014-abdallah|Abdallah, 2014]])
 
 ## Limitations
 
-In situ enzymatic bioremediation may be less effective due to the difficulty of providing optimal environmental conditions compared to ex situ methods.
+Not stated in source
 
 ## Recommendations and Future Work
 
-Suggest solutions to increase the performance of Enzyme and maintain water quality.
+Not stated in source
 
 ## Related Concepts
 
-- [[bioremediation]]
-- [[enzymatic-bioremediation]]
-- [[water-quality]]
-- [[environmental-microbiology]]
-- [[water-treatment]]
-- [[saudi-arabia]]
-- [[gc-ms]]
-- [[gc-fid]]
-- [[jubail-area]]
+None identified

@@ -1,107 +1,115 @@
 ---
 type: terminology
-title: "Signal To Noise Ratio"
+title: "Signal-to-Noise Ratio"
 aliases:
-  - "SNR"
+  - "S/N ratio"
 canonical: true
-definition: "The ratio of signal power to noise power."
+definition: "The ratio of the power of a signal to the power of background noise."
 units: "dimensionless"
-related_techniques: []
+related_techniques:
+  - "signal-processing"
 tags:
-  - theme/petrophysics
+  - theme/geophysics-general
 sources:
-  - "raw/136092 - DATA DRIVEN MAPPING AND ATTENUATION OF NEAR-SURFACE DIFFRACTORS.pdf"
   - "raw/136319 - An Innovative Model-based Velocity Integration Procedure with an Application in .pdf"
+  - "raw/139612 - Microseismic Modeling of Hydraulic Fracturing and Analysis of Location and Detec.pdf"
+  - "raw/139620 - Improved 3-D Seismic Edge Detection with the Magic Cube Operator.pdf"
   - "raw/139824 - THREE-DIMENSIONAL SUPERVIRTUAL SEISMIC REFRACTION INTERFEROMETRY.pdf"
+  - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
   - "raw/140658 - Effects of Element Elevation and Position Errors On the Response of Seismic Arra.pdf"
+  - "raw/141744 - LINEAR SEMBLANCE VELOCITY ANALYSIS IN THE T2–X2 DOMAIN CONCEPT AND APPLICATIONS .pdf"
   - "raw/141816 - PASSIVE SEISMIC EVENT DETECTION IN THE GRONINGEN AREA USING DEEP LEARNING.pdf"
   - "raw/142265 - FIRST ARRIVALS TRAVELTIME PICKING USING UNSUPERVISED MACHINE LEARNING (DBSCAN) A.pdf"
   - "raw/142448 - First Arrival Picking of Zero-phase Seismic Data by Hilbert Envelope Empirical H.pdf"
-  - "raw/142481 - THE USE OF INTEGRATED GEOPHYSICAL METHODS TO CHARACTERIZE THE SHALLOW INHOMOGENE.pdf"
   - "raw/142770 - PARALLAX-BASED APPROACH TO REMOVE SAND DUNE EFFECTS FROM SEISMIC DATA.pdf"
-  - "raw/143267 - Characterization of Minjur Aquifer using Geophysical Methods for Future CO2 stor.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-18
 ---
 
-# Signal To Noise Ratio
+# Signal-to-Noise Ratio
 
-**Summary**: The ratio of the power of a signal to the power of background noise.
+**Summary**: The measure of the strength of a desired signal compared to the background noise in seismic data.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2009-al-lehyani|Al-Lehyani, 2009]] evaluated the signal-to-noise ratio (SNR) as a measure of seismic data quality.
+- [[2010-al-moqbel|Al-Moqbel, 2010]] evaluated signal-to-noise-ratio to identify areas where standard picking methods fail.
 
-- [[2010-al-moqbel|Al-Moqbel, 2010]] evaluated the impact of low signal-to-noise ratios on the success of traditional velocity picking methods.
+- [[2015-own|Own, 2015]] evaluated signal-to-noise-ratio (SNR) across different monitoring systems.
 
-- [[2016-edigbue|Edigbue, 2016]] evaluated the SNR of enhanced data to compare noisy and enhanced first arrivals.
+- [[2015-adetokunbo|Adetokunbo, 2015]] assessed the impact of noise on edge detection performance.
 
-- [[2018-putra|Putra, 2018]] used signal-to-noise-ratio as the primary metric for evaluating array effectiveness.
+- [[2016-edigbue|Edigbue, 2016]] measured signal-to-noise-ratio (SNR) to evaluate the effectiveness of the SVI algorithm.
 
-- [[2021-shaheen|Shaheen, 2021]] evaluated the impact of SNR on detection, noting that low SNR events are harder for standard models to identify.
+- [[2017-almarzooq|Almarzooq, 2017]] aimed to improve the signal-to-noise-ratio in Rub Al-Khali data.
 
-- [[2022-awais|Awais, 2022]] evaluated SNR as a primary factor affecting the reliability of automatic picking methods.
+- [[2018-putra|Putra, 2018]] evaluated the signal-to-noise-ratio (S/N) as the primary reason for using seismic arrays.
 
-- [[2023-bargees|Bargees, 2023]] evaluated HEEH performance across varying signal-to-noise ratios (SNR).
+- [[2020-alzahrani|Alzahrani, 2020]] evaluated signal-to-noise-ratio in the Polish dataset.
 
-- [[2023-alshaibani|AlShaibani, 2023]] evaluated SNR to determine the quality of seismic data for first arrival picking.
+- [[2021-shaheen|Shaheen, 2021]] evaluated the impact of low SNR on the detection capabilities of both CNN and template matching.
 
-- [[2024-jahlan|Jahlan, 2024]] Not used in this thesis.
+- [[2022-awais|Awais, 2022]] addressed low SNR issues in first arrival picking.
 
-- [[2025-ahmed|Ahmed, 2025]] monitored the signal-to-noise-ratio to ensure data reliability at depth.
+- [[2023-bargees|Bargees, 2023]] evaluated the impact of SNR on the accuracy of the HEEH picking method.
+
+- [[2024-jahlan|Jahlan, 2024]] aimed to improve the signal-to-noise ratio by muting and replacing traces affected by sand dunes.
 
 ## Scientific Context
 
-- [[2009-al-lehyani|Al-Lehyani, 2009]] Used to define the quality of seismic data.
+- [[2010-al-moqbel|Al-Moqbel, 2010]] Determines the reliability of seismic reflections for interpretation.
 
-- [[2010-al-moqbel|Al-Moqbel, 2010]] evaluated the impact of low signal-to-noise ratios on the success of traditional velocity picking methods.
+- [[2015-own|Own, 2015]] evaluated signal-to-noise-ratio (SNR) across different monitoring systems.
 
-- [[2016-edigbue|Edigbue, 2016]] evaluated the SNR of enhanced data to compare noisy and enhanced first arrivals.
+- [[2015-adetokunbo|Adetokunbo, 2015]] assessed the impact of noise on edge detection performance.
 
-- [[2018-putra|Putra, 2018]] used signal-to-noise-ratio as the primary metric for evaluating array effectiveness.
+- [[2016-edigbue|Edigbue, 2016]] measured signal-to-noise-ratio (SNR) to evaluate the effectiveness of the SVI algorithm.
 
-- [[2021-shaheen|Shaheen, 2021]] evaluated the impact of SNR on detection, noting that low SNR events are harder for standard models to identify.
+- [[2017-almarzooq|Almarzooq, 2017]] aimed to improve the signal-to-noise-ratio in Rub Al-Khali data.
 
-- [[2022-awais|Awais, 2022]] evaluated SNR as a primary factor affecting the reliability of automatic picking methods.
+- [[2018-putra|Putra, 2018]] evaluated the signal-to-noise-ratio (S/N) as the primary reason for using seismic arrays.
 
-- [[2023-bargees|Bargees, 2023]] evaluated HEEH performance across varying signal-to-noise ratios (SNR).
+- [[2020-alzahrani|Alzahrani, 2020]] evaluated signal-to-noise-ratio in the Polish dataset.
 
-- [[2023-alshaibani|AlShaibani, 2023]] evaluated SNR to determine the quality of seismic data for first arrival picking.
+- [[2021-shaheen|Shaheen, 2021]] evaluated the impact of low SNR on the detection capabilities of both CNN and template matching.
 
-- [[2024-jahlan|Jahlan, 2024]] Not used in this thesis.
+- [[2022-awais|Awais, 2022]] addressed low SNR issues in first arrival picking.
 
-- [[2025-ahmed|Ahmed, 2025]] monitored the signal-to-noise-ratio to ensure data reliability at depth.
+- [[2023-bargees|Bargees, 2023]] evaluated the impact of SNR on the accuracy of the HEEH picking method.
+
+- [[2024-jahlan|Jahlan, 2024]] aimed to improve the signal-to-noise ratio by muting and replacing traces affected by sand dunes.
 
 ## Measurement and Characterization Methods
 
-
+- [[2010-al-moqbel|Al-Moqbel, 2010]] Quantified via semblance and cross-correlation measures.
 
 ## Key Findings Across Sources
 
-- A higher bandwidth leads to better data quality and improved SNR. ([[2009-al-lehyani|Al-Lehyani, 2009, p. 11]])
+- The integrated model allows for successful velocity picking even in cases with poor signal-to-noise ratios due to ambient noise or karsting. ([[2010-al-moqbel|Al-Moqbel, 2010, p. 18]])
 
-- Cases with very poor signal-to-noise ratios (Case Three and Four) were identified as areas where standard coherence-based methods fail. ([[2010-al-moqbel|Al-Moqbel, 2010, p. 148]])
 
-- The supervirtual method can improve SNR by a factor of N, whereas standard interferometry improves it by sqrt(N). ([[2016-edigbue|Edigbue, 2016, p. 23]])
+- Downhole data had the highest SNR compared to surface and buried arrays. ([[2015-own|Own, 2015, p. 73]])
+
+- In the presence of noise (0.1 standard deviation), the 5x5 magic cube operator showed better delineation than the 3x3 version. ([[2015-adetokunbo|Adetokunbo, 2015, p. 57]])
+
+- The SNR improved from 4 in raw traces to approximately 20 after applying supervirtual methods. ([[2016-edigbue|Edigbue, 2016, p. 60]])
+
+- The proposed method resulted in significant S/N ratio improvement on traces from the sand dune environment. ([[2017-almarzooq|Almarzooq, 2017, p. 47]])
 
 - Arrays are used to enhance S/N by attenuating horizontally traveling surface waves like ground roll. ([[2018-putra|Putra, 2018, p. 16]])
 
-- Some events were not picked by the CNN because they were buried in low SNR waveforms. ([[2021-shaheen|Shaheen, 2021, p. 46]])
+- The Poland data had a low signal-to-noise ratio, but the effect could still be observed at the squaring of the selected gather. ([[2020-alzahrani|Alzahrani, 2020, p. 45]])
 
-- Most automated methods fail when the SNR is low, necessitating techniques like SVI for enhancement. ([[2022-awais|Awais, 2022, p. 16]])
+- Two events were missed by the CNN because they were buried in low SNR waveforms. ([[2021-shaheen|Shaheen, 2021, p. 64]])
 
-- Performance of the HEEH method deteriorates with the decreasing S/N ratio. ([[2023-bargees|Bargees, 2023, p. 71]])
+- SVI was specifically employed to increase the SNR of far-offset arrivals, making it easier for DBSCAN to identify accurate traveltimes. ([[2022-awais|Awais, 2022, p. 24]])
 
-- Low SNR made first arrival picking difficult at large offsets. ([[2023-alshaibani|AlShaibani, 2023, p. 28]])
+- Performance of the HEEH method deteriorated as the Signal-to-Noise Ratio (SNR) decreased, particularly in real data with complex geology. ([[2023-bargees|Bargees, 2023, p. 70]])
 
-- Not stated in source ([[2024-jahlan|Jahlan, 2024]])
-
-- Log-gating improves S/N by a factor of 1.41 as more data is stacked. ([[2025-ahmed|Ahmed, 2025, p. 55]])
+- Muting and then stacking based on fold number improved the SNR significantly (Page 62). ([[2024-jahlan|Jahlan, 2024, p. 62]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

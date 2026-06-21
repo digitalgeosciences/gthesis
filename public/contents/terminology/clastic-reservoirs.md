@@ -4,55 +4,58 @@ title: "Clastic Reservoirs"
 aliases:
   - "clastic reservoir"
 canonical: true
-definition: "Reservoirs formed from siliciclastic sediments."
+definition: "Reservoir rocks formed from fragments of pre-existing rocks and minerals."
 units: "not applicable"
-related_techniques: []
+related_techniques:
+  - "petrophysics"
+  - "rock-physics-modeling"
 tags:
+  - terminology/clastic-reservoirs
   - theme/clastic-reservoirs
 sources:
-  - "raw/139873 - Fracture Detection Using Azimuthal P-wave Amplitude Variation with Offset (AVOA).pdf"
   - "raw/140109 - ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA.pdf"
+  - "raw/140463 - PERFORMANCE OF MIXED CO2N2 FOAM IN ENHANCED OIL RECOVERY FOR SANDSTONE RESERVOIR.pdf"
   - "raw/141631 - Rock Physics Based Seismic Characterization of Saudi Clastic Reservoirs Rock Phy.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-17
 ---
 
 # Clastic Reservoirs
 
-**Summary**: Reservoirs composed of clastic sediments like sandstones or conglomerates.
+**Summary**: Reservoirs composed of clastic sediments like sandstones and conglomerates.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2016-hassan|Hassan, 2016]] investigated fracture characterization in the Unayzah-C and Unayzah-A clastic reservoirs.
+- [[2016-houssain|Houssain, 2016]] studied a clastic reservoir in the Unayzah formation.
 
-- [[2016-houssain|Houssain, 2016]] studied a clastic reservoir in Saudi Arabia to develop an appropriate rock physics model.
+- [[2017-adam|Adam, 2017]] studied a sandstone reservoir using core samples for EOR testing.
 
-- [[2020-almumtin|Almumtin, 2020]] studied a Saudi clastic reservoir with low-to-medium porosity sandstone.
+- [[2020-almumtin|Almumtin, 2020]] studied a Saudi clastic_reservoir with low-to-medium porosity.
 
 ## Scientific Context
 
-- [[2016-hassan|Hassan, 2016]] Clastic reservoirs often present challenges in fracture detection due to high heterogeneity and varying lithology.
+- [[2016-houssain|Houssain, 2016]] The study focuses on the specific behavior of clastic systems compared to carbonates.
 
-- [[2016-houssain|Houssain, 2016]] studied a clastic reservoir in Saudi Arabia to develop an appropriate rock physics model.
+- [[2017-adam|Adam, 2017]] studied a sandstone reservoir using core samples for EOR testing.
 
-- [[2020-almumtin|Almumtin, 2020]] studied a Saudi clastic reservoir with low-to-medium porosity sandstone.
+- [[2020-almumtin|Almumtin, 2020]] studied a Saudi clastic_reservoir with low-to-medium porosity.
 
 ## Measurement and Characterization Methods
 
-- [[2016-hassan|Hassan, 2016]] Analyzed as the primary reservoir type for the study.
+- [[2016-houssain|Houssain, 2016]] Characterized via well logs and rock physics models.
 
 ## Key Findings Across Sources
 
-- Unayzah-C is an extremely heterogeneous glacial clastic deposit, which may cause discrepancies between seismic attributes and well data. ([[2016-hassan|Hassan, 2016, p. 69]])
+- The stiff-sand model was found to be the most appropriate for this specific clastic system. ([[2016-houssain|Houssain, 2016, p. 17]])
 
-- The stiff-sand model was found most suitable for the specific clastic reservoir studied. ([[2016-houssain|Houssain, 2016, p. 17]])
 
-- The study focused on a clastic field containing gas and oil in a sedimentary environment (dunes). ([[2020-almumtin|Almumtin, 2020, p. 20]])
+- The sandstone core exhibited high permeability (97.54 md). ([[2017-adam|Adam, 2017, p. 58]])
+
+- The reservoir is characterized by high stiffness, making it less sensitive to pore fluid changes. ([[2020-almumtin|Almumtin, 2020, p. 43]])
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

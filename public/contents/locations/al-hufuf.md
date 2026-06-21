@@ -1,6 +1,6 @@
 ---
 type: location
-title: "Al Hufuf"
+title: "Al-Hufuf"
 aliases: []
 canonical: true
 region: "Not stated in source"
@@ -9,12 +9,12 @@ coordinates: "Not stated in source"
 geology: "Not stated in source"
 tags: []
 sources:
-  - "raw/9977 - Hydrogeochemistry of Alat and Khobar aquifers in Eastern Saudi Arabia.pdf"
+  - "raw/138912 - Digital Outcrop Modeling of Hofuf Outcrop via integrating LIDAR, Ground Penetrat.pdf"
 status: active
-last_updated: 2026-06-11
+last_updated: 2026-06-14
 ---
 
-# Al Hufuf
+# Al-Hufuf
 
 **Summary**: Geographic study area or location in the thesis collection.
 
@@ -22,7 +22,7 @@ last_updated: 2026-06-11
 
 ## How It Appears in the Thesis Collection
 
-- [[1992-hassan|Hassan, 1992]] conducted research at Al Hufuf
+- [[2013-yousif|Yousif, 2013]] conducted research at Al Hufuf
 
 ## Geological and Structural Setting
 
@@ -34,7 +34,7 @@ last_updated: 2026-06-11
 
 ## Key Findings From This Location
 
-- conducted research at Al Hufuf ([[1992-hassan|Hassan, 1992]])
+- conducted research at Al Hufuf ([[2013-yousif|Yousif, 2013]])
 
 ## Research Coverage and Gaps
 

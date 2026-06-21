@@ -2,29 +2,29 @@
 type: technique
 title: "Multi Taper Method"
 aliases:
-  - "multi taper method"
+  - "MTM"
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
 output: "reduced-variance spectral estimates"
 tags:
   - technique/multi-taper-method
-  - theme/seismic-processing
+  - theme/seismic-imaging
 sources:
   - "raw/140553 - INVESTIGATION OF SEISMIC DATA AMPLIFICATION RESPONSE UNDER THE SAND DUNES OF RUB.pdf"
 status: active
-last_updated: 2026-06-09
+last_updated: 2026-06-16
 ---
 
 # Multi Taper Method
 
-**Summary**: A spectral estimation technique that uses a set of orthogonal tapers to reduce leakage and variance.
+**Summary**: A method to improve spectral estimates by reducing leakage and variance using multiple orthogonal tapers.
 
 ---
 
 ## How It Is Used in the Thesis Collection
 
-- [[2017-almarzooq|Almarzooq, 2017]] used multi-taper method to minimize spectral leakage and variance in the estimation of average amplitude spectra.
+- [[2017-almarzooq|Almarzooq, 2017]] used multi-taper-method to minimize spectral leakage when calculating global reference traces.
 
 ## Instruments and Software
 
@@ -36,7 +36,7 @@ last_updated: 2026-06-09
 
 ## Key Results and Findings
 
-- The multi-taper approach improves the spectral estimate by addressing both leakage and variance in the estimate. ([[2017-almarzooq|Almarzooq, 2017, p. 38]])
+- The method provides a more accurate representation of the signal's spectrum compared to standard Fourier transforms. ([[2017-almarzooq|Almarzooq, 2017, p. 39]])
 
 ## Methodological Variations Across Sources
 

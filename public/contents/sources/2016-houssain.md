@@ -17,119 +17,120 @@ study_area: "Unayzah formation, Eastern Province, Saudi Arabia"
 keywords:
   - Rock Physics Modeling
   - Clastic Reservoir
-  - Geophysical Well Log Analysis (GWLA)
-  - Stiff-sand model
-  - Soft-sand model
-  - Greenberg and Castagna
-  - Raymer's model
   - Saudi Arabia
   - Petrophysics
-  - Well log analysis
-  - Gassmann model
-  - Porosity
-  - Lithology
-  - shear velocity prediction
+  - Geophysical Well Log Analysis (GWLA)
+  - Stiff-sand model
+  - Gassmann fluid substitution
+  - Shear Velocity Prediction
   - Gassmann's equation
-  - fluid substitution
   - acoustic impedance
-  - Vp/Vs ratio
+  - porosity
+  - fluid substitution
+  - petrophysical properties
 techniques:
-  - well-log-analysis
-  - petrophysics
-  - multivariate-regression
-  - core-analysis
-  - lithology-calculation
+  - gwla
   - multi-linear-regression
+  - petrophysics
+  - rock-physics-modeling
+  - lithology-analysis
+  - well-log-analysis
+  - shear-velocity-prediction
+  - fluid-substitution
+  - lithostratigraphy
+  - mineralogy
   - gamma-ray-spectrometry
-  - seismic-inversion
+  - core-analysis
+  - petrography
 tags:
   - degree/ms
   - formation/unayzah-formation
-  - location/saudi-arabia
   - location/eastern-province
-  - technique/well-log-analysis
+  - location/saudi-arabia
+  - technique/gwla
   - technique/petrophysics
-  - technique/multivariate-regression
-  - technique/multi-linear-regression
-  - technique/seismic-inversion
+  - technique/rock-physics-modeling
+  - technique/well-log-analysis
+  - technique/shear-velocity-prediction
+  - technique/fluid-substitution
+  - technique/lithostratigraphy
+  - technique/mineralogy
+  - technique/gamma-ray-spectrometry
+  - technique/core-analysis
+  - technique/petrography
   - theme/petrophysics
   - theme/clastic-reservoirs
-  - theme/rock-physics
   - terminology/porosity
-  - terminology/rock-physics
   - terminology/clastic-reservoirs
+  - terminology/acoustic-impedance
+  - terminology/velocity-modeling
+  - terminology/fluid-substitution
 status: ingested
 ---
 
 # ROCK PHYSICS MODELING FOR A CLASTIC RESERVOIR IN SAUDI ARABIA
 
-**Summary**: The thesis investigates rock physics modeling for a clastic reservoir in Saudi Arabia using four well datasets to establish a relationship between elastic properties and petrophysical properties. It evaluates several models, including stiff-sand, soft-sand, Greenberg & Castagna, and Raymer's, concluding that the stiff-sand model is the most appropriate for estimating porosity from seismic impedance.
+**Summary**: The thesis investigates rock physics modeling for a clastic reservoir (Unayzah formation) in the Eastern Province of Saudi Arabia. It utilizes Geophysical Well Log Analysis (GWLA) to condition logs and evaluates several models, ultimately determining that the stiff-sand model is the most appropriate for relating elastic properties to porosity and lithology.
 
 ---
 
 ## Research Problem
 
-The need to accurately translate seismic-derived elastic properties into quantitative reservoir properties (lithology, porosity, and fluid type) in a clastic reservoir (Unayzah formation) in Saudi Arabia is addressed through rock physics modeling.
+Establishing an accurate rock physics model to translate seismic response into quantitative reservoir properties (lithology, porosity, and fluid type) in a clastic reservoir where mineralogy is predominantly quartz and shale.
 
 ## Objectives
 
-- Determine a rock physics model for a clastic reservoir in Saudi Arabia using well log data.
-- Enhance and condition the quality of elastic logs through Geophysical Well Log Analysis (GWLA).
-- Calculate petrophysical properties from conditioned logs.
-- Compare and evaluate various rock physics models (stiff-sand, soft-sand, Greenberg & Castanga, Raymer's) to identify the most suitable model for estimating porosity from seismic impedance.
-- Establish a suitable rock physics workflow for building a rock physics model for a clastic reservoir in Saudi Arabia.
-- Evaluate different rock physics models, including empirical and theoretical approaches, to understand log responses and relate them to the effects of porosity, lithology, and fluid type.
-- Predict missing shear wave velocities in wells 411_03 and 411_05 using established methods.
-- Evaluate various rock physics models (Gassmann, Hashin-Shtrikman, contact theories) to determine the most suitable model for the reservoir.
-- Establish a rock physics template (RPT) based on the stiff-sand model constrained by local geological conditions.
-- Establish a common fluid state for rock physics analysis by calculating 100% wet conditions.
-- Evaluate various rock physics models (e.g., stiff-sand, soft-sand) to determine the best fit for the local geology.
-- Develop a Rock Physics Template (RPT) to differentiate lithology and pore fluids.
-- Establish a mathematical relationship between porosity and acoustic impedance for seismic interpretation.
+- Establish a suitable rock physics workflow for a clastic reservoir in Saudi Arabia.
+- Evaluate different rock physics models to understand log response and relate them to the effects of porosity, lithology, and fluid type.
+- Condition elastic logs and predict missing sections.
+- Calculate petrophysical properties using available logs and reservoir information.
+- Perform rock physics diagnostics to bring intervals to a common fluid state (100% wet).
+- Evaluate and select the most appropriate rock physics model for the specific reservoir lithology.
 
 ## Methods
 
-The study involved well log analysis of four wells, including gamma ray, density, and sonic logs. Fluid properties were calculated using the Batzle and Wang (1992) model. Fluid substitution was performed using Gassmann's equation to simulate different saturation scenarios (100% water, 90% gas/10% water, 80% oil/20% water). Several rock physics models (Raymer, Greenberg & Castagna, soft-sand, and stiff-sand) were tested. A Rock Physics Template (RPT) was constructed using Vp/Vs vs. acoustic impedance to identify lithology and fluid types. Finally, a second-order polynomial fit was used to relate porosity to acoustic impedance.
+The study utilized well logs (gamma ray, density, resistivity, sonic) from four wells. Data conditioning included predicting missing sections and calculating petrophysical properties using Archie's equation for water saturation. Rock physics diagnostics involved fluid substitution using the Batzle and Wang (1992) model to determine fluid properties followed by Gassmann’s equation for various saturation scenarios. Several models were tested: Raymer (1980), Greenberg and Castagna (1992), soft-sand (Dvorkin and Nur, 1996), and stiff-sand (Mavko et al., 2009). A Rock Physics Template (RPT) was created using the selected stiff-sand model to validate lithology and fluid interpretation. Finally, a second-order polynomial fit was used to relate porosity to acoustic impedance.
 
 ## Data and Materials
 
-Four well datasets including gamma ray, density, resistivity, caliper, bulk density, and compressional/shear sonic logs; calculation of fluid properties for water (190,000 ppm salinity) and gas (0.8 gravity).
+Four well datasets in the eastern part of Saudi Arabia (wells 411_03, 411_05, 411_10, and 411_23) including gamma ray, density, sonic (compressional and shear), resistivity, and caliper logs.
 
 ## Key Findings
 
 - The stiff-sand model proved to be the most appropriate and universal transform for the wells under examination in this study. ([[2016-houssain|Houssain, 2016, p. 17]])
-- The stiff-sand model is used to create and supply equations that estimate the porosity from the seismically derived impedance. ([[2016-houssain|Houssain, 2016, p. 17]])
-- Conditioned logs, combined with other available logs, were used to calculate petrophysical properties such as lithology, porosity, and fluid type. ([[2016-houssain|Houssain, 2016, p. 17]])
-- The study utilized a Geophysical Well Log Analysis (GWLA) workflow to enhance and condition the quality of elastic logs. ([[2016-houssain|Houssain, 2016, p. 17]])
-- The Unayzah-a member is highly heterogeneous and often appears as a thin layer, making it difficult to detect at current seismic resolution. ([[2016-houssain|Houssain, 2016, p. 21]])
-- The study revealed low amounts of shale in the reservoir (zone-B) compared to the overlying carbonate layer (zone-A). ([[2016-houssain|Houssain, 2016, p. 41]])
-- Average porosity in the good quality interval within the reservoir was approximately 20%. ([[2016-houssain|Houssain, 2016, p. 42]])
-- Zone-A is almost fully water-saturated, while saturation varies in zone-B, with the lower part likely being water-saturated and the upper part varying between water- and hydrocarbon-saturated. ([[2016-houssain|Houssain, 2016, p. 43]])
-- The multi-linear regression (MLR) relation used on zone-A successfully increased the consistency and quality of the density data. ([[2016-houssain|Houssain, 2016, p. 39]])
-- The Greenberg and Castagna (1992) method successfully predicted shear wave velocities in wells 411_03 and 411_05, showing high correlation with measured values in other wells. ([[2016-houssain|Houssain, 2016, p. 68]])
-- The average porosity of the reservoir across the studied wells is between 13% and 16%. ([[2016-houssain|Houssain, 2016, p. 69]])
-- The stiff-sand model was identified as the most appropriate and universal transform for the well data, successfully replicating Vp, Vs, and density. ([[2016-houssain|Houssain, 2016, p. 68]])
-- The reservoir lithology is predominantly mono-mineral and semi-pure sandstone, which limited the information gained from Vp-Vs cross-plots. ([[2016-houssain|Houssain, 2016, p. 72]])
-- Hydrocarbon zones were identified in both low and high acoustic impedance intervals. ([[2016-houssain|Houssain, 2016, p. 72]])
-- The sensitivity of the Ip-Vp/Vs cross-plot to saturation is significant in high porosity zones but less sensitive in medium to low porosity zones. ([[2016-houssain|Houssain, 2016, p. 74]])
+- Average porosity in the good quality interval within the reservoir is approximately 20%. ([[2016-houssain|Houssain, 2016, p. 42]])
+- The results show that the total and effective porosities are almost the same due to the low amount of shale, especially in the reservoir. ([[2016-houssain|Houssain, 2016, p. 42]])
+- Zone-A is almost fully water-saturated whereas the saturation varies in zone-B. ([[2016-houssain|Houssain, 2016, p. 43]])
+- The lower part of the reservoir is most likely water-saturated and the upper part varies between water- and hydrocarbon-saturated in all wells. ([[2016-houssain|Houssain, 2016, p. 43]])
+- The middle interval of the reservoir shows less water saturation over all wells. ([[2016-houssain|Houssain, 2016, p. 43]])
+- The multi-linear regression (MLR) relation used on zone-A increased the consistency and quality of the density data. ([[2016-houssain|Houssain, 2016, p. 39]])
+- The Gardner (power) relation used in zone-B also improved the densities quality. ([[2016-houssain|Houssain, 2016, p. 40]])
+- The critical porosity (phi_c) in the reservoir was determined to be 0.4 based on Voigt-Reuss and modified Hashin-htrikman bounds. ([[2016-houssain|Houssain, 2016, p. 77]])
+- The presence of 5-10% gas in the fluid system significantly reduces the bulk modulus, which was modeled using Wood's average. ([[2016-houssain|Houssain, 2016, p. 79]])
+- In-situ data for the reservoir closely matched the results from Gassmann’s model for the gas scenario (red logs), indicating a predominantly gas or gas-mixed-with-water system. ([[2016-houssain|Houssain, 2016, p. 79]])
+- The stiff-sand model was identified as the most appropriate model for honoring in-situ data at the reservoir level compared to soft-sand and other models. ([[2016-houssain|Houssain, 2016, p. 84]])
+- A second-order polynomial fit (phi = 0.001 Ip^2 - 0.0609 Ip + 0.6355) with an R^2 of 0.9 was established to relate porosity to acoustic impedance. ([[2016-houssain|Houssain, 2016, p. 89]])
+- The Vp-Rhob cross-plot showed that the reservoir lithology is likely mono-mineral and semi-pure sandstone, making it a good indicator for porosity and saturation. ([[2016-houssain|Houssain, 2016, p. 72]])
 
 ## Limitations
 
-The study was limited by a small number of wells and a lack of detailed lithology and fluid property information, specifically missing core data and advanced logs like neutron or Photoelectric Factor (PEF).
+Limited number of wells; lack of core data, thin sections, and specific fluid properties (e.g., exact shear velocity); use of approximate values for shale properties in some models.
 
 ## Recommendations and Future Work
 
-Include cores, thin sections, and more well logs (neutron, PEF); perform sensitivity analysis on missing parameters like shear velocity; apply the workflow to other wells in the same field; use seismic inversion to extrapolate properties away from well locations.
+Include cores, thin sections, and more well logs (neutron, PEF). Perform sensitivity analysis on missing data like shear velocity. Apply the workflow to other wells in the same field to test model robustness. Use inverted seismic data constrained by rock physics models to extrapolate reservoir properties away from well locations.
 
 ## Related Concepts
 
-- [[well-log-analysis]]
-- [[petrophysical-rock-typing]]
+- [[gwla]]
+- [[rock-physics-modeling]]
+- [[fluid-substitution]]
 - [[porosity]]
-- [[rock-physics]]
-- [[petrophysics]]
 - [[clastic-reservoirs]]
-- [[saudi-arabia]]
 - [[unayzah-formation]]
 - [[eastern-province]]
-- [[seismic-inversion]]
+- [[petrophysics]]
+- [[well-log-analysis]]
+- [[acoustic-impedance]]
+- [[saudi-arabia]]
+- [[velocity-modeling]]

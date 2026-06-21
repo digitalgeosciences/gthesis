@@ -4,42 +4,43 @@ title: "Image Quality Assessment"
 aliases:
   - "IQA"
 canonical: true
-definition: "A method to quantify the quality of an image based on features like noise and blur."
-units: "0-100 scale"
+definition: "A methodology to objectively measure the degree of distortion in an image."
+units: "score (0-100)"
 related_techniques:
-  - "machine-learning"
+  - "sseq"
+  - "curvelet-transform"
 tags:
   - theme/seismic-imaging
 sources:
   - "raw/139504 - TOWARDS ACCURATE SEISMIC IMAGING USING PHASE SHIFT PLUS INTERPOLATION FOR VISCO-.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-15
 ---
 
 # Image Quality Assessment
 
-**Summary**: The evaluation of the quality of an image, often based on human perception.
+**Summary**: A set of methods used to quantify the quality of an image, often based on noise and blur levels.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2015-mohammed|Mohammed, 2015]] applied IQA methods (SSEQ and curvelet features) to evaluate various poststack seismic images.
+- [[2015-mohammed|Mohammed, 2015]] developed a non-reference IQA framework using SSEQ and curvelet features to evaluate seismic images.
 
 ## Scientific Context
 
-- [[2015-mohammed|Mohammed, 2015]] IQA is used to objectively compare different seismic imaging techniques.
+- [[2015-mohammed|Mohammed, 2015]] Crucial for automating and standardizing the evaluation of different seismic imaging algorithms.
 
 ## Measurement and Characterization Methods
 
-- [[2015-mohammed|Mohammed, 2015]] measured using SSEQ (spatial/spectral entropy) and curvelet features.
+- [[2015-mohammed|Mohammed, 2015]] implemented via a two-stage framework using SVM and SVR.
 
 ## Key Findings Across Sources
 
-- Curvelet features provided a higher relative improvement in accuracy compared to SSEQ for IQA. ([[2015-mohammed|Mohammed, 2015, p. 99]])
+- Both SSEQ and curvelet features provided results that correlated closely with human perception of image quality. ([[2015-mohammed|Mohammed, 2015, p. 101]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

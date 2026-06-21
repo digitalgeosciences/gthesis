@@ -4,32 +4,31 @@ title: "Abha-Khamis Mushait Area"
 aliases:
   - "Abha-Khamis Mushayt area"
 canonical: true
-region: "Southwestern Saudi Arabia"
+region: "Asir Region"
 country: "Saudi Arabia"
-coordinates: "17°N to 18°N, 42°E to 43°E"
-geology: "Precambrian basement and Paleozoic sedimentary cover"
+coordinates: "42°N to 43°E (approximate)"
+geology: "Precambrian basement with overlying Paleozoic sediments"
 tags:
   - location/abha-khamis-mushait-area
-  - theme/sedimentology
 sources:
   - "raw/9778 - Depositional environments and provenance of the Wajid Sandstone, Abha-Khamis Mus.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-20
 ---
 
 # Abha-Khamis Mushait Area
 
-**Summary**: The geographic region in southwestern Saudi Arabia where the study was conducted.
+**Summary**: A study area in the southwestern part of Saudi Arabia.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[1999-babalola|Babalola, 1999]] located the study within the Abha-Khamis Mushayt area.
+- [[1999-babalola|Babalola, 1999]] investigated the Wajid Sandstone within the Abha-Khamis Mushayt area.
 
 ## Geological and Structural Setting
 
-- [[1999-babalola|Babalola, 1999]] Proterozoic volcanic-arc complex and sedimentary rocks
+- [[1999-babalola|Babalola, 1999]] not stated in source
 
 ## Formations Present
 
@@ -37,7 +36,7 @@ last_updated: 2026-06-10
 
 ## Key Findings From This Location
 
-- Contains outcrops of the Wajid Sandstone and associated minerals. ([[1999-babalola|Babalola, 1999, p. 1]])
+- The Wajid Sandstone is represented by an approximately 300m thick sequence... at the Abha-Khamis Mushayt area. ([[1999-babalola|Babalola, 1999, p. 18]])
 
 ## Research Coverage and Gaps
 

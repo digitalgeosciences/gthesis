@@ -4,21 +4,21 @@ title: "Mangrove Habitat"
 aliases:
   - "mangroves"
 canonical: true
-definition: "Coastal ecosystems characterized by salt-tolerant trees (mangroves)."
+definition: "Coastal ecosystems providing erosion control and habitat for marine life."
 units: "not applicable"
 related_techniques:
   - "remote-sensing"
 tags:
-  - theme/coastal-zone-management
+  - theme/environmental-geoscience
 sources:
   - "raw/138589 - Quantitative Assessments of Land Reclamation along the East Coast of Saudi Arabi.pdf"
 status: active
-last_updated: 2026-06-08
+last_updated: 2026-06-14
 ---
 
 # Mangrove Habitat
 
-**Summary**: Coastal ecosystems dominated by mangrove trees, providing critical habitat for marine life.
+**Summary**: Coastal ecosystems dominated by mangrove trees.
 
 ---
 
@@ -28,18 +28,18 @@ last_updated: 2026-06-08
 
 ## Scientific Context
 
-- [[2012-al-rowaished|Al-Rowaished, 2012]] Mangroves provide essential services like erosion control and biodiversity maintenance.
+- [[2012-al-rowaished|Al-Rowaished, 2012]] Mangroves are vital for biodiversity and coastal protection but are highly susceptible to urban development.
 
 ## Measurement and Characterization Methods
 
-- [[2012-al-rowaished|Al-Rowaished, 2012]] Overlaying environmental biotype maps with reclamation area data.
+- [[2012-al-rowaished|Al-Rowaished, 2012]] Comparison of biotype maps with reclaimed area polygons.
 
 ## Key Findings Across Sources
 
-- Reclamation activities showed a clear and destructive impact on the rich mangrove habitats of Tarut Bay. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 10]])
+- Superimposition showed a clear and destructive impact on mangrove habitats in Tarut Bay. ([[2012-al-rowaished|Al-Rowaished, 2012, p. 10]])
+
 
 ## Contrasting Values and Interpretations
-
 
 
 ## Open Questions and Research Gaps

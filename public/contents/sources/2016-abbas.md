@@ -15,168 +15,136 @@ url: "https://eprints.kfupm.edu.sa/id/eprint/139856/"
 study_area: "Old Qusaiba Village, Qasim District, Central Saudi Arabia"
 keywords:
   - Sharawra Formation
-  - Petrography
-  - Geochemistry
+  - petrography
+  - geochemistry
+  - lithofacies
   - Silurian
-  - Sandstone
-  - Siltstone
-  - Lithofacies
-  - TOC
-  - Porosity
-  - Permeability
-  - reservoir characterization
-  - Saudi Arabia
   - Qusaiba Formation
-  - diagenesis
-  - kaolinite
-  - iron oxide
-  - quartz overgrowth
+  - Saudi Arabia
   - XRD
-  - sedimentology
-  - weathering
-  - provenance
-  - tectonic setting
+  - SEM-EDS
+  - diagenesis
+  - quartz
+  - clay minerals
+  - Petrophysics
+  - Source Area Weathering
+  - Tectonic Setting
+  - Provenance
+  - Total Organic Carbon
 techniques:
-  - thin-section-petrography
-  - sem-eds
   - xrd
+  - sem-eds
+  - thin-section-petrography
+  - core-analysis
   - xrf
   - icp-oes
   - toc-analysis
-  - petrophysical-measurements
-  - helium-porosity
-  - core-analysis
+  - gps
+  - gas-expansion-and-saturation-method
 tags:
   - degree/ms
   - formation/sharawra-formation
-  - formation/sarah-formation
   - formation/qusaiba-member
   - location/old-qusaiba-outcrop
-  - location/central-saudi-arabia
+  - location/central-saudi-area
   - technique/xrd
   - technique/sem-eds
-  - technique/xrf
-  - technique/icp-oes
   - technique/thin-section-petrography
-  - technique/well-log-analysis
+  - technique/porosity
   - technique/core-analysis
+  - technique/xrf
+  - technique/icp-ms
+  - technique/toc-analysis
+  - technique/gps
+  - technique/icp-oes
   - theme/sedimentary-petrology
   - theme/general-geochemistry
   - theme/lithostratigraphy
-  - theme/sedimentary-geochemistry
-  - theme/petrophysics
   - theme/diagenesis
-  - theme/provenance
-  - terminology/lithofacies
+  - theme/petrophysics
+  - terminology/facies-analysis
   - terminology/porosity
   - terminology/diagenesis
-  - terminology/sedimentary-geochemistry
-  - terminology/source-rock-evaluation
   - terminology/clay-mineralogy
+  - terminology/lithostratigraphy
   - terminology/permeability
-  - terminology/petrophysics
+  - terminology/source-area-weathering
 status: ingested
 ---
 
 # GEOCHEMICAL AND PETROGRAPHICAL STUDY OF THE SHARAWRA FORMATION, OLD QUSAIBA VILLAGE, CENTRAL SAUDI ARABIA
 
-**Summary**: The thesis investigates the petrographical and geochemical characteristics of the Silurian Sharawra Formation in the Old Qusaiba Village area. It utilizes a suite of analytical techniques including XRD, SEM-EDS, XRF, and ICP-OES to characterize mineralogy, elemental composition, and sedimentary features across multiple outcrops.
+**Summary**: The thesis investigates the petrographical and geochemical characteristics of the Silurian Sharawra Formation in Old Qusaiba Village, Central Saudi Arabia. Through thin-section petrography, SEM-EDS, and XRD analysis, it identifies various lithofacies and characterizes the mineralogy (quartz, clay minerals, iron oxide) and diagenetic processes affecting the formation's porosity and permeability.
 
 ---
 
 ## Research Problem
 
-Lack of published research on the Silurian Sharawra Formation requires fundamental studies in petrography and geochemistry to establish a baseline for future exploration and understanding of its role as a cap rock over the Qusaiba Formation.
+The lack of published research on the Sharawra Formation, which sits above a major source rock (Qusaiba Formation), limits understanding of its mineralogy, geochemistry, and potential as a reservoir in central Saudi Arabia.
 
 ## Objectives
 
-- Characterize the lithofacies of the Sharawra Formation at Old Qusaiba Village.
-- Perform detailed mineralogical analysis using XRD and SEM-EDS.
-- Evaluate petrophysical properties (porosity and permeability) across different facies.
-- Conduct geochemical analysis to determine TOC, major elements, and trace elements.
 - Recognition and characterization of facies types
 - Determination of the geochemical variation
 - Porosity estimation of sandstones
 - Assessments of mineralogical variations and relation to facies
-- Perform petrographical study of sandstone and siltstone units within the Sharawra Formation
-- Conduct geochemical analysis (XRF, ICP-OES) to determine elemental composition
-- Analyze mineralogy using XRD and SEM-EDS
-- Evaluate physical properties such as porosity and permeability via helium gas expansion
-- Identify and describe lithofacies within the Sharawra Formation at three specific outcrops.
-- Correlate lithofacies across different locations to determine lateral continuity.
-- Perform petrographic analysis to characterize mineralogy and grain properties.
-- Conduct geochemical analyses (TOC, ICP-OES) to evaluate source rock potential.
-- Characterize the mineralogy of the Sharawra Formation using XRD and SEM-EDS
-- Identify different types of cement and their impact on reservoir properties
-- Evaluate the diagenetic history of the sandstone units within the formation
-- Determine the effect of clay minerals (kaolinite, illite) on porosity and permeability
-- Characterize the mineralogical composition of the Sharawra Formation using XRD and petrography.
-- Evaluate the porosity and permeability of different lithofacies within the formation.
-- Identify the impact of specific clay minerals (kaolinite, palygorskite) on reservoir properties.
-- Characterize the petrophysical properties (porosity and permeability) of the Sharawra Formation.
-- Identify the mineralogical components and authigenic clays using XRD and SEM-EDS.
-- Determine the geochemical composition of major and trace elements via XRF and ICP-OES.
-- Assess weathering intensity and provenance of the sediments using CIA, CIW, and ICV indices.
-- Determine the depositional tectonic setting based on petrographic and geochemical data.
-- Perform petrographical study of the Sharawra Formation
-- Conduct geochemical analysis (major and trace elements) to determine provenance and tectonic setting
-- Evaluate Total Organic Carbon (TOC) content in shale interbeds
+- Identify and characterize lithofacies within the Sharawra Formation at three outcrops.
+- Perform petrographical analysis of sandstone and siltstone samples using thin sections.
 
 ## Methods
 
-The study involved field mapping of three outcrops in Old Qusaiba Village, followed by sample collection (128 samples). Petrographic analysis was performed on 54 thin sections using optical microscopy. Petrophysical measurements included core plug analysis for porosity and permeability using a helium porosimeter/permeameter. Mineralogy was determined via XRD (including specialized clay mineral analysis) and SEM-EDS for high-resolution imaging and elemental mapping. Geochemical characterization involved XRF for bulk element analysis and ICP-OES for trace element determination.
+Field work involved selecting three outcrops in Old Qusaiba Village, logging sections, and collecting 128 samples. Petrographic analysis was performed on 54 thin sections using an optical microscope. Petrophysical measurements (porosity and permeability) were conducted on 24 core plugs using a helium porosimeter/permeameter. Mineralogical characterization used XRD (including specialized clay mineralogy protocols) and SEM-EDS for high-resolution imaging and elemental analysis. Geochemical analysis included XRF for bulk element composition, ICP-OES for trace elements, and TOC analysis to assess organic content in shale interbeds.
 
 ## Data and Materials
 
-Samples from two outcrops: a central outcrop (Outcrop 2) and a northwestern outcrop (Outcrop 1). Data includes porosity/permeability measurements for multiple samples (e.g., UD-14 series), XRF major element data, and ICP-OES trace element data.
+128 total samples were collected from three outcrops; 54 sandstone samples were selected for thin-section petrography. 21 representative samples were analyzed via SEM-EDS, and 15 powdered samples were subjected to XRD analysis.
 
 ## Key Findings
 
-- The Sharawra Formation consists of sandstone and siltstone with subordinate shale sequences across four members (Jarish, Khanafriyah, Nayyal, and Zubliyat). ([[2016-abbas|Abbas, 2016, p. 1]])
-- Lithofacies include calcareous sandstone (LF 1), mud-dominated facies (LF 2), hummocky cross-bedded sandstone (LF 3), and others showing varying degrees of cementation. ([[2016-abbas|Abbas, 2016, p. 13]])
-- XRD analysis identified key minerals including Quartz, Calcite, Muscovite, Kaolinite, Palygorskite, and Orthoclase across various samples. ([[2016-abbas|Abbas, 2016, p. 10]])
-- Porosity in LF 1 was reported as zero due to cementation (calcite filling pores). ([[2016-abbas|Abbas, 2016, p. 14]])
-- LF 6 showed good porosity and permeability at the bottom part but negligible porosity at the top. ([[2016-abbas|Abbas, 2016, p. 14]])
-- Clay minerals like Kaolinite were identified as pore-filling components in certain facies. ([[2016-abbas|Abbas, 2016, p. 14]])
-- The study identifies several distinct lithofacies (LF 1 through LF 9) based on petrographic characteristics. ([[2016-abbas|Abbas, 2016, p. 13]])
-- The average porosity for the sandstone facies is 15 percent, while siltstone ranges around 7 percent. ([[2016-abbas|Abbas, 2016, p. 19]])
-- Permeability values range from 50 md to 300 md throughout the formation. ([[2016-abbas|Abbas, 2016, p. 19]])
-- The study identified nine different lithofacies in the field. ([[2016-abbas|Abbas, 2016, p. 18]])
-- The Sharawra Formation is mainly subarkosic, with mica content increasing near its contact with the Qusaiba Formation. ([[2016-abbas|Abbas, 2016, p. 18]])
-- porosity and permeability values for siltstone facies are poor compared to sandstone. ([[2016-abbas|Abbas, 2016]])
-- page_number_not_specified ([[2016-abbas|Abbas, 2016]])
-- The Sharawra Formation is a coarsening upward sequence of sandstone, siltstone, and intercalated shale. ([[2016-abbas|Abbas, 2016, p. 32]])
-- High gamma radiation values in the Sharawra sandstones are attributed to their micaceous nature. ([[2016-abbas|Abbas, 2016, p. 33]])
+- The Sharawra Formation consists of four members: Jarish, Khanafriyah, Nayyal, and Zubliyat. ([[2016-abbas|Abbas, 2016, p. 63]])
+- Nine different lithofacies were identified in the field across the three outcrops. ([[2016-abbas|Abbas, 2016, p. 18]])
+- Thin section study revealed the Sharawra Formation is mainly subarkosic, with mica content increasing near the contact with the Qusaiba Formation. ([[2016-abbas|Abbas, 2016, p. 18]])
+- XRD data showed a prominent change in mineralogy with inclusion of phlogopite and microcline with depth. ([[2016-abbas|Abbas, 2016, p. 18]])
+- Average porosity for the sandstone facies is 15 percent, while siltstones range around 7 percent. ([[2016-abbas|Abbas, 2016, p. 19]])
+- Permeability values vary throughout the formation, ranging from 50 md to 300 md. ([[2016-abbas|Abbas, 2016, p. 19]])
+- Siltstone facies exhibit poor petrophysical characteristics compared to sandstone. ([[2016-abbas|Abbas, 2016, p. 19]])
+- Major and trace elements geochemistry indicates a passive continental margin setting for the sandstone. ([[2016-abbas|Abbas, 2016, p. 19]])
+- Source area discriminating plots show probable source rocks are acid, felsic, and granitic. ([[2016-abbas|Abbas, 2016, p. 19]])
+- CIA and CIW values indicate moderate weathering in the source area of these Silurian clastic sediments. ([[2016-abbas|Abbas, 2016, p. 19]])
+- Nine lithofacies were identified in the central outcrop (Outcrop 2), including various sandstone and siltstone facies. ([[2016-abbas|Abbas, 2016, p. 70]])
+- The formation shows a thinning trend from the northwestern to the southeastern part of the study area, with much of the upper portion missing in the southeast. ([[2016-abbas|Abbas, 2016, p. 68]])
+- Sandstones are classified as subarkosic based on the Folks (1974) classification system. ([[2016-abbas|Abbas, 2016, p. 93]])
+- Quartz is the dominant mineral, with approximately 90% of it being monocrystalline and 10% polycrystalline. ([[2016-abbas|Abbas, 2016, p. 99]])
+- Feldspar content is low (2-5%) and shows significant alteration to clay minerals like kaolinite and chlorite. ([[2016-abbas|Abbas, 2016, p. 102]])
 
 ## Limitations
 
-The ICP-OES analysis could not identify silica because the facility lacked HF treatment capabilities; however, silica concentrations were determined via XRF.
+Obtaining cores from the very thin beds of siltstones and from a few sandstone samples were not possible.
 
 ## Recommendations and Future Work
 
-- Establish a chemostratigraphic network for the Sharawra Formation using data from Tabuk and Tayma outcrops or subsurface wells.
-- Geochemical characterization of less porous/permeable facies to evaluate as unconventional hydrocarbon reservoirs.
+- Establish a chemostratigraphic network using data from Tabuk and Tayma outcrops.
+- Geochemical characterization of less porous/permeable facies to identify unconventional potential.
 - Drill shallow wells to obtain fresh samples for geochemical study.
 
 ## Related Concepts
 
 - [[xrd]]
 - [[sem-eds]]
-- [[thin-section-petrography]]
+- [[xrf]]
+- [[icp-ms]]
+- [[toc-analysis]]
 - [[sharawra-formation]]
 - [[old-qusaiba-outcrop]]
-- [[lithofacies]]
+- [[facies-analysis]]
 - [[porosity]]
-- [[diagenesis]]
 - [[sedimentary-petrology]]
-- [[geochemistry]]
-- [[sarah-formation]]
-- [[reservoir-characterization]]
-- [[sedimentary-geochemistry]]
-- [[xrf]]
-- [[icp-oes]]
-- [[source-rock-evaluation]]
+- [[general-geochemistry]]
+- [[thin-section-petrography]]
+- [[diagenesis]]
 - [[clay-mineralogy]]
-- [[core-analysis]]
+- [[lithostratigraphy]]
+- [[icp-oes]]
 - [[permeability]]
 - [[petrophysics]]
+- [[source-area-weathering]]

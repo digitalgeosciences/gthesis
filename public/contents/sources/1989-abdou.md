@@ -1,7 +1,7 @@
 ---
 type: source
 id: "9508"
-title: "Stratigraphical andmicrofacies analysis of some selected late cretaceous surface and subsurface sections in Arabia"
+title: "Stratigraphical and microfacies analysis of some selected Late Cretaceous surface and subsurface sections in Arabia"
 author: "Asem Mahmoud Abdou"
 year: 1989
 department: "Geosciences"
@@ -12,150 +12,110 @@ committee_members:
   - "G. W. Lynts"
 source_file: "raw/9508 - Stratigraphical andmicrofacies analysis of some selected late cretaceous surface.pdf"
 url: "https://eprints.kfupm.edu.sa/id/eprint/9508/"
-study_area: "Late Cretaceous succession in Saudi Arabia (specifically the Aruma Formation) and southeastern Kuwait (including the Gudair, Bahrah, and Tayarat Formations)."
+study_area: "Umm Gudair#1 Well, southeastern Kuwait; and various locations in Saudi Arabia (including the Aruma Formation outcrop belt)."
 keywords:
   - Late Cretaceous
   - stratigraphy
   - microfacies analysis
   - Gudair Formation
-  - biostratigraphy
-  - carbonate geology
-  - Aruma Formation
-  - lithostratigraphy
-  - petrology
   - Hartha Formation
   - Qurna Formation
-  - Saudi Arabia
-  - dolomitization
-  - petroleum geology
+  - biostratigraphy
+  - planktonic foraminiferids
+  - Aruma Group
+  - paleoenvironmental reconstruction
 techniques:
   - thin-section-petrography
-  - biostratigraphy
   - microfacies-analysis
+  - biostratigraphy
+  - core-analysis
 tags:
   - degree/ms
-  - formation/guray-formation
-  - formation/aruma-formation
-  - formation/khuff-formation
   - formation/gudair-formation
   - formation/hartha-formation
   - formation/qurna-formation
-  - location/arabian-gulf
-  - location/saudi-arabia
   - location/kuwait
+  - location/saudi-arabia
   - location/eastern-province
   - technique/thin-section-petrography
-  - technique/biostratigraphy
   - technique/microfacies-analysis
+  - technique/biostratigraphy
+  - technique/core-analysis
   - theme/stratigraphy
-  - theme/microfacies-analysis
-  - theme/carbonate-geology
-  - theme/paleoenvironmental-reconstruction
   - theme/sedimentology
-  - theme/invertebrate-paleontology
-  - theme/lithostratigraphy
-  - theme/biostratigraphy
-  - terminology/microfacies
-  - terminology/diagenesis
-  - terminology/stratigraphy
-  - terminology/sedimentology
-  - terminology/paleoenvironmental-reconstruction
+  - theme/paleoenvironmental-reconstruction
   - terminology/microfacies-analysis
+  - terminology/sequence-stratigraphy
+  - terminology/diagenesis
 status: ingested
 ---
 
-# Stratigraphical andmicrofacies analysis of some selected late cretaceous surface and subsurface sections in Arabia
+# Stratigraphical and microfacies analysis of some selected Late Cretaceous surface and subsurface sections in Arabia
 
-**Summary**: The thesis investigates the stratigraphy and microfacies of Late Cretaceous carbonate successions in southeastern Kuwait, specifically focusing on the Gudair, Hartha, and Qurna Formations. Through thin-section analysis and biostratigraphy, it identifies significant geological events such as shoaling-upward sequences and drowning episodes.
+**Summary**: The thesis investigates the stratigraphy and microfacies of a Late Cretaceous succession in the Umm Gudair#1 well, identifying three distinct formations (Gudair, Hartha, and Qurna) within the Aruma Group. Through thin-section analysis and biostratigraphy, it characterizes paleoenvironmental shifts from shallow platform to deep shelf settings influenced by tectonic instability.
 
 ---
 
 ## Research Problem
 
-The need for detailed stratigraphic and microfacies analysis of the Late Cretaceous succession in eastern Arabia to resolve ambiguities in formation boundaries and understand depositional environments during significant geological events like the Campanian/Maastrichtian transition.
+The lack of clear correlation between local stratigraphic units (like the Gudair Formation) and regional equivalents in the Middle-Late Cretaceous across the Kuwait-Saudi Arabia border, complicated by varying lithofacies and significant unconformities.
 
 ## Objectives
 
 - Perform a detailed stratigraphical and microfacies analysis of the Late Cretaceous succession in the Umm Gudair#1 Well.
-- Correlate this section with coeval units in the region to evaluate the use of the term 'Gudair Formation'.
-- Interpret the tectono-sedimentational history of the studied section.
-- Perform a detailed microfacies analysis of selected Late Cretaceous sections.
-- Verify litho- and biostratigraphical boundaries within the succession.
-- Establish correlation in age and paleoenvironmental interpretations.
-- Construct facies models to explain vertical and lateral relationships.
-- Perform microfacies analysis on selected Late Cretaceous sections.
-- Establish stratigraphic correlations between Kuwait, Iraq, and Saudi Arabia.
-- Determine the age of specific formations (Qurna, Hartha, Sa'di, Tanuma, Khasib) using biostratigraphy.
-- Perform a detailed litho- and biostratigraphical analysis of the core samples from the Umm Gudair #1 well.
-- Identify and characterize the microfacies of the Gudair, Hartha, and Qurna Formations.
-- Determine the age of these formations through biozonation.
-- Interpret paleoenvironmental conditions such as shoaling-upward sequences and drowning events.
-- Perform microfacies analysis on 110 thin sections to characterize the sedimentary environment.
-- Establish a biostratigraphic zonation of the Late Cretaceous succession using planktonic foraminiferids.
-- Identify and correlate distinct lithological units (e.g., Gudair Formation, Hartha Formation, Qurna Formation) within the study area.
-- Perform litho- and biostratigraphical analysis of the core samples from Umm Gudair#1 well.
-- Identify and characterize distinct microfacies within the Gudair, Hartha, and Qurna formations.
-- Determine the paleoenvironmental conditions of deposition for each identified microfacies.
-- Establish a clear stratigraphical correlation between the studied units and regional standards.
-- Perform thin section petrography on a 110-sample suite from the Umm Gudair#1 well.
-- Establish biostratigraphic zones for the Late Cretaceous succession.
-- Identify and characterize distinct rock units (Gudair, Hartha, Qurna) in the subsurface.
-- Interpret paleoenvironmental conditions based on microfacies analysis.
-- Perform litho- and biostratigraphical analysis of the core interval from 3763' to 4496'.
-- Conduct microfacies analysis on 110 thin sections.
-- Identify specific formations within the sequence, including the Gudair Formation.
+- Correlate this section with coeval units in the region to validate the use of the term 'Gudair Formation'.
+- Interpret the tectono-sedimentational history of the studied sections.
+- Establish a biostratigraphic zonation for the Late Cretaceous succession using planktonic foraminiferids.
+- Correlate local formations (Gudair, Hartha, Qurna) with regional equivalents in Kuwait and Saudi Arabia.
+- Identify and characterize major unconformity surfaces within the sequence.
 
 ## Methods
 
-The study utilized 110 thin sections from a 223 m core interval (between depths 3763' and 4496') in the Umm Gudair#1 well. Analysis included thin-section petrography to identify microfacies, mineralogy, and diagenetic features like dolomitization. Biostratigraphy was conducted using planktonic and benthonic foraminiferid remains to define biozones and determine the age of the succession.
+The study utilized thin-section petrography to analyze 110 samples from a 223m core interval. Microfacies analysis was conducted using both paleontological (foraminiferid remains) and sedimentological criteria. Biostratigraphy was employed to establish four distinct biozones based on planktonic and benthonic foraminiferids. The study also utilized the Standard Microfacies (SMF) of Wilson (1975) for correlation.
 
 ## Data and Materials
 
-The study includes 110 thin sections used for litho- and biostratigraphical as well as microfacies analysis. Data is derived from the Aruma Formation outcrop belt in Saudi Arabia (extending over 1600 km) and subsurface wells in Kuwait, including the Umm Gudair#1, Burgan Well#10, and others.
+110 thin sections from a 223 m core interval in the Umm Gudair#1 crestal well; data includes planktonic and benthonic foraminiferid assemblages, lithological descriptions, and mineralogical observations (e.g., dolomitization, pyritization).
 
 ## Key Findings
 
-- The type Gudair Formation was determined to be of Late Early to Middle Campanian age, correcting previous assignments to older ages. ([[1989-abdou|Abdou, 1989, p. 16]])
-- A regional break (Wasi'a/Aruma unconformity) between the Middle and Late Cretaceous is estimated at approximately 8.5 million years. ([[1989-abdou|Abdou, 1989, p. 19]])
-- The study identified 10 successive microfacies within the studied section. ([[1989-abdou|Abdou, 1989, p. 16]])
-- The analysis revealed that the sedimentary environment fluctuated between shallow platform and shelf environments. ([[1989-abdou|Abdou, 1989, p. 17]])
-- A second unconformity was detected between the Gudair and overlying Hartha Limestones, suggesting tectonic instability during the Late Campanian. ([[1989-abdou|Abdou, 1989, p. 16]])
-- The Aruma Formation is a large carbonate unit in central Saudi Arabia, characterized by significant facies changes from limestone to sandstone towards the south and becoming more dolomitic in the north. ([[1989-abdou|Abdou, 1989, p. 27]])
-- The Aruma Formation was assigned a Campanian-Maastrichtian age based on fossil content including Monolepidorbis sanctae-pelagiae and Omphalocyclus macroporus. ([[1989-abdou|Abdou, 1989, p. 29]])
-- A significant unconformity exists between the Middle and Late Cretaceous rocks, specifically at the contact of the Gudair Formation with the underlying Mishrif Limestone Member. ([[1989-abdou|Abdou, 1989, p. 38]])
-- The Tayarat Formation in Kuwait is composed of dolomitized and locally sandy limestone, assigned a Late Maastrichtian age. ([[1989-abdou|Abdou, 1989, p. 35]])
-- The Bahrah Formation consists of two members: an upper microcrystalline limestone (82m) and a lower detrital/oolitic limestone with black shales (23m). ([[1989-abdou|Abdou, 1989, p. 37]])
-- The Gudair Formation is characterized by its detrital, locally glauconitic nature, reflecting syn-depositional deformation. ([[1989-abdou|Abdou, 1989, p. 38]])
-- The Qurna Formation is composed of globigerininal marl with marly limestone interbeds and was assigned a Middle Maastrichtian age based on planktonic foraminiferid content. ([[1989-abdou|Abdou, 1989, p. 61]])
-- The Hartha Formation consists of organic, detrital, glauconitic limestone with interbedded marls and green shales, assigned a Late Campanian - Maastrichtian age. ([[1989-abdou|Abdou, 1989, p. 62]])
-- The Sa'di Formation is composed of chalky, marly, globigerininal limestone; its age was debated between Santonian to Early Campanian and Late Coniacian to Early Camp_Campanian. ([[1989-abdou|Abdou, 1989, p. 63]])
-- The Tanuma Formation consists of black shale and intercalating detrital limestone streaks, with ages ranging from Late Senonian to Late Campanian depending on the interpretation of its diachronous nature. ([[1989-abdou|Abdou, 1989, p. 64]])
+- The core interval of 223 m (733 ft) in the Umm Gudair#1 well was divided into three distinct formations: Gudair, Hartha, and Qurna. ([[1989-abdou|Abdou, 1989, p. 16]])
+- The Gudair Formation is determined to be of Late Early to Middle Campanian age, correcting previous assignments to older ages. ([[1989-abdou|Abdou, 1989, p. 16]])
+- A major unconformity between the Middle and Late Cretaceous (Wasi'a/Aruma) was identified as being approximately 8.5 m.y. in magnitude. ([[1989-abdou|Abdou, 1989, p. 16]])
+- Ten distinct microfacies were identified within the studied section, ranging from planktonic foraminiferid-rich limestones to dolomitic units. ([[1989-abdou|Abdou, 1989, p. 12]])
+- The study identified a second unconformity between the Gudair and overlying Hartha Limestones, attributed to tectonic instability during the Late Campanian. ([[1989-abdou|Abdou, 1989, p. 16]])
+- The sedimentary environment fluctuated between shallow platform and shelf environments based on microfacies analysis. ([[1989-abdou|Abdou, 1989, p. 17]])
+- The Gudair Formation in the type section is assigned a late Early to Middle Campanian age based on planktonic foraminiferid assemblages. ([[1989-abdou|Abdou, 1989, p. 91]])
+- A significant unconformity exists between the Gudair and Mishrif Formations, missing approximately 3-3.5 million years (Middle Turonian to early Campanian). ([[1989-abdou|Abdou, 1989, p. 92]])
+- The Hartha Formation is interpreted as having a range of environments from restricted platform to platform margin. ([[1989-abdou|Abdou, 1989, p. 100]])
+- A 'drowning' event is identified in the Gudair Formation, where a 3-foot (1m) thick band of deep shelf planktonic foraminiferid limestone interrupts a sequence of subtidal skeletal limestones. ([[1989-abdou|Abdou, 1989, p. 108]])
+- The Qurna Formation is characterized by a uniform litho- and biofacies, interpreted as a quiet, fairly deep shelf environment. ([[1989-abdou|Abdou, 1989, p. 102]])
+- A shoaling-upward sequence at the base of the Gudair Formation was attributed to tectonic uplifting rather than eustatic sea level fall. ([[1989-abdou|Abdou, 1989, p. 107]])
+- The study identified three distinct formations: the Gudair Formation (465' thick), the Hartha Formation (164' thick), and the Qurna Formation (104' thick) within the Aruma Group. ([[1989-abdou|Abdou, 1989, p. 130]])
+- Four distinct biozones were established: 1. Globotruncana stuartiformis/G. patelliformis Zone (late Early Campanian), 2. G. atlantica/G. patelliformis Zone (Middle Campanian), 3. Orbitoides medius/Omphalocyclus macroporus Zone (Early Maastrichtian), and 4. Globotruncana gansseri Zone (Middle Maastrichtian). ([[1989-abdou|Abdou, 1989, p. 168]])
+- A major regional unconformity was identified between the Turonian and Campanian, involving a time span of over 8.5 million years. ([[1989-abdou|Abdou, 1989, p. 169]])
 
 ## Limitations
 
-The study notes that the lack of planktonic foraminiferids in certain sections (like Microfacies III) hampers precise biostratigraphic zonation and age determination.
+The analysis of the 3'-thick globigerininal marly limestone (Microfacies V) is limited by its small thickness, making it difficult to determine if it represents a structural feature or a sudden sea-level rise without further lateral continuity data.
 
 ## Recommendations and Future Work
 
-The author emphasizes the need for more detailed microfacies analyses in the region and a better understanding of the structural framework and tectonic history of eastern Arabia to improve basin analysis.
+The study emphasizes the need for more detailed microfacies analyses in the region and a better understanding of the structural framework and tectonic history of eastern Arabia to integrate lithostratigraphy, biostratigraphy, and structural data into basin analysis.
 
 ## Related Concepts
 
 - [[thin-section-petrography]]
 - [[biostratigraphy]]
-- [[guray-formation]]
-- [[arabian-gulf]]
-- [[microfacies]]
-- [[carbonate-geology]]
-- [[diagenesis]]
-- [[stratigraphy]]
+- [[gudair-formation]]
+- [[hartha-formation]]
+- [[microfacies-analysis]]
+- [[sequence-stratigraphy]]
 - [[sedimentology]]
-- [[paleoenvironmental-reconstruction]]
-- [[aruma-formation]]
-- [[khuff-formation]]
 - [[saudi-arabia]]
 - [[kuwait]]
-- [[gudair-formation]]
-- [[microfacies-analysis]]
-- [[hartha-formation]]
+- [[diagenesis]]
 - [[qurna-formation]]
+- [[stratigraphy]]
+- [[eastern-province]]
+- [[paleoenvironmental-reconstruction]]

@@ -8,10 +8,10 @@ key_challenges: "Not stated in source"
 tags: []
 sources:
   - "raw/10564 - Comparison of recent and miocene foraminifera from Eastern Saudi Arabia.pdf"
-  - "raw/142739 - Turnover in Agglutinated Foraminifera Across The CretaceousPaleogene Boundary in.pdf"
+  - "raw/139803 - BENTHIC FORAMINIFERA IN THE ARABIAN GULF EFFECTS OF SEASONAL DYNAMICS, ENVIRONME.pdf"
   - "raw/142750 - TURONIAN TO SANTONIAN AGGLUTINATED BENTHIC FORAMINIFERA FROM A MARGINAL MARINE H.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # Paleontology, Invertebrate
@@ -24,17 +24,17 @@ last_updated: 2026-06-10
 
 - [[2006-al-enezi|Al-Enezi, 2006]] contributed to the theme of Invertebrate Paleontology
 
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+- [[2015-arslan|Arslan, 2015]] applied paleontology to characterize the biological and morphological diversity of benthic foraminifera.
 
-- [[2024-alhilali|Alhilali, 2024]] focused on invertebrate-paleontology to identify benthic foraminifera species.
+- [[2024-alhilali|Alhilali, 2024]] conducted micropaleontological analysis to identify foraminiferal taxa.
 
 ## Key Subtopics
 
 
 
-- [[2024-hikmahtiar|Hikmahtiar, 2024]] Referenced in this thesis.
+- [[2015-arslan|Arslan, 2015]] applied paleontology to characterize the biological and morphological diversity of benthic foraminifera.
 
-- [[2024-alhilali|Alhilali, 2024]] focused on invertebrate-paleontology to identify benthic foraminifera species.
+- [[2024-alhilali|Alhilali, 2024]] conducted micropaleontological analysis to identify foraminiferal taxa.
 
 ## Methods and Approaches Used
 
@@ -44,9 +44,9 @@ last_updated: 2026-06-10
 
 - contributed to the theme of Invertebrate Paleontology ([[2006-al-enezi|Al-Enezi, 2006]])
 
-- Referenced in this thesis. ([[2024-hikmahtiar|Hikmahtiar, 2024]])
+- Foraminifera have a long geological record, with some forms appearing as early as the Precambrian. ([[2015-arslan|Arslan, 2015, p. 20]])
 
-- Identified multiple genera including Bathysiphon, Rhizammina, and Psammosphaera. ([[2024-alhilali|Alhilali, 2024, p. 80]])
+- Identified 59 foraminiferal taxa in the Turonian-Santonian section. ([[2024-alhilali|Alhilali, 2024, p. 13]])
 
 ## Competing Approaches and Debates
 

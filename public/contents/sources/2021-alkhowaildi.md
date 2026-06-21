@@ -20,122 +20,89 @@ keywords:
   - Stimulation fluids
   - Chelating agents
   - Rheology
-  - Hydraulic fracturing
-  - TDS
-  - High pressure high temperature
-  - Well Stimulation
+  - High pressure high temperature (HPHT)
+  - Carboxymethyl Hydroxypropyl Guar (CMHPG)
+  - Glutamic acid, diacetic acid (GLDA)
   - GLDA
   - CMHPG polymer
-  - Rheological properties
-  - Produced Water
-  - Oil and Gas Stimulation Fluids
 techniques:
-  - fann-model-35-viscometer
-  - chandler-model-5550-viscometer
-  - digital-weighing-balance
-  - magnetic-stirrer
-  - rheometer
   - fann-model-35
   - chandler-model-5550
   - viscosity-measurement
-  - general-geochemistry
-  - modeling
+  - rheology-measurement
 tags:
   - degree/ms
   - location/saudi-arabia
   - technique/viscosity-measurement
-  - technique/rheology
-  - technique/general-geochemistry
-  - technique/modeling
-  - theme/water-resources-management
-  - theme/petroleum-engineering
+  - technique/rheology-measurement
   - theme/water-treatment
-  - terminology/rheology
-  - terminology/water-quality
-  - terminology/petroleum-engineering
+  - theme/petroleum-engineering
   - terminology/produced-water
-  - terminology/hydraulic-fracturing
   - terminology/chelating-agents
-  - terminology/chelation
+  - terminology/water-treatment
 status: ingested
 ---
 
 # TOWARDS WATER SUSTAINABILITY: UTILIZING OILFIELD PRODUCED WATER IN FORMULATING OIL AND GAS STIMULATION FLUIDS THROUGH INCORPORATION OF CHELATING AGENTS
 
-**Summary**: The thesis investigates the development of a sustainable, environment-friendly stimulation fluid for oil and gas wells by utilizing produced water (PW) as the base fluid. It evaluates the impact of chelating agents (GLDA), polymer concentration (CMHPG), pH levels, and temperature on the rheological properties and stability of the formulated fluids.
+**Summary**: The thesis investigates the development of an environmentally friendly oil and gas stimulation fluid by utilizing oilfield produced water (PW) as a base fluid. By incorporating chelating agents (GLDA) and CMHPG polymers, the study evaluates how various concentrations, pH levels, and temperatures affect the rheological properties and stability of the resulting fluids.
 
 ---
 
 ## Research Problem
 
-The high consumption of freshwater in hydraulic fracturing and well stimulation operations poses a significant sustainability challenge, especially in water-scarce regions like Saudi Arabia. Produced water (PW) is available in large quantities but contains high levels of salts and divalent cations that interfere with the thickening behavior of standard polymeric gels.
+The depletion of freshwater resources for oil and gas stimulation operations in Saudi Arabia necessitates the development of sustainable alternatives. Produced water (PW), while abundant in the petroleum industry, requires chemical modification to be suitable as a base fluid for stimulation due to its high mineral content and potential impact on polymer performance.
 
 ## Objectives
 
 - Study the effect of chelating agents (GLDA-Glutamic acid, diacetic acid) on divalent cation Ca++ present in oilfield produced water.
-- Determine the optimum concentrations for the polymeric gel (CMHPG-Carboxymethyl Hydroxypropyl Guar) and chelating agents (GLDA-Glutamic acid, diacetic acid) to formulate the most effective rheology using synthesized PW (TDS of 70,000 ppm & hardness 7,000 ppm) base fluid, under high pressure (300 psi) high temperature conditions (+150 F).
+- Determine the optimum concentrations for the polymeric gel (CMHPG-Carboxymethyl Hydropyroll Guar) and chelating agents (GLDA-Glutamic acid, diacetic acid) to formulate the most effective rheology using synthesized PW (TDS of 70,000 ppm & hardness 7,000 ppm) base fluid, under high pressure (300 psi) high temperature conditions (+150 F).
 - Study the effect of various variables such as temperature (150, 200, 300°F), shear rate and pH (4, 8 and 10) on the rheology of the fluid system.
-- Evaluate the impact of produced water characteristics (pH, ionic strength, sulfate presence) on the rheological performance of cross-linked gels.
-- Investigate the role of chelating agents in preventing premature crosslinking and enabling better hydration of polymers in high-salinity environments.
-- Formulate a new stimulation fluid based on 100% oilfield produced water without standard additives by incorporating chelating agents.
-- Characterize the rheological properties of the developed stimulation fluid under different parameter variations.
-- Test the effect of chelates on produced water (viscosity measurement in fresh vs. PW).
-- Find the optimum polymer concentration for industrial applications.
-- Find the optimum chelating agent concentrations.
-- Study the effect of temperature, pH, and shear rate on the viscosity profile of the optimized fluid.
-- Evaluate the feasibility of using produced water for hydraulic fracturing
-- Investigate the impact of various chelating agents on the stability of fracturing fluids formulated with produced water
-- Develop a sustainable method for managing and reusing produced water in oil and gas operations
+- Develop an environmentally friendly stimulation fluid using oilfield produced water (PW) as the primary base fluid.
+- Evaluate the effect of chelating agents (GLDA) on the viscosity and stability of fluids containing high concentrations of divalent ions.
+- Determine the impact of pH levels, temperature, and concentration variations of both GLDA and CMHPG polymer on the rheological properties of the stimulation fluid.
 
 ## Methods
 
-The study involved synthesizing produced water (PW) with a 70,000 ppm TDS concentration. Various fluids were prepared using different concentrations of GLDA (chelating agent) and CMHPG (polymer). Rheological profiles were measured using two viscometers: the Fann Model 35 for ambient conditions and the Chandler Model 5550 for high-pressure/high-temperature (HPHT) conditions. Parameters tested included pH levels (4, 8, and 12), temperature ranges up to 300°F, and shear rates of 100, 170, and 511 s-1.
+The study utilized synthesized produced water with a TDS of 70,000 ppm and hardness of 7,000 ppm. Two viscometers were used: the Fann Model 35 for ambient conditions and the Chandler Model 5550 for high pressure high temperature (HPHT) tests. The research involved testing various concentrations of CMHPG polymer (30, 40, and 50 pptg) and GLDA chelating agents (4%, 10%, and 20%). Parameters such as pH (4, 8, and 12), temperature (up to 300°F), and shear rates (100, 170, and 511 s-1) were varied to characterize the rheological profile of the resulting fluids.
 
 ## Data and Materials
 
-The study references a range of literature data for produced water compositions (TDS up to 400,000 mg/l, sulfate concentrations, etc.) and evaluates various polymer systems like CMHPG. It specifically examines the impact of chelating agents on these systems in both high-salinity and high-hardness environments.
+The study used synthesized produced water containing specific concentrations of NaCl, CaCl2.2H2O, and MgCl2.6H2O. Chemicals included GLDA (Glutamic acid, diacetic acid) in both high and low pH forms, and CMHPG polymer. Testing was conducted across a range of temperatures (up to 300°F), pressures (up to 2000 psi), and shear rates.
 
 ## Key Findings
 
-- A fluid system containing 50 pptg of CMHPG and 20 wt. % concentration of GLDA in produced water maintained a viscosity of 172 cP for nearly 2.5 hours at 150°F and 100 S-1 shear rate. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 12]])
-- The inclusion of chelating agents (GLDA) allowed the formulation of a fluid system that possesses rheological properties similar to conventional systems despite the high salt content in produced water. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 11]])
-- Polymer concentration and pH were shown to have a significant impact on the viscosity of the stimulation fluid. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 11]])
-- Temperature and concentration of chelating agents were found to control the thickening profile as well as the stability and breakage behaviors of the fluid. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 11]])
-- The developed fluid system, based on polymer, chelating agent, and PW, showed rheological capabilities to replace conventional stimulation fluids that are based on freshwater. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 12]])
-- Produced water (PW) is the largest waste stream in the oil and gas industry, with some studies reporting over 70 billion bbl produced globally in 2009. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 23]])
-- TDS concentrations in produced water can reach as high as 400,000 mg/l in conventional wells compared to less than 50,000 mg/l in coalbed methane wells. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 26]])
-- Sodium and chloride are the most abundant ions in produced water, with sodium accounting for 81% in conventional and 90% in unconventional wells. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 27]])
-- The concentration of heavy metals (Fe, Ba, Cr, Zn, Ni, Pb, Cu) in produced water can be 100 to 10^5 times higher than those found in seawater. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 27]])
-- A pH value of 5.7 was found to provide the best performance for a 30-lb CMHPG gel with a zirconium-based crosslinker, achieving a maximum apparent viscosity of 2500 cp. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 32]])
-- A clear strong correlation between maximum achieved apparent viscosity and hydration period was found between 60 to 120 minutes for CMHPG in produced water. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 33]])
-- The addition of a chelating agent prevented premature crosslinking and enabled further hydration of the polymer in systems where boron presence might interfere. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 34]])
-- Sulfate concentrations in produced water were found to have minimal influence on the gel breaking process by persulfate (only a 0.7% reduction in concentration over 2 hours). ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 35]])
-- The presence of TDS in produced water caused a 22% reduction in apparent viscosity compared to deionized water when using the same polymer concentration (30 lb/1000 gals). ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 49]])
-- Adding 10 wt. % GLDA to produced water increased apparent viscosity by 27% (from 68 cP to 93 cP) compared to the polymer-only solution, demonstrating a strong chelation effect. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 50]])
+- The presence of TDS in produced water caused a 22% reduction in apparent viscosity compared to deionized water when using 30 lb/1000 gals CMHPG polymer. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 49]])
+- Addition of 10 wt. % GLDA to 70k TDS PW resulted in an apparent viscosity of 93 cP, a 27% increase over the 68 cP observed without chelating agents. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 50]])
+- A fluid system using 50 pptg CMHPG and 20 wt. % GLDA in produced water was shown to sustain a viscosity of 172 cP for nearly 2.5 hours at 150°F and 100 s-1 shear rate. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 12]])
+- The study determined that the concentration of chelating agents controls the thickening profile as well as the stability and breakage behaviors of the fluid. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 11]])
+- The use of GLDA was shown to effectively chelate divalent ions (Ca++ and Mg2+), allowing more free water to hydrate the polymer in high-salinity systems. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 51]])
+- A minimum of 4 wt. % GLDA successfully provided a chelating effect for water containing up to 10,000 ppm of divalent ions (Ca++), maintaining consistent viscosity similar to deionized water. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 52]])
+- A neutral pH system (7.5) resulted in the best apparent viscosity, reaching approximately 112 cP at 100 s-1 shear rate under 150°F and 500 psi. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 53]])
+- Higher concentrations of GLDA (up to 20 wt. %) resulted in higher apparent viscosity readings, indicating that more available chelating agent promotes thickening with the polymer. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 54]])
+- A 10 wt. % GLDA solution remained stable at approximately 73 cP for 25 minutes at 200°F, while a polymer-only solution degraded to 64 cP under the same conditions. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 55]])
+- Increasing CMHPG concentration from 30 to 50 lb/1000 gals resulted in viscosity increases from 33 cP to 112 cP at 150°F and pH 7.5. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 56]])
+- At 300°F, the fluid with 10 wt. % GLDA and 50 lb/1000 gals CMHPG stabilized for only 0.5 hours and broke at 1 hour, showing a significant drop in viscosity to 44 cP. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 59]])
+- The addition of 14 gpt of gel stabilizer extended the breakage time by approximately 30% under 200°F conditions. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 61]])
+- The optimal formulation for high viscosity (172 cP) was found to be 20 wt. % GLDA and 50 pptg CMHPG at pH 7.5 and 150°F. ([[2021-alkhowaildi|Alkhowaildi, 2021, p. 63]])
 
 ## Limitations
 
-The current study's scope is limited to laboratory-scale evaluation of fluid chemistry and rheology; it does not include field-scale core-flooding experiments which are needed to assess long-term effectiveness and post-cleanup behavior.
+Not stated in source
 
 ## Recommendations and Future Work
 
-- 4 wt. % GLDA can be used to prevent scaling in applications with up to 10,000 ppm hardness.
+- 4 wt. % GLDA can be used to prevent scaling in applications with up to 10k ppm hardness.
 - A neutral pH system with 20 wt. % GLDA and 50 pptg polymer is suitable for fracturing fluids carrying proppant.
-- Low pH systems with 10% or 20% GLDA can be utilized in acid fracturing applications.
-- High pH GLDA systems may be investigated for water shut-off applications due to their slow viscosity build-up.
+- Low pH systems with 20 wt. % GLDA can be utilized in acid fracturing applications.
+- High pH GLDA systems (which build viscosity slowly over 5-6 hours) could be investigated for water shut-off applications.
 
 ## Related Concepts
 
 - [[viscosity-measurement]]
-- [[rheology]]
-- [[water-quality]]
-- [[water-resources-management]]
-- [[saudi-arabia]]
-- [[petroleum-engineering]]
 - [[produced-water]]
-- [[hydraulic-fracturing]]
-- [[water-treatment]]
 - [[chelating-agents]]
-- [[chelation]]
-- [[chemical-analysis]]
-- [[modeling]]
+- [[water-treatment]]
+- [[petroleum-engineering]]
+- [[rheology-measurement]]
+- [[saudi-arabia]]

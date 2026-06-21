@@ -3,48 +3,55 @@ type: location
 title: "North Sea"
 aliases:
   - "North Sea"
-  - "Norwegian continental shelf"
+  - "Norwegian Continental Shelf"
 canonical: true
-region: "Europe"
+region: "Northern Europe"
 country: "Norway"
 coordinates: "Not stated in source"
-geology: "Jurassic sandstones"
+geology: "sedimentary basin"
 tags:
   - location/north-sea
 sources:
   - "raw/141409 - LOCATING IDEAL CO2 SEQUESTRATION SITES AN INTEGRATED ENVIRONMENTAL-BIG DATA ANAL.pdf"
+  - "raw/142160 - Prediction of Well Production Rates For Multiphase Flow Using Machine Learning T.pdf"
   - "raw/142313 - Data Analytics and End-to-End Machine Learning for 1D to 3D Reservoir Prediction.pdf"
 status: active
-last_updated: 2026-06-10
+last_updated: 2026-06-17
 ---
 
 # North Sea
 
-**Summary**: A large sea area in the north of Europe, containing significant hydrocarbon reserves.
+**Summary**: A large sea area in the northeastern part of the Atlantic Ocean, containing significant hydrocarbon reserves.
 
 ---
 
 ## How It Appears in the Thesis Collection
 
-- [[2020-abdallah|Abdallah, 2020]] used as the primary study site for the Volve field data analysis.
+- [[2020-abdallah|Abdallah, 2020]] located the study site in the north-sea region.
 
-- [[2023-kusuma|Kusuma, 2023]] studied the Volve field in the North Sea to evaluate ML for reservoir characterization.
+- [[2022-jin|Jin, 2022]] used data from the Volve field in the North Sea for model training.
+
+- [[2023-kusuma|Kusuma, 2023]] focused on the Volve field located in the North Sea.
 
 ## Geological and Structural Setting
 
-- [[2020-abdallah|Abdallah, 2020]] Continental shelf
+- [[2020-abdallah|Abdallah, 2020]] North Sea basin
 
-- [[2023-kusuma|Kusuma, 2023]] studied the Volve field in the North Sea to evaluate ML for reservoir characterization.
+- [[2022-jin|Jin, 2022]] used data from the Volve field in the North Sea for model training.
+
+- [[2023-kusuma|Kusuma, 2023]] focused on the Volve field located in the North Sea.
 
 ## Formations Present
 
-- [[2020-abdallah|Abdallah, 2020]] Hugin Formation
+- [[2020-abdallah|Abdallah, 2020]] Hugin, Skagerrak
 
 ## Key Findings From This Location
 
-- The Volve field is located in the central part of the North Sea at a water depth of 80 meters. ([[2020-abdallah|Abdallah, 2020, p. 39]])
+- The Volve field is located in the central part of the North Sea. ([[2020-abdallah|Abdallah, 2020, p. 39]])
 
-- The study utilized a publicly available dataset from the Volve field, North Sea. ([[2023-kusuma|Kusuma, 2023, p. 16]])
+- The dataset included 880 days of production data from well NO15/9-F-15D. ([[2022-jin|Jin, 2022, p. 38]])
+
+- The study area is a 2x3 km field with water depths of 85-95m. ([[2023-kusuma|Kusuma, 2023, p. 25]])
 
 ## Research Coverage and Gaps
 
