@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Maximize2, Minimize2, Filter } from "lucide-react";
 import { PageLoader } from "@/components/ui/PageLoader";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { useConfig } from "@/lib/use-config";
 import { KnowledgeGraph } from "@/components/graph/KnowledgeGraph";
 import { GraphFilters, type GraphFilterState } from "@/components/graph/GraphFilters";
@@ -28,7 +28,7 @@ export const Route = createFileRoute("/graph")({
 });
 
 function GraphPage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const config = useConfig();
   const [graphType, setGraphType] = useState<GraphType>("knowledge");
   const [fullscreen, setFullscreen] = useState(false);

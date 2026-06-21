@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { ThesisCard } from "@/components/thesis/ThesisCard";
 import { ArrowRight, Shuffle, Network, Search as SearchIcon } from "lucide-react";
 import { useNavigate } from "@tanstack/react-router";
@@ -17,7 +17,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Home() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const navigate = useNavigate();
   const config = useConfig();
 
