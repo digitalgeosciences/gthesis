@@ -1,7 +1,7 @@
 ---
 type: source
 id: "143145"
-title: "Assessment of submarine channels for CO storage in the deep Taranaki Basin, New Zealand."
+title: "Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New Zealand."
 author: "Maryam Maigana"
 year: 2024
 department: "Geosciences"
