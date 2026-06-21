@@ -129,9 +129,10 @@ export function buildIndex(raw: Record<string, Entry>): ContentIndex {
 }
 
 /**
- * Returns a ContentIndex narrowed to a single department. `bySlug` is kept
- * complete so direct slug lookups (detail pages, link targets) still resolve;
- * every derived collection is recomputed from the department's theses.
+ * Returns a ContentIndex narrowed to a single department. Every collection —
+ * including `bySlug` — is recomputed from the department's theses, so consumers
+ * that iterate `bySlug` (e.g. KnowledgeGraph) respect the filter. Detail pages
+ * read the full, unfiltered index via `useContentData`, so they are unaffected.
  * `department === "all"` returns the original index unchanged.
  */
 export function filterIndexByDepartment(index: ContentIndex, department: string): ContentIndex {
@@ -155,7 +156,11 @@ export function filterIndexByDepartment(index: ContentIndex, department: string)
   const advisorsBySlug: Record<string, AdvisorProfile> = {};
   for (const a of advisors) advisorsBySlug[a.slug] = a;
 
-  return { bySlug: index.bySlug, theses, concepts, thesesByYear, thesesByConcept, years, advisors, advisorsBySlug };
+  const bySlug: Record<string, Entry> = {};
+  for (const t of theses) bySlug[t.slug] = t;
+  for (const c of concepts) bySlug[c.slug] = c;
+
+  return { bySlug, theses, concepts, thesesByYear, thesesByConcept, years, advisors, advisorsBySlug };
 }
 
 /** Distinct department values present in the index, sorted by thesis count desc. */
