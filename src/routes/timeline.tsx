@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { User } from "lucide-react";
 import { toTitleCase } from "@/lib/utils";
 import { PageLoader } from "@/components/ui/PageLoader";
@@ -10,8 +10,10 @@ export const Route = createFileRoute("/timeline")({
 });
 
 function TimelinePage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   if (!data) return <PageLoader />;
+  if (data.years.length === 0)
+    return <div className="mx-auto max-w-6xl px-5 py-12 text-sm text-muted-foreground">No theses in this department.</div>;
   const max = Math.max(...data.years.map((y) => data.thesesByYear[y].length));
   return (
     <div className="mx-auto max-w-6xl px-5 py-12">

@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { useState, useMemo } from "react";
 import { PageLoader } from "@/components/ui/PageLoader";
 
@@ -9,7 +9,7 @@ export const Route = createFileRoute("/concepts/")({
 });
 
 function ConceptsPage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const [q, setQ] = useState("");
   const sorted = useMemo(() => {
     if (!data) return [];

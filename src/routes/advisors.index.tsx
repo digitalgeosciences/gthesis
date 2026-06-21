@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { User } from "lucide-react";
 import { PageLoader } from "@/components/ui/PageLoader";
 
@@ -15,7 +15,7 @@ export const Route = createFileRoute("/advisors/")({
 });
 
 function AdvisorsPage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const [sort, setSort] = useState<"count" | "az">("count");
 
   const sorted = useMemo(() => {

@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { ThesisCard } from "@/components/thesis/ThesisCard";
 import { ArrowRight, Shuffle, Network, Search as SearchIcon } from "lucide-react";
 import { useNavigate } from "@tanstack/react-router";
@@ -9,7 +9,7 @@ import { PageLoader } from "@/components/ui/PageLoader";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "GeoThesis — Geosciences Research Archive" },
+      { title: "GeoThesis — Research Archive" },
       { name: "description", content: "Explore 200+ KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science." },
     ],
   }),
@@ -17,7 +17,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Home() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const navigate = useNavigate();
   const config = useConfig();
 
@@ -54,7 +54,7 @@ function Home() {
       {/* Hero */}
       <section className="border-b rule">
         <div className="mx-auto max-w-6xl px-5 py-10 sm:py-16">
-          <p className="font-mono text-xs uppercase tracking-widest text-[var(--teal)]">KFUPM · Geosciences Archive</p>
+          <p className="font-mono text-xs uppercase tracking-widest text-[var(--teal)]">KFUPM · Theses Archive</p>
           <h1 className="mt-3 max-w-3xl font-display text-5xl leading-[1.05] tracking-tight text-foreground sm:text-6xl">
             {config?.home.heroHeading}
           </h1>

@@ -128,6 +128,52 @@ export function buildIndex(raw: Record<string, Entry>): ContentIndex {
   return { bySlug, theses, concepts, thesesByYear, thesesByConcept, years, advisors, advisorsBySlug };
 }
 
+/**
+ * Returns a ContentIndex narrowed to a single department. Every collection —
+ * including `bySlug` — is recomputed from the department's theses, so consumers
+ * that iterate `bySlug` (e.g. KnowledgeGraph) respect the filter. Detail pages
+ * read the full, unfiltered index via `useContentData`, so they are unaffected.
+ * `department === "all"` returns the original index unchanged.
+ */
+export function filterIndexByDepartment(index: ContentIndex, department: string): ContentIndex {
+  if (department === "all") return index;
+
+  const theses = index.theses.filter((t) => t.department === department);
+
+  const thesesByYear: Record<number, Entry[]> = {};
+  const thesesByConcept: Record<string, Entry[]> = {};
+  for (const t of theses) {
+    if (t.year) (thesesByYear[t.year] ||= []).push(t);
+    for (const l of t.links) {
+      if (index.bySlug[l]?.type === "concept") (thesesByConcept[l] ||= []).push(t);
+    }
+  }
+
+  const years = Object.keys(thesesByYear).map(Number).sort((a, b) => a - b);
+  const concepts = index.concepts.filter((c) => (thesesByConcept[c.slug]?.length ?? 0) > 0);
+
+  const advisors = buildAdvisorIndex(theses);
+  const advisorsBySlug: Record<string, AdvisorProfile> = {};
+  for (const a of advisors) advisorsBySlug[a.slug] = a;
+
+  const bySlug: Record<string, Entry> = {};
+  for (const t of theses) bySlug[t.slug] = t;
+  for (const c of concepts) bySlug[c.slug] = c;
+
+  return { bySlug, theses, concepts, thesesByYear, thesesByConcept, years, advisors, advisorsBySlug };
+}
+
+/** Distinct department values present in the index, sorted by thesis count desc. */
+export function departmentsByCount(index: ContentIndex): Array<{ name: string; count: number }> {
+  const counts = new Map<string, number>();
+  for (const t of index.theses) {
+    if (t.department) counts.set(t.department, (counts.get(t.department) ?? 0) + 1);
+  }
+  return [...counts.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count);
+}
+
 export function jaccard(a: string[], b: string[]): number {
   const A = new Set(a);
   const B = new Set(b);

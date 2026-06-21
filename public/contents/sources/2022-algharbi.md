@@ -4,7 +4,7 @@ id: "142222"
 title: "IMPROVING THE QUALITY OF DRILLING DATA"
 author: "SALEM HAMOUD ALGHARBI"
 year: 2022
-department: "Petroleum Engineering Department"
+department: "Petroleum Engineering"
 degree: "PhD"
 supervisor: "Dr. Abdulazeez Abdulraheem"
 committee_members: []

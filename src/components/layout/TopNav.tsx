@@ -3,6 +3,7 @@ import { Link } from "@tanstack/react-router";
 import { Moon, Sun, Search as SearchIcon, Network, Layers, X } from "lucide-react";
 import { useTheme } from "@/lib/theme";
 import { useConfig } from "@/lib/use-config";
+import { DepartmentSelect } from "./DepartmentSelect";
 
 export function TopNav({ onOpenSearch }: { onOpenSearch: () => void }) {
   const { theme, toggle } = useTheme();
@@ -32,6 +33,7 @@ export function TopNav({ onOpenSearch }: { onOpenSearch: () => void }) {
             ))}
           </nav>
           <div className="ml-auto flex items-center gap-2">
+            <DepartmentSelect className="hidden sm:block" />
             <button
               onClick={onOpenSearch}
               className="flex items-center gap-2 rounded-md border rule bg-card px-3 py-1.5 text-xs text-muted-foreground hover:border-[var(--teal-soft)] hover:text-foreground"
@@ -68,6 +70,7 @@ export function TopNav({ onOpenSearch }: { onOpenSearch: () => void }) {
         {/* Mobile dropdown */}
         {mobileOpen && (
           <nav className="border-t rule bg-background px-5 py-3 md:hidden">
+            <DepartmentSelect className="mb-3 w-full" />
             <ul className="flex flex-col gap-1">
               {navLinks.map((link) => (
                 <li key={link.to}>
