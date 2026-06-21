@@ -4,7 +4,7 @@ id: "139083"
 title: "STOCHASTIC METHODS FOR SURFACTANT-POLYMER FLOODING AND WELL PLACEMENT OPTIMIZATION"
 author: "HASSAAN AHMED"
 year: 2013
-department: "Petroleum Engineering Department"
+department: "Petroleum Engineering"
 degree: "MS"
 supervisor: "Dr. ABEEE A. AWOTUNDE"
 committee_members: []

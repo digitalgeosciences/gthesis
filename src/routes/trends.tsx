@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo } from "react";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { PageLoader } from "@/components/ui/PageLoader";
 import { buildConceptDebuts } from "@/lib/content";
 import { ConceptTrendsChart } from "@/components/trends/ConceptTrendsChart";
@@ -16,7 +16,7 @@ export const Route = createFileRoute("/trends")({
 });
 
 function TrendsPage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const debuts = useMemo(() => (data ? buildConceptDebuts(data) : []), [data]);
 
   if (!data) return <PageLoader />;

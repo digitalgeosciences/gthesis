@@ -12,6 +12,7 @@ import appCss from "../styles.css?url";
 import { AppShell } from "@/components/layout/AppShell";
 import { ConfigStyleInjector } from "@/components/ConfigStyleInjector";
 import { useConfig } from "@/lib/use-config";
+import { DepartmentProvider } from "@/lib/department";
 
 function NotFoundComponent() {
   return (
@@ -67,7 +68,7 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "GeoThesis — Geosciences Research Archive" },
+      { title: "GeoThesis — Research Archive" },
       { name: "description", content: "Explore KFUPM graduate theses across petroleum geology, geophysics, reservoir engineering, hydrogeology, and environmental science." },
       { property: "og:title", content: "GeoThesis" },
       { property: "og:description", content: "A curated archive of KFUPM graduate research in the earth sciences." },
@@ -113,9 +114,11 @@ function RootComponent() {
   return (
     <>
       <ConfigStyleInjector />
-      <AppShell>
-        <Outlet />
-      </AppShell>
+      <DepartmentProvider>
+        <AppShell>
+          <Outlet />
+        </AppShell>
+      </DepartmentProvider>
     </>
   );
 }

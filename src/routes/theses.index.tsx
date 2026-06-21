@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { useContentData } from "@/lib/use-content-data";
+import { useFilteredContent } from "@/lib/use-content-data";
 import { ThesisCard } from "@/components/thesis/ThesisCard";
 import { Search } from "lucide-react";
 import { PageLoader } from "@/components/ui/PageLoader";
@@ -22,7 +22,7 @@ export const Route = createFileRoute("/theses/")({
 const PAGE_SIZE = 18;
 
 function ThesesPage() {
-  const data = useContentData();
+  const data = useFilteredContent();
   const { supervisor: supervisorParam, person: personParam } = Route.useSearch();
   const [q, setQ] = useState("");
   const [degree, setDegree] = useState<string>("all");
