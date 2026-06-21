@@ -1,5 +1,6 @@
-import { useEffect, useState } from "react";
-import { buildIndex, type ContentIndex, type Entry } from "./content";
+import { useEffect, useMemo, useState } from "react";
+import { buildIndex, filterIndexByDepartment, type ContentIndex, type Entry } from "./content";
+import { useDepartment } from "./department";
 
 let cached: ContentIndex | null = null;
 let inflight: Promise<ContentIndex> | null = null;
@@ -27,6 +28,19 @@ export function useContentData(): ContentIndex | null {
     if (!cached) load().then(setData);
   }, []);
   return data;
+}
+
+/**
+ * Department-aware view of the content index. Returns the full index when the
+ * selected department is "all"; otherwise a recomputed, narrowed index.
+ */
+export function useFilteredContent(): ContentIndex | null {
+  const data = useContentData();
+  const { department } = useDepartment();
+  return useMemo(
+    () => (data ? filterIndexByDepartment(data, department) : null),
+    [data, department],
+  );
 }
 
 const bodyCache = new Map<string, string>();
