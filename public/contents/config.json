@@ -2,7 +2,7 @@
   "brand": {
     "name": "GeoThesis",
     "subtitle": "",
-    "tagline": "A curated archive of graduate theses in Geosciences Department, KFUPM.",
+    "tagline": "A curated archive of graduate theses at KFUPM.",
     "institution": "King Fahd University of Petroleum and Minerals",
     "siteTitle": "GeoThesis",
     "siteDescription": "Explore graduate theses across geoscience topics."
@@ -18,7 +18,7 @@
     ]
   },
   "footer": {
-    "tagline": "A curated archive of graduate theses in Geosciences Department, KFUPM.",
+    "tagline": "A curated archive of graduate theses at KFUPM.",
     "links": [
       { "label": "About",    "to": "/about" },
       { "label": "Graph",    "to": "/graph" },
