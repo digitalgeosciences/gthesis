@@ -3,7 +3,7 @@ type: terminology
 title: "Imaginary Conductivity"
 aliases:
   - "imaginary conductivity"
-  - "sigma""
+  - 'sigma"'
 canonical: true
 definition: "The imaginary part of complex conductivity (sigma\")."
 units: "mS/cm"

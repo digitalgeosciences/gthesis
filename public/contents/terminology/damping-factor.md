@@ -2,7 +2,7 @@
 type: terminology
 title: "Damping Factor"
 aliases:
-  - "$eta$"
+  - '$\beta$'
   - "lambda"
 canonical: true
 definition: "a non-negative value added to the diagonal of the Hessian matrix to ensure it is positive-definite."

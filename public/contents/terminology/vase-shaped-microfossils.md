@@ -4,8 +4,8 @@ title: "Vase Shaped Microfossils"
 aliases:
   - "VSMs"
 canonical: true
-definition: "Vase-like vesicles with a well-defined aperture at one end, ranging in size from 20 to 300 \mu m."
-units: "micrometers (\mu m)"
+definition: 'Vase-like vesicles with a well-defined aperture at one end, ranging in size from 20 to 300 $\mu m$.'
+units: 'micrometers ($\mu m$)'
 related_techniques:
   - "petrography"
   - "microfacies-analysis"

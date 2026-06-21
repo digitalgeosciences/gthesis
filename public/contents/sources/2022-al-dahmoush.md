@@ -19,7 +19,7 @@ keywords:
   - Stick Slip
   - Vibration
   - Rotary Steerable System (RSS)
-  - , Logging While Drilling (LWD)
+  - Logging While Drilling (LWD)
   - abrasive sandstone
   - BHA optimization
   - transient simulation

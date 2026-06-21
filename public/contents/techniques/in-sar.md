@@ -7,7 +7,7 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "ground surface displacement ($\Delta d$) in cm"
+output: 'ground surface displacement ($\Delta d$) in cm'
 tags:
   - technique/in-sar
   - theme/remote-sensing

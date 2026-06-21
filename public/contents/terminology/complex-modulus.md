@@ -2,7 +2,9 @@
 type: terminology
 title: "Complex Modulus"
 aliases:
-  - "G'", "storage modulus", "loss modulus""
+  - "G'"
+  - "storage modulus"
+  - "loss modulus"
 canonical: true
 definition: "A measure of the stiffness and energy storage capacity of a material in dynamic rheology."
 units: "Pascal (Pa)"

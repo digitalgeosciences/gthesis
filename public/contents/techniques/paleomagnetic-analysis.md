@@ -6,7 +6,7 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "inclination, declination, and $\gamma_{95}$ values"
+output: 'inclination, declination, and $\gamma_{95}$ values'
 tags:
   - technique/paleomagnetic-analysis
   - theme/paleomagnetism

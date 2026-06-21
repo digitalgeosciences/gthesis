@@ -4,8 +4,8 @@ title: "Shuram Isotope Excursion"
 aliases:
   - "SIE"
 canonical: true
-definition: "The largest negative isotopic \delta13Ccarb excursion in the history of the earth with values as low as -12\textium."
-units: "parts per thousand (\text{°})"
+definition: 'The largest negative isotopic $\delta^{13}C_{carb}$ excursion in the history of the earth with values as low as -12‰.'
+units: 'parts per thousand (‰)'
 related_techniques:
   - "stable-isotope-analysis"
 tags:

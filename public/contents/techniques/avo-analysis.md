@@ -7,7 +7,7 @@ aliases:
 canonical: true
 equipment: "Not stated in source"
 software: "Not stated in source"
-output: "elastic parameter estimates ($\beta/\alpha$, $\Delta\rho/\rho$, $\Delta\beta/\beta$)"
+output: 'elastic parameter estimates ($\beta/\alpha$, $\Delta\rho/\rho$, $\Delta\beta/\beta$)'
 tags:
   - technique/avo-analysis
   - theme/rock-physics-modeling

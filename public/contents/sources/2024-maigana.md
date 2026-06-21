@@ -22,7 +22,7 @@ keywords:
   - geomechanical modeling
   - Moki formation
   - seal integrity
-  - CO storage
+  - CO₂ storage
   - Upper Manganui Formation
   - geomodeling
   - fault stability
@@ -69,7 +69,7 @@ tags:
 status: ingested
 ---
 
-# Assessment of submarine channels for CO storage in the deep Taranaki Basin, New Zealand.
+# Assessment of submarine channels for CO₂ storage in the deep Taranaki Basin, New Zealand.
 
 **Summary**: The thesis evaluates the feasibility of using Miocene submarine channels in the Moki Formation within the Taranaki Basin as a site for CO2 storage. By integrating 3D seismic data, well logs, and geomechanical modeling, it characterizes reservoir properties (porosity/permeability) and seal integrity to determine suitability for carbon capture and storage.
 
@@ -85,7 +85,7 @@ The lack of specific research on submarine channels for Carbon Capture and Stora
 - Carry out an integrated seal characterization and potential analysis
 - Produce a 3D model of the Facies and Properties of the reservoir and the seal
 - Characterize the reservoir properties of the submarine channels within the Moki Formation.
-- Evaluate the integrity and effectiveness of the Upper Manganui Formation as a caprock for CO storage.
+- Evaluate the integrity and effectiveness of the Upper Manganui Formation as a caprock for CO₂ storage.
 - Perform geomechanical modeling to assess fault stability and potential for leakage.
 
 ## Methods
@@ -105,10 +105,10 @@ Data includes seismic data from the Tui-3D field, well logs (Gamma Ray, porosity
 - The study identified only five faults in the Tui Field, most with minor displacements, suggesting low risk for leakage near wellbores. ([[2024-maigana|Maigana, 2024, p. 45]])
 - RMS attribute maps showed high amplitude (blue/black) within channel intervals and overbank sand deposits. ([[2024-maigana|Maigana, 2024, p. 50]])
 - Chaos attributes identified non-consistent patterns to highlight discontinuities like faults and channels. ([[2024-maigana|Maigana, 2024, p. 50]])
-- Water saturation in the Moki Formation averages around 85%, indicating a largely water-wet system favorable for CO injectivity. ([[2024-maigana|Maigana, 2024, p. 70]])
+- Water saturation in the Moki Formation averages around 85%, indicating a largely water-wet system favorable for CO₂ injectivity. ([[2024-maigana|Maigana, 2024, p. 70]])
 - The Upper Manganui Formation (seal) shows an average effective porosity of 4.4% and a permeability of 0.18 mD, confirming its role as an effective caprock. ([[2024-maigana|Maigana, 2024, p. 71]])
 - Water saturation in the seal is high (98%), typical of shaly formations with high clay content. ([[2024-maigana|Maigana, 2024, p. 71]])
-- Fault stability analysis showed a maximum slip tendency of 0.11%, indicating that faults are stable and unlikely to act as pathways for CO migration. ([[2024-maigana|Maigana, 2024, p. 71]])
+- Fault stability analysis showed a maximum slip tendency of 0.11%, indicating that faults are stable and unlikely to act as pathways for CO₂ migration. ([[2024-maigana|Maigana, 2024, p. 71]])
 - The distance to failure for faults was calculated at approximately 220 bar (3190.84 psi), significantly higher than the expected injection pressures. ([[2024-maigana|Maigana, 2024, p. 71]])
 - Ten identified submarine channels were quantified, with total volumes reaching 1.63 billion m³ of rock. ([[2024-maigana|Maigana, 2024, p. 82]])
 - The theoretical storage capacity for the identified channels is estimated at 22,790,087 million tonnes (Mt) when applying a capacity coefficient of 1.4%. ([[2024-maigana|Maigana, 2024, p. 83]])
@@ -119,7 +119,7 @@ Lack of physical core samples for the seal, which limited the study's ability to
 
 ## Recommendations and Future Work
 
-More logging within the channel intervals is recommended to better understand internal heterogeneity, along with more data integration and dynamic modeling of CO behavior during injection.
+More logging within the channel intervals is recommended to better understand internal heterogeneity, along with more data integration and dynamic modeling of CO₂ behavior during injection.
 
 ## Related Concepts
 

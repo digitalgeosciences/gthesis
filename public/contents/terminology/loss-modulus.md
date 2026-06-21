@@ -2,7 +2,7 @@
 type: terminology
 title: "Loss Modulus"
 aliases:
-  - "G""
+  - 'G"'
 canonical: true
 definition: "The viscous component of the material's response to deformation."
 units: "Pa"
