@@ -12,6 +12,7 @@ import appCss from "../styles.css?url";
 import { AppShell } from "@/components/layout/AppShell";
 import { ConfigStyleInjector } from "@/components/ConfigStyleInjector";
 import { useConfig } from "@/lib/use-config";
+import { DepartmentProvider } from "@/lib/department";
 
 function NotFoundComponent() {
   return (
@@ -113,9 +114,11 @@ function RootComponent() {
   return (
     <>
       <ConfigStyleInjector />
-      <AppShell>
-        <Outlet />
-      </AppShell>
+      <DepartmentProvider>
+        <AppShell>
+          <Outlet />
+        </AppShell>
+      </DepartmentProvider>
     </>
   );
 }
